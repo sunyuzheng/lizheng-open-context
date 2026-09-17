@@ -1,7 +1,7 @@
 ---
 id: "circle-35827532"
 title: "如何获得与能力相称的影响力：蔡蔡拆解 Daniel Priestley 的The Key Person of Influence"
-author: "Yuzheng Sun"
+author: "AI"
 source_type: "community-post"
 source_url: "https://www.superlinear.academy/c/recording/daniel-priestley-kpi"
 published_at: "2026-08-26T02:21:15.784Z"
@@ -15,7 +15,21 @@ rights_scope: "first-party"
 license: "CC-BY-4.0"
 third_party_exclusions: true
 contact_data_redacted: true
+publisher: "Yuzheng Sun"
+original_author: "Yuzheng Sun and speakers as attributed in the source"
+content_origin: "ai-synthesis-of-mixed-sources"
+generation_method: "ai-written"
+evidence_role: "secondary-synthesis"
+yuzheng_stance_weight: "secondary-only"
+attribution_note: "这篇已核对为对话／回放伴读，synthesis 部分由 AI 整理，不是立正亲笔或完整逐字稿；原始引语、嘉宾、社区提问与立正发言各归原说话人。归纳与连接不能替代原始来源。"
+source_family: "https://www.superlinear.academy/c/recording/daniel-priestley-kpi"
+language: "zh"
+source_context: "Reviewed companion article around a replay or conversation; synthesis by AI, underlying contributions attributed separately."
 ---
+
+<!-- provenance:start -->
+> Attribution / 归属：这篇已核对为对话／回放伴读，synthesis 部分由 AI 整理，不是立正亲笔或完整逐字稿；原始引语、嘉宾、社区提问与立正发言各归原说话人。归纳与连接不能替代原始来源。
+<!-- provenance:end -->
 
 > 原文：[如何获得与能力相称的影响力：蔡蔡拆解 Daniel Priestley 的The Key Person of Influence](https://www.superlinear.academy/c/recording/daniel-priestley-kpi) · 发布于 2026-08-26 · 原始空间公开可见。本文保留发表时语境；其中第三方引文、发言、链接与商标不随正文重新授权。
 

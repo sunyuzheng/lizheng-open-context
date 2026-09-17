@@ -4,23 +4,18 @@ This repository separates software, original content, public metadata, and third
 
 ## Yuzheng-authored public content — CC BY 4.0
 
-Files whose front matter contains both:
+Files explicitly marked with license: CC-BY-4.0 are offered under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) for the maintainer-controlled content identified by their rights_scope. The license never extends to excluded third-party contributions.
 
-```yaml
-author: Yuzheng Sun
-license: CC-BY-4.0
-```
-
-are licensed under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
+Authorship and permission are separate. AI-written synthesis uses author: AI and publisher: Yuzheng Sun; AI translation names AI as the writer/translator and Yuzheng as the original speaker. This does not claim that AI is a legal rights holder, that every AI output has copyright, or that Yuzheng personally wrote or endorsed every sentence.
 
 Attribution should include, when practical:
 
-- author: Yuzheng Sun / 立正;
+- original author/speaker: Yuzheng Sun / 立正 when established; retain the actual writer/translator and any AI-generation label;
 - the item title;
 - the canonical source URL or this repository;
 - an indication if the material was changed.
 
-This category includes the repository's original context materials, the author-owned framework reference derived from the community course and book *真本事*, Yuzheng-authored Superlinear posts and selected comments, and first-party video transcripts that are explicitly marked with that rights scope.
+This category includes the repository's explicitly labeled AI context syntheses and AI translations of included solo videos, the author-owned framework reference derived from the community course and book *真本事*, Yuzheng-authored Superlinear posts and selected comments, and first-party video transcripts that are explicitly marked with that rights scope.
 
 ## Public metadata — CC0 1.0
 
@@ -41,6 +36,10 @@ The licenses above do not cover:
 - rights of publicity, privacy, endorsement, trademark, or passing off.
 
 The author-owned framework text in `context/zhenbenshi-frameworks.md` and the reading map in `context/zhenbenshi-reading-map.md` are released by Yuzheng Sun under CC BY 4.0. They are not the publisher's formatted edition.
+
+## Selected English community references
+
+The 50 published English items selected in config/english-source-policy.json preserve both the original author and the account that published or reposted the text. The 39 items not established as Yuzheng originals use LicenseRef-Original-Rights-Retained. This is a rights notice, not a new license grant: underlying author/source terms remain in force. They are not covered by Yuzheng's CC BY grant, the repository MIT license, or the catalog metadata dedication. Inclusion and translation do not transfer authorship or imply Yuzheng's endorsement.
 
 ## No impersonation or endorsement
 

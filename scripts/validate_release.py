@@ -8,6 +8,7 @@ import hashlib
 import json
 import re
 import sys
+from datetime import datetime
 from pathlib import Path
 from urllib.parse import unquote
 
@@ -57,6 +58,214 @@ COMMENT_SENSITIVE_PATTERN = re.compile(
     r"(?:跟|和|与).{0,12}(?:聊完|聊天|交流))",
     re.IGNORECASE,
 )
+PROVENANCE_FIELDS = (
+    "author", "publisher", "original_author", "original_source_url", "original_published_at",
+    "content_origin", "generation_method", "evidence_role", "yuzheng_stance_weight",
+    "attribution_note", "source_family", "source_context", "language", "license",
+    "source_video_id", "generated_at", "translation_publication_status", "original_language",
+)
+REQUIRED_PROVENANCE = (
+    "content_origin", "generation_method", "evidence_role", "yuzheng_stance_weight", "attribution_note",
+)
+AI_SYNTHESIS_ORIGINS = {"ai-synthesis", "ai-synthesis-of-mixed-sources"}
+
+
+def read_markdown(path: Path) -> tuple[dict, str]:
+    text = path.read_text(encoding="utf-8")
+    label = str(path.resolve().relative_to(ROOT.resolve()))
+    match = re.match(r"\A---\n(.*?)\n---\n", text, re.S)
+    if not match:
+        raise ValueError(f"{label}: missing front matter")
+    meta = {}
+    for line in match[1].splitlines():
+        if not line.strip():
+            continue
+        if ":" not in line:
+            raise ValueError(f"{label}: invalid front matter")
+        key, value = line.split(":", 1)
+        key, value = key.strip(), value.strip()
+        if key in meta:
+            raise ValueError(f"{label}: duplicate front matter key {key}")
+        try:
+            meta[key] = json.loads(value)
+        except json.JSONDecodeError:
+            meta[key] = value
+    body = re.sub(r"<!-- provenance:start -->.*?<!-- provenance:end -->", "", text[match.end():], flags=re.S)
+    return meta, body.lstrip()
+
+
+def authorized_publisher_text(row: dict) -> bool:
+    if row.get("rights_scope") != "first-party":
+        return False
+    if row.get("author") == "Yuzheng Sun":
+        return True
+    return (
+        row.get("author") == "AI"
+        and row.get("publisher") == "Yuzheng Sun"
+        and row.get("content_origin") in AI_SYNTHESIS_ORIGINS
+        and row.get("generation_method") == "ai-written"
+        and row.get("evidence_role") == "secondary-synthesis"
+        and row.get("yuzheng_stance_weight") == "secondary-only"
+    )
+
+
+def validate_provenance(row: dict, label: str, errors: list[str], *, full_text: bool) -> None:
+    for field in REQUIRED_PROVENANCE:
+        if not row.get(field):
+            errors.append(f"{label}: missing provenance field {field}")
+    if full_text:
+        for field in ("author", "publisher", "original_author", "source_family", "language", "license"):
+            if not row.get(field):
+                errors.append(f"{label}: missing provenance field {field}")
+    is_synthesis = (
+        (row.get("author") == "AI" and row.get("generation_method") != "ai-translation")
+        or row.get("content_origin") in AI_SYNTHESIS_ORIGINS
+        or row.get("generation_method") == "ai-written"
+        or row.get("evidence_role") == "secondary-synthesis"
+    )
+    if is_synthesis and not (
+        row.get("author") == "AI" and row.get("publisher") == "Yuzheng Sun"
+        and row.get("content_origin") in AI_SYNTHESIS_ORIGINS
+        and row.get("generation_method") == "ai-written"
+        and row.get("evidence_role") == "secondary-synthesis"
+        and row.get("yuzheng_stance_weight") == "secondary-only"
+    ):
+        errors.append(f"{label}: AI synthesis must retain AI authorship and secondary-only evidence")
+    third_party = row.get("content_origin") == "third-party-community" or row.get("rights_scope") == "third-party-reference"
+    if third_party:
+        if row.get("yuzheng_stance_weight") != "not-evidence":
+            errors.append(f"{label}: third-party content cannot establish Yuzheng's stance")
+        if full_text and row.get("license") != "LicenseRef-Original-Rights-Retained":
+            errors.append(f"{label}: third-party content must retain original rights, not a repository CC license")
+        if row.get("author") != row.get("original_author") or row.get("author") in {"AI", "Yuzheng Sun"}:
+            errors.append(f"{label}: third-party author attribution is inconsistent")
+    if row.get("content_origin") == "yuzheng-derivative":
+        if row.get("original_author") != "Yuzheng Sun" or row.get("yuzheng_stance_weight") != "verify-original":
+            errors.append(f"{label}: Yuzheng derivative must defer to its original source")
+        if not row.get("original_source_url") or row.get("source_family") != row.get("original_source_url"):
+            errors.append(f"{label}: derivative lacks its original source family")
+    if not full_text or row.get("content_origin") == "metadata-only":
+        if row.get("yuzheng_stance_weight") != "not-evidence" or row.get("evidence_role") != "discovery-only":
+            errors.append(f"{label}: metadata-only source cannot establish a stance")
+        if full_text:
+            errors.append(f"{label}: metadata-only source has full text")
+
+
+def validate_catalog_bindings(catalogs: list[tuple[str, list[dict]]], errors: list[str]) -> None:
+    bound_files: set[str] = set()
+    metadata_cache: dict[str, dict] = {}
+    for name, rows in catalogs:
+        ids = [row.get("id") for row in rows]
+        if len(ids) != len(set(ids)):
+            errors.append(f"{name}: duplicate source IDs")
+        for row in rows:
+            label = f"{name}:{row.get('id')}"
+            included = bool(row.get("full_text_included") or row.get("transcript_included"))
+            validate_provenance(row, label, errors, full_text=included)
+            relative = row.get("corpus_path")
+            if bool(relative) != included:
+                errors.append(f"{label}: full-text flag/corpus binding mismatch")
+            if not relative:
+                continue
+            path = (ROOT / relative).resolve()
+            try:
+                path.relative_to((ROOT / "corpus").resolve())
+            except ValueError:
+                errors.append(f"{label}: corpus path escapes corpus directory")
+                continue
+            bound_files.add(str(path.relative_to(ROOT.resolve())))
+            if not path.is_file():
+                errors.append(f"{label}: bound corpus file is missing: {relative}")
+                continue
+            meta = metadata_cache.setdefault(relative, read_markdown(path)[0])
+            for field in ("id", "title", "published_at", "rights_scope", *PROVENANCE_FIELDS):
+                if row.get(field) != meta.get(field):
+                    errors.append(f"{label}: catalog/file attribution mismatch for {field}")
+            for field in ("speaker_classification", "review_status", "third_party_exclusions", "cue_alignment_status"):
+                if field in row and row.get(field) != meta.get(field):
+                    errors.append(f"{label}: catalog/file evidence mismatch for {field}")
+            if row.get("url") != meta.get("source_url"):
+                errors.append(f"{label}: catalog/file source URL mismatch")
+    actual_files = {str(p.relative_to(ROOT)) for p in (ROOT / "corpus").rglob("*.md")}
+    for unexpected in sorted(actual_files - bound_files):
+        errors.append(f"{unexpected}: unexpected corpus file without a catalog binding")
+    for relative, meta in metadata_cache.items():
+        validate_provenance(meta, relative, errors, full_text=True)
+
+
+def validate_english_sources(rows: list[dict], policy: dict, errors: list[str]) -> None:
+    allowed = policy.get("included_post_ids", [])
+    if len(allowed) != len(set(allowed)):
+        errors.append("English source policy has duplicate IDs")
+    expected_ids = {f"circle-{identity}" for identity in allowed}
+    if {row.get("id") for row in rows} != expected_ids or len(rows) != len(expected_ids):
+        errors.append("English source policy/catalog exact ID mismatch")
+    if policy.get("space_id") != 2413136 or policy.get("source_visibility") != "public":
+        errors.append("English source policy must identify the reviewed public English space")
+    expected_files = set()
+    for row in rows:
+        label = str(row.get("id"))
+        if row.get("language") != "en" or not str(row.get("url", "")).startswith("https://www.superlinear.academy/c/ai-resources-en/"):
+            errors.append(f"{label}: unexpected English source language or URL")
+        if not row.get("full_text_included") or not row.get("corpus_path"):
+            errors.append(f"{label}: English source lacks its reviewed corpus binding")
+            continue
+        relative = str(row["corpus_path"])
+        if relative.startswith("corpus/english-community/"):
+            expected_files.add(relative)
+        elif not relative.startswith("corpus/community-posts/") or not authorized_publisher_text(row):
+            errors.append(f"{label}: invalid shared English corpus binding")
+        path = ROOT / relative
+        if path.is_file():
+            meta, _ = read_markdown(path)
+            if meta.get("source_visibility") != "public":
+                errors.append(f"{label}: English corpus source is not public")
+    actual_files = {str(p.relative_to(ROOT)) for p in (ROOT / "corpus/english-community").glob("*.md")}
+    if expected_files != actual_files:
+        errors.append("English source catalog/files mismatch")
+
+
+def validate_translations(rows: list[dict], videos: list[dict], allowlist: set[str], errors: list[str]) -> None:
+    video_by_id = {row.get("video_id"): row for row in videos}
+    source_ids = [row.get("source_video_id") for row in rows]
+    if len(source_ids) != len(set(source_ids)):
+        errors.append("English translations contain duplicate source videos")
+    for row in rows:
+        label = str(row.get("id"))
+        identity = row.get("source_video_id")
+        video = video_by_id.get(identity, {})
+        if identity not in allowlist or not video.get("transcript_included"):
+            errors.append(f"{label}: translation source is not an included allowlisted solo video")
+        url = f"https://www.youtube.com/watch?v={identity}"
+        if row.get("id") != f"youtube-{identity}-en-ai" or any(row.get(k) != url for k in ("url", "source_family", "original_source_url")):
+            errors.append(f"{label}: translation source identity/family mismatch")
+        expected = {
+            "author": "AI", "publisher": "Yuzheng Sun", "original_author": "Yuzheng Sun",
+            "source_type": "video-translation", "content_origin": "ai-translation",
+            "generation_method": "ai-translation", "evidence_role": "translation",
+            "yuzheng_stance_weight": "verify-original", "language": "en",
+            "rights_scope": "first-party-derivative", "license": "CC-BY-4.0",
+            "translation_publication_status": "repository-reading-aid-not-platform-publication",
+            "third_party_exclusions": True,
+        }
+        for key, value in expected.items():
+            if row.get(key) != value:
+                errors.append(f"{label}: translation attribution mismatch for {key}")
+        generated_at = row.get("generated_at")
+        try:
+            if not isinstance(generated_at, str):
+                raise ValueError("missing generation date")
+            datetime.fromisoformat(generated_at.replace("Z", "+00:00"))
+        except ValueError:
+            errors.append(f"{label}: missing or invalid translation generation date")
+        if not row.get("published_at") or row.get("published_at") != video.get("published_at"):
+            errors.append(f"{label}: translation must preserve original video publication date")
+        if not row.get("full_text_included") or not str(row.get("corpus_path", "")).startswith("corpus/english-translations/"):
+            errors.append(f"{label}: translation lacks its corpus binding")
+    expected_files = {row.get("corpus_path") for row in rows}
+    actual_files = {str(p.relative_to(ROOT)) for p in (ROOT / "corpus/english-translations").glob("*.md")}
+    if expected_files != actual_files:
+        errors.append("English translation catalog/files mismatch")
 
 
 def read_jsonl(path: Path) -> list[dict]:
@@ -156,6 +365,20 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     community_posts_catalog_path = ROOT / "catalog" / "community-posts.jsonl"
     community_comments_catalog_path = ROOT / "catalog" / "community-comments.jsonl"
     video_catalog_path = ROOT / "catalog" / "videos.jsonl"
+    english_catalog_path = ROOT / "catalog" / "english-community.jsonl"
+    translation_catalog_path = ROOT / "catalog" / "english-translations.jsonl"
+    english_policy_path = ROOT / "config" / "english-source-policy.json"
+    if not english_catalog_path.is_file() or not english_policy_path.is_file():
+        errors.append("English source catalog or reviewed policy is missing")
+        english_rows, english_policy = [], {}
+    else:
+        english_rows = read_jsonl(english_catalog_path)
+        english_policy = read_json_object_without_duplicate_keys(english_policy_path)
+    if not translation_catalog_path.is_file():
+        errors.append("catalog/english-translations.jsonl is missing")
+        translation_rows = []
+    else:
+        translation_rows = read_jsonl(translation_catalog_path)
     if not kb_catalog_path.is_file():
         errors.append("catalog/knowledge-bank.jsonl is missing")
         kb_rows = []
@@ -195,9 +418,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         rights_overrides = read_json_object_without_duplicate_keys(overrides_path)
 
     for row in kb_rows:
-        if row.get("full_text_included") and (
-            row.get("author") != "Yuzheng Sun" or row.get("rights_scope") != "first-party"
-        ):
+        if row.get("full_text_included") and not authorized_publisher_text(row):
             errors.append(f"{row.get('id')}: non-first-party Knowledge Bank full text")
         if not str(row.get("url", "")).startswith("https://www.superlinear.academy/"):
             errors.append(f"{row.get('id')}: unexpected Knowledge Bank source URL")
@@ -212,7 +433,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         for row in rows:
             if not str(row.get("id", "")).startswith(id_prefix):
                 errors.append(f"{row.get('id')}: unexpected {label} ID")
-            if row.get("author") != "Yuzheng Sun" or row.get("rights_scope") != "first-party":
+            if not authorized_publisher_text(row):
                 errors.append(f"{row.get('id')}: non-first-party {label} content")
             if not row.get("full_text_included") or not row.get("corpus_path"):
                 errors.append(f"{row.get('id')}: missing {label} full text")
@@ -247,15 +468,16 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         corpus_path = ROOT / str(row.get("corpus_path") or "")
         if not corpus_path.is_file():
             continue
-        text = corpus_path.read_text(encoding="utf-8")
-        urls = URL_PATTERN.findall(text)
+        meta, body = read_markdown(corpus_path)
+        urls = URL_PATTERN.findall(body)
         source_url = str(row.get("url") or "")
-        if len(urls) != 2 or any(url != source_url for url in urls):
+        if len(urls) != 1 or any(url != source_url for url in urls) or meta.get("source_url") != source_url:
             errors.append(f"{row.get('id')}: comment contains a non-canonical or extra URL")
-        without_urls = URL_PATTERN.sub("", text)
+        without_urls = URL_PATTERN.sub("", body)
         if BARE_DOMAIN_PATTERN.search(without_urls):
             errors.append(f"{row.get('id')}: comment contains a bare domain")
-        body = text.split("\n\n", 2)[-1]
+        # Inspect the original comment after its title and canonical source note.
+        body = body.split("\n\n", 2)[-1]
         if COMMENT_SENSITIVE_PATTERN.search(body):
             errors.append(f"{row.get('id')}: comment contains sensitive-context hint")
         if body.lstrip().startswith(("“", '"')):
@@ -301,25 +523,34 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     if conflicts:
         errors.append("video allowlist conflicts with manual exclusions: " + ", ".join(conflicts))
 
-    for pattern in (ROOT / "context").glob("*.md"):
-        text = pattern.read_text(encoding="utf-8")
-        if "license: CC-BY-4.0" not in text:
-            errors.append(f"{pattern.relative_to(ROOT)}: missing content license")
-    for pattern in (ROOT / "examples").glob("*.md"):
-        text = pattern.read_text(encoding="utf-8")
-        if "author: Yuzheng Sun" not in text or "license: CC-BY-4.0" not in text:
-            errors.append(f"{pattern.relative_to(ROOT)}: missing first-party attribution/license")
+    for directory in (ROOT / "context", ROOT / "examples"):
+        for path in directory.glob("*.md"):
+            meta, _ = read_markdown(path)
+            label = str(path.relative_to(ROOT))
+            validate_provenance(meta, label, errors, full_text=True)
+            if meta.get("author") != "AI" or meta.get("content_origin") not in AI_SYNTHESIS_ORIGINS:
+                errors.append(f"{label}: repository synthesis must identify AI authorship")
+            if meta.get("license") != "CC-BY-4.0":
+                errors.append(f"{label}: missing content license")
     for directory in (
         ROOT / "corpus" / "community-posts",
         ROOT / "corpus" / "community-comments",
         ROOT / "corpus" / "videos",
     ):
         for pattern in directory.glob("*.md") if directory.exists() else []:
-            text = pattern.read_text(encoding="utf-8")
-            if "author: \"Yuzheng Sun\"" not in text or "license: \"CC-BY-4.0\"" not in text:
+            meta, _ = read_markdown(pattern)
+            if not authorized_publisher_text(meta) or meta.get("license") != "CC-BY-4.0":
                 errors.append(f"{pattern.relative_to(ROOT)}: missing first-party attribution/license")
-            if "third_party_exclusions: true" not in text:
+            if meta.get("third_party_exclusions") is not True:
                 errors.append(f"{pattern.relative_to(ROOT)}: missing third-party rights notice")
+
+    validate_english_sources(english_rows, english_policy, errors)
+    validate_translations(translation_rows, video_rows, transcript_allowlist, errors)
+    validate_catalog_bindings([
+        ("knowledge-bank", kb_rows), ("community-posts", community_post_rows),
+        ("community-comments", community_comment_rows), ("videos", video_rows),
+        ("english-community", english_rows), ("english-translations", translation_rows),
+    ], errors)
 
     return {
         "community_posts_catalog": len(community_post_rows),
@@ -336,15 +567,30 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         "video_transcripts": sum(bool(row.get("transcript_included")) for row in video_rows),
         "video_metadata_only": sum(not bool(row.get("transcript_included")) for row in video_rows),
         "known_guest_videos": sum(bool(row.get("guest_names")) for row in video_rows),
+        "english_community_catalog": len(english_rows),
+        "english_community_full_text_files": len(list((ROOT / "corpus/english-community").glob("*.md"))),
+        "english_community_original_yuzheng": sum(row.get("original_author") == "Yuzheng Sun" for row in english_rows),
+        "english_community_third_party_or_unresolved": sum(row.get("original_author") != "Yuzheng Sun" for row in english_rows),
+        "english_video_translations": len(translation_rows),
     }
 
 
 def build_manifest(stats: dict[str, int]) -> dict:
     return {
-        "schema_version": 1,
-        "snapshot_at": "2026-08-30",
+        "schema_version": 2,
+        "snapshot_at": "2026-09-17",
         "repository": "sunyuzheng/lizheng-open-context",
         "intended_visibility": "public",
+        "source_snapshots": {
+            "community_posts": "2026-09-17",
+            "knowledge_bank": "2026-09-17",
+            "english_community": "2026-09-17",
+            "community_comments": "2026-08-30",
+            "video_inventory": "2026-09-15",
+            "video_speaker_rights_review": "2026-09-17",
+            "english_translation_library": "2026-04-19",
+            "provenance_review": "2026-09-17",
+        },
         "filters": {
             "community_posts_full_text": "current Circle-search posts authored by YZ｜立正 plus one first-party Knowledge Bank item preserved from the earlier public snapshot; archived and hidden test spaces excluded; contact data redacted",
             "community_comments_full_text": "first-party comments on included Yuzheng-authored posts, from discussion spaces with at least 80 effective characters; member mentions, contact data, sensitive/private context, third-party leading quotations, and all inline links removed",
@@ -352,6 +598,9 @@ def build_manifest(stats: dict[str, int]) -> dict:
             "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
             "video_full_text": "explicit V1 solo-Yuzheng allowlist + timed transcript + no conflicting guest/mixed-speaker signal",
             "book": "author-owned complete framework reference and chapter map; no publisher-formatted assets",
+            "english_community": "exact reviewed public post allowlist; original author, publisher, AI translation and repost roles remain separate; third-party rights retained",
+            "english_video_translations": "canonical AI translations of currently allowlisted solo-Yuzheng public videos only; generation date is not a public publication date; source-family deduplication",
+            "attribution": "AI synthesis is secondary-only; third-party and metadata-only sources cannot establish Yuzheng's stance; search relevance is separate from stance authority",
         },
         "counts": stats,
         "files": [

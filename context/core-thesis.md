@@ -1,12 +1,27 @@
 ---
-id: core-thesis-v1
-title: 核心主张：做点真东西
-author: Yuzheng Sun
-source_type: context
-snapshot_at: 2026-08-29
-rights_scope: first-party
-license: CC-BY-4.0
+id: "core-thesis-v1"
+title: "核心主张：做点真东西"
+author: "AI"
+source_type: "context"
+snapshot_at: "2026-08-29"
+rights_scope: "first-party"
+license: "CC-BY-4.0"
+publisher: "Yuzheng Sun"
+original_author: "See cited sources"
+content_origin: "ai-synthesis"
+generation_method: "ai-written"
+evidence_role: "secondary-synthesis"
+yuzheng_stance_weight: "secondary-only"
+attribution_note: "本文件由 AI 撰写／综合，整理对象是立正及所引来源；不是立正亲笔、逐字原话或逐句认可的证明。请回到原文核实，不能用综合层覆盖直接来源。"
+source_family: "core-thesis-v1"
+language: "zh"
+source_context: "AI-authored repository synthesis of public sources; not a new statement by Yuzheng."
+source_url: "https://github.com/sunyuzheng/lizheng-open-context/blob/main/context/core-thesis.md"
 ---
+
+<!-- provenance:start -->
+> Attribution / 归属：本文件由 AI 撰写／综合，整理对象是立正及所引来源；不是立正亲笔、逐字原话或逐句认可的证明。请回到原文核实，不能用综合层覆盖直接来源。
+<!-- provenance:end -->
 
 # MAKE WHAT LASTS. / 做点真东西。
 

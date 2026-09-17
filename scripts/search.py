@@ -15,6 +15,14 @@ ROOT = Path(__file__).resolve().parents[1]
 FRONT_MATTER = re.compile(r"\A---\n(.*?)\n---\n", re.DOTALL)
 HAN_RUN = re.compile(r"[\u3400-\u9fff]+")
 WORD = re.compile(r"[a-zA-Z0-9][a-zA-Z0-9_+.-]+")
+PROVENANCE_FIELDS = (
+    "author", "publisher", "original_author", "original_source_url",
+    "original_published_at", "content_origin", "generation_method", "evidence_role",
+    "yuzheng_stance_weight", "attribution_note", "source_family", "source_context",
+    "language", "license", "rights_scope",
+    "source_video_id", "generated_at", "translation_publication_status", "original_language",
+    "snapshot_at",
+)
 
 
 @dataclass
@@ -29,6 +37,37 @@ class Document:
     text: str
     path: str
     content_status: str = "current"
+    author: str = ""
+    publisher: str = ""
+    original_author: str = ""
+    original_source_url: str = ""
+    original_published_at: str = ""
+    content_origin: str = ""
+    generation_method: str = ""
+    evidence_role: str = ""
+    yuzheng_stance_weight: str = "not-evidence"
+    attribution_note: str = ""
+    source_family: str = ""
+    source_context: str = ""
+    language: str = ""
+    license: str = ""
+    rights_scope: str = ""
+    source_video_id: str = ""
+    generated_at: str = ""
+    translation_publication_status: str = ""
+    original_language: str = ""
+    snapshot_at: str = ""
+
+
+def provenance_fields(meta: dict) -> dict[str, str]:
+    """Carry attribution into every chunk; absent evidence never implies endorsement."""
+    fields = {key: str(meta.get(key) or "") for key in PROVENANCE_FIELDS}
+    fields["yuzheng_stance_weight"] = str(meta.get("yuzheng_stance_weight") or "not-evidence")
+    fields["source_family"] = str(
+        meta.get("source_family") or meta.get("original_source_url")
+        or meta.get("source_url") or meta.get("url") or meta.get("id") or ""
+    )
+    return fields
 
 
 def parse_scalar(value: str):
@@ -41,7 +80,7 @@ def parse_scalar(value: str):
 
 def chunk_markdown(body: str, source_type: str, target_chars: int = 3200) -> list[tuple[str, str]]:
     """Split long sources without losing headings or timestamp links."""
-    if source_type == "video-transcript":
+    if source_type in {"video-transcript", "video-translation"}:
         sections = [body]
     else:
         sections = [part for part in re.split(r"(?m)(?=^##\s+)", body) if part.strip()]
@@ -55,7 +94,7 @@ def chunk_markdown(body: str, source_type: str, target_chars: int = 3200) -> lis
         for paragraph in paragraphs:
             if current and current_size + len(paragraph) > target_chars:
                 chunks.append((section_name, "\n\n".join(current)))
-                current = current[-1:] if source_type == "video-transcript" else []
+                current = current[-1:] if source_type in {"video-transcript", "video-translation"} else []
                 current_size = sum(len(part) for part in current)
             current.append(paragraph)
             current_size += len(paragraph)
@@ -79,6 +118,8 @@ def parse_markdown(path: Path) -> list[Document]:
     source_id = str(meta.get("id") or path.stem)
     source_type = str(meta.get("source_type") or "context")
     source_url = str(meta.get("source_url") or "")
+    # Boilerplate attribution belongs in metadata, not in lexical relevance scores.
+    body = re.sub(r"<!-- provenance:start -->.*?<!-- provenance:end -->", "", body, flags=re.S)
     documents = []
     for index, (section, text) in enumerate(chunk_markdown(body, source_type), 1):
         timestamp_link = re.search(
@@ -93,10 +134,11 @@ def parse_markdown(path: Path) -> list[Document]:
                 section=section,
                 source_type=source_type,
                 source_url=timestamp_link.group(1) if timestamp_link else source_url,
-                published_at=str(meta.get("published_at") or meta.get("snapshot_at") or ""),
+                published_at=str(meta.get("published_at") or ""),
                 text=text,
                 path=str(path.relative_to(ROOT)),
                 content_status=str(meta.get("content_status") or "current"),
+                **provenance_fields(meta),
             )
         )
     return documents
@@ -107,9 +149,12 @@ def load_documents() -> list[Document]:
     full_ids: set[str] = set()
     for pattern in (
         "context/*.md",
+        "examples/*.md",
         "corpus/community-posts/*.md",
         "corpus/community-comments/*.md",
         "corpus/videos/*.md",
+        "corpus/english-community/*.md",
+        "corpus/english-translations/*.md",
     ):
         for path in sorted(ROOT.glob(pattern)):
             parsed = parse_markdown(path)
@@ -118,6 +163,8 @@ def load_documents() -> list[Document]:
     for catalog_name, source_type in (
         ("knowledge-bank.jsonl", "knowledge-bank-catalog"),
         ("videos.jsonl", "video-catalog"),
+        ("english-community.jsonl", "english-community-catalog"),
+        ("english-translations.jsonl", "video-translation-catalog"),
     ):
         path = ROOT / "catalog" / catalog_name
         if not path.is_file():
@@ -138,6 +185,7 @@ def load_documents() -> list[Document]:
                     text=" ".join(row.get("guest_names") or []),
                     path=str(path.relative_to(ROOT)),
                     content_status=str(row.get("content_status") or "current"),
+                    **provenance_fields(row),
                 )
             )
     return docs
@@ -184,20 +232,11 @@ def score(
                 frequency + k1 * (1 - b + b * length / average_length)
             )
             value += inverse_frequency * normalized
-    source_weight = {
-        "context": 1.28,
-        "book-framework": 1.24,
-        "knowledge-bank": 1.14,
-        "community-post": 1.04,
-        "community-comment": 0.82,
-        "video-transcript": 1.0,
-        "knowledge-bank-catalog": 0.72,
-        "video-catalog": 0.68,
-    }.get(doc.source_type, 1.0)
     status_weight = {"current": 1.0, "archived": 0.55, "test": 0.2}.get(
         doc.content_status, 1.0
     )
-    return value * source_weight * status_weight
+    # Relevance is not authority: authorship and stance labels never boost this score.
+    return value * status_weight
 
 
 def snippet(doc: Document, query: str, terms: list[str], width: int = 220) -> str:
@@ -218,11 +257,13 @@ def type_matches(doc: Document, requested: str) -> bool:
     if requested == "all":
         return True
     if requested == "video":
-        return doc.source_type in {"video-transcript", "video-catalog"}
+        return doc.source_type in {"video-transcript", "video-catalog", "video-translation", "video-translation-catalog"}
     if requested == "knowledge-bank":
         return doc.source_type in {"knowledge-bank", "knowledge-bank-catalog"}
     if requested == "community":
-        return doc.source_type in {"knowledge-bank", "community-post", "community-comment"}
+        return doc.source_type in {"knowledge-bank", "community-post", "community-comment", "english-community", "english-community-catalog"}
+    if requested == "english":
+        return doc.language == "en" or doc.source_type in {"english-community", "english-community-catalog"}
     if requested == "comment":
         return doc.source_type == "community-comment"
     if requested == "context":
@@ -236,17 +277,15 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--top", type=int, default=8)
     parser.add_argument(
         "--type",
-        choices=["all", "context", "knowledge-bank", "community", "comment", "video"],
+        choices=["all", "context", "knowledge-bank", "community", "comment", "video", "english"],
         default="all",
     )
     parser.add_argument("--json", action="store_true", dest="as_json")
     return parser.parse_args()
 
 
-def main() -> None:
-    args = parse_args()
-    terms = query_terms(args.query)
-    documents = [doc for doc in load_documents() if type_matches(doc, args.type)]
+def search_documents(documents: list[Document], query: str, top: int = 8) -> list[dict]:
+    terms = query_terms(query)
     document_count = max(1, len(documents))
     average_length = sum(max(1, len(doc.text)) for doc in documents) / document_count
     document_frequency = {
@@ -257,7 +296,7 @@ def main() -> None:
     for doc in documents:
         value = score(
             doc,
-            args.query,
+            query,
             terms,
             document_frequency,
             document_count,
@@ -269,12 +308,16 @@ def main() -> None:
     results = []
     seen_sources: set[str] = set()
     for value, doc in ranked:
-        if doc.source_id in seen_sources:
+        family = doc.source_family or doc.source_id
+        if family in seen_sources:
             continue
-        seen_sources.add(doc.source_id)
+        seen_sources.add(family)
         results.append(
             {
                 "score": round(value, 1),
+                "relevance_score": round(value, 1),
+                "id": doc.id,
+                "source_id": doc.source_id,
                 "title": doc.title,
                 "section": doc.section,
                 "source_type": doc.source_type,
@@ -282,26 +325,40 @@ def main() -> None:
                 "url": doc.source_url,
                 "path": doc.path,
                 "content_status": doc.content_status,
-                "snippet": snippet(doc, args.query, terms),
+                "snippet": snippet(doc, query, terms),
+                **{key: getattr(doc, key) for key in PROVENANCE_FIELDS},
             }
         )
-        if len(results) >= max(1, args.top):
+        if len(results) >= max(1, top):
             break
-    if args.as_json:
-        print(json.dumps(results, ensure_ascii=False, indent=2))
-        return
+    return results
+
+
+def print_results(results: list[dict]) -> None:
     if not results:
         print("No matching public sources found.")
         return
     for index, result in enumerate(results, 1):
-        print(f"{index}. {result['title']}  [{result['source_type']}]  score={result['score']}")
+        print(f"{index}. {result['title']}  [{result['source_type']}]  relevance={result['relevance_score']}")
         if result["section"]:
             print(f"   section: {result['section']}")
         if result["published_at"]:
             print(f"   date: {result['published_at'][:10]}")
         if result["url"]:
             print(f"   source: {result['url']}")
+        for key in PROVENANCE_FIELDS:
+            print(f"   {key}: {result[key] or 'not established'}")
         print(f"   {result['snippet']}")
+
+
+def main() -> None:
+    args = parse_args()
+    documents = [doc for doc in load_documents() if type_matches(doc, args.type)]
+    results = search_documents(documents, args.query, args.top)
+    if args.as_json:
+        print(json.dumps(results, ensure_ascii=False, indent=2))
+        return
+    print_results(results)
 
 
 if __name__ == "__main__":

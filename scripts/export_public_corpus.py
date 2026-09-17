@@ -15,6 +15,7 @@ import html
 import json
 import re
 import shutil
+from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any, Iterable
@@ -867,6 +868,26 @@ def eligible_video(record: dict[str, Any]) -> bool:
     )
 
 
+def video_publication_date(record: dict[str, Any], folder: Path) -> str | None:
+    """Prefer the canonical publication date, then public platform metadata."""
+    if record.get("youtube_published_at"):
+        return str(record["youtube_published_at"])
+    for path in sorted(folder.glob("*.info.json")):
+        info = json.loads(path.read_text(encoding="utf-8"))
+        if info.get("id") != record["video_id"]:
+            continue
+        timestamp = info.get("release_timestamp") or info.get("timestamp")
+        if timestamp:
+            return datetime.fromtimestamp(timestamp, timezone.utc).isoformat().replace("+00:00", "Z")
+        date = info.get("upload_date")
+        if date and re.fullmatch(r"\d{8}", str(date)):
+            return datetime.strptime(str(date), "%Y%m%d").date().isoformat()
+    date = str(record.get("upload_date") or "")
+    if re.fullmatch(r"\d{8}", date):
+        return datetime.strptime(date, "%Y%m%d").date().isoformat()
+    return date or None
+
+
 def export_videos(
     channel_root: Path,
     snapshot_at: str,
@@ -901,6 +922,7 @@ def export_videos(
         url = f"https://www.youtube.com/watch?v={video_id}"
         folder = (channel_root / record["folder"]).resolve()
         folder.relative_to(channel_root.resolve())
+        published_at = video_publication_date(record, folder)
         transcript_path = choose_transcript_path(folder, record.get("transcript_status"))
         has_transcript = transcript_path is not None
         if has_transcript:
@@ -920,7 +942,7 @@ def export_videos(
             cues = parse_timed_transcript(transcript_path)
             cue_count = len(cues)
             if cues:
-                date = (record.get("youtube_published_at") or record.get("upload_date") or "undated")[:10]
+                date = (published_at or "undated")[:10]
                 safe_date = date.replace("-", "")
                 target = corpus_dir / f"{safe_date}-{video_id}.md"
                 fields = {
@@ -929,7 +951,7 @@ def export_videos(
                     "author": "Yuzheng Sun",
                     "source_type": "video-transcript",
                     "source_url": url,
-                    "published_at": record.get("youtube_published_at"),
+                    "published_at": published_at,
                     "snapshot_at": snapshot_at,
                     "rights_scope": "first-party",
                     "speaker_classification": classification["speaker_classification"],
@@ -955,7 +977,7 @@ def export_videos(
                 "video_id": video_id,
                 "title": title,
                 "url": url,
-                "published_at": record.get("youtube_published_at"),
+                "published_at": published_at,
                 "transcript_status": record.get("transcript_status"),
                 "transcript_available": has_transcript,
                 "transcript_included": bool(corpus_path),

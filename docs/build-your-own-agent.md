@@ -79,3 +79,9 @@
 ## 可参考的现有 skill
 
 如果产品只处理《真本事》里的职业、价值、杠杆和收入问题，可以先看公开的 [`zhenbenshi-advisor`](https://github.com/sunyuzheng/zhenbenshi-advisor)。它展示了怎样把书中框架压缩成一个小型建议流程。本仓库的 [`zhenbenshi-frameworks.md`](../context/zhenbenshi-frameworks.md) 提供更完整、可授权复用的框架正文；更大的仓库则继续把书、文章与视频的源材料规范化，让不同 skill / agent 能自行检索、引用和综合。
+
+## 保留作者和生成方式
+
+读取 `docs/source-model.md` 的归属字段，并在每个 chunk 以及送入 LLM 的材料中保留它们。`search.py --json` 已返回作者、发布者、AI 生成方式、语境、证据权重与 source_family。词面 score 不等于立场证据权重；原文与译文不应作为两份独立支持。AI synthesis 明确署名 AI，社区作者的观点明确归原作者。
+
+维护时先导出获准的源语料，再运行 `scripts/enrich_provenance.py --english-cache <sanitized-English-cache>`；如果导入已获准的本人视频英译，再运行 `scripts/import_english_translations.py`。最后运行 `python3 -m unittest discover -s tests`、`python3 scripts/validate_release.py --write-manifest` 和 `python3 scripts/validate_release.py`。原始缓存不能提交；新增来源或修改公开范围后，先形成可审阅差异再发布。

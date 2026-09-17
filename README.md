@@ -1,8 +1,19 @@
 # 立正 · Open Context
 
-一个给人和 AI 都能读的公开知识底座：把立正在 Superlinear 社区与视频频道发表的第一方内容、核心主张和《真本事》完整框架参考，整理成可检索、可引用、可继续开发的开放仓库。
+一个给人和 AI 都能读的公开知识底座：把立正在 Superlinear 社区与视频频道发表的内容、明确署名的英文社区资料、AI 翻译与综合，以及《真本事》框架参考，整理成可检索、可引用、可继续开发的开放仓库。
 
 它不是一个替你模仿“立正口吻”的人格提示词，也不宣称能替本人回答。它更像一套有来源、有时间、有边界的公共材料：你可以用它做搜索、问答、视频推荐、研究索引，或开发自己的立正 Skill / Agent。
+
+## 2026-09-17 更新 / Update
+
+这次补入近期文章与视频，并把英文内容及作者归属纳入统一检索：
+
+- **文章与视频**：新增 17 篇本人账号文章、刷新 3 篇已有文章，涵盖 AI Native 组织、fake work、视频播客流程与 Intake Skill 等主题；文章全文从 223 篇增至 240 篇。视频目录新增 8 条、移出 1 条已非公开内容，共 543 条；本人主讲字幕从 201 份增至 205 份。
+- **英文资料**：补齐 50 篇已发布英文社区文章（49 个新正文文件，1 篇复用已有正文），另加入 77 份本人单讲视频的英文 AI 译稿。译稿保留原视频、时间码与 AI 生成日期，不冒充本人原本说出的英文。
+- **明确归属**：英文社区文章中，11 篇源于立正、37 篇来自鸭哥、1 篇来自 Carl Guo、1 篇原作者尚待确认。发布账号与原作者分别记录；他人的观点、引语、提问与经历不因出现在立正的账号或视频里就变成立正的表达。AI 撰写的 synthesis 明确标记为二次整理，不能单独证明本人立场。
+- **已有 Skill / Agent 请重建索引**：拉取更新后，在每个检索片段中保留作者、发布者、生成方式、来源语境和证据权重。同一原作的翻译／转载按 source_family 去重；搜索相关性分数不等于可信度。字段与使用方式见[来源模型](docs/source-model.md)。
+
+**English:** This update adds recent posts and videos, 50 published English community articles, and 77 AI-translated transcripts of included solo presentations. Original authors, publishing accounts, quoted speakers, AI translations, and AI-written syntheses are identified separately. Community contributions are not Yuzheng's statements or biography; translations are not his original English wording; syntheses are secondary interpretations. Rebuild existing indexes and preserve attribution on every retrieval chunk. See the [source model](docs/source-model.md) and [release manifest](release-manifest.json).
 
 ## 从这里继续
 
@@ -18,13 +29,15 @@
 
 | 层 | 内容 | 开放方式 |
 |---|---|---|
-| `context/` | 当前核心主张、公开简介、Public Axioms V1、《真本事》完整框架与阅读地图 | 立正原创内容，CC BY 4.0 |
-| `corpus/community-posts/` | 立正在 Superlinear 各正常空间发布的 223 篇第一方帖子 | 全文、原帖链接、日期、空间与原始可见性，CC BY 4.0 |
+| `context/` | 当前核心主张、公开简介、Public Axioms V1、《真本事》完整框架与阅读地图 | AI 撰写的整理与综合；底层原作归立正，不能当作本人亲笔或原话 |
+| `corpus/community-posts/` | 立正在 Superlinear 各正常空间发布的 240 篇第一方帖子 | 全文、原帖链接、日期、空间与原始可见性，CC BY 4.0 |
 | `corpus/community-comments/` | 从 2,519 条本人评论中筛出的 10 条独立、有检索价值的公开补充 | 只纳入本人公开帖子下的公开评论；保留原评论链接，移除成员提及名称、联系方式、正文链接与敏感语境 |
 | `catalog/community-posts.jsonl` / `community-comments.jsonl` | 上述帖子与纳入评论的机器可读目录 | 可用于 RAG、索引和增量同步 |
-| `catalog/knowledge-bank.jsonl` | Knowledge Bank 的 169 篇公开文章目录 | 所有作者只列公开元数据；立正的 35 篇全文指向统一社区语料 |
-| `catalog/videos.jsonl` | 立正 YouTube 频道的 536 条公开常规视频目录 | 标题、日期、链接、字幕状态、权利范围 |
-| `corpus/videos/` | 通过 V1 正向说话人/权利 allowlist 的 201 份本人主讲字幕 | 带 YouTube 时间码；嘉宾、多人及未确认内容不复制全文 |
+| `catalog/knowledge-bank.jsonl` | Knowledge Bank 的 171 篇公开文章目录 | 所有作者只列公开元数据；立正的 37 篇全文指向统一社区语料 |
+| `catalog/videos.jsonl` | 立正 YouTube 频道的 543 条公开常规视频目录 | 标题、日期、链接、字幕状态、权利范围 |
+| `corpus/videos/` | 通过 V1 正向说话人/权利 allowlist 的 205 份本人主讲字幕 | 带 YouTube 时间码；嘉宾、多人及未确认内容不复制全文 |
+| `corpus/english-community/` / `catalog/english-community.jsonl` | 50 篇已发布英文文章：11 篇源于立正、37 篇鸭哥、1 篇 Carl Guo、1 篇原作者待确认 | 49 个新增正文文件，另 1 篇指向已有正文；保留原作者、发布账号、原文链接与 Bot 翻译／转载标记 |
+| `corpus/english-translations/` | 77 份本人单讲视频的英文 AI 译稿 | 独立标注 AI 生成、原视频发布日期与译稿生成日期；属于阅读辅助，不冒充英文原话 |
 | `docs/` | 数据边界、回答协议、建 agent 指南 | 可直接作为开发规范 |
 | `scripts/` | 导出、搜索与发布前检查 | MIT |
 
@@ -40,9 +53,10 @@ python3 scripts/search.py "fake work" --type knowledge-bank
 python3 scripts/search.py "如何建立信念" --type community
 python3 scripts/search.py "项目复盘" --type comment
 python3 scripts/search.py "做出代表作" --type video
+python3 scripts/search.py "context infrastructure" --type english --json
 ```
 
-搜索结果会给出标题、日期、原始链接、命中片段；视频结果尽可能给到可点击的时间码。
+搜索结果会给出标题、日期、原始链接、命中片段，以及原作者、发布账号、生成方式和立场证据权重；视频结果尽可能给到可点击的时间码。相关性分数不代表事实置信度，同一原作的翻译／转载不重复算独立证据。
 
 想先看这套材料如何真正回答社区提出的问题，可以读[“如何找到适合写在简历里的项目，并复盘它”示例](examples/resume-projects.md)。示例明确标出了直接来源与仓库综合，避免把新生成的方法冒充成原话。
 
@@ -90,7 +104,7 @@ python3 scripts/search.py "做出代表作" --type video
 
 ## Superlinear 帖子与评论怎样进入仓库
 
-帖子层采用作者正向筛选：Circle 当前能检索到 232 篇 `YZ｜立正` 帖子，另有一篇曾在公开 Knowledge Bank 快照中出现、后来不再出现在跨空间搜索中的本人文章。发布投影排除 `删除和归档` 的 9 篇及隐藏测试空间的 1 篇，最终纳入 223 篇。正常空间即使需要会员权限，作者也已经明确授权开放自己的正文；每个文件仍记录原始可见性与发布日期，不能因进入仓库就自动视为当前立场。
+帖子层保留上次发布的作者正文，并用 2026-09-17 的单帖可见正文补入 17 篇新帖、刷新 3 篇已有文章，共 240 篇；继续排除归档与测试空间。正常空间即使需要会员权限，作者也已明确授权开放自己的正文；每个文件保留原始可见性和来源日期，不能因进入仓库就自动视为当前立场。历史评论仍使用 2026-08-30 的已审核快照。
 
 搜索接口只负责发现帖子；正文重新从每个帖子页面的可见 HTML 取得。Circle 的搜索索引有时会把附件中可检索的文字拼到 `body`，如果直接导出，可能把访谈附件或其他隐藏索引误当成文章正文。仓库明确不采用那部分内容。
 
@@ -99,7 +113,7 @@ python3 scripts/search.py "做出代表作" --type video
 ## 明确不在这里的内容
 
 - 微信、短信、邮件、私信、私人聊天与未公开会议；
-- 其他社区成员的帖子、评论、个人资料、邮箱、用户 ID 与参与数据；
+- 本次英文来源清单以外的其他成员正文，以及成员评论、个人资料、邮箱、用户 ID 与参与数据；
 - 未通过公开评论规则的短回复、欢迎语、运营回复与可能带有私密语境的本人评论；
 - 学员、客户、合作方的非公开信息；
 - 合同、财务、定价策略、内部运营、路线图和商业机密；
@@ -111,7 +125,7 @@ python3 scripts/search.py "做出代表作" --type video
 
 视频字幕采用正向 allowlist：新视频不会因为“暂时没发现嘉宾”就自动获得全文许可，必须先明确加入 `config/video-transcript-allowlist.txt`；任何与嘉宾索引或人工排除表冲突的 ID 会让导出直接失败。
 
-公开可见不等于可以无条件再授权。完整边界见 [`docs/privacy-and-rights.md`](docs/privacy-and-rights.md) 与 [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)。
+公开可见不等于可以无条件再授权。英文社区资料是本次明确收录的例外：他人原作保留原权利，不纳入立正的 CC BY 授权；归属不明的文章按未知处理。完整边界见 [`docs/privacy-and-rights.md`](docs/privacy-and-rights.md) 与 [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)。
 
 ## 更新与纠错
 
@@ -130,6 +144,6 @@ python3 scripts/search.py "做出代表作" --type video
 ## License
 
 - 程序与开发文档：MIT，见 [`LICENSE`](LICENSE)。
-- 明确标注为立正原创的公开内容：CC BY 4.0，见 [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)。
+- 标注为 CC BY 4.0 的作者授权内容与派生整理：保留实际作者和 AI 生成标记，见 [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)。
 - 公开元数据：CC0 1.0。
 - 第三方引文、链接、姓名、商标和嘉宾内容不因进入本仓库而被重新授权。

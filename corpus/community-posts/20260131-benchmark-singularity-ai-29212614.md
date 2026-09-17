@@ -15,7 +15,21 @@ rights_scope: "first-party"
 license: "CC-BY-4.0"
 third_party_exclusions: true
 contact_data_redacted: true
+publisher: "Yuzheng Sun"
+original_author: "Yuzheng Sun"
+content_origin: "yuzheng-published-text"
+generation_method: "not-established"
+evidence_role: "published-source"
+yuzheng_stance_weight: "direct-with-quotation-boundaries"
+attribution_note: "发布于立正账号；发布归属不证明文字全部由本人亲笔撰写。引用、访谈嘉宾、社区提问与案例归相应作者／说话人；其中的他人主张不能直接算作立正立场。"
+source_family: "https://www.superlinear.academy/c/ai-resources/benchmark-singularity-ai"
+language: "zh"
+source_context: "Dated published post or reply; preserve the distinction between publisher, narrator, and quoted contributor."
 ---
+
+<!-- provenance:start -->
+> Attribution / 归属：发布于立正账号；发布归属不证明文字全部由本人亲笔撰写。引用、访谈嘉宾、社区提问与案例归相应作者／说话人；其中的他人主张不能直接算作立正立场。
+<!-- provenance:end -->
 
 > 原文：[大模型训练全过程的技术细节、难在哪里，各家真实水平，科研精神的重要，benchmark为什么没用，谷歌和英伟达的恐怖统治力，达到singularity的核心突破在于AI自主提问｜查晟访谈](https://www.superlinear.academy/c/ai-resources/benchmark-singularity-ai) · 发布于 2026-01-31 · 原始空间公开可见。本文保留发表时语境；其中第三方引文、发言、链接与商标不随正文重新授权。
 

@@ -5,8 +5,8 @@ author: "Yuzheng Sun"
 source_type: "community-post"
 source_url: "https://www.superlinear.academy/c/posts/hypothesis-testing-alpha-beta-power-mde"
 published_at: "2026-08-29T20:48:26.992Z"
-updated_at: "2026-08-29T21:21:53.856Z"
-snapshot_at: "2026-08-30"
+updated_at: "2026-09-13T13:34:37.803Z"
+snapshot_at: "2026-09-17"
 community_space: "论坛"
 community_space_slug: "posts"
 source_visibility: "public"
@@ -15,7 +15,21 @@ rights_scope: "first-party"
 license: "CC-BY-4.0"
 third_party_exclusions: true
 contact_data_redacted: true
+publisher: "Yuzheng Sun"
+original_author: "Yuzheng Sun"
+content_origin: "yuzheng-published-text"
+generation_method: "not-established"
+evidence_role: "published-source"
+yuzheng_stance_weight: "direct-with-quotation-boundaries"
+attribution_note: "发布于立正账号；发布归属不证明文字全部由本人亲笔撰写。引用、访谈嘉宾、社区提问与案例归相应作者／说话人；其中的他人主张不能直接算作立正立场。"
+source_family: "https://www.superlinear.academy/c/posts/hypothesis-testing-alpha-beta-power-mde"
+language: "zh"
+source_context: "Dated published post or reply; preserve the distinction between publisher, narrator, and quoted contributor."
 ---
+
+<!-- provenance:start -->
+> Attribution / 归属：发布于立正账号；发布归属不证明文字全部由本人亲笔撰写。引用、访谈嘉宾、社区提问与案例归相应作者／说话人；其中的他人主张不能直接算作立正立场。
+<!-- provenance:end -->
 
 > 原文：[假设检验详解：Alpha、Beta、Power、MDE与样本量](https://www.superlinear.academy/c/posts/hypothesis-testing-alpha-beta-power-mde) · 发布于 2026-08-29 · 原始空间公开可见。本文保留发表时语境；其中第三方引文、发言、链接与商标不随正文重新授权。
 

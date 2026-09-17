@@ -5,14 +5,28 @@ author: "Yuzheng Sun"
 source_type: "video-transcript"
 source_url: "https://www.youtube.com/watch?v=DdFGgvahbi8"
 published_at: "2025-09-23T04:18:14Z"
-snapshot_at: "2026-08-30"
+snapshot_at: "2026-09-15"
 rights_scope: "first-party"
 speaker_classification: "solo-yuzheng"
 review_status: "approved"
 license: "CC-BY-4.0"
 third_party_exclusions: true
 transcript_status: "human"
+publisher: "Yuzheng Sun"
+original_author: "Yuzheng Sun"
+content_origin: "yuzheng-spoken-source"
+generation_method: "transcription"
+evidence_role: "primary-speech"
+yuzheng_stance_weight: "direct-with-quotation-boundaries"
+attribution_note: "立正主讲内容的转录；只将他本人明确表达的判断归给他。朗读、转述的社区文章、提问、案例与引文仍归原作者；同一人说出口不等于同一人创作。未标明引文作者时保持未知，以原视频与时间码为准。"
+source_family: "https://www.youtube.com/watch?v=DdFGgvahbi8"
+language: "zh"
+source_context: "Public presentation; quoted or discussed community material is contextual third-party evidence."
 ---
+
+<!-- provenance:start -->
+> Attribution / 归属：立正主讲内容的转录；只将他本人明确表达的判断归给他。朗读、转述的社区文章、提问、案例与引文仍归原作者；同一人说出口不等于同一人创作。未标明引文作者时保持未知，以原视频与时间码为准。
+<!-- provenance:end -->
 
 # 【限时公开】聪明人，如何摆脱“理性的陷阱”？
 

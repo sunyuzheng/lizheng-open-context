@@ -1,13 +1,27 @@
 ---
-id: zhenbenshi-frameworks-v1
-title: 《真本事》完整框架参考 V1
-author: Yuzheng Sun
-source_type: book-framework
-source_url: https://www.lizheng.ai/zbs
-snapshot_at: 2026-08-29
-rights_scope: first-party
-license: CC-BY-4.0
+id: "zhenbenshi-frameworks-v1"
+title: "《真本事》完整框架参考 V1"
+author: "AI"
+source_type: "book-framework"
+source_url: "https://www.lizheng.ai/zbs"
+snapshot_at: "2026-08-29"
+rights_scope: "first-party"
+license: "CC-BY-4.0"
+publisher: "Yuzheng Sun"
+original_author: "See cited sources"
+content_origin: "ai-synthesis"
+generation_method: "ai-written"
+evidence_role: "secondary-synthesis"
+yuzheng_stance_weight: "secondary-only"
+attribution_note: "本文件由 AI 撰写／综合，整理对象是立正及所引来源；不是立正亲笔、逐字原话或逐句认可的证明。请回到原文核实，不能用综合层覆盖直接来源。"
+source_family: "zhenbenshi-frameworks-v1"
+language: "zh"
+source_context: "AI-authored repository synthesis of public sources; not a new statement by Yuzheng."
 ---
+
+<!-- provenance:start -->
+> Attribution / 归属：本文件由 AI 撰写／综合，整理对象是立正及所引来源；不是立正亲笔、逐字原话或逐句认可的证明。请回到原文核实，不能用综合层覆盖直接来源。
+<!-- provenance:end -->
 
 > 本文件公开的是作者自有的课程与书籍框架内容，供检索、引用和衍生开发。它不是出版社排版电子书，也不包含出版社版式、插图或第三方授权素材。
 

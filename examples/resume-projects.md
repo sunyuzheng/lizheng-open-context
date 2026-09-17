@@ -1,12 +1,27 @@
 ---
-id: example-resume-projects-v1
-title: 示例：如何找到适合写在简历里的项目，并复盘它
-author: Yuzheng Sun
-source_type: context
-snapshot_at: 2026-08-29
-rights_scope: first-party-synthesis
-license: CC-BY-4.0
+id: "example-resume-projects-v1"
+title: "示例：如何找到适合写在简历里的项目，并复盘它"
+author: "AI"
+source_type: "context"
+snapshot_at: "2026-08-29"
+rights_scope: "first-party-synthesis"
+license: "CC-BY-4.0"
+publisher: "Yuzheng Sun"
+original_author: "See cited sources"
+content_origin: "ai-synthesis"
+generation_method: "ai-written"
+evidence_role: "secondary-synthesis"
+yuzheng_stance_weight: "secondary-only"
+attribution_note: "本文件由 AI 撰写／综合，整理对象是立正及所引来源；不是立正亲笔、逐字原话或逐句认可的证明。请回到原文核实，不能用综合层覆盖直接来源。"
+source_family: "example-resume-projects-v1"
+language: "zh"
+source_context: "AI-authored repository synthesis of public sources; not a new statement by Yuzheng."
+source_url: "https://github.com/sunyuzheng/lizheng-open-context/blob/main/examples/resume-projects.md"
 ---
+
+<!-- provenance:start -->
+> Attribution / 归属：本文件由 AI 撰写／综合，整理对象是立正及所引来源；不是立正亲笔、逐字原话或逐句认可的证明。请回到原文核实，不能用综合层覆盖直接来源。
+<!-- provenance:end -->
 
 # 示例：如何找到适合写在简历里的项目，并复盘它
 
