@@ -1,0 +1,558 @@
+{
+  "schema_version": 1,
+  "snapshot_at": "2026-09-30",
+  "author": "AI",
+  "publisher": "Yuzheng Sun",
+  "license": "CC-BY-4.0",
+  "evidence_role": "secondary-synthesis",
+  "generation_method": "ai-written",
+  "attribution_note": "AI 从已纳入公开资料包的材料中整理的阅读与推理导航。不是立正本人确认的公理，不是新的独立证据；回答必须回到对应原文，保留说话人、条件和发表时间。",
+  "cards": [
+    {
+      "id": "learning-transfer",
+      "title": "交付结果与能力增长，需要分别检验",
+      "query_cues": [
+        "真的学会",
+        "假学习",
+        "学习错觉",
+        "撤掉帮助",
+        "关掉AI",
+        "换一道题",
+        "换个需求",
+        "依赖教程",
+        "跟着教程",
+        "离开教程",
+        "独立完成",
+        "做了几个项目",
+        "学习",
+        "迁移",
+        "教程",
+        "学会",
+        "learn",
+        "tutorial"
+      ],
+      "thesis": "做出来的结果不能单独证明能力已经留在自己身上。检验学习时，需要看撤掉帮助、间隔一段时间、改变题目条件之后，还能否完成关键判断和交付。",
+      "conditions": [
+        "先明确这次的目标是学习能力，还是借助工具交付结果；两者都可以有价值，验收不同。",
+        "让错误有反馈，才可能形成学习；单纯增加挫折不是目标。",
+        "把难度留给定义问题、拆解、验收和诊断；配环境等无关摩擦可以交给工具。"
+      ],
+      "does_not_imply": [
+        "不意味着必须少用 AI、手写所有代码或拒绝教程。",
+        "不能把某项课堂实验的百分比推成所有任务、所有人的固定效果。"
+      ],
+      "diagnostic_questions": [
+        "这次你希望练到自己身上的能力是什么？",
+        "改一个需求或撤掉一部分帮助，哪一步会先卡住？"
+      ],
+      "relations": [
+        {
+          "card_id": "production-ownership",
+          "kind": "scope-distinction"
+        },
+        {
+          "card_id": "outcome-over-proxy",
+          "kind": "shared-mechanism"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/community-posts/20260930-fake-learning-36978220.md",
+          "focus_terms": [
+            "撤掉帮助",
+            "换一道题",
+            "保护员",
+            "假困难"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260209-ai-tutorial-29512144.md",
+          "focus_terms": [
+            "可迁移",
+            "真实反馈",
+            "tutorial本身是有用的"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260729-dont-build-34947977.md",
+          "focus_terms": [
+            "学习项目的目标",
+            "production system",
+            "build 是学习"
+          ],
+          "role": "contrast"
+        }
+      ]
+    },
+    {
+      "id": "outcome-over-proxy",
+      "title": "沿着产出追到真实变化，再判断效率",
+      "query_cues": [
+        "fake work",
+        "假工作",
+        "忙了一天",
+        "没有价值",
+        "汇报材料",
+        "向上管理",
+        "工作没起色",
+        "提效",
+        "效率",
+        "成果",
+        "价值",
+        "汇报",
+        "绩效",
+        "报告",
+        "outcome",
+        "productivity"
+      ],
+      "thesis": "动作、报告和速度可以是价值的代理信号，也可能取代价值本身。评估 AI 提效，要追问产出之后改变了哪个决定或用户结果，而不只数产出和节省的时间。",
+      "conditions": [
+        "结果常常有延迟、难归因，不能用立即变现作为所有工作的唯一验收。",
+        "组织激励可能奖励代理信号，个人能先闭合一个小的判断—交付—反馈循环。",
+        "停做测试只适合低风险、可恢复的工作，并先写下预期后果。"
+      ],
+      "does_not_imply": [
+        "报告、沟通、合规、关系和管理不天然是假工作。",
+        "不要把一个岗位或做这份工作的人判为假的。"
+      ],
+      "diagnostic_questions": [
+        "这份产出完成后，下游会作出什么不同的决定或行动？",
+        "若多生产十份，真实结果会更近吗？"
+      ],
+      "relations": [
+        {
+          "card_id": "learning-transfer",
+          "kind": "shared-mechanism"
+        },
+        {
+          "card_id": "customer-pays-for-result",
+          "kind": "application"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/community-posts/20260828-fake-work-35921998.md",
+          "focus_terms": [
+            "然后呢",
+            "真实变化",
+            "低风险",
+            "代理信号",
+            "归因"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260930-fake-learning-36978220.md",
+          "focus_terms": [
+            "进步",
+            "Fake work",
+            "Fake learning"
+          ],
+          "role": "case"
+        }
+      ]
+    },
+    {
+      "id": "production-ownership",
+      "title": "把学习项目与长期拥有的产品分开判断",
+      "query_cues": [
+        "demo",
+        "production",
+        "原型",
+        "上线产品",
+        "自建系统",
+        "长期维护",
+        "能跑起来",
+        "继续做下去",
+        "build vs",
+        "buy",
+        "自建",
+        "维护",
+        "产品",
+        "项目",
+        "用户",
+        "不要build",
+        "don't build",
+        "不该build"
+      ],
+      "thesis": "快速做出第一版之后，仍要发现真实需求，并承担用户、业务和依赖变化后的正确性。选择自建时，要判断哪些部分体现自己的独特优势、值得长期拥有。",
+      "conditions": [
+        "Don't build 的语境是要长期供真实业务依赖的系统，不是劝人停止学习项目。",
+        "交付、discovery 和 ownership 是不同工作，第一版会让原本不可见的决定出现。",
+        "自建和购买都要比较注意力、责任与长期成本，不能只比首次开发成本和月费。"
+      ],
+      "does_not_imply": [
+        "不意味着一律购买 SaaS，或 AI 无法帮助生产系统。",
+        "一个复杂商业系统的代码量和开发轮次不能变成所有项目的定额。"
+      ],
+      "diagnostic_questions": [
+        "谁会持续依赖它，失效时由谁负责？",
+        "哪些部分体现你的优势，哪些只是必须可靠运行的通用基础设施？"
+      ],
+      "relations": [
+        {
+          "card_id": "learning-transfer",
+          "kind": "scope-distinction"
+        },
+        {
+          "card_id": "customer-pays-for-result",
+          "kind": "application"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/community-posts/20260729-dont-build-34947977.md",
+          "focus_terms": [
+            "discovery",
+            "ownership",
+            "长期拥有",
+            "学习项目的目标"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260930-fake-learning-36978220.md",
+          "focus_terms": [
+            "原型到产品",
+            "想法撞上现实"
+          ],
+          "role": "case"
+        }
+      ]
+    },
+    {
+      "id": "advice-with-conditions",
+      "title": "先检查问题中的诊断，再迁移建议",
+      "query_cues": [
+        "好建议",
+        "用不上",
+        "执行不动",
+        "执行力不行",
+        "怎么提问",
+        "问问题",
+        "照搬",
+        "卡点",
+        "建议",
+        "提问",
+        "处境",
+        "目标",
+        "阻力",
+        "advice",
+        "question"
+      ],
+      "thesis": "提问通常已经包含对卡点的解释。借鉴建议时，既要检查这个解释，也要带走原选择成立的条件、历史积累和未采取的替代方案。",
+      "conditions": [
+        "把已发生的事实和自己的解释分开，不把用户的初步诊断当已证实事实。",
+        "背景只补充会实质改变答案的信息，不要求用户先填完整问卷。",
+        "认同却做不到时，讨论具体停在哪一步与可缩小的尝试，而不是给人格下结论。"
+      ],
+      "does_not_imply": [
+        "不能用立正自己的业务条件替所有人决定接不接商单。",
+        "不能把行动阻力一概归为懒惰、恐惧或心理疾病。"
+      ],
+      "diagnostic_questions": [
+        "哪些事实让你把卡点理解成了这里？",
+        "这个建议需要的条件，哪些在你的处境中存在，哪些缺少？"
+      ],
+      "relations": [
+        {
+          "card_id": "customer-pays-for-result",
+          "kind": "case"
+        },
+        {
+          "card_id": "personal-brand-amplification",
+          "kind": "case"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/community-posts/20260918-ask-better-questions-make-better-choices-36575750.md",
+          "focus_terms": [
+            "包含了一次诊断",
+            "条件",
+            "事实和解释",
+            "小验证"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260917-live-qa-lizheng-02-replay-36571244.md",
+          "focus_terms": [
+            "别人的增长方法",
+            "前提",
+            "获客"
+          ],
+          "role": "case"
+        }
+      ]
+    },
+    {
+      "id": "task-owned-evaluation",
+      "title": "让任务决定评价标准和比较对象",
+      "query_cues": [
+        "技术选型",
+        "新技术",
+        "热点",
+        "best alternative",
+        "jev",
+        "叙事陷阱",
+        "追工具",
+        "替代方案",
+        "评价标准",
+        "指标",
+        "benchmark",
+        "框架",
+        "工具",
+        "比较",
+        "采用"
+      ],
+      "thesis": "局部指标胜出、这个指标对任务重要、方案值得采用，是三个不同判断。采用新技术前，应由自己的任务决定标准，并与不用它时的最佳合理方案比较。",
+      "conditions": [
+        "需要采用或深入评价时，技术理解和实验仍不可省略。",
+        "没有改变关键约束的热点可以先不追，不必为了证明不学而研究完整五层。",
+        "Jev、MCP 等具体产品评价保留发表日期，不当作今天未核查的技术结论。"
+      ],
+      "does_not_imply": [
+        "不意味着新技术都无用，或使用旧方法永远更好。",
+        "理解机制和复现实验不是没有价值，只是还未完成采用判断。"
+      ],
+      "diagnostic_questions": [
+        "它改善的指标，是你当前任务真正的瓶颈吗？",
+        "如果不用它，你最合理的选择是什么？"
+      ],
+      "relations": [
+        {
+          "card_id": "production-ownership",
+          "kind": "application"
+        },
+        {
+          "card_id": "outcome-over-proxy",
+          "kind": "shared-mechanism"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/community-posts/20260920-ai-builders-learning-path-36380668.md",
+          "focus_terms": [
+            "三件事",
+            "best alternative",
+            "关键约束",
+            "第五层"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/videos/20260925-kYuolIPDeRQ.md",
+          "focus_terms": [
+            "比较",
+            "评价",
+            "替代",
+            "叙事"
+          ],
+          "role": "basis"
+        }
+      ]
+    },
+    {
+      "id": "personal-brand-amplification",
+      "title": "先明确内容要放大什么，再判断方向与数据",
+      "query_cues": [
+        "自媒体",
+        "个人品牌",
+        "没播放量",
+        "没人看",
+        "十个赞",
+        "表达欲",
+        "做内容",
+        "内容创作",
+        "开始发",
+        "选方向",
+        "选平台",
+        "粉丝",
+        "露脸",
+        "business partnership"
+      ],
+      "thesis": "内容的方向与成功标准，要回到它希望放大的业务、能力、表达和关系。流量、精准合作与持续表达可以有不同标准，不宜直接照搬一个人的起步路径。",
+      "conditions": [
+        "周洁案例的建议建立在其稳定工作、投资业务和寻找合作伙伴的具体条件上。",
+        "前期尝试既观察效果，也寻找愿意继续改进的表达方式；强迫持续可能消耗原业务。",
+        "材料保留时间变化：这次谈话将先定方向再行动，与此前先迈一步的建议作了比较。"
+      ],
+      "does_not_imply": [
+        "十个赞也能成功，是特定合作目标下的例子，不是保证十期必有客户。",
+        "不意味着所有人都该露脸、选小红书、做主页或放弃框架；谈话中对框架仍有分歧。"
+      ],
+      "diagnostic_questions": [
+        "哪一种真实变化，会让你认为做内容值得？",
+        "你要接触的人在哪里，为什么会需要了解你？"
+      ],
+      "relations": [
+        {
+          "card_id": "advice-with-conditions",
+          "kind": "application"
+        },
+        {
+          "card_id": "customer-pays-for-result",
+          "kind": "application"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/community-posts/20260929-zhou-jie-personal-branding-36918574.md",
+          "focus_terms": [
+            "成功",
+            "先定方向",
+            "前十期",
+            "没在framework上达成一致"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260918-ask-better-questions-make-better-choices-36575750.md",
+          "focus_terms": [
+            "商单",
+            "条件",
+            "自己的业务"
+          ],
+          "role": "contrast"
+        }
+      ]
+    },
+    {
+      "id": "customer-pays-for-result",
+      "title": "获客之前，检查客户购买的结果与自己的优势",
+      "query_cues": [
+        "没人付费",
+        "没人买",
+        "获客",
+        "推广",
+        "商业模式",
+        "客户买",
+        "用户买",
+        "收费",
+        "变现",
+        "增长",
+        "竞争对手",
+        "产品",
+        "需求",
+        "付费",
+        "go-to-market"
+      ],
+      "thesis": "产品做完不等于商业问题已经解决。获客困难可以回到客户付钱买的结果、为什么选择你，以及自己的哪项能力能持续提供这份增量价值。",
+      "conditions": [
+        "维修平台案例中，软件、撮合与完整履约卖的是不同服务；具体收入和成本不能照搬。",
+        "模式不同不代表不竞争，要看客户原来的选择与核心需求。",
+        "已完成订单、创造价值和能够持续获客盈利，是相关但不同的证据。"
+      ],
+      "does_not_imply": [
+        "不意味着用户所有获客问题都由产品错误造成；这是要检查的诊断。",
+        "不能把现场尚有分歧的竞争优势判定写成双方共同确认的结论。"
+      ],
+      "diagnostic_questions": [
+        "客户不用你时，会用什么办法得到同一个结果？",
+        "哪一项可验证的额外价值，让他愿意付钱并持续选择你？"
+      ],
+      "relations": [
+        {
+          "card_id": "advice-with-conditions",
+          "kind": "application"
+        },
+        {
+          "card_id": "production-ownership",
+          "kind": "application"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/community-posts/20260917-live-qa-lizheng-02-replay-36571244.md",
+          "focus_terms": [
+            "客户买的是维修结果",
+            "客户为什么愿意付",
+            "核心需求",
+            "增长服务"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260918-ask-better-questions-make-better-choices-36575750.md",
+          "focus_terms": [
+            "怎么推广",
+            "一次诊断",
+            "小验证"
+          ],
+          "role": "contrast"
+        }
+      ]
+    },
+    {
+      "id": "quality-and-purpose",
+      "title": "标准保存既有认识，体验仍能改变标准和目的",
+      "query_cues": [
+        "良质",
+        "quality",
+        "人生意义",
+        "没有意义",
+        "不对劲",
+        "标准都满足",
+        "AI之后",
+        "想做什么",
+        "价值选择",
+        "品味",
+        "直觉",
+        "标准",
+        "目的",
+        "感受",
+        "人生"
+      ],
+      "thesis": "一个作品满足既定指标，不代表它已经回应人的关切。先体验到某种好或不对，再逐步澄清和检验，可以帮助形成新标准；知道事实和后果，也不会自动完成价值选择。",
+      "conditions": [
+        "关于良质和人的在场的论述保留为材料中的哲学视角，不能升级为已经证明的模型能力定理。",
+        "2026-09-18 的文章明确区分形式系统的局限与人的直觉是否超越计算；定理不能直接证明后者。",
+        "直觉也会错，需要与说明、证据和尝试配合。"
+      ],
+      "does_not_imply": [
+        "不意味着可以用感觉拒绝证据、忽略可验证的质量，或证明某种宗教正确。",
+        "不能替用户决定人生目的，也不能把尚未知道用途的探索一律判成 fake work。"
+      ],
+      "diagnostic_questions": [
+        "哪里让你觉得不对，能否指给别人看一个具体版本？",
+        "除了把已有任务做快，哪一种经历可能让你发现新的目的？"
+      ],
+      "relations": [
+        {
+          "card_id": "outcome-over-proxy",
+          "kind": "scope-distinction"
+        },
+        {
+          "card_id": "task-owned-evaluation",
+          "kind": "application"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/community-posts/20260415-quality-31711368.md",
+          "focus_terms": [
+            "先于",
+            "Show, Not Tell",
+            "静态良质",
+            "框架"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260918-ai-limits-and-human-renaissance-36602509.md",
+          "focus_terms": [
+            "哲学主张",
+            "直觉会错",
+            "事实",
+            "价值选择",
+            "新的目的"
+          ],
+          "role": "contrast"
+        }
+      ]
+    }
+  ]
+}

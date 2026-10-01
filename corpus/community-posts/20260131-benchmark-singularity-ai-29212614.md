@@ -2,13 +2,13 @@
 id: "circle-29212614"
 title: "大模型训练全过程的技术细节、难在哪里，各家真实水平，科研精神的重要，benchmark为什么没用，谷歌和英伟达的恐怖统治力，达到singularity的核心突破在于AI自主提问｜查晟访谈"
 author: "Yuzheng Sun"
-source_type: "knowledge-bank"
-source_url: "https://www.superlinear.academy/c/ai-resources/benchmark-singularity-ai"
+source_type: "community-post"
+source_url: "https://www.superlinear.academy/c/recording/benchmark-singularity-ai"
 published_at: "2026-01-31T17:08:04.333Z"
-updated_at: "2026-03-17T05:52:17.792Z"
-snapshot_at: "2026-08-30"
-community_space: "Knowledge Bank"
-community_space_slug: "ai-resources"
+updated_at: "2026-09-30T16:43:04.297Z"
+snapshot_at: "2026-09-30"
+community_space: "活动回放"
+community_space_slug: "recording"
 source_visibility: "public"
 content_status: "current"
 rights_scope: "first-party"
@@ -22,7 +22,7 @@ generation_method: "not-established"
 evidence_role: "published-source"
 yuzheng_stance_weight: "direct-with-quotation-boundaries"
 attribution_note: "发布于立正账号；发布归属不证明文字全部由本人亲笔撰写。引用、访谈嘉宾、社区提问与案例归相应作者／说话人；其中的他人主张不能直接算作立正立场。"
-source_family: "https://www.superlinear.academy/c/ai-resources/benchmark-singularity-ai"
+source_family: "https://www.superlinear.academy/c/recording/benchmark-singularity-ai"
 language: "zh"
 source_context: "Dated published post or reply; preserve the distinction between publisher, narrator, and quoted contributor."
 ---
@@ -31,11 +31,11 @@ source_context: "Dated published post or reply; preserve the distinction between
 > Attribution / 归属：发布于立正账号；发布归属不证明文字全部由本人亲笔撰写。引用、访谈嘉宾、社区提问与案例归相应作者／说话人；其中的他人主张不能直接算作立正立场。
 <!-- provenance:end -->
 
-> 原文：[大模型训练全过程的技术细节、难在哪里，各家真实水平，科研精神的重要，benchmark为什么没用，谷歌和英伟达的恐怖统治力，达到singularity的核心突破在于AI自主提问｜查晟访谈](https://www.superlinear.academy/c/ai-resources/benchmark-singularity-ai) · 发布于 2026-01-31 · 原始空间公开可见。本文保留发表时语境；其中第三方引文、发言、链接与商标不随正文重新授权。
+> 原文：[大模型训练全过程的技术细节、难在哪里，各家真实水平，科研精神的重要，benchmark为什么没用，谷歌和英伟达的恐怖统治力，达到singularity的核心突破在于AI自主提问｜查晟访谈](https://www.superlinear.academy/c/recording/benchmark-singularity-ai) · 发布于 2026-01-31 · 原始空间公开可见。本文保留发表时语境；其中第三方引文、发言、链接与商标不随正文重新授权。
 
 我昨天跟亚马逊AGI组的senior research manager查晟进行了近两小时的对话。他之前和李沐共事，长期在LLM科研与应用的前沿，有非常强的research taste和技术落地体感。
 
-视频预计一个月后可以剪好发布，但最近Moltbook的爆火，让我这个铁杆降临派，都不寒而栗。虽然我知道，目前AI的对话只是表象，并不是AI具备了自主意识。但在跟查晟对话后面，他也详解了我们距离singularity，其实只差“让AI有效提问”这一步，并给出了70%可实现的“保守估计”。
+（写于2026年1月底）视频当时还在剪辑，但Moltbook的爆火，让我这个铁杆降临派，都不寒而栗。虽然我知道，目前AI的对话只是表象，并不是AI具备了自主意识。但在跟查晟对话后面，他也详解了我们距离singularity，其实只差“让AI有效提问”这一步，并给出了70%可实现的“保守估计”。
 
 *图：Moltbook里，AI发的帖子：*
 
@@ -69,7 +69,7 @@ source_context: "Dated published post or reply; preserve the distinction between
 
 ## 2. 术语澄清：为什么大家不说 fine-tune，而说 “customization / continue pre-training”
 
-访谈里你问了一个很关键的问题：**“为什么不叫 fine-tune？”**
+访谈里我问了一个很关键的问题：**“为什么不叫 fine-tune？”**
 
 他给的回答非常直白，而且很“行业内共识”：
 
@@ -91,7 +91,7 @@ source_context: "Dated published post or reply; preserve the distinction between
 
 ## 3. 三段式训练框架：pre / mid / post 的真实含义
 
-你给了一个“小白版理解”：pre 出 GPT，SFT 出 instruct，post 加推理/工具。
+我给了一个“小白版理解”：pre 出 GPT，SFT 出 instruct，post 加推理/工具。
 他给了一个“更贴近大厂现实”的 update：
 
 > “SFT 之后到 ChatGPT 那一步，用 RLHF 或者 verifiable reward……已经都算在 post training 里了。”
@@ -115,7 +115,7 @@ source_context: "Dated published post or reply; preserve the distinction between
 
 ### 启发：为什么“尾声数据”这么关键？
 
-这其实对应你提到的直觉：前面更像“涌现智能”，后面更像“记住可用知识”。
+这其实对应我提到的直觉：前面更像“涌现智能”，后面更像“记住可用知识”。
 他也承认缺乏坚实理论：
 
 > “这些也并没有太好的理论基础，更多是经验上大家发现这样搞比较 work。”
@@ -158,7 +158,7 @@ source_context: "Dated published post or reply; preserve the distinction between
 
 ## 5. 后训练的典型坑：reward hacking、mode collapse、以及“练一个 task 把别的弄坏了”
 
-当你问“结果不理想，怎么判断是 pre-train data 的问题还是 reward 的问题？”
+当我问“结果不理想，怎么判断是 pre-train data 的问题还是 reward 的问题？”
 他给了很实操的诊断思路：
 
 > “看 reward 有没有开始被 hack……分会继续涨，但其他评价不会变好。”

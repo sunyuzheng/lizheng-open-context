@@ -5,8 +5,8 @@ author: "Yuzheng Sun"
 source_type: "knowledge-bank"
 source_url: "https://www.superlinear.academy/c/ai-resources/ai-architect-ai-architect-video-update-en-in-2-weeks-cn-en-split-in-q1-2026"
 published_at: "2025-12-18T05:27:55.604Z"
-updated_at: "2026-01-02T14:04:47.787Z"
-snapshot_at: "2026-08-30"
+updated_at: "2026-09-30T16:43:12.133Z"
+snapshot_at: "2026-09-30"
 community_space: "Knowledge Bank"
 community_space_slug: "ai-resources"
 source_visibility: "public"
@@ -32,6 +32,8 @@ source_context: "Dated published post or reply; preserve the distinction between
 <!-- provenance:end -->
 
 > 原文：[AI Architect 视频更新 + 中英体验拆分｜AI Architect Video Update EN in 2 Weeks | CN/EN Split in Q1 2026](https://www.superlinear.academy/c/ai-resources/ai-architect-ai-architect-video-update-en-in-2-weeks-cn-en-split-in-q1-2026) · 发布于 2025-12-18 · 原始空间公开可见。本文保留发表时语境；其中第三方引文、发言、链接与商标不随正文重新授权。
+
+**注（2026年9月）：**这是2025年12月的课程公告，文中的价格、优惠、权益与截止日期均已失效，请以课程页当前信息为准。
 
 大家好！同步更新：
 

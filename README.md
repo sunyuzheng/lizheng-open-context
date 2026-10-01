@@ -4,16 +4,19 @@
 
 它不是一个替你模仿“立正口吻”的人格提示词，也不宣称能替本人回答。它更像一套有来源、有时间、有边界的公共材料：你可以用它做搜索、问答、视频推荐、研究索引，或开发自己的立正 Skill / Agent。
 
-## 2026-09-17 更新 / Update
+## 2026-09-30 更新 / Update
 
-这次补入近期文章与视频，并把英文内容及作者归属纳入统一检索：
+这次更新把近期提问、AI 学习、技术判断、职业价值与创作的材料补进同一个可回源的底座：
 
-- **文章与视频**：新增 17 篇本人账号文章、刷新 3 篇已有文章，涵盖 AI Native 组织、fake work、视频播客流程与 Intake Skill 等主题；文章全文从 223 篇增至 240 篇。视频目录新增 8 条、移出 1 条已非公开内容，共 543 条；本人主讲字幕从 201 份增至 205 份。
-- **英文资料**：补齐 50 篇已发布英文社区文章（49 个新正文文件，1 篇复用已有正文），另加入 77 份本人单讲视频的英文 AI 译稿。译稿保留原视频、时间码与 AI 生成日期，不冒充本人原本说出的英文。
-- **明确归属**：英文社区文章中，11 篇源于立正、37 篇来自鸭哥、1 篇来自 Carl Guo、1 篇原作者尚待确认。发布账号与原作者分别记录；他人的观点、引语、提问与经历不因出现在立正的账号或视频里就变成立正的表达。AI 撰写的 synthesis 明确标记为二次整理，不能单独证明本人立场。
-- **已有 Skill / Agent 请重建索引**：拉取更新后，在每个检索片段中保留作者、发布者、生成方式、来源语境和证据权重。同一原作的翻译／转载按 source_family 去重；搜索相关性分数不等于可信度。字段与使用方式见[来源模型](docs/source-model.md)。
+- **249 篇本人发布正文**：补入 9 篇，重新读取 32 篇已有正文。近期新增包括《假学习的终结》《为什么别人的好建议，到你这里就用不上？》《AI 接过工作之后，人生的问题才刚刚开始》、Jev 技术判断，以及周洁、Ashley 和切问 02 的对话伴读。
+- **551 条视频目录、206 份主讲字幕**：刷新匿名公开视频清单，补入 9 条视频、移除 1 条已不在公开清单的目录；新增 Jev 主讲视频的作者发布中文字幕，保留具体时间链接。嘉宾／未复核视频继续只提供发现元数据。
+- **当前知识库目录**：Knowledge Bank 有 169 篇公开文章元数据，36 篇本人正文；已迁往 Tools 或活动回放的文章仍可通过统一帖子库找到。原有 10 条审核评论、50 篇英文社区资料和 77 份英文 AI 译稿继续保留各自的历史快照。
+- **Context 组织**：新增 [8 组判断卡](context/decision-cards.json)，关联原文、适用条件、不能推出的结论与材料间张力，可供产品按问题加载。它们是 AI 整理的推理导航，不能独立充当作者立场的证据。
+- **问题导航**：新增[近期阅读地图](context/recent-reading-map.md)，从“真的学会了吗”“建议为何用不上”“新技术值不值得追”“自媒体要放大什么”等问题，找到相关原文。它是 AI 编写的检索导航，不是本人确认的新理论。
 
-**English:** This update adds recent posts and videos, 50 published English community articles, and 77 AI-translated transcripts of included solo presentations. Original authors, publishing accounts, quoted speakers, AI translations, and AI-written syntheses are identified separately. Community contributions are not Yuzheng's statements or biography; translations are not his original English wording; syntheses are secondary interpretations. Rebuild existing indexes and preserve attribution on every retrieval chunk. See the [source model](docs/source-model.md) and [release manifest](release-manifest.json).
+文章、视频与衍生整理仍分别记录来源、时间和归属。旧材料没有因本次增量更新而被重新标成最新观点。5 条新视频的具体发布日期尚未取得可靠元数据，目录如实留空；不借它们推断当前立场。准确数量、来源快照日期与文件哈希见 [release manifest](release-manifest.json)。
+
+**English:** This update adds 9 published first-party posts, re-reads 32 existing posts, refreshes the public video discovery catalog, and adds the author-published Chinese captions for the solo Jev presentation. Publication dates, speakers, community contributors, AI translations and syntheses retain separate provenance. The new reading map is AI-authored navigation, not independent evidence of Yuzheng's views. Rebuild downstream indexes after updating.
 
 ## 从这里继续
 
@@ -29,13 +32,13 @@
 
 | 层 | 内容 | 开放方式 |
 |---|---|---|
-| `context/` | 当前核心主张、公开简介、Public Axioms V1、《真本事》完整框架与阅读地图 | AI 撰写的整理与综合；底层原作归立正，不能当作本人亲笔或原话 |
-| `corpus/community-posts/` | 立正在 Superlinear 各正常空间发布的 240 篇第一方帖子 | 全文、原帖链接、日期、空间与原始可见性，CC BY 4.0 |
+| `context/` | 当前核心主张、公开简介、Public Axioms V1、《真本事》完整框架、阅读地图与判断卡 | AI 撰写的整理与综合；底层原作归立正，不能当作本人亲笔或原话 |
+| `corpus/community-posts/` | 立正在 Superlinear 各正常空间发布的 249 篇第一方帖子 | 全文、原帖链接、日期、空间与原始可见性，CC BY 4.0 |
 | `corpus/community-comments/` | 从 2,519 条本人评论中筛出的 10 条独立、有检索价值的公开补充 | 只纳入本人公开帖子下的公开评论；保留原评论链接，移除成员提及名称、联系方式、正文链接与敏感语境 |
 | `catalog/community-posts.jsonl` / `community-comments.jsonl` | 上述帖子与纳入评论的机器可读目录 | 可用于 RAG、索引和增量同步 |
-| `catalog/knowledge-bank.jsonl` | Knowledge Bank 的 171 篇公开文章目录 | 所有作者只列公开元数据；立正的 37 篇全文指向统一社区语料 |
-| `catalog/videos.jsonl` | 立正 YouTube 频道的 543 条公开常规视频目录 | 标题、日期、链接、字幕状态、权利范围 |
-| `corpus/videos/` | 通过 V1 正向说话人/权利 allowlist 的 205 份本人主讲字幕 | 带 YouTube 时间码；嘉宾、多人及未确认内容不复制全文 |
+| `catalog/knowledge-bank.jsonl` | Knowledge Bank 的 169 篇公开文章目录 | 所有作者只列公开元数据；立正的 36 篇全文指向统一社区语料 |
+| `catalog/videos.jsonl` | 立正 YouTube 频道的 551 条公开常规视频目录 | 标题、日期、链接、字幕状态、权利范围 |
+| `corpus/videos/` | 通过 V1 正向说话人/权利 allowlist 的 206 份本人主讲字幕 | 带 YouTube 时间码；嘉宾、多人及未确认内容不复制全文 |
 | `corpus/english-community/` / `catalog/english-community.jsonl` | 50 篇已发布英文文章：11 篇源于立正、37 篇鸭哥、1 篇 Carl Guo、1 篇原作者待确认 | 49 个新增正文文件，另 1 篇指向已有正文；保留原作者、发布账号、原文链接与 Bot 翻译／转载标记 |
 | `corpus/english-translations/` | 77 份本人单讲视频的英文 AI 译稿 | 独立标注 AI 生成、原视频发布日期与译稿生成日期；属于阅读辅助，不冒充英文原话 |
 | `docs/` | 数据边界、回答协议、建 agent 指南 | 可直接作为开发规范 |
@@ -104,7 +107,7 @@ python3 scripts/search.py "context infrastructure" --type english --json
 
 ## Superlinear 帖子与评论怎样进入仓库
 
-帖子层保留上次发布的作者正文，并用 2026-09-17 的单帖可见正文补入 17 篇新帖、刷新 3 篇已有文章，共 240 篇；继续排除归档与测试空间。正常空间即使需要会员权限，作者也已明确授权开放自己的正文；每个文件保留原始可见性和来源日期，不能因进入仓库就自动视为当前立场。历史评论仍使用 2026-08-30 的已审核快照。
+帖子层保留已发布作者正文，并用 2026-09-30 的单帖可见正文补入 9 篇新帖、重新读取 32 篇已有文章，共 249 篇；未重新读取的旧文件保留原快照日期，继续排除归档与测试空间。正常空间即使需要会员权限，作者也已明确授权开放自己的正文；每个文件保留原始可见性和来源日期，不能因进入仓库就自动视为当前立场。历史评论仍使用 2026-08-30 的已审核快照。
 
 搜索接口只负责发现帖子；正文重新从每个帖子页面的可见 HTML 取得。Circle 的搜索索引有时会把附件中可检索的文字拼到 `body`，如果直接导出，可能把访谈附件或其他隐藏索引误当成文章正文。仓库明确不采用那部分内容。
 

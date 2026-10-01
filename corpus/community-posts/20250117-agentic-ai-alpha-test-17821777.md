@@ -5,8 +5,8 @@ author: "Yuzheng Sun"
 source_type: "knowledge-bank"
 source_url: "https://www.superlinear.academy/c/ai-resources/agentic-ai-alpha-test"
 published_at: "2025-01-17T04:43:28.564Z"
-updated_at: "2025-10-20T05:10:48.630Z"
-snapshot_at: "2026-08-30"
+updated_at: "2026-09-30T16:43:13.511Z"
+snapshot_at: "2026-09-30"
 community_space: "Knowledge Bank"
 community_space_slug: "ai-resources"
 source_visibility: "public"
@@ -32,6 +32,8 @@ source_context: "Dated published post or reply; preserve the distinction between
 <!-- provenance:end -->
 
 > 原文：[Agentic AI课程上线（alpha test）](https://www.superlinear.academy/c/ai-resources/agentic-ai-alpha-test) · 发布于 2025-01-17 · 原始空间公开可见。本文保留发表时语境；其中第三方引文、发言、链接与商标不随正文重新授权。
+
+**注（2026年9月）：**这是2025年1月的课程公告，文中的价格、优惠、权益与截止日期均已失效，请以课程页当前信息为准。
 
 我和鸭哥全新制作的[#选修 · Agentic AI · 原理实践](https://www.superlinear.academy/c/agentic-ai) 上线了！
 

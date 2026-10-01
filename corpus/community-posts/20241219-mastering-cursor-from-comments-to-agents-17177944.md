@@ -5,8 +5,8 @@ author: "Yuzheng Sun"
 source_type: "knowledge-bank"
 source_url: "https://www.superlinear.academy/c/ai-resources/mastering-cursor-from-comments-to-agents"
 published_at: "2024-12-19T09:41:41.523Z"
-updated_at: "2024-12-19T17:43:16.641Z"
-snapshot_at: "2026-08-30"
+updated_at: "2026-09-30T16:43:12.935Z"
+snapshot_at: "2026-09-30"
 community_space: "Knowledge Bank"
 community_space_slug: "ai-resources"
 source_visibility: "public"
@@ -32,6 +32,8 @@ source_context: "Dated published post or reply; preserve the distinction between
 <!-- provenance:end -->
 
 > 原文：[新模块上线 -- Mastering Cursor: From Comments to Agents](https://www.superlinear.academy/c/ai-resources/mastering-cursor-from-comments-to-agents) · 发布于 2024-12-19 · 原始空间公开可见。本文保留发表时语境；其中第三方引文、发言、链接与商标不随正文重新授权。
+
+**注（2026年9月）：**这是2024年12月的课程公告，文中的价格、优惠、权益与截止日期均已失效，请以课程页当前信息为准。
 
 最近，随着Cursor agent，Windsurf，Devin的陆续发布，Agentic AI开始发力。我们在第一时间试用以后，发现它们虽然还不完美，但是潜力非常大。我们认为，在2025年，大家一定要尝试Agentic AI（[相关视频](https://youtu.be/OHrVsgsaq9o)，[相关直播](https://www.superlinear.academy/c/academy/cursor-agentic-ai)）。
 

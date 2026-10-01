@@ -5,8 +5,8 @@ author: "AI"
 source_type: "community-post"
 source_url: "https://www.superlinear.academy/c/recording/xiaoshuai-community-podcast-20260914"
 published_at: "2026-09-17T04:22:25.807Z"
-updated_at: "2026-09-17T04:22:25.833Z"
-snapshot_at: "2026-09-17"
+updated_at: "2026-09-28T03:22:53.569Z"
+snapshot_at: "2026-09-30"
 community_space: "活动回放"
 community_space_slug: "recording"
 source_visibility: "public"
@@ -38,6 +38,8 @@ source_context: "Reviewed companion article around a replay or conversation; syn
 社区里分享招聘网站的Joshua小帅，就是“佐治亚小帅”播客的主播。他现在的主业，是用AI帮建房行业处理审批、筛选潜在客户，招聘网站只能偶尔照顾一下。这顿饭，我们聊到他怎样从社区得到用户和反馈，也聊到一些相反的经历：替客户做了两三个月的工具，收到了感谢，却收不到钱。
 
 做出产品以后，人从哪里来，为什么愿意见你，又为什么愿意付钱？这些问题，小帅都在实际碰。我也劝他，把已经会做的播客用起来，试试一种和陌拜不同的见面方式。
+
+[20260914-小帅.community-compact.mp4](https://assets-v2.circle.so/m9rfteyfgbutux4ilatp88i6109w)
 
 ## 旧帖持续带来用户，回复还能帮他改产品
 

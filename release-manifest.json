@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
-  "snapshot_at": "2026-09-17",
+  "snapshot_at": "2026-09-30",
   "repository": "sunyuzheng/lizheng-open-context",
   "intended_visibility": "public",
   "source_snapshots": {
-    "community_posts": "2026-09-17",
-    "knowledge_bank": "2026-09-17",
+    "community_posts": "2026-09-30",
+    "knowledge_bank": "2026-09-30",
     "english_community": "2026-09-17",
     "community_comments": "2026-08-30",
-    "video_inventory": "2026-09-15",
-    "video_speaker_rights_review": "2026-09-17",
+    "video_inventory": "2026-09-30",
+    "video_speaker_rights_review": "2026-09-30",
     "english_translation_library": "2026-04-19",
-    "provenance_review": "2026-09-17"
+    "provenance_review": "2026-09-30"
   },
   "filters": {
     "community_posts_full_text": "current Circle-search posts authored by YZ｜立正 plus one first-party Knowledge Bank item preserved from the earlier public snapshot; archived and hidden test spaces excluded; contact data redacted",
@@ -25,15 +25,15 @@
     "attribution": "AI synthesis is secondary-only; third-party and metadata-only sources cannot establish Yuzheng's stance; search relevance is separate from stance authority"
   },
   "counts": {
-    "community_posts_catalog": 240,
-    "community_posts_full_text": 240,
+    "community_posts_catalog": 249,
+    "community_posts_full_text": 249,
     "community_comments_included": 10,
     "community_comments_reviewed": 2519,
-    "knowledge_bank_catalog": 171,
-    "knowledge_bank_full_text": 37,
-    "video_catalog": 543,
-    "video_transcripts": 205,
-    "video_metadata_only": 338,
+    "knowledge_bank_catalog": 169,
+    "knowledge_bank_full_text": 36,
+    "video_catalog": 551,
+    "video_transcripts": 206,
+    "video_metadata_only": 345,
     "known_guest_videos": 242,
     "english_community_catalog": 50,
     "english_community_full_text_files": 49,
@@ -74,8 +74,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 14098,
-      "sha256": "358024ea29597fb64ca06d6d8ada4a917d6b31af1130181970c827440e5aca4d"
+      "bytes": 14560,
+      "sha256": "a2974a18c8d6d4bf4478e1247817a7ecf48a6ef355ae4afe80cda739328573a9"
     },
     {
       "path": "catalog/community-comments.jsonl",
@@ -84,8 +84,8 @@
     },
     {
       "path": "catalog/community-posts.jsonl",
-      "bytes": 309102,
-      "sha256": "7253c7b6c7f4968640c4de243771905e43332b3a712d557c76d96c77e2fe8aee"
+      "bytes": 321167,
+      "sha256": "bd2d3a9b2cc003bc5890e4ba921c08822b4f66e630abce1c4bbb1a9df8be2c8a"
     },
     {
       "path": "catalog/english-community.jsonl",
@@ -99,13 +99,13 @@
     },
     {
       "path": "catalog/knowledge-bank.jsonl",
-      "bytes": 171819,
-      "sha256": "4f0ae094b4d4f87b63db793425776abd784527e67460bf2799969540071c99b4"
+      "bytes": 169551,
+      "sha256": "ef36e7dd699013eff213f803681f84498db628f12065e5f788c45db99144282d"
     },
     {
       "path": "catalog/videos.jsonl",
-      "bytes": 656481,
-      "sha256": "b9b2a2d67b03cd85e40978cf3fb053a34e9aab399aa79775486b88e8bca5e28c"
+      "bytes": 666384,
+      "sha256": "3ead1757c6cb7efc519d66f2b7ca78a61ace62a5c0ee3f941908682adcd72e25"
     },
     {
       "path": "config/attribution-overrides.json",
@@ -123,19 +123,29 @@
       "sha256": "01b610eb89fee714de9d631baa9c4df3d77bf9db137847bc1903b7950ae61c75"
     },
     {
+      "path": "config/release-snapshot.json",
+      "bytes": 388,
+      "sha256": "f777af00e37c6987b2a9ba30dc2080f24326bdb2c4deaf35017602af3060eafa"
+    },
+    {
       "path": "config/video-rights-overrides.json",
       "bytes": 6068,
       "sha256": "136a9c4109d9ae7381adc3bd48ea78f61c584372fd76bb6df62fd83abedaa1a9"
     },
     {
       "path": "config/video-transcript-allowlist.txt",
-      "bytes": 2841,
-      "sha256": "ad0180d63c9eedcb99cb74be3807afe304048c205fa6a29127b3cb0f28009fb7"
+      "bytes": 2947,
+      "sha256": "64c1bcc7708b21f6229843f1bf8ac5a326526c1816ba4874966b757fb443b126"
     },
     {
       "path": "context/core-thesis.md",
       "bytes": 6836,
       "sha256": "f5c15569838b3f172c6caee4dcca0dfb4959bc8024740464198c0e5b521f9fa6"
+    },
+    {
+      "path": "context/decision-cards.json",
+      "bytes": 18899,
+      "sha256": "a1c77be6d37cb4b487643870a025e2ed9be478b4ab1cded0d2dacc36732b13f9"
     },
     {
       "path": "context/public-axioms-v1.md",
@@ -146,6 +156,11 @@
       "path": "context/public-profile.md",
       "bytes": 3366,
       "sha256": "942bd4cdcf20208e7255b5de4dab4111a350dd523ce6893f83ca5ca639b1fc8e"
+    },
+    {
+      "path": "context/recent-reading-map.md",
+      "bytes": 4657,
+      "sha256": "be9b175a07d7c593f725414d24ec7ea459f12c3193313008a76caa0a6179131c"
     },
     {
       "path": "context/zhenbenshi-frameworks.md",
@@ -439,8 +454,8 @@
     },
     {
       "path": "corpus/community-posts/20241219-mastering-cursor-from-comments-to-agents-17177944.md",
-      "bytes": 3657,
-      "sha256": "befb1aa8901170c83e2c19f5f83d8824154437ba57e3ab55fa175ce1d7f30dfa"
+      "bytes": 3821,
+      "sha256": "527a0fc31dd70b62c095ad9f243120ca260c19f89743b93935f1559eaf7972b0"
     },
     {
       "path": "corpus/community-posts/20241220-ai-build-in-public-gtm-17217048.md",
@@ -464,18 +479,18 @@
     },
     {
       "path": "corpus/community-posts/20241228-free-17324797.md",
-      "bytes": 6337,
-      "sha256": "a03897412ce28d327819f918ac0a44f9215671bc878d04f980a809df4529d06c"
+      "bytes": 6828,
+      "sha256": "fa1371aee0a9fc9d8226caa0e996965281eefaf65e0155c3ea44e00ba50d6187"
     },
     {
       "path": "corpus/community-posts/20241229-chatgpt-17337677.md",
-      "bytes": 73341,
-      "sha256": "61a789d80f011390b3714c5904daace07b5334556a19552eabc97216deecf563"
+      "bytes": 73335,
+      "sha256": "757f21bf7a8533d19dead449f43ba9585716ca587314fa33e92858919697d286"
     },
     {
       "path": "corpus/community-posts/20250117-agentic-ai-alpha-test-17821777.md",
-      "bytes": 5725,
-      "sha256": "09794148a2162e19638be402a8c4bb623432cc1c8a6c777b1f3c15a46a4a2618"
+      "bytes": 5888,
+      "sha256": "5f64be03bd7e3d6f33eba38d78f9149611d88a4e7fff81e090417df949cc6d05"
     },
     {
       "path": "corpus/community-posts/20250122-ai-496f3f-17955735.md",
@@ -644,8 +659,8 @@
     },
     {
       "path": "corpus/community-posts/20251025-2025-10-24-ai-26305018.md",
-      "bytes": 14538,
-      "sha256": "ce07587749e67a444116869d858d50379cd58337f9cdd965e43479fb10b816f2"
+      "bytes": 14524,
+      "sha256": "00217f022330a283cb8e7f8d4eb36e7371e9a0c67caa7fd73dc62634c5528706"
     },
     {
       "path": "corpus/community-posts/20251031-culture-26496687.md",
@@ -684,13 +699,13 @@
     },
     {
       "path": "corpus/community-posts/20251124-architect-27206478.md",
-      "bytes": 18997,
-      "sha256": "c883b3abe37e480bf33b0eb12201a465b18a8c1e689899c76c8b7563e51d0858"
+      "bytes": 19161,
+      "sha256": "d326256ec8a1403f7e79244e2af68c502c01b1326462e63b0df34f06df8409c6"
     },
     {
       "path": "corpus/community-posts/20251125-competency-27267520.md",
-      "bytes": 8462,
-      "sha256": "d151bbc9bdbae1928b0cba80e281ac5570c90076d5d51cad21d0e1e386452928"
+      "bytes": 8688,
+      "sha256": "b8d22f9ad32c39ea513992761af7965994da29dc7bba873357fd7a0ab69b17bb"
     },
     {
       "path": "corpus/community-posts/20251201-sb-list-ai-27415599.md",
@@ -699,8 +714,8 @@
     },
     {
       "path": "corpus/community-posts/20251203-build-to-refund-27493152.md",
-      "bytes": 17900,
-      "sha256": "78d4b5cd75cfe75dd96fba5203ce89710a39f90e9b706a6d380ced271c240d6b"
+      "bytes": 18115,
+      "sha256": "f9706a5cfbbf5111cff43a2e46b9b868069034da6a50715514d789ffadb17079"
     },
     {
       "path": "corpus/community-posts/20251207-podcast-27585085.md",
@@ -724,8 +739,8 @@
     },
     {
       "path": "corpus/community-posts/20251218-ai-architect-ai-architect-video-update-en-in-2-weeks-cn-en-split-in-q1-2026-27893908.md",
-      "bytes": 3742,
-      "sha256": "a280346cd1ea4613bf02dff6e41f118e1a8cf9fbdca2d8c0e6eee57efb3e079d"
+      "bytes": 3906,
+      "sha256": "92236af80ab28758d3eccd5608dee5d66ad52e21ad45ae90f8815e87a4360040"
     },
     {
       "path": "corpus/community-posts/20251223-2025-2026-resolution-28024397.md",
@@ -749,8 +764,8 @@
     },
     {
       "path": "corpus/community-posts/20260128-cursor-ryo-builder-29085608.md",
-      "bytes": 9672,
-      "sha256": "3a91d6690c72873126aff48eb0751884057f71e455b06ec3f386788b3ab3c037"
+      "bytes": 9682,
+      "sha256": "eba0b1adf99042df59a2391e4c03a0772f77f96cd9a13f1a5dd11ec16a49ac45"
     },
     {
       "path": "corpus/community-posts/20260130-ai-bd3aba-29171375.md",
@@ -759,8 +774,8 @@
     },
     {
       "path": "corpus/community-posts/20260131-benchmark-singularity-ai-29212614.md",
-      "bytes": 24599,
-      "sha256": "456bc0a33e7e95e99f01bbdbd4f96c8cef0086c812e97773d6fd21a7a3169c05"
+      "bytes": 24587,
+      "sha256": "7a8c5fc4a1e0a56bf04e71e1ea950b3729f2b9c6311d20ef0c6dceffb6ddc66a"
     },
     {
       "path": "corpus/community-posts/20260206-ai-saas-29411837.md",
@@ -770,7 +785,7 @@
     {
       "path": "corpus/community-posts/20260209-ai-tutorial-29512144.md",
       "bytes": 11026,
-      "sha256": "e5d3c0c06cfb11b2d05f200b0f465b65878f9aecce598e67a1087a1c058deb01"
+      "sha256": "121ac98596e8f65fdb9ab32c292d20c3b939dfc4c17362100192ddb4105685e1"
     },
     {
       "path": "corpus/community-posts/20260214-podcast-29680527.md",
@@ -784,13 +799,13 @@
     },
     {
       "path": "corpus/community-posts/20260222-liujia-29936372.md",
-      "bytes": 25310,
-      "sha256": "1eb6fc390b68ed8d35811adf4224575346a54f584c2f3d91601d1ad5df5f159b"
+      "bytes": 25296,
+      "sha256": "ef0ef15fa04932e13d3c471bcb5026fa52c8b4a49c5619a01aace2b6e9eb580b"
     },
     {
       "path": "corpus/community-posts/20260225-evomap-30042709.md",
       "bytes": 27332,
-      "sha256": "bf961bf38eeed08cf25994b7da7b83667b8dddda89a307f6d7375edcbe6e99d8"
+      "sha256": "79e52151cc1eb20937b359aa932d4c0a57deff67d1c578c7e6cca23893e6619c"
     },
     {
       "path": "corpus/community-posts/20260302-ai-660b9f-30200148.md",
@@ -924,13 +939,13 @@
     },
     {
       "path": "corpus/community-posts/20260415-quality-31711368.md",
-      "bytes": 16045,
-      "sha256": "913e7eba73d90dbc2a2d260e82d12799075c88b3a9bfb12ac1578f594ffbfdf2"
+      "bytes": 16042,
+      "sha256": "bd1736dd7cb6ef478556b19f295faa505517661da9ad9415702d7285e4bb2c78"
     },
     {
       "path": "corpus/community-posts/20260415-verb-31687557.md",
       "bytes": 12362,
-      "sha256": "d711964d663d8c865b3be91c2bd92e74cbc83f9e4bc96f1802fd19499236d602"
+      "sha256": "5a2c1b81fa81b5cb50a8aac1ee94c1fbd46a37cc7bf5f006329dc35d09010a1c"
     },
     {
       "path": "corpus/community-posts/20260415-verb-craft-31691959.md",
@@ -949,8 +964,8 @@
     },
     {
       "path": "corpus/community-posts/20260421-anxiety-31891615.md",
-      "bytes": 19124,
-      "sha256": "87dce596bcf09a0442b33befc48f2ee92c81fb16935b405ce7aa00c87db72dd6"
+      "bytes": 19112,
+      "sha256": "2c902c752d3be01ff594baee856ce3fc30753af58a1bb7c7f69ef92a3df86712"
     },
     {
       "path": "corpus/community-posts/20260425-101-32005619.md",
@@ -959,8 +974,8 @@
     },
     {
       "path": "corpus/community-posts/20260425-ai-product-32015485.md",
-      "bytes": 32255,
-      "sha256": "0dd552e730a9085ba9fb8804e072e88b9cef814c7b3f2384c8812f3a739980ef"
+      "bytes": 32252,
+      "sha256": "f10fd3fab83029615a0c683b21872c19d51c73d647d6c61319c8340eeff48759"
     },
     {
       "path": "corpus/community-posts/20260425-projects-classification-32021714.md",
@@ -1014,8 +1029,13 @@
     },
     {
       "path": "corpus/community-posts/20260512-yangying-32530235.md",
-      "bytes": 46906,
-      "sha256": "3ffe7c6a1e4df192185050bd467b1c36e9369b88dbe665fea3cb8eaa2b051bb9"
+      "bytes": 46854,
+      "sha256": "ad7b1849690173c06a95a06b286b64a81c013385cb815006d8b687b283c09e23"
+    },
+    {
+      "path": "corpus/community-posts/20260519-wanglu-32762081.md",
+      "bytes": 39704,
+      "sha256": "3360b03dbbe7d4eb9fd729a0a97dc650d539c7ff454a8b4ab79caa0d9b6f85d5"
     },
     {
       "path": "corpus/community-posts/20260519-wishful-thinking-32745544.md",
@@ -1064,8 +1084,8 @@
     },
     {
       "path": "corpus/community-posts/20260611-nan-zhou-33514245.md",
-      "bytes": 22381,
-      "sha256": "fa20e687310e0f69c708fb2800eaae5ae450790cab618104b176a511f8beb19f"
+      "bytes": 23021,
+      "sha256": "21187b7d00434fe6319fb4fa09a3e8fad67f9d2c1cc1fcf6244a511c88eee195"
     },
     {
       "path": "corpus/community-posts/20260612-advanced-ai-33568968.md",
@@ -1120,7 +1140,7 @@
     {
       "path": "corpus/community-posts/20260703-lancedb-34200065.md",
       "bytes": 23017,
-      "sha256": "40110b433081c44383bd187899f0dbf21171a2021d3d15e693edb4ccefc47610"
+      "sha256": "fd286a33080264107320f2d34dc8c5521e39c13df742901b89a01b95c20fdf30"
     },
     {
       "path": "corpus/community-posts/20260713-stay-superlinear-34456888.md",
@@ -1135,7 +1155,7 @@
     {
       "path": "corpus/community-posts/20260715-chandler-guo-34539883.md",
       "bytes": 27128,
-      "sha256": "44b84abc685abcc47a3de822337cc1241f0899d1a9dc08d1b22470fe931ddb51"
+      "sha256": "2d207b6eca23b113716f716fbc8c40b117dd3f3d225d48b2f073d523f44a69e3"
     },
     {
       "path": "corpus/community-posts/20260715-collaborate-34543664.md",
@@ -1149,8 +1169,8 @@
     },
     {
       "path": "corpus/community-posts/20260715-demo-day-topic-34544845.md",
-      "bytes": 2379,
-      "sha256": "67d551927f6011c5c2fdab28a21e45514f9a50f521fd5829569f728111547d9d"
+      "bytes": 2861,
+      "sha256": "ce3b0e4fdf811188c2297537d66afbd39c1900b48b64ee5d5679f57afbf36330"
     },
     {
       "path": "corpus/community-posts/20260715-main-community-34543945.md",
@@ -1195,7 +1215,7 @@
     {
       "path": "corpus/community-posts/20260729-dont-build-34947977.md",
       "bytes": 9071,
-      "sha256": "5a7ab86b4ad4d8ce5adf74201da5511237e3fec4b1883d5f04302a7ffceee2e0"
+      "sha256": "e73077b366e0864210e974adbc2e5a374ba5434efe5e45ccb2eae13ca49b4b15"
     },
     {
       "path": "corpus/community-posts/20260729-launch-34957758.md",
@@ -1214,8 +1234,8 @@
     },
     {
       "path": "corpus/community-posts/20260804-build-in-public-35141870.md",
-      "bytes": 14369,
-      "sha256": "40ec6618313b45e1fde1cfb18e0a5f773e86df9e6948b60a61185669b5d0cff8"
+      "bytes": 14370,
+      "sha256": "3af3ead03abc343588d7e501b85ea79c547b14c76a7340fd5a4bb9b2789abc09"
     },
     {
       "path": "corpus/community-posts/20260804-email-35137457.md",
@@ -1224,8 +1244,8 @@
     },
     {
       "path": "corpus/community-posts/20260807-changxi-35249207.md",
-      "bytes": 17289,
-      "sha256": "5267f2aa3163d8a96cfb181f54014800ae4e270ce8ffeef1bbc181620b8995f9"
+      "bytes": 17179,
+      "sha256": "0f7b451eddfc2a1148c90100748a27db42d34cb7e6e7bb6459d3aa52dca16d93"
     },
     {
       "path": "corpus/community-posts/20260811-ai-builders-202608-35395434.md",
@@ -1241,6 +1261,11 @@
       "path": "corpus/community-posts/20260814-ai-5-35502777.md",
       "bytes": 8296,
       "sha256": "3dd0057cb7ad31b45ed199417ddf502cb57351f681d4e7551e0f7ae3c1a756ca"
+    },
+    {
+      "path": "corpus/community-posts/20260816-elementary-35536557.md",
+      "bytes": 12943,
+      "sha256": "1fd9add36268e651cf0900bd63ac444ed8c0b1ad84192045b18fd17e4d85970c"
     },
     {
       "path": "corpus/community-posts/20260817-more-agents-more-intelligence-ai-311gb-35559706.md",
@@ -1264,8 +1289,8 @@
     },
     {
       "path": "corpus/community-posts/20260823-qiewen-vol-1-35728639.md",
-      "bytes": 23659,
-      "sha256": "56efec29dc422daef0f6f32b99dcba6e36422d4aa0867d2b53b5bbebdd93ee2b"
+      "bytes": 23650,
+      "sha256": "4394bb22497cbbe4ec46a93e92cb89c855154a53daa08e267ea74f318e364e33"
     },
     {
       "path": "corpus/community-posts/20260824-break-the-structure-35785227.md",
@@ -1280,7 +1305,7 @@
     {
       "path": "corpus/community-posts/20260826-daniel-priestley-kpi-35827532.md",
       "bytes": 12647,
-      "sha256": "53ace11a4c479c48b9f24e8de6f13765ec8f20a3c1e09826396e9cea22703031"
+      "sha256": "9ca6225228105716278d65770dc7f227473b31a910acd5ca189a30779b5b7e49"
     },
     {
       "path": "corpus/community-posts/20260828-bigjoe-35918443.md",
@@ -1290,7 +1315,7 @@
     {
       "path": "corpus/community-posts/20260828-fake-work-35921998.md",
       "bytes": 20542,
-      "sha256": "4bc8916dce3c86d40336f365275a513dfd045c31f412f8db5d92ce07d49b0344"
+      "sha256": "2d9d32965cc66249a87f32e451da0f41b35d38babecbe4fbc8cd92716bbb86b8"
     },
     {
       "path": "corpus/community-posts/20260828-focus-35929402.md",
@@ -1320,7 +1345,7 @@
     {
       "path": "corpus/community-posts/20260830-lizheng-context-35950481.md",
       "bytes": 7259,
-      "sha256": "33be943ac7699b7fcb4eb6af55000e87f6f3302ed0013485e5791fb439603801"
+      "sha256": "e8eac0783723762a0163dc4ba45aaa7f8c17af5aa5813fcc5f259b3f254a8050"
     },
     {
       "path": "corpus/community-posts/20260830-tl-dr-superlinear-35959081.md",
@@ -1365,7 +1390,7 @@
     {
       "path": "corpus/community-posts/20260909-result-certainty-general-intelligence-wei-xiaoliang-36274802.md",
       "bytes": 22806,
-      "sha256": "6a9647e5a0b9819cba9d5bbd700cf579acabf9e70ff0e11a3579e46966802024"
+      "sha256": "2b85ef82a38d15aa17abb02db9425acf54efe7e8adac99ac0c58f110915dd676"
     },
     {
       "path": "corpus/community-posts/20260910-aie-shanghai-2026-36240239.md",
@@ -1403,9 +1428,44 @@
       "sha256": "66cf90b4ba16530f867ffda0af9896c4c330df9124fc2ab401bf0ed0a94ddd9d"
     },
     {
+      "path": "corpus/community-posts/20260917-live-qa-lizheng-02-replay-36571244.md",
+      "bytes": 26817,
+      "sha256": "3844c7b1f15e1772de164add6ffb07b7cac3938c07f48c9ead959ff1af45f244"
+    },
+    {
       "path": "corpus/community-posts/20260917-xiaoshuai-community-podcast-20260914-36540984.md",
-      "bytes": 16084,
-      "sha256": "65b8073b1bea07d8202c6f1990705ddc2cb05b807f8b1585eabe2854cc1753fa"
+      "bytes": 16183,
+      "sha256": "a0ba71e83490438abf73e16d1d1ac6bf8f9bcfb1cea75b265229c7d4b9ab9e3a"
+    },
+    {
+      "path": "corpus/community-posts/20260918-ai-limits-and-human-renaissance-36602509.md",
+      "bytes": 22660,
+      "sha256": "c77aec31ee2c2785ac243d0cc791c56d7d936fa37a31a799abd421d5613e9446"
+    },
+    {
+      "path": "corpus/community-posts/20260918-ask-better-questions-make-better-choices-36575750.md",
+      "bytes": 8172,
+      "sha256": "83b50309fbb06e7cf15b6c4701008083c68080ca44c583a169ea841526792ce0"
+    },
+    {
+      "path": "corpus/community-posts/20260920-ai-builders-learning-path-36380668.md",
+      "bytes": 35924,
+      "sha256": "9179f8cbc10ca52ba0166004b2e9551192ffeef5e8ec7913e617e1b379bed7d0"
+    },
+    {
+      "path": "corpus/community-posts/20260922-ashley-ai-career-real-value-36677614.md",
+      "bytes": 17988,
+      "sha256": "5c299b79eefa4b8eb4886c0cdb291383e5f25b028d43250896b52a923b44290d"
+    },
+    {
+      "path": "corpus/community-posts/20260929-zhou-jie-personal-branding-36918574.md",
+      "bytes": 16785,
+      "sha256": "a441417bad530746cb8bfd4f90237de3ca58d4656687482684b924bedee48342"
+    },
+    {
+      "path": "corpus/community-posts/20260930-fake-learning-36978220.md",
+      "bytes": 16280,
+      "sha256": "ebdd76f8502b574120c689372adf67c6e8a8c508fc35e4a5ac75452255bcc1c9"
     },
     {
       "path": "corpus/english-community/20260107-28357479.md",
@@ -3063,6 +3123,11 @@
       "sha256": "379d2a84aaa4f8c90bdffa0f226ff14f4514e53e13e140a8e95d2dfe950249f1"
     },
     {
+      "path": "corpus/videos/20260925-kYuolIPDeRQ.md",
+      "bytes": 70643,
+      "sha256": "bb7afe27991c4005b44be645e84553f92363141e1a2455de11cea623b87a0eca"
+    },
+    {
       "path": "docs/answering-contract.md",
       "bytes": 4104,
       "sha256": "70c5b65229a2c99b4648078dbd38052c7a70cbbdee3a71b9643df2749ec2561e"
@@ -3114,8 +3179,8 @@
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 33424,
-      "sha256": "e9d8dced97332da6484b41479b24dd418fe3b40b17a84f15daefeceb4324d799"
+      "bytes": 33766,
+      "sha256": "ebdfa2d820eb3d879eadc3c61f8c113e513eebf038b8077ee022b410763f5f6e"
     },
     {
       "path": "tests/test_export.py",

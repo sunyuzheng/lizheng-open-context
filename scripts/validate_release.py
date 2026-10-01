@@ -576,21 +576,24 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
 
 
 def build_manifest(stats: dict[str, int]) -> dict:
+    snapshot_path = ROOT / "config" / "release-snapshot.json"
+    snapshot = json.loads(snapshot_path.read_text()) if snapshot_path.is_file() else {
+        "snapshot_at": "2026-09-17",
+        "source_snapshots": {
+            "community_posts": "2026-09-17", "knowledge_bank": "2026-09-17",
+            "english_community": "2026-09-17", "community_comments": "2026-08-30",
+            "video_inventory": "2026-09-15", "video_speaker_rights_review": "2026-09-17",
+            "english_translation_library": "2026-04-19", "provenance_review": "2026-09-17",
+        },
+    }
+    for value in [snapshot["snapshot_at"], *snapshot["source_snapshots"].values()]:
+        datetime.strptime(value, "%Y-%m-%d")
     return {
         "schema_version": 2,
-        "snapshot_at": "2026-09-17",
+        "snapshot_at": snapshot["snapshot_at"],
         "repository": "sunyuzheng/lizheng-open-context",
         "intended_visibility": "public",
-        "source_snapshots": {
-            "community_posts": "2026-09-17",
-            "knowledge_bank": "2026-09-17",
-            "english_community": "2026-09-17",
-            "community_comments": "2026-08-30",
-            "video_inventory": "2026-09-15",
-            "video_speaker_rights_review": "2026-09-17",
-            "english_translation_library": "2026-04-19",
-            "provenance_review": "2026-09-17",
-        },
+        "source_snapshots": snapshot["source_snapshots"],
         "filters": {
             "community_posts_full_text": "current Circle-search posts authored by YZ｜立正 plus one first-party Knowledge Bank item preserved from the earlier public snapshot; archived and hidden test spaces excluded; contact data redacted",
             "community_comments_full_text": "first-party comments on included Yuzheng-authored posts, from discussion spaces with at least 80 effective characters; member mentions, contact data, sensitive/private context, third-party leading quotations, and all inline links removed",
