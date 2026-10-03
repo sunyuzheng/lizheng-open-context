@@ -899,8 +899,23 @@ def export_videos(
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     guest_ids, guest_names = load_guests(guest_path)
     records = [record for record in manifest["records"] if eligible_video(record)]
+    # A public-media refresh must not erase the independently authorized
+    # member snapshot or upgrade its mixed/unresolved speaker attribution.
+    existing_catalog = ROOT / "catalog/videos.jsonl"
+    member_rows = []
+    member_files = []
+    if existing_catalog.is_file():
+        for line in existing_catalog.read_text().splitlines():
+            row = json.loads(line)
+            if row.get("inclusion_authorization") == "maintainer-request-2026-10-02-member-transcripts":
+                path = (ROOT / row["corpus_path"]).resolve()
+                path.relative_to(ROOT.resolve())
+                member_rows.append(row)
+                member_files.append((path, path.read_bytes()))
+    member_ids = {row["video_id"] for row in member_rows}
+    records = [record for record in records if record["video_id"] not in member_ids]
     eligible_ids = {record["video_id"] for record in records}
-    stale_allowlist_ids = sorted(transcript_allowlist - eligible_ids)
+    stale_allowlist_ids = sorted(transcript_allowlist - eligible_ids - member_ids)
     if stale_allowlist_ids:
         raise ValueError(
             "Transcript allowlist contains videos outside the eligible public snapshot: "
@@ -909,11 +924,13 @@ def export_videos(
     corpus_dir = ROOT / "corpus" / "videos"
     catalog_path = ROOT / "catalog" / "videos.jsonl"
     reset_generated_dir(corpus_dir)
+    for path, contents in member_files:
+        path.write_bytes(contents)
     catalog_path.parent.mkdir(parents=True, exist_ok=True)
-    catalog_rows: list[dict[str, Any]] = []
-    transcript_available = 0
-    transcript_included = 0
-    mixed_speaker_count = 0
+    catalog_rows: list[dict[str, Any]] = list(member_rows)
+    transcript_available = sum(bool(row.get("transcript_available")) for row in member_rows)
+    transcript_included = sum(bool(row.get("transcript_included")) for row in member_rows)
+    mixed_speaker_count = sum(row.get("speaker_classification") == "mixed-or-unresolved" for row in member_rows)
     unreviewed_count = 0
 
     for record in sorted(records, key=lambda item: item.get("youtube_published_at") or ""):

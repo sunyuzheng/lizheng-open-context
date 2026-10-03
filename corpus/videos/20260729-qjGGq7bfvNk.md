@@ -21,12 +21,29 @@ yuzheng_stance_weight: "direct-with-quotation-boundaries"
 attribution_note: "立正主讲内容的转录；只将他本人明确表达的判断归给他。朗读、转述的社区文章、提问、案例与引文仍归原作者；同一人说出口不等于同一人创作。未标明引文作者时保持未知，以原视频与时间码为准。"
 source_family: "https://www.youtube.com/watch?v=qjGGq7bfvNk"
 language: "zh"
-source_context: "Public presentation; quoted or discussed community material is contextual third-party evidence."
+source_context: "Channel member video with an already approved solo-Yuzheng transcript; third-party quotations retain their speakers."
+source_visibility: "members-only"
+text_access: "public"
+membership_platform: "youtube"
+membership_url: "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/join"
+membership_verified_at: "2026-10-02"
+transcript_source_kind: "previously-included-transcript"
+transcript_quality: "human-caption"
+inclusion_authorization: "maintainer-request-2026-10-02-member-transcripts"
+publication_date_provenance: "archive-source-date"
+archived_transcript_sha256: "d9b3104eda68a78559385046d7485fb9219770cded7fd00279e9845292200ddb"
 ---
 
 <!-- provenance:start -->
 > Attribution / 归属：立正主讲内容的转录；只将他本人明确表达的判断归给他。朗读、转述的社区文章、提问、案例与引文仍归原作者；同一人说出口不等于同一人创作。未标明引文作者时保持未知，以原视频与时间码为准。
 <!-- provenance:end -->
+
+<!-- member-access:start -->
+> **会员视频** · 字幕文字已获授权开放；[观看会员完整视频](https://www.youtube.com/watch?v=qjGGq7bfvNk)需频道会员。
+<!-- member-access:end -->
+
+
+
 
 # （限时公开）什么样的人不会被AI取代？
 

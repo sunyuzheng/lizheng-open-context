@@ -22,6 +22,9 @@ PROVENANCE_FIELDS = (
     "language", "license", "rights_scope",
     "source_video_id", "generated_at", "translation_publication_status", "original_language",
     "snapshot_at",
+    "source_visibility", "text_access", "membership_platform", "membership_url",
+    "membership_verified_at", "transcript_source_kind", "transcript_quality",
+    "speaker_classification",
 )
 
 
@@ -57,6 +60,14 @@ class Document:
     translation_publication_status: str = ""
     original_language: str = ""
     snapshot_at: str = ""
+    source_visibility: str = ""
+    text_access: str = ""
+    membership_platform: str = ""
+    membership_url: str = ""
+    membership_verified_at: str = ""
+    transcript_source_kind: str = ""
+    transcript_quality: str = ""
+    speaker_classification: str = ""
 
 
 def provenance_fields(meta: dict) -> dict[str, str]:

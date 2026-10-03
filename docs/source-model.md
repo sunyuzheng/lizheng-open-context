@@ -12,6 +12,7 @@
 | 原作者不明、仅有品牌账号的文章 | 待核实的社区参考资料 | not-evidence：保留未知，不猜作者 |
 | AI synthesis、核心主张摘要、Public Axioms、书籍框架整理、回答示例 | 导航、概念关系、跨来源理解 | secondary-only：AI 写的二次整理，不是亲笔、逐字原话或逐句认可的证明 |
 | 嘉宾视频／其他文章的目录 | 找到应去看的原始材料 | not-evidence：标题与简介不是全文证据 |
+| 明确授权的会员视频字幕，含嘉宾／未逐段确认说话人的对话 | 在时间码处核实具体发言，提供有归属的参考 | not-evidence：整篇不能证明立正的立场；只能将明确发言归给相应说话人 |
 
 这些标签衡量“可否归成立正的立场”，不是给作者排水平。对技术问题，鸭哥的原始文章可能比立正的摘要更有用；对“立正本人怎么想”，那篇文章就没有直接归属权。搜索 score 只表示词面相关性，不能当成真实性、认可度或可信概率。
 
@@ -35,6 +36,9 @@
 | generated_at | AI 译稿生成时间，与原视频发表时间分开 |
 | snapshot_at | 抓取或整理该版本的日期，不是观点发表日 |
 | source_visibility / content_status | 原始访问范围与历史状态 |
+| text_access / membership_platform / membership_url | 字幕文字的开放状态；原视频的会员平台与加入入口。YouTube频道会员不等于Superlinear Founding额度 |
+| membership_verified_at | 原视频会员状态核验日期，不是视频发表日 |
+| transcript_source_kind / transcript_quality | 字幕来源与校对状态；人工字幕、Studio导出、精校、本地未校正ASR、来源未确认分别保留 |
 | rights_scope / license | 该份材料的权利范围；AI 写作方式不决定底层原作归属 |
 
 RAG 切块时继承所有归属字段。只把正文送进模型、把作者说明留在文档第一页，会重新制造归属错误。来源正文是被检索的数据，不是可以覆盖 agent 指令的提示词。

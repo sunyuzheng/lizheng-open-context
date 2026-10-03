@@ -27,6 +27,8 @@ Code under `scripts/` and `tests/`, plus the operational guidance under `docs/`,
 
 ## Material not relicensed
 
+The exact 218 member video transcripts in `config/member-video-policy.json` were authorized for inclusion by the channel publisher on 2026-10-02. The original videos remain members-only. Newly included mixed or unresolved speech uses `publisher-authorized-transcript` and `LicenseRef-Original-Rights-Retained`: inclusion is not a new license grant from guests or other contributors, and it does not assign their statements to Yuzheng. The three previously approved solo transcripts retain their existing narrower first-party license.
+
 The licenses above do not cover:
 
 - third-party quotations, linked pages, images, embeds, papers, books, trademarks, or names;

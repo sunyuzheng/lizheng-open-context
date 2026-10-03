@@ -63,11 +63,48 @@ PROVENANCE_FIELDS = (
     "content_origin", "generation_method", "evidence_role", "yuzheng_stance_weight",
     "attribution_note", "source_family", "source_context", "language", "license",
     "source_video_id", "generated_at", "translation_publication_status", "original_language",
+    "source_visibility", "text_access", "membership_platform", "membership_url",
+    "membership_verified_at", "transcript_source_kind", "transcript_quality",
+    "inclusion_authorization", "publication_date_provenance", "transcript_source_sha256", "archived_transcript_sha256",
 )
 REQUIRED_PROVENANCE = (
     "content_origin", "generation_method", "evidence_role", "yuzheng_stance_weight", "attribution_note",
 )
 AI_SYNTHESIS_ORIGINS = {"ai-synthesis", "ai-synthesis-of-mixed-sources"}
+
+
+def validate_member_video(row: dict, policy: dict, errors: list[str]) -> None:
+    approved = {item["video_id"]: item for item in policy.get("records", [])}.get(row.get("video_id"))
+    label = str(row.get("id"))
+    if not approved:
+        errors.append(f"{label}: member video is not in the explicit snapshot policy")
+        return
+    expected = {
+        "source_visibility": "members-only", "text_access": "public", "membership_platform": "youtube",
+        "membership_url": policy.get("membership_url"), "membership_verified_at": policy.get("snapshot_at"),
+        "inclusion_authorization": policy.get("authorization"), "published_at": approved["published_at"],
+    }
+    for key, value in expected.items():
+        if row.get(key) != value:
+            errors.append(f"{label}: invalid member provenance {key}")
+    if not row.get("transcript_included") or not row.get("transcript_quality"):
+        errors.append(f"{label}: authorized member video lacks transcript/quality provenance")
+    if row.get("rights_scope") == "first-party":
+        if not approved.get("prior_solo_transcript") or row.get("guest_names"):
+            errors.append(f"{label}: member selection does not establish solo first-party ownership")
+    elif row.get("rights_scope") != "publisher-authorized-transcript":
+        errors.append(f"{label}: unexpected member transcript rights scope")
+    if row.get("rights_scope") == "publisher-authorized-transcript":
+        for key, value in {
+            "speaker_classification": "mixed-or-unresolved", "review_status": "maintainer-authorized",
+            "license": "LicenseRef-Original-Rights-Retained", "content_origin": "mixed-or-unresolved-speech",
+            "yuzheng_stance_weight": "not-evidence", "evidence_role": "speaker-attributed-speech",
+            "transcript_source_kind": approved["transcript_source_kind"], "transcript_source_sha256": approved["transcript_sha256"],
+        }.items():
+            if row.get(key) != value:
+                errors.append(f"{label}: invalid mixed member transcript attribution {key}")
+        if row.get("author") == "Yuzheng Sun" or row.get("author") != row.get("original_author"):
+            errors.append(f"{label}: member transcript cannot assign unresolved speakers to Yuzheng")
 
 
 def read_markdown(path: Path) -> tuple[dict, str]:
@@ -179,6 +216,10 @@ def validate_catalog_bindings(catalogs: list[tuple[str, list[dict]]], errors: li
                 continue
             meta = metadata_cache.setdefault(relative, read_markdown(path)[0])
             for field in ("id", "title", "published_at", "rights_scope", *PROVENANCE_FIELDS):
+                if field == "source_visibility" and row.get("source_type") not in {"video-transcript", "video-translation"}:
+                    # A catalog's public discovery surface can link to an
+                    # author-authorized body originally from a member space.
+                    continue
                 if row.get(field) != meta.get(field):
                     errors.append(f"{label}: catalog/file attribution mismatch for {field}")
             for field in ("speaker_classification", "review_status", "third_party_exclusions", "cue_alignment_status"):
@@ -331,7 +372,12 @@ def validate_sensitive_data(errors: list[str]) -> None:
     for path in scan_files:
         text = path.read_text(encoding="utf-8", errors="replace")
         for label, pattern in SENSITIVE_PATTERNS.items():
-            if pattern.search(text):
+            scan = text
+            if label == "mainland phone":
+                # Locked transcript/file hashes can contain phone-shaped runs.
+                # Ignore only named 64-hex checksum values, never prose numbers.
+                scan = re.sub(r'(?m)(["\w]*sha256[" ]*:\s*)"[a-f0-9]{64}"', r'\1"[checksum]"', text)
+            if pattern.search(scan):
                 errors.append(f"{path.relative_to(ROOT)}: possible {label}")
         if path.suffix == ".jsonl":
             for field in FORBIDDEN_FIELDS:
@@ -417,6 +463,19 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         transcript_allowlist = read_allowlist(allowlist_path)
         rights_overrides = read_json_object_without_duplicate_keys(overrides_path)
 
+    member_path = ROOT / "config/member-video-policy.json"
+    member_policy = read_json_object_without_duplicate_keys(member_path) if member_path.is_file() else {}
+    member_list = [row["video_id"] for row in member_policy.get("records", [])]
+    member_ids = set(member_list)
+    if len(member_list) != len(member_ids):
+        errors.append("Member video policy contains duplicate IDs")
+    if member_ids and member_policy.get("authorization") != "maintainer-request-2026-10-02-member-transcripts":
+        errors.append("Member video policy lacks explicit maintainer authorization")
+    if member_ids and (len(member_ids) != 218 or member_policy.get("membership_url") != "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/join"):
+        errors.append("Member video policy differs from the exact authorized channel snapshot")
+    if {row.get("video_id") for row in video_rows if row.get("inclusion_authorization") and row.get("inclusion_authorization") == member_policy.get("authorization")} != member_ids:
+        errors.append("Member video policy/catalog exact ID mismatch")
+
     for row in kb_rows:
         if row.get("full_text_included") and not authorized_publisher_text(row):
             errors.append(f"{row.get('id')}: non-first-party Knowledge Bank full text")
@@ -496,14 +555,17 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
             errors.append(f"README.md does not state current {value} {label} corpus count")
 
     for row in video_rows:
-        if row.get("transcript_included") and row.get("rights_scope") != "first-party":
+        is_member = row.get("video_id") in member_ids
+        if is_member:
+            validate_member_video(row, member_policy, errors)
+        if row.get("transcript_included") and not is_member and row.get("rights_scope") != "first-party":
             errors.append(f"{row.get('id')}: mixed-speaker transcript included")
-        if row.get("transcript_included") and (
+        if row.get("transcript_included") and (not is_member or row.get("rights_scope") == "first-party") and (
             row.get("speaker_classification") != "solo-yuzheng"
             or row.get("review_status") != "approved"
         ):
             errors.append(f"{row.get('id')}: transcript lacks positive speaker-rights approval")
-        if row.get("transcript_included") and row.get("guest_names"):
+        if row.get("transcript_included") and not is_member and row.get("guest_names"):
             errors.append(f"{row.get('id')}: known guest transcript included")
         if not str(row.get("url", "")).startswith("https://www.youtube.com/watch?v="):
             errors.append(f"{row.get('id')}: unexpected video source URL")
@@ -511,9 +573,10 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     included_video_ids = {
         row.get("video_id") for row in video_rows if row.get("transcript_included")
     }
-    if included_video_ids != transcript_allowlist:
-        missing = sorted(transcript_allowlist - included_video_ids)
-        unexpected = sorted(included_video_ids - transcript_allowlist)
+    expected_video_ids = transcript_allowlist | member_ids
+    if included_video_ids != expected_video_ids:
+        missing = sorted(expected_video_ids - included_video_ids)
+        unexpected = sorted(included_video_ids - expected_video_ids)
         errors.append(
             "video transcript catalog/allowlist mismatch"
             + (f"; missing={','.join(missing)}" if missing else "")
@@ -539,7 +602,10 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     ):
         for pattern in directory.glob("*.md") if directory.exists() else []:
             meta, _ = read_markdown(pattern)
-            if not authorized_publisher_text(meta) or meta.get("license") != "CC-BY-4.0":
+            member_reference = (meta.get("inclusion_authorization") == member_policy.get("authorization")
+                                and meta.get("rights_scope") == "publisher-authorized-transcript"
+                                and str(meta.get("id", "")).removeprefix("youtube-") in member_ids)
+            if not member_reference and (not authorized_publisher_text(meta) or meta.get("license") != "CC-BY-4.0"):
                 errors.append(f"{pattern.relative_to(ROOT)}: missing first-party attribution/license")
             if meta.get("third_party_exclusions") is not True:
                 errors.append(f"{pattern.relative_to(ROOT)}: missing third-party rights notice")
@@ -566,6 +632,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         "video_catalog": len(video_rows),
         "video_transcripts": sum(bool(row.get("transcript_included")) for row in video_rows),
         "video_metadata_only": sum(not bool(row.get("transcript_included")) for row in video_rows),
+        "member_video_transcripts": len(member_ids),
         "known_guest_videos": sum(bool(row.get("guest_names")) for row in video_rows),
         "english_community_catalog": len(english_rows),
         "english_community_full_text_files": len(list((ROOT / "corpus/english-community").glob("*.md"))),
@@ -599,7 +666,8 @@ def build_manifest(stats: dict[str, int]) -> dict:
             "community_comments_full_text": "first-party comments on included Yuzheng-authored posts, from discussion spaces with at least 80 effective characters; member mentions, contact data, sensitive/private context, third-party leading quotations, and all inline links removed",
             "knowledge_bank_full_text": "first-party Knowledge Bank posts point to the unified community-post corpus; other authors remain metadata-only",
             "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
-            "video_full_text": "explicit V1 solo-Yuzheng allowlist + timed transcript + no conflicting guest/mixed-speaker signal",
+            "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact maintainer-authorized member-video-policy snapshot; mixed/unresolved speech retains original rights and cannot independently establish Yuzheng's stance",
+            "member_videos": "open transcript text, members-only original videos; exact IDs and transcript hashes in config/member-video-policy.json; YouTube membership is distinct from Ask's Superlinear Founding quota",
             "book": "author-owned complete framework reference and chapter map; no publisher-formatted assets",
             "english_community": "exact reviewed public post allowlist; original author, publisher, AI translation and repost roles remain separate; third-party rights retained",
             "english_video_translations": "canonical AI translations of currently allowlisted solo-Yuzheng public videos only; generation date is not a public publication date; source-family deduplication",
