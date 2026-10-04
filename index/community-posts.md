@@ -2,17 +2,20 @@
 
 # 社区帖子与评论
 
-立正在超线性学院（Superlinear Academy）发布的 249 篇帖子和 10 条评论，按发布时间从新到旧排列。全文按[CC BY 4.0](../LICENSES/CC-BY-4.0.txt)开放，注明作者和出处即可转载、改编。
+立正在超线性学院（Superlinear Academy）发布的 252 篇帖子和 10 条评论，按发布时间从新到旧排列。全文按[CC BY 4.0](../LICENSES/CC-BY-4.0.txt)开放，注明作者和出处即可转载、改编。
 
 - **会员空间**：99 篇原帖发在需要会员的空间，作者已授权开放这些帖子的正文；同一页面上其他成员的内容不在这里。
 - **机器可读**：[catalog/community-posts.jsonl](../catalog/community-posts.jsonl) · [catalog/community-comments.jsonl](../catalog/community-comments.jsonl)
 
 ## 帖子
 
-### 2026（144 篇）
+### 2026（147 篇）
 
 | 日期 | 标题 | 空间 | 原帖 |
 | --- | --- | --- | --- |
+| 2026-10-03 | [AI替你做出来以后，你还会什么？｜哥大客座课程回放](../corpus/community-posts/20261003-columbia-ai-learning-and-judgment-20261002-37077565.md) | 活动回放 | [原帖](https://www.superlinear.academy/c/recording/columbia-ai-learning-and-judgment-20261002) |
+| 2026-10-02 | [问问立正：直接问我讲过的内容，Founding Member不限次](../corpus/community-posts/20261002-ask-lizheng-37030030.md) | Toolbox | [原帖](https://www.superlinear.academy/c/tools/ask-lizheng) |
+| 2026-10-01 | [建议每个人都用Opus 5.5做一下个人主页](../corpus/community-posts/20261001-personal-homepage-with-opus-5-5-36993423.md) | Share Your Projects | [原帖](https://www.superlinear.academy/c/share-your-projects/personal-homepage-with-opus-5-5) |
 | 2026-09-30 | [假学习的终结](../corpus/community-posts/20260930-fake-learning-36978220.md) | Knowledge Bank | [原帖](https://www.superlinear.academy/c/ai-resources/fake-learning) |
 | 2026-09-29 | [做自媒体，先想清楚你要放大什么](../corpus/community-posts/20260929-zhou-jie-personal-branding-36918574.md) | 活动回放 | [原帖](https://www.superlinear.academy/c/recording/zhou-jie-personal-branding) |
 | 2026-09-22 | [从大厂高薪到自己赚钱，中间差的是什么？](../corpus/community-posts/20260922-ashley-ai-career-real-value-36677614.md) | 活动回放 | [原帖](https://www.superlinear.academy/c/recording/ashley-ai-career-real-value) |
@@ -102,10 +105,10 @@
 | 2026-05-19 | [越急，越不要许愿](../corpus/community-posts/20260519-wishful-thinking-32745544.md) | Main Community · 会员空间 | [原帖](https://www.superlinear.academy/c/main/wishful-thinking) |
 | 2026-05-12 | [留给我们的时间不多了：从 Engels’ Pause 看 AI 时代的自救](../corpus/community-posts/20260512-engels-pause-ai-32533039.md) | Main Community · 会员空间 | [原帖](https://www.superlinear.academy/c/main/engels-pause-ai) |
 | 2026-05-12 | [杀得一脸血一脸泥，还能记得兵书：我和杨滢（屠龙大实话）聊学术、创业、利润和真实世界](../corpus/community-posts/20260512-yangying-32530235.md) | 活动回放 | [原帖](https://www.superlinear.academy/c/recording/yangying) |
-| 2026-05-10 | [从“算计太多”到“心力劳动”：我和夏淳博士聊硅谷创业、AI时代与人的下一次迁徙](../corpus/community-posts/20260510-xiachun-32476640.md) | 论坛 | [原帖](https://www.superlinear.academy/c/posts/xiachun) |
+| 2026-05-10 | [从“算计太多”到“心力劳动”：我和夏淳博士聊硅谷创业、AI时代与人的下一次迁徙](../corpus/community-posts/20260510-xiachun-32476640.md) | 活动回放 | [原帖](https://www.superlinear.academy/c/recording/xiachun) |
 | 2026-05-08 | [AI课程刷新总结 - 2026年5月版](../corpus/community-posts/20260508-course-update-may2026-32446665.md) | 社区公告 | [原帖](https://www.superlinear.academy/c/start-here/course-update-may2026) |
 | 2026-05-07 | [真正难懂的建议：把一年押在一件事上](../corpus/community-posts/20260507-superlinear-32408477.md) | 论坛 | [原帖](https://www.superlinear.academy/c/posts/superlinear) |
-| 2026-05-05 | [AI时代，找工作和创业的有效方法｜Jobright联创/CTO Ethan对话](../corpus/community-posts/20260505-jobright-32327065.md) | 论坛 | [原帖](https://www.superlinear.academy/c/posts/jobright) |
+| 2026-05-05 | [AI时代，找工作和创业的有效方法｜Jobright联创/CTO Ethan对话](../corpus/community-posts/20260505-jobright-32327065.md) | 活动回放 | [原帖](https://www.superlinear.academy/c/recording/jobright) |
 | 2026-05-05 | [AI Agent 时代的 FDE：把模型能力落到真实业务里](../corpus/community-posts/20260505-fde-32313864.md) | Main Community · 会员空间 | [原帖](https://www.superlinear.academy/c/main/fde) |
 | 2026-04-30 | [Taste是你感受quality的能力，是可以提高的](../corpus/community-posts/20260430-taste-quality-32169951.md) | 论坛 | [原帖](https://www.superlinear.academy/c/posts/taste-quality) |
 | 2026-04-29 | [Agent 时代的投资与生存法则｜Indigo 西雅图线下分享 Notes & Insights](../corpus/community-posts/20260429-indigo-meetup-32120041.md) | 论坛 | [原帖](https://www.superlinear.academy/c/posts/indigo-meetup) |

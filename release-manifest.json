@@ -4,8 +4,8 @@
   "repository": "sunyuzheng/lizheng-open-context",
   "intended_visibility": "public",
   "source_snapshots": {
-    "community_posts": "2026-09-30",
-    "knowledge_bank": "2026-09-30",
+    "community_posts": "2026-10-03",
+    "knowledge_bank": "2026-10-03",
     "english_community": "2026-09-17",
     "community_comments": "2026-08-30",
     "video_inventory": "2026-09-30",
@@ -32,8 +32,8 @@
     "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md"
   },
   "counts": {
-    "community_posts_catalog": 249,
-    "community_posts_full_text": 249,
+    "community_posts_catalog": 252,
+    "community_posts_full_text": 252,
     "community_comments_included": 10,
     "member_course_lessons": 23,
     "community_comments_reviewed": 2519,
@@ -53,7 +53,7 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 560
+      "files": 563
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
@@ -87,8 +87,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 6484,
-      "sha256": "82e2e78208e9ad2c3c9dcb6fbe1ab5aae70eefa9ec8cbd400a61eb46c06b3ae2",
+      "bytes": 7596,
+      "sha256": "14f9b912ab441d6ca6923e0ea979635af745738dc3a954b6c096ac2d40ca154a",
       "license": "MIT"
     },
     {
@@ -106,7 +106,7 @@
     {
       "path": "INDEX.md",
       "bytes": 5081,
-      "sha256": "b11b1c3b6e8bbe883721fb83d9a6e80cdc389168a6697db1f27b3fa2c6668bf8",
+      "sha256": "0f16c93a4ef2388acc99b51a67e29dbaa92a3ec85d014762845bd2a7489903a1",
       "license": "CC0-1.0"
     },
     {
@@ -153,8 +153,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 14305,
-      "sha256": "32b742c6dd9706ec0a8abb9c5a6b6e2fab4e7c9944a7ca41c24b07ba02e9485d",
+      "bytes": 14408,
+      "sha256": "334c7ca0ef030c592aacd27754a461c004b05f638fa053b55bd9fd3be04bdb4d",
       "license": "MIT"
     },
     {
@@ -171,8 +171,8 @@
     },
     {
       "path": "catalog/community-posts.jsonl",
-      "bytes": 321167,
-      "sha256": "bd2d3a9b2cc003bc5890e4ba921c08822b4f66e630abce1c4bbb1a9df8be2c8a",
+      "bytes": 325355,
+      "sha256": "eeed418aa66e31d87e763bd962a31bd99f0e5a5f90cedb30a7a413184a16628d",
       "license": "CC0-1.0"
     },
     {
@@ -196,7 +196,7 @@
     {
       "path": "catalog/knowledge-bank.jsonl",
       "bytes": 169551,
-      "sha256": "ef36e7dd699013eff213f803681f84498db628f12065e5f788c45db99144282d",
+      "sha256": "681eefec0f3673dee52b330b2d86147e5f2ad9188b146fa4c030ac3e9b488d43",
       "license": "CC0-1.0"
     },
     {
@@ -238,7 +238,7 @@
     {
       "path": "config/release-snapshot.json",
       "bytes": 580,
-      "sha256": "a3e339f306cbbce732ca05a99708a70d69ac18acb693e6736213643c120ecbdc",
+      "sha256": "61b5e838822dab698641f5a26cdb54eda23c837709e812ab05d5b0e5b442ebbf",
       "license": "CC0-1.0"
     },
     {
@@ -382,7 +382,7 @@
     {
       "path": "corpus/community-posts/20240806-superlinear-13760223.md",
       "bytes": 3073,
-      "sha256": "4ae90ab0fe14c1a1ec51801a1fd0c100c7e4da0e29132beb753a377b27ca38c9",
+      "sha256": "17a68406033d9621448521af7e5e662a821349620bb98076232a37412247fe00",
       "license": "CC-BY-4.0"
     },
     {
@@ -538,7 +538,7 @@
     {
       "path": "corpus/community-posts/20241009-devin-yang-15475656.md",
       "bytes": 4570,
-      "sha256": "588a8f0c0b92620e519b5a0108d8b3ae143d3379a53bfb9b756b2997313eff2c",
+      "sha256": "3cea153e836b546279f88fd7c72ca7c18dbe4ebf85dde24b92e15710e3cc50f1",
       "license": "CC-BY-4.0"
     },
     {
@@ -922,7 +922,7 @@
     {
       "path": "corpus/community-posts/20251120-ideas-27070802.md",
       "bytes": 6065,
-      "sha256": "41e4a050082318bb7eaa81b1dd75e6f7abd5ed12850681cca7ee25a5555cda69",
+      "sha256": "dd1960f7b85bd0c5f257245a77a9db106efaaeddb4bf5372a0ca01b3c30dbf1e",
       "license": "CC-BY-4.0"
     },
     {
@@ -1126,7 +1126,7 @@
     {
       "path": "corpus/community-posts/20260326-ai-native-orgs-31026273.md",
       "bytes": 24494,
-      "sha256": "3f037534723fc8b9871a743132fe37413ef6e56d64331fae0f6f6c5634d947bb",
+      "sha256": "feed6b0da7f2fe4ccd397e187835b2a30eff2f9dfef68564aa6f76274676969b",
       "license": "CC-BY-4.0"
     },
     {
@@ -1209,8 +1209,8 @@
     },
     {
       "path": "corpus/community-posts/20260412-career-transition-31595184.md",
-      "bytes": 12894,
-      "sha256": "e0173db876b3f668c24bed91d7fc59dd3851b32e3d024b3305be30b891a01c26",
+      "bytes": 12871,
+      "sha256": "efcdc85e2f26faaa75c2a057875d8bebe1e6a26f46b4c48f411e137a01d6dce3",
       "license": "CC-BY-4.0"
     },
     {
@@ -1299,8 +1299,8 @@
     },
     {
       "path": "corpus/community-posts/20260505-jobright-32327065.md",
-      "bytes": 35304,
-      "sha256": "59167057d4f33e6f77658e2392f16b8348010916ca05bbcc93d41c81a3892b21",
+      "bytes": 35326,
+      "sha256": "e288eecb78c4329b705ea8ae5f088ebc7c9482bff38a0543f5afa50708aff3ea",
       "license": "CC-BY-4.0"
     },
     {
@@ -1317,8 +1317,8 @@
     },
     {
       "path": "corpus/community-posts/20260510-xiachun-32476640.md",
-      "bytes": 28114,
-      "sha256": "9fabd190f312f087247d5bf2d9883f241c3152fd83e68c6007e510de87d26cc7",
+      "bytes": 28136,
+      "sha256": "6c2cb22eb12202abd7414967450f1e93cf5ebbee8b5bfc423337fc9068fc031d",
       "license": "CC-BY-4.0"
     },
     {
@@ -1390,7 +1390,7 @@
     {
       "path": "corpus/community-posts/20260609-voice-to-text-superlinear-33441621.md",
       "bytes": 3249,
-      "sha256": "3523314d026697481cbea652e2c24bc5aeb1335720dc97483ee2c6818ea61fca",
+      "sha256": "de23c6e1a472cbe6013dd9e087673c02304b00929e24cf6f274fd1e11dae36c8",
       "license": "CC-BY-4.0"
     },
     {
@@ -1468,7 +1468,7 @@
     {
       "path": "corpus/community-posts/20260713-stay-superlinear-34456888.md",
       "bytes": 11746,
-      "sha256": "8fcca26740f2bdd0446a8c6a0ceb41b2ec3e75c0eac0af8132aabba03f0172b1",
+      "sha256": "766189cd2d1117799073752ec984d8a655c433788eb02958a21e506f3f8d4b89",
       "license": "CC-BY-4.0"
     },
     {
@@ -1480,7 +1480,7 @@
     {
       "path": "corpus/community-posts/20260715-chandler-guo-34539883.md",
       "bytes": 27128,
-      "sha256": "2d207b6eca23b113716f716fbc8c40b117dd3f3d225d48b2f073d523f44a69e3",
+      "sha256": "5e3c22a3b87e43f253cd812270268cac4063348206330da6692cac9dbe4c530b",
       "license": "CC-BY-4.0"
     },
     {
@@ -1515,8 +1515,8 @@
     },
     {
       "path": "corpus/community-posts/20260715-tools-34544617.md",
-      "bytes": 2347,
-      "sha256": "bee9a49a463cbbd49dc2b042ec19e464be59317e503b69f1b899185d77b48c4d",
+      "bytes": 1958,
+      "sha256": "a87ccd94ab744b447e3398a13a86f2648a38c1ff36c10d0f5ceea51823532538",
       "license": "CC-BY-4.0"
     },
     {
@@ -1600,7 +1600,7 @@
     {
       "path": "corpus/community-posts/20260813-ai-native-35457543.md",
       "bytes": 14556,
-      "sha256": "9ff5ed9eb6b53a15bbf476813cebb10bf3828ca1784eea4e94338f2706d2b8e8",
+      "sha256": "fad6bf4ccb89e48ee03671f4c3256874e16a751ebe6f025d94ab37503c337ce5",
       "license": "CC-BY-4.0"
     },
     {
@@ -1624,7 +1624,7 @@
     {
       "path": "corpus/community-posts/20260820-orca-35652694.md",
       "bytes": 22718,
-      "sha256": "ad183a652c0f4d66683aa423146c9f2cc5d649ca168e028fc143c3e3df6109d9",
+      "sha256": "6d73d775b2ec2abc015b61ae6db0ae83d81de027053ebe78703cdf3a2dfe151d",
       "license": "CC-BY-4.0"
     },
     {
@@ -1666,7 +1666,7 @@
     {
       "path": "corpus/community-posts/20260828-bigjoe-35918443.md",
       "bytes": 12500,
-      "sha256": "dbaea0a95d2f0a3a96ef6d3ecc7ca6166dce72c354e78eb4e729b5cf80717a07",
+      "sha256": "39849f4c7665647cb287e91c69ea25f49c276f014b2dffffbcb60b764c7a1bbc",
       "license": "CC-BY-4.0"
     },
     {
@@ -1678,7 +1678,7 @@
     {
       "path": "corpus/community-posts/20260828-focus-35929402.md",
       "bytes": 11379,
-      "sha256": "6ddbb88c62748655b96f7606b8a0d3820e25788cb4a8f8ad25230600a5d0fe40",
+      "sha256": "ba857b15cb96faa6773938e93326e5a187ceee00b0b6d3229fe1918ea7308463",
       "license": "CC-BY-4.0"
     },
     {
@@ -1696,7 +1696,7 @@
     {
       "path": "corpus/community-posts/20260829-alice-priscilla-karant-35945194.md",
       "bytes": 9530,
-      "sha256": "3840b466e879cfa3ab71ac51ffa47700f013fa1fc010a50221e085e944f8b14e",
+      "sha256": "51534aaadef07b39797a543da659f71da3944352a0a806f325ffb53eb64ec016",
       "license": "CC-BY-4.0"
     },
     {
@@ -1708,7 +1708,7 @@
     {
       "path": "corpus/community-posts/20260830-lizheng-context-35950481.md",
       "bytes": 7259,
-      "sha256": "e8eac0783723762a0163dc4ba45aaa7f8c17af5aa5813fcc5f259b3f254a8050",
+      "sha256": "54bf04b60afb6eed125144f90a15887d6e160c65921e142bd24ec52a4f89a1a8",
       "license": "CC-BY-4.0"
     },
     {
@@ -1798,7 +1798,7 @@
     {
       "path": "corpus/community-posts/20260915-app-launch-36467744.md",
       "bytes": 5877,
-      "sha256": "754cf4bb84b89c5eb4119037a4fcad98333423c93be1fe1ba6855eb234261eb4",
+      "sha256": "441f8fa9771d9b4e5eaa82e29e5b4161f109e6085b3b57c83c5f7591b68448de",
       "license": "CC-BY-4.0"
     },
     {
@@ -1834,7 +1834,7 @@
     {
       "path": "corpus/community-posts/20260920-ai-builders-learning-path-36380668.md",
       "bytes": 35924,
-      "sha256": "9179f8cbc10ca52ba0166004b2e9551192ffeef5e8ec7913e617e1b379bed7d0",
+      "sha256": "76e70e05668488df6fb1b1c0bea71845f6382a0e6eb80c96b9e1a5467b3bf3a4",
       "license": "CC-BY-4.0"
     },
     {
@@ -1846,13 +1846,31 @@
     {
       "path": "corpus/community-posts/20260929-zhou-jie-personal-branding-36918574.md",
       "bytes": 16785,
-      "sha256": "a441417bad530746cb8bfd4f90237de3ca58d4656687482684b924bedee48342",
+      "sha256": "aef4fdd9928007b8e26a5634b820c3e50e3265e54237ee153d956509e383f373",
       "license": "CC-BY-4.0"
     },
     {
       "path": "corpus/community-posts/20260930-fake-learning-36978220.md",
       "bytes": 16280,
-      "sha256": "ebdd76f8502b574120c689372adf67c6e8a8c508fc35e4a5ac75452255bcc1c9",
+      "sha256": "a27bd476c6285bdff1f2706f4305cf9fe817c60037f5f63e54d28a7749c7a174",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-posts/20261001-personal-homepage-with-opus-5-5-36993423.md",
+      "bytes": 7079,
+      "sha256": "0c9cacaabee051985b836d488993a57add5dd1f05ba8d07249c480e3fd77aeee",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-posts/20261002-ask-lizheng-37030030.md",
+      "bytes": 6069,
+      "sha256": "04a3430c3ca53694007ac2d01066e6890bb5d59ba6e209fcb7ddba777f59e5d3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-posts/20261003-columbia-ai-learning-and-judgment-20261002-37077565.md",
+      "bytes": 15213,
+      "sha256": "cd0a85c08ad4fab9b9872c317663d6c26abe26c5f19be690268811e0851f6f37",
       "license": "CC-BY-4.0"
     },
     {
@@ -5302,7 +5320,7 @@
     {
       "path": "docs/privacy-and-rights.md",
       "bytes": 7811,
-      "sha256": "58427824838cf87fc81dce5354172d7f17f8c43447178cc13912de5e46e192a5",
+      "sha256": "ab941ae912750f225c5b14b7db08cabb362faac092464344dd02cac4cd5c0ac7",
       "license": "MIT"
     },
     {
@@ -5325,8 +5343,8 @@
     },
     {
       "path": "index/community-posts.md",
-      "bytes": 62027,
-      "sha256": "2fa100735060995cab44bd58045bc77a917687f8f6b0bccdc71bafbeb43d15a0",
+      "bytes": 62836,
+      "sha256": "32efd48440eadc68d9c1f0f7a5b97b88948b5a185cf43dafa9de38590f474308",
       "license": "CC0-1.0"
     },
     {

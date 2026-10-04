@@ -9,7 +9,7 @@
 | 资料 | 数量 | 目录页 | 文件夹 | 可以怎么用 |
 | --- | ---: | --- | --- | --- |
 | 《真本事》课程文字稿 | 23 份 | [按课程顺序](index/zhenbenshi-course.md) | [corpus/course-lessons/](corpus/course-lessons/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
-| 社区帖子 | 249 篇 | [按年份](index/community-posts.md) | [corpus/community-posts/](corpus/community-posts/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| 社区帖子 | 252 篇 | [按年份](index/community-posts.md) | [corpus/community-posts/](corpus/community-posts/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 社区评论 | 10 条 | [在帖子目录末尾](index/community-posts.md#评论10-条) | [corpus/community-comments/](corpus/community-comments/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 视频字幕：本人主讲 | 206 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 视频字幕：会员视频对话 | 215 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
