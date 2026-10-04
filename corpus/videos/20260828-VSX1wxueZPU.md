@@ -22,7 +22,7 @@ yuzheng_stance_weight: "not-evidence"
 source_family: "https://www.youtube.com/watch?v=VSX1wxueZPU"
 language: "zh"
 source_context: "Public channel conversation; the publisher authorized open transcript inclusion on 2026-10-04 for the conversations that shaped his values. Speaking turns are not diarized; Yuzheng's own turns are reviewed separately."
-attribution_note: "频道发布者 2026-10-04 授权收录的公开对话字幕；说话人没有逐段标注。嘉宾、提问者和引文分别归相应说话人，嘉宾的话不能当作立正的立场；立正本人可确认的发言另行摘录在 corpus/conversation-excerpts/。收录不改变嘉宾对自己言论的权利。以原视频核实说话人和准确措辞。"
+attribution_note: "频道发布者 2026-10-04 授权收录的公开对话字幕：立正说，他和王路的对话是塑造他价值观的重要组成部分。说话人没有逐段标注；王路和提问者的话归他们本人，不能当作立正的立场；立正本人可确认的发言另行摘录在 corpus/conversation-excerpts/。收录不改变嘉宾对自己言论的权利，嘉宾希望修改或撤下自己的部分，可以在 GitHub 开 issue。以原视频核实说话人和准确措辞。"
 source_visibility: "public"
 text_access: "public"
 transcript_source_kind: "youtube_human_subtitle"
@@ -33,12 +33,16 @@ publication_date_provenance: "youtube-published-at"
 ---
 
 <!-- provenance:start -->
-> Attribution / 归属：频道发布者 2026-10-04 授权收录的公开对话字幕；说话人没有逐段标注。嘉宾、提问者和引文分别归相应说话人，嘉宾的话不能当作立正的立场；立正本人可确认的发言另行摘录在 corpus/conversation-excerpts/。收录不改变嘉宾对自己言论的权利。以原视频核实说话人和准确措辞。
+> Attribution / 归属：频道发布者 2026-10-04 授权收录的公开对话字幕：立正说，他和王路的对话是塑造他价值观的重要组成部分。说话人没有逐段标注；王路和提问者的话归他们本人，不能当作立正的立场；立正本人可确认的发言另行摘录在 corpus/conversation-excerpts/。收录不改变嘉宾对自己言论的权利，嘉宾希望修改或撤下自己的部分，可以在 GitHub 开 issue。以原视频核实说话人和准确措辞。
 <!-- provenance:end -->
 
 # 让心自由，才能更好地活着｜对话《金刚经50讲》王路
 
 > **公开视频** · [观看完整视频](https://www.youtube.com/watch?v=VSX1wxueZPU) · 字幕文字经频道发布者授权收录，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；嘉宾的话归嘉宾本人。字幕来源：`youtube_human_subtitle`；校对状态：`human-caption`。以原视频核实说话人和准确措辞。
+
+<!-- values-conversation:start -->
+> **塑造价值观的对话** · 立正说，他和王路的对话是塑造他价值观的重要组成部分。王路：得到《金刚经50讲》主讲人，研究说一切有部阿毗达磨。字幕没有逐段标注说话人：王路的话归王路本人，不代表立正的观点。立正本人在这场对话里可确认的话已逐段核对，摘在[立正本人的话](../conversation-excerpts/20260828-VSX1wxueZPU-yuzheng.md)；这些对话怎样影响了他，见[阅读地图](../../context/values-conversations-map.md)。
+<!-- values-conversation:end -->
 
 [00:01:19](https://www.youtube.com/watch?v=VSX1wxueZPU&t=79s) 你在《金刚经》的50讲一开始有讲嘛
 

@@ -8,7 +8,8 @@ config/values-conversations-policy.json, and lists the reviewed excerpts of Yuzh
 catalog/conversation-excerpts.jsonl.
 
   --archive DIR     the channel subtitle archive the public transcripts come from
-  --apply           write the transcripts, the video catalog rows and the excerpt catalog
+  --apply           write the transcripts, the video catalog rows and the excerpt catalog, and put the
+                    opening note (guests, whose words are whose, where his own words are) on all twelve
   --write-policy    re-pin the transcript and excerpt hashes after a reviewed edit
 """
 from __future__ import annotations
@@ -30,9 +31,12 @@ EXCERPT_CATALOG = "catalog/conversation-excerpts.jsonl"
 AUTHORIZATION = "maintainer-request-2026-10-04-values-conversations"
 QUALITY = {"youtube_human_subtitle": "human-caption", "local_timed_unknown": "source-unverified"}
 LICENSE_URL = f"https://github.com/sunyuzheng/lizheng-open-context/blob/main/{LICENSE_TEXTS[REFERENCE_USE]}"
-TRANSCRIPT_NOTE = ("频道发布者 2026-10-04 授权收录的公开对话字幕；说话人没有逐段标注。嘉宾、提问者和引文分别归相应说话人，"
-                   "嘉宾的话不能当作立正的立场；立正本人可确认的发言另行摘录在 corpus/conversation-excerpts/。"
-                   "收录不改变嘉宾对自己言论的权利。以原视频核实说话人和准确措辞。")
+TRANSCRIPT_NOTE = ("频道发布者 2026-10-04 授权收录的公开对话字幕：立正说，他和{guest}的对话是塑造他价值观的重要组成部分。"
+                   "说话人没有逐段标注；{guests}和提问者的话归他们本人，不能当作立正的立场；立正本人可确认的发言另行摘录在 "
+                   "corpus/conversation-excerpts/。收录不改变嘉宾对自己言论的权利，嘉宾希望修改或撤下自己的部分，可以在 GitHub 开 issue。"
+                   "以原视频核实说话人和准确措辞。")
+NOTE_START = "<!-- values-conversation:start -->"
+NOTE_END = "<!-- values-conversation:end -->"
 TRANSCRIPT_CONTEXT = ("Public channel conversation; the publisher authorized open transcript inclusion on 2026-10-04 for the "
                       "conversations that shaped his values. Speaking turns are not diarized; Yuzheng's own turns are reviewed separately.")
 EXCERPT_FIELDS = (
@@ -83,6 +87,39 @@ def transcript_text(path: Path, url: str) -> str:
                        for seconds, value in cues)
 
 
+def display(name: str, policy: dict) -> str:
+    return (policy.get("guests", {}).get(name) or {}).get("display", name)
+
+
+def conversation_note(item: dict, policy: dict) -> str:
+    """The opening note of one conversation transcript: who the guests are, whose words are whose, where his own words are."""
+    guests = item["guest_names"]
+    names = "和".join(display(name, policy) for name in guests)
+    several = sum(guests[0] in other["guest_names"] for other in policy.get("conversations", [])) > 1
+    intros = "".join(f"{display(name, policy)}：{policy['guests'][name]['intro']}。" for name in guests if name in policy.get("guests", {}))
+    owner = "他们" if len(guests) > 1 else names
+    excerpt = Path(item["excerpt_path"]).name
+    return (f"{NOTE_START}\n> **塑造价值观的对话** · 立正说，他和{display(guests[0], policy)}的对话是塑造他价值观的重要组成部分"
+            f"{'，这是其中一场' if several else ''}。{intros}字幕没有逐段标注说话人：{names}的话归{owner}本人，不代表立正的观点。"
+            f"立正本人在这场对话里可确认的话已逐段核对，摘在[立正本人的话](../conversation-excerpts/{excerpt})；"
+            f"这些对话怎样影响了他，见[阅读地图](../../context/values-conversations-map.md)。\n{NOTE_END}\n\n")
+
+
+def annotate(root: Path, policy: dict) -> int:
+    """Put the note right after each conversation transcript's title and access notice; rerunning replaces it."""
+    count = 0
+    for item in policy.get("conversations", []):
+        path = root / item["source_transcript"]
+        meta, body = read_markdown(path)
+        body = re.sub(re.escape(NOTE_START) + r".*?" + re.escape(NOTE_END) + r"\s*", "", body, flags=re.S)
+        match = re.search(r"(?m)^# .+\n\n(?:> \*\*.+\n\n)?", body)
+        if not match:
+            raise ValueError(f"{item['source_transcript']}: no title to annotate")
+        write_markdown(path, meta, body[:match.end()] + conversation_note(item, policy) + body[match.end():])
+        count += 1
+    return count
+
+
 def prepare_public(archive: Path, policy: dict, root: Path = ROOT) -> tuple[list[tuple[Path, dict, str]], list[dict]]:
     archive = archive.expanduser().resolve()
     rows = [json.loads(line) for line in (root / "catalog/videos.jsonl").read_text(encoding="utf-8").splitlines()]
@@ -108,7 +145,9 @@ def prepare_public(archive: Path, policy: dict, root: Path = ROOT) -> tuple[list
                     third_party_exclusions=True, transcript_status=kind,
                     content_origin="mixed-or-unresolved-speech", generation_method="transcription",
                     evidence_role="speaker-attributed-speech", yuzheng_stance_weight="not-evidence",
-                    source_family=url, language="zh", source_context=TRANSCRIPT_CONTEXT, attribution_note=TRANSCRIPT_NOTE,
+                    source_family=url, language="zh", source_context=TRANSCRIPT_CONTEXT,
+                    attribution_note=TRANSCRIPT_NOTE.format(guest=display(approved["guest_names"][0], policy),
+                                                            guests="、".join(display(name, policy) for name in approved["guest_names"])),
                     source_visibility="public", text_access="public", transcript_source_kind=kind,
                     transcript_quality=QUALITY[kind], transcript_source_sha256=approved["transcript_sha256"],
                     inclusion_authorization=AUTHORIZATION, publication_date_provenance="youtube-published-at")
@@ -166,15 +205,17 @@ def main() -> None:
     policy = load_policy()
     writes, rows = prepare_public(args.archive, policy) if args.archive else ([], [])
     excerpts = excerpt_rows()
+    annotated = 0
     if args.apply:
         for target, meta, body in writes:
             write_markdown(target, meta, body)
         if rows:
             (ROOT / "catalog/videos.jsonl").write_text("".join(json.dumps(row, ensure_ascii=False, sort_keys=True) + "\n" for row in rows), encoding="utf-8")
         (ROOT / EXCERPT_CATALOG).write_text("".join(json.dumps(row, ensure_ascii=False, sort_keys=True) + "\n" for row in excerpts), encoding="utf-8")
+        annotated = annotate(ROOT, policy)
     print(json.dumps({"mode": "local-apply" if args.apply else "dry-run", "public_transcripts": len(writes),
-                      "excerpt_files": len(excerpts), "excerpts": sum(row.get("excerpt_count", 0) for row in excerpts)},
-                     ensure_ascii=False, indent=2))
+                      "excerpt_files": len(excerpts), "excerpts": sum(row.get("excerpt_count", 0) for row in excerpts),
+                      "annotated_transcripts": annotated}, ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

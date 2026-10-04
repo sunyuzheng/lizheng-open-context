@@ -43,6 +43,10 @@ publication_date_provenance: "archive-source-date"
 
 > **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=tjOWeYOBePU) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
+<!-- values-conversation:start -->
+> **塑造价值观的对话** · 立正说，他和Leon的对话是塑造他价值观的重要组成部分，这是其中一场。Leon：前 Meta E7 技术负责人、亚马逊 L7，个人投资者；2023 年起和妻子露露带孩子长期环球旅行。露露（Lulu）：Leon 的妻子。字幕没有逐段标注说话人：Leon和露露（Lulu）的话归他们本人，不代表立正的观点。立正本人在这场对话里可确认的话已逐段核对，摘在[立正本人的话](../conversation-excerpts/20240421-tjOWeYOBePU-yuzheng.md)；这些对话怎样影响了他，见[阅读地图](../../context/values-conversations-map.md)。
+<!-- values-conversation:end -->
+
 [00:00:00](https://www.youtube.com/watch?v=tjOWeYOBePU&t=0s) 对，咱们聊什么话题？我这儿觉得就是，呃，婚姻和教育都很值得聊。然后我个人更感兴趣的是教育。咱们主要聊教育吧，因为我看到上一期就是你发那个咱们聊的财富下，然后财富下你已经预告了吗？下一期正好也是找露露啊，还有文青一起来聊教育。而且我看到评论还有小朋友说期待着聊教育，咱们今天就时间有限，先聊教育。
 
 [00:00:25](https://www.youtube.com/watch?v=tjOWeYOBePU&t=25s) 好的，这个是开路吗？还是说就就开路了呀？啊，已经开路了，不用不用再点了，开路了呗。

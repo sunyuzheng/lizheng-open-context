@@ -387,7 +387,7 @@ def conversations_page(root: Path) -> str:
         f"每场都有字幕全文，以及逐段核对说话人后摘出的立正本人的话（共 {sum(int(row.get('excerpt_count') or 0) for row in rows)} 段）。",
         "",
         f"- **立正本人的话**：只收能从上下文确认是他说的段落，引文与字幕逐字一致，发布前逐段核对。会员视频里的摘录按{reference}使用，公开视频里的按{cc_by}。每段的小标题和「背景」由 AI 写成。",
-        f"- **字幕全文**：嘉宾、主持人和提问者的话归他们本人，不能当作立正的立场；按{reference}使用。",
+        f"- **字幕全文**：嘉宾、主持人和提问者的话归他们本人，不能当作立正的立场；按{reference}使用。每份字幕开头写明嘉宾是谁、哪些话归谁、立正本人的话在哪里。嘉宾希望修改或撤下自己的部分，可以[开 issue](https://github.com/sunyuzheng/lizheng-open-context/issues)。",
         f"- **来龙去脉**：每场对话里他带进去了什么、接住了什么、后来写进了哪些帖子和课，见{link(page, '塑造价值观的对话：阅读地图', 'context/values-conversations-map.md')}（AI 整理）。",
         f"- **机器可读**：{link(page, 'catalog/conversation-excerpts.jsonl', 'catalog/conversation-excerpts.jsonl')}",
         "",

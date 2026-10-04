@@ -102,6 +102,33 @@ class PolicyAndProvenanceTests(unittest.TestCase):
         self.assertTrue(all("youtube.com/watch?v=" in doc.source_url and "&t=" in doc.source_url for doc in documents if doc.section))
 
 
+class OpeningNoteTests(unittest.TestCase):
+    def test_every_conversation_transcript_names_its_guests_and_points_to_his_words(self):
+        for item in POLICY["conversations"]:
+            _, body = read_markdown(ROOT / item["source_transcript"])
+            note = body.split(conversations.NOTE_START, 1)[1].split(conversations.NOTE_END, 1)[0]
+            for name in item["guest_names"]:
+                self.assertIn(POLICY["guests"][name]["display"], note)
+            self.assertIn("不代表立正的观点", note)
+            self.assertIn(Path(item["excerpt_path"]).name, note)
+            # The note sits after the title and access notice, before the first timestamp.
+            self.assertLess(body.index(conversations.NOTE_START), body.index("](https://www.youtube.com/watch?v=" + item["video_id"] + "&t="))
+
+    def test_the_note_is_replaced_not_repeated_when_rerun(self):
+        folder = tempfile.TemporaryDirectory()
+        self.addCleanup(folder.cleanup)
+        root = Path(folder.name)
+        item = next(item for item in POLICY["conversations"] if item["video_id"] == "VSX1wxueZPU")
+        target = root / item["source_transcript"]
+        target.parent.mkdir(parents=True)
+        target.write_text((ROOT / item["source_transcript"]).read_text(encoding="utf-8"), encoding="utf-8")
+        policy = {**POLICY, "conversations": [item]}
+        conversations.annotate(root, policy)
+        conversations.annotate(root, policy)
+        self.assertEqual(target.read_text(encoding="utf-8").count(conversations.NOTE_START), 1)
+        self.assertEqual(target.read_text(encoding="utf-8"), (ROOT / item["source_transcript"]).read_text(encoding="utf-8"))
+
+
 class ReasoningCardTests(unittest.TestCase):
     def test_new_value_cards_rest_on_his_own_words_not_on_whole_conversations(self):
         cards = {card["id"]: card for card in json.loads((ROOT / "context/decision-cards.json").read_text(encoding="utf-8"))["cards"]}

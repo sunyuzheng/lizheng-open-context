@@ -4,6 +4,29 @@
   "authorization": "maintainer-request-2026-10-04-values-conversations",
   "scope": "作者 2026-10-04 说：会员视频里问道（格桑泽仁）、跟王路的对话、跟赵智沉的对话、跟 Leon 的对话都很重要，是他价值观塑造的重要组成部分，要求找出来认真分析，整理成 Open Context 的底层素材并提炼用好。据此：（一）收录其中六场公开对话的字幕全文（王路一场，Leon 五场）；四场会员对话（问道、赵智沉两场、Leon 与 LuluLeon 三场）的字幕此前已按会员字幕授权收录。字幕里嘉宾的话归嘉宾本人，不能当作立正的立场。（二）从这十二场对话里逐段核对说话人，只摘出立正本人可确认的发言，存为 corpus/conversation-excerpts/。",
   "method": "逐场通读字幕，只摘录能从上下文确认是立正本人说的段落；嘉宾、主持人、提问者、无法确认说话人的段落和涉及第三方私事的内容一律不摘。每段引文与收录的字幕逐字一致（标点与空白不计，「……」表示省略），小标题和背景提示由 AI 写成；validate_release.py 会逐段核对引文和时间点。",
+  "removal": "嘉宾或其他权利人希望修改或撤下自己在字幕里的部分，可以在 https://github.com/sunyuzheng/lizheng-open-context/issues 开 issue；维护者会撤下相应内容，并在更新记录里说明。",
+  "guests": {
+    "格桑泽仁": {
+      "display": "格桑泽仁",
+      "intro": "「得觉」体系创始人"
+    },
+    "赵智沉": {
+      "display": "赵智沉",
+      "intro": "北大元培、密歇根大学高能物理博士，写过物理科普书《什么是物理？》"
+    },
+    "王路": {
+      "display": "王路",
+      "intro": "得到《金刚经50讲》主讲人，研究说一切有部阿毗达磨"
+    },
+    "Leon": {
+      "display": "Leon",
+      "intro": "前 Meta E7 技术负责人、亚马逊 L7，个人投资者；2023 年起和妻子露露带孩子长期环球旅行"
+    },
+    "Lulu": {
+      "display": "露露（Lulu）",
+      "intro": "Leon 的妻子"
+    }
+  },
   "public_transcripts": [
     {
       "video_id": "VSX1wxueZPU",

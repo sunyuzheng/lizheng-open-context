@@ -82,6 +82,15 @@ python3 scripts/search.py "如何建立信念" --license open
 
 这不是唯一或“官方指定”的实现。它证明的是：同一套开放 context 可以支持不同工具、交互方式和问题选择。更多衍生实现见 [`COMMUNITY-PROJECTS.md`](COMMUNITY-PROJECTS.md)。
 
+## 塑造价值观的对话
+
+立正说，问道（格桑泽仁）和他跟王路、赵智沉、Leon 的对话，是他价值观塑造的重要组成部分。这 12 场对话（6 场会员视频、6 场公开视频）的字幕全文都在 `corpus/videos/`，目录见 [`index/values-conversations.md`](index/values-conversations.md)。用之前请知道：
+
+- **嘉宾的话归嘉宾。** 字幕没有逐段标注说话人，格桑泽仁、赵智沉、王路、Leon 和露露的话归他们本人，不代表立正的观点，也不因收录获得本仓库的许可；立正的参考使用许可只在他有权授权的范围内生效。每份字幕开头都写明嘉宾是谁、哪些话归谁。
+- **立正的话看摘录。** 他本人可确认的话逐段核对后摘在 [`corpus/conversation-excerpts/`](corpus/conversation-excerpts/)，共 132 段，引文与字幕逐字一致；每段的小标题和背景提示由 AI 写成。引用时写上年份：这些话跨了五年，有些想法后来变了。
+- **来龙去脉看阅读地图。** [塑造价值观的对话：阅读地图](context/values-conversations-map.md)由 AI 整理，按时间和主题梳理他在每场对话里带进去了什么、接住了什么。
+- **嘉宾想撤下自己的部分**，可以[开 issue](https://github.com/sunyuzheng/lizheng-open-context/issues)，维护者会撤下并在[更新记录](CHANGELOG.md)里说明。
+
 ## 这套材料主张什么
 
 当前最核心的一句话是：

@@ -301,6 +301,14 @@ def validate_values_conversations(video_rows: list[dict], excerpt_rows: list[dic
     actual = {str(path.relative_to(ROOT)) for path in (ROOT / "corpus/conversation-excerpts").glob("*.md")}
     if actual != set(conversations):
         errors.append("conversation excerpt catalog/files mismatch")
+    if not policy.get("removal") or set(policy.get("guests", {})) != {name for item in conversations.values() for name in item["guest_names"]}:
+        errors.append("Values conversation policy lacks its removal route or a guest introduction")
+    for item in conversations.values():
+        transcript = ROOT / item["source_transcript"]
+        text = transcript.read_text(encoding="utf-8") if transcript.is_file() else ""
+        # Every conversation opens by naming its guests, whose words are theirs, and where his own words are.
+        if "<!-- values-conversation:start -->" not in text or f"../conversation-excerpts/{Path(item['excerpt_path']).name}" not in text:
+            errors.append(f"{item['source_transcript']}: conversation transcript lacks its opening note")
     for row in excerpt_rows:
         label = str(row.get("id"))
         item = conversations.get(row.get("corpus_path"))

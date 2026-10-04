@@ -22,7 +22,7 @@ yuzheng_stance_weight: "not-evidence"
 source_family: "https://www.youtube.com/watch?v=CTcMvIZFQcw"
 language: "zh"
 source_context: "Public channel conversation; the publisher authorized open transcript inclusion on 2026-10-04 for the conversations that shaped his values. Speaking turns are not diarized; Yuzheng's own turns are reviewed separately."
-attribution_note: "频道发布者 2026-10-04 授权收录的公开对话字幕；说话人没有逐段标注。嘉宾、提问者和引文分别归相应说话人，嘉宾的话不能当作立正的立场；立正本人可确认的发言另行摘录在 corpus/conversation-excerpts/。收录不改变嘉宾对自己言论的权利。以原视频核实说话人和准确措辞。"
+attribution_note: "频道发布者 2026-10-04 授权收录的公开对话字幕：立正说，他和Leon的对话是塑造他价值观的重要组成部分。说话人没有逐段标注；Leon和提问者的话归他们本人，不能当作立正的立场；立正本人可确认的发言另行摘录在 corpus/conversation-excerpts/。收录不改变嘉宾对自己言论的权利，嘉宾希望修改或撤下自己的部分，可以在 GitHub 开 issue。以原视频核实说话人和准确措辞。"
 source_visibility: "public"
 text_access: "public"
 transcript_source_kind: "local_timed_unknown"
@@ -33,12 +33,16 @@ publication_date_provenance: "youtube-published-at"
 ---
 
 <!-- provenance:start -->
-> Attribution / 归属：频道发布者 2026-10-04 授权收录的公开对话字幕；说话人没有逐段标注。嘉宾、提问者和引文分别归相应说话人，嘉宾的话不能当作立正的立场；立正本人可确认的发言另行摘录在 corpus/conversation-excerpts/。收录不改变嘉宾对自己言论的权利。以原视频核实说话人和准确措辞。
+> Attribution / 归属：频道发布者 2026-10-04 授权收录的公开对话字幕：立正说，他和Leon的对话是塑造他价值观的重要组成部分。说话人没有逐段标注；Leon和提问者的话归他们本人，不能当作立正的立场；立正本人可确认的发言另行摘录在 corpus/conversation-excerpts/。收录不改变嘉宾对自己言论的权利，嘉宾希望修改或撤下自己的部分，可以在 GitHub 开 issue。以原视频核实说话人和准确措辞。
 <!-- provenance:end -->
 
 # Influence Without Authority ｜ 人生元能力
 
 > **公开视频** · [观看完整视频](https://www.youtube.com/watch?v=CTcMvIZFQcw) · 字幕文字经频道发布者授权收录，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；嘉宾的话归嘉宾本人。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+
+<!-- values-conversation:start -->
+> **塑造价值观的对话** · 立正说，他和Leon的对话是塑造他价值观的重要组成部分，这是其中一场。Leon：前 Meta E7 技术负责人、亚马逊 L7，个人投资者；2023 年起和妻子露露带孩子长期环球旅行。字幕没有逐段标注说话人：Leon的话归Leon本人，不代表立正的观点。立正本人在这场对话里可确认的话已逐段核对，摘在[立正本人的话](../conversation-excerpts/20210728-CTcMvIZFQcw-yuzheng.md)；这些对话怎样影响了他，见[阅读地图](../../context/values-conversations-map.md)。
+<!-- values-conversation:end -->
 
 [00:00:00](https://www.youtube.com/watch?v=CTcMvIZFQcw&t=0s) 在沟通的过程中很有可能意见是不一致的
 

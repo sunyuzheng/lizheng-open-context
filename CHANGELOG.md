@@ -10,6 +10,8 @@
 
 **他本人说的话。** 字幕不标说话人，整篇不能当作立正的立场。这次逐场通读，只摘出能从上下文确认是他说的段落，共 132 段，放在 [`corpus/conversation-excerpts/`](corpus/conversation-excerpts/)，每段带时间码和一句 AI 写的背景；嘉宾的话、说话人不确定的段落和涉及第三方私事的内容都不摘。引文与字幕逐字一致，`validate_release.py` 会逐段核对引文和时间点，对不上就不能发布。会员视频里的摘录按立正参考使用许可，公开视频里的按 CC BY 4.0。按对话的目录见 [`index/values-conversations.md`](index/values-conversations.md)。
 
+**说明写在哪里。** 12 份对话字幕开头都加了一段说明：嘉宾是谁，字幕不标说话人，嘉宾的话归嘉宾本人、不代表立正的观点，他本人的话摘在哪里。README 新增「塑造价值观的对话」一节；嘉宾希望修改或撤下自己的部分，可以在 GitHub 开 issue，维护者会撤下并在这里说明。
+
 **阅读地图和判断卡。** 新增[塑造价值观的对话：阅读地图](context/values-conversations-map.md)，按时间和主题梳理他在每场对话里带进去了什么、接住了什么、后来写进了哪些帖子和课。新增 8 张判断卡：科学的边界、一体与公平、「自」和「我」、自己定义意义、方法比答案重要、少证明自己、降伏其心、教孩子，依据是这些摘录和他的帖子；另给良质、指标与产出、沟通、个人品牌 4 张旧卡接上了对话里的原话。判断卡共 29 张。
 
 **English:** At Yuzheng's request, the twelve conversations he names as formative for his values (问道 with 格桑泽仁, two with 赵智沉, one with 王路, eight with Leon) are now source material. Six were member videos already included; the transcripts of the six public ones are added under the same terms (Lizheng Reference Use License; guests keep the rights in their own words). His own turns were reviewed speaker by speaker and excerpted (132 passages in `corpus/conversation-excerpts/`); every quotation must match its transcript verbatim at the stated time, which the release validator checks. A reading map and eight new reasoning cards build on them; there are now 29 cards.
