@@ -8,6 +8,8 @@
 
 **社区新帖。** 补入 3 篇新帖：[《建议每个人都用Opus 5.5做一下个人主页》](corpus/community-posts/20261001-personal-homepage-with-opus-5-5-36993423.md)、[《问问立正：直接问我讲过的内容，Founding Member不限次》](corpus/community-posts/20261002-ask-lizheng-37030030.md)、[《AI替你做出来以后，你还会什么？｜哥大客座课程回放》](corpus/community-posts/20261003-columbia-ai-learning-and-judgment-20261002-37077565.md)（立正讲「假学习的终结」，鸭哥讲求职与晋升；鸭哥的部分和同学提问归他们本人）。另外重新读取了 21 篇 9 月 30 日之后改动过的帖子：多数只是更新时间变了；4 篇正文或位置有变化，其中两篇活动回放从「论坛」移到「活动回放」，链接随之更新。帖子共 252 篇，Knowledge Bank 目录 169 篇不变，英文空间没有新文章。
 
+**判断卡接上新内容。** [判断卡](context/decision-cards.json)是问答时按问题加载的推理导航：讲清一个判断在什么条件下成立、不能推出什么，并指向该读的原文。新增 8 张《真本事》判断卡，分别是职业选择（道天地将法）、个人价值公式、少数高价值工作、三种思维、财务自由与投资、手艺与坚持、赚钱这门手艺、沟通，每张都以课文为原文依据。旧卡接上两篇新帖：「交付结果与能力增长」接上哥大讲座，「先明确内容要放大什么」接上个人主页。现在共 16 张。会员视频字幕暂时只进检索，没有写进判断卡。
+
 **统一版权。** 资料分五类，各用各的许可，总览见 [`LICENSE.md`](LICENSE.md)，细则见 [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)：
 
 - 立正的文字：CC BY 4.0（不变）；
@@ -24,7 +26,7 @@
 
 **更正。** 《真本事》文字稿的授权日期是 2026-10-03，之前误记为 10-04。
 
-**English:** Adds the lesson texts of the members-only *真本事* course (23 lessons) for retrieval and Q&A; the course videos and slides stay members-only. Adds 3 new community posts (including the companion post for the Columbia guest lecture "The End of Fake Learning") and re-reads 21 posts edited since 2026-09-30, for 252 posts in total. The repository's rights are now one scheme of five kinds: Yuzheng Sun's writing (CC BY 4.0), text from members-only content (the new Lizheng Reference Use License 1.0: read, search, use in free AI tools, quote briefly; no full republication, paid use, or model training), other people's work (original rights retained), catalog data (CC0), and code and documentation (MIT). `LICENSE.md` replaces the MIT-only `LICENSE`, `REUSE.toml` maps every file, and `INDEX.md` plus `index/` index all material. Corrects the course authorization date to 2026-10-03.
+**English:** Adds the lesson texts of the members-only *真本事* course (23 lessons) for retrieval and Q&A; the course videos and slides stay members-only. Adds 3 new community posts (including the companion post for the Columbia guest lecture "The End of Fake Learning") and re-reads 21 posts edited since 2026-09-30, for 252 posts in total. Adds 8 reasoning cards grounded in the course lesson texts and links two new posts into existing cards, for 16 cards. The repository's rights are now one scheme of five kinds: Yuzheng Sun's writing (CC BY 4.0), text from members-only content (the new Lizheng Reference Use License 1.0: read, search, use in free AI tools, quote briefly; no full republication, paid use, or model training), other people's work (original rights retained), catalog data (CC0), and code and documentation (MIT). `LICENSE.md` replaces the MIT-only `LICENSE`, `REUSE.toml` maps every file, and `INDEX.md` plus `index/` index all material. Corrects the course authorization date to 2026-10-03.
 
 ## 2026-10-02 会员字幕补充
 
