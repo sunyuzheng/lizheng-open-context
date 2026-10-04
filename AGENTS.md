@@ -32,6 +32,10 @@ This repository is a source-grounded public context pack, not a persona simulato
 - Every file has exactly one license; [`LICENSE.md`](LICENSE.md) explains the five kinds. Content files declare it in front matter, and `scripts/rights.py` derives `REUSE.toml` from those declarations. Never hand-edit `REUSE.toml`, `INDEX.md`, or `index/`; `python3 scripts/validate_release.py --write-manifest` regenerates them with the manifest.
 - Run `python3 scripts/validate_release.py` before proposing a public release.
 
+## Releases
+
+Pushing main is a release. Within about half an hour, ask-lizheng's `update-context` workflow copies it into 问问立正 (ask.lizheng.ai), rebuilds the search index and deploys it, unless a check fails. Push only what is ready to be answered from. To update 问问立正 at once, run `gh workflow run update-context.yml -R sunyuzheng/ask-lizheng`.
+
 ## Contributions
 
 Keep provenance machine-readable. A new corpus item needs a stable source URL, public publication date when available, author/speaker classification, rights scope, and content license. Material changes to the source model or rights policy require explicit maintainer review.
