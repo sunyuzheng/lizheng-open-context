@@ -171,6 +171,15 @@
             "慢工出细活"
           ],
           "role": "case"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20210806-9LKJ8JdLtfI-yuzheng.md",
+          "focus_terms": [
+            "metrics不是goal",
+            "本末倒置",
+            "变形"
+          ],
+          "role": "case"
         }
       ]
     },
@@ -474,6 +483,14 @@
             "马斯克"
           ],
           "role": "contrast"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20260828-VSX1wxueZPU-yuzheng.md",
+          "focus_terms": [
+            "人设塑造成一个偶像",
+            "限制性信念"
+          ],
+          "role": "contrast"
         }
       ]
     },
@@ -624,6 +641,24 @@
             "enlightenment",
             "幸福",
             "无限游戏"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/community-posts/20250603-dynamic-quality-22023314.md",
+          "focus_terms": [
+            "主观meet客观",
+            "dynamic quality",
+            "唯一真实"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230630-G1sQ5Yei2ug-yuzheng.md",
+          "focus_terms": [
+            "禅与摩托车维修艺术",
+            "良质",
+            "唯一真实"
           ],
           "role": "case"
         }
@@ -1395,6 +1430,14 @@
             "观点"
           ],
           "role": "case"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20210728-CTcMvIZFQcw-yuzheng.md",
+          "focus_terms": [
+            "我一直都是在做四",
+            "不是一条心"
+          ],
+          "role": "case"
         }
       ]
     },
@@ -1738,6 +1781,680 @@
             "Final"
           ],
           "role": "basis"
+        }
+      ]
+    },
+    {
+      "id": "science-limits-open-mind",
+      "title": "科学的边界：不违背已验证的物理，其余用感受和不断更新的判断去接近",
+      "query_cues": [
+        "玄学",
+        "玄学世界观",
+        "相信玄学",
+        "信不信玄学",
+        "科学的局限",
+        "科学解释不了",
+        "科学能解释",
+        "科学不能解释",
+        "科学万能",
+        "唯物主义",
+        "无神论",
+        "灵性",
+        "神秘主义",
+        "超自然",
+        "宗教信仰",
+        "有没有信仰",
+        "你信什么",
+        "信教吗",
+        "科学和宗教",
+        "多世界诠释",
+        "死藤水"
+      ],
+      "thesis": "立正受过物理训练，但认为科学擅长造工具，能解释的世界却有限：物理学能解释的部分，他大学时以为是九成，现在觉得不到一成。对剩下的部分，他保留物理学的约束——任何说法都不能和已验证的物理相违背——然后用自己的感受和不断更新的概率去接近：一个说不清的体系，一开始只给很小的可能，和自己的体验相符一次，就把可能调高一点。方法上他主张先用类比和对偶去发现，再想办法证明，否则探索走不远；他也随时准备推翻自己的判断。他说自己没有经历过开悟、觉醒那类体验，相信觉醒存在，是因为只需要质疑一个假设，其余能用逻辑推演、再和体感相印证。",
+      "conditions": [
+        "这是他本人的世界观和方法，不是要别人接受的结论；某个具体说法成不成立，仍要看它和体验、证据是否相符。",
+        "2023年他说科学也许只能解释世界的百分之十，2024年说物理学能解释的不到一成；引用时保留年份和原话。",
+        "格桑泽仁、赵智沉、王路的理论和讲法归他们本人。"
+      ],
+      "does_not_imply": [
+        "不意味着反科学、否定实验和证据，或可以用感觉推翻已经验证的结论。",
+        "不能据此替他认定任何具体宗教、气功、催眠或疗法有效。"
+      ],
+      "diagnostic_questions": [
+        "这个说法和已经验证的科学结论冲突吗？",
+        "你的体验让你对它的相信程度上调了，还是下调了？"
+      ],
+      "relations": [
+        {
+          "card_id": "oneness-and-fairness",
+          "kind": "shared-mechanism"
+        },
+        {
+          "card_id": "quality-and-purpose",
+          "kind": "application"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/conversation-excerpts/20241026-rZO-Z3b1Skk-yuzheng.md",
+          "focus_terms": [
+            "90%",
+            "9%",
+            "bation update",
+            "不能跟物理学所验证的东西相违背"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230630-G1sQ5Yei2ug-yuzheng.md",
+          "focus_terms": [
+            "百分之十",
+            "百分之一的可能性",
+            "概率变高了"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20251013-awakening-part-1-25941336.md",
+          "focus_terms": [
+            "question一个假设",
+            "仍然可以相信觉醒的存在",
+            "并没有经历过"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20241214-2024-2025-resolution-17067354.md",
+          "focus_terms": [
+            "意识到科学的局限和开始构建玄学世界观"
+          ],
+          "role": "case"
+        }
+      ]
+    },
+    {
+      "id": "oneness-and-fairness",
+      "title": "我们都是同一个意识：伤害别人就是伤害自己，体验本身是意义",
+      "query_cues": [
+        "人死后",
+        "死后去哪",
+        "死后会怎样",
+        "死后的世界",
+        "灵魂",
+        "轮回",
+        "前世今生",
+        "世界公平吗",
+        "世界不公平",
+        "世界是公平的",
+        "公不公平",
+        "善有善报",
+        "因果报应",
+        "为什么要做好人",
+        "为什么要善良",
+        "活着的意义",
+        "生命的意义",
+        "人为什么活着",
+        "造物主",
+        "神存在吗",
+        "上帝存在吗",
+        "与神对话",
+        "同一个意识",
+        "道生一"
+      ],
+      "thesis": "立正讲过自己「目前为止的玄学世界观」：佛教、道教和《与神对话》这类经典都指向同一件事——所有人都是同一个意识分出来体验自己的，就像「道生一，一生二」。由此他得出两点：世界是公平的，因为你对别人施加的伤害和善意，最后都会作用在自己身上；体验本身是重要的，有潮涨才体验得到潮落。2023年他转述别人的推论，说自己对这个信仰「挺有感觉」；2025年他把它当作自己的世界观完整讲出来，并说它至少讲得通（consistent），而不是被证明了。",
+      "conditions": [
+        "这是他明确标为「so far」的个人信念，不是可以验证的事实陈述。",
+        "引用时保留年份：2023年是对别人推论的共鸣，2025年是他自己的表述。"
+      ],
+      "does_not_imply": [
+        "不能据此认定他信某个具体宗教，或替他判断宗教之间谁对谁错。",
+        "不意味着可以用「世界是公平的」去解释别人的苦难、免掉帮助的责任。"
+      ],
+      "diagnostic_questions": [
+        "你想问的是这个信念本身，还是它会怎样改变你今天对待别人的方式？"
+      ],
+      "relations": [
+        {
+          "card_id": "science-limits-open-mind",
+          "kind": "shared-mechanism"
+        },
+        {
+          "card_id": "self-and-constructed-me",
+          "kind": "scope-distinction"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/conversation-excerpts/20250121-zbm1bWihx5E-yuzheng.md",
+          "focus_terms": [
+            "全学世界观",
+            "绝对公平",
+            "体验是这里面重要的事情",
+            "同一个神"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230630-G1sQ5Yei2ug-yuzheng.md",
+          "focus_terms": [
+            "伤害别人，其实是在伤害自己",
+            "一体的",
+            "公不公平"
+          ],
+          "role": "basis"
+        }
+      ]
+    },
+    {
+      "id": "self-and-constructed-me",
+      "title": "「自」和「我」：脑子里那个声音，不是全部的自己",
+      "query_cues": [
+        "觉醒",
+        "开悟",
+        "得觉",
+        "格桑泽仁",
+        "找不到自己",
+        "找不到我",
+        "我是谁",
+        "认识自己",
+        "两个我",
+        "精神内耗",
+        "内心的声音",
+        "脑子里的声音",
+        "大脑的声音",
+        "不想起床",
+        "自我意识",
+        "活在当下",
+        "冥想"
+      ],
+      "thesis": "立正借用格桑泽仁「得觉」体系的区分：「自」是先天的能量和感受，「我」是后天被教育和社会组装出来的思考、标签和角色。很多纠结是两者在打架，比如不想起床又不得不起床的早晨：「自」不想起，「我」不得不起；去滑雪或者房子着火时，两者一致，就没有起床气。他说自己三十岁前几乎只有「我」，能用理性把感受合理化掉；三十岁后「自」越来越强，原来那个目标明确的「我」反而找不到了。他相信觉醒存在，但说自己没有那类体验；在他看来，认出脑子里的声音多数时候在骗自己，就能帮人做更好的决定、松弛下来、活在当下。",
+      "conditions": [
+        "「自」「我」「觉」是格桑泽仁体系里的概念，归格桑泽仁；立正的理解以他自己的帖子和发言为准。",
+        "他说这几个体系也许说的并不是一件事，是他自己把它们连在了一起。"
+      ],
+      "does_not_imply": [
+        "不能用来替人诊断心理问题；严重的抑郁、焦虑需要专业帮助。",
+        "不意味着放弃理性或社会角色；他仍然用「我」工作，只是不把它当作全部的自己。"
+      ],
+      "diagnostic_questions": [
+        "这次纠结里，哪一部分是你真的不想要，哪一部分是你觉得自己应该要？"
+      ],
+      "relations": [
+        {
+          "card_id": "quality-and-purpose",
+          "kind": "shared-mechanism"
+        },
+        {
+          "card_id": "oneness-and-fairness",
+          "kind": "scope-distinction"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/community-posts/20251013-awakening-part-1-25941336.md",
+          "focus_terms": [
+            "不想起床",
+            "两个主体",
+            "脑子里的声音"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230630-G1sQ5Yei2ug-yuzheng.md",
+          "focus_terms": [
+            "三十岁之前",
+            "几乎只有我",
+            "找不到我了"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260307-dejue-30402836.md",
+          "focus_terms": [
+            "后天组装",
+            "先天的",
+            "自我理论"
+          ],
+          "role": "case"
+        }
+      ]
+    },
+    {
+      "id": "define-your-own-meaning",
+      "title": "别只玩别人设定的游戏：先问这是不是你自己的目的",
+      "query_cues": [
+        "人生意义",
+        "人生的意义",
+        "活着为了什么",
+        "别人给的意义",
+        "升职加薪",
+        "为了升职",
+        "财富自由",
+        "提前退休",
+        "fire",
+        "阶段性退休",
+        "gap year",
+        "间隔年",
+        "要不要辞职",
+        "裸辞",
+        "躺平",
+        "消费主义",
+        "攀比",
+        "别人眼中的成功",
+        "成功的定义",
+        "社会时钟",
+        "君子不器",
+        "不productive",
+        "不 productive"
+      ],
+      "thesis": "立正在和Leon的几场对话里，一步步拆开了「钱和升职就是人生意义」这条默认：2021年他说钱不是衡量人生意义的尺度，「我应该去找到自己人生的意义」；2023年他反问「如果升职加薪本身是错的呢」，承认自己以前以为的人生意义是别人给的，成绩、级别、收入和个人价值绑在一起。放到数据工作里，指标是衡量策略的工具，不是目标。后来这条线延伸成他不想做「productive role model」：不把人生目标定义成单位时间产出更多，也不让赚钱成为衡量生命质量的唯一标尺。2024年他说，听渔夫和有钱人的故事，现在更共情渔夫。",
+      "conditions": [
+        "他不反对赚钱和成功：钱在不够的时候非常重要，他抗拒的是被成功反向定义。",
+        "2023年他也坦白，停下来两年会影响职业上限，对他当时不是现实选项；引用时保留这种权衡。",
+        "Multiple FIRE（阶段性退休）是Leon的方案，立正讨论过，没有说自己照做。"
+      ],
+      "does_not_imply": [
+        "不意味着建议辞职、躺平或放弃职业发展。",
+        "不能替提问的人决定他的人生目的。"
+      ],
+      "diagnostic_questions": [
+        "你追的这个指标，衡量的是你真正想要的东西，还是别人告诉你应该要的？",
+        "如果这件事做成了却没有人知道，你还想要它吗？"
+      ],
+      "relations": [
+        {
+          "card_id": "outcome-over-proxy",
+          "kind": "shared-mechanism"
+        },
+        {
+          "card_id": "subdue-the-mind-real-needs",
+          "kind": "application"
+        },
+        {
+          "card_id": "quality-and-purpose",
+          "kind": "scope-distinction"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/conversation-excerpts/20210806-9LKJ8JdLtfI-yuzheng.md",
+          "focus_terms": [
+            "不是衡量人生意义",
+            "找到自己人生的意义",
+            "社会加的意义"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230523-dlv97OHFnGY-yuzheng.md",
+          "focus_terms": [
+            "升职加薪本身是错的",
+            "不是一个risk"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230610-AqQ6HQXFueE-yuzheng.md",
+          "focus_terms": [
+            "别人给的意义",
+            "个人价值",
+            "这完全错的"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260520-unproductive-32786632.md",
+          "focus_terms": [
+            "被成功反向定义",
+            "钱在不够的时候非常重要",
+            "更高级的复杂度"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/community-posts/20241214-2024-2025-resolution-17067354.md",
+          "focus_terms": [
+            "渔夫",
+            "共情那个有钱人"
+          ],
+          "role": "case"
+        }
+      ]
+    },
+    {
+      "id": "method-over-answers",
+      "title": "答案会过期，方法不会：想要简单答案，往往就是陷阱",
+      "query_cues": [
+        "简单答案",
+        "直接告诉我答案",
+        "给个答案",
+        "标准答案",
+        "现成的答案",
+        "有什么好机会",
+        "什么能赚钱",
+        "推荐个赛道",
+        "割韭菜",
+        "被割韭菜",
+        "当韭菜",
+        "认知内的钱",
+        "认知以外",
+        "赚认知",
+        "方法论",
+        "灌鸡汤",
+        "康波",
+        "康波周期",
+        "择时",
+        "一夜暴富",
+        "带我赚钱",
+        "跟着做"
+      ],
+      "thesis": "立正认为方法论比答案重要：具体答案随时间变化，2021年他给过的低利率贷款建议，过两年就不再有效；没有背后的「大模型」（看清问题本质的认知），就抓不到下一次机会，所以「你只能赚认知内的钱」。反过来，想要一个简单、现成的答案，常常就是陷阱：别人讲的好机会、能证明你想发生的事的理论（比如拿康波周期去择时），最能打动你的说法，往往来自要割你韭菜的人。进入一个新领域要有耐心，没有回报时也能坚持一两年。",
+      "conditions": [
+        "他也给具体建议，但会连同建议成立的条件一起给；答案只作参考。",
+        "这里的「认知」指看清问题本质和规律的能力，不是学历或信息量。"
+      ],
+      "does_not_imply": [
+        "不意味着拒绝回答具体问题，或任何具体建议都不可信。",
+        "不构成任何投资建议。"
+      ],
+      "diagnostic_questions": [
+        "这个答案在什么条件下成立？条件变了，你还能自己判断吗？",
+        "最打动你的那个说法是谁在讲，他从中得到什么？"
+      ],
+      "relations": [
+        {
+          "card_id": "advice-with-conditions",
+          "kind": "shared-mechanism"
+        },
+        {
+          "card_id": "zbs-money-and-investing",
+          "kind": "application"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/conversation-excerpts/20231104-U_9bW1sEjKM-yuzheng.md",
+          "focus_terms": [
+            "方法论是唯一重要的东西",
+            "忽悠",
+            "灌鸡汤",
+            "patience"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230523-dlv97OHFnGY-yuzheng.md",
+          "focus_terms": [
+            "一个韭菜",
+            "话术",
+            "判断一定是偏的"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230630-G1sQ5Yei2ug-yuzheng.md",
+          "focus_terms": [
+            "认知内的钱",
+            "认知外的钱"
+          ],
+          "role": "case"
+        }
+      ]
+    },
+    {
+      "id": "prove-less-understand-first",
+      "title": "少证明自己：先理解对方，再给判断",
+      "query_cues": [
+        "证明自己",
+        "证明我是对的",
+        "显得聪明",
+        "说服别人",
+        "说服同事",
+        "怎么说服",
+        "建议没人听",
+        "不听我的",
+        "直接给方案",
+        "给解决方案",
+        "倾听",
+        "共情",
+        "egoless",
+        "ego太大",
+        "放下自我",
+        "抢功劳",
+        "功劳",
+        "厌蠢",
+        "别人太笨",
+        "看不起同事",
+        "influence without authority",
+        "无权影响力",
+        "不依赖权威"
+      ],
+      "thesis": "立正在2021年和Leon聊影响力时认出了自己的毛病：别人来讲困难，他直接给方案（倾听的四种目的里跳过共情、直接评估）；说服别人时，背后是想证明自己聪明、自己是对的。他认同的方向是不在意谁显得聪明、功劳归谁，只在意事情的结果——他称为egoless，并坦白自己还做不到。他也不认同「准备好一场谈话就是预判对方每一句话」：那是太把自己当回事，别人和你一样聪明。后来他把倾听写进《真本事》，认为聆听的终点是对方对你身份的认同；2024年他还承认自己「经常厌蠢」，要学会和人互相依靠。",
+      "conditions": [
+        "这是他对自己的反省和努力方向，不是已经做到的状态。",
+        "倾听的四种目的、用提问代替说服等方法来自Leon，归Leon。"
+      ],
+      "does_not_imply": [
+        "不意味着放弃判断、永远不给建议；评估要放在理解和共情之后。",
+        "不意味着利益冲突时不去争取；谈判是另一回事。"
+      ],
+      "diagnostic_questions": [
+        "对方现在需要的是被理解，还是一个方案？",
+        "你想让这件事成，还是想让别人知道是你对的？"
+      ],
+      "relations": [
+        {
+          "card_id": "zbs-communication",
+          "kind": "shared-mechanism"
+        },
+        {
+          "card_id": "subdue-the-mind-real-needs",
+          "kind": "shared-mechanism"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/conversation-excerpts/20210728-CTcMvIZFQcw-yuzheng.md",
+          "focus_terms": [
+            "我一直都是在做四",
+            "做到三",
+            "不是一条心"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/course-lessons/20250302-1883220.md",
+          "focus_terms": [
+            "聆听的终极意义",
+            "身份认同",
+            "跳过前三层"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20241214-2024-2025-resolution-17067354.md",
+          "focus_terms": [
+            "厌蠢",
+            "interdependent"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230630-G1sQ5Yei2ug-yuzheng.md",
+          "focus_terms": [
+            "野心没有那么大",
+            "套概念",
+            "有损的理解"
+          ],
+          "role": "case"
+        }
+      ]
+    },
+    {
+      "id": "subdue-the-mind-real-needs",
+      "title": "降伏其心：看清真正想要的，不被人设和代理指标牵着走",
+      "query_cues": [
+        "降伏其心",
+        "降服其心",
+        "金刚经",
+        "应无所住",
+        "凡所有相",
+        "着相",
+        "人设",
+        "打造人设",
+        "个人ip",
+        "偶像",
+        "网红",
+        "心有不甘",
+        "不甘心",
+        "别人比我红",
+        "钱够了",
+        "钱已经够了",
+        "被认可",
+        "被尊重",
+        "想被认可",
+        "少工作",
+        "牺牲当下",
+        "效率焦虑",
+        "不productive",
+        "不 productive"
+      ],
+      "thesis": "立正把《金刚经》的「降伏其心」用在自己身上：钱已经够了，他选择少赚一些、多体验生活，难处是对本来可以拿到的成功心有不甘，看到别人更红、做得未必更好时，会想是不是也该把那些事做了。和王路聊完，他把问题看成两层：真正想要的可能不是钱，而是被认可、被认真对待；名声、播放量、收入只是代理指标。他排斥把自己打造成偶像式的人设，因为人设一开始帮你被看见，后来会要求你一直表演它。他对自己的要求放得很低：「那么一刹那有一个好念头就挺好」。",
+      "conditions": [
+        "这是他在钱已经够用之后的处境；他说过，钱不够时谈少工作，很多时候是不诚实的。",
+        "王路对《金刚经》的解读归王路；立正的理解以他的发言和整理帖为准。"
+      ],
+      "does_not_imply": [
+        "不意味着不要定位、不做传播或拒绝商业；标签和定位有现实作用，问题是别被它支配。",
+        "不意味着压抑欲望或假装不在乎。"
+      ],
+      "diagnostic_questions": [
+        "你说想要的那个数字背后，真正想要的是什么？",
+        "这种做法十年后你还愿意继续做吗？"
+      ],
+      "relations": [
+        {
+          "card_id": "define-your-own-meaning",
+          "kind": "application"
+        },
+        {
+          "card_id": "personal-brand-amplification",
+          "kind": "scope-distinction"
+        },
+        {
+          "card_id": "prove-less-understand-first",
+          "kind": "shared-mechanism"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/conversation-excerpts/20260828-VSX1wxueZPU-yuzheng.md",
+          "focus_terms": [
+            "降伏其心的难处",
+            "心有不甘",
+            "7件事"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260519-wanglu-32762081.md",
+          "focus_terms": [
+            "代理指标",
+            "混合的需求",
+            "降伏其心"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/community-posts/20260520-unproductive-32786632.md",
+          "focus_terms": [
+            "降伏这颗不安的",
+            "牺牲当下追求明天",
+            "王路"
+          ],
+          "role": "basis"
+        }
+      ]
+    },
+    {
+      "id": "parenting-time-not-control",
+      "title": "教孩子：时间比钱重要，控制只是错觉，经历替代不了",
+      "query_cues": [
+        "教育孩子",
+        "家庭教育",
+        "育儿",
+        "带娃",
+        "鸡娃",
+        "补习班",
+        "兴趣班",
+        "学钢琴",
+        "要不要上大学",
+        "不上大学",
+        "孩子上大学",
+        "给孩子留钱",
+        "给孩子钱",
+        "控制孩子",
+        "管孩子",
+        "孩子不听话",
+        "terrible two",
+        "陪孩子",
+        "陪伴孩子",
+        "当爸爸",
+        "新手爸妈"
+      ],
+      "thesis": "立正谈教育孩子时，问题多于结论，但有几条说得很清楚：陪伴的时间比花的钱重要，他记住了Kevin Kelly的「double the time, half the money」；能控制孩子是一种错觉，表面控制住了，十年后会反噬；只盯结果、不盯过程是本末倒置，鸡娃得来的十级、金牌不重要，重要的是孩子能长期坚持一件事，体验延迟满足和痛苦之后的提升。他也担心大人的宽慰来自自己经历过、克服过，直接交给孩子，孩子可能体验不到。他从觉得孩子不上大学不可接受，变成觉得不上大学很自然；替孩子选方向，做得到也不应该做。",
+      "conditions": [
+        "这些多是2023到2024年他快要或刚当爸爸时的想法，引用时保留时间。",
+        "Leon和露露的育儿方法和各国见闻归他们本人。"
+      ],
+      "does_not_imply": [
+        "不意味着不管孩子、不设边界，或所有孩子都不该上大学。",
+        "不能替具体家庭做教育决定。"
+      ],
+      "diagnostic_questions": [
+        "你希望孩子从这件事里练出什么：结果，还是坚持和面对挫折的经历？",
+        "这个决定是在帮孩子探索，还是在把他变成你的复制品？"
+      ],
+      "relations": [
+        {
+          "card_id": "define-your-own-meaning",
+          "kind": "application"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/conversation-excerpts/20240421-tjOWeYOBePU-yuzheng.md",
+          "focus_terms": [
+            "鸡娃的那个结果是不重要的",
+            "延迟的满足",
+            "graduate"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20240502-9qqHH975Eds-yuzheng.md",
+          "focus_terms": [
+            "可以控制孩子",
+            "反噬",
+            "本末倒置"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230523-dlv97OHFnGY-yuzheng.md",
+          "focus_terms": [
+            "做的到也不应该做",
+            "克隆"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/conversation-excerpts/20230610-AqQ6HQXFueE-yuzheng.md",
+          "focus_terms": [
+            "不上大学很自然",
+            "unacceptable"
+          ],
+          "role": "case"
         }
       ]
     }

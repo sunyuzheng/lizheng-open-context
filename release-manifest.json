@@ -16,14 +16,16 @@
     "member_video_visibility": "2026-10-02",
     "member_course_authorization": "2026-10-03",
     "rights_and_index_review": "2026-10-03",
-    "chinese_editions": "2026-10-04"
+    "chinese_editions": "2026-10-04",
+    "values_conversations": "2026-10-04"
   },
   "filters": {
     "community_posts_full_text": "current Circle-search posts authored by YZ｜立正 plus one first-party Knowledge Bank item preserved from the earlier public snapshot; archived and hidden test spaces excluded; contact data redacted",
     "community_comments_full_text": "first-party comments on included Yuzheng-authored posts, from discussion spaces with at least 80 effective characters; member mentions, contact data, sensitive/private context, third-party leading quotations, and all inline links removed",
     "knowledge_bank_full_text": "first-party Knowledge Bank posts point to the unified community-post corpus; other authors remain metadata-only",
     "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
-    "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact maintainer-authorized member-video-policy snapshot; mixed/unresolved member speech is under the Lizheng Reference Use License, guests keep the rights in their own words, and it cannot independently establish Yuzheng's stance",
+    "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact maintainer-authorized member-video-policy snapshot and the six public conversations in config/values-conversations-policy.json; mixed/unresolved speech is under the Lizheng Reference Use License, guests keep the rights in their own words, and it cannot independently establish Yuzheng's stance",
+    "conversation_excerpts": "Yuzheng's own turns in the twelve conversations that shaped his values (问道, 赵智沉, 王路, Leon), reviewed speaker by speaker on 2026-10-04; every quotation must match its included transcript verbatim at the stated moment; headings and context lines are AI-written; excerpts from member videos are under the Lizheng Reference Use License, from public videos CC BY 4.0",
     "member_videos": "open transcript text, members-only original videos; exact IDs and transcript hashes in config/member-video-policy.json; YouTube membership is distinct from Ask's Superlinear Founding quota",
     "book": "author-owned complete framework reference and chapter map; no publisher-formatted assets",
     "course_lessons": "the exact 23 maintainer-authorized 《真本事》 lesson texts in config/member-course-policy.json, under the Lizheng Reference Use License; course videos, slides, assignments, and comments stay members-only and are not included",
@@ -39,16 +41,19 @@
     "community_comments_included": 10,
     "member_course_lessons": 23,
     "book_chapters_zh": 12,
+    "public_conversation_transcripts": 6,
+    "conversation_excerpt_files": 12,
+    "conversation_excerpts": 132,
     "blog_posts_zh": 19,
     "community_comments_reviewed": 2519,
     "knowledge_bank_catalog": 169,
     "knowledge_bank_full_text": 36,
     "video_catalog": 760,
-    "video_transcripts": 421,
-    "video_metadata_only": 339,
+    "video_transcripts": 427,
+    "video_metadata_only": 333,
     "member_video_transcripts": 218,
     "member_video_solo_reviewed": 45,
-    "known_guest_videos": 346,
+    "known_guest_videos": 347,
     "english_community_catalog": 50,
     "english_community_full_text_files": 49,
     "english_community_original_yuzheng": 11,
@@ -58,15 +63,15 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 564
+      "files": 571
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
-      "files": 29
+      "files": 32
     },
     "LicenseRef-Lizheng-Reference-Use-1.0": {
       "text": "LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md",
-      "files": 269
+      "files": 281
     },
     "LicenseRef-Original-Rights-Retained": {
       "text": "LICENSES/LicenseRef-Original-Rights-Retained.md",
@@ -74,7 +79,7 @@
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 32
+      "files": 34
     }
   },
   "files": [
@@ -86,14 +91,14 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 6233,
-      "sha256": "a8db117dd8583dd4f17e56c355fdbb0eefc516aee36f5c2a8232ebb67b60428d",
+      "bytes": 7222,
+      "sha256": "ea67bb89a35e04b414c310aec8b28779600b36cab2efef4d3645a61644719131",
       "license": "MIT"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 11314,
-      "sha256": "ca3199ecaf49d91b2d6dc20969b81ab3d5a89006b80bbfce447058f7d978fbf9",
+      "bytes": 14423,
+      "sha256": "356df10d34e74d600987ec0d7c50184294f4f3b819ff580ab30c82378baec355",
       "license": "MIT"
     },
     {
@@ -110,20 +115,20 @@
     },
     {
       "path": "INDEX.md",
-      "bytes": 5948,
-      "sha256": "254c8c8f8fee1508ea3c43bba91eb3e6ae4f29f7807d8f75b8bd4509878c0969",
+      "bytes": 6815,
+      "sha256": "14073cdbf18eb7c048703cf8758600016aaa06dbc69284e787ff2a13ec2512da",
       "license": "CC0-1.0"
     },
     {
       "path": "LICENSE-CONTENT.md",
-      "bytes": 11459,
-      "sha256": "acad23670c7ee362a2b267d98c967074194f15fc61cb27f8a4154884fc765d5a",
+      "bytes": 13038,
+      "sha256": "b2f81518d6f502fa93ca630d2535ac2af322350e0054605a89e97de0dcdcebfd",
       "license": null
     },
     {
       "path": "LICENSE.md",
-      "bytes": 5678,
-      "sha256": "acfbcdd93a6b894096cf4f4100e419d390562dbf1ade346a74d3fcb66668ab8f",
+      "bytes": 5918,
+      "sha256": "f8b4af006cd4bd182b00036d46742d3a39d1d27c2e463828abfc3e1dca614b27",
       "license": null
     },
     {
@@ -158,14 +163,14 @@
     },
     {
       "path": "README.md",
-      "bytes": 15467,
-      "sha256": "f256e301da087237818d7417c84969c7e4b23ee5a69040739a21822cd5c68b59",
+      "bytes": 16272,
+      "sha256": "2a5f791e788ed6f224046811449d6f1745fed721a624c6dbb84602a9950faf5b",
       "license": "MIT"
     },
     {
       "path": "REUSE.toml",
-      "bytes": 22745,
-      "sha256": "27c730e345970a23e4bbf3452549ccb97979f1b7e1bf6cd44657e9974555ab58",
+      "bytes": 23795,
+      "sha256": "1e7fc7a3cb883586c164d699eb76fefb165e51fae7fecebe05734cf6d73134fe",
       "license": null
     },
     {
@@ -190,6 +195,12 @@
       "path": "catalog/community-posts.jsonl",
       "bytes": 325355,
       "sha256": "eeed418aa66e31d87e763bd962a31bd99f0e5a5f90cedb30a7a413184a16628d",
+      "license": "CC0-1.0"
+    },
+    {
+      "path": "catalog/conversation-excerpts.jsonl",
+      "bytes": 25219,
+      "sha256": "172b6ee895f6e03c3b0e97ae1bed6b5bf4fefdae0e14509f2942421fce632493",
       "license": "CC0-1.0"
     },
     {
@@ -218,8 +229,8 @@
     },
     {
       "path": "catalog/videos.jsonl",
-      "bytes": 1140801,
-      "sha256": "2dec9ab07b4b3acc17a11192c2daeff4271dad2b813e0e2c38f8fc2c46994294",
+      "bytes": 1146604,
+      "sha256": "c52c633457c4e12974ead69ee395cf41aa82af53f3ce8ad8bd1e32adf60ca13c",
       "license": "CC0-1.0"
     },
     {
@@ -266,8 +277,14 @@
     },
     {
       "path": "config/release-snapshot.json",
-      "bytes": 618,
-      "sha256": "1b19741cb91dbeb975b7e026719e25159ccdc5aab35d06fe82fea9f45a519ce1",
+      "bytes": 660,
+      "sha256": "ed277806d8c5f8bbf5cb9186c176026b14b9c011519ab408b7a2e2ebf1adbfbb",
+      "license": "CC0-1.0"
+    },
+    {
+      "path": "config/values-conversations-policy.json",
+      "bytes": 9742,
+      "sha256": "e6e8a8d27cab4c56be805923f7dad7ca4cf1d94f321c0686ecf00246966352a1",
       "license": "CC0-1.0"
     },
     {
@@ -296,8 +313,8 @@
     },
     {
       "path": "context/decision-cards.json",
-      "bytes": 59565,
-      "sha256": "83e3877e972a8468730fedab3a0bc96f918d6246a3a5a48bb79de113a1f2095a",
+      "bytes": 86798,
+      "sha256": "c3273111f2a7b1772aa5e628c79288cf007347dbb3f5cbbd0be30779efeed737",
       "license": "CC-BY-4.0"
     },
     {
@@ -322,6 +339,12 @@
       "path": "context/recent-reading-map.md",
       "bytes": 4657,
       "sha256": "be9b175a07d7c593f725414d24ec7ea459f12c3193313008a76caa0a6179131c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/values-conversations-map.md",
+      "bytes": 16259,
+      "sha256": "fd42eb6961d72e784348421f7188f873ef09119d3a93dcc4bfb36b16c5e9e49b",
       "license": "CC-BY-4.0"
     },
     {
@@ -2095,6 +2118,78 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/conversation-excerpts/20210728-CTcMvIZFQcw-yuzheng.md",
+      "bytes": 6540,
+      "sha256": "413c869911876a76242d500320cc7dde5352e3fe62ab51f21134bf0ce0ad9521",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20210806-9LKJ8JdLtfI-yuzheng.md",
+      "bytes": 7175,
+      "sha256": "8779940ed0751c1877c1e4d3e8c8a3149c3b17ddfcaf5a838d8033e1262d30e3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20230523-dlv97OHFnGY-yuzheng.md",
+      "bytes": 7989,
+      "sha256": "9b6037745d91f2acf5ee3e061cd7a40d1924a23013ac8c4c663fee318a39d21e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20230610-AqQ6HQXFueE-yuzheng.md",
+      "bytes": 4920,
+      "sha256": "6f197911525be30bfc4061478255c390d8a4844f449145ec58f46f7c38b58aa7",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20230615-u4DpfGx-9i0-yuzheng.md",
+      "bytes": 4610,
+      "sha256": "ffe450ceadd37e510dbfd55e9f5cb3b09a2ab7f27d6d6563b753a9db6304d482",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20230630-G1sQ5Yei2ug-yuzheng.md",
+      "bytes": 20812,
+      "sha256": "dc454040fa4f0d8160e1ee6e4e1223a20d5a2b187e066bc84132f9bf6a0fa731",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20231104-U_9bW1sEjKM-yuzheng.md",
+      "bytes": 14144,
+      "sha256": "61433f8a31a18580b65e8f6f513b5035b8cbf4006a0f29365b6abf6bb37d5130",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20240421-tjOWeYOBePU-yuzheng.md",
+      "bytes": 8209,
+      "sha256": "2bd681a4883cc3c8b0b43df13d3093c627170a41a42a5eedd2069b3e154ead07",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20240502-9qqHH975Eds-yuzheng.md",
+      "bytes": 6687,
+      "sha256": "b9b727cfd34d33ec3d2a8d74b327d767d99266ec2982c01a8b536a28d189262c",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20241026-rZO-Z3b1Skk-yuzheng.md",
+      "bytes": 17149,
+      "sha256": "d06119b6ae1bf2bc732b2c56f8054884dc7008257cbba7345801ba21a56a3ca1",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20250121-zbm1bWihx5E-yuzheng.md",
+      "bytes": 10756,
+      "sha256": "7cb3c67ef2c7ac264d080cde3df417d9230fb78350c73fa408f149e2bd363fc9",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/conversation-excerpts/20260828-VSX1wxueZPU-yuzheng.md",
+      "bytes": 9895,
+      "sha256": "d079dc150a04b4bc633485589f3196bb478b0c3888838cd894e2a2f1d6b97668",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/course-lessons/20250301-1883147.md",
       "bytes": 8511,
       "sha256": "c42211b5c56a2d2c7cb445abdf7d80695ee6e7eab16de5505934d53b59e53cf7",
@@ -3217,6 +3312,18 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/videos/20210728-CTcMvIZFQcw.md",
+      "bytes": 107061,
+      "sha256": "5b150683a8b1cd871fafa4d1128c0b899f035a61d81c246fe9a9d6c1c1c144fc",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/videos/20210806-9LKJ8JdLtfI.md",
+      "bytes": 95584,
+      "sha256": "2b4f46706d6bae9e7a911978f7b38a21167313e714cc26f771d5aff3e49d8dd0",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/videos/20210821-wy9SNi1aU_Q.md",
       "bytes": 38677,
       "sha256": "fd1e799082961c45632fa74871fbc4bab3812291b7edc3c0506af59192c490c9",
@@ -3589,6 +3696,12 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/videos/20230523-dlv97OHFnGY.md",
+      "bytes": 95665,
+      "sha256": "8ee9b706a301097d0bf1e7524d0596c4bae6975f5790fa8c0886cb431414ce1f",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/videos/20230530-N4AI18kDvWI.md",
       "bytes": 25420,
       "sha256": "9f234ca8c8b5dcc4ec9bae942e97e6de36221a2fc8843a3ce05a2bb44d1e56fd",
@@ -3599,6 +3712,18 @@
       "bytes": 22722,
       "sha256": "ce08692aaaba822c369817c88d708ec688a81fff6a262139575aaa985498f7c9",
       "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/videos/20230610-AqQ6HQXFueE.md",
+      "bytes": 42275,
+      "sha256": "f37091725f04d2972f629f58f1c2be7bb4683b61f56e99e67b15220f787772d9",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/videos/20230615-u4DpfGx-9i0.md",
+      "bytes": 49215,
+      "sha256": "0a5586a9aae2eedf5cf0d3baab61b7445140eee173e730021c986f5e55c41190",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
       "path": "corpus/videos/20230619-LBSW6OqGMCM.md",
@@ -5461,6 +5586,12 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/videos/20260828-VSX1wxueZPU.md",
+      "bytes": 226288,
+      "sha256": "7771674610930d73eec31d0ad405b4b6562da3db5a063f538f567a70f6e9cf1a",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/videos/20260902-BseWUBpOHY4.md",
       "bytes": 339016,
       "sha256": "f602f1019f36954fa90c7df1a31e860961ce8560c81bc5be38b712a46e258f4b",
@@ -5522,8 +5653,8 @@
     },
     {
       "path": "docs/build-your-own-agent.md",
-      "bytes": 5853,
-      "sha256": "e26c81af1299997084c89266d04d145a90101fd0b182ac4f87b0e280162c8ba3",
+      "bytes": 6242,
+      "sha256": "3e605ba2dc42fc387da0f792e64ddee0a9cc19672ad4bf928f770e7caf33f98e",
       "license": "MIT"
     },
     {
@@ -5540,14 +5671,14 @@
     },
     {
       "path": "docs/privacy-and-rights.md",
-      "bytes": 8132,
-      "sha256": "46008200be78bb0aceecb42d69d343aafb3f511f28ae86e0a0e929afe7ca846e",
+      "bytes": 8516,
+      "sha256": "51df24eb896788d9da165db8e87488719fe4d28bb2d8452bb6f397892742221d",
       "license": "MIT"
     },
     {
       "path": "docs/source-model.md",
-      "bytes": 8294,
-      "sha256": "e2887b982644710b1042683665255223ea948960b248eb902f3726c3114d33b7",
+      "bytes": 10190,
+      "sha256": "a27de2061fe4a96e75367929edcae765a7b7402e6b40f26edc698ca0cdf26173",
       "license": "MIT"
     },
     {
@@ -5593,9 +5724,15 @@
       "license": "CC0-1.0"
     },
     {
+      "path": "index/values-conversations.md",
+      "bytes": 4781,
+      "sha256": "18929d70878a4f05d3ddad948985fc5fd68f66e5bb9223fda3a47d9a1e564812",
+      "license": "CC0-1.0"
+    },
+    {
       "path": "index/videos.md",
-      "bytes": 138326,
-      "sha256": "d58b735fb38952a33afa3e8dda3866245b874211baa4b14a4a99d73a62f4fb25",
+      "bytes": 138996,
+      "sha256": "f55cee927d0953ea606b13327f935bc89bd73de422e52e6d48be0f3730bb3974",
       "license": "CC0-1.0"
     },
     {
@@ -5606,14 +5743,14 @@
     },
     {
       "path": "scripts/build_index.py",
-      "bytes": 26907,
-      "sha256": "6f8f48b6d998d858046e0c2ad28be85a7e03b769936f5d5b47aef57d026f4c15",
+      "bytes": 30680,
+      "sha256": "6a04d215f850e92f1ad3d33cd85c8fdfe9e699a84a784a46e83f6e442795c84b",
       "license": "MIT"
     },
     {
       "path": "scripts/enrich_provenance.py",
-      "bytes": 13442,
-      "sha256": "a1761220e17bff88b383d031dc4a29db102ae168ef7d311ddc4e781d90c4a515",
+      "bytes": 13549,
+      "sha256": "99d1e98b38e2d82d2df0a658cc1794ef2ed7e29081e214318490b6bc21e3bb47",
       "license": "MIT"
     },
     {
@@ -5647,6 +5784,12 @@
       "license": "MIT"
     },
     {
+      "path": "scripts/import_values_conversations.py",
+      "bytes": 11212,
+      "sha256": "62c420e5fe423ce1f42575d5f96478f51046113323a8f7e74ae451fe3325435c",
+      "license": "MIT"
+    },
+    {
       "path": "scripts/rights.py",
       "bytes": 7065,
       "sha256": "a33a6ded4a6766c79f4fac131a80c20f86689f7c7b7b78f0b9a604a9146024fd",
@@ -5654,14 +5797,14 @@
     },
     {
       "path": "scripts/search.py",
-      "bytes": 14848,
-      "sha256": "1b40fdd1c7d206121bd8ff72250abc26eb2a73959529b30682557c3abaa50993",
+      "bytes": 15002,
+      "sha256": "2290e1b75025f8779c3b0ef88c82c2be81eeda9b8aee470d21b7b6ca1115391c",
       "license": "MIT"
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 49757,
-      "sha256": "8881fdf5f0d538055abbeabb7778f1f1ee1c983efe8283fc56d87394de826c3f",
+      "bytes": 59438,
+      "sha256": "b40e613821322d1e4ea9d4d033d7cb01465bfec5e32a4f4d74576d2961148551",
       "license": "MIT"
     },
     {
@@ -5716,6 +5859,12 @@
       "path": "tests/test_search.py",
       "bytes": 3253,
       "sha256": "858facf24b9d58be0e24ed6d6424de3e2cae319c6ccbe51414cf70765a68e391",
+      "license": "MIT"
+    },
+    {
+      "path": "tests/test_values_conversations.py",
+      "bytes": 9204,
+      "sha256": "93857b80fbfb33580a28641a59986a6ad7c96b3c98bc53f8a2ef6474e3d5c5c4",
       "license": "MIT"
     }
   ]

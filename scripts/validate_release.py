@@ -8,6 +8,7 @@ import hashlib
 import json
 import re
 import sys
+import unicodedata
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import unquote
@@ -204,9 +205,138 @@ def validate_chinese_editions(book_rows: list[dict], blog_rows: list[dict], poli
             errors.append(f"{folder}: catalog/files mismatch")
 
 
+VALUES_AUTHORIZATION = "maintainer-request-2026-10-04-values-conversations"
+PUBLIC_CONVERSATION_FIELDS = {
+    "rights_scope": "publisher-authorized-transcript", "license": REFERENCE_USE, "speaker_classification": "mixed-or-unresolved",
+    "review_status": "maintainer-authorized", "content_origin": "mixed-or-unresolved-speech",
+    "evidence_role": "speaker-attributed-speech", "yuzheng_stance_weight": "not-evidence", "source_visibility": "public",
+    "text_access": "public", "inclusion_authorization": VALUES_AUTHORIZATION, "transcript_included": True,
+}
+EXCERPT_FIELDS = {
+    "author": "Yuzheng Sun", "publisher": "Yuzheng Sun", "original_author": "Yuzheng Sun", "source_type": "video-excerpt",
+    "rights_scope": "publisher-reviewed-speaker-excerpt", "speaker_classification": "yuzheng-turns-reviewed",
+    "review_status": "maintainer-authorized", "third_party_exclusions": True, "content_origin": "yuzheng-spoken-source",
+    "generation_method": "speaker-reviewed-excerpt", "evidence_role": "primary-speech",
+    "yuzheng_stance_weight": "direct-with-quotation-boundaries", "language": "zh", "text_access": "public",
+    "inclusion_authorization": VALUES_AUTHORIZATION, "full_text_included": True,
+}
+CUE_LINE = re.compile(r"^\[(\d{2}):(\d{2}):(\d{2})\]\([^)]+\)\s*(.*)$", re.M)
+EXCERPT_LINK = re.compile(r"\[(\d{2}:\d{2}:\d{2})\]\(https://www\.youtube\.com/watch\?v=([A-Za-z0-9_-]{11})&t=(\d+)s\)")
+
+
+def quote_key(text: str) -> str:
+    """Words only: what a quotation must share with its transcript, whatever the punctuation and spacing."""
+    return "".join(char for raw in text for char in unicodedata.normalize("NFKC", raw).lower()
+                   if unicodedata.category(char)[0] not in "PZSC")
+
+
+def validate_excerpt_quotes(path: Path, video_id: str, transcript: Path, errors: list[str]) -> int:
+    """Every quotation in a reviewed excerpt file appears verbatim, in order, at its stated moment of the transcript."""
+    label = str(path.relative_to(ROOT)) if path.resolve().is_relative_to(ROOT.resolve()) else path.name
+    _, body = read_markdown(path)
+    _, text = read_markdown(transcript)
+    words, seconds, cue_starts = [], [], []
+    for match in CUE_LINE.finditer(text):
+        start = int(match[1]) * 3600 + int(match[2]) * 60 + int(match[3])
+        key = quote_key(match[4])
+        cue_starts.append((start, len(seconds)))
+        words.append(key)
+        seconds.extend([start] * len(key))
+    words = "".join(words)
+    count = 0
+    for section in re.split(r"(?m)^## ", body)[1:]:
+        heading = section.splitlines()[0]
+        link = EXCERPT_LINK.search(section)
+        quote = "".join(line[2:] for line in section.splitlines() if line.startswith("> "))
+        if not link or not quote or link[2] != video_id or not heading.startswith(link[1]):
+            errors.append(f"{label}: excerpt '{heading}' lacks its timestamp link or quotation")
+            continue
+        h, m, s = map(int, link[1].split(":"))
+        if h * 3600 + m * 60 + s != int(link[3]):
+            errors.append(f"{label}: excerpt '{heading}' has inconsistent timestamps")
+        # Search from the stated moment: an opening teaser can repeat the same sentence earlier.
+        position = next((offset for start, offset in cue_starts if start >= int(link[3])), len(words))
+        first = None
+        for segment in quote.split("……"):
+            key = quote_key(segment)
+            found = words.find(key, position) if len(key) >= 2 else -1
+            if found < 0:
+                errors.append(f"{label}: quotation at {link[1]} does not match the transcript verbatim")
+                first = None
+                break
+            first = seconds[found] if first is None else first
+            position = found + len(key)
+        else:
+            if first != int(link[3]):
+                errors.append(f"{label}: quotation at {link[1]} starts at a different moment of the transcript")
+        count += 1
+    return count
+
+
+def validate_values_conversations(video_rows: list[dict], excerpt_rows: list[dict], policy: dict,
+                                  member_ids: set[str], errors: list[str]) -> set[str]:
+    """The six public conversation transcripts and the reviewed excerpts of Yuzheng's own turns, exactly as pinned."""
+    if not (excerpt_rows or policy):
+        return set()
+    if policy.get("authorization") != VALUES_AUTHORIZATION:
+        errors.append("Values conversation policy lacks explicit maintainer authorization")
+        return set()
+    videos = {row.get("video_id"): row for row in video_rows}
+    public = {item["video_id"]: item for item in policy.get("public_transcripts", [])}
+    for identity, item in public.items():
+        row = videos.get(identity, {})
+        expected = {**PUBLIC_CONVERSATION_FIELDS, "title": item["title"], "published_at": item["published_at"],
+                    "guest_names": item["guest_names"], "transcript_source_kind": item["transcript_source_kind"],
+                    "transcript_source_sha256": item["transcript_sha256"]}
+        for key, value in expected.items():
+            if row.get(key) != value:
+                errors.append(f"youtube-{identity}: invalid public conversation transcript {key}")
+        if identity in member_ids or not row.get("guest_names"):
+            errors.append(f"youtube-{identity}: a public conversation must be a non-member video with named guests")
+    if {row.get("video_id") for row in video_rows if row.get("inclusion_authorization") == VALUES_AUTHORIZATION} != set(public):
+        errors.append("Public conversation policy/catalog exact ID mismatch")
+    conversations = {item["excerpt_path"]: item for item in policy.get("conversations", [])}
+    if sorted(row.get("corpus_path") for row in excerpt_rows) != sorted(conversations):
+        errors.append("Conversation excerpt policy/catalog exact mismatch")
+    actual = {str(path.relative_to(ROOT)) for path in (ROOT / "corpus/conversation-excerpts").glob("*.md")}
+    if actual != set(conversations):
+        errors.append("conversation excerpt catalog/files mismatch")
+    for row in excerpt_rows:
+        label = str(row.get("id"))
+        item = conversations.get(row.get("corpus_path"))
+        if not item:
+            continue
+        identity = row.get("video_id")
+        video = videos.get(identity, {})
+        member = identity in member_ids
+        url = f"https://www.youtube.com/watch?v={identity}"
+        expected = {**EXCERPT_FIELDS, "id": f"youtube-{identity}-yuzheng", "url": url, "source_family": url,
+                    "license": REFERENCE_USE if member else "CC-BY-4.0", "source_visibility": "members-only" if member else "public",
+                    "published_at": video.get("published_at"), "source_transcript": video.get("corpus_path"),
+                    "transcript_source_kind": video.get("transcript_source_kind"), "transcript_quality": video.get("transcript_quality"),
+                    "guest_names": item["guest_names"], "excerpt_count": item["excerpt_count"]}
+        if member:
+            expected.update({key: video.get(key) for key in ("membership_platform", "membership_url", "membership_verified_at")})
+        for key, value in expected.items():
+            if row.get(key) != value:
+                errors.append(f"{label}: invalid conversation excerpt provenance {key}")
+        if not video.get("transcript_included") or not (member or identity in public):
+            errors.append(f"{label}: excerpt source is not an included member or reviewed public conversation")
+            continue
+        path = ROOT / str(row.get("corpus_path"))
+        if not path.is_file():
+            continue
+        if sha256(path) != item["excerpt_sha256"]:
+            errors.append(f"{label}: excerpt file differs from the reviewed snapshot")
+        if validate_excerpt_quotes(path, identity, ROOT / video["corpus_path"], errors) != row.get("excerpt_count"):
+            errors.append(f"{label}: excerpt count differs from its file")
+    return set(public)
+
+
 def read_markdown(path: Path) -> tuple[dict, str]:
     text = path.read_text(encoding="utf-8")
-    label = str(path.resolve().relative_to(ROOT.resolve()))
+    resolved = path.resolve()
+    label = str(resolved.relative_to(ROOT.resolve())) if resolved.is_relative_to(ROOT.resolve()) else path.name
     match = re.match(r"\A---\n(.*?)\n---\n", text, re.S)
     if not match:
         raise ValueError(f"{label}: missing front matter")
@@ -611,6 +741,12 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     if not solo_ids <= member_ids - prior_solo:
         errors.append("Solo member speech review names videos outside the mixed member snapshot")
 
+    values_path = ROOT / "config/values-conversations-policy.json"
+    values_policy = read_json_object_without_duplicate_keys(values_path) if values_path.is_file() else {}
+    excerpt_catalog_path = ROOT / "catalog" / "conversation-excerpts.jsonl"
+    excerpt_rows = read_jsonl(excerpt_catalog_path) if excerpt_catalog_path.is_file() else []
+    public_conversations = validate_values_conversations(video_rows, excerpt_rows, values_policy, member_ids, errors)
+
     for row in kb_rows:
         if row.get("full_text_included") and not authorized_publisher_text(row):
             errors.append(f"{row.get('id')}: non-first-party Knowledge Bank full text")
@@ -691,16 +827,18 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
 
     for row in video_rows:
         is_member = row.get("video_id") in member_ids
+        # One of the six public conversations the publisher opened on 2026-10-04 (checked above).
+        is_conversation = row.get("video_id") in public_conversations
         if is_member:
             validate_member_video(row, member_policy, errors, solo_ids)
-        if row.get("transcript_included") and not is_member and row.get("rights_scope") != "first-party":
+        if row.get("transcript_included") and not (is_member or is_conversation) and row.get("rights_scope") != "first-party":
             errors.append(f"{row.get('id')}: mixed-speaker transcript included")
-        if row.get("transcript_included") and (not is_member or row.get("rights_scope") == "first-party") and (
+        if row.get("transcript_included") and not is_conversation and (not is_member or row.get("rights_scope") == "first-party") and (
             row.get("speaker_classification") != "solo-yuzheng"
             or row.get("review_status") != "approved"
         ):
             errors.append(f"{row.get('id')}: transcript lacks positive speaker-rights approval")
-        if row.get("transcript_included") and not is_member and row.get("guest_names"):
+        if row.get("transcript_included") and not (is_member or is_conversation) and row.get("guest_names"):
             errors.append(f"{row.get('id')}: known guest transcript included")
         if not str(row.get("url", "")).startswith("https://www.youtube.com/watch?v="):
             errors.append(f"{row.get('id')}: unexpected video source URL")
@@ -708,7 +846,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     included_video_ids = {
         row.get("video_id") for row in video_rows if row.get("transcript_included")
     }
-    expected_video_ids = transcript_allowlist | member_ids
+    expected_video_ids = transcript_allowlist | member_ids | public_conversations
     if included_video_ids != expected_video_ids:
         missing = sorted(expected_video_ids - included_video_ids)
         unexpected = sorted(included_video_ids - expected_video_ids)
@@ -737,9 +875,10 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     ):
         for pattern in directory.glob("*.md") if directory.exists() else []:
             meta, _ = read_markdown(pattern)
-            member_reference = (meta.get("inclusion_authorization") == member_policy.get("authorization")
-                                and meta.get("rights_scope") == "publisher-authorized-transcript"
-                                and str(meta.get("id", "")).removeprefix("youtube-") in member_ids)
+            identity = str(meta.get("id", "")).removeprefix("youtube-")
+            member_reference = (meta.get("rights_scope") == "publisher-authorized-transcript" and (
+                (meta.get("inclusion_authorization") == member_policy.get("authorization") and identity in member_ids)
+                or (meta.get("inclusion_authorization") == VALUES_AUTHORIZATION and identity in public_conversations)))
             if not member_reference and (not authorized_publisher_text(meta) or meta.get("license") != "CC-BY-4.0"):
                 errors.append(f"{pattern.relative_to(ROOT)}: missing first-party attribution/license")
             if meta.get("third_party_exclusions") is not True:
@@ -752,6 +891,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         ("community-comments", community_comment_rows), ("videos", video_rows),
         ("english-community", english_rows), ("english-translations", translation_rows),
         ("course-lessons", course_rows), ("book-chapters", book_rows), ("blog-posts", blog_rows),
+        ("conversation-excerpts", excerpt_rows),
     ], errors)
 
     return {
@@ -762,6 +902,9 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         "community_comments_included": len(community_comment_rows),
         "member_course_lessons": len(course_rows),
         "book_chapters_zh": len(book_rows),
+        "public_conversation_transcripts": len(public_conversations),
+        "conversation_excerpt_files": len(excerpt_rows),
+        "conversation_excerpts": sum(int(row.get("excerpt_count") or 0) for row in excerpt_rows),
         "blog_posts_zh": len(blog_rows),
         "community_comments_reviewed": int(
             comment_policy.get("source_comments_reviewed") or 0
@@ -810,7 +953,8 @@ def build_manifest(stats: dict[str, int], license_map: dict[str, tuple[str, str]
             "community_comments_full_text": "first-party comments on included Yuzheng-authored posts, from discussion spaces with at least 80 effective characters; member mentions, contact data, sensitive/private context, third-party leading quotations, and all inline links removed",
             "knowledge_bank_full_text": "first-party Knowledge Bank posts point to the unified community-post corpus; other authors remain metadata-only",
             "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
-            "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact maintainer-authorized member-video-policy snapshot; mixed/unresolved member speech is under the Lizheng Reference Use License, guests keep the rights in their own words, and it cannot independently establish Yuzheng's stance",
+            "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact maintainer-authorized member-video-policy snapshot and the six public conversations in config/values-conversations-policy.json; mixed/unresolved speech is under the Lizheng Reference Use License, guests keep the rights in their own words, and it cannot independently establish Yuzheng's stance",
+            "conversation_excerpts": "Yuzheng's own turns in the twelve conversations that shaped his values (问道, 赵智沉, 王路, Leon), reviewed speaker by speaker on 2026-10-04; every quotation must match its included transcript verbatim at the stated moment; headings and context lines are AI-written; excerpts from member videos are under the Lizheng Reference Use License, from public videos CC BY 4.0",
             "member_videos": "open transcript text, members-only original videos; exact IDs and transcript hashes in config/member-video-policy.json; YouTube membership is distinct from Ask's Superlinear Founding quota",
             "book": "author-owned complete framework reference and chapter map; no publisher-formatted assets",
             "course_lessons": "the exact 23 maintainer-authorized 《真本事》 lesson texts in config/member-course-policy.json, under the Lizheng Reference Use License; course videos, slides, assignments, and comments stay members-only and are not included",

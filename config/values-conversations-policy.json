@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-04",
+  "authorization": "maintainer-request-2026-10-04-values-conversations",
+  "scope": "作者 2026-10-04 说：会员视频里问道（格桑泽仁）、跟王路的对话、跟赵智沉的对话、跟 Leon 的对话都很重要，是他价值观塑造的重要组成部分，要求找出来认真分析，整理成 Open Context 的底层素材并提炼用好。据此：（一）收录其中六场公开对话的字幕全文（王路一场，Leon 五场）；四场会员对话（问道、赵智沉两场、Leon 与 LuluLeon 三场）的字幕此前已按会员字幕授权收录。字幕里嘉宾的话归嘉宾本人，不能当作立正的立场。（二）从这十二场对话里逐段核对说话人，只摘出立正本人可确认的发言，存为 corpus/conversation-excerpts/。",
+  "method": "逐场通读字幕，只摘录能从上下文确认是立正本人说的段落；嘉宾、主持人、提问者、无法确认说话人的段落和涉及第三方私事的内容一律不摘。每段引文与收录的字幕逐字一致（标点与空白不计，「……」表示省略），小标题和背景提示由 AI 写成；validate_release.py 会逐段核对引文和时间点。",
+  "public_transcripts": [
+    {
+      "video_id": "VSX1wxueZPU",
+      "title": "让心自由，才能更好地活着｜对话《金刚经50讲》王路",
+      "published_at": "2026-08-28T02:47:40Z",
+      "guest_names": [
+        "王路"
+      ],
+      "transcript_source_kind": "youtube_human_subtitle",
+      "transcript_sha256": "8edeed3dab8769659d826b16025b23a0d44ecefe4c35b70f5f09a5dc870a153d"
+    },
+    {
+      "video_id": "CTcMvIZFQcw",
+      "title": "Influence Without Authority ｜ 人生元能力",
+      "published_at": "2021-07-28T00:57:26Z",
+      "guest_names": [
+        "Leon"
+      ],
+      "transcript_source_kind": "local_timed_unknown",
+      "transcript_sha256": "d126bdd5fc7111ccde3f071130b6653e592d983c113c80eac048e3b8761bdeb0"
+    },
+    {
+      "video_id": "9LKJ8JdLtfI",
+      "title": "打工人如何获得财富自由？｜什么才是真正的财富和真正的自由？（中文字幕）｜Multiple-Fire系列",
+      "published_at": "2021-08-06T23:26:57Z",
+      "guest_names": [
+        "Leon"
+      ],
+      "transcript_source_kind": "youtube_human_subtitle",
+      "transcript_sha256": "51eb5ad33ef4c43d2a09ba2df12c2cca1b25efe4401068eaeb1ee7921a8e514a"
+    },
+    {
+      "video_id": "dlv97OHFnGY",
+      "title": "如何摆脱无意义的工作？｜Multiple-Fire系列",
+      "published_at": "2023-05-23T15:01:14Z",
+      "guest_names": [
+        "Leon"
+      ],
+      "transcript_source_kind": "youtube_human_subtitle",
+      "transcript_sha256": "c888554e56a90710904a5489c01612f4cac4a1b436a0702af9647cfff5b927b0"
+    },
+    {
+      "video_id": "AqQ6HQXFueE",
+      "title": "想清楚这些，才能成为财富的主人｜Multiple-Fire系列",
+      "published_at": "2023-06-10T12:45:27Z",
+      "guest_names": [
+        "Leon"
+      ],
+      "transcript_source_kind": "youtube_human_subtitle",
+      "transcript_sha256": "c44eb7f555ad8074965a740c93b7f7172475ce0b5062f75a6ac253af55e6105c"
+    },
+    {
+      "video_id": "u4DpfGx-9i0",
+      "title": "原来有意义的人生这么短？｜Mutiple-Fire系列",
+      "published_at": "2023-06-15T06:44:11Z",
+      "guest_names": [
+        "Leon"
+      ],
+      "transcript_source_kind": "youtube_human_subtitle",
+      "transcript_sha256": "cbb638b3b8a6791e0ef994beb44a80153439fecc4dc7267c57f42482563183e9"
+    }
+  ],
+  "conversations": [
+    {
+      "video_id": "CTcMvIZFQcw",
+      "title": "立正本人的话 · Influence Without Authority ｜ 人生元能力",
+      "guest_names": [
+        "Leon"
+      ],
+      "source_visibility": "public",
+      "source_transcript": "corpus/videos/20210728-CTcMvIZFQcw.md",
+      "excerpt_path": "corpus/conversation-excerpts/20210728-CTcMvIZFQcw-yuzheng.md",
+      "excerpt_count": 8,
+      "excerpt_sha256": "413c869911876a76242d500320cc7dde5352e3fe62ab51f21134bf0ce0ad9521"
+    },
+    {
+      "video_id": "9LKJ8JdLtfI",
+      "title": "立正本人的话 · 打工人如何获得财富自由？｜什么才是真正的财富和真正的自由？（中文字幕）｜Multiple-Fire系列",
+      "guest_names": [
+        "Leon"
+      ],
+      "source_visibility": "public",
+      "source_transcript": "corpus/videos/20210806-9LKJ8JdLtfI.md",
+      "excerpt_path": "corpus/conversation-excerpts/20210806-9LKJ8JdLtfI-yuzheng.md",
+      "excerpt_count": 7,
+      "excerpt_sha256": "8779940ed0751c1877c1e4d3e8c8a3149c3b17ddfcaf5a838d8033e1262d30e3"
+    },
+    {
+      "video_id": "dlv97OHFnGY",
+      "title": "立正本人的话 · 如何摆脱无意义的工作？｜Multiple-Fire系列",
+      "guest_names": [
+        "Leon"
+      ],
+      "source_visibility": "public",
+      "source_transcript": "corpus/videos/20230523-dlv97OHFnGY.md",
+      "excerpt_path": "corpus/conversation-excerpts/20230523-dlv97OHFnGY-yuzheng.md",
+      "excerpt_count": 8,
+      "excerpt_sha256": "9b6037745d91f2acf5ee3e061cd7a40d1924a23013ac8c4c663fee318a39d21e"
+    },
+    {
+      "video_id": "AqQ6HQXFueE",
+      "title": "立正本人的话 · 想清楚这些，才能成为财富的主人｜Multiple-Fire系列",
+      "guest_names": [
+        "Leon"
+      ],
+      "source_visibility": "public",
+      "source_transcript": "corpus/videos/20230610-AqQ6HQXFueE.md",
+      "excerpt_path": "corpus/conversation-excerpts/20230610-AqQ6HQXFueE-yuzheng.md",
+      "excerpt_count": 4,
+      "excerpt_sha256": "6f197911525be30bfc4061478255c390d8a4844f449145ec58f46f7c38b58aa7"
+    },
+    {
+      "video_id": "u4DpfGx-9i0",
+      "title": "立正本人的话 · 原来有意义的人生这么短？｜Mutiple-Fire系列",
+      "guest_names": [
+        "Leon"
+      ],
+      "source_visibility": "public",
+      "source_transcript": "corpus/videos/20230615-u4DpfGx-9i0.md",
+      "excerpt_path": "corpus/conversation-excerpts/20230615-u4DpfGx-9i0-yuzheng.md",
+      "excerpt_count": 3,
+      "excerpt_sha256": "ffe450ceadd37e510dbfd55e9f5cb3b09a2ab7f27d6d6563b753a9db6304d482"
+    },
+    {
+      "video_id": "G1sQ5Yei2ug",
+      "title": "立正本人的话 · 问道｜格桑泽仁老师访谈",
+      "guest_names": [
+        "格桑泽仁"
+      ],
+      "source_visibility": "members-only",
+      "source_transcript": "corpus/videos/20230630-G1sQ5Yei2ug.md",
+      "excerpt_path": "corpus/conversation-excerpts/20230630-G1sQ5Yei2ug-yuzheng.md",
+      "excerpt_count": 32,
+      "excerpt_sha256": "dc454040fa4f0d8160e1ee6e4e1223a20d5a2b187e066bc84132f9bf6a0fa731"
+    },
+    {
+      "video_id": "U_9bW1sEjKM",
+      "title": "立正本人的话 · 如何赚第一桶金，和超越中产阶级｜Leon访谈",
+      "guest_names": [
+        "Leon"
+      ],
+      "source_visibility": "members-only",
+      "source_transcript": "corpus/videos/20231104-U_9bW1sEjKM.md",
+      "excerpt_path": "corpus/conversation-excerpts/20231104-U_9bW1sEjKM-yuzheng.md",
+      "excerpt_count": 16,
+      "excerpt_sha256": "61433f8a31a18580b65e8f6f513b5035b8cbf4006a0f29365b6abf6bb37d5130"
+    },
+    {
+      "video_id": "tjOWeYOBePU",
+      "title": "立正本人的话 · 鸡娃错在哪儿？AI时代如何教育孩子？｜Lululeon谈教育_上",
+      "guest_names": [
+        "Leon",
+        "Lulu"
+      ],
+      "source_visibility": "members-only",
+      "source_transcript": "corpus/videos/20240421-tjOWeYOBePU.md",
+      "excerpt_path": "corpus/conversation-excerpts/20240421-tjOWeYOBePU-yuzheng.md",
+      "excerpt_count": 7,
+      "excerpt_sha256": "2bd681a4883cc3c8b0b43df13d3093c627170a41a42a5eedd2069b3e154ead07"
+    },
+    {
+      "video_id": "9qqHH975Eds",
+      "title": "立正本人的话 · LuluLeon聊教育_下",
+      "guest_names": [
+        "Leon",
+        "Lulu"
+      ],
+      "source_visibility": "members-only",
+      "source_transcript": "corpus/videos/20240502-9qqHH975Eds.md",
+      "excerpt_path": "corpus/conversation-excerpts/20240502-9qqHH975Eds-yuzheng.md",
+      "excerpt_count": 5,
+      "excerpt_sha256": "b9b727cfd34d33ec3d2a8d74b327d767d99266ec2982c01a8b536a28d189262c"
+    },
+    {
+      "video_id": "rZO-Z3b1Skk",
+      "title": "立正本人的话 · 物理的本质，AI的对偶，世界的巧合，智能的真相，哲学的冲击｜赵智沉",
+      "guest_names": [
+        "赵智沉"
+      ],
+      "source_visibility": "members-only",
+      "source_transcript": "corpus/videos/20241026-rZO-Z3b1Skk.md",
+      "excerpt_path": "corpus/conversation-excerpts/20241026-rZO-Z3b1Skk-yuzheng.md",
+      "excerpt_count": 21,
+      "excerpt_sha256": "d06119b6ae1bf2bc732b2c56f8054884dc7008257cbba7345801ba21a56a3ca1"
+    },
+    {
+      "video_id": "zbm1bWihx5E",
+      "title": "立正本人的话 · 时间箭头，因果关系，宿命论 by 赵智沉",
+      "guest_names": [
+        "赵智沉"
+      ],
+      "source_visibility": "members-only",
+      "source_transcript": "corpus/videos/20250121-zbm1bWihx5E.md",
+      "excerpt_path": "corpus/conversation-excerpts/20250121-zbm1bWihx5E-yuzheng.md",
+      "excerpt_count": 9,
+      "excerpt_sha256": "7cb3c67ef2c7ac264d080cde3df417d9230fb78350c73fa408f149e2bd363fc9"
+    },
+    {
+      "video_id": "VSX1wxueZPU",
+      "title": "立正本人的话 · 让心自由，才能更好地活着｜对话《金刚经50讲》王路",
+      "guest_names": [
+        "王路"
+      ],
+      "source_visibility": "public",
+      "source_transcript": "corpus/videos/20260828-VSX1wxueZPU.md",
+      "excerpt_path": "corpus/conversation-excerpts/20260828-VSX1wxueZPU-yuzheng.md",
+      "excerpt_count": 12,
+      "excerpt_sha256": "d079dc150a04b4bc633485589f3196bb478b0c3888838cd894e2a2f1d6b97668"
+    }
+  ]
+}

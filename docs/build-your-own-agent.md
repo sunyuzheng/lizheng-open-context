@@ -21,6 +21,7 @@
 - `corpus/community-comments/*.md`：每条评论作为一个检索单元，权重低于完整文章；它适合补充边界、例子和历史讨论，不应单独升级成当前立场；
 - `corpus/videos/*.md`：按 60–120 秒窗口合并相邻字幕，保存起始时间码；
 - `catalog/videos.jsonl`：用于发现没有纳入全文的嘉宾访谈或缺字幕视频；
+- `corpus/conversation-excerpts/*.md`：塑造立正价值观的 12 场对话里他本人的话，每段一个检索单元，带时间码；回答「他怎么看人生意义、玄学、教育孩子」这类问题时优先用它，而不是整篇对话字幕；按时间和主题的梳理见 `context/values-conversations-map.md`；
 - `corpus/course-lessons/*.md`：《真本事》23 节课的文字稿，按小节切块，保存课程页面链接；这是课程原文，框架参考是它的 AI 整理；
 - `corpus/book-chapters/*.md` 和 `corpus/blog-posts/*.md`：《Growth Data Analytics Playbook》和Statsig博客文章的中文版，AI改写，证据权重是「核对英文原文」；按问题找章节和文章，见 `context/growth-analytics-reading-map.md`；
 - `context/zhenbenshi-frameworks.md`：按七套框架及小节切块，是《真本事》建议与检索的主要内容源；
@@ -87,7 +88,7 @@
 每个检索块都带 `license` 字段，五类许可的说明见 [`../LICENSE.md`](../LICENSE.md)：
 
 - **收费产品**：只检索 `CC-BY-4.0` 的文字和 CC0 的目录数据，命令行用 `python3 scripts/search.py "问题" --license open`；要用会员内容的文字，先开 issue 取得许可。
-- **不收费的工具**：可以检索 `LicenseRef-Lizheng-Reference-Use-1.0` 的资料（《真本事》课程文字稿、会员视频对话字幕）并据此回答；回答里的原文引用要短，同一份不超过 500 字，并附原始链接；不要把整篇吐给用户，也不要拿来训练模型。
+- **不收费的工具**：可以检索 `LicenseRef-Lizheng-Reference-Use-1.0` 的资料（《真本事》课程文字稿、会员视频和指定公开对话的字幕、会员视频里摘出的本人发言）并据此回答；回答里的原文引用要短，同一份不超过 500 字，并附原始链接；不要把整篇吐给用户，也不要拿来训练模型。
 - **原作者保留**（`LicenseRef-Original-Rights-Retained`）的资料只做参考，引用要注明原作者。
 
 ## 保留作者和生成方式

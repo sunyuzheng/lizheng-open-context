@@ -59,7 +59,8 @@ def default_provenance(meta: dict, body: str, *, synthesis: bool = False) -> dic
                     source_family=meta.get("id"), language=language,
                     source_context="AI-authored repository synthesis of public sources; not a new statement by Yuzheng.")
     if source_type == "video-transcript":
-        if meta.get("inclusion_authorization") == "maintainer-request-2026-10-02-member-transcripts":
+        if meta.get("inclusion_authorization") in {"maintainer-request-2026-10-02-member-transcripts",
+                                                   "maintainer-request-2026-10-04-values-conversations"}:
             # Publication permission is not solo authorship. Preserve the reviewed
             # member import rather than upgrading guest/unknown speech to Yuzheng.
             return {key: meta[key] for key in PROVENANCE_KEYS if key in meta}

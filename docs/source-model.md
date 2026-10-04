@@ -13,7 +13,8 @@
 | AI synthesis、核心主张摘要、Public Axioms、书籍框架整理、回答示例 | 导航、概念关系、跨来源理解 | secondary-only：AI 写的二次整理，不是亲笔、逐字原话或逐句认可的证明 |
 | 嘉宾视频／其他文章的目录 | 找到应去看的原始材料 | not-evidence：标题与简介不是全文证据 |
 | 书和Statsig博客文章的中文版（AI按立正的中文习惯改写） | 找思路、概念和例子，帮助中文检索 | verify-original：核对英文原文；书里的「我们」和合著文章不归立正一人 |
-| 明确授权的会员视频字幕，含嘉宾／未逐段确认说话人的对话 | 在时间码处核实具体发言，提供有归属的参考 | not-evidence：整篇不能证明立正的立场；只能将明确发言归给相应说话人 |
+| 明确授权的会员视频字幕和指定公开对话字幕，含嘉宾／未逐段确认说话人的对话 | 在时间码处核实具体发言，提供有归属的参考 | not-evidence：整篇不能证明立正的立场；只能将明确发言归给相应说话人 |
+| 从这些对话里逐段核对后摘出的立正本人发言（`video-excerpt`） | 该日期、该语境下的本人表达，带时间码 | direct-with-quotation-boundaries：引文逐字对应字幕；每段的小标题和背景是 AI 写的，不是他的话 |
 
 这些标签衡量“可否归成立正的立场”，不是给作者排水平。对技术问题，鸭哥的原始文章可能比立正的摘要更有用；对“立正本人怎么想”，那篇文章就没有直接归属权。搜索 score 只表示词面相关性，不能当成真实性、认可度或可信概率。
 
@@ -65,3 +66,9 @@ Circle 搜索用于发现，正文从实际帖子可见 HTML 取得，不使用�
 ## 书和博客的中文版（2026-10-04）
 
 `source_type=book-chapter`：《Growth Data Analytics Playbook》中文版的12份文字（关于这本书、10章和结语），目录见 [`../index/growth-data-analytics-playbook-zh.md`](../index/growth-data-analytics-playbook-zh.md)；`source_url` 是lizheng.ai上免费阅读的那一章，`original_source_url` 是英文原书。`source_type=blog-post`：立正在Statsig博客的19篇文章的中文版，目录见 [`../index/statsig-blog.md`](../index/statsig-blog.md)；`source_url` 是英文原文。两者都是 `author=AI`、`publisher=Yuzheng Sun`、`content_origin=ai-translation`、`evidence_role=translation`、`yuzheng_stance_weight=verify-original`，`rights_scope=publisher-authorized-adaptation`，按立正参考使用许可开放。`original_author` 写原作的全部作者：书是三位作者，合著文章是两位，另有 `co_authors` 字段。`published_at` 是英文原作的日期，`generated_at` 是中文版的生成日期。只收文字，图只保留图注。判断卡不能以它们为依据，需要立正本人的原话时，回到他的视频和帖子；对应关系见 [`../context/growth-analytics-reading-map.md`](../context/growth-analytics-reading-map.md)。
+
+## 塑造价值观的对话（2026-10-04）
+
+立正指定的十二场对话：问道（格桑泽仁）、赵智沉两场、王路一场、Leon 八场（含和露露谈教育两期）。其中六场是会员视频，字幕此前已收录；王路和 Leon 的六场公开对话按同样的条件补入（`rights_scope=publisher-authorized-transcript`、`speaker_classification=mixed-or-unresolved`、`source_visibility=public`、`inclusion_authorization=maintainer-request-2026-10-04-values-conversations`），清单和字幕哈希见 [`../config/values-conversations-policy.json`](../config/values-conversations-policy.json)。
+
+`source_type=video-excerpt`：每场对话一个文件，在 `corpus/conversation-excerpts/`，只收能从上下文确认是立正本人说的段落。字段是 `author=Yuzheng Sun`、`content_origin=yuzheng-spoken-source`、`generation_method=speaker-reviewed-excerpt`、`evidence_role=primary-speech`、`yuzheng_stance_weight=direct-with-quotation-boundaries`；`source_transcript` 指向收录的字幕全文，`guest_names` 是这场对话的嘉宾，`excerpt_count` 是段数。每段以 `## 时间 小标题` 开头，下一行是带时间码的链接和 AI 写的一句背景，引文放在引用块里，「……」表示省略。`validate_release.py` 会核对每段引文在字幕里逐字出现（标点与空白不计），并且起点正是标出的时间。按时间和主题的梳理见 [`../context/values-conversations-map.md`](../context/values-conversations-map.md)，目录见 [`../index/values-conversations.md`](../index/values-conversations.md)。

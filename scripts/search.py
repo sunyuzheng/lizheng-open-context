@@ -169,6 +169,7 @@ def load_documents() -> list[Document]:
         "corpus/course-lessons/*.md",
         "corpus/book-chapters/*.md",
         "corpus/blog-posts/*.md",
+        "corpus/conversation-excerpts/*.md",
     ):
         for path in sorted(ROOT.glob(pattern)):
             parsed = parse_markdown(path)
@@ -271,7 +272,7 @@ def type_matches(doc: Document, requested: str) -> bool:
     if requested == "all":
         return True
     if requested == "video":
-        return doc.source_type in {"video-transcript", "video-catalog", "video-translation", "video-translation-catalog"}
+        return doc.source_type in {"video-transcript", "video-excerpt", "video-catalog", "video-translation", "video-translation-catalog"}
     if requested == "knowledge-bank":
         return doc.source_type in {"knowledge-bank", "knowledge-bank-catalog"}
     if requested == "community":
@@ -288,6 +289,8 @@ def type_matches(doc: Document, requested: str) -> bool:
         return doc.source_type == "book-chapter"
     if requested == "blog":
         return doc.source_type == "blog-post"
+    if requested == "excerpt":
+        return doc.source_type == "video-excerpt"
     return doc.source_type == requested
 
 
@@ -304,7 +307,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--top", type=int, default=8)
     parser.add_argument(
         "--type",
-        choices=["all", "context", "knowledge-bank", "community", "comment", "video", "english", "course", "book", "blog"],
+        choices=["all", "context", "knowledge-bank", "community", "comment", "video", "excerpt", "english", "course", "book", "blog"],
         default="all",
     )
     parser.add_argument(

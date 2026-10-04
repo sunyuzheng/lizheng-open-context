@@ -2,16 +2,17 @@
 
 # 视频目录
 
-立正 YouTube 频道「课代表立正」的 760 条视频，按发布时间从新到旧排列。其中 421 条有字幕全文：
+立正 YouTube 频道「课代表立正」的 760 条视频，按发布时间从新到旧排列。其中 427 条有字幕全文：
 
 | 类型 | 数量 | 字幕的许可 |
 | --- | ---: | --- |
 | 本人主讲（含 3 条早先收录的会员视频） | 206 | [CC BY 4.0](../LICENSES/CC-BY-4.0.txt) |
 | 会员 · 本人主讲 | 45 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 会员 · 对话 | 170 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
-| 只有目录 | 339 | 没有字幕全文；标题、日期和链接按[CC0 1.0](../LICENSES/CC0-1.0.txt)开放 |
+| 公开 · 对话 | 6 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
+| 只有目录 | 333 | 没有字幕全文；标题、日期和链接按[CC0 1.0](../LICENSES/CC0-1.0.txt)开放 |
 
-会员视频需要频道会员才能观看，字幕文字已获授权开放。「会员 · 本人主讲」经人工核对只有立正一人讲述；「会员 · 对话」里嘉宾、主持人和提问者的话归他们本人。「只有目录」多是嘉宾访谈、多人对话或尚未复核说话人的视频。
+会员视频需要频道会员才能观看，字幕文字已获授权开放。「会员 · 本人主讲」经人工核对只有立正一人讲述；「会员 · 对话」和「公开 · 对话」里嘉宾、主持人和提问者的话归他们本人。「公开 · 对话」是立正 2026-10-04 指定收录的、塑造他价值观的几场公开对话，这些对话里他本人的话另见[塑造价值观的对话](../index/values-conversations.md)。「只有目录」多是嘉宾访谈、多人对话或尚未复核说话人的视频。
 
 机器可读：[catalog/videos.jsonl](../catalog/videos.jsonl)
 
@@ -34,7 +35,7 @@
 | 2026-09-02 | [周楠访谈完整版：为什么说Alexandr Wang是顶级founder、AI硬件、如何早期坚定看中Cerebras、如何找到正确的非共识、创始人如何coachable、2026硅谷AI还剩什么机会？](https://www.youtube.com/watch?v=BseWUBpOHY4) | [全文](../corpus/videos/20260902-BseWUBpOHY4.md) | 会员 · 对话 |
 | 2026-09-02 | [2026年，硅谷创投，几乎不看AI应用了？｜硅谷一线投资人周楠](https://www.youtube.com/watch?v=my_lMhlKLVk) | — | 只有目录 |
 | 2026-08-29 | [Hypothesis Testing Explained｜假设检验详解：Alpha、Beta、Power、MDE与样本量](https://www.youtube.com/watch?v=nCBIotZzPEM) | — | 只有目录 |
-| 2026-08-28 | [让心自由，才能更好地活着｜对话《金刚经50讲》王路](https://www.youtube.com/watch?v=VSX1wxueZPU) | — | 只有目录 |
+| 2026-08-28 | [让心自由，才能更好地活着｜对话《金刚经50讲》王路](https://www.youtube.com/watch?v=VSX1wxueZPU) | [全文](../corpus/videos/20260828-VSX1wxueZPU.md) | 公开 · 对话 |
 | 2026-08-24 | [为什么多数赚钱好生意，不会被你看到？](https://www.youtube.com/watch?v=-zIP-0VbJKI) | [全文](../corpus/videos/20260824--zIP-0VbJKI.md) | 本人主讲 |
 | 2026-08-21 | [我们把一个世界级的AI大会带到了上海！](https://www.youtube.com/watch?v=AkN2RV3X49Q) | — | 只有目录 |
 | 2026-08-20 | [AI能“帮”你成为超级个体，但顺序别搞反了](https://www.youtube.com/watch?v=6hCRP9bW4II) | [全文](../corpus/videos/20260820-6hCRP9bW4II.md) | 会员 · 本人主讲 |
@@ -580,11 +581,11 @@
 | 2023-06-23 | [真诚是面试第一要义](https://www.youtube.com/watch?v=apFYcIzJ1jY) | — | 只有目录 |
 | 2023-06-20 | [为什么我不想看到下属太忙？](https://www.youtube.com/watch?v=OZj6eLT6hNE) | [全文](../corpus/videos/20230620-OZj6eLT6hNE.md) | 本人主讲 |
 | 2023-06-19 | [硅谷程序员的消费观，奇葩还是通透？](https://www.youtube.com/watch?v=LBSW6OqGMCM) | [全文](../corpus/videos/20230619-LBSW6OqGMCM.md) | 会员 · 对话 |
-| 2023-06-15 | [原来有意义的人生这么短？｜Mutiple-Fire系列](https://www.youtube.com/watch?v=u4DpfGx-9i0) | — | 只有目录 |
-| 2023-06-10 | [想清楚这些，才能成为财富的主人｜Multiple-Fire系列](https://www.youtube.com/watch?v=AqQ6HQXFueE) | — | 只有目录 |
+| 2023-06-15 | [原来有意义的人生这么短？｜Mutiple-Fire系列](https://www.youtube.com/watch?v=u4DpfGx-9i0) | [全文](../corpus/videos/20230615-u4DpfGx-9i0.md) | 公开 · 对话 |
+| 2023-06-10 | [想清楚这些，才能成为财富的主人｜Multiple-Fire系列](https://www.youtube.com/watch?v=AqQ6HQXFueE) | [全文](../corpus/videos/20230610-AqQ6HQXFueE.md) | 公开 · 对话 |
 | 2023-06-05 | [Web3其实是二次元？｜如何判断新技术？](https://www.youtube.com/watch?v=uO8LTlmyfGk) | [全文](../corpus/videos/20230605-uO8LTlmyfGk.md) | 本人主讲 |
 | 2023-05-30 | [如何通过沟通，让老板主动帮你？](https://www.youtube.com/watch?v=N4AI18kDvWI) | [全文](../corpus/videos/20230530-N4AI18kDvWI.md) | 本人主讲 |
-| 2023-05-23 | [如何摆脱无意义的工作？｜Multiple-Fire系列](https://www.youtube.com/watch?v=dlv97OHFnGY) | — | 只有目录 |
+| 2023-05-23 | [如何摆脱无意义的工作？｜Multiple-Fire系列](https://www.youtube.com/watch?v=dlv97OHFnGY) | [全文](../corpus/videos/20230523-dlv97OHFnGY.md) | 公开 · 对话 |
 | 2023-05-21 | [用一颗咖啡豆连接土地和人｜泰华梧桐岛起源故事](https://www.youtube.com/watch?v=vwdSOrEp-mg) | — | 只有目录 |
 | 2023-05-19 | [工厂里的一天，你能坚持下来吗？](https://www.youtube.com/watch?v=UDRJRTYESRE) | — | 只有目录 |
 | 2023-05-17 | [应届生三年为公司赚五十亿，靠的是｜直播话术的本质](https://www.youtube.com/watch?v=gBj0JY7LDpE) | — | 只有目录 |
@@ -728,8 +729,8 @@
 | 2021-08-19 | [亚马逊Science Managers们的AMA｜最实在的高端数据科学职场分享｜四位加起来27级的纯干货](https://www.youtube.com/watch?v=PucrhAhOu74) | — | 只有目录 |
 | 2021-08-17 | [【圈内人故事】创业估值过亿真的爽，但是…](https://www.youtube.com/watch?v=CU_jBN8gvq8) | — | 只有目录 |
 | 2021-08-11 | [炒币赚的巨款怎么赔光的？｜如何跳出消费主义的陷阱？｜殊途同归的大佬们](https://www.youtube.com/watch?v=wFHoVeycV2k) | — | 只有目录 |
-| 2021-08-06 | [打工人如何获得财富自由？｜什么才是真正的财富和真正的自由？（中文字幕）｜Multiple-Fire系列](https://www.youtube.com/watch?v=9LKJ8JdLtfI) | — | 只有目录 |
-| 2021-07-28 | [Influence Without Authority ｜ 人生元能力](https://www.youtube.com/watch?v=CTcMvIZFQcw) | — | 只有目录 |
+| 2021-08-06 | [打工人如何获得财富自由？｜什么才是真正的财富和真正的自由？（中文字幕）｜Multiple-Fire系列](https://www.youtube.com/watch?v=9LKJ8JdLtfI) | [全文](../corpus/videos/20210806-9LKJ8JdLtfI.md) | 公开 · 对话 |
+| 2021-07-28 | [Influence Without Authority ｜ 人生元能力](https://www.youtube.com/watch?v=CTcMvIZFQcw) | [全文](../corpus/videos/20210728-CTcMvIZFQcw.md) | 公开 · 对话 |
 | 2021-07-21 | [消费主义倒打我一耙：他为什么花一百万买这些垃圾？](https://www.youtube.com/watch?v=9uUB421L2oo) | — | 只有目录 |
 | 2021-07-18 | [在顶配创业公司当前几号员工是什么体验？](https://www.youtube.com/watch?v=NAZoiCYPrqI) | — | 只有目录 |
 | 2021-07-14 | [How does Facebook run AB testing? \| Statsig product demo by Vijaye](https://www.youtube.com/watch?v=QB3GEnduxk4) | — | 只有目录 |

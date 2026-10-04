@@ -2,6 +2,18 @@
 
 **Changelog** · 每次发布的准确数量、来源快照日期与文件哈希见 [`release-manifest.json`](release-manifest.json)。
 
+## 2026-10-04 塑造价值观的对话：问道、赵智沉、王路、Leon
+
+**为什么做。** 立正说，问道（格桑泽仁）和他跟王路、赵智沉、Leon 的对话，是他价值观塑造的重要组成部分，要求把它们找出来认真分析，整理成底层素材并提炼用好。
+
+**十二场对话的字幕。** 其中六场是会员视频，字幕原本就在仓库里：问道、赵智沉两场、Leon 的《如何赚第一桶金，和超越中产阶级》和与露露谈教育两期。这次按同样的条件补入六场公开对话的字幕全文：2021 年的《Influence Without Authority》《打工人如何获得财富自由？》，2023 年 Multiple-Fire 系列三期，以及 2026 年和王路聊《金刚经》。都在 [`corpus/videos/`](corpus/videos/)，按[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)开放，嘉宾的话归嘉宾本人。精确范围和字幕哈希见 [`config/values-conversations-policy.json`](config/values-conversations-policy.json)，导入脚本是 `scripts/import_values_conversations.py`。视频目录里的「@charisma-Leo」系列是另一位嘉宾，不在其中。
+
+**他本人说的话。** 字幕不标说话人，整篇不能当作立正的立场。这次逐场通读，只摘出能从上下文确认是他说的段落，共 132 段，放在 [`corpus/conversation-excerpts/`](corpus/conversation-excerpts/)，每段带时间码和一句 AI 写的背景；嘉宾的话、说话人不确定的段落和涉及第三方私事的内容都不摘。引文与字幕逐字一致，`validate_release.py` 会逐段核对引文和时间点，对不上就不能发布。会员视频里的摘录按立正参考使用许可，公开视频里的按 CC BY 4.0。按对话的目录见 [`index/values-conversations.md`](index/values-conversations.md)。
+
+**阅读地图和判断卡。** 新增[塑造价值观的对话：阅读地图](context/values-conversations-map.md)，按时间和主题梳理他在每场对话里带进去了什么、接住了什么、后来写进了哪些帖子和课。新增 8 张判断卡：科学的边界、一体与公平、「自」和「我」、自己定义意义、方法比答案重要、少证明自己、降伏其心、教孩子，依据是这些摘录和他的帖子；另给良质、指标与产出、沟通、个人品牌 4 张旧卡接上了对话里的原话。判断卡共 29 张。
+
+**English:** At Yuzheng's request, the twelve conversations he names as formative for his values (问道 with 格桑泽仁, two with 赵智沉, one with 王路, eight with Leon) are now source material. Six were member videos already included; the transcripts of the six public ones are added under the same terms (Lizheng Reference Use License; guests keep the rights in their own words). His own turns were reviewed speaker by speaker and excerpted (132 passages in `corpus/conversation-excerpts/`); every quotation must match its transcript verbatim at the stated time, which the release validator checks. A reading map and eight new reasoning cards build on them; there are now 29 cards.
+
 ## 2026-10-04 《Growth Data Analytics Playbook》和Statsig博客文章的中文版、增长与实验判断卡
 
 **书的中文版。** 立正和Mengying Li、Joe Kumar合著的《Growth Data Analytics Playbook》（Statsig Press，2025）有了免费中文版：AI按立正的中文习惯整本改写，保留全部框架、案例和练习，几道练习补了计算过程或注意事项。中文版在[lizheng.ai](https://www.lizheng.ai/book/growth-data-analytics-playbook)每章一页免费读，也可以下载EPUB和PDF。这里收文字，共12份（关于这本书、10章和结语），在 [`corpus/book-chapters/`](corpus/book-chapters/)，目录见 [`index/growth-data-analytics-playbook-zh.md`](index/growth-data-analytics-playbook-zh.md)。

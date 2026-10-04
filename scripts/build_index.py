@@ -197,19 +197,21 @@ def video_kind(row: dict) -> str:
     if not row.get("transcript_included"):
         return "只有目录"
     if row.get("speaker_classification") != "solo-yuzheng":
-        return "会员 · 对话"
+        return "会员 · 对话" if row.get("source_visibility") == "members-only" else "公开 · 对话"
     return "会员 · 本人主讲" if row.get("source_visibility") == "members-only" else "本人主讲"
 
 
 def transcript_groups(videos: list[dict]) -> dict[str, int]:
     """Transcript counts by who speaks and which license applies."""
-    groups = {"open-solo": 0, "open-solo-member": 0, "member-solo": 0, "member-mixed": 0, "listed": 0}
+    groups = {"open-solo": 0, "open-solo-member": 0, "member-solo": 0, "member-mixed": 0, "public-mixed": 0, "listed": 0}
     for row in videos:
         kind = video_kind(row)
         if kind == "只有目录":
             groups["listed"] += 1
         elif kind == "会员 · 对话":
             groups["member-mixed"] += 1
+        elif kind == "公开 · 对话":
+            groups["public-mixed"] += 1
         elif row.get("license") == "CC-BY-4.0":
             groups["open-solo"] += 1
             groups["open-solo-member"] += kind == "会员 · 本人主讲"
@@ -234,10 +236,11 @@ def video_page(root: Path) -> str:
             [open_label, str(groups["open-solo"]), license_link(page, "CC-BY-4.0")],
             ["会员 · 本人主讲", str(groups["member-solo"]), license_link(page, REFERENCE_USE)],
             ["会员 · 对话", str(groups["member-mixed"]), f"{license_link(page, REFERENCE_USE)}；嘉宾的话归嘉宾本人"],
+            ["公开 · 对话", str(groups["public-mixed"]), f"{license_link(page, REFERENCE_USE)}；嘉宾的话归嘉宾本人"],
             ["只有目录", str(groups["listed"]), "没有字幕全文；标题、日期和链接按" + license_link(page, "CC0-1.0") + "开放"],
         ], numeric={1}),
         "",
-        "会员视频需要频道会员才能观看，字幕文字已获授权开放。「会员 · 本人主讲」经人工核对只有立正一人讲述；「会员 · 对话」里嘉宾、主持人和提问者的话归他们本人。「只有目录」多是嘉宾访谈、多人对话或尚未复核说话人的视频。",
+        "会员视频需要频道会员才能观看，字幕文字已获授权开放。「会员 · 本人主讲」经人工核对只有立正一人讲述；「会员 · 对话」和「公开 · 对话」里嘉宾、主持人和提问者的话归他们本人。「公开 · 对话」是立正 2026-10-04 指定收录的、塑造他价值观的几场公开对话，这些对话里他本人的话另见" + link(page, "塑造价值观的对话", "index/values-conversations.md") + "。「只有目录」多是嘉宾访谈、多人对话或尚未复核说话人的视频。",
         "",
         f"机器可读：{link(page, 'catalog/videos.jsonl', 'catalog/videos.jsonl')}",
     ]
@@ -363,6 +366,36 @@ def blog_page(root: Path) -> str:
     return "\n".join(out) + "\n"
 
 
+def conversations_page(root: Path) -> str:
+    page = "index/values-conversations.md"
+    rows = sorted(read_jsonl(root / "catalog/conversation-excerpts.jsonl"), key=lambda row: str(row.get("published_at")))
+    videos = {row["video_id"]: row for row in read_jsonl(root / "catalog/videos.jsonl")}
+    reference, cc_by = license_link(page, REFERENCE_USE), license_link(page, "CC-BY-4.0")
+    body = []
+    for row in rows:
+        video = videos[row["video_id"]]
+        access = "会员视频" if row.get("source_visibility") == "members-only" else "公开视频"
+        title = re.sub(r"^立正本人的话 · ", "", row["title"])
+        body.append([day(row.get("published_at")), f"[{cell(title)}]({row['url']})", cell("、".join(row.get("guest_names") or [])),
+                     access, link(page, "全文", video["corpus_path"]), link(page, f"{row['excerpt_count']} 段", row["corpus_path"])])
+    out = [
+        GENERATED,
+        "",
+        "# 塑造价值观的对话",
+        "",
+        f"立正说，问道（格桑泽仁）和跟王路、赵智沉、Leon 的对话，是他价值观塑造的重要组成部分。这里按时间列出这 {len(rows)} 场对话，"
+        f"每场都有字幕全文，以及逐段核对说话人后摘出的立正本人的话（共 {sum(int(row.get('excerpt_count') or 0) for row in rows)} 段）。",
+        "",
+        f"- **立正本人的话**：只收能从上下文确认是他说的段落，引文与字幕逐字一致，发布前逐段核对。会员视频里的摘录按{reference}使用，公开视频里的按{cc_by}。每段的小标题和「背景」由 AI 写成。",
+        f"- **字幕全文**：嘉宾、主持人和提问者的话归他们本人，不能当作立正的立场；按{reference}使用。",
+        f"- **来龙去脉**：每场对话里他带进去了什么、接住了什么、后来写进了哪些帖子和课，见{link(page, '塑造价值观的对话：阅读地图', 'context/values-conversations-map.md')}（AI 整理）。",
+        f"- **机器可读**：{link(page, 'catalog/conversation-excerpts.jsonl', 'catalog/conversation-excerpts.jsonl')}",
+        "",
+        *table(["日期", "对话", "嘉宾", "原视频", "字幕", "立正本人的话"], body),
+    ]
+    return "\n".join(out) + "\n"
+
+
 def hub_page(root: Path) -> str:
     page = "INDEX.md"
     count = lambda name: len(read_jsonl(root / f"catalog/{name}.jsonl"))
@@ -372,6 +405,7 @@ def hub_page(root: Path) -> str:
     own_english = sum(row.get("original_author") == "Yuzheng Sun" for row in english)
     other_english = sum(row.get("original_author") != "Yuzheng Sun" for row in english)
     kb = read_jsonl(root / "catalog/knowledge-bank.jsonl")
+    excerpts = read_jsonl(root / "catalog/conversation-excerpts.jsonl")
     context_files = sorted((root / "context").glob("*"))
     cc_by, reference, retained, cc0 = (license_link(page, key) for key in ("CC-BY-4.0", REFERENCE_USE, RETAINED, "CC0-1.0"))
     comments = count("community-comments")
@@ -386,6 +420,8 @@ def hub_page(root: Path) -> str:
         ["视频字幕：本人主讲", f"{groups['open-solo']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), cc_by],
         ["视频字幕：会员视频 · 本人主讲", f"{groups['member-solo']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), reference],
         ["视频字幕：会员视频 · 对话", f"{groups['member-mixed']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), f"{reference}；嘉宾的话归嘉宾"],
+        ["视频字幕：公开视频 · 对话", f"{groups['public-mixed']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), f"{reference}；嘉宾的话归嘉宾"],
+        ["对话里立正本人的话", f"{sum(int(row.get('excerpt_count') or 0) for row in excerpts)} 段", link(page, "塑造价值观的对话", "index/values-conversations.md"), link(page, "corpus/conversation-excerpts/", "corpus/conversation-excerpts/"), f"会员视频里的：{reference}；公开视频里的：{cc_by}"],
         ["英文文章：源于立正", f"{own_english} 篇", link(page, "英文资料", "index/english.md"), link(page, "corpus/english-community/", "corpus/english-community/"), cc_by],
         ["英文文章：其他作者", f"{other_english} 篇", link(page, "英文资料", "index/english.md"), link(page, "corpus/english-community/", "corpus/english-community/"), retained],
         ["英文 AI 译稿", f"{count('english-translations')} 份", link(page, "英文资料", "index/english.md"), link(page, "corpus/english-translations/", "corpus/english-translations/"), cc_by],
@@ -437,7 +473,8 @@ def hub_page(root: Path) -> str:
         "",
         "This page indexes everything in the repository: how much there is, where it lives, and how you may use it. "
         "Yuzheng Sun's posts, comments, solo video transcripts, English originals, AI translations, and AI syntheses are CC BY 4.0. "
-        "The *Zhenbenshi* course texts, member video transcripts, and the Chinese editions of *Growth Data Analytics Playbook* and Yuzheng's Statsig blog posts (AI rewrites in his Chinese voice) are under the Lizheng Reference Use License: read, search, use in free AI tools, and quote briefly, "
+        "Yuzheng's own turns excerpted from the conversations that shaped his values follow their source: CC BY 4.0 from public videos, the Lizheng Reference Use License from member videos. "
+        "The *Zhenbenshi* course texts, member video transcripts, the transcripts of six public conversations with guests, and the Chinese editions of *Growth Data Analytics Playbook* and Yuzheng's Statsig blog posts (AI rewrites in his Chinese voice) are under the Lizheng Reference Use License: read, search, use in free AI tools, and quote briefly, "
         "but do not republish them in full, charge for them, or train models on them. Articles by other authors keep their original rights. "
         "Catalogs and index pages are CC0; code and documentation are MIT. See [LICENSE.md](LICENSE.md).",
     ]
@@ -447,6 +484,7 @@ def hub_page(root: Path) -> str:
 PAGES = {
     "INDEX.md": hub_page,
     "index/zhenbenshi-course.md": course_page,
+    "index/values-conversations.md": conversations_page,
     "index/growth-data-analytics-playbook-zh.md": book_page,
     "index/statsig-blog.md": blog_page,
     "index/community-posts.md": community_page,

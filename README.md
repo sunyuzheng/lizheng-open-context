@@ -6,7 +6,7 @@
 
 **[目录](INDEX.md)** · **[版权与许可](LICENSE.md)** · **[更新记录](CHANGELOG.md)**
 
-> **最近更新（2026-10-04）**：补入立正合著的《Growth Data Analytics Playbook》中文版（全书12份）和他在Statsig博客的19篇文章的中文版，都是AI按他的中文习惯改写；新增增长与实验的阅读地图和4张判断卡。详见[更新记录](CHANGELOG.md)。
+> **最近更新（2026-10-04）**：整理了塑造立正价值观的12场对话（问道、赵智沉、王路、Leon）：补入王路和Leon的6场公开对话字幕，逐段摘出他本人说的132段话（引文与字幕逐字一致），新增[阅读地图](context/values-conversations-map.md)和8张判断卡。同一天还补入了《Growth Data Analytics Playbook》中文版和他在Statsig博客19篇文章的中文版。详见[更新记录](CHANGELOG.md)。
 
 ## 从这里继续
 
@@ -22,7 +22,7 @@
 
 | 层 | 内容 | 开放方式 |
 |---|---|---|
-| `context/` | 当前核心主张、公开简介、Public Axioms V1、《真本事》完整框架、阅读地图与判断卡 | AI 撰写的整理与综合，CC BY 4.0；底层原作归立正，不能当作本人亲笔或原话 |
+| `context/` | 当前核心主张、公开简介、Public Axioms V1、《真本事》完整框架、阅读地图（含塑造价值观的对话）与判断卡 | AI 撰写的整理与综合，CC BY 4.0；底层原作归立正，不能当作本人亲笔或原话 |
 | `corpus/course-lessons/` | 《真本事》会员课程 23 节视频课的文字稿，[按课程顺序的目录](index/zhenbenshi-course.md) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)：可阅读、搜索、问答与短引用；课程视频与课件仍需会员 |
 | `corpus/book-chapters/` | 《Growth Data Analytics Playbook》中文版（全书12份：关于这本书、10章和结语），[按章节的目录](index/growth-data-analytics-playbook-zh.md)；[在线免费读](https://www.lizheng.ai/book/growth-data-analytics-playbook) | AI按立正的中文习惯改写，立正参考使用许可；原书三位作者合著，核对说法回到英文原书 |
 | `corpus/blog-posts/` | 立正在Statsig博客发表的19篇文章（2篇合著）的中文版，[按日期的目录](index/statsig-blog.md) | AI改写，立正参考使用许可；只收文字，图在英文原文里；合著文章的观点属于两位作者 |
@@ -31,7 +31,8 @@
 | `catalog/community-posts.jsonl` / `community-comments.jsonl` | 上述帖子与纳入评论的机器可读目录 | 可用于 RAG、索引和增量同步，CC0 |
 | `catalog/knowledge-bank.jsonl` | Knowledge Bank 的 169 篇公开文章目录 | 所有作者只列公开元数据；立正的 36 篇全文指向统一社区语料 |
 | `catalog/videos.jsonl` | 立正YouTube频道的760条视频目录，包括已授权的会员视频快照 | 标题、日期、链接、字幕状态、访问与权利范围，CC0 |
-| `corpus/videos/` | 421份字幕：206份本人主讲，215份会员视频（其中45份经核对是立正一人主讲，170份是对话）；218份标明会员视频 | 带YouTube时间码；本人主讲 CC BY 4.0，会员视频按立正参考使用许可，对话里嘉宾的话归嘉宾 |
+| `corpus/videos/` | 427份字幕：206份本人主讲，215份会员视频（其中45份经核对是立正一人主讲，170份是对话），6份指定收录的公开对话（王路、Leon）；218份标明会员视频 | 带YouTube时间码；本人主讲 CC BY 4.0，会员视频和公开对话按立正参考使用许可，对话里嘉宾的话归嘉宾 |
+| `corpus/conversation-excerpts/` | 塑造他价值观的12场对话（问道、赵智沉、王路、Leon）里，立正本人说的132段话，[按对话的目录](index/values-conversations.md) | 逐段核对说话人，引文与字幕逐字一致；会员视频里的按立正参考使用许可，公开视频里的 CC BY 4.0 |
 | `corpus/english-community/` / `catalog/english-community.jsonl` | 50 篇已发布英文文章：11 篇源于立正、37 篇鸭哥、1 篇 Carl Guo、1 篇原作者待确认 | 49 个新增正文文件，另 1 篇指向已有正文；源于立正的 CC BY 4.0，其他作者保留原权利；保留原作者、发布账号、原文链接与 Bot 翻译／转载标记 |
 | `corpus/english-translations/` | 77 份本人单讲视频的英文 AI 译稿 | 独立标注 AI 生成、原视频发布日期与译稿生成日期；属于阅读辅助，不冒充英文原话；CC BY 4.0 |
 | [`INDEX.md`](INDEX.md) / `index/` | 全部资料的目录：《真本事》按课程顺序，书的中文版按章节，帖子、博客、视频、英文资料与 Knowledge Bank 按日期 | 由 catalog 自动生成，CC0 |
@@ -50,6 +51,7 @@ python3 scripts/search.py "fake work" --type knowledge-bank
 python3 scripts/search.py "如何建立信念" --type community
 python3 scripts/search.py "项目复盘" --type comment
 python3 scripts/search.py "做出代表作" --type video
+python3 scripts/search.py "科学能解释的东西很少" --type excerpt
 python3 scripts/search.py "context infrastructure" --type english --json
 python3 scripts/search.py "个人价值公式" --type course
 python3 scripts/search.py "growth accounting" --type book
@@ -120,11 +122,11 @@ python3 scripts/search.py "如何建立信念" --license open
 - 未通过公开评论规则的短回复、欢迎语、运营回复与可能带有私密语境的本人评论；
 - 学员、客户、合作方的非公开信息；
 - 合同、财务、定价策略、内部运营、路线图和商业机密；
-- 未发布选题、草稿、未授权课程课件、会员视频文件与私有媒体；已授权的218份会员字幕是有清单的例外；
+- 未发布选题、草稿、未授权课程课件、会员视频文件与私有媒体；已授权的218份会员字幕和6场公开对话字幕是有清单的例外；
 - 凭证、token、Cookie、环境变量、日志和本地绝对路径；
 - 《真本事》出版社版式、插图、扫描件，以及不是由立正拥有权利的第三方素材；
 - 付费课程的视频、课件、作业与评论；《真本事》23 节课的文字稿是有清单的例外，框架整理也已以作者自有版本完整开放；
-- 本次会员字幕授权清单之外的嘉宾访谈完整逐字稿。
+- 会员字幕和公开对话授权清单之外的嘉宾访谈完整逐字稿。
 
 视频字幕采用正向 allowlist：新视频不会因为“暂时没发现嘉宾”就自动获得全文许可，必须先明确加入 `config/video-transcript-allowlist.txt`；任何与嘉宾索引或人工排除表冲突的 ID 会让导出直接失败。
 
@@ -148,8 +150,8 @@ python3 scripts/search.py "如何建立信念" --license open
 
 资料分五类，各用各的许可，一页纸的说明见 [`LICENSE.md`](LICENSE.md)，细则见 [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)：
 
-- **立正的文字**：帖子、评论、本人主讲视频字幕、源于立正的英文文章、英文 AI 译稿和 AI 整理，[CC BY 4.0](LICENSES/CC-BY-4.0.txt)，注明作者和出处即可转载、改编、商用；
-- **会员内容和中文改写版的文字**：《真本事》课程文字稿、会员视频对话字幕，以及《Growth Data Analytics Playbook》和Statsig博客文章的中文版，[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)，可以阅读、搜索、放进不收费的 AI 问答工具和短引用，不能整篇转载、收费使用或训练模型；
+- **立正的文字**：帖子、评论、本人主讲视频字幕、公开对话里摘出的本人发言、源于立正的英文文章、英文 AI 译稿和 AI 整理，[CC BY 4.0](LICENSES/CC-BY-4.0.txt)，注明作者和出处即可转载、改编、商用；
+- **会员内容和中文改写版的文字**：《真本事》课程文字稿、会员视频和指定公开对话的字幕、会员视频里摘出的本人发言，以及《Growth Data Analytics Playbook》和Statsig博客文章的中文版，[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)，可以阅读、搜索、放进不收费的 AI 问答工具和短引用，不能整篇转载、收费使用或训练模型；
 - **他人的作品**：其他作者的英文文章、嘉宾的话、第三方引文和商标，[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)；
 - **目录数据**：[CC0 1.0](LICENSES/CC0-1.0.txt)；
 - **程序和说明文档**：[MIT](LICENSES/MIT.txt)。
