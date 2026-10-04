@@ -10,7 +10,7 @@ published_at: "2025-09-11T22:03:52Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 俞舟教授AI问答：如何说服老板投资AI小项目？｜如何判定AI是否能带来营收增长？｜横向还是纵向？如何定价？｜如何兼顾短期收益与长期布局？｜中美创业生态差别？｜未来三年技术和投资周期？
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=re-sZYEcOrI) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`youtube_human_subtitle`；校对状态：`human-caption`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=re-sZYEcOrI) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`youtube_human_subtitle`；校对状态：`human-caption`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=re-sZYEcOrI&t=0s) 呃我们公司的话
 

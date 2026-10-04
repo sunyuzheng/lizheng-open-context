@@ -10,7 +10,7 @@ published_at: "2023-10-15T05:23:50Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 减肥经验1--通过意念让饥饿为我所用
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=_OGCu_jmceo) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=_OGCu_jmceo) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=_OGCu_jmceo&t=0s) Hello，大家好，欢迎回到快乐表弟正。今天我们就来讲我减肥的经验。哦，这些视频可能会很长，而且是很多系列。就是为什么到现在我还没有发？啊，而且其实本来我可能还会发的更晚，因为我发现这里边真的把这个东西讲清楚太难太难了。然后，但是我后来就觉得说。
 

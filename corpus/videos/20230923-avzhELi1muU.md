@@ -10,7 +10,7 @@ published_at: "2023-09-23T18:56:49Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # Deb: How to find a sponsor?
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=avzhELi1muU) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_qwen_uncorrected`；校对状态：`uncorrected-asr`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=avzhELi1muU) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_qwen_uncorrected`；校对状态：`uncorrected-asr`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=avzhELi1muU&t=0s) Talking about building your sponsors. So, what are some of the things that work for you? Was there ever a magical moment when you found, aha, this leader is vouching for me, so that maybe that's my inherent sponsor? Or did you take any conscious steps to build those sponsors? So, just curious, what worked for each of you?
 

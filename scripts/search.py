@@ -280,7 +280,16 @@ def type_matches(doc: Document, requested: str) -> bool:
         return doc.source_type == "community-comment"
     if requested == "context":
         return doc.source_type in {"context", "book-framework"}
+    if requested == "course":
+        return doc.source_type == "course-lesson"
     return doc.source_type == requested
+
+
+def license_matches(doc: Document, requested: str) -> bool:
+    """`open` keeps only material anyone may reuse, including commercially: CC BY text and CC0 catalog entries."""
+    if requested == "all":
+        return True
+    return doc.license == "CC-BY-4.0" or doc.source_type.endswith("-catalog")
 
 
 def parse_args() -> argparse.Namespace:
@@ -289,8 +298,14 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--top", type=int, default=8)
     parser.add_argument(
         "--type",
-        choices=["all", "context", "knowledge-bank", "community", "comment", "video", "english"],
+        choices=["all", "context", "knowledge-bank", "community", "comment", "video", "english", "course"],
         default="all",
+    )
+    parser.add_argument(
+        "--license",
+        choices=["all", "open"],
+        default="all",
+        help="open: only CC BY 4.0 text and CC0 catalog entries, for products that charge or need free reuse",
     )
     parser.add_argument("--json", action="store_true", dest="as_json")
     return parser.parse_args()
@@ -365,7 +380,7 @@ def print_results(results: list[dict]) -> None:
 
 def main() -> None:
     args = parse_args()
-    documents = [doc for doc in load_documents() if type_matches(doc, args.type)]
+    documents = [doc for doc in load_documents() if type_matches(doc, args.type) and license_matches(doc, args.license)]
     results = search_documents(documents, args.query, args.top)
     if args.as_json:
         print(json.dumps(results, ensure_ascii=False, indent=2))

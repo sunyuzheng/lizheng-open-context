@@ -1,34 +1,12 @@
 # 立正 · Open Context
 
-一个给人和 AI 都能读的公开知识底座：把立正在 Superlinear 社区与视频频道发表的内容、明确署名的英文社区资料、AI 翻译与综合，以及《真本事》框架参考，整理成可检索、可引用、可继续开发的开放仓库。
+一个给人和 AI 都能读的公开知识底座：把立正在 Superlinear 社区与视频频道发表的内容、明确署名的英文社区资料、AI 翻译与综合，以及《真本事》的课程文字稿与框架参考，整理成可检索、可引用、可继续开发的开放仓库。
 
 它不是一个替你模仿“立正口吻”的人格提示词，也不宣称能替本人回答。它更像一套有来源、有时间、有边界的公共材料：你可以用它做搜索、问答、视频推荐、研究索引，或开发自己的立正 Skill / Agent。
 
-## 2026-10-04 《真本事》课程文字稿
+**[目录](INDEX.md)** · **[版权与许可](LICENSE.md)** · **[更新记录](CHANGELOG.md)**
 
-作者授权把超线性学院会员课程《真本事》23节视频课下方的文字稿补入，供检索与问答：宣导片和第01–21课（第11课分上下），约15万字，在[`corpus/course-lessons/`](corpus/course-lessons/)，目录是[`catalog/course-lessons.jsonl`](catalog/course-lessons.jsonl)。课程视频与课件仍只对会员开放；开放的是文字，不是课程本身。作者保留文字稿的原有权利，不随本仓库的CC许可再授权。每份保留课程页面链接、发布日期和会员标记。精确范围和每课文字的哈希见[`config/member-course-policy.json`](config/member-course-policy.json)，维护流程见[课程文字稿说明](docs/member-course.md)。
-
-**English:** With the author's authorization, the lesson texts of the members-only course *Zhenbenshi* (23 video lessons on Superlinear Academy) are added for retrieval and Q&A. Course videos and slides stay members-only, and the author retains the original rights in the text; it is not relicensed under this repository's CC license.
-
-## 2026-10-02 会员字幕补充
-
-维护者授权把218份频道会员视频字幕用于开放检索与问答：新增215份，已有3份保留原文并补上会员标记。视频目录现为760条，字幕全文421份。原视频仍需YouTube频道会员观看；开放的是这一批字幕文字，不是会员视频文件，也不改变问问立正的Superlinear Founding额度。
-
-每份资料保留原视频与时间码、会员状态核验日期、字幕来源和校对状态。嘉宾与说话人边界未确认的对话保留原权利与归属，不能用整篇证明立正本人的立场。精确范围和输入哈希见[`config/member-video-policy.json`](config/member-video-policy.json)，维护流程见[会员字幕说明](docs/member-transcripts.md)。
-
-## 2026-09-30 更新 / Update
-
-这次更新把近期提问、AI 学习、技术判断、职业价值与创作的材料补进同一个可回源的底座：
-
-- **249 篇本人发布正文**：补入 9 篇，重新读取 32 篇已有正文。近期新增包括《假学习的终结》《为什么别人的好建议，到你这里就用不上？》《AI 接过工作之后，人生的问题才刚刚开始》、Jev 技术判断，以及周洁、Ashley 和切问 02 的对话伴读。
-- **551 条视频目录、206 份主讲字幕**：刷新匿名公开视频清单，补入 9 条视频、移除 1 条已不在公开清单的目录；新增 Jev 主讲视频的作者发布中文字幕，保留具体时间链接。嘉宾／未复核视频继续只提供发现元数据。
-- **当前知识库目录**：Knowledge Bank 有 169 篇公开文章元数据，36 篇本人正文；已迁往 Tools 或活动回放的文章仍可通过统一帖子库找到。原有 10 条审核评论、50 篇英文社区资料和 77 份英文 AI 译稿继续保留各自的历史快照。
-- **Context 组织**：新增 [8 组判断卡](context/decision-cards.json)，关联原文、适用条件、不能推出的结论与材料间张力，可供产品按问题加载。它们是 AI 整理的推理导航，不能独立充当作者立场的证据。
-- **问题导航**：新增[近期阅读地图](context/recent-reading-map.md)，从“真的学会了吗”“建议为何用不上”“新技术值不值得追”“自媒体要放大什么”等问题，找到相关原文。它是 AI 编写的检索导航，不是本人确认的新理论。
-
-文章、视频与衍生整理仍分别记录来源、时间和归属。旧材料没有因本次增量更新而被重新标成最新观点。5 条新视频的具体发布日期尚未取得可靠元数据，目录如实留空；不借它们推断当前立场。准确数量、来源快照日期与文件哈希见 [release manifest](release-manifest.json)。
-
-**English:** This update adds 9 published first-party posts, re-reads 32 existing posts, refreshes the public video discovery catalog, and adds the author-published Chinese captions for the solo Jev presentation. Publication dates, speakers, community contributors, AI translations and syntheses retain separate provenance. The new reading map is AI-authored navigation, not independent evidence of Yuzheng's views. Rebuild downstream indexes after updating.
+> **最近更新（2026-10-03）**：补入《真本事》23 节课的文字稿；统一全仓库的版权，五类资料各用各的许可；新增[完整目录](INDEX.md)。详见[更新记录](CHANGELOG.md)。
 
 ## 从这里继续
 
@@ -44,19 +22,21 @@
 
 | 层 | 内容 | 开放方式 |
 |---|---|---|
-| `context/` | 当前核心主张、公开简介、Public Axioms V1、《真本事》完整框架、阅读地图与判断卡 | AI 撰写的整理与综合；底层原作归立正，不能当作本人亲笔或原话 |
+| `context/` | 当前核心主张、公开简介、Public Axioms V1、《真本事》完整框架、阅读地图与判断卡 | AI 撰写的整理与综合，CC BY 4.0；底层原作归立正，不能当作本人亲笔或原话 |
+| `corpus/course-lessons/` | 《真本事》会员课程 23 节视频课的文字稿，[按课程顺序的目录](index/zhenbenshi-course.md) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)：可阅读、搜索、问答与短引用；课程视频与课件仍需会员 |
 | `corpus/community-posts/` | 立正在 Superlinear 各正常空间发布的 249 篇第一方帖子 | 全文、原帖链接、日期、空间与原始可见性，CC BY 4.0 |
 | `corpus/community-comments/` | 从 2,519 条本人评论中筛出的 10 条独立、有检索价值的公开补充 | 只纳入本人公开帖子下的公开评论；保留原评论链接，移除成员提及名称、联系方式、正文链接与敏感语境 |
-| `catalog/community-posts.jsonl` / `community-comments.jsonl` | 上述帖子与纳入评论的机器可读目录 | 可用于 RAG、索引和增量同步 |
+| `catalog/community-posts.jsonl` / `community-comments.jsonl` | 上述帖子与纳入评论的机器可读目录 | 可用于 RAG、索引和增量同步，CC0 |
 | `catalog/knowledge-bank.jsonl` | Knowledge Bank 的 169 篇公开文章目录 | 所有作者只列公开元数据；立正的 36 篇全文指向统一社区语料 |
-| `catalog/videos.jsonl` | 立正YouTube频道的760条视频目录，包括已授权的会员视频快照 | 标题、日期、链接、字幕状态、访问与权利范围 |
-| `corpus/videos/` | 421份字幕：原206份及新增215份会员字幕；218份标明会员视频 | 带YouTube时间码；本人主讲许可与会员对话的原权利保留分别标记 |
-| `corpus/english-community/` / `catalog/english-community.jsonl` | 50 篇已发布英文文章：11 篇源于立正、37 篇鸭哥、1 篇 Carl Guo、1 篇原作者待确认 | 49 个新增正文文件，另 1 篇指向已有正文；保留原作者、发布账号、原文链接与 Bot 翻译／转载标记 |
-| `corpus/english-translations/` | 77 份本人单讲视频的英文 AI 译稿 | 独立标注 AI 生成、原视频发布日期与译稿生成日期；属于阅读辅助，不冒充英文原话 |
-| `docs/` | 数据边界、回答协议、建 agent 指南 | 可直接作为开发规范 |
-| `scripts/` | 导出、搜索与发布前检查 | MIT |
+| `catalog/videos.jsonl` | 立正YouTube频道的760条视频目录，包括已授权的会员视频快照 | 标题、日期、链接、字幕状态、访问与权利范围，CC0 |
+| `corpus/videos/` | 421份字幕：206份本人主讲，215份会员视频对话；218份标明会员视频 | 带YouTube时间码；本人主讲 CC BY 4.0，会员对话按立正参考使用许可，嘉宾的话归嘉宾 |
+| `corpus/english-community/` / `catalog/english-community.jsonl` | 50 篇已发布英文文章：11 篇源于立正、37 篇鸭哥、1 篇 Carl Guo、1 篇原作者待确认 | 49 个新增正文文件，另 1 篇指向已有正文；源于立正的 CC BY 4.0，其他作者保留原权利；保留原作者、发布账号、原文链接与 Bot 翻译／转载标记 |
+| `corpus/english-translations/` | 77 份本人单讲视频的英文 AI 译稿 | 独立标注 AI 生成、原视频发布日期与译稿生成日期；属于阅读辅助，不冒充英文原话；CC BY 4.0 |
+| [`INDEX.md`](INDEX.md) / `index/` | 全部资料的目录：《真本事》按课程顺序，帖子、视频、英文资料与 Knowledge Bank 按年份 | 由 catalog 自动生成，CC0 |
+| `docs/` | 数据边界、回答协议、建 agent 指南 | 可直接作为开发规范，MIT |
+| `scripts/` | 导出、搜索、目录生成与发布前检查 | MIT |
 
-准确数量和每个文件的哈希见 [`release-manifest.json`](release-manifest.json)。
+准确数量见[目录](INDEX.md)，每个文件的哈希与许可见 [`release-manifest.json`](release-manifest.json)。
 
 ## 30 秒开始
 
@@ -69,7 +49,11 @@ python3 scripts/search.py "如何建立信念" --type community
 python3 scripts/search.py "项目复盘" --type comment
 python3 scripts/search.py "做出代表作" --type video
 python3 scripts/search.py "context infrastructure" --type english --json
+python3 scripts/search.py "个人价值公式" --type course
+python3 scripts/search.py "如何建立信念" --license open
 ```
+
+`--license open` 只检索可以自由再利用的资料（CC BY 4.0 与目录数据），做收费产品时用它；会员内容的文字只能用在不收费的工具里，见[版权与许可](LICENSE.md)。
 
 搜索结果会给出标题、日期、原始链接、命中片段，以及原作者、发布账号、生成方式和立场证据权重；视频结果尽可能给到可点击的时间码。相关性分数不代表事实置信度，同一原作的翻译／转载不重复算独立证据。
 
@@ -135,7 +119,7 @@ python3 scripts/search.py "context infrastructure" --type english --json
 - 未发布选题、草稿、未授权课程课件、会员视频文件与私有媒体；已授权的218份会员字幕是有清单的例外；
 - 凭证、token、Cookie、环境变量、日志和本地绝对路径；
 - 《真本事》出版社版式、插图、扫描件，以及不是由立正拥有权利的第三方素材；
-- 付费课程的原始视频与逐字转录（框架内容已经以作者自有版本完整开放）；
+- 付费课程的视频、课件、作业与评论；《真本事》23 节课的文字稿是有清单的例外，框架整理也已以作者自有版本完整开放；
 - 本次会员字幕授权清单之外的嘉宾访谈完整逐字稿。
 
 视频字幕采用正向 allowlist：新视频不会因为“暂时没发现嘉宾”就自动获得全文许可，必须先明确加入 `config/video-transcript-allowlist.txt`；任何与嘉宾索引或人工排除表冲突的 ID 会让导出直接失败。
@@ -144,7 +128,7 @@ python3 scripts/search.py "context infrastructure" --type english --json
 
 ## 更新与纠错
 
-这个仓库是版本化快照，不是假装永远最新的“数字分身”。每次发布会记录来源日期、筛选规则、数量和哈希。发现错字、归属错误、断链或隐私问题，请开 issue；涉及移除请求时，请只描述目标文件和原因，不要在 issue 里再次粘贴敏感内容。
+这个仓库是版本化快照，不是假装永远最新的“数字分身”。每次发布会记录来源日期、筛选规则、数量和哈希，改动见[更新记录](CHANGELOG.md)。发现错字、归属错误、断链或隐私问题，请开 issue；涉及移除请求时，请只描述目标文件和原因，不要在 issue 里再次粘贴敏感内容。
 
 ## 用完之后，带一个结果回来
 
@@ -158,7 +142,10 @@ python3 scripts/search.py "context infrastructure" --type english --json
 
 ## License
 
-- 程序与开发文档：MIT，见 [`LICENSE`](LICENSE)。
-- 标注为 CC BY 4.0 的作者授权内容与派生整理：保留实际作者和 AI 生成标记，见 [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)。
-- 公开元数据：CC0 1.0。
-- 第三方引文、链接、姓名、商标和嘉宾内容不因进入本仓库而被重新授权。
+资料分五类，各用各的许可，一页纸的说明见 [`LICENSE.md`](LICENSE.md)，细则见 [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)：
+
+- **立正的文字**：帖子、评论、本人主讲视频字幕、源于立正的英文文章、英文 AI 译稿和 AI 整理，[CC BY 4.0](LICENSES/CC-BY-4.0.txt)，注明作者和出处即可转载、改编、商用；
+- **会员内容的文字**：《真本事》课程文字稿和会员视频对话字幕，[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)，可以阅读、搜索、放进不收费的 AI 问答工具和短引用，不能整篇转载、收费使用或训练模型；
+- **他人的作品**：其他作者的英文文章、嘉宾的话、第三方引文和商标，[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)；
+- **目录数据**：[CC0 1.0](LICENSES/CC0-1.0.txt)；
+- **程序和说明文档**：[MIT](LICENSES/MIT.txt)。

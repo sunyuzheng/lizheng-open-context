@@ -10,7 +10,7 @@ published_at: "2024-10-27T06:18:02Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 新时代的招聘现实和应对方法｜找工作最重要的是了解自己与市场｜熊力访谈_上
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=YNn2ZyypWPQ) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`youtube_human_subtitle`；校对状态：`human-caption`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=YNn2ZyypWPQ) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`youtube_human_subtitle`；校对状态：`human-caption`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=YNn2ZyypWPQ&t=0s) 熊力你是
 

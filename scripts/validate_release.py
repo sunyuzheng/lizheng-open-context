@@ -12,10 +12,16 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import unquote
 
+import build_index
+import rights
+from rights import REFERENCE_USE, RETAINED
+
 
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "release-manifest.json"
 SCAN_DIRS = (
+    ROOT / "LICENSES",
+    ROOT / "index",
     ROOT / "context",
     ROOT / "corpus",
     ROOT / "catalog",
@@ -26,6 +32,9 @@ SCAN_DIRS = (
 )
 SCAN_ROOT_FILES = (
     ROOT / "README.md",
+    ROOT / "INDEX.md",
+    ROOT / "CHANGELOG.md",
+    ROOT / "LICENSE.md",
     ROOT / "AGENTS.md",
     ROOT / "CONTRIBUTING.md",
     ROOT / "LICENSE-CONTENT.md",
@@ -97,7 +106,7 @@ def validate_member_video(row: dict, policy: dict, errors: list[str]) -> None:
     if row.get("rights_scope") == "publisher-authorized-transcript":
         for key, value in {
             "speaker_classification": "mixed-or-unresolved", "review_status": "maintainer-authorized",
-            "license": "LicenseRef-Original-Rights-Retained", "content_origin": "mixed-or-unresolved-speech",
+            "license": REFERENCE_USE, "content_origin": "mixed-or-unresolved-speech",
             "yuzheng_stance_weight": "not-evidence", "evidence_role": "speaker-attributed-speech",
             "transcript_source_kind": approved["transcript_source_kind"], "transcript_source_sha256": approved["transcript_sha256"],
         }.items():
@@ -107,12 +116,12 @@ def validate_member_video(row: dict, policy: dict, errors: list[str]) -> None:
             errors.append(f"{label}: member transcript cannot assign unresolved speakers to Yuzheng")
 
 
-COURSE_AUTHORIZATION = "maintainer-request-2026-10-04-zhenbenshi-course-text"
+COURSE_AUTHORIZATION = "maintainer-request-2026-10-03-zhenbenshi-course-text"
 COURSE_URL = "https://www.superlinear.academy/c/work-wealth"
 
 
 def validate_member_course(row: dict, policy: dict, errors: list[str]) -> None:
-    """One 《真本事》 lesson text: exactly as authorized, first-party, rights retained, video access unchanged."""
+    """One 《真本事》 lesson text: exactly as authorized, first-party, reference use only, video access unchanged."""
     approved = {item["lesson_id"]: item for item in policy.get("records", [])}.get(row.get("lesson_id"))
     label = str(row.get("id"))
     if not approved:
@@ -122,7 +131,7 @@ def validate_member_course(row: dict, policy: dict, errors: list[str]) -> None:
         "id": f"circle-lesson-{approved['lesson_id']}", "title": approved["title"], "published_at": approved["published_at"],
         "url": f"{COURSE_URL}/sections/{approved['section_id']}/lessons/{approved['lesson_id']}",
         "source_type": "course-lesson", "rights_scope": "publisher-authorized-course-text",
-        "license": "LicenseRef-Original-Rights-Retained", "review_status": "maintainer-authorized",
+        "license": REFERENCE_USE, "review_status": "maintainer-authorized",
         "author": "Yuzheng Sun", "original_author": "Yuzheng Sun", "publisher": "Yuzheng Sun",
         "content_origin": "yuzheng-published-text", "evidence_role": "published-source",
         "yuzheng_stance_weight": "direct-with-quotation-boundaries",
@@ -200,7 +209,7 @@ def validate_provenance(row: dict, label: str, errors: list[str], *, full_text: 
     if third_party:
         if row.get("yuzheng_stance_weight") != "not-evidence":
             errors.append(f"{label}: third-party content cannot establish Yuzheng's stance")
-        if full_text and row.get("license") != "LicenseRef-Original-Rights-Retained":
+        if full_text and row.get("license") != RETAINED:
             errors.append(f"{label}: third-party content must retain original rights, not a repository CC license")
         if row.get("author") != row.get("original_author") or row.get("author") in {"AI", "Yuzheng Sun"}:
             errors.append(f"{label}: third-party author attribution is inconsistent")
@@ -368,6 +377,11 @@ def read_allowlist(path: Path) -> set[str]:
     if len(values) != len(set(values)):
         raise ValueError(f"{path.relative_to(ROOT)}: duplicate video IDs")
     return set(values)
+
+
+def release_paths() -> list[str]:
+    """Every published path, including the manifest that describes the others."""
+    return [str(path.relative_to(ROOT)) for path in public_files()] + ["release-manifest.json"]
 
 
 def public_files() -> list[Path]:
@@ -691,7 +705,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     }
 
 
-def build_manifest(stats: dict[str, int]) -> dict:
+def build_manifest(stats: dict[str, int], license_map: dict[str, tuple[str, str]]) -> dict:
     snapshot_path = ROOT / "config" / "release-snapshot.json"
     snapshot = json.loads(snapshot_path.read_text()) if snapshot_path.is_file() else {
         "snapshot_at": "2026-09-17",
@@ -704,8 +718,12 @@ def build_manifest(stats: dict[str, int]) -> dict:
     }
     for value in [snapshot["snapshot_at"], *snapshot["source_snapshots"].values()]:
         datetime.strptime(value, "%Y-%m-%d")
+    files = [str(path.relative_to(ROOT)) for path in public_files()]
+    license_counts: dict[str, int] = {}
+    for license, _ in license_map.values():
+        license_counts[license] = license_counts.get(license, 0) + 1
     return {
-        "schema_version": 2,
+        "schema_version": 3,
         "snapshot_at": snapshot["snapshot_at"],
         "repository": "sunyuzheng/lizheng-open-context",
         "intended_visibility": "public",
@@ -715,21 +733,28 @@ def build_manifest(stats: dict[str, int]) -> dict:
             "community_comments_full_text": "first-party comments on included Yuzheng-authored posts, from discussion spaces with at least 80 effective characters; member mentions, contact data, sensitive/private context, third-party leading quotations, and all inline links removed",
             "knowledge_bank_full_text": "first-party Knowledge Bank posts point to the unified community-post corpus; other authors remain metadata-only",
             "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
-            "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact maintainer-authorized member-video-policy snapshot; mixed/unresolved speech retains original rights and cannot independently establish Yuzheng's stance",
+            "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact maintainer-authorized member-video-policy snapshot; mixed/unresolved member speech is under the Lizheng Reference Use License, guests keep the rights in their own words, and it cannot independently establish Yuzheng's stance",
             "member_videos": "open transcript text, members-only original videos; exact IDs and transcript hashes in config/member-video-policy.json; YouTube membership is distinct from Ask's Superlinear Founding quota",
             "book": "author-owned complete framework reference and chapter map; no publisher-formatted assets",
+            "course_lessons": "the exact 23 maintainer-authorized 《真本事》 lesson texts in config/member-course-policy.json, under the Lizheng Reference Use License; course videos, slides, assignments, and comments stay members-only and are not included",
             "english_community": "exact reviewed public post allowlist; original author, publisher, AI translation and repost roles remain separate; third-party rights retained",
             "english_video_translations": "canonical AI translations of currently allowlisted solo-Yuzheng public videos only; generation date is not a public publication date; source-family deduplication",
             "attribution": "AI synthesis is secondary-only; third-party and metadata-only sources cannot establish Yuzheng's stance; search relevance is separate from stance authority",
+            "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md",
         },
         "counts": stats,
+        "licenses": {
+            license: {"text": rights.LICENSE_TEXTS.get(license), "files": count}
+            for license, count in sorted(license_counts.items())
+        },
         "files": [
             {
-                "path": str(path.relative_to(ROOT)),
-                "bytes": path.stat().st_size,
-                "sha256": sha256(path),
+                "path": relative,
+                "bytes": (ROOT / relative).stat().st_size,
+                "sha256": sha256(ROOT / relative),
+                "license": license_map.get(relative, (None,))[0],
             }
-            for path in public_files()
+            for relative in files
         ],
     }
 
@@ -745,21 +770,34 @@ def validate_manifest(expected: dict, errors: list[str]) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--write-manifest", action="store_true")
+    parser.add_argument("--write-manifest", action="store_true",
+                        help="regenerate INDEX.md, index/, REUSE.toml, and release-manifest.json")
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
     errors: list[str] = []
+    if args.write_manifest:
+        # Generated pages come first: the rights map and the manifest cover them too.
+        try:
+            build_index.write()
+        except (KeyError, ValueError) as exc:
+            errors.append(f"index pages: {exc}")
+        rights.write(release_paths())
     validate_sensitive_data(errors)
     validate_internal_links(errors)
+    try:
+        build_index.validate(errors)
+    except (KeyError, ValueError) as exc:
+        errors.append(f"index pages: {exc}")
+    license_map = rights.validate(release_paths(), errors)
     try:
         stats = validate_rights(errors)
     except ValueError as exc:
         errors.append(str(exc))
         stats = {}
-    expected = build_manifest(stats)
+    expected = build_manifest(stats, license_map)
     if args.write_manifest and not errors:
         MANIFEST.write_text(json.dumps(expected, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     else:

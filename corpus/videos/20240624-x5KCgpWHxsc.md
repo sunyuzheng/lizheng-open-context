@@ -10,7 +10,7 @@ published_at: "2024-06-24T01:43:05Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 确认关系之前应该试床吗？｜Leo Mandy 聊约会价值观 1/2
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=x5KCgpWHxsc) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=x5KCgpWHxsc) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=x5KCgpWHxsc&t=0s) 所以我们现在是什么关系？这句话很重要，在索取可得性，因为他对这段关系缺乏安全感。那其二，也有一些人，他想要更多的筹码在这段关系里面，比如说一些高玩的一些女孩子，她不一定已经很认定这个男孩子，但是他会通过这样一种方式来去。
 

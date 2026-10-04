@@ -19,7 +19,7 @@ def policy(**changes):
     record = dict(lesson_id=1, section_id=10, title="第01课｜合成课程", published_at="2025-03-01T00:00:00.000Z",
                   text_sha256=hashlib.sha256(HTML.encode("utf-8")).hexdigest())
     record.update(changes)
-    return dict(snapshot_at="2026-10-04", authorization=course.AUTHORIZATION, membership_url=course.COURSE_URL,
+    return dict(snapshot_at="2026-10-03", authorization=course.AUTHORIZATION, membership_url=course.COURSE_URL,
                 course=dict(space_id=course.SPACE_ID, url=course.COURSE_URL), records=[record])
 
 
@@ -39,8 +39,9 @@ class MemberCourseTests(unittest.TestCase):
         self.assertEqual(meta["source_type"], "course-lesson")
         self.assertEqual(meta["source_url"], f"{course.COURSE_URL}/sections/10/lessons/1")
         self.assertEqual((meta["source_visibility"], meta["text_access"], meta["membership_platform"]), ("members-only", "public", "superlinear"))
-        self.assertEqual((meta["rights_scope"], meta["license"]), ("publisher-authorized-course-text", "LicenseRef-Original-Rights-Retained"))
+        self.assertEqual((meta["rights_scope"], meta["license"]), ("publisher-authorized-course-text", "LicenseRef-Lizheng-Reference-Use-1.0"))
         self.assertIn("**会员课程**", body)
+        self.assertIn(f"按[立正参考使用许可]({course.LICENSE_URL})使用", body)
         self.assertIn("合成的课程文字", body)
         errors = []
         validator.validate_member_course(rows[0], policy(), errors)
@@ -55,8 +56,10 @@ class MemberCourseTests(unittest.TestCase):
     def test_validation_rejects_an_open_license_or_a_lesson_outside_the_policy(self):
         writes, rows = course.prepare(self.export, policy(), self.root)
         errors = []
-        validator.validate_member_course({**rows[0], "license": "CC-BY-4.0"}, policy(), errors)
-        self.assertTrue(any("license" in error for error in errors))
+        for license in ("CC-BY-4.0", "LicenseRef-Original-Rights-Retained"):
+            errors = []
+            validator.validate_member_course({**rows[0], "license": license}, policy(), errors)
+            self.assertTrue(any("license" in error for error in errors))
         errors = []
         validator.validate_member_course({**rows[0], "lesson_id": 2}, policy(), errors)
         self.assertTrue(any("not in the explicit course text policy" in error for error in errors))

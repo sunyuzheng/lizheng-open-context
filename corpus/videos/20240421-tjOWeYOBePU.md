@@ -10,7 +10,7 @@ published_at: "2024-04-21T23:31:21Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 鸡娃错在哪儿？AI时代如何教育孩子？｜Lululeon谈教育_上
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=tjOWeYOBePU) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=tjOWeYOBePU) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=tjOWeYOBePU&t=0s) 对，咱们聊什么话题？我这儿觉得就是，呃，婚姻和教育都很值得聊。然后我个人更感兴趣的是教育。咱们主要聊教育吧，因为我看到上一期就是你发那个咱们聊的财富下，然后财富下你已经预告了吗？下一期正好也是找露露啊，还有文青一起来聊教育。而且我看到评论还有小朋友说期待着聊教育，咱们今天就时间有限，先聊教育。
 

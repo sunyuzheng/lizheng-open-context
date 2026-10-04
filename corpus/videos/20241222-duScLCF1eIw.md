@@ -10,7 +10,7 @@ published_at: "2024-12-22T15:43:22Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 客观衡量和证明自己价值｜“恩将仇报”的一集｜营销好难哦
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=duScLCF1eIw) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=duScLCF1eIw) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=duScLCF1eIw&t=0s) 嗨，大家好。之前跟大家承诺，我的会员频道里边会有一些更真实的、更不一样的东西，其中一类就是更负能量、吐槽向一些的内容。啊，为什么要有这个内容呢？就是我频道的东西一般就是捡那些好听的说，但是我觉得不好听的东西，其实他们经常会带来很多启示，但是就是这种东西就是顾虑比较多嘛，所以说不好说。
 

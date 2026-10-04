@@ -10,7 +10,7 @@ published_at: "2024-01-13T04:20:36Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 辣评程前三大low
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=PeInTRLfE5E) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=PeInTRLfE5E) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=PeInTRLfE5E&t=0s) 其实我一开始刚看到程前的那个呃讨论吧，我就怎么可能会这样？就是为什么这个人格局如此之低？然后就很想讨论一下，然后觉得算了吧，跟我也没什么关系，就不想讨论了。
 

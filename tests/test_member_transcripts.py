@@ -58,8 +58,9 @@ class MemberTranscriptTests(unittest.TestCase):
         self.assertEqual(row["published_at"], "2026-09-24")
         self.assertNotEqual(row["author"], "Yuzheng Sun")
         self.assertEqual(row["yuzheng_stance_weight"], "not-evidence")
-        self.assertEqual(row["license"], "LicenseRef-Original-Rights-Retained")
+        self.assertEqual(row["license"], "LicenseRef-Lizheng-Reference-Use-1.0")
         body = writes[0][0].read_text()
+        self.assertIn("按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用", body)
         self.assertIn(URL + "&t=8s", body)
         self.assertNotIn(str(self.archive), body)
         with patch.object(search, "ROOT", self.root):
@@ -100,14 +101,14 @@ class MemberTranscriptTests(unittest.TestCase):
         result = default_provenance(meta, body)
         self.assertEqual(result["original_author"], meta["original_author"])
         self.assertEqual(result["yuzheng_stance_weight"], "not-evidence")
-        self.assertEqual(result["license"], "LicenseRef-Original-Rights-Retained")
+        self.assertEqual(result["license"], "LicenseRef-Lizheng-Reference-Use-1.0")
 
     def test_validator_rejects_a_member_source_upgraded_to_direct_authority(self):
         _, _, rows = self.import_local()
         errors = []
         validator.validate_member_video(rows[0], self.policy, errors)
         self.assertEqual(errors, [])
-        for mutation in ({"license": "CC-BY-4.0"}, {"yuzheng_stance_weight": "direct-with-quotation-boundaries"}, {"text_access": "members-only"}):
+        for mutation in ({"license": "CC-BY-4.0"}, {"license": "LicenseRef-Original-Rights-Retained"}, {"yuzheng_stance_weight": "direct-with-quotation-boundaries"}, {"text_access": "members-only"}):
             errors = []
             validator.validate_member_video(dict(rows[0], **mutation), self.policy, errors)
             self.assertTrue(errors)

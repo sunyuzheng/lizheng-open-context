@@ -10,7 +10,7 @@ published_at: "2024-03-06T22:47:30Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 我的期权值多少钱｜startup股权架构如何设置｜从律师角度看startup的九死一生
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=gUHMGWv-hiU) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=gUHMGWv-hiU) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=gUHMGWv-hiU&t=0s) 可以吗？这样子，这样子，这样子吗？对对，就卡在这儿就行了。没有关系，没有没有挡住。好，那么 OK OK。忘了。那你是不是跟大家说一下？我这里帮帮我弄一下，我我扣不上。还有谁没有把你的停车卡给放吗？可以。
 

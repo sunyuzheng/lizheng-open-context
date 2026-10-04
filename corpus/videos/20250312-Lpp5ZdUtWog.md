@@ -10,7 +10,7 @@ published_at: "2025-03-12T03:54:27Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 从中国互联网到北美AI：前微博VP的全球视野与AI投资布局 | Indigo访谈完整版
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=Lpp5ZdUtWog) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=Lpp5ZdUtWog) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=Lpp5ZdUtWog&t=0s) 刚刚在研究你的这个呃资料，我后来发现“Indigo”这个名字就是不太好搜，然后要搜“Indigo”与与数字镜像，然后好好搜出来。对对对对，然后还有你在小宇宙上有一个访谈，呃，有一个好早以前的，那么我以前我做过一单，我再和两个做个洗碗偏北，然后自己还有一个。嗯，哦，那下面介绍你孵化李佳琦。
 

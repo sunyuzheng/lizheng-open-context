@@ -10,7 +10,7 @@ published_at: "2021-01-14T02:06:09Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 大厂新人如何主动规划职业 + 和manager 1:1
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=rGkcNE6ISdQ) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=rGkcNE6ISdQ) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=rGkcNE6ISdQ&t=0s) Hello，大家好。Hello，今天我们频道请来了Charles同学。Charles同学是一七年本科毕业，加入亚马逊，在三年的时间升到了 Software Development Manager，算是一个很顺的职业发展了。
 

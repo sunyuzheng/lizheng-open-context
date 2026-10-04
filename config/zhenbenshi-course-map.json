@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "purpose": "Navigation for index/zhenbenshi-course.md: the course's own chapter names, and which framework in context/zhenbenshi-frameworks.md each lesson discusses. Lessons map one-to-one to the book's chapters by lesson number. A framework is listed only when the lesson text discusses it; it is navigation, not a summary of the lesson.",
+  "course_url": "https://www.superlinear.academy/c/work-wealth",
+  "sections_checked_at": "2026-10-03",
+  "sections": [
+    {"id": 503253, "name": "第一章：认知觉醒"},
+    {"id": 505048, "name": "第二章：思维变革"},
+    {"id": 505049, "name": "第三章：行动升级与场景解析 —— 工作篇"},
+    {"id": 505050, "name": "第四章：行动升级与场景解析 —— 赚钱篇"}
+  ],
+  "frameworks": {
+    "1883184": ["框架二"],
+    "1883185": ["框架一"],
+    "1883186": ["框架一"],
+    "1883187": ["框架一"],
+    "1883188": ["框架一"],
+    "1883189": ["框架三"],
+    "1883191": ["框架三"],
+    "1883192": ["框架四"],
+    "1883193": ["框架七"],
+    "1883194": ["框架五"],
+    "1883195": ["框架五"],
+    "1883199": ["框架六"],
+    "1883216": ["框架五"],
+    "1883217": ["框架四"],
+    "1883218": ["框架四"],
+    "1883219": ["框架四"],
+    "1883221": ["框架三"],
+    "1883222": ["框架二"],
+    "1883224": ["框架七"]
+  }
+}

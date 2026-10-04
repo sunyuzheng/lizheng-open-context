@@ -10,7 +10,7 @@ published_at: "2025-07-09T18:39:23Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # "二手叙事"正在锁死你的世界观
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=yXLMZbcr6wU) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=yXLMZbcr6wU) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=yXLMZbcr6wU&t=0s) 欢迎朋友们，大家好。今天我跟大家聊一个，如果你没有吃过大亏或者错过一个大机会的话，可能很难意识到的思维误区，就是这个世界不是描述给你的。
 

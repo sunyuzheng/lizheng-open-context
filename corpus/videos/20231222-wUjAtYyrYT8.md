@@ -10,7 +10,7 @@ published_at: "2023-12-22T20:06:52Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 如何在众多同事中脱颖而出？｜工作标签
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=wUjAtYyrYT8) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=wUjAtYyrYT8) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=wUjAtYyrYT8&t=0s) 今天跟大家聊两个职业上的小技巧，一个是给自己打造标签，第二个是 broadcasting 的标签，尤其是在老板面前 broadcasting 的标签。我们都知道，在社交中去给人贴标签是一件不好的事情，但是在工作中，标签还是一个能让你更快、有效的获得合作机会、工作机会、升职机会的一个方法。其实这个道理很简单，大家想一下自己合作对象，或者说是身边的人。
 

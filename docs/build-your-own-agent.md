@@ -21,6 +21,7 @@
 - `corpus/community-comments/*.md`：每条评论作为一个检索单元，权重低于完整文章；它适合补充边界、例子和历史讨论，不应单独升级成当前立场；
 - `corpus/videos/*.md`：按 60–120 秒窗口合并相邻字幕，保存起始时间码；
 - `catalog/videos.jsonl`：用于发现没有纳入全文的嘉宾访谈或缺字幕视频；
+- `corpus/course-lessons/*.md`：《真本事》23 节课的文字稿，按小节切块，保存课程页面链接；这是课程原文，框架参考是它的 AI 整理；
 - `context/zhenbenshi-frameworks.md`：按七套框架及小节切块，是《真本事》建议与检索的主要内容源；
 - `context/zhenbenshi-reading-map.md`：用于章节定位、常见问题路由和官方阅读入口。
 
@@ -72,13 +73,21 @@
 - “立正数字分身”或“100% 还原本人”；
 - 自动替本人做背书、商务承诺或高风险判断；
 - 未标明独立开发，却使用容易造成官方误认的名字、头像和品牌；
-- 把私有社区、付费课程或书籍全文偷偷补进向量库。
+- 把私有社区、本仓库以外的付费课程内容或书籍全文偷偷补进向量库。
 
 最好的衍生产品不是最像一个人说话，而是最能帮助用户理解材料、发现出处、形成自己的判断。
 
 ## 可参考的现有 skill
 
 如果产品只处理《真本事》里的职业、价值、杠杆和收入问题，可以先看公开的 [`zhenbenshi-advisor`](https://github.com/sunyuzheng/zhenbenshi-advisor)。它展示了怎样把书中框架压缩成一个小型建议流程。本仓库的 [`zhenbenshi-frameworks.md`](../context/zhenbenshi-frameworks.md) 提供更完整、可授权复用的框架正文；更大的仓库则继续把书、文章与视频的源材料规范化，让不同 skill / agent 能自行检索、引用和综合。
+
+## 遵守每份资料的许可
+
+每个检索块都带 `license` 字段，五类许可的说明见 [`../LICENSE.md`](../LICENSE.md)：
+
+- **收费产品**：只检索 `CC-BY-4.0` 的文字和 CC0 的目录数据，命令行用 `python3 scripts/search.py "问题" --license open`；要用会员内容的文字，先开 issue 取得许可。
+- **不收费的工具**：可以检索 `LicenseRef-Lizheng-Reference-Use-1.0` 的资料（《真本事》课程文字稿、会员视频对话字幕）并据此回答；回答里的原文引用要短，同一份不超过 500 字，并附原始链接；不要把整篇吐给用户，也不要拿来训练模型。
+- **原作者保留**（`LicenseRef-Original-Rights-Retained`）的资料只做参考，引用要注明原作者。
 
 ## 保留作者和生成方式
 

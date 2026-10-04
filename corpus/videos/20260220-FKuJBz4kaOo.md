@@ -10,7 +10,7 @@ published_at: "2026-02-20T00:11:55Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # Cursor设计负责人Ryo：软件的本质都一样｜什么是品味？｜AI时代，设计师一定要抛弃Figma
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=FKuJBz4kaOo) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_corrected`；校对状态：`corrected`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=FKuJBz4kaOo) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_corrected`；校对状态：`corrected`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=FKuJBz4kaOo&t=0s) 因为我我虽然对你做了很多research，但是我们就不assume啊，观众是很了解你的，所以说一开始我会请你稍稍做一下自我介绍。然后上半集的主要问题就是你作为一个在我看来啊，呃。
 

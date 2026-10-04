@@ -10,7 +10,7 @@ published_at: "2023-12-10"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 一年前布局短剧出海，对投资和创业的见解｜大观资本Richer访谈完整版
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=GMcTkP3PbNo) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=GMcTkP3PbNo) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=GMcTkP3PbNo&t=0s) 啊，这这些最好不要播出去啊！可以剪掉，你剪掉。话说我现在一般传视频是这样子，就是我有一个会员频道，对，付费的，然后呢里面大概几百个人，嗯，然后我一般会把几乎不剪的放上去，嗯，然后后来剪剪的，然后我就会剪的比较多，OK，啊就尽量剪一些，就是深度内容，很多时候反而看的人少，嗯，我也会就是剪掉一些，然后就是剪一些比较。
 

@@ -10,7 +10,7 @@ published_at: "2026-01-26T17:54:07Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # AI产品增长：如何让别人了解你的产品、选渠道、讲故事、算回报、测上限、选红人、落地增长策略、理解增长本质？｜Hockey Stick创始人陈唱
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=yZCq2jyGcKc) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_corrected`；校对状态：`corrected`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=yZCq2jyGcKc) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_corrected`；校对状态：`corrected`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=yZCq2jyGcKc&t=0s) Cici，欢迎来到《克莱伯利说》。哎，大家好，我是Cici。呃呃，我是Hockey Stick的founder。然后，在过去一年中，我们是跟一百家呃硅谷高增长企业有合作，然后帮他们达到了三十五个B链的impression，然后average，然后大部分公司是超过了百分之三百的年revenue增长。
 

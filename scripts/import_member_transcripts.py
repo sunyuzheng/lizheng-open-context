@@ -11,9 +11,11 @@ from pathlib import Path
 
 from export_public_corpus import display_timestamp, front_matter, parse_timed_transcript, sanitize_first_party_text
 from enrich_provenance import read_markdown, write_markdown
+from rights import LICENSE_TEXTS, REFERENCE_USE
 
 ROOT = Path(__file__).resolve().parents[1]
 POLICY = ROOT / "config/member-video-policy.json"
+LICENSE_URL = f"https://github.com/sunyuzheng/lizheng-open-context/blob/main/{LICENSE_TEXTS[REFERENCE_USE]}"
 MEMBER_FIELDS = (
     "source_visibility", "text_access", "membership_platform", "membership_url",
     "membership_verified_at", "transcript_source_kind", "transcript_quality",
@@ -116,7 +118,7 @@ def prepare(archive: Path, policy: dict, root: Path = ROOT) -> tuple[dict, list[
             meta = dict(id=f"youtube-{identity}", title=source["title"], author=author, publisher="Yuzheng Sun",
                         original_author=author, source_type="video-transcript", source_url=url,
                         published_at=date, snapshot_at=policy["snapshot_at"], content_status="current",
-                        rights_scope="publisher-authorized-transcript", license="LicenseRef-Original-Rights-Retained",
+                        rights_scope="publisher-authorized-transcript", license=REFERENCE_USE,
                         speaker_classification="mixed-or-unresolved", review_status="maintainer-authorized",
                         third_party_exclusions=True, transcript_status=kind,
                         content_origin="mixed-or-unresolved-speech", generation_method="transcription",
@@ -129,7 +131,7 @@ def prepare(archive: Path, policy: dict, root: Path = ROOT) -> tuple[dict, list[
             if not cues:
                 raise ValueError(f"{identity}: empty timed transcript")
             text = "\n\n".join(f"[{display_timestamp(seconds)}]({url}&t={seconds}s) {sanitize_first_party_text(value)}" for seconds, value in cues)
-            body = f"# {source['title']}\n\n> **会员视频** · [观看会员完整视频]({url}) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`{kind}`；校对状态：`{QUALITY[kind]}`。以原视频核实说话人和准确措辞。\n\n{text}\n"
+            body = f"# {source['title']}\n\n> **会员视频** · [观看会员完整视频]({url}) · 字幕文字已获授权开放，按[立正参考使用许可]({LICENSE_URL})使用；原视频观看需频道会员。字幕来源：`{kind}`；校对状态：`{QUALITY[kind]}`。以原视频核实说话人和准确措辞。\n\n{text}\n"
             counts["new_transcripts"] += 1
         # Strip only the old generated access notice when re-running.
         body = re.sub(r"<!-- member-access:start -->.*?<!-- member-access:end -->\s*", "", body, flags=re.S)

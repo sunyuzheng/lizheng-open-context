@@ -10,7 +10,7 @@ published_at: "2023-10-14T06:17:20Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 吸引力法则
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=fYORrkgxJ-w) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=fYORrkgxJ-w) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=fYORrkgxJ-w&t=0s) 大家好，欢迎回到克雷正。今天我们聊一下我对心灵法则的理解。如果看我会员视频的观众们，应该会知道我有一些玄学世界观，会跟MIT的教授、川大教授等等去讨论我的玄学世界观。我觉得玄学其实是我们认知这个世界的很好的一个方法，而且我们可以用科学统计的方法和批判性的思维去理解玄学。但是我们今天聊心心灵法则，我们不去聊玄学的那部分，我们就聊很具体的、很科学的。
 

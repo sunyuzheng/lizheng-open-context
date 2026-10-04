@@ -64,6 +64,16 @@ class SearchTests(unittest.TestCase):
         self.assertTrue(MODULE.type_matches(comment, "comment"))
         self.assertFalse(MODULE.type_matches(comment, "knowledge-bank"))
 
+    def test_open_license_filter_keeps_only_freely_reusable_material(self):
+        def doc(source_type, license):
+            return MODULE.Document(id=source_type, source_id=source_type, title="标题", section="", source_type=source_type,
+                                   source_url="", published_at="", text="内容", path="sample.md", license=license)
+        self.assertTrue(MODULE.license_matches(doc("community-post", "CC-BY-4.0"), "open"))
+        self.assertTrue(MODULE.license_matches(doc("video-catalog", ""), "open"))
+        self.assertFalse(MODULE.license_matches(doc("course-lesson", "LicenseRef-Lizheng-Reference-Use-1.0"), "open"))
+        self.assertFalse(MODULE.license_matches(doc("english-community", "LicenseRef-Original-Rights-Retained"), "open"))
+        self.assertTrue(MODULE.license_matches(doc("course-lesson", "LicenseRef-Lizheng-Reference-Use-1.0"), "all"))
+        self.assertTrue(MODULE.type_matches(doc("course-lesson", ""), "course"))
 
 if __name__ == "__main__":
     unittest.main()

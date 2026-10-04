@@ -10,7 +10,7 @@ published_at: "2024-08-01"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 如果不是这期视频我就去开餐馆了｜高寒劝退课代表_上
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=ZVAiVVv5Lhs) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=ZVAiVVv5Lhs) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=ZVAiVVv5Lhs&t=0s) B站上是不能抽烟，我忘了，是吗？这个也可以不发B站，没有关系。我其实做这个视频是想，它可能暂时都不会发，嗯。但是等我开始创业的时候，我拿来看，或者有可能做一个新频道，没关系。然后它的受众可能是我未来的投资人，明白？啊，就是让他们知道，哎，你可以配上。明白，明白，明白。对，就是让他们知道这个频，这个东西是怎么出现的。业务越来越广泛了，想的真真。
 

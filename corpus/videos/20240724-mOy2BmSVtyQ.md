@@ -10,7 +10,7 @@ published_at: "2024-07-24T01:29:43Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 大厂员工的创业误区｜Vivian访谈2/2
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=mOy2BmSVtyQ) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=mOy2BmSVtyQ) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=mOy2BmSVtyQ&t=0s) 创业最重要的就是找市场的需求和社会发展的趋势。判断一个真实的需求与否，第一个竞争，你讲的这个市场绝对有，但是如果里面玩家已经很多了，你还有没有机会了？就是你的 advantage 在哪里？如果你找不出绝对的 advantage，你就没有优势。是第二个，看用户愿不愿意付费用你的。
 

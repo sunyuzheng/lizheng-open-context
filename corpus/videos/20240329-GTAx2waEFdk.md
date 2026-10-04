@@ -10,7 +10,7 @@ published_at: "2024-03-29T05:30:06Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 程序员开餐馆，真实经历、心态、历练分享｜生意是道场｜会员专属
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=GTAx2waEFdk) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=GTAx2waEFdk) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=GTAx2waEFdk&t=0s) 这开始录了，奥天那边开始录。辣妈终于入境了。现在是辣妈。辣爸。辣爹。辣爹。辣爹。听起来怪怪的。这是辣爹呢，对吧？哈哈哈哈哈。全都录上了。
 

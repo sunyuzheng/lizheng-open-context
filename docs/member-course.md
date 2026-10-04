@@ -1,8 +1,8 @@
 # 《真本事》课程文字稿维护
 
-2026-10-04，作者明确要求把超线性学院会员课程《真本事》（课程空间 `work-wealth`，ID 1858870）23节视频课下方的文字稿补入 Open Context，供问问立正检索与回答。精确范围、标题、日期和每课文字的 SHA-256 在 [`../config/member-course-policy.json`](../config/member-course-policy.json)。四个只放课件的条目没有文字，不在其中。
+2026-10-03，作者明确要求把超线性学院会员课程《真本事》（课程空间 `work-wealth`，ID 1858870）23节视频课下方的文字稿补入 Open Context，供问问立正检索与回答。精确范围、标题、日期和每课文字的 SHA-256 在 [`../config/member-course-policy.json`](../config/member-course-policy.json)。四个只放课件的条目没有文字，不在其中。
 
-`source_visibility=members-only` 描述原课程，`text_access=public` 描述获授权开放的文字，`membership_platform=superlinear`；课程视频、课件、作业、评论和其他课程都不在授权范围内。作者保留文字稿的原有权利（`LicenseRef-Original-Rights-Retained`），不随本仓库的 CC 许可再授权。每份文件开头标明「会员课程」，并链接课程页面。
+`source_visibility=members-only` 描述原课程，`text_access=public` 描述获授权开放的文字，`membership_platform=superlinear`；课程视频、课件、作业、评论和其他课程都不在授权范围内。文字稿按[立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)（`LicenseRef-Lizheng-Reference-Use-1.0`）开放阅读、检索、问答与短引用，不随本仓库的 CC 许可再授权。每份文件开头标明「会员课程」和许可，并链接课程页面；按课程顺序的目录见 [`../index/zhenbenshi-course.md`](../index/zhenbenshi-course.md)，由 `scripts/build_index.py` 根据课程章节与框架对照表 [`../config/zhenbenshi-course-map.json`](../config/zhenbenshi-course-map.json) 生成。
 
 ```sh
 # 输入是 Circle Admin API 对该课程空间 course_lessons 的导出（私有，不进仓库）。

@@ -10,13 +10,15 @@ from pathlib import Path
 
 from export_public_corpus import html_to_markdown, sanitize_first_party_text
 from enrich_provenance import write_markdown
+from rights import LICENSE_TEXTS, REFERENCE_USE
 
 ROOT = Path(__file__).resolve().parents[1]
 POLICY = ROOT / "config/member-course-policy.json"
-AUTHORIZATION = "maintainer-request-2026-10-04-zhenbenshi-course-text"
+AUTHORIZATION = "maintainer-request-2026-10-03-zhenbenshi-course-text"
 SPACE_ID = 1858870
 COURSE_URL = "https://www.superlinear.academy/c/work-wealth"
 CATALOG = "catalog/course-lessons.jsonl"
+LICENSE_URL = f"https://github.com/sunyuzheng/lizheng-open-context/blob/main/{LICENSE_TEXTS[REFERENCE_USE]}"
 
 
 def lesson_url(section_id: int, lesson_id: int) -> str:
@@ -60,7 +62,7 @@ def prepare(export: Path, policy: dict, root: Path = ROOT) -> tuple[list[tuple[P
             id=f"circle-lesson-{identity}", title=approved["title"], author="Yuzheng Sun", publisher="Yuzheng Sun",
             original_author="Yuzheng Sun", source_type="course-lesson", source_url=url,
             published_at=approved["published_at"], snapshot_at=policy["snapshot_at"], content_status="current",
-            rights_scope="publisher-authorized-course-text", license="LicenseRef-Original-Rights-Retained",
+            rights_scope="publisher-authorized-course-text", license=REFERENCE_USE,
             review_status="maintainer-authorized", content_origin="yuzheng-published-text",
             generation_method="not-established", evidence_role="published-source",
             yuzheng_stance_weight="direct-with-quotation-boundaries", source_family=url, language="zh",
@@ -69,8 +71,8 @@ def prepare(export: Path, policy: dict, root: Path = ROOT) -> tuple[list[tuple[P
             source_visibility="members-only", text_access="public", membership_platform="superlinear",
             membership_url=policy["membership_url"], inclusion_authorization=policy["authorization"],
         )
-        body = (f"# {approved['title']}\n\n> **会员课程** · 《真本事》课程的文字稿，作者授权开放检索与问答；"
-                f"[课程页面]({url})与课程视频需超线性学院会员。\n\n{text}\n")
+        body = (f"# {approved['title']}\n\n> **会员课程** · 《真本事》课程的文字稿，作者授权开放检索与问答，"
+                f"按[立正参考使用许可]({LICENSE_URL})使用；[课程页面]({url})与课程视频需超线性学院会员。\n\n{text}\n")
         target = root / "corpus/course-lessons" / f"{approved['published_at'][:10].replace('-', '')}-{identity}.md"
         writes.append((target, meta, body))
         row = {key: value for key, value in meta.items() if key != "source_url"}

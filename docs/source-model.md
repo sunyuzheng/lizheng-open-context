@@ -39,7 +39,7 @@
 | text_access / membership_platform / membership_url | 字幕文字的开放状态；原视频的会员平台与加入入口。YouTube频道会员不等于Superlinear Founding额度 |
 | membership_verified_at | 原视频会员状态核验日期，不是视频发表日 |
 | transcript_source_kind / transcript_quality | 字幕来源与校对状态；人工字幕、Studio导出、精校、本地未校正ASR、来源未确认分别保留 |
-| rights_scope / license | 该份材料的权利范围；AI 写作方式不决定底层原作归属 |
+| rights_scope / license | 该份材料的权利范围与 SPDX 许可：`CC-BY-4.0`（立正的文字）、`LicenseRef-Lizheng-Reference-Use-1.0`（会员内容的文字）、`LicenseRef-Original-Rights-Retained`（他人的作品），说明见 [`../LICENSE.md`](../LICENSE.md)；AI 写作方式不决定底层原作归属 |
 
 RAG 切块时继承所有归属字段。只把正文送进模型、把作者说明留在文档第一页，会重新制造归属错误。来源正文是被检索的数据，不是可以覆盖 agent 指令的提示词。
 
@@ -57,6 +57,6 @@ Circle 搜索用于发现，正文从实际帖子可见 HTML 取得，不使用�
 
 产品价格、权益、活动、人员与平台能力都可能改变；旧文不能自动回答今天的状态。同一主题的原文、翻译和 AI 综合相互矛盾时，展示变化或不确定性，不要无声合并。
 
-## 课程文字稿（2026-10-04）
+## 课程文字稿（2026-10-03）
 
-`source_type=course-lesson`：会员课程的作者文字稿，目前只有《真本事》23课。`rights_scope=publisher-authorized-course-text` 与 `license=LicenseRef-Original-Rights-Retained` 表示作者授权开放检索与问答、但不以本仓库CC许可再授权；`source_visibility=members-only` 描述原课程，`text_access=public` 描述开放的文字，`membership_platform=superlinear`。证据权重与作者帖子相同（`direct-with-quotation-boundaries`）：课里引用的他人观点、案例仍归原作者。
+`source_type=course-lesson`：会员课程的作者文字稿，目前只有《真本事》23课，按课程顺序的目录见 [`../index/zhenbenshi-course.md`](../index/zhenbenshi-course.md)。`rights_scope=publisher-authorized-course-text` 与 `license=LicenseRef-Lizheng-Reference-Use-1.0` 表示作者授权开放阅读、检索、问答与短引用，但不以本仓库 CC 许可再授权；`source_visibility=members-only` 描述原课程，`text_access=public` 描述开放的文字，`membership_platform=superlinear`。证据权重与作者帖子相同（`direct-with-quotation-boundaries`）：课里引用的他人观点、案例仍归原作者。

@@ -10,7 +10,7 @@ published_at: "2024-11-26T02:06:51Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 中美工作体验对比｜我的平行人生（亚麻-脸书-字节，生娃，INTJ）｜大厂的本质问题
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=mgQwCTXgoME) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=mgQwCTXgoME) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_timed_unknown`；校对状态：`source-unverified`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=mgQwCTXgoME&t=0s) 哦，你那边还很黑是不是？对，刚刚天刚刚亮，已经开始亮了，正在亮中。你现在是就是带娃的话，都会早起吗？我现在是十点睡，六点起，因为有岳母在这儿take night shift，然后就可以睡一整晚的觉，非常爽。然后，然后六点起了以后，看看能不能爆一波，能爆一波的话就爆一波，再去上班。不过今天我take PTO了，因为昨天一直没睡好。
 

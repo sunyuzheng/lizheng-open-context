@@ -10,7 +10,7 @@ published_at: "2026-06-04T16:20:56Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # Koji杨远骋：高手如何用AI？
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=jgeqHyFzfIM) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_qwen_uncorrected`；校对状态：`uncorrected-asr`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=jgeqHyFzfIM) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_qwen_uncorrected`；校对状态：`uncorrected-asr`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=jgeqHyFzfIM&t=0s) 哦，OK，cool，呀，看到了，嘿嘿。我把这个声音关掉，然后我要分享给那个小黄树的群里。那这个屏幕会不会显得我俩很小啊？在小黄树上。呃，我看看啊，应该是有办法啊。对呀。
 

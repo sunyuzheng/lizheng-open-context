@@ -10,7 +10,7 @@ published_at: "2025-05-01T04:31:29Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # 创业AI公司5000万美元卖亚马逊，前Wyze CTO｜重要决定怎么做？｜如何识别大厂里的混子｜灶爷_上
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=FKCPAI9yHKE) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_qwen_uncorrected`；校对状态：`uncorrected-asr`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=FKCPAI9yHKE) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_qwen_uncorrected`；校对状态：`uncorrected-asr`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=FKCPAI9yHKE&t=0s) 哈哈，好，Hello，欢迎赵爷，Hello，感谢课代表同学的邀请，哈哈哈。对，你先做一个自我介绍呗。好，那个大家叫我TQ就可以了，就是我的网名其实叫赵爷，为啥嘞？嗯，赵爷啊，这个是一个好问题，嗯，呃，因为我八字缺火土，哦，所以所以就是拼起来叫赵。然后我有个美国同事也插科打诨说，这个我的英文名应该叫我Cano，哈哈哈哈，有道理哦，嗯，然后。
 

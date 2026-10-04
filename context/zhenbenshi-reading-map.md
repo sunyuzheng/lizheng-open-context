@@ -122,6 +122,7 @@ source_url: "https://github.com/sunyuzheng/lizheng-open-context/blob/main/contex
 ## 官方阅读入口
 
 - 仓库内完整框架：[《真本事》完整框架参考 V1](zhenbenshi-frameworks.md)
+- 仓库内课程文字稿：[《真本事》23 节课的文字稿](../index/zhenbenshi-course.md)，课号与本书 21 章一一对应
 - 图书介绍：[lizheng.ai/zbs](https://www.lizheng.ai/zbs)
 - 微信读书：[《真本事：从会工作到会赚钱》](https://weread.qq.com/book-detail?type=1&senderVid=4500358&v=33c32d30813abb4d6g0122ff)
 - 原社区课程：[真本事：如何从会工作到会赚钱？](https://www.bilibili.com/cheese/play/ss300796438)

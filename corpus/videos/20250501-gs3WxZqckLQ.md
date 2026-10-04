@@ -10,7 +10,7 @@ published_at: "2025-05-01T04:32:30Z"
 snapshot_at: "2026-10-02"
 content_status: "current"
 rights_scope: "publisher-authorized-transcript"
-license: "LicenseRef-Original-Rights-Retained"
+license: "LicenseRef-Lizheng-Reference-Use-1.0"
 speaker_classification: "mixed-or-unresolved"
 review_status: "maintainer-authorized"
 third_party_exclusions: true
@@ -41,7 +41,7 @@ publication_date_provenance: "archive-source-date"
 
 # AI创业：自嗨型产品烧光一半融资后，如何靠B2B炼出真金？｜灶爷访谈_下
 
-> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=gs3WxZqckLQ) · 字幕文字已获授权开放；原视频观看需频道会员。字幕来源：`local_qwen_uncorrected`；校对状态：`uncorrected-asr`。以原视频核实说话人和准确措辞。
+> **会员视频** · [观看会员完整视频](https://www.youtube.com/watch?v=gs3WxZqckLQ) · 字幕文字已获授权开放，按[立正参考使用许可](https://github.com/sunyuzheng/lizheng-open-context/blob/main/LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)使用；原视频观看需频道会员。字幕来源：`local_qwen_uncorrected`；校对状态：`uncorrected-asr`。以原视频核实说话人和准确措辞。
 
 [00:00:00](https://www.youtube.com/watch?v=gs3WxZqckLQ&t=0s) 好好，咱们开始下半集啊！激动人心的AI创业到了，来，你讲讲你在这个就是这几年发生的事情呗？我们先捋个时间线。嗯，对。
 
