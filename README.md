@@ -4,6 +4,12 @@
 
 它不是一个替你模仿“立正口吻”的人格提示词，也不宣称能替本人回答。它更像一套有来源、有时间、有边界的公共材料：你可以用它做搜索、问答、视频推荐、研究索引，或开发自己的立正 Skill / Agent。
 
+## 2026-10-04 《真本事》课程文字稿
+
+作者授权把超线性学院会员课程《真本事》23节视频课下方的文字稿补入，供检索与问答：宣导片和第01–21课（第11课分上下），约15万字，在[`corpus/course-lessons/`](corpus/course-lessons/)，目录是[`catalog/course-lessons.jsonl`](catalog/course-lessons.jsonl)。课程视频与课件仍只对会员开放；开放的是文字，不是课程本身。作者保留文字稿的原有权利，不随本仓库的CC许可再授权。每份保留课程页面链接、发布日期和会员标记。精确范围和每课文字的哈希见[`config/member-course-policy.json`](config/member-course-policy.json)，维护流程见[课程文字稿说明](docs/member-course.md)。
+
+**English:** With the author's authorization, the lesson texts of the members-only course *Zhenbenshi* (23 video lessons on Superlinear Academy) are added for retrieval and Q&A. Course videos and slides stay members-only, and the author retains the original rights in the text; it is not relicensed under this repository's CC license.
+
 ## 2026-10-02 会员字幕补充
 
 维护者授权把218份频道会员视频字幕用于开放检索与问答：新增215份，已有3份保留原文并补上会员标记。视频目录现为760条，字幕全文421份。原视频仍需YouTube频道会员观看；开放的是这一批字幕文字，不是会员视频文件，也不改变问问立正的Superlinear Founding额度。

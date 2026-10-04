@@ -107,6 +107,34 @@ def validate_member_video(row: dict, policy: dict, errors: list[str]) -> None:
             errors.append(f"{label}: member transcript cannot assign unresolved speakers to Yuzheng")
 
 
+COURSE_AUTHORIZATION = "maintainer-request-2026-10-04-zhenbenshi-course-text"
+COURSE_URL = "https://www.superlinear.academy/c/work-wealth"
+
+
+def validate_member_course(row: dict, policy: dict, errors: list[str]) -> None:
+    """One 《真本事》 lesson text: exactly as authorized, first-party, rights retained, video access unchanged."""
+    approved = {item["lesson_id"]: item for item in policy.get("records", [])}.get(row.get("lesson_id"))
+    label = str(row.get("id"))
+    if not approved:
+        errors.append(f"{label}: course lesson is not in the explicit course text policy")
+        return
+    expected = {
+        "id": f"circle-lesson-{approved['lesson_id']}", "title": approved["title"], "published_at": approved["published_at"],
+        "url": f"{COURSE_URL}/sections/{approved['section_id']}/lessons/{approved['lesson_id']}",
+        "source_type": "course-lesson", "rights_scope": "publisher-authorized-course-text",
+        "license": "LicenseRef-Original-Rights-Retained", "review_status": "maintainer-authorized",
+        "author": "Yuzheng Sun", "original_author": "Yuzheng Sun", "publisher": "Yuzheng Sun",
+        "content_origin": "yuzheng-published-text", "evidence_role": "published-source",
+        "yuzheng_stance_weight": "direct-with-quotation-boundaries",
+        "source_visibility": "members-only", "text_access": "public", "membership_platform": "superlinear",
+        "membership_url": policy.get("membership_url"), "inclusion_authorization": policy.get("authorization"),
+        "full_text_included": True,
+    }
+    for key, value in expected.items():
+        if row.get(key) != value:
+            errors.append(f"{label}: invalid course lesson provenance {key}")
+
+
 def read_markdown(path: Path) -> tuple[dict, str]:
     text = path.read_text(encoding="utf-8")
     label = str(path.resolve().relative_to(ROOT.resolve()))
@@ -463,6 +491,25 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         transcript_allowlist = read_allowlist(allowlist_path)
         rights_overrides = read_json_object_without_duplicate_keys(overrides_path)
 
+    course_catalog_path = ROOT / "catalog" / "course-lessons.jsonl"
+    course_rows = read_jsonl(course_catalog_path) if course_catalog_path.is_file() else []
+    course_policy_path = ROOT / "config" / "member-course-policy.json"
+    course_policy = read_json_object_without_duplicate_keys(course_policy_path) if course_policy_path.is_file() else {}
+    course_ids = [row["lesson_id"] for row in course_policy.get("records", [])]
+    if course_rows or course_ids:
+        if course_policy.get("authorization") != COURSE_AUTHORIZATION or (course_policy.get("course") or {}).get("url") != COURSE_URL:
+            errors.append("Course text policy lacks explicit maintainer authorization")
+        if len(course_ids) != 23 or len(course_ids) != len(set(course_ids)):
+            errors.append("Course text policy differs from the exact authorized 23 lessons")
+        if sorted(row.get("lesson_id") for row in course_rows) != sorted(course_ids):
+            errors.append("Course text policy/catalog exact lesson mismatch")
+        for row in course_rows:
+            validate_member_course(row, course_policy, errors)
+        expected_course_files = {row.get("corpus_path") for row in course_rows}
+        actual_course_files = {str(path.relative_to(ROOT)) for path in (ROOT / "corpus" / "course-lessons").glob("*.md")}
+        if expected_course_files != actual_course_files:
+            errors.append("course lesson catalog/files mismatch")
+
     member_path = ROOT / "config/member-video-policy.json"
     member_policy = read_json_object_without_duplicate_keys(member_path) if member_path.is_file() else {}
     member_list = [row["video_id"] for row in member_policy.get("records", [])]
@@ -616,6 +663,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         ("knowledge-bank", kb_rows), ("community-posts", community_post_rows),
         ("community-comments", community_comment_rows), ("videos", video_rows),
         ("english-community", english_rows), ("english-translations", translation_rows),
+        ("course-lessons", course_rows),
     ], errors)
 
     return {
@@ -624,6 +672,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
             bool(row.get("full_text_included")) for row in community_post_rows
         ),
         "community_comments_included": len(community_comment_rows),
+        "member_course_lessons": len(course_rows),
         "community_comments_reviewed": int(
             comment_policy.get("source_comments_reviewed") or 0
         ),

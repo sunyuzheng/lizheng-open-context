@@ -31,6 +31,7 @@
     "community_posts_catalog": 249,
     "community_posts_full_text": 249,
     "community_comments_included": 10,
+    "member_course_lessons": 23,
     "community_comments_reviewed": 2519,
     "knowledge_bank_catalog": 169,
     "knowledge_bank_full_text": 36,
@@ -53,8 +54,8 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 3993,
-      "sha256": "e743870c2e5328a4bffc8e98888df551779322f71df4a229db92050194db4294"
+      "bytes": 4402,
+      "sha256": "a4fdb0af3f14192ee8504b861f6a3c51f5dcec323467c50792b26d49656f8247"
     },
     {
       "path": "COMMUNITY-PROJECTS.md",
@@ -78,8 +79,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 15468,
-      "sha256": "2993a7a95dec4e8e6ee35528f88b4896e2b15777426453d833cee231b7edc3a5"
+      "bytes": 16569,
+      "sha256": "249621969788a164abea62609a9c6df860cadf628b4d68d3a3e14df66e54ae9a"
     },
     {
       "path": "catalog/community-comments.jsonl",
@@ -90,6 +91,11 @@
       "path": "catalog/community-posts.jsonl",
       "bytes": 321167,
       "sha256": "bd2d3a9b2cc003bc5890e4ba921c08822b4f66e630abce1c4bbb1a9df8be2c8a"
+    },
+    {
+      "path": "catalog/course-lessons.jsonl",
+      "bytes": 40385,
+      "sha256": "ca1db835a2333457ab9d141307351722c403307c6c97765008b1b30dbac152f9"
     },
     {
       "path": "catalog/english-community.jsonl",
@@ -125,6 +131,11 @@
       "path": "config/english-source-policy.json",
       "bytes": 1124,
       "sha256": "01b610eb89fee714de9d631baa9c4df3d77bf9db137847bc1903b7950ae61c75"
+    },
+    {
+      "path": "config/member-course-policy.json",
+      "bytes": 7627,
+      "sha256": "5463df4c6e6c8a248ce562c491ef5682ad50d2b5f9ad668120df39552e14cf46"
     },
     {
       "path": "config/member-video-policy.json",
@@ -1475,6 +1486,121 @@
       "path": "corpus/community-posts/20260930-fake-learning-36978220.md",
       "bytes": 16280,
       "sha256": "ebdd76f8502b574120c689372adf67c6e8a8c508fc35e4a5ac75452255bcc1c9"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883147.md",
+      "bytes": 8361,
+      "sha256": "7db285b18cb849459977ac254c858e5e4bb4fe27b6931537727051ecbefde551"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883181.md",
+      "bytes": 14444,
+      "sha256": "b731d73d4f9931213d5c7d4cb08424313d7b6a85d3afe8ef51313c94bfc8a07d"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883184.md",
+      "bytes": 20336,
+      "sha256": "e686ee89f60f54b0778ee31a5c1a2998c96cb2186ba2e667f94b69d58b25e1cd"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883185.md",
+      "bytes": 20001,
+      "sha256": "5541b2b645dfa0bc170167e2a9d0f9e0557f75cdb57b088f218f2beded4c8f5e"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883186.md",
+      "bytes": 17189,
+      "sha256": "f7f8ae974084aeca24f338b3f51d25571bdc98737d76e446a0779a1318e4e764"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883187.md",
+      "bytes": 14039,
+      "sha256": "1d13411eaa2922a272ee42f3782270811403b2a0fd3bde8691b43b6958487cab"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883188.md",
+      "bytes": 11072,
+      "sha256": "132ea84a5c81799df86f7d027c5ae0e3b1b8c6deb31af15929a4ef1d6b2b7d76"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883189.md",
+      "bytes": 19689,
+      "sha256": "d24fcc6bb3b423c2926bcf4218229ad6df2f8d968049de350f94f19c5e413cfa"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883191.md",
+      "bytes": 19828,
+      "sha256": "ef6d54610b30c490151d43a7b21b4ef367a9498e2b6099b85ea3675928e0a23d"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883192.md",
+      "bytes": 21249,
+      "sha256": "be3d3212f712c180f6b2870c94bbfb68e73c1c490237882db95c4677126e0e34"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883193.md",
+      "bytes": 22523,
+      "sha256": "ebd2aff72f54139e93f80455213e1a771386ccd2d3d1032a49818ca431558fd6"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883194.md",
+      "bytes": 13659,
+      "sha256": "6470a89a0da194bca6f49afdb6ebe104e3f1ea9aecbcc1d7c0ef4b2ac784d94c"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883195.md",
+      "bytes": 23281,
+      "sha256": "79f7547bc938854d2776fbda1e4168dcf108f7ab2894ae0ce740d718e8d064d3"
+    },
+    {
+      "path": "corpus/course-lessons/20250301-1883199.md",
+      "bytes": 21097,
+      "sha256": "98481db28993e25677dacb22e61f0e5e29a757813e088c4f7013cd4a69bfbcde"
+    },
+    {
+      "path": "corpus/course-lessons/20250302-1883216.md",
+      "bytes": 18956,
+      "sha256": "a0fd0b3a88a3e5b367bf106bd91a7d6848cb3077028f64e1630b6ac95703ef90"
+    },
+    {
+      "path": "corpus/course-lessons/20250302-1883217.md",
+      "bytes": 23377,
+      "sha256": "ac656f151f0e81fba594f188b3229567e1854a7c59a2d7101747be2d7114a94c"
+    },
+    {
+      "path": "corpus/course-lessons/20250302-1883218.md",
+      "bytes": 22866,
+      "sha256": "0e6d4ae40c53238cf3ceea78ee876cd5c910949f320032365d9b417f60f7bb4a"
+    },
+    {
+      "path": "corpus/course-lessons/20250302-1883219.md",
+      "bytes": 26830,
+      "sha256": "d802a22c0fe557163c98a8ea7c279564c1e28586927ab932f00cb5ed7f6b436e"
+    },
+    {
+      "path": "corpus/course-lessons/20250302-1883220.md",
+      "bytes": 26557,
+      "sha256": "62b74658df953b085f9db39d37f2894ba36f83e0f6117a1ba3c2f7e946e86b6d"
+    },
+    {
+      "path": "corpus/course-lessons/20250302-1883221.md",
+      "bytes": 32432,
+      "sha256": "bac30212ca78676e541f2733591b253a9b2cddb0caf3088cb29d970c2eaa66bf"
+    },
+    {
+      "path": "corpus/course-lessons/20250302-1883222.md",
+      "bytes": 22019,
+      "sha256": "3756c4d754f001eb5e7f044d280ed80ddec1cea3bfe8ee85dfb8b875ba974970"
+    },
+    {
+      "path": "corpus/course-lessons/20250302-1883223.md",
+      "bytes": 19095,
+      "sha256": "f1dbd6cbc24eab948e8ce5a510a9520b6773b903a0c10825a66fcf11749eb053"
+    },
+    {
+      "path": "corpus/course-lessons/20250302-1883224.md",
+      "bytes": 16278,
+      "sha256": "69cb863200b149406ca9c473ae1d70fb509206fc9d2039f2554821f9b8847dd3"
     },
     {
       "path": "corpus/english-community/20260107-28357479.md",
@@ -4222,19 +4348,24 @@
       "sha256": "96a5541069faaba0ef4ee868cde054018e93faae90b8d920c01924f814946fa2"
     },
     {
+      "path": "docs/member-course.md",
+      "bytes": 1635,
+      "sha256": "477ff9b27b0c2c97a600587aa41062e0ef1259afdc39497d7c64146dde3948c6"
+    },
+    {
       "path": "docs/member-transcripts.md",
       "bytes": 2760,
       "sha256": "1f4130059172f5bd871751cacfb497c1b76e40c549b0821f5921fbc227ab5345"
     },
     {
       "path": "docs/privacy-and-rights.md",
-      "bytes": 6837,
-      "sha256": "082735397b4203ac213d9df9c86ed6ab6623ac944ce7d32df6849a9809adfc7e"
+      "bytes": 7082,
+      "sha256": "7b13ad409f0a78f6a6ffa31bd4568ba4b30c7f63987a0398bfa148975ca2db38"
     },
     {
       "path": "docs/source-model.md",
-      "bytes": 5898,
-      "sha256": "3a3f212e60abcd2395b42567349ecd7081bb029799f5a65911ed1566fcc95b1d"
+      "bytes": 6474,
+      "sha256": "fd289eebeed61e917b1889273f67e2d8a45348f17be91b32e07f0dc0849832ae"
     },
     {
       "path": "evals/questions.jsonl",
@@ -4262,19 +4393,24 @@
       "sha256": "c3a9a4fbb65447f94e85a106f085c273a61fcecb1849cfdb94a0c278babd4494"
     },
     {
+      "path": "scripts/import_member_course.py",
+      "bytes": 6378,
+      "sha256": "a0e800e3126d6b79e1c3f32e9edfe1e327de2ee024f2ceb97b9269901d0ad57a"
+    },
+    {
       "path": "scripts/import_member_transcripts.py",
       "bytes": 10900,
       "sha256": "d93caed50a654c5b9d098af702ab176ef7a0cf59467bdc00eae6178fbe9007e4"
     },
     {
       "path": "scripts/search.py",
-      "bytes": 13922,
-      "sha256": "13b78174d87ecb1b0c1af5fb4962128840ab50e9b172347a891d29eef2bab95b"
+      "bytes": 13960,
+      "sha256": "59ece2cc376b48152f289e3285f6b7d47dc280a7e0bdf125c65ef1c94110c923"
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 39040,
-      "sha256": "c27ad8c529795b13db5780460a0748ec53d0211bbb7e7c034284a86a207b54ae"
+      "bytes": 42280,
+      "sha256": "177fe47b3308500ce3a1f5e051c850b1b63bf84e726d68520e54b2dc0ce15c56"
     },
     {
       "path": "tests/test_export.py",
@@ -4285,6 +4421,11 @@
       "path": "tests/test_import_sources.py",
       "bytes": 3027,
       "sha256": "4e3f4ed72978ec19f2ed9eec1442f6e9e7679d95f7009e590b4af6ffec161b25"
+    },
+    {
+      "path": "tests/test_member_course.py",
+      "bytes": 3650,
+      "sha256": "af6909461b8f80f3be144c423bcd7e7ccabd1fc96b3b8d7f7243a3c24b3aa427"
     },
     {
       "path": "tests/test_member_transcripts.py",

@@ -166,6 +166,7 @@ def load_documents() -> list[Document]:
         "corpus/videos/*.md",
         "corpus/english-community/*.md",
         "corpus/english-translations/*.md",
+        "corpus/course-lessons/*.md",
     ):
         for path in sorted(ROOT.glob(pattern)):
             parsed = parse_markdown(path)

@@ -56,3 +56,7 @@ RAG 切块时继承所有归属字段。只把正文送进模型、把作者说�
 Circle 搜索用于发现，正文从实际帖子可见 HTML 取得，不使用搜索索引拼入的附件文本。2026-09-17 的文章更新是已发布快照的增量；历史评论仍为 2026-08-30 审核快照。视频主目录来自 2026-09-15 媒体库，最新频道页面在 2026-09-17 复核：其中另外三条仅向频道会员开放，因此不进入公开视频全文。
 
 产品价格、权益、活动、人员与平台能力都可能改变；旧文不能自动回答今天的状态。同一主题的原文、翻译和 AI 综合相互矛盾时，展示变化或不确定性，不要无声合并。
+
+## 课程文字稿（2026-10-04）
+
+`source_type=course-lesson`：会员课程的作者文字稿，目前只有《真本事》23课。`rights_scope=publisher-authorized-course-text` 与 `license=LicenseRef-Original-Rights-Retained` 表示作者授权开放检索与问答、但不以本仓库CC许可再授权；`source_visibility=members-only` 描述原课程，`text_access=public` 描述开放的文字，`membership_platform=superlinear`。证据权重与作者帖子相同（`direct-with-quotation-boundaries`）：课里引用的他人观点、案例仍归原作者。
