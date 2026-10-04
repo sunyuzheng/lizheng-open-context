@@ -1,0 +1,288 @@
+{
+  "authorization": "maintainer-request-2026-10-04-chinese-editions",
+  "snapshot_at": "2026-10-04",
+  "note": "Yuzheng asked to rewrite his book and his Statsig blog posts in his Chinese voice and include them; he holds the right to publish the book (Statsig Press) and states he holds the rights to the blog posts. Text only: figures are reduced to captions.",
+  "book": {
+    "title": "Growth Data Analytics Playbook",
+    "authors": [
+      "Mengying Li",
+      "Joe Kumar",
+      "Yuzheng Sun"
+    ],
+    "publisher": "Statsig Press",
+    "published_at": "2025-11-18",
+    "isbn": "9781544549828",
+    "edition_url": "https://www.lizheng.ai/book/growth-data-analytics-playbook",
+    "entries": [
+      {
+        "key": "about",
+        "title": "关于这本书",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook",
+        "text_sha256": "2166b927ba0678aa7d3b5ed48056501af76de5ac5446afd8c8f1dfe0b9d5b41b"
+      },
+      {
+        "key": "ch01",
+        "title": "用增长分析驱动产品成功",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/1",
+        "text_sha256": "eac7aeee0cf393be28cb510b6e02fe5887409351cc5f866dac180b180a22977c"
+      },
+      {
+        "key": "ch02",
+        "title": "找到产品价值的早期信号",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/2",
+        "text_sha256": "2d9c3a37b535c49a33fab19e94896e2e538a6d4d010ec0ee8642e33ef49508b2"
+      },
+      {
+        "key": "ch03",
+        "title": "用growth accounting打地基",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/3",
+        "text_sha256": "26edecbfe8c3ed12a9f37bdbe2f948210c4d44edd9696ba5866cd96acc176dcf"
+      },
+      {
+        "key": "ch04",
+        "title": "获取并培养高质量用户",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/4",
+        "text_sha256": "aa5d083dd5be6f45b776775d4a0d70472271b5933721275c62d4b4ac39a7a23a"
+      },
+      {
+        "key": "ch05",
+        "title": "留住用户，让他们常来",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/5",
+        "text_sha256": "a21db1c73dfc95e9dc24ced03fb20b6b8f8bf11c8ecd6426198ef0be8f213449"
+      },
+      {
+        "key": "ch06",
+        "title": "把流失的用户找回来",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/6",
+        "text_sha256": "3cc20f4be5b15bd0454c9dea15d10b50d66678403d5393ca99a9c66b61bd0074"
+      },
+      {
+        "key": "ch07",
+        "title": "加速转化，增加收入",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/7",
+        "text_sha256": "66abefa14840378a14f0821accf2c08d0db5c7e87402778d0475212cc5fcd9a4"
+      },
+      {
+        "key": "ch08",
+        "title": "优化性能，打造增长飞轮",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/8",
+        "text_sha256": "dd436829effef2cb3a253dfc0f964fe11c787fde25078d01c38a91c9d0b20ff0"
+      },
+      {
+        "key": "ch09",
+        "title": "估算增长空间，定可实现的目标",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/9",
+        "text_sha256": "ae3ca44a903b7df24ac435d0a5a07f8eb2fcde73b03e949ef94da62f1bea548f"
+      },
+      {
+        "key": "ch10",
+        "title": "设计并实施有效的实验",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/10",
+        "text_sha256": "71ca4e161532486c09f74165cd2b30b96e2f42f4eaba6d07d43454c9ebb0891b"
+      },
+      {
+        "key": "conclusion",
+        "title": "结语",
+        "url": "https://www.lizheng.ai/book/growth-data-analytics-playbook/conclusion",
+        "text_sha256": "c77491e61f9185a85c2dde9db0e4368bf42bf2a412496274dd0120944cd9893e"
+      }
+    ]
+  },
+  "blog": {
+    "site": "https://www.statsig.com/blog",
+    "posts": [
+      {
+        "key": "pragmatic-data-science-launch",
+        "title": "为什么我要开一个数据科学YouTube频道",
+        "url": "https://www.statsig.com/blog/pragmatic-data-science-launch",
+        "published_at": "2024-02-08",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "3f56908d8164d0f486257790da29757e29dced9ed87393c0dd906dca524afa6c"
+      },
+      {
+        "key": "novelty-effects",
+        "title": "关于新奇效应，你需要知道的都在这里",
+        "url": "https://www.statsig.com/blog/novelty-effects",
+        "published_at": "2024-03-20",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "83bd125164bb293f060a509bb76d97f4420989bbacb6053eca2d1d3b40c72db1"
+      },
+      {
+        "key": "hypothesis-testing-explained",
+        "title": "四步讲清楚假设检验",
+        "url": "https://www.statsig.com/blog/hypothesis-testing-explained",
+        "published_at": "2024-07-22",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "2affdb1c2c0ad1db0deb08541ab62ac8bc5301e4048bca9138cf004ed5cba04b"
+      },
+      {
+        "key": "technical-insights-to-a-scalable-experimentation-system",
+        "title": "让实验系统能规模化：几条技术洞察",
+        "url": "https://www.statsig.com/blog/technical-insights-to-a-scalable-experimentation-system",
+        "published_at": "2024-08-28",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "9bd05ab8b3765394543078eb97e01244ae4d2277773d20f89731e28aed446ce0"
+      },
+      {
+        "key": "what-is-a-b-testing-and-why-is-it-important",
+        "title": "什么是A/B实验，它为什么重要？",
+        "url": "https://www.statsig.com/blog/what-is-a-b-testing-and-why-is-it-important",
+        "published_at": "2024-09-05",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "cfd9a5c69a9fe2b7b02fa30f3240bc72f998ae53a4796844a339ec94a8bf128c"
+      },
+      {
+        "key": "meta-a-b-testing",
+        "title": "Meta怎样把我变成了A/B实验的铁杆支持者",
+        "url": "https://www.statsig.com/blog/meta-a-b-testing",
+        "published_at": "2024-09-10",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "28d9ad5f5d631d13c94f1f5df3bfe9271b93bb348a306c2a5123c77fddc3151f"
+      },
+      {
+        "key": "hypothesis-testing-accept-null",
+        "title": "做假设检验，为什么你应该「接受」原假设",
+        "url": "https://www.statsig.com/blog/hypothesis-testing-accept-null",
+        "published_at": "2024-09-25",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "d56fe5d0083ba9135c459a1e6b12190d43138c7fa7dc57258878bbb073236df3"
+      },
+      {
+        "key": "how-ab-testing-platforms-make-data-science-more-interesting",
+        "title": "A/B实验平台怎样让数据科学变得更有意思",
+        "url": "https://www.statsig.com/blog/how-ab-testing-platforms-make-data-science-more-interesting",
+        "published_at": "2024-10-16",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "1a534c599a69a73b5ac736f789d7cb674483a81ae4870096fce60adfa38c631f"
+      },
+      {
+        "key": "balancing-scale-cost-performance-experimentation-systems",
+        "title": "实验系统怎样平衡规模、成本和性能",
+        "url": "https://www.statsig.com/blog/balancing-scale-cost-performance-experimentation-systems",
+        "published_at": "2025-02-11",
+        "authors": [
+          "Pushpendra Nagtode",
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "72a70aad9ac474383d317fbfa95647f5909d7b096ca6d031f023cbf553901470"
+      },
+      {
+        "key": "bayesian-vs-frequentist-statistics",
+        "title": "贝叶斯和频率学派之争，没那么大不了？",
+        "url": "https://www.statsig.com/blog/bayesian-vs-frequentist-statistics",
+        "published_at": "2025-02-11",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "74525c552e78751f54140724bbd086cba93233244c26b1ea14f571a6b236a72c"
+      },
+      {
+        "key": "correlation-vs-causation-guide",
+        "title": "怎样想清楚相关和因果的关系",
+        "url": "https://www.statsig.com/blog/correlation-vs-causation-guide",
+        "published_at": "2025-02-27",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "fb0dcec58f1aa210d1f86bce80b66f2762eb04113bde6a1279caced315dcf10d"
+      },
+      {
+        "key": "data-driven-marketing-attribution-shortcomings",
+        "title": "为什么「数据驱动」的营销归因模型兑现不了承诺",
+        "url": "https://www.statsig.com/blog/data-driven-marketing-attribution-shortcomings",
+        "published_at": "2025-03-11",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "cde00acfc51e5620907dbb2ccf2cd8ffbd79d02ab66b1a153c8740cec50fc9de"
+      },
+      {
+        "key": "informed-bayesian-ab-testing",
+        "title": "带信息先验的贝叶斯A/B实验：两种做法",
+        "url": "https://www.statsig.com/blog/informed-bayesian-ab-testing",
+        "published_at": "2025-03-13",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "9386ef422ac8d2f6233978ca30c2a450055e99f2bec1c63c4dfc145dd0670163"
+      },
+      {
+        "key": "marketplace-challenges-in-ab-testing",
+        "title": "在双边市场里做A/B实验：难在哪，怎么办",
+        "url": "https://www.statsig.com/blog/marketplace-challenges-in-ab-testing",
+        "published_at": "2025-03-26",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "42d7a5eeb7e8ca36d77a1795d8ffcb8fd3c764e05546e943433c4d2849406d5f"
+      },
+      {
+        "key": "why-ab-testing-is-ultimately-qualitative",
+        "title": "为什么说A/B实验最终是定性的",
+        "url": "https://www.statsig.com/blog/why-ab-testing-is-ultimately-qualitative",
+        "published_at": "2025-04-09",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "0a16203ccc2c2adce807044f0841a300ed0c567c9aa1b14eba16bf5f02b0e16e"
+      },
+      {
+        "key": "marketing-attribution-models-tech-survey",
+        "title": "数字营销归因模型：一份技术综述",
+        "url": "https://www.statsig.com/blog/marketing-attribution-models-tech-survey",
+        "published_at": "2025-04-17",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "46027102ec342e9c078a5dd60881e59fbea9d2800e2ffb3dfec1123cc03451e7"
+      },
+      {
+        "key": "addressing-complexity-in-enterprise-scale-experimentation",
+        "title": "实验跑到成千上万个时，怎样应对复杂度",
+        "url": "https://www.statsig.com/blog/addressing-complexity-in-enterprise-scale-experimentation",
+        "published_at": "2025-04-23",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "d15bad5b952b5d9db85c58ea6808c9edfcbcf765707cb22957ee6446d0240dea"
+      },
+      {
+        "key": "speeding-up-a-b-tests-with-discipline",
+        "title": "靠纪律给A/B实验提速",
+        "url": "https://www.statsig.com/blog/speeding-up-a-b-tests-with-discipline",
+        "published_at": "2025-06-24",
+        "authors": [
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "09d28dd15445fd984d66b31db229e661e3a22bdc7590293ccf564e0b1959df5a"
+      },
+      {
+        "key": "ai-startups-lessons-learned",
+        "title": "被浪打翻，还是乘浪而起：从创业公司看AI产品怎样上线",
+        "url": "https://www.statsig.com/blog/ai-startups-lessons-learned",
+        "published_at": "2025-08-08",
+        "authors": [
+          "Alexey Komissarouk",
+          "Yuzheng Sun"
+        ],
+        "text_sha256": "abb973e01f058ec95961d2f202732a9f6ae97dfd5c9f1d019cf2cacceb00230f"
+      }
+    ]
+  }
+}

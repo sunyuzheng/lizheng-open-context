@@ -2,6 +2,16 @@
 
 **Changelog** · 每次发布的准确数量、来源快照日期与文件哈希见 [`release-manifest.json`](release-manifest.json)。
 
+## 2026-10-04 《Growth Data Analytics Playbook》和Statsig博客文章的中文版、增长与实验判断卡
+
+**书的中文版。** 立正和Mengying Li、Joe Kumar合著的《Growth Data Analytics Playbook》（Statsig Press，2025）有了免费中文版：AI按立正的中文习惯整本改写，保留全部框架、案例和练习，几道练习补了计算过程或注意事项。中文版在[lizheng.ai](https://www.lizheng.ai/book/growth-data-analytics-playbook)每章一页免费读，也可以下载EPUB和PDF。这里收文字，共12份（关于这本书、10章和结语），在 [`corpus/book-chapters/`](corpus/book-chapters/)，目录见 [`index/growth-data-analytics-playbook-zh.md`](index/growth-data-analytics-playbook-zh.md)。
+
+**Statsig博客文章的中文版。** 立正2024到2025年在Statsig官方博客发表的19篇文章，同样由AI按他的中文习惯完整改写：论证、例子、数字和结论都保留，没有加原文没有的事实或经历；2篇合著文章写明了合著者，观点属于两位作者。在 [`corpus/blog-posts/`](corpus/blog-posts/)，目录见 [`index/statsig-blog.md`](index/statsig-blog.md)。
+
+两组都按[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)开放；证据权重是「核对英文原文」（`verify-original`），不能当作立正亲笔的中文。只收文字，图只保留图注。精确范围和每份文字的哈希见 [`config/chinese-editions-policy.json`](config/chinese-editions-policy.json)，导入脚本是 `scripts/import_chinese_editions.py`。
+
+**增长与实验的判断卡和阅读地图。** 新增4张判断卡，都以立正本人主讲的视频为依据：看增长先拆账（成熟产品的活跃变化大多来自留存）、留存先定义清楚（哪群人、隔多久、做了什么才算回来）、实验的价值来自意外（大多数想法会失败，新功能默认都要测）、先把漏斗做大再抠转化率。判断卡共21张。新增[增长数据分析与实验阅读地图](context/growth-analytics-reading-map.md)，按问题把书的章节、博客文章和「课代表数据大师课」等视频连起来。
+
 ## 2026-10-03 《真本事》课程文字稿、社区新帖、统一版权、完整目录
 
 **课程文字稿。** 作者授权把超线性学院会员课程《真本事》23 节视频课下方的文字稿补入，供检索与问答：宣导片和第 01–21 课（第 11 课分上下），约 15 万字，在 [`corpus/course-lessons/`](corpus/course-lessons/)，按课程顺序的目录见 [`index/zhenbenshi-course.md`](index/zhenbenshi-course.md)。课程视频与课件仍只对会员开放；开放的是文字，不是课程本身。精确范围和每课文字的哈希见 [`config/member-course-policy.json`](config/member-course-policy.json)，维护流程见[课程文字稿说明](docs/member-course.md)。

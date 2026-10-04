@@ -311,6 +311,58 @@ def knowledge_bank_page(root: Path) -> str:
     return "\n".join(out) + "\n"
 
 
+BOOK_SITE = "https://www.lizheng.ai/book/growth-data-analytics-playbook"
+
+
+def book_order(row: dict) -> tuple[int, int]:
+    key = str(row["id"]).removeprefix("gdap-zh-")
+    return (0, 0) if key == "about" else (2, 0) if key == "conclusion" else (1, int(key.removeprefix("ch")))
+
+
+def book_page(root: Path) -> str:
+    page = "index/growth-data-analytics-playbook-zh.md"
+    rows = sorted(read_jsonl(root / "catalog/book-chapters.jsonl"), key=book_order)
+    reference = license_link(page, REFERENCE_USE)
+    body = [[cell(row["title"].partition(" · ")[2]), f"[在线阅读]({row['url']})", link(page, "全文", row["corpus_path"])] for row in rows]
+    out = [
+        GENERATED,
+        "",
+        "# 《Growth Data Analytics Playbook》中文版",
+        "",
+        "原书由Mengying Li、Joe Kumar和孙煜征合著，Statsig Press 2025年出版。中文版由AI按立正的中文表达习惯整本改写，保留全部框架、案例和练习，立正授权在lizheng.ai免费发布；每章可以在线读，也可以下载EPUB和PDF。",
+        "",
+        f"- **怎么用**：按{reference}使用。书里的「我们」指三位作者，不能整段当作立正一个人的立场；具体说法请回到英文原书核对。",
+        f"- **图**：这里只收文字，图只保留图注；图和完整排版见[在线版]({BOOK_SITE})。",
+        f"- **机器可读**：{link(page, 'catalog/book-chapters.jsonl', 'catalog/book-chapters.jsonl')}",
+        "",
+        *table(["章节", "在线阅读", "全文"], body),
+    ]
+    return "\n".join(out) + "\n"
+
+
+def blog_page(root: Path) -> str:
+    page = "index/statsig-blog.md"
+    rows = read_jsonl(root / "catalog/blog-posts.jsonl")
+    reference = license_link(page, REFERENCE_USE)
+    shared = sum(bool(row.get("co_authors")) for row in rows)
+    body = [[day(row.get("published_at")), cell(row["title"]), f"[{cell(row['original_title'])}]({row['url']})",
+             cell(row.get("original_author")), link(page, "全文", row["corpus_path"])] for row in newest_first(rows)]
+    out = [
+        GENERATED,
+        "",
+        "# Statsig博客文章中文版",
+        "",
+        f"立正在Statsig官方博客发表的 {len(rows)} 篇英文文章（其中 {shared} 篇合著），由AI按他的中文表达习惯完整改写：论证、例子、数字和结论都保留，没有加原文没有的事实或经历。",
+        "",
+        f"- **怎么用**：按{reference}使用。合著文章的观点属于两位作者；文中引用的他人观点归原作者。具体说法请回到英文原文核对。",
+        "- **图**：这里只收文字，图只保留图注；图在英文原文里。",
+        f"- **机器可读**：{link(page, 'catalog/blog-posts.jsonl', 'catalog/blog-posts.jsonl')}",
+        "",
+        *table(["日期", "中文标题", "英文原文", "作者", "全文"], body),
+    ]
+    return "\n".join(out) + "\n"
+
+
 def hub_page(root: Path) -> str:
     page = "INDEX.md"
     count = lambda name: len(read_jsonl(root / f"catalog/{name}.jsonl"))
@@ -327,6 +379,8 @@ def hub_page(root: Path) -> str:
     comments_anchor = github_anchor(f"评论（{comments} 条）")
     full_text = [
         ["《真本事》课程文字稿", f"{count('course-lessons')} 份", link(page, "按课程顺序", "index/zhenbenshi-course.md"), link(page, "corpus/course-lessons/", "corpus/course-lessons/"), reference],
+        ["《Growth Data Analytics Playbook》中文版", f"{count('book-chapters')} 份", link(page, "按章节", "index/growth-data-analytics-playbook-zh.md"), link(page, "corpus/book-chapters/", "corpus/book-chapters/"), reference],
+        ["Statsig博客文章中文版", f"{count('blog-posts')} 篇", link(page, "按日期", "index/statsig-blog.md"), link(page, "corpus/blog-posts/", "corpus/blog-posts/"), reference],
         ["社区帖子", f"{count('community-posts')} 篇", link(page, "按年份", "index/community-posts.md"), link(page, "corpus/community-posts/", "corpus/community-posts/"), cc_by],
         ["社区评论", f"{comments} 条", f"[在帖子目录末尾](index/community-posts.md#{comments_anchor})", link(page, "corpus/community-comments/", "corpus/community-comments/"), cc_by],
         ["视频字幕：本人主讲", f"{groups['open-solo']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), cc_by],
@@ -383,7 +437,7 @@ def hub_page(root: Path) -> str:
         "",
         "This page indexes everything in the repository: how much there is, where it lives, and how you may use it. "
         "Yuzheng Sun's posts, comments, solo video transcripts, English originals, AI translations, and AI syntheses are CC BY 4.0. "
-        "The *Zhenbenshi* course texts and member video transcripts are under the Lizheng Reference Use License: read, search, use in free AI tools, and quote briefly, "
+        "The *Zhenbenshi* course texts, member video transcripts, and the Chinese editions of *Growth Data Analytics Playbook* and Yuzheng's Statsig blog posts (AI rewrites in his Chinese voice) are under the Lizheng Reference Use License: read, search, use in free AI tools, and quote briefly, "
         "but do not republish them in full, charge for them, or train models on them. Articles by other authors keep their original rights. "
         "Catalogs and index pages are CC0; code and documentation are MIT. See [LICENSE.md](LICENSE.md).",
     ]
@@ -393,6 +447,8 @@ def hub_page(root: Path) -> str:
 PAGES = {
     "INDEX.md": hub_page,
     "index/zhenbenshi-course.md": course_page,
+    "index/growth-data-analytics-playbook-zh.md": book_page,
+    "index/statsig-blog.md": blog_page,
     "index/community-posts.md": community_page,
     "index/videos.md": video_page,
     "index/english.md": english_page,

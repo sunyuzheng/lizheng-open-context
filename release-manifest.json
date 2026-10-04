@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "snapshot_at": "2026-10-03",
+  "snapshot_at": "2026-10-04",
   "repository": "sunyuzheng/lizheng-open-context",
   "intended_visibility": "public",
   "source_snapshots": {
@@ -15,7 +15,8 @@
     "member_transcript_authorization": "2026-10-02",
     "member_video_visibility": "2026-10-02",
     "member_course_authorization": "2026-10-03",
-    "rights_and_index_review": "2026-10-03"
+    "rights_and_index_review": "2026-10-03",
+    "chinese_editions": "2026-10-04"
   },
   "filters": {
     "community_posts_full_text": "current Circle-search posts authored by YZ｜立正 plus one first-party Knowledge Bank item preserved from the earlier public snapshot; archived and hidden test spaces excluded; contact data redacted",
@@ -27,6 +28,7 @@
     "book": "author-owned complete framework reference and chapter map; no publisher-formatted assets",
     "course_lessons": "the exact 23 maintainer-authorized 《真本事》 lesson texts in config/member-course-policy.json, under the Lizheng Reference Use License; course videos, slides, assignments, and comments stay members-only and are not included",
     "english_community": "exact reviewed public post allowlist; original author, publisher, AI translation and repost roles remain separate; third-party rights retained",
+    "chinese_editions": "the exact texts in config/chinese-editions-policy.json: the free Chinese edition of Growth Data Analytics Playbook and Yuzheng's Statsig blog posts, AI rewrites in his Chinese voice under the Lizheng Reference Use License; they defer to the English originals, co-authors keep their share, and figures are reduced to captions",
     "english_video_translations": "canonical AI translations of currently allowlisted solo-Yuzheng public videos only; generation date is not a public publication date; source-family deduplication",
     "attribution": "AI synthesis is secondary-only; third-party and metadata-only sources cannot establish Yuzheng's stance; search relevance is separate from stance authority",
     "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md"
@@ -36,6 +38,8 @@
     "community_posts_full_text": 252,
     "community_comments_included": 10,
     "member_course_lessons": 23,
+    "book_chapters_zh": 12,
+    "blog_posts_zh": 19,
     "community_comments_reviewed": 2519,
     "knowledge_bank_catalog": 169,
     "knowledge_bank_full_text": 36,
@@ -54,15 +58,15 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 563
+      "files": 564
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
-      "files": 24
+      "files": 29
     },
     "LicenseRef-Lizheng-Reference-Use-1.0": {
       "text": "LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md",
-      "files": 238
+      "files": 269
     },
     "LicenseRef-Original-Rights-Retained": {
       "text": "LICENSES/LicenseRef-Original-Rights-Retained.md",
@@ -70,7 +74,7 @@
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 30
+      "files": 32
     }
   },
   "files": [
@@ -82,14 +86,14 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 5523,
-      "sha256": "56cca7b49532ad7c6251d9719b06cd8e6925ef55027b4f81306ce21eddb712cf",
+      "bytes": 6233,
+      "sha256": "a8db117dd8583dd4f17e56c355fdbb0eefc516aee36f5c2a8232ebb67b60428d",
       "license": "MIT"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 9140,
-      "sha256": "0604e9b0a2002a6601dd029b885e6086d0ff690ce9afe31a1a2a8110a6e87ee5",
+      "bytes": 11314,
+      "sha256": "ca3199ecaf49d91b2d6dc20969b81ab3d5a89006b80bbfce447058f7d978fbf9",
       "license": "MIT"
     },
     {
@@ -106,20 +110,20 @@
     },
     {
       "path": "INDEX.md",
-      "bytes": 5290,
-      "sha256": "1b3d3a4067c1852e2682dde2b8938edd822cb22ff083597f3373acbb60b1340c",
+      "bytes": 5948,
+      "sha256": "254c8c8f8fee1508ea3c43bba91eb3e6ae4f29f7807d8f75b8bd4509878c0969",
       "license": "CC0-1.0"
     },
     {
       "path": "LICENSE-CONTENT.md",
-      "bytes": 10065,
-      "sha256": "b46be9e7d26417011cb88bf802e58122df3397953269a720898c9a2ceedd1740",
+      "bytes": 11459,
+      "sha256": "acad23670c7ee362a2b267d98c967074194f15fc61cb27f8a4154884fc765d5a",
       "license": null
     },
     {
       "path": "LICENSE.md",
-      "bytes": 5128,
-      "sha256": "86480544347b44d137f3198cb362473b1f1b78fcd45e881268e09b6e700f971a",
+      "bytes": 5678,
+      "sha256": "acfbcdd93a6b894096cf4f4100e419d390562dbf1ade346a74d3fcb66668ab8f",
       "license": null
     },
     {
@@ -154,15 +158,27 @@
     },
     {
       "path": "README.md",
-      "bytes": 14476,
-      "sha256": "d5057d94be5616f303d596e37129af9cfe4f4536c8bbc18e0136bb709a15d17a",
+      "bytes": 15467,
+      "sha256": "f256e301da087237818d7417c84969c7e4b23ee5a69040739a21822cd5c68b59",
       "license": "MIT"
     },
     {
       "path": "REUSE.toml",
-      "bytes": 22165,
-      "sha256": "3724069b0b77d9c8b8ace46b79d6cc922672afc2c58fbe8d6851c82cdddef4e5",
+      "bytes": 22745,
+      "sha256": "27c730e345970a23e4bbf3452549ccb97979f1b7e1bf6cd44657e9974555ab58",
       "license": null
+    },
+    {
+      "path": "catalog/blog-posts.jsonl",
+      "bytes": 36735,
+      "sha256": "002b7ca7299b2428ea76f724228248c4a9b9cd973fb5f057af67354edb153fa6",
+      "license": "CC0-1.0"
+    },
+    {
+      "path": "catalog/book-chapters.jsonl",
+      "bytes": 25128,
+      "sha256": "bcf6683bfec75776a00a29202e8584216314a95e037522417edccea013b3b8d7",
+      "license": "CC0-1.0"
     },
     {
       "path": "catalog/community-comments.jsonl",
@@ -213,6 +229,12 @@
       "license": "CC0-1.0"
     },
     {
+      "path": "config/chinese-editions-policy.json",
+      "bytes": 11802,
+      "sha256": "aee35d78d8d91c14e1fb9ba18335dd1c7c6fd962b109952dde1e8cba26cd53f0",
+      "license": "CC0-1.0"
+    },
+    {
       "path": "config/community-comment-policy.json",
       "bytes": 1786,
       "sha256": "febec15b848bcad10abfc3bcc26cf370b62f6a62ec0eaf14e59b7d67eaefa3b4",
@@ -244,8 +266,8 @@
     },
     {
       "path": "config/release-snapshot.json",
-      "bytes": 580,
-      "sha256": "61b5e838822dab698641f5a26cdb54eda23c837709e812ab05d5b0e5b442ebbf",
+      "bytes": 618,
+      "sha256": "1b19741cb91dbeb975b7e026719e25159ccdc5aab35d06fe82fea9f45a519ce1",
       "license": "CC0-1.0"
     },
     {
@@ -274,8 +296,14 @@
     },
     {
       "path": "context/decision-cards.json",
-      "bytes": 49055,
-      "sha256": "63759430c864923f829cbf1b274b2dc5de4acef9134d30e446f0307c9a892983",
+      "bytes": 59565,
+      "sha256": "83e3877e972a8468730fedab3a0bc96f918d6246a3a5a48bb79de113a1f2095a",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/growth-analytics-reading-map.md",
+      "bytes": 9699,
+      "sha256": "8b757ca352a90b767a5485f018dc87ea5a38ed3c6f67d1373ba25c216c853e7e",
       "license": "CC-BY-4.0"
     },
     {
@@ -307,6 +335,192 @@
       "bytes": 7536,
       "sha256": "800f39c8162201f6878724bfcf7c84a53861132937efc0b195a75720754facf9",
       "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/blog-posts/20240208-pragmatic-data-science-launch-zh.md",
+      "bytes": 10150,
+      "sha256": "22d76b6ee7b5642b0c9c1f8c3aa026d8a3c60aeb13f9917081abb0c93c94d063",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20240320-novelty-effects-zh.md",
+      "bytes": 11324,
+      "sha256": "ae81b2a299b1ecc78e03e81e2d6ea98a8a786f6f778dc220bc42b0c61d6552c1",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20240722-hypothesis-testing-explained-zh.md",
+      "bytes": 25010,
+      "sha256": "96a333c59ba9c6185b4aa580b2ecbd289a7fef7e06ed479a15ebdb272b02b583",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20240828-technical-insights-to-a-scalable-experimentation-system-zh.md",
+      "bytes": 10546,
+      "sha256": "a791138b87789e2d694749dd063438bee00b0aa8cd4d07ebd39160b0ed371f18",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20240905-what-is-a-b-testing-and-why-is-it-important-zh.md",
+      "bytes": 8437,
+      "sha256": "8a2a969b3d03ddd1b0e35317438d4339e166888c8802d5702ebb3bdace4548d0",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20240910-meta-a-b-testing-zh.md",
+      "bytes": 7862,
+      "sha256": "41f2961c09ed30d5220d5a096d18b3bd7eb63d0d2fc711a443848e43c2ee27a7",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20240925-hypothesis-testing-accept-null-zh.md",
+      "bytes": 9736,
+      "sha256": "2aea9e3f8ec0d95c32cfdc674a78c1d3f452d01db3ff8aa0f314f8657aa97e46",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20241016-how-ab-testing-platforms-make-data-science-more-interesting-zh.md",
+      "bytes": 10034,
+      "sha256": "a71ea6bcef168c8dab1765442b16e6f3f0c6ba5458533a9a1023bbe81f7c8fef",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250211-balancing-scale-cost-performance-experimentation-systems-zh.md",
+      "bytes": 8733,
+      "sha256": "c169c7073a54c0427158779f9a6ff83355e8556d645563d931ce66ee3f92e76a",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250211-bayesian-vs-frequentist-statistics-zh.md",
+      "bytes": 9677,
+      "sha256": "5161a2e57e8430a0f5719cd9b9e9d4a6ef09e9b47503f4a438904524282bdd58",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250227-correlation-vs-causation-guide-zh.md",
+      "bytes": 11935,
+      "sha256": "372df197651e34d0b9a8a367e21546a2144046daea05b06b5a9a6f8dfc134c65",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250311-data-driven-marketing-attribution-shortcomings-zh.md",
+      "bytes": 10711,
+      "sha256": "af7d620b70f76f37d34142c37d6eebba3910b96754d3e8d533954a18d4093c7c",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250313-informed-bayesian-ab-testing-zh.md",
+      "bytes": 16348,
+      "sha256": "d5b00764acc4cf50e58304e81d1b200d1382febde1fc266cb5bdb506efd4a033",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250326-marketplace-challenges-in-ab-testing-zh.md",
+      "bytes": 10060,
+      "sha256": "cd307afc5c78fde9086a94816ff88b824824fb6ce5ea4b2ecf444d6639b9d4c1",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250409-why-ab-testing-is-ultimately-qualitative-zh.md",
+      "bytes": 5861,
+      "sha256": "770c9c4b4cb83994c91d828ef9dbe6641979bdf976cdabefd0517c51ed220f0b",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250417-marketing-attribution-models-tech-survey-zh.md",
+      "bytes": 26312,
+      "sha256": "27bd5776e31bab526eda870cc8109651913f4e423a25153a9f3082766525f99f",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250423-addressing-complexity-in-enterprise-scale-experimentation-zh.md",
+      "bytes": 8489,
+      "sha256": "da07ca66955d604dafad40ccb66d57fbb178cca837321a4de8842b5c82c6562f",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250624-speeding-up-a-b-tests-with-discipline-zh.md",
+      "bytes": 9740,
+      "sha256": "95385b3593f9dd1d60fb6d8e52415ab05edf72db34fb20083f7b7e091405c8a0",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/blog-posts/20250808-ai-startups-lessons-learned-zh.md",
+      "bytes": 10691,
+      "sha256": "cfd84af40925226c9864bb603be15092bcae646d5e17a0485a3cb387ce35db93",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-about.md",
+      "bytes": 5390,
+      "sha256": "82fea562a2392c219b7c1e36de04712f41b071ab94f9452480742c6e36e6daaf",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-ch01.md",
+      "bytes": 18265,
+      "sha256": "986c664272eeb337cead86ce649e39b44cddb01686287131d347d3f43cf24473",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-ch02.md",
+      "bytes": 26272,
+      "sha256": "ac91c9b51aff67566da8188b7a92c73df49b4366f0a3bef66f17c6656ba8779f",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-ch03.md",
+      "bytes": 17641,
+      "sha256": "e050034961966a724b45f662fa73ba9a2ab422ab9331bf357e78f101c2cd40b9",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-ch04.md",
+      "bytes": 21448,
+      "sha256": "8ab753e6ed5cc4392ef89cf24b58980ad0dffde9406876a73cb8800d432db7cc",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-ch05.md",
+      "bytes": 22127,
+      "sha256": "f239d0d499b5009961e35afc71bbfaa1e809266cd4cb37a2a9807d82fd0db6cd",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-ch06.md",
+      "bytes": 18908,
+      "sha256": "c2b8d6c751840f8d063cafd1e8d89c0b91eb22c2111e0f8132d30b0fb3dc4074",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-ch07.md",
+      "bytes": 22173,
+      "sha256": "77190c029fe2d2033be325c6835b85648169415df9da20fad675048af3cc5fcd",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-ch08.md",
+      "bytes": 18656,
+      "sha256": "6a187a0911b1cf603d4ed599e06809ce568ee7aaf26b10f32904e2e702c7df62",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-ch09.md",
+      "bytes": 22176,
+      "sha256": "01d69f733adb21388126902e2b0c8dff26f927b6362677f8fffdaee66e785766",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-ch10.md",
+      "bytes": 26007,
+      "sha256": "02173a4b9ff500e67edc112070c7316e51368ecf745d168e258a39d1053e2359",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/book-chapters/20251118-gdap-zh-conclusion.md",
+      "bytes": 6478,
+      "sha256": "6a1c1293c8066b689e5fbde08075bfe325c3b4d7361f6e027ad82f601d248579",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
       "path": "corpus/community-comments/20250128-56564227.md",
@@ -5308,8 +5522,8 @@
     },
     {
       "path": "docs/build-your-own-agent.md",
-      "bytes": 5587,
-      "sha256": "33f938ea6643ddec506db68117efbba5956fa0d8e3c08eed31fd1698875fb56c",
+      "bytes": 5853,
+      "sha256": "e26c81af1299997084c89266d04d145a90101fd0b182ac4f87b0e280162c8ba3",
       "license": "MIT"
     },
     {
@@ -5326,14 +5540,14 @@
     },
     {
       "path": "docs/privacy-and-rights.md",
-      "bytes": 7811,
-      "sha256": "ab941ae912750f225c5b14b7db08cabb362faac092464344dd02cac4cd5c0ac7",
+      "bytes": 8132,
+      "sha256": "46008200be78bb0aceecb42d69d343aafb3f511f28ae86e0a0e929afe7ca846e",
       "license": "MIT"
     },
     {
       "path": "docs/source-model.md",
-      "bytes": 6817,
-      "sha256": "66d83be54f86941800c9ae120cfc1bd1a936a93391bceb01829b4618df806434",
+      "bytes": 8294,
+      "sha256": "e2887b982644710b1042683665255223ea948960b248eb902f3726c3114d33b7",
       "license": "MIT"
     },
     {
@@ -5361,9 +5575,21 @@
       "license": "CC0-1.0"
     },
     {
+      "path": "index/growth-data-analytics-playbook-zh.md",
+      "bytes": 3146,
+      "sha256": "ea4498ad0fe5692572a00e1a640e911ef1f0b10d0505abc0afdaf06cb3147f0c",
+      "license": "CC0-1.0"
+    },
+    {
       "path": "index/knowledge-bank.md",
       "bytes": 33860,
       "sha256": "41e0c0ad10a84aa62e73a6f888eb6cd4ff391dff30c5c799789c7ecd32c625f5",
+      "license": "CC0-1.0"
+    },
+    {
+      "path": "index/statsig-blog.md",
+      "bytes": 6477,
+      "sha256": "56495b036f99773c64fc6122f76f766c103feb6116e2e8807f4a987f9af36587",
       "license": "CC0-1.0"
     },
     {
@@ -5380,8 +5606,8 @@
     },
     {
       "path": "scripts/build_index.py",
-      "bytes": 23338,
-      "sha256": "0fb8723d8730d5dc3dd2f723bbaf3b6a670b1482adaa3ce7089813c463d0f0b3",
+      "bytes": 26907,
+      "sha256": "6f8f48b6d998d858046e0c2ad28be85a7e03b769936f5d5b47aef57d026f4c15",
       "license": "MIT"
     },
     {
@@ -5394,6 +5620,12 @@
       "path": "scripts/export_public_corpus.py",
       "bytes": 48123,
       "sha256": "275a5c5f7ee7ec357aa78bae104583f337ca0f34ea7b8d3cb9f9157faa118897",
+      "license": "MIT"
+    },
+    {
+      "path": "scripts/import_chinese_editions.py",
+      "bytes": 13051,
+      "sha256": "3739b057693617dbc0cecd7af1a6c260c80ba5f00daa6b49c7d5b1dffcaa23a4",
       "license": "MIT"
     },
     {
@@ -5416,20 +5648,26 @@
     },
     {
       "path": "scripts/rights.py",
-      "bytes": 6595,
-      "sha256": "9093c3686c8066ed63842153d9ddb4bddb17e963dd388f3bdc76f97022121e4b",
+      "bytes": 7065,
+      "sha256": "a33a6ded4a6766c79f4fac131a80c20f86689f7c7b7b78f0b9a604a9146024fd",
       "license": "MIT"
     },
     {
       "path": "scripts/search.py",
-      "bytes": 14610,
-      "sha256": "5b590ae8b88905d50c50da78dc562559a345c24e24c3a436a874df1cb8f52ba8",
+      "bytes": 14848,
+      "sha256": "1b40fdd1c7d206121bd8ff72250abc26eb2a73959529b30682557c3abaa50993",
       "license": "MIT"
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 45752,
-      "sha256": "fd11ae867de79273ded5b8b32bfacf6406520bf3da86eaa287c3c4580230ef16",
+      "bytes": 49757,
+      "sha256": "8881fdf5f0d538055abbeabb7778f1f1ee1c983efe8283fc56d87394de826c3f",
+      "license": "MIT"
+    },
+    {
+      "path": "tests/test_chinese_editions.py",
+      "bytes": 5865,
+      "sha256": "5f799bcfef26ef52a5fc219efdebd62560ae6c17b65236f97c0dadb64f253ed3",
       "license": "MIT"
     },
     {

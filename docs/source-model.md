@@ -12,6 +12,7 @@
 | 原作者不明、仅有品牌账号的文章 | 待核实的社区参考资料 | not-evidence：保留未知，不猜作者 |
 | AI synthesis、核心主张摘要、Public Axioms、书籍框架整理、回答示例 | 导航、概念关系、跨来源理解 | secondary-only：AI 写的二次整理，不是亲笔、逐字原话或逐句认可的证明 |
 | 嘉宾视频／其他文章的目录 | 找到应去看的原始材料 | not-evidence：标题与简介不是全文证据 |
+| 书和Statsig博客文章的中文版（AI按立正的中文习惯改写） | 找思路、概念和例子，帮助中文检索 | verify-original：核对英文原文；书里的「我们」和合著文章不归立正一人 |
 | 明确授权的会员视频字幕，含嘉宾／未逐段确认说话人的对话 | 在时间码处核实具体发言，提供有归属的参考 | not-evidence：整篇不能证明立正的立场；只能将明确发言归给相应说话人 |
 
 这些标签衡量“可否归成立正的立场”，不是给作者排水平。对技术问题，鸭哥的原始文章可能比立正的摘要更有用；对“立正本人怎么想”，那篇文章就没有直接归属权。搜索 score 只表示词面相关性，不能当成真实性、认可度或可信概率。
@@ -60,3 +61,7 @@ Circle 搜索用于发现，正文从实际帖子可见 HTML 取得，不使用�
 ## 课程文字稿（2026-10-03）
 
 `source_type=course-lesson`：会员课程的作者文字稿，目前只有《真本事》23课，按课程顺序的目录见 [`../index/zhenbenshi-course.md`](../index/zhenbenshi-course.md)。`rights_scope=publisher-authorized-course-text` 与 `license=LicenseRef-Lizheng-Reference-Use-1.0` 表示作者授权开放阅读、检索、问答与短引用，但不以本仓库 CC 许可再授权；`source_visibility=members-only` 描述原课程，`text_access=public` 描述开放的文字，`membership_platform=superlinear`。证据权重与作者帖子相同（`direct-with-quotation-boundaries`）：课里引用的他人观点、案例仍归原作者。
+
+## 书和博客的中文版（2026-10-04）
+
+`source_type=book-chapter`：《Growth Data Analytics Playbook》中文版的12份文字（关于这本书、10章和结语），目录见 [`../index/growth-data-analytics-playbook-zh.md`](../index/growth-data-analytics-playbook-zh.md)；`source_url` 是lizheng.ai上免费阅读的那一章，`original_source_url` 是英文原书。`source_type=blog-post`：立正在Statsig博客的19篇文章的中文版，目录见 [`../index/statsig-blog.md`](../index/statsig-blog.md)；`source_url` 是英文原文。两者都是 `author=AI`、`publisher=Yuzheng Sun`、`content_origin=ai-translation`、`evidence_role=translation`、`yuzheng_stance_weight=verify-original`，`rights_scope=publisher-authorized-adaptation`，按立正参考使用许可开放。`original_author` 写原作的全部作者：书是三位作者，合著文章是两位，另有 `co_authors` 字段。`published_at` 是英文原作的日期，`generated_at` 是中文版的生成日期。只收文字，图只保留图注。判断卡不能以它们为依据，需要立正本人的原话时，回到他的视频和帖子；对应关系见 [`../context/growth-analytics-reading-map.md`](../context/growth-analytics-reading-map.md)。

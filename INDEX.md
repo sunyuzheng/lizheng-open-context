@@ -9,6 +9,8 @@
 | 资料 | 数量 | 目录页 | 文件夹 | 可以怎么用 |
 | --- | ---: | --- | --- | --- |
 | 《真本事》课程文字稿 | 23 份 | [按课程顺序](index/zhenbenshi-course.md) | [corpus/course-lessons/](corpus/course-lessons/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
+| 《Growth Data Analytics Playbook》中文版 | 12 份 | [按章节](index/growth-data-analytics-playbook-zh.md) | [corpus/book-chapters/](corpus/book-chapters/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
+| Statsig博客文章中文版 | 19 篇 | [按日期](index/statsig-blog.md) | [corpus/blog-posts/](corpus/blog-posts/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 社区帖子 | 252 篇 | [按年份](index/community-posts.md) | [corpus/community-posts/](corpus/community-posts/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 社区评论 | 10 条 | [在帖子目录末尾](index/community-posts.md#评论10-条) | [corpus/community-comments/](corpus/community-comments/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 视频字幕：本人主讲 | 206 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
@@ -17,7 +19,7 @@
 | 英文文章：源于立正 | 11 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：其他作者 | 39 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 英文 AI 译稿 | 77 份 | [英文资料](index/english.md) | [corpus/english-translations/](corpus/english-translations/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
-| AI 整理与《真本事》框架 | 7 份 | [见下文](#ai-整理与真本事框架) | [context/](context/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| AI 整理与《真本事》框架 | 8 份 | [见下文](#ai-整理与真本事框架) | [context/](context/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 
 许可的意思：[CC BY 4.0](LICENSES/CC-BY-4.0.txt)注明作者和出处即可转载、改编、商用；[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)可以阅读、搜索、放进不收费的 AI 问答工具和短引用，不能整篇转载、收费使用或训练模型；[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)只供阅读和检索参考。
 
@@ -36,6 +38,7 @@
 
 - [核心主张：做点真东西](context/core-thesis.md)
 - [判断卡：按问题加载的推理导航](context/decision-cards.json)
+- [增长数据分析与实验阅读地图](context/growth-analytics-reading-map.md)
 - [Public Axioms V1 / 公共思考透镜](context/public-axioms-v1.md)
 - [Yuzheng Sun / 立正公开简介](context/public-profile.md)
 - [近期问题与阅读地图：从公开观点到自己的处境](context/recent-reading-map.md)
@@ -53,4 +56,4 @@
 
 ## English
 
-This page indexes everything in the repository: how much there is, where it lives, and how you may use it. Yuzheng Sun's posts, comments, solo video transcripts, English originals, AI translations, and AI syntheses are CC BY 4.0. The *Zhenbenshi* course texts and member video transcripts are under the Lizheng Reference Use License: read, search, use in free AI tools, and quote briefly, but do not republish them in full, charge for them, or train models on them. Articles by other authors keep their original rights. Catalogs and index pages are CC0; code and documentation are MIT. See [LICENSE.md](LICENSE.md).
+This page indexes everything in the repository: how much there is, where it lives, and how you may use it. Yuzheng Sun's posts, comments, solo video transcripts, English originals, AI translations, and AI syntheses are CC BY 4.0. The *Zhenbenshi* course texts, member video transcripts, and the Chinese editions of *Growth Data Analytics Playbook* and Yuzheng's Statsig blog posts (AI rewrites in his Chinese voice) are under the Lizheng Reference Use License: read, search, use in free AI tools, and quote briefly, but do not republish them in full, charge for them, or train models on them. Articles by other authors keep their original rights. Catalogs and index pages are CC0; code and documentation are MIT. See [LICENSE.md](LICENSE.md).

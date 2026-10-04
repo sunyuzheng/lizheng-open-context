@@ -1,12 +1,12 @@
 # 立正 · Open Context
 
-一个给人和 AI 都能读的公开知识底座：把立正在 Superlinear 社区与视频频道发表的内容、明确署名的英文社区资料、AI 翻译与综合，以及《真本事》的课程文字稿与框架参考，整理成可检索、可引用、可继续开发的开放仓库。
+一个给人和 AI 都能读的公开知识底座：把立正在 Superlinear 社区与视频频道发表的内容、明确署名的英文社区资料、AI 翻译与综合，《真本事》的课程文字稿与框架参考，以及《Growth Data Analytics Playbook》和立正Statsig博客文章的中文版，整理成可检索、可引用、可继续开发的开放仓库。
 
 它不是一个替你模仿“立正口吻”的人格提示词，也不宣称能替本人回答。它更像一套有来源、有时间、有边界的公共材料：你可以用它做搜索、问答、视频推荐、研究索引，或开发自己的立正 Skill / Agent。
 
 **[目录](INDEX.md)** · **[版权与许可](LICENSE.md)** · **[更新记录](CHANGELOG.md)**
 
-> **最近更新（2026-10-03）**：补入《真本事》23 节课的文字稿和 3 篇社区新帖（包括哥大客座课「假学习的终结」的回放）；统一全仓库的版权，五类资料各用各的许可；新增[完整目录](INDEX.md)。详见[更新记录](CHANGELOG.md)。
+> **最近更新（2026-10-04）**：补入立正合著的《Growth Data Analytics Playbook》中文版（全书12份）和他在Statsig博客的19篇文章的中文版，都是AI按他的中文习惯改写；新增增长与实验的阅读地图和4张判断卡。详见[更新记录](CHANGELOG.md)。
 
 ## 从这里继续
 
@@ -24,6 +24,8 @@
 |---|---|---|
 | `context/` | 当前核心主张、公开简介、Public Axioms V1、《真本事》完整框架、阅读地图与判断卡 | AI 撰写的整理与综合，CC BY 4.0；底层原作归立正，不能当作本人亲笔或原话 |
 | `corpus/course-lessons/` | 《真本事》会员课程 23 节视频课的文字稿，[按课程顺序的目录](index/zhenbenshi-course.md) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)：可阅读、搜索、问答与短引用；课程视频与课件仍需会员 |
+| `corpus/book-chapters/` | 《Growth Data Analytics Playbook》中文版（全书12份：关于这本书、10章和结语），[按章节的目录](index/growth-data-analytics-playbook-zh.md)；[在线免费读](https://www.lizheng.ai/book/growth-data-analytics-playbook) | AI按立正的中文习惯改写，立正参考使用许可；原书三位作者合著，核对说法回到英文原书 |
+| `corpus/blog-posts/` | 立正在Statsig博客发表的19篇文章（2篇合著）的中文版，[按日期的目录](index/statsig-blog.md) | AI改写，立正参考使用许可；只收文字，图在英文原文里；合著文章的观点属于两位作者 |
 | `corpus/community-posts/` | 立正在 Superlinear 各正常空间发布的 252 篇第一方帖子 | 全文、原帖链接、日期、空间与原始可见性，CC BY 4.0 |
 | `corpus/community-comments/` | 从 2,519 条本人评论中筛出的 10 条独立、有检索价值的公开补充 | 只纳入本人公开帖子下的公开评论；保留原评论链接，移除成员提及名称、联系方式、正文链接与敏感语境 |
 | `catalog/community-posts.jsonl` / `community-comments.jsonl` | 上述帖子与纳入评论的机器可读目录 | 可用于 RAG、索引和增量同步，CC0 |
@@ -32,7 +34,7 @@
 | `corpus/videos/` | 421份字幕：206份本人主讲，215份会员视频（其中45份经核对是立正一人主讲，170份是对话）；218份标明会员视频 | 带YouTube时间码；本人主讲 CC BY 4.0，会员视频按立正参考使用许可，对话里嘉宾的话归嘉宾 |
 | `corpus/english-community/` / `catalog/english-community.jsonl` | 50 篇已发布英文文章：11 篇源于立正、37 篇鸭哥、1 篇 Carl Guo、1 篇原作者待确认 | 49 个新增正文文件，另 1 篇指向已有正文；源于立正的 CC BY 4.0，其他作者保留原权利；保留原作者、发布账号、原文链接与 Bot 翻译／转载标记 |
 | `corpus/english-translations/` | 77 份本人单讲视频的英文 AI 译稿 | 独立标注 AI 生成、原视频发布日期与译稿生成日期；属于阅读辅助，不冒充英文原话；CC BY 4.0 |
-| [`INDEX.md`](INDEX.md) / `index/` | 全部资料的目录：《真本事》按课程顺序，帖子、视频、英文资料与 Knowledge Bank 按年份 | 由 catalog 自动生成，CC0 |
+| [`INDEX.md`](INDEX.md) / `index/` | 全部资料的目录：《真本事》按课程顺序，书的中文版按章节，帖子、博客、视频、英文资料与 Knowledge Bank 按日期 | 由 catalog 自动生成，CC0 |
 | `docs/` | 数据边界、回答协议、建 agent 指南 | 可直接作为开发规范，MIT |
 | `scripts/` | 导出、搜索、目录生成与发布前检查 | MIT |
 
@@ -50,6 +52,8 @@ python3 scripts/search.py "项目复盘" --type comment
 python3 scripts/search.py "做出代表作" --type video
 python3 scripts/search.py "context infrastructure" --type english --json
 python3 scripts/search.py "个人价值公式" --type course
+python3 scripts/search.py "growth accounting" --type book
+python3 scripts/search.py "新奇效应" --type blog
 python3 scripts/search.py "如何建立信念" --license open
 ```
 
@@ -145,7 +149,7 @@ python3 scripts/search.py "如何建立信念" --license open
 资料分五类，各用各的许可，一页纸的说明见 [`LICENSE.md`](LICENSE.md)，细则见 [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md)：
 
 - **立正的文字**：帖子、评论、本人主讲视频字幕、源于立正的英文文章、英文 AI 译稿和 AI 整理，[CC BY 4.0](LICENSES/CC-BY-4.0.txt)，注明作者和出处即可转载、改编、商用；
-- **会员内容的文字**：《真本事》课程文字稿和会员视频对话字幕，[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)，可以阅读、搜索、放进不收费的 AI 问答工具和短引用，不能整篇转载、收费使用或训练模型；
+- **会员内容和中文改写版的文字**：《真本事》课程文字稿、会员视频对话字幕，以及《Growth Data Analytics Playbook》和Statsig博客文章的中文版，[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)，可以阅读、搜索、放进不收费的 AI 问答工具和短引用，不能整篇转载、收费使用或训练模型；
 - **他人的作品**：其他作者的英文文章、嘉宾的话、第三方引文和商标，[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)；
 - **目录数据**：[CC0 1.0](LICENSES/CC0-1.0.txt)；
 - **程序和说明文档**：[MIT](LICENSES/MIT.txt)。

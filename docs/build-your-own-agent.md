@@ -22,6 +22,7 @@
 - `corpus/videos/*.md`：按 60–120 秒窗口合并相邻字幕，保存起始时间码；
 - `catalog/videos.jsonl`：用于发现没有纳入全文的嘉宾访谈或缺字幕视频；
 - `corpus/course-lessons/*.md`：《真本事》23 节课的文字稿，按小节切块，保存课程页面链接；这是课程原文，框架参考是它的 AI 整理；
+- `corpus/book-chapters/*.md` 和 `corpus/blog-posts/*.md`：《Growth Data Analytics Playbook》和Statsig博客文章的中文版，AI改写，证据权重是「核对英文原文」；按问题找章节和文章，见 `context/growth-analytics-reading-map.md`；
 - `context/zhenbenshi-frameworks.md`：按七套框架及小节切块，是《真本事》建议与检索的主要内容源；
 - `context/zhenbenshi-reading-map.md`：用于章节定位、常见问题路由和官方阅读入口。
 

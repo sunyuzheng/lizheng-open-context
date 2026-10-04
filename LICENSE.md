@@ -7,12 +7,12 @@
 | 类别 | 包括什么 | 许可 | 可以怎么用 |
 |---|---|---|---|
 | 立正的文字 | 帖子和评论、本人主讲的视频字幕、英文文章和 AI 译稿、AI 整理和《真本事》框架 | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) | 转载、改编、商用都可以，注明作者和出处 |
-| 会员内容的文字 | 《真本事》课程文字稿、会员视频的字幕 | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) | 阅读、搜索、放进不收费的 AI 工具、短引用；不能整篇转载、收费使用或训练模型 |
+| 会员内容和中文改写版的文字 | 《真本事》课程文字稿、会员视频的字幕、《Growth Data Analytics Playbook》和Statsig博客文章的中文版 | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) | 阅读、搜索、放进不收费的 AI 工具、短引用；不能整篇转载、收费使用或训练模型 |
 | 他人的作品 | 其他作者的英文文章、嘉宾的话、第三方引文和商标 | [原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md) | 只供阅读和检索参考 |
 | 目录数据 | `catalog/` `config/` `index/` 等目录文件 | [CC0 1.0](LICENSES/CC0-1.0.txt) | 随便用，不用署名 |
 | 程序和文档 | `scripts/` `tests/` `docs/` 和说明文件 | [MIT](LICENSES/MIT.txt) | 随便用，保留版权声明 |
 
-「立正的文字」包括会员空间里的帖子：作者已授权开放自己的正文。「会员内容的文字」只开放文字，课程视频、课件和会员视频仍需会员。
+「立正的文字」包括会员空间里的帖子：作者已授权开放自己的正文。会员内容只开放文字，课程视频、课件和会员视频仍需会员。书和博客的中文版是AI按立正的中文习惯改写的，原书和原文的权利在立正有权授权的范围内按这个许可开放，合著者的部分归合著者。
 
 ## 几条共同的规则
 
@@ -33,12 +33,12 @@ This repository holds five kinds of material, each under its own license. The `l
 | Kind | What it includes | License | What you may do |
 |---|---|---|---|
 | Yuzheng Sun's writing | Posts and comments, transcripts of his solo videos, English articles and AI translations, AI syntheses and the *真本事* frameworks | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) | Share, adapt, and use commercially, with attribution |
-| Text from members-only content | *真本事* course texts, member video transcripts | [Lizheng Reference Use License](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) | Read, search, use in free AI tools, quote briefly; no full republication, paid use, or model training |
+| Text from members-only content, and the Chinese editions | *真本事* course texts, member video transcripts, the Chinese editions of *Growth Data Analytics Playbook* and Yuzheng's Statsig blog posts | [Lizheng Reference Use License](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) | Read, search, use in free AI tools, quote briefly; no full republication, paid use, or model training |
 | Other people's work | English articles by other authors, guests' words, third-party quotations and trademarks | [Original rights retained](LICENSES/LicenseRef-Original-Rights-Retained.md) | Reading and search reference only |
 | Catalog data | `catalog/`, `config/`, `index/`, and other catalog files | [CC0 1.0](LICENSES/CC0-1.0.txt) | Use freely, no attribution needed |
 | Code and documentation | `scripts/`, `tests/`, `docs/`, and documentation files | [MIT](LICENSES/MIT.txt) | Use freely, keep the copyright notice |
 
-"Yuzheng Sun's writing" includes his posts from member spaces; he authorized opening his own text. For members-only content only the text is open; course videos, slides, and member videos still require membership.
+"Yuzheng Sun's writing" includes his posts from member spaces; he authorized opening his own text. For members-only content only the text is open; course videos, slides, and member videos still require membership. The Chinese editions of the book and the blog posts are AI rewrites in Yuzheng's Chinese voice, open under this license to the extent of his rights; co-authors keep their share.
 
 Common rules:
 

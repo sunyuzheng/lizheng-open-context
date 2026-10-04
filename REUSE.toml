@@ -261,6 +261,14 @@ SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
 path = [
+  "corpus/book-chapters/**",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "Statsig Press (English original by Mengying Li, Joe Kumar and Yuzheng Sun); Chinese edition published by Yuzheng Sun (立正)"
+SPDX-License-Identifier = "LicenseRef-Lizheng-Reference-Use-1.0"
+
+[[annotations]]
+path = [
   "corpus/course-lessons/**",
   "corpus/videos/20230129-aW10lX_voFA.md",
   "corpus/videos/20231001-wu900QYctG4.md",
@@ -310,6 +318,14 @@ path = [
 ]
 precedence = "override"
 SPDX-FileCopyrightText = "Yuzheng Sun (立正)"
+SPDX-License-Identifier = "LicenseRef-Lizheng-Reference-Use-1.0"
+
+[[annotations]]
+path = [
+  "corpus/blog-posts/**",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "Yuzheng Sun (立正) and the co-authors named in each file; the English originals appeared on the Statsig blog"
 SPDX-License-Identifier = "LicenseRef-Lizheng-Reference-Use-1.0"
 
 [[annotations]]

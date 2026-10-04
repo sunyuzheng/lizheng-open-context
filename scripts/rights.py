@@ -34,6 +34,8 @@ MAINTAINER = "2026 Yuzheng Sun"
 YUZHENG = "Yuzheng Sun (立正)"
 SPEAKERS = "Yuzheng Sun (立正); guests and other speakers keep the rights in their own words"
 AUTHORS = "The original authors named in each file"
+BOOK_EDITION = "Statsig Press (English original by Mengying Li, Joe Kumar and Yuzheng Sun); Chinese edition published by Yuzheng Sun (立正)"
+BLOG_EDITIONS = "Yuzheng Sun (立正) and the co-authors named in each file; the English originals appeared on the Statsig blog"
 
 
 def declared(path: Path) -> dict:
@@ -45,7 +47,7 @@ def declared(path: Path) -> dict:
     fields = {}
     for line in match[1].splitlines() if match else []:
         key, _, value = line.partition(":")
-        if key.strip() in {"license", "rights_scope", "speaker_classification"}:
+        if key.strip() in {"license", "rights_scope", "speaker_classification", "source_type"}:
             try:
                 fields[key.strip()] = json.loads(value.strip())
             except json.JSONDecodeError:
@@ -66,6 +68,8 @@ def file_rights(relative: str, root: Path = ROOT) -> tuple[str, str] | None:
             return license, AUTHORS
         if fields.get("rights_scope") == "publisher-authorized-transcript" and fields.get("speaker_classification") != "solo-yuzheng":
             return license, SPEAKERS
+        if fields.get("rights_scope") == "publisher-authorized-adaptation":
+            return license, BOOK_EDITION if fields.get("source_type") == "book-chapter" else BLOG_EDITIONS
         return license, YUZHENG
     return "MIT", MAINTAINER
 
