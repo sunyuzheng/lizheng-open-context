@@ -15,6 +15,12 @@ from rights import LICENSE_TEXTS, REFERENCE_USE
 
 ROOT = Path(__file__).resolve().parents[1]
 POLICY = ROOT / "config/member-video-policy.json"
+SOLO_REVIEW = "config/member-solo-review.json"
+SOLO_AUTHORIZATION = "maintainer-request-2026-10-03-member-solo-speech"
+SOLO_NOTE = ("立正一人主讲的会员视频字幕（2026-10-03 人工核对：没有嘉宾、主持人、连线或现场问答）。节目里转述的文章、提问、案例与引文"
+             "仍归原作者；以原视频核实准确措辞。收录不开放原视频的会员访问权限。")
+SOLO_CONTEXT = ("Channel member video in which Yuzheng speaks alone (reviewed 2026-10-03); material he quotes or retells "
+                "keeps its original speakers.")
 LICENSE_URL = f"https://github.com/sunyuzheng/lizheng-open-context/blob/main/{LICENSE_TEXTS[REFERENCE_USE]}"
 MEMBER_FIELDS = (
     "source_visibility", "text_access", "membership_platform", "membership_url",
@@ -53,6 +59,25 @@ def load_policy(path: Path = POLICY) -> dict:
     return policy
 
 
+def load_solo_review(root: Path = ROOT) -> set[str]:
+    """Member videos reviewed as Yuzheng speaking alone; an absent review means none."""
+    path = root / SOLO_REVIEW
+    if not path.is_file():
+        return set()
+    review = json.loads(path.read_text())
+    if review.get("authorization") != SOLO_AUTHORIZATION:
+        raise ValueError("Solo member speech review lacks the explicit maintainer request")
+    return set(review["solo_video_ids"])
+
+
+def solo_speech(meta: dict) -> dict:
+    """A reviewed solo member talk is Yuzheng's own speech; access and license stay those of member content."""
+    return {**meta, "author": "Yuzheng Sun", "original_author": "Yuzheng Sun", "speaker_classification": "solo-yuzheng",
+            "content_origin": "yuzheng-spoken-source", "evidence_role": "primary-speech",
+            "yuzheng_stance_weight": "direct-with-quotation-boundaries", "attribution_note": SOLO_NOTE,
+            "source_context": SOLO_CONTEXT}
+
+
 def prepare(archive: Path, policy: dict, root: Path = ROOT) -> tuple[dict, list[tuple[Path, dict, str]], list[dict]]:
     root = root.resolve()
     archive = archive.expanduser().resolve()
@@ -62,6 +87,7 @@ def prepare(archive: Path, policy: dict, root: Path = ROOT) -> tuple[dict, list[
     if len(by_id) != len(rows):
         raise ValueError("Existing video catalog has duplicate identities")
     writes = []
+    solo_ids = load_solo_review(root)
     counts = {"authorized_member_videos": len(policy["records"]), "new_transcripts": 0, "existing_transcripts_marked": 0, "new_catalog_entries": 0}
     for approved in policy["records"]:
         identity = approved["video_id"]
@@ -133,6 +159,10 @@ def prepare(archive: Path, policy: dict, root: Path = ROOT) -> tuple[dict, list[
             text = "\n\n".join(f"[{display_timestamp(seconds)}]({url}&t={seconds}s) {sanitize_first_party_text(value)}" for seconds, value in cues)
             body = f"# {source['title']}\n\n> **会员视频** · [观看会员完整视频]({url}) · 字幕文字已获授权开放，按[立正参考使用许可]({LICENSE_URL})使用；原视频观看需频道会员。字幕来源：`{kind}`；校对状态：`{QUALITY[kind]}`。以原视频核实说话人和准确措辞。\n\n{text}\n"
             counts["new_transcripts"] += 1
+        if identity in solo_ids and not solo:
+            if approved.get("guest_names"):
+                raise ValueError(f"{identity}: a video with named guests cannot be reviewed as solo speech")
+            meta = solo_speech(meta)
         # Strip only the old generated access notice when re-running.
         body = re.sub(r"<!-- member-access:start -->.*?<!-- member-access:end -->\s*", "", body, flags=re.S)
         if solo:

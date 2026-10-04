@@ -12,7 +12,8 @@
 | 社区帖子 | 252 篇 | [按年份](index/community-posts.md) | [corpus/community-posts/](corpus/community-posts/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 社区评论 | 10 条 | [在帖子目录末尾](index/community-posts.md#评论10-条) | [corpus/community-comments/](corpus/community-comments/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 视频字幕：本人主讲 | 206 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
-| 视频字幕：会员视频对话 | 215 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
+| 视频字幕：会员视频 · 本人主讲 | 45 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
+| 视频字幕：会员视频 · 对话 | 170 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
 | 英文文章：源于立正 | 11 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：其他作者 | 39 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 英文 AI 译稿 | 77 份 | [英文资料](index/english.md) | [corpus/english-translations/](corpus/english-translations/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |

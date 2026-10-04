@@ -32,9 +32,14 @@ class RightsTests(unittest.TestCase):
         self.assertEqual(by_folder["english-community"], {"CC-BY-4.0", rights.RETAINED})
 
     def test_guest_speech_is_never_assigned_to_yuzheng_alone(self):
+        solo = set(json.loads((ROOT / "config/member-solo-review.json").read_text())["solo_video_ids"])
+        holders = {}
         for path, (license, holder) in rights.rights_map(validator.release_paths()).items():
             if path.startswith("corpus/videos/") and license == rights.REFERENCE_USE:
-                self.assertEqual(holder, rights.SPEAKERS)
+                video_id = path.rsplit("/", 1)[-1][9:-3]
+                holders[video_id] = holder
+                self.assertEqual(holder, rights.YUZHENG if video_id in solo else rights.SPEAKERS, path)
+        self.assertEqual(sum(holder == rights.YUZHENG for holder in holders.values()), len(solo))
 
     def test_manifest_records_each_file_license(self):
         manifest = json.loads((ROOT / "release-manifest.json").read_text())

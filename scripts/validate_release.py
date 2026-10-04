@@ -82,7 +82,10 @@ REQUIRED_PROVENANCE = (
 AI_SYNTHESIS_ORIGINS = {"ai-synthesis", "ai-synthesis-of-mixed-sources"}
 
 
-def validate_member_video(row: dict, policy: dict, errors: list[str]) -> None:
+SOLO_REVIEW_AUTHORIZATION = "maintainer-request-2026-10-03-member-solo-speech"
+
+
+def validate_member_video(row: dict, policy: dict, errors: list[str], solo_ids: frozenset[str] = frozenset()) -> None:
     approved = {item["video_id"]: item for item in policy.get("records", [])}.get(row.get("video_id"))
     label = str(row.get("id"))
     if not approved:
@@ -104,16 +107,27 @@ def validate_member_video(row: dict, policy: dict, errors: list[str]) -> None:
     elif row.get("rights_scope") != "publisher-authorized-transcript":
         errors.append(f"{label}: unexpected member transcript rights scope")
     if row.get("rights_scope") == "publisher-authorized-transcript":
-        for key, value in {
-            "speaker_classification": "mixed-or-unresolved", "review_status": "maintainer-authorized",
-            "license": REFERENCE_USE, "content_origin": "mixed-or-unresolved-speech",
-            "yuzheng_stance_weight": "not-evidence", "evidence_role": "speaker-attributed-speech",
+        solo = row.get("video_id") in solo_ids
+        expected = {
+            "review_status": "maintainer-authorized", "license": REFERENCE_USE,
             "transcript_source_kind": approved["transcript_source_kind"], "transcript_source_sha256": approved["transcript_sha256"],
-        }.items():
+        }
+        if solo:
+            # Reviewed as Yuzheng speaking alone: his own speech, still member content.
+            expected.update(speaker_classification="solo-yuzheng", content_origin="yuzheng-spoken-source",
+                            yuzheng_stance_weight="direct-with-quotation-boundaries", evidence_role="primary-speech",
+                            author="Yuzheng Sun", original_author="Yuzheng Sun")
+            if approved.get("guest_names"):
+                errors.append(f"{label}: a member video with named guests cannot be reviewed as solo speech")
+        else:
+            expected.update(speaker_classification="mixed-or-unresolved", content_origin="mixed-or-unresolved-speech",
+                            yuzheng_stance_weight="not-evidence", evidence_role="speaker-attributed-speech")
+            if row.get("author") == "Yuzheng Sun" or row.get("author") != row.get("original_author"):
+                errors.append(f"{label}: member transcript cannot assign unresolved speakers to Yuzheng")
+        for key, value in expected.items():
             if row.get(key) != value:
-                errors.append(f"{label}: invalid mixed member transcript attribution {key}")
-        if row.get("author") == "Yuzheng Sun" or row.get("author") != row.get("original_author"):
-            errors.append(f"{label}: member transcript cannot assign unresolved speakers to Yuzheng")
+                kind = "solo" if solo else "mixed"
+                errors.append(f"{label}: invalid {kind} member transcript attribution {key}")
 
 
 COURSE_AUTHORIZATION = "maintainer-request-2026-10-03-zhenbenshi-course-text"
@@ -536,6 +550,14 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         errors.append("Member video policy differs from the exact authorized channel snapshot")
     if {row.get("video_id") for row in video_rows if row.get("inclusion_authorization") and row.get("inclusion_authorization") == member_policy.get("authorization")} != member_ids:
         errors.append("Member video policy/catalog exact ID mismatch")
+    solo_path = ROOT / "config/member-solo-review.json"
+    solo_review = read_json_object_without_duplicate_keys(solo_path) if solo_path.is_file() else {}
+    solo_ids = frozenset(solo_review.get("solo_video_ids", []))
+    if solo_review and solo_review.get("authorization") != SOLO_REVIEW_AUTHORIZATION:
+        errors.append("Solo member speech review lacks the explicit maintainer request")
+    prior_solo = {row["video_id"] for row in member_policy.get("records", []) if row.get("prior_solo_transcript")}
+    if not solo_ids <= member_ids - prior_solo:
+        errors.append("Solo member speech review names videos outside the mixed member snapshot")
 
     for row in kb_rows:
         if row.get("full_text_included") and not authorized_publisher_text(row):
@@ -618,7 +640,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     for row in video_rows:
         is_member = row.get("video_id") in member_ids
         if is_member:
-            validate_member_video(row, member_policy, errors)
+            validate_member_video(row, member_policy, errors, solo_ids)
         if row.get("transcript_included") and not is_member and row.get("rights_scope") != "first-party":
             errors.append(f"{row.get('id')}: mixed-speaker transcript included")
         if row.get("transcript_included") and (not is_member or row.get("rights_scope") == "first-party") and (
@@ -696,6 +718,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
         "video_transcripts": sum(bool(row.get("transcript_included")) for row in video_rows),
         "video_metadata_only": sum(not bool(row.get("transcript_included")) for row in video_rows),
         "member_video_transcripts": len(member_ids),
+        "member_video_solo_reviewed": len(solo_ids),
         "known_guest_videos": sum(bool(row.get("guest_names")) for row in video_rows),
         "english_community_catalog": len(english_rows),
         "english_community_full_text_files": len(list((ROOT / "corpus/english-community").glob("*.md"))),

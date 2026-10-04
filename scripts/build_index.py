@@ -196,33 +196,48 @@ def community_page(root: Path) -> str:
 def video_kind(row: dict) -> str:
     if not row.get("transcript_included"):
         return "只有目录"
-    if row.get("rights_scope") == "publisher-authorized-transcript":
+    if row.get("speaker_classification") != "solo-yuzheng":
         return "会员 · 对话"
     return "会员 · 本人主讲" if row.get("source_visibility") == "members-only" else "本人主讲"
+
+
+def transcript_groups(videos: list[dict]) -> dict[str, int]:
+    """Transcript counts by who speaks and which license applies."""
+    groups = {"open-solo": 0, "open-solo-member": 0, "member-solo": 0, "member-mixed": 0, "listed": 0}
+    for row in videos:
+        kind = video_kind(row)
+        if kind == "只有目录":
+            groups["listed"] += 1
+        elif kind == "会员 · 对话":
+            groups["member-mixed"] += 1
+        elif row.get("license") == "CC-BY-4.0":
+            groups["open-solo"] += 1
+            groups["open-solo-member"] += kind == "会员 · 本人主讲"
+        else:
+            groups["member-solo"] += 1
+    return groups
 
 
 def video_page(root: Path) -> str:
     page = "index/videos.md"
     videos = read_jsonl(root / "catalog/videos.jsonl")
-    kinds = [video_kind(row) for row in videos]
-    solo = sum(kind.endswith("本人主讲") for kind in kinds)
-    member_solo = kinds.count("会员 · 本人主讲")
-    mixed = kinds.count("会员 · 对话")
-    listed = kinds.count("只有目录")
+    groups = transcript_groups(videos)
+    open_label = f"本人主讲（含 {groups['open-solo-member']} 条早先收录的会员视频）" if groups["open-solo-member"] else "本人主讲"
     out = [
         GENERATED,
         "",
         "# 视频目录",
         "",
-        f"立正 YouTube 频道「课代表立正」的 {len(videos)} 条视频，按发布时间从新到旧排列。其中 {solo + mixed} 条有字幕全文：",
+        f"立正 YouTube 频道「课代表立正」的 {len(videos)} 条视频，按发布时间从新到旧排列。其中 {len(videos) - groups['listed']} 条有字幕全文：",
         "",
         *table(["类型", "数量", "字幕的许可"], [
-            [f"本人主讲（含 {member_solo} 条会员视频）" if member_solo else "本人主讲", str(solo), license_link(page, "CC-BY-4.0")],
-            ["会员 · 对话", str(mixed), f"{license_link(page, REFERENCE_USE)}；嘉宾的话归嘉宾本人"],
-            ["只有目录", str(listed), "没有字幕全文；标题、日期和链接按" + license_link(page, "CC0-1.0") + "开放"],
+            [open_label, str(groups["open-solo"]), license_link(page, "CC-BY-4.0")],
+            ["会员 · 本人主讲", str(groups["member-solo"]), license_link(page, REFERENCE_USE)],
+            ["会员 · 对话", str(groups["member-mixed"]), f"{license_link(page, REFERENCE_USE)}；嘉宾的话归嘉宾本人"],
+            ["只有目录", str(groups["listed"]), "没有字幕全文；标题、日期和链接按" + license_link(page, "CC0-1.0") + "开放"],
         ], numeric={1}),
         "",
-        "会员视频需要频道会员才能观看，字幕文字已获授权开放。「只有目录」多是嘉宾访谈、多人对话或尚未复核说话人的视频。",
+        "会员视频需要频道会员才能观看，字幕文字已获授权开放。「会员 · 本人主讲」经人工核对只有立正一人讲述；「会员 · 对话」里嘉宾、主持人和提问者的话归他们本人。「只有目录」多是嘉宾访谈、多人对话或尚未复核说话人的视频。",
         "",
         f"机器可读：{link(page, 'catalog/videos.jsonl', 'catalog/videos.jsonl')}",
     ]
@@ -300,7 +315,7 @@ def hub_page(root: Path) -> str:
     page = "INDEX.md"
     count = lambda name: len(read_jsonl(root / f"catalog/{name}.jsonl"))
     videos = read_jsonl(root / "catalog/videos.jsonl")
-    kinds = [video_kind(row) for row in videos]
+    groups = transcript_groups(videos)
     english = read_jsonl(root / "catalog/english-community.jsonl")
     own_english = sum(row.get("original_author") == "Yuzheng Sun" for row in english)
     other_english = sum(row.get("original_author") != "Yuzheng Sun" for row in english)
@@ -314,15 +329,16 @@ def hub_page(root: Path) -> str:
         ["《真本事》课程文字稿", f"{count('course-lessons')} 份", link(page, "按课程顺序", "index/zhenbenshi-course.md"), link(page, "corpus/course-lessons/", "corpus/course-lessons/"), reference],
         ["社区帖子", f"{count('community-posts')} 篇", link(page, "按年份", "index/community-posts.md"), link(page, "corpus/community-posts/", "corpus/community-posts/"), cc_by],
         ["社区评论", f"{comments} 条", f"[在帖子目录末尾](index/community-posts.md#{comments_anchor})", link(page, "corpus/community-comments/", "corpus/community-comments/"), cc_by],
-        ["视频字幕：本人主讲", f"{sum(k.endswith('本人主讲') for k in kinds)} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), cc_by],
-        ["视频字幕：会员视频对话", f"{kinds.count('会员 · 对话')} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), f"{reference}；嘉宾的话归嘉宾"],
+        ["视频字幕：本人主讲", f"{groups['open-solo']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), cc_by],
+        ["视频字幕：会员视频 · 本人主讲", f"{groups['member-solo']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), reference],
+        ["视频字幕：会员视频 · 对话", f"{groups['member-mixed']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), f"{reference}；嘉宾的话归嘉宾"],
         ["英文文章：源于立正", f"{own_english} 篇", link(page, "英文资料", "index/english.md"), link(page, "corpus/english-community/", "corpus/english-community/"), cc_by],
         ["英文文章：其他作者", f"{other_english} 篇", link(page, "英文资料", "index/english.md"), link(page, "corpus/english-community/", "corpus/english-community/"), retained],
         ["英文 AI 译稿", f"{count('english-translations')} 份", link(page, "英文资料", "index/english.md"), link(page, "corpus/english-translations/", "corpus/english-translations/"), cc_by],
         ["AI 整理与《真本事》框架", f"{len(context_files)} 份", f"[见下文](#{github_anchor('AI 整理与《真本事》框架')})", link(page, "context/", "context/"), cc_by],
     ]
     listed = [
-        ["视频目录", f"{len(videos)} 条", link(page, "视频目录", "index/videos.md"), link(page, "catalog/videos.jsonl", "catalog/videos.jsonl"), f"{kinds.count('只有目录')} 条只有目录、没有字幕"],
+        ["视频目录", f"{len(videos)} 条", link(page, "视频目录", "index/videos.md"), link(page, "catalog/videos.jsonl", "catalog/videos.jsonl"), f"{groups['listed']} 条只有目录、没有字幕"],
         ["Knowledge Bank", f"{len(kb)} 篇", link(page, "Knowledge Bank 目录", "index/knowledge-bank.md"), link(page, "catalog/knowledge-bank.jsonl", "catalog/knowledge-bank.jsonl"), f"立正的 {sum(bool(r.get('full_text_included')) for r in kb)} 篇有全文，其他作者只列标题和链接"],
     ]
     contexts = []

@@ -161,6 +161,16 @@
             "Fake learning"
           ],
           "role": "case"
+        },
+        {
+          "path": "corpus/videos/20260121-Je7Y0G6Qe8k.md",
+          "focus_terms": [
+            "战术",
+            "战略",
+            "剃刀",
+            "慢工出细活"
+          ],
+          "role": "case"
         }
       ]
     },
@@ -301,6 +311,15 @@
             "别人的增长方法",
             "前提",
             "获客"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20250709-yXLMZbcr6wU.md",
+          "focus_terms": [
+            "二手",
+            "描述给你",
+            "运行规律"
           ],
           "role": "case"
         }
@@ -446,6 +465,15 @@
             "个人主页"
           ],
           "role": "case"
+        },
+        {
+          "path": "corpus/videos/20240611-4wU5c4XzX_U.md",
+          "focus_terms": [
+            "品牌",
+            "产品",
+            "马斯克"
+          ],
+          "role": "contrast"
         }
       ]
     },
@@ -512,6 +540,15 @@
             "小验证"
           ],
           "role": "contrast"
+        },
+        {
+          "path": "corpus/videos/20250813-iUaN-PxB0fo.md",
+          "focus_terms": [
+            "unscalable",
+            "不可规模化",
+            "用户"
+          ],
+          "role": "case"
         }
       ]
     },
@@ -580,6 +617,15 @@
             "新的目的"
           ],
           "role": "contrast"
+        },
+        {
+          "path": "corpus/videos/20240116-Q7sqm3pc06Q.md",
+          "focus_terms": [
+            "enlightenment",
+            "幸福",
+            "无限游戏"
+          ],
+          "role": "case"
         }
       ]
     },
@@ -656,6 +702,42 @@
             "底层逻辑",
             "价值信念感",
             "商业"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20240120-7RoNE_O9leE.md",
+          "focus_terms": [
+            "startup",
+            "大厂",
+            "一命二运三风水"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20240810-ARbtDZYmIpo.md",
+          "focus_terms": [
+            "跳槽",
+            "平跳",
+            "越跳越高"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20250906-kSeZw9Ak8w4.md",
+          "focus_terms": [
+            "下坡",
+            "social status",
+            "大厂"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20250725-yFqaJcIk-xY.md",
+          "focus_terms": [
+            "长期竞争力",
+            "孙子兵法",
+            "势"
           ],
           "role": "case"
         }
@@ -755,6 +837,15 @@
             "个人品牌"
           ],
           "role": "case"
+        },
+        {
+          "path": "corpus/videos/20231222-wUjAtYyrYT8.md",
+          "focus_terms": [
+            "标签",
+            "broadcasting",
+            "老板"
+          ],
+          "role": "case"
         }
       ]
     },
@@ -814,6 +905,42 @@
             "非共识"
           ],
           "role": "basis"
+        },
+        {
+          "path": "corpus/videos/20240512-_Z-hHbGI3pg.md",
+          "focus_terms": [
+            "90%",
+            "没有意义",
+            "内化"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/videos/20240606-ZaGfJxL-wUw.md",
+          "focus_terms": [
+            "multiple",
+            "反馈",
+            "推出市场"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20260202-7-1cro5Okeg.md",
+          "focus_terms": [
+            "10倍",
+            "质量",
+            "结果"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20240519-mevvOuylDhw.md",
+          "focus_terms": [
+            "attention",
+            "effort",
+            "注意力"
+          ],
+          "role": "case"
         }
       ]
     },
@@ -898,6 +1025,16 @@
             "认知地基",
             "客体思维",
             "打分思维"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20260116-hHlYp2GlO6Q.md",
+          "focus_terms": [
+            "judge",
+            "observe",
+            "evaluate",
+            "内耗"
           ],
           "role": "case"
         }
@@ -1056,6 +1193,24 @@
             "求知"
           ],
           "role": "case"
+        },
+        {
+          "path": "corpus/videos/20260316-a2xXeW93NbQ.md",
+          "focus_terms": [
+            "长期主义",
+            "洗盘子",
+            "透支"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20240308-Yri-bNUVh60.md",
+          "focus_terms": [
+            "运气",
+            "塞翁失马",
+            "三个原则"
+          ],
+          "role": "case"
         }
       ]
     },
@@ -1077,7 +1232,13 @@
         "谈钱伤感情",
         "空想",
         "付诸行动",
-        "迈出第一步"
+        "迈出第一步",
+        "副业",
+        "不想打工",
+        "卡在销售",
+        "销售",
+        "收不到钱",
+        "涨价"
       ],
       "thesis": "课里把赚钱看成一门技能，而不只是结果：只创造价值还不够，还要让价值被看见、完成交换。最难的一步常常是开口要钱；课里认为卡住的往往不是价格，而是对方对动机的疑虑和「谈钱伤感情」的顾虑。减少误解、做出市场认可的产品来建立公信力，再从一次真实的小交易开始，比继续空想更有用。",
       "conditions": [
@@ -1123,6 +1284,33 @@
             "公信力"
           ],
           "role": "basis"
+        },
+        {
+          "path": "corpus/videos/20260519-khiC1eUUPLI.md",
+          "focus_terms": [
+            "增长",
+            "收费",
+            "销售",
+            "打工"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/videos/20260921-ub6OSZJSOMw.md",
+          "focus_terms": [
+            "role model",
+            "机会",
+            "分析"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20240116-Q7sqm3pc06Q.md",
+          "focus_terms": [
+            "三刀",
+            "无限游戏"
+          ],
+          "role": "case"
         }
       ]
     },
@@ -1149,7 +1337,11 @@
         "沟通技巧",
         "看到我的价值",
         "让老板看到",
-        "看不到我的贡献"
+        "看不到我的贡献",
+        "framing",
+        "说服力",
+        "有说服力",
+        "汇报"
       ],
       "thesis": "课里把沟通看成职场的元能力，并把它的目的分成层层递进的五层：让对方知道你想说什么（表达清晰）；通过沟通把问题解决（解决问题）；让别人看到这件事的价值（明确价值）；让对方判断你的意图和立场（表明立场）；最后建立情感与认同。上一层做好了，下一层的不完美往往没那么要紧；往上走靠换位思考，聆听既是起点也是终点。",
       "conditions": [
@@ -1185,6 +1377,108 @@
             "聆听"
           ],
           "role": "basis"
+        },
+        {
+          "path": "corpus/videos/20250624-JDTmSUQWch4.md",
+          "focus_terms": [
+            "framing",
+            "conclusion",
+            "叙事"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20241203-Fofr8Ns1IFI.md",
+          "focus_terms": [
+            "business writing",
+            "说服",
+            "观点"
+          ],
+          "role": "case"
+        }
+      ]
+    },
+    {
+      "id": "hard-truths-with-people",
+      "title": "坏消息要说实话，也要让人接得住：在高压项目里做仲裁者",
+      "query_cues": [
+        "坏消息",
+        "实验结果不好",
+        "实验失败",
+        "告诉老板",
+        "set up for failure",
+        "被坑",
+        "背锅",
+        "项目失败",
+        "项目搞砸",
+        "仲裁",
+        "arbitrator",
+        "办公室政治",
+        "说实话",
+        "数据科学家",
+        "升职靠什么",
+        "大佬认可",
+        "marketplace",
+        "跟人打交道"
+      ],
+      "thesis": "立正在会员节目里讲过自己在 Meta Marketplace 被安排进注定失败的项目、后来逆转的经历。他总结学到的是做一个「仲裁者」：该说的坏消息要说，该坚持的时候坚持，但用正向、让人接得住的方式。实验结果很差时，报告要如实，也要对得起投入的人、让决策者有下一步可走，而这些都必须建立在说实话、经得起时间检验的基础上。他把这类事从「政治」重新理解为「和人一起工作」。",
+      "conditions": [
+        "适用于结论要由别人决策、需要多方合作的岗位；判断本身仍以事实和数据为准。",
+        "高层的认可是一步步争取来的：靠扎实的分析和可靠的交付建立信任。"
+      ],
+      "does_not_imply": [
+        "不意味着为了关系可以粉饰数据或回避坏消息。",
+        "这是个人经历，不是所有组织的规律；要结合自己团队的权力结构和风险判断。"
+      ],
+      "diagnostic_questions": [
+        "这个坏消息，谁需要知道，需要在什么时候知道？",
+        "你怎样说，能既如实，又让对方有下一步可走？"
+      ],
+      "relations": [
+        {
+          "card_id": "zbs-communication",
+          "kind": "shared-mechanism"
+        },
+        {
+          "card_id": "outcome-over-proxy",
+          "kind": "application"
+        }
+      ],
+      "sources": [
+        {
+          "path": "corpus/videos/20250220-olEx0hKdjAc.md",
+          "focus_terms": [
+            "arbitrator",
+            "坏消息",
+            "说实话",
+            "work with people"
+          ],
+          "role": "basis"
+        },
+        {
+          "path": "corpus/videos/20250109-h3_3wRzrdZk.md",
+          "focus_terms": [
+            "set up for failure",
+            "高敏感"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20251020-uLFkQheksgI.md",
+          "focus_terms": [
+            "搞砸",
+            "资源",
+            "逻辑"
+          ],
+          "role": "case"
+        },
+        {
+          "path": "corpus/videos/20251125-S6-7haSvVho.md",
+          "focus_terms": [
+            "26倍",
+            "增长"
+          ],
+          "role": "case"
         }
       ]
     }

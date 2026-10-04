@@ -29,7 +29,7 @@
 | `catalog/community-posts.jsonl` / `community-comments.jsonl` | 上述帖子与纳入评论的机器可读目录 | 可用于 RAG、索引和增量同步，CC0 |
 | `catalog/knowledge-bank.jsonl` | Knowledge Bank 的 169 篇公开文章目录 | 所有作者只列公开元数据；立正的 36 篇全文指向统一社区语料 |
 | `catalog/videos.jsonl` | 立正YouTube频道的760条视频目录，包括已授权的会员视频快照 | 标题、日期、链接、字幕状态、访问与权利范围，CC0 |
-| `corpus/videos/` | 421份字幕：206份本人主讲，215份会员视频对话；218份标明会员视频 | 带YouTube时间码；本人主讲 CC BY 4.0，会员对话按立正参考使用许可，嘉宾的话归嘉宾 |
+| `corpus/videos/` | 421份字幕：206份本人主讲，215份会员视频（其中45份经核对是立正一人主讲，170份是对话）；218份标明会员视频 | 带YouTube时间码；本人主讲 CC BY 4.0，会员视频按立正参考使用许可，对话里嘉宾的话归嘉宾 |
 | `corpus/english-community/` / `catalog/english-community.jsonl` | 50 篇已发布英文文章：11 篇源于立正、37 篇鸭哥、1 篇 Carl Guo、1 篇原作者待确认 | 49 个新增正文文件，另 1 篇指向已有正文；源于立正的 CC BY 4.0，其他作者保留原权利；保留原作者、发布账号、原文链接与 Bot 翻译／转载标记 |
 | `corpus/english-translations/` | 77 份本人单讲视频的英文 AI 译稿 | 独立标注 AI 生成、原视频发布日期与译稿生成日期；属于阅读辅助，不冒充英文原话；CC BY 4.0 |
 | [`INDEX.md`](INDEX.md) / `index/` | 全部资料的目录：《真本事》按课程顺序，帖子、视频、英文资料与 Knowledge Bank 按年份 | 由 catalog 自动生成，CC0 |

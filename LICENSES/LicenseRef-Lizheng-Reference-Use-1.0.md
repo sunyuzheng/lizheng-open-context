@@ -5,7 +5,7 @@
 本许可适用于本仓库中 `license` 字段为 `LicenseRef-Lizheng-Reference-Use-1.0` 的文件，目前是：
 
 - 《真本事》课程的文字稿（`corpus/course-lessons/`）；
-- 频道会员视频的字幕（`corpus/videos/` 中标为「会员视频」的对话字幕）。
+- 频道会员视频的字幕（`corpus/videos/` 中标为「会员视频」、由发布者授权收录的字幕，包括立正一人主讲的和多人对话）。
 
 这些文字来自付费课程和会员视频。作者把文字开放出来，是为了让人能搜索、查证、用 AI 问答，不是为了让人拿去另做一份课程。课程视频、课件和会员视频本身不在本仓库，仍需会员观看。
 
@@ -54,7 +54,7 @@
 This license applies to files in this repository whose `license` field is `LicenseRef-Lizheng-Reference-Use-1.0`. Currently these are:
 
 - the lesson texts of the *真本事* (*Zhenbenshi*) course (`corpus/course-lessons/`);
-- the transcripts of channel member videos (the conversation transcripts marked "会员视频" in `corpus/videos/`).
+- the transcripts of channel member videos (the publisher-authorized transcripts marked "会员视频" in `corpus/videos/`, both Yuzheng's solo talks and conversations).
 
 This text comes from a paid course and from members-only videos. The author opened it so people can search it, check sources, and ask questions with AI, not so that someone can rebuild the course elsewhere. The course videos, slides, and member videos themselves are not in this repository and still require membership.
 

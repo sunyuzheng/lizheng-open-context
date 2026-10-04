@@ -45,7 +45,7 @@ def declared(path: Path) -> dict:
     fields = {}
     for line in match[1].splitlines() if match else []:
         key, _, value = line.partition(":")
-        if key.strip() in {"license", "rights_scope"}:
+        if key.strip() in {"license", "rights_scope", "speaker_classification"}:
             try:
                 fields[key.strip()] = json.loads(value.strip())
             except json.JSONDecodeError:
@@ -64,7 +64,7 @@ def file_rights(relative: str, root: Path = ROOT) -> tuple[str, str] | None:
         license = str(fields.get("license") or "")
         if license == RETAINED:
             return license, AUTHORS
-        if fields.get("rights_scope") == "publisher-authorized-transcript":
+        if fields.get("rights_scope") == "publisher-authorized-transcript" and fields.get("speaker_classification") != "solo-yuzheng":
             return license, SPEAKERS
         return license, YUZHENG
     return "MIT", MAINTAINER

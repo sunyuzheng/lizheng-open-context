@@ -113,6 +113,26 @@ class MemberTranscriptTests(unittest.TestCase):
             validator.validate_member_video(dict(rows[0], **mutation), self.policy, errors)
             self.assertTrue(errors)
 
+    def test_reviewed_solo_member_talk_is_yuzheng_speech_with_member_access_and_license(self):
+        (self.root / "config").mkdir(exist_ok=True)
+        (self.root / "config/member-solo-review.json").write_text(json.dumps({
+            "authorization": members.SOLO_AUTHORIZATION, "solo_video_ids": [ID]}))
+        with self.assertRaisesRegex(ValueError, "named guests cannot be reviewed as solo"):
+            self.import_local()
+        self.policy["records"][0]["guest_names"] = []
+        _, writes, rows = self.import_local()
+        row = rows[0]
+        self.assertEqual((row["speaker_classification"], row["content_origin"], row["evidence_role"]),
+                         ("solo-yuzheng", "yuzheng-spoken-source", "primary-speech"))
+        self.assertEqual((row["author"], row["license"], row["source_visibility"]),
+                         ("Yuzheng Sun", "LicenseRef-Lizheng-Reference-Use-1.0", "members-only"))
+        errors = []
+        validator.validate_member_video(row, self.policy, errors, frozenset({ID}))
+        self.assertEqual(errors, [])
+        errors = []
+        validator.validate_member_video(row, self.policy, errors)  # not reviewed: must stay mixed
+        self.assertTrue(any("mixed member transcript" in error for error in errors))
+
     def test_public_export_preserves_independent_member_snapshot(self):
         _, writes, _ = self.import_local()
         before = writes[0][0].read_bytes()
