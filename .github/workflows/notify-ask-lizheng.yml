@@ -1,0 +1,22 @@
+name: Notify 问问立正
+# Pushing main is a release (AGENTS.md). This asks ask-lizheng's update-context workflow to bring it in
+# right away; that workflow checks, syncs, rebuilds the index, tests, deploys and verifies. GitHub's
+# own schedule there never fired (2026-10-04/05), so a push no longer waits for it.
+# ASK_LIZHENG_DISPATCH_TOKEN is a fine-grained token for sunyuzheng/ask-lizheng with Actions: write
+# and nothing else; it can start that workflow, not change code.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions: {}
+concurrency:
+  group: notify-ask-lizheng
+  cancel-in-progress: true
+jobs:
+  notify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 3
+    steps:
+      - env:
+          GH_TOKEN: ${{ secrets.ASK_LIZHENG_DISPATCH_TOKEN }}
+        run: gh workflow run update-context.yml -R sunyuzheng/ask-lizheng --ref main

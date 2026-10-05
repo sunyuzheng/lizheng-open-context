@@ -34,7 +34,7 @@ This repository is a source-grounded public context pack, not a persona simulato
 
 ## Releases
 
-Pushing main is a release. Within about half an hour, ask-lizheng's `update-context` workflow copies it into 问问立正 (ask.lizheng.ai), rebuilds the search index and deploys it, unless a check fails. Push only what is ready to be answered from. To update 问问立正 at once, run `gh workflow run update-context.yml -R sunyuzheng/ask-lizheng`.
+Pushing main is a release. The push starts ask-lizheng's `update-context` workflow (`.github/workflows/notify-ask-lizheng.yml`), which copies it into 问问立正 (ask.lizheng.ai), rebuilds the search index and deploys it within a few minutes, unless a check fails. Push only what is ready to be answered from. To run it again by hand, `gh workflow run update-context.yml -R sunyuzheng/ask-lizheng`.
 
 ## Contributions
 
