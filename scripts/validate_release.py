@@ -590,7 +590,9 @@ def public_files() -> list[Path]:
         relative = path.relative_to(ROOT)
         if relative == Path("release-manifest.json"):
             continue
-        if any(part in {".git", ".source-cache", "__pycache__"} for part in relative.parts):
+        # .github holds this repository's own automation (it tells ask-lizheng a release is out); it is
+        # not release content, and the Ask's sync refuses hidden paths in the manifest.
+        if any(part in {".git", ".github", ".source-cache", "__pycache__"} for part in relative.parts):
             continue
         files.append(path)
     return sorted(files, key=lambda path: str(path.relative_to(ROOT)))

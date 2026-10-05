@@ -79,16 +79,10 @@
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 35
+      "files": 34
     }
   },
   "files": [
-    {
-      "path": ".github/workflows/notify-ask-lizheng.yml",
-      "bytes": 854,
-      "sha256": "01db48efb9bc39b55cb655fd9b30edba3dccaae83eab31c827eb43c89d102eeb",
-      "license": "MIT"
-    },
     {
       "path": ".gitignore",
       "bytes": 57,
@@ -175,8 +169,8 @@
     },
     {
       "path": "REUSE.toml",
-      "bytes": 23811,
-      "sha256": "535588b62771a4be9a3e21ccc3d96e32502b92c4826fa988ae7504bd152b5967",
+      "bytes": 23795,
+      "sha256": "1e7fc7a3cb883586c164d699eb76fefb165e51fae7fecebe05734cf6d73134fe",
       "license": null
     },
     {
@@ -5809,8 +5803,8 @@
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 60216,
-      "sha256": "7566c09b2f47df84cde6370875097facbf339d56bf99df8b7d96d39c2157107b",
+      "bytes": 60419,
+      "sha256": "384264abd5d3988eaa6692f712ca8c3bfe57197d4bf25de52a306009eb5a8c1d",
       "license": "MIT"
     },
     {

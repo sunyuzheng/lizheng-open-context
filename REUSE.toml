@@ -4,7 +4,6 @@ version = 1
 
 [[annotations]]
 path = [
-  ".github/**",
   ".gitignore",
   "AGENTS.md",
   "CHANGELOG.md",
