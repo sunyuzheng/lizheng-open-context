@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import importlib.util
+import json
 import tempfile
 import unittest
 from pathlib import Path
@@ -14,6 +15,39 @@ SPEC.loader.exec_module(MODULE)
 
 
 class ExportTests(unittest.TestCase):
+    def test_manual_original_language_wins_over_auto_translation(self):
+        with tempfile.TemporaryDirectory() as directory:
+            folder = Path(directory)
+            valid = "1\n00:00:00,000 --> 00:00:01,000\nfixture\n\n"
+            for name in ("sample.zh.srt", "sample.en.srt"):
+                (folder / name).write_text(valid)
+            (folder / "sample.info.json").write_text(json.dumps({"language": "zh-Hant", "subtitles": {"zh": [{}]}, "automatic_captions": {"en": [{"url": "https://example.com/?tlang=en"}]}}))
+            self.assertEqual(MODULE.choose_transcript_path(folder, "human").name, "sample.zh.srt")
+
+    def test_broken_final_does_not_hide_valid_corrected(self):
+        with tempfile.TemporaryDirectory() as directory:
+            folder = Path(directory)
+            (folder / "sample.final.srt").write_text("1\n00:00:03,000 --> 00:00:03,000\nfixture\n\n")
+            (folder / "sample.corrected.srt").write_text("1\n00:00:03,000 --> 00:00:04,000\nfixture\n\n")
+            self.assertEqual(MODULE.choose_transcript_path(folder, "corrected").name, "sample.corrected.srt")
+
+    def test_raw_original_transcript_wins_over_translated_auto_captions(self):
+        with tempfile.TemporaryDirectory() as directory:
+            folder = Path(directory)
+            valid = "1\n00:00:00,000 --> 00:00:01,000\nfixture\n\n"
+            for name in ("sample.qwen.srt", "sample.zh.srt"):
+                (folder / name).write_text(valid)
+            (folder / "sample.info.json").write_text(json.dumps({"language": "en", "subtitles": {}, "automatic_captions": {"zh": [{"url": "https://example.com/?tlang=zh"}]}}))
+            self.assertEqual(MODULE.choose_transcript_path(folder, "timed_unknown").name, "sample.qwen.srt")
+
+    def test_caption_validation_rejects_empty_backward_and_malformed_cues(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "sample.srt"
+            for value in ("1\n00:00:01,000 --> 00:00:02,000\n\n", "1\n00:99:00,000 --> 00:99:01,000\nfixture\n", "1\n00:00:02,000 --> 00:00:03,000\nfixture\n\n2\n00:00:01,000 --> 00:00:02,000\nsecond\n"):
+                path.write_text(value)
+                self.assertFalse(MODULE.transcript_structure_valid(path))
+                self.assertIsNone(MODULE.choose_transcript_path(path.parent, None))
+
     def test_html_conversion_keeps_structure_and_drops_unlabelled_image(self):
         source = '<h2>标题</h2><p>一段<strong>重要</strong>文字。</p><img src="secret.jpg"><ul><li>甲</li></ul>'
         result = MODULE.html_to_markdown(source)

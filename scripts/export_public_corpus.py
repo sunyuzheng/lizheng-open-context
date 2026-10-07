@@ -320,31 +320,78 @@ def choose_transcript_path(folder: Path, status: str | None) -> Path | None:
             candidates.extend(process_dir.glob("*.srt"))
             candidates.extend(process_dir.glob("*.vtt"))
     usable = sorted(
-        {path.resolve() for path in candidates if path.is_file() and path.stat().st_size > 20},
+        {path.resolve() for path in candidates if path.is_file() and path.stat().st_size > 20
+         and transcript_structure_valid(path)},
         key=str,
     )
     if not usable:
         return None
 
-    def score(path: Path) -> tuple[int, str]:
-        name = path.name.lower()
-        if name.endswith(".corrected.srt") or name.endswith(".final.srt"):
-            priority = 0
-        elif status == "human" and any(
-            marker in name for marker in (".zh-hans.", ".zh-hant.", ".zh.", ".en.")
-        ):
+    infos = sorted(folder.glob("*.info.json"))
+    info = json.loads(infos[0].read_text(encoding="utf-8")) if len(infos) == 1 else {}
+    manual = info.get("subtitles") or {}
+    automatic = info.get("automatic_captions") or {}
+    original_language = str(info.get("language") or "").split("-", 1)[0].lower()
+
+    def score(path: Path) -> tuple[int, int, int, str]:
+        name = path.name.lower().replace(".normalized.srt", ".srt")
+        language = next((key for key in sorted(set(manual) | set(automatic), key=len, reverse=True)
+                         if name.endswith(f".{key.lower()}{path.suffix.lower()}")), None)
+        family = str(language or "").split("-", 1)[0].lower()
+        language_rank = 0 if family and family == original_language else 1 if language is None else 2
+        if name.endswith((".corrected.srt", ".final.srt")):
+            priority = 0  # A filename is a claim, not proof of editorial accuracy.
+        elif language in manual and manual[language]:
             priority = 1
-        elif ".qwen." in name:
-            priority = 4
-        elif name.endswith(".srt"):
-            priority = 2
-        elif name.endswith(".vtt"):
+        elif name.endswith(".qwen.srt"):
             priority = 3
+        elif language in automatic:
+            entries = automatic[language]
+            translated = any("tlang=" in str(row.get("url", "")) for row in entries if isinstance(row, dict))
+            priority = 5 if translated else 4
         else:
-            priority = 5
-        return priority, str(path)
+            priority = 2
+        return priority, language_rank, 0 if path.suffix == ".srt" else 1, str(path)
 
     return min(usable, key=score)
+
+
+def transcript_structure_valid(path: Path) -> bool:
+    """Reject broken timing/empty cues before choosing among available tracks."""
+    try:
+        raw = path.read_text(encoding="utf-8-sig").replace("\r\n", "\n").replace("\r", "\n")
+        blocks = [block for block in re.split(r"\n[ \t]*\n+", raw.strip()) if block.strip()]
+        if path.suffix == ".vtt":
+            if not blocks or not blocks.pop(0).startswith("WEBVTT"):
+                return False
+        previous = -1.0
+        count = 0
+        for block in blocks:
+            lines = block.splitlines()
+            if path.suffix == ".vtt" and re.match(r"^(?:NOTE(?:[ \t]|$)|STYLE$|REGION$)", lines[0]):
+                continue
+            index = 1 if "-->" not in lines[0] else 0
+            if path.suffix == ".srt" and (index != 1 or not lines[0].isdigit()):
+                return False
+            if len(lines) <= index + 1:
+                return False
+            timing = re.fullmatch(r"(?:(\d+):)?([0-5]\d):([0-5]\d)[,.](\d{3})\s+-->\s+"
+                                  r"(?:(\d+):)?([0-5]\d):([0-5]\d)[,.](\d{3})(?:\s+[A-Za-z]+:\S+)*", lines[index])
+            if not timing:
+                return False
+            values = timing.groups()
+            start, end = [(int(values[i] or 0) * 3600 + int(values[i+1]) * 60
+                           + int(values[i+2]) + int(values[i+3]) / 1000) for i in (0, 4)]
+            # Angle-bracket annotations such as '< No Speech >' are source text,
+            # not HTML tags. Do not turn them into apparently empty captions.
+            text = html.unescape(re.sub(r"</?[A-Za-z][^>]*>|<\d{1,2}:\d{2}(?::\d{2})?\.\d{3}>", "", "\n".join(lines[index+1:]))).strip()
+            if not text or end <= start or start < previous:
+                return False
+            previous = start
+            count += 1
+        return bool(count)
+    except (OSError, UnicodeError, ValueError):
+        return False
 
 
 def timestamp_seconds(value: str) -> int:

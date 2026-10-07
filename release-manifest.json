@@ -48,8 +48,8 @@
     "community_comments_reviewed": 2519,
     "knowledge_bank_catalog": 169,
     "knowledge_bank_full_text": 36,
-    "video_catalog": 760,
-    "video_transcripts": 427,
+    "video_catalog": 761,
+    "video_transcripts": 428,
     "video_metadata_only": 333,
     "member_video_transcripts": 218,
     "member_video_solo_reviewed": 45,
@@ -63,7 +63,7 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 571
+      "files": 572
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
@@ -79,7 +79,7 @@
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 34
+      "files": 35
     }
   },
   "files": [
@@ -116,7 +116,7 @@
     {
       "path": "INDEX.md",
       "bytes": 6815,
-      "sha256": "14073cdbf18eb7c048703cf8758600016aaa06dbc69284e787ff2a13ec2512da",
+      "sha256": "bbadff022f0be461f18d944afc8721c4132a3e61fa4b4ca0d75673301e4d8cc8",
       "license": "CC0-1.0"
     },
     {
@@ -169,8 +169,8 @@
     },
     {
       "path": "REUSE.toml",
-      "bytes": 23795,
-      "sha256": "1e7fc7a3cb883586c164d699eb76fefb165e51fae7fecebe05734cf6d73134fe",
+      "bytes": 23838,
+      "sha256": "1440d90476b2e8e42ead09ea32cb9ba0354e106c22ed4fdb452d22e6839c7094",
       "license": null
     },
     {
@@ -229,8 +229,8 @@
     },
     {
       "path": "catalog/videos.jsonl",
-      "bytes": 1147352,
-      "sha256": "f5d93e4b8a75f24d4512ba1c2c72566fb7b6b1890f7eb1aa5aa33c70bdd35eb3",
+      "bytes": 1149282,
+      "sha256": "9dbe4d646c4bce751fda332cf4f8b3ba10450ba4dd2629b82e6502dae34315f6",
       "license": "CC0-1.0"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "path": "config/video-transcript-allowlist.txt",
-      "bytes": 2947,
-      "sha256": "64c1bcc7708b21f6229843f1bf8ac5a326526c1816ba4874966b757fb443b126",
+      "bytes": 3060,
+      "sha256": "519aa192c8c25e0d8dc6fe9eb90afaec26662b56c7c85b366daf6b5349fb8a1a",
       "license": "CC0-1.0"
     },
     {
@@ -5641,8 +5641,14 @@
     },
     {
       "path": "corpus/videos/20260925-kYuolIPDeRQ.md",
-      "bytes": 70643,
-      "sha256": "bb7afe27991c4005b44be645e84553f92363141e1a2455de11cea623b87a0eca",
+      "bytes": 71059,
+      "sha256": "255634abdc70e2ce5eccff71b056929f526947c48d65b957683fb34fa0b7e54e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/videos/20261006-qvbOuVEcSWs.md",
+      "bytes": 51785,
+      "sha256": "762699f29fce0cca5fdeb2caba131882b8b3bcc21a7326006c07ddd44f983868",
       "license": "CC-BY-4.0"
     },
     {
@@ -5731,8 +5737,8 @@
     },
     {
       "path": "index/videos.md",
-      "bytes": 138996,
-      "sha256": "f55cee927d0953ea606b13327f935bc89bd73de422e52e6d48be0f3730bb3974",
+      "bytes": 139182,
+      "sha256": "5034d59189aed99d35c51aec3d8c800b9ffc96e90ae90c1917106ac01cf1171b",
       "license": "CC0-1.0"
     },
     {
@@ -5755,8 +5761,8 @@
     },
     {
       "path": "scripts/export_public_corpus.py",
-      "bytes": 48123,
-      "sha256": "275a5c5f7ee7ec357aa78bae104583f337ca0f34ea7b8d3cb9f9157faa118897",
+      "bytes": 50943,
+      "sha256": "d472d3248f2fcaae3d7032d4a13150591398b3770417a0c4ab6734b4d5fe550f",
       "license": "MIT"
     },
     {
@@ -5790,6 +5796,12 @@
       "license": "MIT"
     },
     {
+      "path": "scripts/refresh_video_transcripts.py",
+      "bytes": 6427,
+      "sha256": "a5219d7d13068ce67c84c86b6b40d0a6a6baf6cc6cada8f9b922f387e3d77a45",
+      "license": "MIT"
+    },
+    {
       "path": "scripts/rights.py",
       "bytes": 7065,
       "sha256": "a33a6ded4a6766c79f4fac131a80c20f86689f7c7b7b78f0b9a604a9146024fd",
@@ -5815,8 +5827,8 @@
     },
     {
       "path": "tests/test_export.py",
-      "bytes": 5793,
-      "sha256": "f5374710042ca4869910115e62a75b0562d47d8b0cabb60db26674a59daca263",
+      "bytes": 8146,
+      "sha256": "5147a0294375505f07bd5a20aec84fa222043a7146d53127c8cd7e5d31737111",
       "license": "MIT"
     },
     {

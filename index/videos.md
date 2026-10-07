@@ -2,11 +2,11 @@
 
 # 视频目录
 
-立正 YouTube 频道「课代表立正」的 760 条视频，按发布时间从新到旧排列。其中 427 条有字幕全文：
+立正 YouTube 频道「课代表立正」的 761 条视频，按发布时间从新到旧排列。其中 428 条有字幕全文：
 
 | 类型 | 数量 | 字幕的许可 |
 | --- | ---: | --- |
-| 本人主讲（含 3 条早先收录的会员视频） | 206 | [CC BY 4.0](../LICENSES/CC-BY-4.0.txt) |
+| 本人主讲（含 3 条早先收录的会员视频） | 207 | [CC BY 4.0](../LICENSES/CC-BY-4.0.txt) |
 | 会员 · 本人主讲 | 45 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 会员 · 对话 | 170 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
 | 公开 · 对话 | 6 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
@@ -16,10 +16,11 @@
 
 机器可读：[catalog/videos.jsonl](../catalog/videos.jsonl)
 
-## 2026（100 条）
+## 2026（101 条）
 
 | 日期 | 视频 | 字幕 | 类型 |
 | --- | --- | --- | --- |
+| 2026-10-06 | [AI时代，为什么必须要做“个人网站”？](https://www.youtube.com/watch?v=qvbOuVEcSWs) | [全文](../corpus/videos/20261006-qvbOuVEcSWs.md) | 本人主讲 |
 | 2026-09-29 | [别人眼中的死局，他如何反复做成大生意？｜宝二爷](https://www.youtube.com/watch?v=gwPfRhi4lzo) | — | 只有目录 |
 | 2026-09-25 | [如何炒作一个AI概念？以Jev为例…](https://www.youtube.com/watch?v=kYuolIPDeRQ) | [全文](../corpus/videos/20260925-kYuolIPDeRQ.md) | 本人主讲 |
 | 2026-09-24 | [2026年了，大多数人仍然不理解自媒体的真正价值](https://www.youtube.com/watch?v=_h0ZHgeujpM) | — | 只有目录 |

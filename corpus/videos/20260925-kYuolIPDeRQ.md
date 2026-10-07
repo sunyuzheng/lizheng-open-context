@@ -5,7 +5,7 @@ author: "Yuzheng Sun"
 source_type: "video-transcript"
 source_url: "https://www.youtube.com/watch?v=kYuolIPDeRQ"
 published_at: "2026-09-25"
-snapshot_at: "2026-09-30"
+snapshot_at: "2026-10-07T06:33:32+00:00"
 rights_scope: "first-party"
 speaker_classification: "solo-yuzheng"
 review_status: "approved"
@@ -22,6 +22,11 @@ attribution_note: "立正主讲内容的转录；只将他本人明确表达的�
 source_family: "https://www.youtube.com/watch?v=kYuolIPDeRQ"
 language: "zh"
 source_context: "Public presentation; quoted or discussed community material is contextual third-party evidence."
+transcript_source_sha256: "63a1b07979fbc98ca8dd0e6dfc7dc140ec79d9fb51e343abab2d39d8ba24882d"
+transcript_text_review_status: "text-reviewed"
+transcript_audio_review_status: "not-listened"
+transcript_structure_status: "passed"
+transcript_precision_review_status: "not-certified"
 ---
 
 <!-- provenance:start -->
@@ -30,7 +35,7 @@ source_context: "Public presentation; quoted or discussed community material is 
 
 # 如何炒作一个AI概念？以Jev为例…
 
-> 字幕可能有转写错误，请以原视频为准；其中引文仍归原作者。
+> [观看原视频](https://www.youtube.com/watch?v=kYuolIPDeRQ) · 字幕状态：`human`。字幕文字已复核；未逐字听校，请以原视频为准。许可不覆盖发言中引用的第三方材料。
 
 [00:00:00](https://www.youtube.com/watch?v=kYuolIPDeRQ&t=0s) 今天我们来讲清楚
 

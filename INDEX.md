@@ -13,7 +13,7 @@
 | Statsig博客文章中文版 | 19 篇 | [按日期](index/statsig-blog.md) | [corpus/blog-posts/](corpus/blog-posts/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 社区帖子 | 252 篇 | [按年份](index/community-posts.md) | [corpus/community-posts/](corpus/community-posts/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 社区评论 | 10 条 | [在帖子目录末尾](index/community-posts.md#评论10-条) | [corpus/community-comments/](corpus/community-comments/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
-| 视频字幕：本人主讲 | 206 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| 视频字幕：本人主讲 | 207 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 视频字幕：会员视频 · 本人主讲 | 45 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 视频字幕：会员视频 · 对话 | 170 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
 | 视频字幕：公开视频 · 对话 | 6 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
@@ -29,7 +29,7 @@
 
 | 资料 | 数量 | 目录页 | 机器可读 | 说明 |
 | --- | ---: | --- | --- | --- |
-| 视频目录 | 760 条 | [视频目录](index/videos.md) | [catalog/videos.jsonl](catalog/videos.jsonl) | 333 条只有目录、没有字幕 |
+| 视频目录 | 761 条 | [视频目录](index/videos.md) | [catalog/videos.jsonl](catalog/videos.jsonl) | 333 条只有目录、没有字幕 |
 | Knowledge Bank | 169 篇 | [Knowledge Bank 目录](index/knowledge-bank.md) | [catalog/knowledge-bank.jsonl](catalog/knowledge-bank.jsonl) | 立正的 36 篇有全文，其他作者只列标题和链接 |
 
 目录数据（`catalog/`、`config/`、`index/` 和本页）按[CC0 1.0](LICENSES/CC0-1.0.txt)开放。
