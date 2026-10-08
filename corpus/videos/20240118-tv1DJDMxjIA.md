@@ -5,7 +5,7 @@ author: "Yuzheng Sun"
 source_type: "video-transcript"
 source_url: "https://www.youtube.com/watch?v=tv1DJDMxjIA"
 published_at: "2024-01-18T06:13:39Z"
-snapshot_at: "2026-09-15"
+snapshot_at: "2026-10-08T19:50:10+00:00"
 rights_scope: "first-party"
 speaker_classification: "solo-yuzheng"
 review_status: "approved"
@@ -22,6 +22,14 @@ attribution_note: "立正主讲内容的转录；只将他本人明确表达的�
 source_family: "https://www.youtube.com/watch?v=tv1DJDMxjIA"
 language: "zh"
 source_context: "Public presentation; quoted or discussed community material is contextual third-party evidence."
+transcript_source_sha256: "6f57b199fe02b195554c81164038518f1cebe1ee6a062411216354019e92deb5"
+transcript_text_review_status: "actual-edits-root-reviewed"
+transcript_root_review_sha256: "2ecb9a9f2e7a837118b8818dd4073770a8538a55e5308e3554fa37c8dd64a495"
+transcript_root_output_sha256: "522d2bb013bbb4b3e6b49a1f894178a722db0db8374056ec5ee8580b05247e8d"
+transcript_original_source_full_read: true
+transcript_edit_generation_method: "AI text correction with root actual-change review"
+transcript_audio_review_status: "not-reviewed"
+transcript_precision_review_status: "not-certified"
 ---
 
 <!-- provenance:start -->
@@ -30,7 +38,7 @@ source_context: "Public presentation; quoted or discussed community material is 
 
 # 显著增加networking成功率的小技巧
 
-> [观看原视频](https://www.youtube.com/watch?v=tv1DJDMxjIA) · 字幕状态：`local_corrected`。字幕可能有转写错误，请以原视频为准。许可不覆盖发言中引用的第三方材料。
+> [观看原视频](https://www.youtube.com/watch?v=tv1DJDMxjIA) · 字幕状态：`local_corrected`。AI 文字改动已复核，原字幕全文已读；未逐字听校，准确性未认证，请以原视频为准。许可不覆盖发言中引用的第三方材料。
 
 [00:00:00](https://www.youtube.com/watch?v=tv1DJDMxjIA&t=0s) 先跟大家介绍一下向上社交唯一重要的一件
 
@@ -40,7 +48,7 @@ source_context: "Public presentation; quoted or discussed community material is 
 
 [00:00:08](https://www.youtube.com/watch?v=tv1DJDMxjIA&t=8s) 就是 warm introduction
 
-[00:00:10](https://www.youtube.com/watch?v=tv1DJDMxjIA&t=10s) 的作用你去 code reach
+[00:00:10](https://www.youtube.com/watch?v=tv1DJDMxjIA&t=10s) 的作用你去 cold reach
 
 [00:00:11](https://www.youtube.com/watch?v=tv1DJDMxjIA&t=11s) out 很多时候是没有什么成功率的那这个
 
@@ -94,7 +102,7 @@ source_context: "Public presentation; quoted or discussed community material is 
 
 [00:01:19](https://www.youtube.com/watch?v=tv1DJDMxjIA&t=79s) 年轻人 blah blah 这样的话你
 
-[00:01:21](https://www.youtube.com/watch?v=tv1DJDMxjIA&t=81s) 肯定是没有贵人运的相声社交完了以后
+[00:01:21](https://www.youtube.com/watch?v=tv1DJDMxjIA&t=81s) 肯定是没有贵人运的向上社交完了以后
 
 [00:01:24](https://www.youtube.com/watch?v=tv1DJDMxjIA&t=84s) 记得 follow up 这个我们在之前
 

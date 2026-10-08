@@ -5,7 +5,7 @@ author: "Yuzheng Sun"
 source_type: "video-transcript"
 source_url: "https://www.youtube.com/watch?v=qNuCmwWPWUE"
 published_at: "2022-08-26T04:24:59Z"
-snapshot_at: "2026-09-15"
+snapshot_at: "2026-10-08T19:50:10+00:00"
 rights_scope: "first-party"
 speaker_classification: "solo-yuzheng"
 review_status: "approved"
@@ -22,6 +22,14 @@ attribution_note: "立正主讲内容的转录；只将他本人明确表达的�
 source_family: "https://www.youtube.com/watch?v=qNuCmwWPWUE"
 language: "zh"
 source_context: "Public presentation; quoted or discussed community material is contextual third-party evidence."
+transcript_source_sha256: "9494f1beef36d2920e89ba910159c72a63cc8d7799cc5fd81ec717d5efe69108"
+transcript_text_review_status: "actual-edits-root-reviewed"
+transcript_root_review_sha256: "b3f0c91a8d584a8384f67fdf3eb46e7052d49b0da1bb2e2abdfdab30a17fe383"
+transcript_root_output_sha256: "a708987f988092f69f58ace574441c7485738db74bc8a63f42bcf5b6ca9aac19"
+transcript_original_source_full_read: true
+transcript_edit_generation_method: "AI text correction with root actual-change review"
+transcript_audio_review_status: "not-reviewed"
+transcript_precision_review_status: "not-certified"
 ---
 
 <!-- provenance:start -->
@@ -30,7 +38,7 @@ source_context: "Public presentation; quoted or discussed community material is 
 
 # 如何喜欢上自己的工作？
 
-> [观看原视频](https://www.youtube.com/watch?v=qNuCmwWPWUE) · 字幕状态：`timed_unknown`。字幕可能有转写错误，请以原视频为准。许可不覆盖发言中引用的第三方材料。
+> [观看原视频](https://www.youtube.com/watch?v=qNuCmwWPWUE) · 字幕状态：`timed_unknown`。AI 文字改动已复核，原字幕全文已读；未逐字听校，准确性未认证，请以原视频为准。许可不覆盖发言中引用的第三方材料。
 
 [00:00:00](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=0s) Hello 大家好
 
@@ -70,7 +78,7 @@ source_context: "Public presentation; quoted or discussed community material is 
 
 [00:00:54](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=54s) 我就很担心会不会哪一天我意志力不够用
 
-[00:00:57](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=57s) 而直接去崩盘百滥出现什么问题呢
+[00:00:57](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=57s) 而直接去崩盘摆烂出现什么问题呢
 
 [00:01:01](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=61s) 这个事情让我焦虑好几天
 
@@ -186,7 +194,7 @@ source_context: "Public presentation; quoted or discussed community material is 
 
 [00:03:23](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=203s) 我的第一反应是我应该去做一下
 
-[00:03:25](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=205s) 我的自信竟然而然的就起来了
+[00:03:25](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=205s) 我的自信自然而然的就起来了
 
 [00:03:28](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=208s) 决定我工作自信和舒服程度的最大因素
 
@@ -230,7 +238,7 @@ source_context: "Public presentation; quoted or discussed community material is 
 
 [00:04:07](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=247s) 才能产出好的工作结果的
 
-[00:04:09](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=249s) 你在张实有度的时候
+[00:04:09](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=249s) 你在张弛有度的时候
 
 [00:04:11](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=251s) 一样能产出很有价值
 
@@ -304,9 +312,9 @@ source_context: "Public presentation; quoted or discussed community material is 
 
 [00:05:21](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=321s) 好了 这期视频就到这里
 
-[00:05:23](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=323s) 这里是客带把雷照
+[00:05:23](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=323s) 这里是课代表立正
 
-[00:05:24](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=324s) 用实力帮你生日加薪
+[00:05:24](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=324s) 用实力帮你升职加薪
 
 [00:05:25](https://www.youtube.com/watch?v=qNuCmwWPWUE&t=325s) 谢谢大家
 
