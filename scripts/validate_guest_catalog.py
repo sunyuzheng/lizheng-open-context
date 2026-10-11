@@ -14,6 +14,7 @@ SLUG = re.compile(r"[a-z0-9][a-z0-9-]*\Z")
 TYPES = {"person", "group", "virtual-character", "anonymous-label", "unresolved"}
 PROFILE_STRINGS = {"guest_en_name", "guest_title", "guest_company", "guest_bio", "guest_bio_en", "interview_date"}
 PROFILE_URLS = {"xiaohongshu_url", "linkedin_url", "youtube_playlist_url"}
+MEMBER_FIELDS = frozenset({"name", "en_name", "entity_id"})
 CATALOG_FIELDS = frozenset({"participant_entity_ids", "participant_names", "participant_aliases", "participant_metadata_basis", "attribution_note"})
 
 
@@ -83,7 +84,7 @@ def validate_catalog(catalog, articles):
         require(isinstance(catalog[name], list), "catalog_array_invalid")
     entities, sources, slugs, pairs = {}, {}, {}, set()
     required = {"entity_id", "entity_type", "display_name", "aliases", "slug", "alias_slugs", "primary_source_id", "thumbnail_url"}
-    allowed = required | PROFILE_STRINGS | PROFILE_URLS | {"community_resources"}
+    allowed = required | PROFILE_STRINGS | PROFILE_URLS | {"community_resources", "members"}
     for e in catalog["entities"]:
         require(isinstance(e, dict) and required <= set(e) <= allowed, "entity_fields_invalid")
         eid = e["entity_id"]
@@ -106,6 +107,21 @@ def validate_catalog(catalog, articles):
             require(r["kind"] in {"guest_post", "student_resource", "event"} and all(isinstance(v, str) for v in r.values()), "resource_type_invalid")
             url(r["url"])
         entities[eid] = e
+    for e in entities.values():
+        # A group names its members; a member who has their own page links to it by entity_id.
+        if e["entity_type"] != "group":
+            require("members" not in e, "members_only_for_groups")
+            continue
+        require(isinstance(e.get("members"), list), "group_members_required")
+        names = set()
+        for m in e["members"]:
+            require(isinstance(m, dict) and "name" in m and set(m) <= MEMBER_FIELDS
+                    and all(isinstance(v, str) and v.strip() == v and v for v in m.values()), "member_fields_invalid")
+            require(m["name"] not in names, "member_duplicate")
+            names.add(m["name"])
+            if "entity_id" in m:
+                target = entities.get(m["entity_id"])
+                require(target is not None and target["entity_type"] == "person", "member_entity_invalid")
     for s in catalog["sources"]:
         required = {"source_id", "video_id", "source_type", "url", "title", "thumbnail_url"}
         require(isinstance(s, dict) and required <= set(s) <= required | {"published_at", "view_count", "metadata_verified_at"}, "source_fields_invalid")
@@ -135,6 +151,10 @@ def validate_catalog(catalog, articles):
             primaries.add(pair[0])
         pairs.add(pair); covered.add(pair[1])
     require(primaries == set(entities) and covered == set(sources), "catalog_coverage_incomplete")
+    for e in entities.values():
+        for m in e.get("members", []):
+            if "entity_id" in m:
+                require(all((m["entity_id"], sid) in pairs for gid, sid in pairs if gid == e["entity_id"]), "member_appearance_missing")
     redirects = set()
     for r in catalog["redirects"]:
         require(set(r) == {"from_entity_id", "canonical_entity_id"} and ENTITY.fullmatch(r["from_entity_id"]) and r["canonical_entity_id"] in entities and r["from_entity_id"] not in entities and r["from_entity_id"] not in redirects, "redirect_invalid")

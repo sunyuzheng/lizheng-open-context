@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Derive every catalog field that repeats a fact owned elsewhere, so no copy is edited by hand.
 
-Owners: catalog/guests.json holds people, programmes and who appeared where;
+Owners: catalog/guests.json holds people, groups and their members, programmes and who appeared where;
 config/public-dialogue-policy.json holds which structured transcripts are public;
 config/speaker-names.json holds the host's names. From them this module rewrites the copies in
-catalog/videos.jsonl (guest names, programme titles, the structured transcript path), numbers each
-person's appearances by date, and writes the shared name table catalog/guest-names.json that the
+catalog/videos.jsonl (guest names, programme titles, the structured transcript path), lists a
+group's programmes on the pages of members who have their own, numbers each person's appearances
+by date, and writes the shared name table catalog/guest-names.json that the
 website and Context Infra read. `python3 scripts/validate_release.py --write-manifest` runs it;
 validation fails while any copy is stale.
 """
@@ -64,6 +65,62 @@ def participants(catalog: dict) -> dict[str, list[str]]:
     return relation
 
 
+def member_appearances(catalog: dict) -> dict:
+    """A member who has their own page also appears in every programme of their group."""
+    have = {(row["entity_id"], row["source_id"]) for row in catalog["appearances"]}
+    primary = {entity["entity_id"]: entity["primary_source_id"] for entity in catalog["entities"]}
+    extra = []
+    for group in catalog["entities"]:
+        for member in group.get("members", []):
+            member_id = member.get("entity_id")
+            if not member_id:
+                continue
+            for row in catalog["appearances"]:
+                if row["entity_id"] == group["entity_id"] and (member_id, row["source_id"]) not in have:
+                    have.add((member_id, row["source_id"]))
+                    extra.append({"entity_id": member_id, "source_id": row["source_id"], "index": 0,
+                                  "is_primary": primary.get(member_id) == row["source_id"]})
+    return {**catalog, "appearances": [*catalog["appearances"], *extra]}
+
+
+def name_parts(text: str) -> list[str]:
+    """The separate names a group's display name or alias lists (Koji & Monica, The Tech Roast Show（Austin、Jesse、Nikita）)."""
+    match = PARENTHETICAL.match(text)
+    base = match["base"].strip() if match else text
+    parts = []
+    for piece in ([base, match["inner"]] if match else [base]):
+        split = [part.strip() for part in MEMBER_SEPARATOR.split(piece) if part.strip()]
+        if len(split) > 1:
+            parts.extend(split)
+    return parts
+
+
+def membership_errors(catalog: dict) -> list[str]:
+    """A group's declared members and the names its display name and aliases list must agree."""
+    entities = {entity["entity_id"]: entity for entity in catalog["entities"]}
+    errors = []
+    for group in catalog["entities"]:
+        if group["entity_type"] != "group":
+            continue
+        members = group.get("members", [])
+        known = set()
+        for member in members:
+            keys = {name_key(member["name"])} | ({name_key(member["en_name"])} if member.get("en_name") else set())
+            if member.get("entity_id") in entities:
+                person = entities[member["entity_id"]]
+                keys |= {name_key(text) for text in [person["display_name"], *person["aliases"]]}
+            known |= keys
+        listed = {name_key(part) for text in [group["display_name"], *group["aliases"]] for part in name_parts(text)}
+        missing = sorted(listed - known)
+        if missing:
+            errors.append(f"{group['entity_id']} lists names that are not declared members: {', '.join(missing)}")
+        for member in members:
+            keys = {name_key(member["name"])} | ({name_key(member["en_name"])} if member.get("en_name") else set())
+            if not keys & listed and not member.get("entity_id"):
+                errors.append(f"{group['entity_id']} member {member['name']} is not named by the group")
+    return errors
+
+
 def ordered_appearances(catalog: dict) -> dict:
     """Number each person's appearances 0, 1, 2… from their earliest programme."""
     dates = {source["source_id"]: source.get("published_at") or "" for source in catalog["sources"]}
@@ -117,16 +174,16 @@ def entity_names(entity: dict) -> tuple[list[tuple[str, str]], list[str]]:
             found.append((base, "base"))
             inner = [part for part in MEMBER_SEPARATOR.split(match["inner"]) if part.strip()]
             if entity["entity_type"] == "group" and len(inner) > 1:
-                found.extend((part, "member") for part in inner)
+                pass  # the members, declared explicitly below
             elif name_key(match["inner"]) not in alias_keys:
                 # A nickname, channel or programme label: it tells namesakes apart, and
                 # people also search by it (宝二爷, Charisma, 品酒课).
                 found.append((match["inner"].strip(), "qualifier"))
                 qualifiers.append(match["inner"].strip())
-        if entity["entity_type"] == "group":
-            parts = [part for part in MEMBER_SEPARATOR.split(base) if part.strip()]
-            if len(parts) > 1:
-                found.extend((part, "member") for part in parts)
+    for member in entity.get("members", []):
+        # A member with their own page is found through it; the others find the group.
+        if not member.get("entity_id"):
+            found.extend((name, "member") for name in (member["name"], member.get("en_name")) if name)
     for part in COMPANY_SEPARATOR.split(entity.get("guest_company") or ""):
         if part.strip():
             qualifiers.append(part.strip())
@@ -183,7 +240,10 @@ def name_table(catalog: dict, speakers: dict) -> dict:
 
 def outputs(root: Path = ROOT) -> dict[str, str]:
     """Every derived file's expected text, from the owning files as they are now."""
-    catalog = ordered_appearances(read_json(root / GUESTS))
+    catalog = ordered_appearances(member_appearances(read_json(root / GUESTS)))
+    errors = membership_errors(catalog)
+    if errors:
+        raise ValueError("; ".join(errors))
     speakers = read_json(root / SPEAKERS)
     if speakers.get("schema_version") != 1 or not speakers.get("speakers"):
         raise ValueError("config/speaker-names.json is invalid")

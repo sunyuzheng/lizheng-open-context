@@ -12,9 +12,12 @@ derive = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(derive)
 
 
-def entity(entity_id, display, aliases, entity_type="person", company=""):
-    return {"entity_id": entity_id, "entity_type": entity_type, "display_name": display, "aliases": aliases,
-            "guest_company": company}
+def entity(entity_id, display, aliases, entity_type="person", company="", members=None, primary=""):
+    row = {"entity_id": entity_id, "entity_type": entity_type, "display_name": display, "aliases": aliases,
+           "guest_company": company, "primary_source_id": primary}
+    if members is not None:
+        row["members"] = members
+    return row
 
 
 CATALOG = {
@@ -22,8 +25,10 @@ CATALOG = {
     "entities": [
         entity("guest:leo-a", "Leo（Charisma）", ["Leo", "Leo（Charisma）"]),
         entity("guest:leo-b", "Leo（The Union）", ["Leo", "Leo（The Union）"], company="Bar · Cafe"),
-        entity("guest:pair", "王臻 & Nick", ["王臻 & Nick"], entity_type="group"),
-        entity("guest:show", "Roast（Austin、Jesse）", ["Roast（Austin、Jesse）"], entity_type="group"),
+        entity("guest:pair", "王臻 & Nick", ["王臻 & Nick", "Wang Zhen & Nick"], entity_type="group",
+               members=[{"name": "王臻", "en_name": "Wang Zhen"}, {"name": "Nick"}]),
+        entity("guest:show", "Roast（Austin、Jesse）", ["Roast（Austin、Jesse）"], entity_type="group",
+               members=[{"name": "Austin"}, {"name": "Jesse"}]),
         entity("guest:howie", "硅谷徐老师（Howie Xu）", ["硅谷徐老师（Howie Xu）", "Howie Xu"]),
     ],
     "sources": [
@@ -84,7 +89,7 @@ class NameTableTests(unittest.TestCase):
         self.assertEqual(names["leo"]["entity_ids"], ["guest:leo-a", "guest:leo-b"])
         self.assertEqual(names["硅谷徐老师"]["entity_ids"], ["guest:howie"])
         self.assertIn("base", names["硅谷徐老师"]["kinds"])
-        for member in ("王臻", "nick", "austin", "jesse"):
+        for member in ("王臻", "wangzhen", "nick", "austin", "jesse"):
             self.assertIn("member", names[member]["kinds"], member)
         self.assertEqual(names["charisma"]["entity_ids"], ["guest:leo-a"])
         # A parenthetical that is already an alias is a name, not a qualifier.
@@ -106,6 +111,41 @@ class NameTableTests(unittest.TestCase):
         speakers = {"schema_version": 1, "speakers": [{"speaker_id": "yuzheng", "role": "host", "names": ["立正"]}]}
         names = {row["key"]: row for row in derive.name_table(catalog, speakers)["names"]}
         self.assertEqual(names["multifire"]["entity_ids"], ["guest:leon", "guest:lulu"])
+
+
+class MembershipTests(unittest.TestCase):
+    def catalog(self, members, aliases=("Leo & Mandy",)):
+        return {**CATALOG, "entities": [*CATALOG["entities"], entity("guest:mandy", "Mandy", ["Mandy"], primary="youtube-BBBBBBBBBBB"),
+                                        entity("guest:duo", "Leo & Mandy", list(aliases), entity_type="group", members=members)],
+                "appearances": [*CATALOG["appearances"],
+                                {"entity_id": "guest:mandy", "source_id": "youtube-BBBBBBBBBBB", "index": 0, "is_primary": True},
+                                {"entity_id": "guest:duo", "source_id": "youtube-AAAAAAAAAAA", "index": 0, "is_primary": True}]}
+
+    def test_a_member_with_a_page_appears_in_every_group_programme(self):
+        catalog = derive.member_appearances(self.catalog([{"name": "Leo", "entity_id": "guest:leo-a"}, {"name": "Mandy", "entity_id": "guest:mandy"}]))
+        pairs = {(row["entity_id"], row["source_id"]): row["is_primary"] for row in catalog["appearances"]}
+        self.assertIn(("guest:mandy", "youtube-AAAAAAAAAAA"), pairs)
+        self.assertFalse(pairs[("guest:mandy", "youtube-AAAAAAAAAAA")])
+        # Leo already appears there; nothing is duplicated.
+        self.assertEqual(sum(1 for row in catalog["appearances"] if row["entity_id"] == "guest:leo-a"), 2)
+        self.assertEqual(derive.member_appearances(catalog)["appearances"], catalog["appearances"])
+
+    def test_member_names_find_their_own_page_not_the_group(self):
+        speakers = {"schema_version": 1, "speakers": [{"speaker_id": "yuzheng", "role": "host", "names": ["立正"]}]}
+        catalog = self.catalog([{"name": "Leo", "entity_id": "guest:leo-a"}, {"name": "Mandy", "entity_id": "guest:mandy"}])
+        names = {row["key"]: row for row in derive.name_table(catalog, speakers)["names"]}
+        self.assertEqual(names["mandy"]["entity_ids"], ["guest:mandy"])
+        self.assertEqual(names["leo"]["entity_ids"], ["guest:leo-a", "guest:leo-b"])
+        self.assertEqual(names["leomandy"]["entity_ids"], ["guest:duo"])
+
+    def test_declared_members_and_listed_names_must_agree(self):
+        self.assertEqual(derive.membership_errors(self.catalog([{"name": "Leo", "entity_id": "guest:leo-a"}, {"name": "Mandy", "entity_id": "guest:mandy"}])), [])
+        errors = derive.membership_errors(self.catalog([{"name": "Leo", "entity_id": "guest:leo-a"}]))
+        self.assertIn("not declared members: mandy", errors[0])
+        errors = derive.membership_errors(self.catalog([{"name": "Leo"}, {"name": "Mandy"}, {"name": "Someone"}]))
+        self.assertIn("member Someone is not named by the group", errors[0])
+        # English names in aliases count when declared as en_name.
+        self.assertEqual(derive.membership_errors({**CATALOG}), [])
 
 
 class RepositoryTests(unittest.TestCase):

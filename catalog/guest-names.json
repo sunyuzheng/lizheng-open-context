@@ -893,11 +893,9 @@
       "key": "leo",
       "entity_ids": [
         "guest:leo-charisma",
-        "guest:leo-mandy",
         "guest:leo-union-trading-company"
       ],
       "kinds": [
-        "member",
         "alias",
         "base"
       ]
@@ -1099,11 +1097,9 @@
       "name": "Mandy",
       "key": "mandy",
       "entity_ids": [
-        "guest:leo-mandy",
         "guest:mandy"
       ],
       "kinds": [
-        "member",
         "display"
       ]
     },

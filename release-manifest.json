@@ -111,8 +111,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 17942,
-      "sha256": "267365a1f2d0b810f3a23d25367b304d97a62b544f51051f8d502f61c2a30449",
+      "bytes": 18298,
+      "sha256": "96d9c4913e89c78e4797e34ff417a5ea36001b379550297dfac7ec65a1a53543",
       "license": "MIT"
     },
     {
@@ -243,14 +243,14 @@
     },
     {
       "path": "catalog/guest-names.json",
-      "bytes": 68414,
-      "sha256": "312a478fba63484176ccf1987796bfcd336cd403cde90ca58b5b74ab9add4862",
+      "bytes": 68324,
+      "sha256": "0db58810e0998f72a1f7cb88fe5b2f09cfe24635dfca238adadd33392e79423d",
       "license": "CC0-1.0"
     },
     {
       "path": "catalog/guests.json",
-      "bytes": 316960,
-      "sha256": "7e93f4f457a3e2cf2675f63b1b8742dc1b30cc4f292e951ac3d86c84fafd96a9",
+      "bytes": 318142,
+      "sha256": "b8229cc70a6d5cf8c5f08dae753376265d8353bf666a543c2a703c23883d222e",
       "license": "CC0-1.0"
     },
     {
@@ -7749,8 +7749,8 @@
     },
     {
       "path": "docs/conversation-architecture.md",
-      "bytes": 6023,
-      "sha256": "0009e4424f0b6fbdc3cfde6b08384040597f9a2e8f8ddcbc7c219924b09faca1",
+      "bytes": 6083,
+      "sha256": "aa18514eb0a8dbf1422a535c5cb3ae17c2be8a0c26e7b8c19d4bcf4e261e2bf9",
       "license": "MIT"
     },
     {
@@ -7779,8 +7779,8 @@
     },
     {
       "path": "docs/source-model.md",
-      "bytes": 5921,
-      "sha256": "29492f34bc4dcb6b3ef865a37701426ba500aa6d6722c3ba39e575b20663ce0f",
+      "bytes": 6626,
+      "sha256": "2c39b4ad7fd7b76cc19fb1d63b92aa3de3ef53037177c1b11a3b0f45dd49cf27",
       "license": "MIT"
     },
     {
@@ -7869,8 +7869,8 @@
     },
     {
       "path": "scripts/derive_catalogs.py",
-      "bytes": 10965,
-      "sha256": "719157bb2bc28a04f7cefc8fd3740ff104db9fe14427a7dfb59a1205a56e9eb8",
+      "bytes": 14165,
+      "sha256": "f44fd75aa47ebc4097fb0a892129f92918db0e2fc6db6ce439cf6129aa3c2d83",
       "license": "MIT"
     },
     {
@@ -7959,8 +7959,8 @@
     },
     {
       "path": "scripts/validate_guest_catalog.py",
-      "bytes": 12290,
-      "sha256": "2e27c4ddc6ddf1db822c0a7e06ad3be47bd6e88571b461fbfbd1123561248cb3",
+      "bytes": 13482,
+      "sha256": "ce7154aff7237650d2f1ffa164ba2bab685c0c60137fefcb8c7c9d007c24f3b3",
       "license": "MIT"
     },
     {
@@ -7977,8 +7977,8 @@
     },
     {
       "path": "tests/test_derive_catalogs.py",
-      "bytes": 7119,
-      "sha256": "c3b6bd6727b7dbed272a0a98b0717bc1447473454bd0fef5738b022ce006d2ea",
+      "bytes": 10215,
+      "sha256": "2d6f71d8b4f407ab555b984d53800a2282caeae654ac9df35207410306a6cd1f",
       "license": "MIT"
     },
     {
@@ -8007,8 +8007,8 @@
     },
     {
       "path": "tests/test_guest_catalog.py",
-      "bytes": 8325,
-      "sha256": "5687c2733d9b70cdcde498080d63db0281dd1b123edfbda66e096d819602ae29",
+      "bytes": 10580,
+      "sha256": "9497390ff4a890c84cc403b0e6dcf5fcc2daeb63955116b88c1e057dcf4548c8",
       "license": "MIT"
     },
     {

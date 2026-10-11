@@ -25,6 +25,35 @@ class CatalogTests(unittest.TestCase):
         c["entities"].append(e); c["appearances"].append({**c["appearances"][0], "entity_id": "guest:beta"})
         self.assertEqual(v.validate_catalog(c, a)["appearances"], 2)
 
+    def group(self, members):
+        c, a = fixture(); e = copy.deepcopy(c["entities"][0])
+        e.update(entity_id="guest:duo", slug="duo", alias_slugs=["duo"], display_name="Alpha & Beta", entity_type="group", members=members)
+        c["entities"].append(e); c["appearances"].append({**c["appearances"][0], "entity_id": "guest:duo"})
+        return c, a
+
+    def test_group_members_are_declared_and_linked_to_people(self):
+        c, a = self.group([{"name": "Alpha", "entity_id": "guest:alpha"}, {"name": "Beta", "en_name": "Beta"}])
+        self.assertEqual(v.validate_catalog(c, a)["entities"], 2)
+        for members, code in [(None, "group_members_required"), ([{"name": "Alpha", "role": "host"}], "member_fields_invalid"),
+                              ([{"name": " Alpha"}], "member_fields_invalid"), ([{"name": "Alpha"}, {"name": "Alpha"}], "member_duplicate"),
+                              ([{"name": "Ghost", "entity_id": "guest:ghost"}], "member_entity_invalid"),
+                              ([{"name": "Self", "entity_id": "guest:duo"}], "member_entity_invalid")]:
+            with self.subTest(code=code):
+                c, a = self.group(members)
+                if members is None:
+                    c["entities"][1].pop("members")
+                with self.assertRaisesRegex(ValueError, code): v.validate_catalog(c, a)
+        c, a = fixture(); c["entities"][0]["members"] = []
+        with self.assertRaisesRegex(ValueError, "members_only_for_groups"): v.validate_catalog(c, a)
+
+    def test_a_linked_member_lists_every_group_programme(self):
+        c, a = self.group([{"name": "Alpha", "entity_id": "guest:alpha"}])
+        extra = {**c["sources"][0], "source_id": "youtube-bbbbbbbbbbb", "video_id": "bbbbbbbbbbb", "url": "https://www.youtube.com/watch?v=bbbbbbbbbbb"}
+        c["sources"].append(extra); c["appearances"].append({"entity_id": "guest:duo", "source_id": extra["source_id"], "index": 1, "is_primary": False})
+        with self.assertRaisesRegex(ValueError, "member_appearance_missing"): v.validate_catalog(c, a)
+        c["appearances"].append({"entity_id": "guest:alpha", "source_id": extra["source_id"], "index": 1, "is_primary": False})
+        self.assertEqual(v.validate_catalog(c, a)["appearances"], 4)
+
     def test_duplicate_entity_or_pair(self):
         for field in ("entities", "appearances", "sources"):
             c, a = fixture(); c[field].append(copy.deepcopy(c[field][0]))

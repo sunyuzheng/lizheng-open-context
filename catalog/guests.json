@@ -908,7 +908,15 @@
       "thumbnail_url": "https://img.youtube.com/vi/77nmgqFMCME/hqdefault.jpg",
       "guest_en_name": "Koji & Monica",
       "guest_company": "CrossRoad Podcast / Onboard",
-      "guest_title": "Cofounders / Investors"
+      "guest_title": "Cofounders / Investors",
+      "members": [
+        {
+          "name": "Koji"
+        },
+        {
+          "name": "Monica"
+        }
+      ]
     },
     {
       "entity_id": "guest:ryo-lu",
@@ -1019,7 +1027,25 @@
       "thumbnail_url": "https://img.youtube.com/vi/PucrhAhOu74/hqdefault.jpg",
       "guest_en_name": "Mark Chen / Li Ming / Shen Xinyang / Zhong Yuan",
       "guest_company": "Amazon",
-      "guest_title": "Science Managers @ Amazon"
+      "guest_title": "Science Managers @ Amazon",
+      "members": [
+        {
+          "name": "陈茂茂",
+          "en_name": "Mark Chen"
+        },
+        {
+          "name": "李明",
+          "en_name": "Li Ming"
+        },
+        {
+          "name": "沈心洋",
+          "en_name": "Shen Xinyang"
+        },
+        {
+          "name": "钟远",
+          "en_name": "Zhong Yuan"
+        }
+      ]
     },
     {
       "entity_id": "guest:jiakan-wang",
@@ -1915,7 +1941,8 @@
       "thumbnail_url": "https://img.youtube.com/vi/DP3N1YyGmG8/hqdefault.jpg",
       "guest_en_name": "SVTC",
       "guest_company": "",
-      "guest_title": "Data Scientist"
+      "guest_title": "Data Scientist",
+      "members": []
     },
     {
       "entity_id": "guest:su",
@@ -1972,7 +1999,16 @@
       "thumbnail_url": "https://img.youtube.com/vi/osZDEDx8fyE/hqdefault.jpg",
       "guest_en_name": "Wang Zhen & Nick",
       "guest_company": "花生经济 (Huasheng Economy)",
-      "guest_title": "创始人 & 股东"
+      "guest_title": "创始人 & 股东",
+      "members": [
+        {
+          "name": "王臻",
+          "en_name": "Wang Zhen"
+        },
+        {
+          "name": "Nick"
+        }
+      ]
     },
     {
       "entity_id": "guest:chen-hao",
@@ -2178,7 +2214,17 @@
       "thumbnail_url": "https://img.youtube.com/vi/tX-Zq4VquLI/hqdefault.jpg",
       "guest_en_name": "Leo & Mandy",
       "guest_company": "",
-      "guest_title": ""
+      "guest_title": "",
+      "members": [
+        {
+          "name": "Leo",
+          "entity_id": "guest:leo-charisma"
+        },
+        {
+          "name": "Mandy",
+          "entity_id": "guest:mandy"
+        }
+      ]
     },
     {
       "entity_id": "guest:lou-yang",
@@ -2513,7 +2559,18 @@
       "thumbnail_url": "https://img.youtube.com/vi/XoyE0eQZYh0/hqdefault.jpg",
       "guest_en_name": "Tech Roast Show",
       "guest_company": "The Tech Roast Show",
-      "guest_title": "Comedians and co-creators"
+      "guest_title": "Comedians and co-creators",
+      "members": [
+        {
+          "name": "Austin"
+        },
+        {
+          "name": "Jesse"
+        },
+        {
+          "name": "Nikita"
+        }
+      ]
     },
     {
       "entity_id": "guest:zero-liu",
@@ -2607,7 +2664,16 @@
       "thumbnail_url": "https://img.youtube.com/vi/ll-X6xP-t8Y/hqdefault.jpg",
       "guest_en_name": "Vera & Lili",
       "guest_company": "Lumitails（光尾物语）",
-      "guest_title": "Pet community creators"
+      "guest_title": "Pet community creators",
+      "members": [
+        {
+          "name": "Vera"
+        },
+        {
+          "name": "粒粒",
+          "en_name": "Lili"
+        }
+      ]
     },
     {
       "entity_id": "guest:changmaotu",
