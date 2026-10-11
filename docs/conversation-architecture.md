@@ -34,7 +34,7 @@ flowchart LR
 
 本地素材库采集媒体、转写、校对并保留过程证据。公开版本进入Open Context，通过`release-manifest.json`固定文件、数量、许可和hash。
 
-网站从指定commit与manifest生成一份部署快照。Context Infra从同一release生成语料副本与索引。缓存、向量、排序和回答是消费者的产物，可按需重建。资料修改回到Open Context，检索策略和产品功能修改在消费者中进行。
+网站从指定commit与manifest一起生成目录快照和版本记录，构建校验实际快照hash。Context Infra先验证完整候选语料与固定版本记录，再替换构建副本并生成索引。消费者各自通过Git提交和部署发布固定版本，最终验收核对两处实际使用的release。缓存、向量、排序和回答是消费者的产物，可按需重建。资料修改回到Open Context，检索策略和产品功能修改在消费者中进行。
 
 ## 更新流程
 
