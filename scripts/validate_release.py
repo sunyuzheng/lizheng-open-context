@@ -844,14 +844,6 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
         if "@" in body:
             errors.append(f"{row.get('id')}: comment contains an unredacted mention")
 
-    readme = (ROOT / "README.md").read_text(encoding="utf-8")
-    for value, label in (
-        (len(community_post_rows), "篇"),
-        (len(community_comment_rows), "条"),
-    ):
-        if f"{value} {label}" not in readme:
-            errors.append(f"README.md does not state current {value} {label} corpus count")
-
     for row in video_rows:
         is_member = row.get("video_id") in member_ids
         # One of the six public conversations the publisher opened on 2026-10-04 (checked above).

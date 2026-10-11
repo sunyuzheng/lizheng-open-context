@@ -4,10 +4,12 @@ Open Context is the shared public data repository for Lizheng's source texts and
 
 ## Data ownership
 
+- Published originals and media are the primary evidence. Open Context owns their traceable records; preserve the source URL, publication date, captured version and actual authorship when calibrating text or facts.
 - Maintain public guest identities, names, aliases, programmes and participation in `catalog/guests.json`; maintain published reading links in `catalog/guest-articles.json`.
 - Preserve stable entity and source IDs. Update facts at their owner, then regenerate consumer snapshots.
 - Keep faithful text, timestamps, speaker attribution, quality and provenance in `corpus/`. Maintain AI summaries and reading aids separately, linked to their sources.
 - Keep media, private drafts, processing evidence and local caches with their owning projects.
+- Build correctness from stable IDs, source relationships, separate raw and derived layers, and pinned consumer snapshots. Generate counts from data. Tests verify these contracts; adding checks is not a substitute for fixing data ownership or an ambiguous model.
 
 ## Answering
 
