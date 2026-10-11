@@ -15,6 +15,17 @@ SPEC.loader.exec_module(MODULE)
 
 
 class ExportTests(unittest.TestCase):
+    def test_guest_import_uses_explicit_relations_not_name_similarity(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "guests.json"
+            path.write_text(json.dumps({"schema_version": 1,
+                "entities": [{"entity_id": "person:a", "display_name": "Jo"}, {"entity_id": "person:b", "display_name": "John"}],
+                "sources": [{"source_id": "s1", "video_id": "video-a"}, {"source_id": "s2", "video_id": "video-b"}],
+                "appearances": [{"source_id": "s1", "entity_id": "person:a"}, {"source_id": "s2", "entity_id": "person:b"}]}))
+            self.assertEqual(MODULE.load_guests(path), ({"video-a", "video-b"}, {"video-a": ["Jo"], "video-b": ["John"]}))
+            path.write_text("[]")
+            with self.assertRaises(ValueError): MODULE.load_guests(path)
+
     def test_manual_original_language_wins_over_auto_translation(self):
         with tempfile.TemporaryDirectory() as directory:
             folder = Path(directory)

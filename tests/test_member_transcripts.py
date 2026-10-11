@@ -139,7 +139,7 @@ class MemberTranscriptTests(unittest.TestCase):
         channel = Path(self.temp.name) / "channel"
         (channel / "logs/library_manifest").mkdir(parents=True)
         (channel / "logs/library_manifest/library_manifest.json").write_text('{"records": []}')
-        (channel / "guests.json").write_text("[]")
+        (self.root / "catalog/guests.json").write_text(json.dumps({"schema_version": 1, "entities": [], "sources": [], "appearances": []}))
         with patch.object(exporter, "ROOT", self.root):
             exporter.export_videos(channel, "2026-10-03", {}, set())
         self.assertEqual(writes[0][0].read_bytes(), before)

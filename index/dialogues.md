@@ -99,7 +99,7 @@
 | 2025-01-16 | [在2018年就all in AI的谷歌，为什么落后了？](../corpus/dialogues/youtube-0yKwvwtYwMg.json) | 硅谷徐老师（Howie Xu） | 0 | [原视频](https://www.youtube.com/watch?v=0yKwvwtYwMg) |
 | 2024-12-21 | [AI 的 2024：ChatGPT的停滞不前与Agent的日新月异](../corpus/dialogues/youtube-BeX7DdSRihM.json) | 鸭哥 | 4 | [原视频](https://www.youtube.com/watch?v=BeX7DdSRihM) |
 | 2024-12-21 | [工作最重要的是自洽？｜中国大厂 vs 美国创业公司](../corpus/dialogues/youtube-9_JsesmzJ9U.json) | 边璐 | 2 | [原视频](https://www.youtube.com/watch?v=9_JsesmzJ9U) |
-| 2024-12-11 | [看遍世界教育体系，领悟的教育的真谛｜LuluLeon聊教育-下](../corpus/dialogues/youtube-Tec54wr1vCc.json) | Leon；Lulu | 0 | [原视频](https://www.youtube.com/watch?v=Tec54wr1vCc) |
+| 2024-12-11 | [看遍世界教育体系，领悟的教育的真谛｜LuluLeon聊教育-下](../corpus/dialogues/youtube-Tec54wr1vCc.json) | Leon；Lulu（Multi-FIRE） | 0 | [原视频](https://www.youtube.com/watch?v=Tec54wr1vCc) |
 | 2024-12-04 | [如何渡过历史的垃圾时间？](../corpus/dialogues/youtube-jgEzuc0Le5k.json) | 目录未列姓名 | 1 | [原视频](https://www.youtube.com/watch?v=jgEzuc0Le5k) |
 | 2024-11-26 | [凭什么招人比Google还严？｜用AI颠覆自己才能活下去？ ｜Databricks Cofounder Reynold Xin访谈\_下](../corpus/dialogues/youtube-cM8TlLVEVWU.json) | Reynold Xin | 0 | [原视频](https://www.youtube.com/watch?v=cM8TlLVEVWU) |
 | 2024-11-19 | [十年估值三千亿，创始人首次揭秘，如何识别并抓住机会？｜Databricks Cofounder Reynold访谈\_上](../corpus/dialogues/youtube-GIv0I-34aaI.json) | Reynold Xin | 0 | [原视频](https://www.youtube.com/watch?v=GIv0I-34aaI) |
@@ -121,8 +121,8 @@
 | 2024-08-02 | [如何判断市场需求的真伪？｜Vivian 访谈 2/2](../corpus/dialogues/youtube-2L9ReWu-sZc.json) | Vivian Wang | 2 | [原视频](https://www.youtube.com/watch?v=2L9ReWu-sZc) |
 | 2024-07-31 | [前高管解密升职加薪的游戏规则 -- 情绪价值｜Vivian 访谈 1/2](../corpus/dialogues/youtube-q7t4_UM8J74.json) | Vivian Wang | 0 | [原视频](https://www.youtube.com/watch?v=q7t4_UM8J74) |
 | 2024-07-29 | [亚马逊前VP：我需要的是谋臣和大使](../corpus/dialogues/youtube-AcRLM5S-4Bw.json) | Ethan Evans | 0 | [原视频](https://www.youtube.com/watch?v=AcRLM5S-4Bw) |
-| 2024-07-13 | [如何让约会体验自然丝滑？｜约会真心话 2/2](../corpus/dialogues/youtube-yQHaRpBbymw.json) | Leo Mandy | 0 | [原视频](https://www.youtube.com/watch?v=yQHaRpBbymw) |
-| 2024-07-10 | [识别并破解两性关系中的道德绑架｜约会原理真心话 1/2](../corpus/dialogues/youtube-nTTj3z3QiyU.json) | Leo Mandy | 0 | [原视频](https://www.youtube.com/watch?v=nTTj3z3QiyU) |
+| 2024-07-13 | [如何让约会体验自然丝滑？｜约会真心话 2/2](../corpus/dialogues/youtube-yQHaRpBbymw.json) | Leo & Mandy；Leo（Charisma）；Mandy | 0 | [原视频](https://www.youtube.com/watch?v=yQHaRpBbymw) |
+| 2024-07-10 | [识别并破解两性关系中的道德绑架｜约会原理真心话 1/2](../corpus/dialogues/youtube-nTTj3z3QiyU.json) | Leo & Mandy；Leo（Charisma）；Mandy | 0 | [原视频](https://www.youtube.com/watch?v=nTTj3z3QiyU) |
 | 2024-06-28 | [投资人不看「AI 创业」了？｜行业洞察方法论｜大观资本Richer 2/2](../corpus/dialogues/youtube-y5V8wrmp09I.json) | Richer | 2 | [原视频](https://www.youtube.com/watch?v=y5V8wrmp09I) |
 | 2024-06-26 | [投资人解析，短剧为什么这么火？｜ 大观资本Richer 1/2](../corpus/dialogues/youtube-rVnrixEfNMM.json) | Richer | 2 | [原视频](https://www.youtube.com/watch?v=rVnrixEfNMM) |
 | 2024-06-20 | [圈内秘籍：职场本质是权力的游戏？\| 数据团队如何做出影响力？｜前创业公司数据负责人Angelina](../corpus/dialogues/youtube-tJXIGeu6wXQ.json) | Angelina Yang | 0 | [原视频](https://www.youtube.com/watch?v=tJXIGeu6wXQ) |
@@ -190,10 +190,10 @@
 | 2023-10-06 | [提升判断力秘籍！](../corpus/dialogues/youtube-J2Yx5DDSNYc.json) | 目录未列姓名 | 1 | [原视频](https://www.youtube.com/watch?v=J2Yx5DDSNYc) |
 | 2023-10-04 | [满分征友启事！](../corpus/dialogues/youtube-JZCoScCpxL0.json) | Freya（征友自述） | 2 | [原视频](https://www.youtube.com/watch?v=JZCoScCpxL0) |
 | 2023-10-03 | [对ChatGPT的神预言是如何做出的？](../corpus/dialogues/youtube-DmZqpGm6Wdw.json) | 目录未列姓名 | 1 | [原视频](https://www.youtube.com/watch?v=DmZqpGm6Wdw) |
-| 2023-10-02 | [约会给人坏体验，有何不可？\| @charisma-Leo 4/4](../corpus/dialogues/youtube-UsMKU7qcywY.json) | Leon | 1 | [原视频](https://www.youtube.com/watch?v=UsMKU7qcywY) |
-| 2023-10-01 | [如何区别真假自信？\| @charisma-Leo 3/4](../corpus/dialogues/youtube-FBodpxppwfc.json) | Leon | 4 | [原视频](https://www.youtube.com/watch?v=FBodpxppwfc) |
-| 2023-09-30 | [如何丝滑地展示自己社交标签？｜@charisma-Leo 2/4](../corpus/dialogues/youtube-PHIhRTl2HHs.json) | Leon | 0 | [原视频](https://www.youtube.com/watch?v=PHIhRTl2HHs) |
-| 2023-09-29 | [如何请Leo多教我一些魅力之道？\| @charisma-Leo 聊天1/4](../corpus/dialogues/youtube-bcWYOkDa66k.json) | Leon | 0 | [原视频](https://www.youtube.com/watch?v=bcWYOkDa66k) |
+| 2023-10-02 | [约会给人坏体验，有何不可？\| @charisma-Leo 4/4](../corpus/dialogues/youtube-UsMKU7qcywY.json) | Leo（Charisma） | 1 | [原视频](https://www.youtube.com/watch?v=UsMKU7qcywY) |
+| 2023-10-01 | [如何区别真假自信？\| @charisma-Leo 3/4](../corpus/dialogues/youtube-FBodpxppwfc.json) | Leo（Charisma） | 4 | [原视频](https://www.youtube.com/watch?v=FBodpxppwfc) |
+| 2023-09-30 | [如何丝滑地展示自己社交标签？｜@charisma-Leo 2/4](../corpus/dialogues/youtube-PHIhRTl2HHs.json) | Leo（Charisma） | 0 | [原视频](https://www.youtube.com/watch?v=PHIhRTl2HHs) |
+| 2023-09-29 | [如何请Leo多教我一些魅力之道？\| @charisma-Leo 聊天1/4](../corpus/dialogues/youtube-bcWYOkDa66k.json) | Leo（Charisma） | 0 | [原视频](https://www.youtube.com/watch?v=bcWYOkDa66k) |
 | 2023-09-28 | [如何成熟面对新挑战？Meta Staff Eng的经验](../corpus/dialogues/youtube-CUvzoZKdFBk.json) | 目录未列姓名 | 2 | [原视频](https://www.youtube.com/watch?v=CUvzoZKdFBk) |
 | 2023-09-27 | [人生最大的真相｜Riley 3/5](../corpus/dialogues/youtube-4iKB7_YH1wc.json) | Riley Shu | 1 | [原视频](https://www.youtube.com/watch?v=4iKB7_YH1wc) |
 | 2023-09-27 | [陈哲：如何培养审美，用机器学习的方法？](../corpus/dialogues/youtube--iLBagRDlUE.json) | 陈哲 | 1 | [原视频](https://www.youtube.com/watch?v=-iLBagRDlUE) |
@@ -232,9 +232,9 @@
 | 2023-07-13 | [钻石保值吗？为什么你到手亏一半？](../corpus/dialogues/youtube-Nq5lcXdYZ5c.json) | 苏总 | 6 | [原视频](https://www.youtube.com/watch?v=Nq5lcXdYZ5c) |
 | 2023-07-11 | [用钻石的价格，揭穿营销的真谛](../corpus/dialogues/youtube-knYtrRDxl9I.json) | 苏总 | 1 | [原视频](https://www.youtube.com/watch?v=knYtrRDxl9I) |
 | 2023-07-10 | [网红到底多赚钱？](../corpus/dialogues/youtube-niRGfSqtIac.json) | 杨帆 | 3 | [原视频](https://www.youtube.com/watch?v=niRGfSqtIac) |
-| 2023-07-07 | [珠宝销售如何让你冲动消费？](../corpus/dialogues/youtube-y3UuCqmLJYk.json) | Lulu | 2 | [原视频](https://www.youtube.com/watch?v=y3UuCqmLJYk) |
+| 2023-07-07 | [珠宝销售如何让你冲动消费？](../corpus/dialogues/youtube-y3UuCqmLJYk.json) | Lulu（水贝珠宝） | 2 | [原视频](https://www.youtube.com/watch?v=y3UuCqmLJYk) |
 | 2023-07-03 | [如何自洽？｜得觉访谈1/2](../corpus/dialogues/youtube-JyC1qluOzFw.json) | 赵冠然 | 2 | [原视频](https://www.youtube.com/watch?v=JyC1qluOzFw) |
-| 2023-06-30 | [全网最真诚的红蓝宝石一手科普｜深水行业如何判断价值？](../corpus/dialogues/youtube-Q6c06h2Y4e8.json) | Lulu | 2 | [原视频](https://www.youtube.com/watch?v=Q6c06h2Y4e8) |
+| 2023-06-30 | [全网最真诚的红蓝宝石一手科普｜深水行业如何判断价值？](../corpus/dialogues/youtube-Q6c06h2Y4e8.json) | Lulu（水贝珠宝） | 2 | [原视频](https://www.youtube.com/watch?v=Q6c06h2Y4e8) |
 | 2023-06-26 | [打工人喝茶的好处？｜工夫茶非遗传承采访2/3](../corpus/dialogues/youtube-77yo5GQr1pQ.json) | 詹冬业 | 2 | [原视频](https://www.youtube.com/watch?v=77yo5GQr1pQ) |
 | 2023-06-23 | [真诚是面试第一要义](../corpus/dialogues/youtube-apFYcIzJ1jY.json) | 光叔 光芒 | 0 | [原视频](https://www.youtube.com/watch?v=apFYcIzJ1jY) |
 | 2023-06-15 | [原来有意义的人生这么短？｜Mutiple-Fire系列](../corpus/dialogues/youtube-u4DpfGx-9i0.json) | Leon | 0 | [原视频](https://www.youtube.com/watch?v=u4DpfGx-9i0) |

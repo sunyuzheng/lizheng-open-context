@@ -839,13 +839,19 @@ def export_knowledge_bank(
 
 
 def load_guests(path: Path) -> tuple[set[str], dict[str, list[str]]]:
+    """Read explicit source relationships from the owning public directory."""
+    catalog = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(catalog, dict) or catalog.get("schema_version") != 1:
+        raise ValueError("Expected the shared guest catalog")
+    entities = {e["entity_id"]: e for e in catalog["entities"]}
+    sources = {s["source_id"]: s for s in catalog["sources"]}
     guest_ids: set[str] = set()
     names: dict[str, list[str]] = {}
-    for guest in json.loads(path.read_text(encoding="utf-8")):
-        guest_name = guest.get("guest_name") or guest.get("guest_en_name") or "嘉宾"
-        for video_id in guest.get("all_video_ids") or []:
+    for row in catalog["appearances"]:
+        video_id = sources[row["source_id"]]["video_id"]
+        if video_id:
             guest_ids.add(video_id)
-            names.setdefault(video_id, []).append(guest_name)
+            names.setdefault(video_id, []).append(entities[row["entity_id"]]["display_name"])
     return guest_ids, names
 
 
@@ -942,7 +948,7 @@ def export_videos(
     transcript_allowlist: set[str],
 ) -> dict[str, int]:
     manifest_path = channel_root / "logs" / "library_manifest" / "library_manifest.json"
-    guest_path = channel_root / "guests.json"
+    guest_path = ROOT / "catalog" / "guests.json"
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     guest_ids, guest_names = load_guests(guest_path)
     records = [record for record in manifest["records"] if eligible_video(record)]
