@@ -15,7 +15,7 @@
 | `scripts/` | 校验、导入、目录生成与本地搜索 | 维护和使用资料 |
 | `docs/` | 数据合同、引用协议与开发说明 | 接入不同产品 |
 
-`catalog/guests.json`分别保存实体、来源与参与关系，`catalog/guest-articles.json`保存已发表伴读文章的链接。人物ID稳定，姓名、别名、介绍和链接可持续校准。结构化对谈原稿保留字幕单元及各自的时间码、发言者和质量。
+`catalog/guests.json`分别保存实体、来源与参与关系，`catalog/guest-articles.json`保存已发表伴读文章的链接，`catalog/guest-names.json`是由它们生成的名字表。人物ID稳定，姓名、别名、介绍和链接可持续校准。结构化对谈原稿保留字幕单元及各自的时间码、发言者和质量。
 
 当前资料数量、时间与许可由数据生成，见[目录](INDEX.md)；文件版本由[`release-manifest.json`](release-manifest.json)固定。
 

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "note": "Names that refer to a speaker who is not a guest. Context Infra reads them, through catalog/guest-names.json, to check that an answer names a speaker only where a source supports it.",
+  "speakers": [
+    {
+      "speaker_id": "yuzheng",
+      "role": "host",
+      "names": ["立正", "孙煜征", "煜征", "课代表立正", "Yuzheng Sun", "Yuzheng"]
+    }
+  ]
+}

@@ -98,16 +98,30 @@ def provenance_fields(meta: dict) -> dict[str, str]:
         meta.get("source_family") or meta.get("original_source_url")
         or meta.get("source_url") or meta.get("url") or meta.get("id") or ""
     )
+    # Three layers: raw text, structured catalog records (people, programmes, discovery entries),
+    # and derived AI writing. A catalog record locates a source; it carries no speech.
     fields["data_layer"] = str(meta.get("data_layer") or (
         "derived" if str(meta.get("content_origin") or "").startswith("ai-")
         or meta.get("source_type") in {"context", "book-framework", "video-translation", "video-annotation"}
+        else "structured" if is_catalog_record(meta)
         else "raw"
     ))
-    if not fields["speaker_id"] and meta.get("speaker_classification") in {"solo-yuzheng", "yuzheng-turns-reviewed"}:
+    if fields["data_layer"] == "structured":
+        fields.update(speaker_id="", speaker_name="", speaker_status="not-speech")
+    elif not fields["speaker_id"] and meta.get("speaker_classification") in {"solo-yuzheng", "yuzheng-turns-reviewed"}:
+        # A solo talk is attributed as a whole file: what he reads aloud or plays from others also
+        # carries his speaker ID, so quoted material still needs its context.
         fields.update(speaker_id="yuzheng", speaker_name="立正", speaker_status="reviewed-source-attribution")
     elif not fields["speaker_id"] and meta.get("speaker_classification") in {"mixed-speakers", "mixed-or-unresolved"}:
         fields.update(speaker_id="unknown", speaker_status="unresolved")
     return fields
+
+
+def is_catalog_record(meta: dict) -> bool:
+    """A catalog row without its own text: a discovery entry, not a source body."""
+    return (meta.get("content_origin") == "metadata-only"
+            or meta.get("evidence_role") in {"discovery-only", "metadata-only"}
+            or str(meta.get("source_type") or "").endswith("-catalog"))
 
 
 TIMED_CUE = re.compile(r"(?m)^\[(\d{2}:\d{2}:\d{2})\]\((https://www\.youtube\.com/watch\?v=[^)]+)\)\s+(.+)$")
@@ -426,7 +440,8 @@ def load_documents() -> list[Document]:
                 section="", source_type="programme-catalog", source_url=source["url"],
                 published_at=source.get("published_at", ""), text="",
                 path="catalog/guests.json", source_family=source["url"],
-                evidence_role="metadata-only", license="CC0-1.0",
+                evidence_role="metadata-only", license="CC0-1.0", data_layer="structured",
+                speaker_status="not-speech",
             ))
         docs = apply_guest_catalog(docs)
     return docs
@@ -652,7 +667,7 @@ def parse_args() -> argparse.Namespace:
         help="open: only CC BY 4.0 text and CC0 catalog entries, for products that charge or need free reuse",
     )
     parser.add_argument("--json", action="store_true", dest="as_json")
-    parser.add_argument("--layer", choices=["all", "raw", "derived"], default="all")
+    parser.add_argument("--layer", choices=["all", "raw", "structured", "derived"], default="all")
     return parser.parse_args()
 
 

@@ -63,10 +63,11 @@
     "knowledge_bank_full_text": 36,
     "video_catalog": 761,
     "video_transcripts": 428,
-    "video_metadata_only": 333,
+    "video_dialogue_transcripts": 331,
+    "video_metadata_only": 11,
     "member_video_transcripts": 218,
     "member_video_solo_reviewed": 45,
-    "known_guest_videos": 347,
+    "known_guest_videos": 387,
     "english_community_catalog": 50,
     "english_community_full_text_files": 49,
     "english_community_original_yuzheng": 11,
@@ -80,7 +81,7 @@
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
-      "files": 39
+      "files": 41
     },
     "LicenseRef-Lizheng-Reference-Use-1.0": {
       "text": "LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md",
@@ -92,7 +93,7 @@
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 50
+      "files": 52
     }
   },
   "files": [
@@ -104,14 +105,14 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 4106,
-      "sha256": "c759f518cdf298f6efb4ae02a14b67066ccea2b030ebb1ffb0d1635af3e8ca46",
+      "bytes": 4387,
+      "sha256": "68ed3d20dc66491ebe8d5130bcd42e1e119751d98a0c33588e16bb069bc357da",
       "license": "MIT"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 17318,
-      "sha256": "9f31f8c15c4a6b0e9eb71bd55379eb4a99a1aaecd2ae16ab569ff430af743a89",
+      "bytes": 17942,
+      "sha256": "267365a1f2d0b810f3a23d25367b304d97a62b544f51051f8d502f61c2a30449",
       "license": "MIT"
     },
     {
@@ -128,8 +129,8 @@
     },
     {
       "path": "INDEX.md",
-      "bytes": 7210,
-      "sha256": "70bd6a67cff11ff7215940d40d828d22f33d71df317aff94db8bacb5c6b50899",
+      "bytes": 7209,
+      "sha256": "4b1f457b90efdc7b30f7e0c4dae4d0af3af2c34e25d38bd1abf224c943c6d0e3",
       "license": "CC0-1.0"
     },
     {
@@ -176,8 +177,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4383,
-      "sha256": "edac38d8125277d0834260b5a6b8d019f17b6c40b48f06e740e5c40baf523572",
+      "bytes": 4442,
+      "sha256": "f125dbf9376b6183234d2df578b8e3af2ca6b97bff29668571a4d831364cd05e",
       "license": "MIT"
     },
     {
@@ -241,9 +242,15 @@
       "license": "CC0-1.0"
     },
     {
+      "path": "catalog/guest-names.json",
+      "bytes": 68414,
+      "sha256": "312a478fba63484176ccf1987796bfcd336cd403cde90ca58b5b74ab9add4862",
+      "license": "CC0-1.0"
+    },
+    {
       "path": "catalog/guests.json",
-      "bytes": 316964,
-      "sha256": "41264c04eba2749c6e5f5e24ba3f0ace657ef828d3de78cbe26e0527457f16ce",
+      "bytes": 316960,
+      "sha256": "7e93f4f457a3e2cf2675f63b1b8742dc1b30cc4f292e951ac3d86c84fafd96a9",
       "license": "CC0-1.0"
     },
     {
@@ -254,8 +261,8 @@
     },
     {
       "path": "catalog/videos.jsonl",
-      "bytes": 1153570,
-      "sha256": "aba775909d21633dd5dcb1ef1c8fe455fca7a4a4972f6c99ba55bb10580055b6",
+      "bytes": 1207585,
+      "sha256": "c9cb3f6c692cec2b1bbd1d0fc306cb431486c734193e8ded8264c9ea78c45486",
       "license": "CC0-1.0"
     },
     {
@@ -322,6 +329,12 @@
       "path": "config/source-section-layers.json",
       "bytes": 5145,
       "sha256": "a6f563dad52c309b3dcefc16a1033733b9603323dfbbca426336e4991c3980a9",
+      "license": "CC0-1.0"
+    },
+    {
+      "path": "config/speaker-names.json",
+      "bytes": 402,
+      "sha256": "a1435e76261fb86e03c149e50c685d8509761ec9549afad21b1aad88a414e1a4",
       "license": "CC0-1.0"
     },
     {
@@ -7736,14 +7749,14 @@
     },
     {
       "path": "docs/conversation-architecture.md",
-      "bytes": 5754,
-      "sha256": "28c9b28a43d9a2d9244e33183489836608dccad2a9ec604028903bd2e84dacb9",
+      "bytes": 6023,
+      "sha256": "0009e4424f0b6fbdc3cfde6b08384040597f9a2e8f8ddcbc7c219924b09faca1",
       "license": "MIT"
     },
     {
       "path": "docs/dialogue-ingestion.md",
-      "bytes": 2515,
-      "sha256": "94178fdc2c81354ddd2837f3c3a8791456d03f53a55a51eb030ab991f67d3b06",
+      "bytes": 2535,
+      "sha256": "85ae56dceda5de517a80ad7dfaddd83fc08c29e09d701d665f3617a8574a6330",
       "license": "MIT"
     },
     {
@@ -7766,8 +7779,8 @@
     },
     {
       "path": "docs/source-model.md",
-      "bytes": 4236,
-      "sha256": "760f85c90885fd3732aa9b1900794c89ff680166ec0ff44ccde015f5420be0ed",
+      "bytes": 5921,
+      "sha256": "29492f34bc4dcb6b3ef865a37701426ba500aa6d6722c3ba39e575b20663ce0f",
       "license": "MIT"
     },
     {
@@ -7832,8 +7845,8 @@
     },
     {
       "path": "index/videos.md",
-      "bytes": 139194,
-      "sha256": "1b3e53bbd8aaecfbfaf891e939110bfff6ab1d0ecf4f4855851795678287b9c2",
+      "bytes": 155904,
+      "sha256": "7001001417f3b3226de37e158b6ffd5f2cd871be0160ed418873d0dd90440846",
       "license": "CC0-1.0"
     },
     {
@@ -7850,8 +7863,14 @@
     },
     {
       "path": "scripts/build_index.py",
-      "bytes": 34397,
-      "sha256": "26f1f0b2b18a37964fa26ec0e78860cf9502aa8ee978b4b4ad3fc752f21b5a50",
+      "bytes": 34896,
+      "sha256": "c76e228a04b04c228b5577d36badd35083abd6c5f0bb1f3de32067a275692bb0",
+      "license": "MIT"
+    },
+    {
+      "path": "scripts/derive_catalogs.py",
+      "bytes": 10965,
+      "sha256": "719157bb2bc28a04f7cefc8fd3740ff104db9fe14427a7dfb59a1205a56e9eb8",
       "license": "MIT"
     },
     {
@@ -7928,8 +7947,8 @@
     },
     {
       "path": "scripts/search.py",
-      "bytes": 37276,
-      "sha256": "364e94e15772aa7a28854ca1238767d3e9550c9d9c732f5a45ffb67af14744ea",
+      "bytes": 38244,
+      "sha256": "94051df04e44ac9669d50e5552c75e85b158429d63bc3887d090ca956cba2405",
       "license": "MIT"
     },
     {
@@ -7946,14 +7965,20 @@
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 62148,
-      "sha256": "d65717bed6eb07016f84e9256f664bb0cac7dde91d4b2d2966ceb4ab29fb87aa",
+      "bytes": 64197,
+      "sha256": "54f4235db070d25c1003ef998981e60e9da3b5ed9043b5ec003dca61028a755a",
       "license": "MIT"
     },
     {
       "path": "tests/test_chinese_editions.py",
       "bytes": 5865,
       "sha256": "5f799bcfef26ef52a5fc219efdebd62560ae6c17b65236f97c0dadb64f253ed3",
+      "license": "MIT"
+    },
+    {
+      "path": "tests/test_derive_catalogs.py",
+      "bytes": 7119,
+      "sha256": "c3b6bd6727b7dbed272a0a98b0717bc1447473454bd0fef5738b022ce006d2ea",
       "license": "MIT"
     },
     {
@@ -8042,8 +8067,8 @@
     },
     {
       "path": "tests/test_search.py",
-      "bytes": 3253,
-      "sha256": "858facf24b9d58be0e24ed6d6424de3e2cae319c6ccbe51414cf70765a68e391",
+      "bytes": 4293,
+      "sha256": "d16ee3bd39a600f549db00f112483ca6bbadcfcef73256d2ef0769edcff6bbdb",
       "license": "MIT"
     },
     {

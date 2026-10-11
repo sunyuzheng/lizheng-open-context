@@ -14,8 +14,9 @@ from pathlib import Path
 from urllib.parse import unquote
 
 import build_index
+import derive_catalogs
 from dialogue_policy import validate_dialogues
-from validate_guest_catalog import validate_guest_catalog
+from validate_guest_catalog import programme_participants, validate_guest_catalog
 import rights
 import search as source_search
 from rights import REFERENCE_USE, RETAINED
@@ -277,8 +278,10 @@ def validate_excerpt_quotes(path: Path, video_id: str, transcript: Path, errors:
 
 
 def validate_values_conversations(video_rows: list[dict], excerpt_rows: list[dict], policy: dict,
-                                  member_ids: set[str], errors: list[str]) -> set[str]:
+                                  member_ids: set[str], errors: list[str],
+                                  participant_name_keys: dict[str, set[str]] | None = None) -> set[str]:
     """The six public conversation transcripts and the reviewed excerpts of Yuzheng's own turns, exactly as pinned."""
+    participant_name_keys = participant_name_keys or {}
     if not (excerpt_rows or policy):
         return set()
     if policy.get("authorization") != VALUES_AUTHORIZATION:
@@ -289,13 +292,17 @@ def validate_values_conversations(video_rows: list[dict], excerpt_rows: list[dic
     for identity, item in public.items():
         row = videos.get(identity, {})
         expected = {**PUBLIC_CONVERSATION_FIELDS, "title": item["title"], "published_at": item["published_at"],
-                    "guest_names": item["guest_names"], "transcript_source_kind": item["transcript_source_kind"],
+                    "transcript_source_kind": item["transcript_source_kind"],
                     "transcript_source_sha256": item["transcript_sha256"]}
         for key, value in expected.items():
             if row.get(key) != value:
                 errors.append(f"youtube-{identity}: invalid public conversation transcript {key}")
         if identity in member_ids or not row.get("guest_names"):
             errors.append(f"youtube-{identity}: a public conversation must be a non-member video with named guests")
+        # The approval names its guests; the shared catalog must record each as a participant.
+        known = participant_name_keys.get(f"youtube-{identity}", set())
+        if any(derive_catalogs.name_key(name) not in known for name in item["guest_names"]):
+            errors.append(f"youtube-{identity}: an approved guest is not a catalog participant of this conversation")
     if {row.get("video_id") for row in video_rows if row.get("inclusion_authorization") == VALUES_AUTHORIZATION} != set(public):
         errors.append("Public conversation policy/catalog exact ID mismatch")
     conversations = {item["excerpt_path"]: item for item in policy.get("conversations", [])}
@@ -759,7 +766,17 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
     values_policy = read_json_object_without_duplicate_keys(values_path) if values_path.is_file() else {}
     excerpt_catalog_path = ROOT / "catalog" / "conversation-excerpts.jsonl"
     excerpt_rows = read_jsonl(excerpt_catalog_path) if excerpt_catalog_path.is_file() else []
-    public_conversations = validate_values_conversations(video_rows, excerpt_rows, values_policy, member_ids, errors)
+    # Who appeared where comes only from the shared catalog; video rows carry a derived copy.
+    guest_catalog = read_json_object_without_duplicate_keys(ROOT / "catalog/guests.json")
+    catalog_people = programme_participants(guest_catalog)
+    catalog_sources = {source["source_id"]: source for source in guest_catalog["sources"]}
+    catalog_entities = {entity["entity_id"]: entity for entity in guest_catalog["entities"]}
+    participant_name_keys = {
+        source_id: {derive_catalogs.name_key(text) for entity_id in people
+                    for text, _ in derive_catalogs.entity_names(catalog_entities[entity_id])[0]}
+        for source_id, people in catalog_people.items()}
+    public_conversations = validate_values_conversations(video_rows, excerpt_rows, values_policy, member_ids, errors,
+                                                         participant_name_keys)
     dialogue_stats = validate_dialogues(ROOT, member_ids, errors)
     dialogue_path = ROOT / "config/public-dialogue-policy.json"
     dialogue_policy = read_json_object_without_duplicate_keys(dialogue_path) if dialogue_path.is_file() else {}
@@ -863,8 +880,13 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
             or row.get("review_status") != "approved"
         ):
             errors.append(f"{row.get('id')}: transcript lacks positive speaker-rights approval")
-        if row.get("transcript_included") and not (is_member or is_conversation or is_dialogue) and row.get("guest_names"):
+        if row.get("transcript_included") and not (is_member or is_conversation or is_dialogue) and catalog_people.get(row.get("id")):
             errors.append(f"{row.get('id')}: known guest transcript included")
+        source = catalog_sources.get(row.get("id"))
+        if source and row.get("title") != source["title"]:
+            errors.append(f"{row.get('id')}: title differs from the guest catalog; update the bound file or the catalog")
+        if is_dialogue != bool(row.get("dialogue_path")):
+            errors.append(f"{row.get('id')}: structured dialogue path disagrees with the public dialogue policy")
         if not str(row.get("url", "")).startswith("https://www.youtube.com/watch?v="):
             errors.append(f"{row.get('id')}: unexpected video source URL")
 
@@ -941,7 +963,8 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
         "knowledge_bank_full_text": sum(bool(row.get("full_text_included")) for row in kb_rows),
         "video_catalog": len(video_rows),
         "video_transcripts": sum(bool(row.get("transcript_included")) for row in video_rows),
-        "video_metadata_only": sum(not bool(row.get("transcript_included")) for row in video_rows),
+        "video_dialogue_transcripts": sum(bool(row.get("dialogue_path")) for row in video_rows),
+        "video_metadata_only": sum(not (row.get("transcript_included") or row.get("dialogue_path")) for row in video_rows),
         "member_video_transcripts": len(member_ids),
         "member_video_solo_reviewed": len(solo_ids),
         "known_guest_videos": sum(bool(row.get("guest_names")) for row in video_rows),
@@ -1030,7 +1053,11 @@ def main() -> None:
     args = parse_args()
     errors: list[str] = []
     if args.write_manifest:
-        # Generated pages come first: the rights map and the manifest cover them too.
+        # Derived catalog fields, then generated pages: the rights map and the manifest cover both.
+        try:
+            derive_catalogs.write()
+        except (OSError, KeyError, ValueError) as exc:
+            errors.append(f"derived catalogs: {exc}")
         try:
             build_index.write()
         except (KeyError, ValueError) as exc:
@@ -1038,6 +1065,7 @@ def main() -> None:
         rights.write(release_paths())
     validate_sensitive_data(errors)
     validate_internal_links(errors)
+    derive_catalogs.validate(errors)
     try:
         build_index.validate(errors)
     except (KeyError, ValueError) as exc:

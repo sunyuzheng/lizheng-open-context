@@ -10,9 +10,11 @@
 
 节目介绍、本人表达和第三方说法各自提供其所能支持的依据。介绍中的身份信息保留节目时间；发言记录支持“这个人当时这样说”，客观事实判断需要相应的事实来源。结构化记录和AI提炼都沿来源关系回查。
 
-## 原始资料与提炼
+## 原始资料、结构化记录与提炼
 
 原稿与忠实精校文本属于Raw层。文字、时间码、发言者、质量和版本关系保留在来源记录中；精校提高原文的可靠性。
+
+人物、节目、参与关系和只有标题的目录条目属于Structured层（`data_layer: structured`）。它们帮助定位资料，本身没有发言，`speaker_status`为`not-speech`。
 
 摘要、阅读地图、主题解释和判断卡属于Derived层，记录撰写方式与来源片段，独立更新。原文和提炼分别检索：
 
@@ -26,6 +28,8 @@ python3 scripts/search.py "问题" --layer derived --json
 ## 作者与发言者
 
 原作者、发布者、翻译者和整理者分别记录。节目参与关系属于目录数据；字幕单元记录具体发言者及确认状态。人物别名用于发现节目，引用采用实际发言归属。
+
+单人主讲按整份文件归属：视频里朗读或播放的他人内容也带着立正的`speaker_id`，引用时须读懂语境。对谈原稿按字幕单元归属。
 
 引文、提问、假设、案例和本人判断保留其语境。对“立正怎样想”的回答，使用有明确归属和日期的本人表达。跨来源综合由回答者承担，标明对应依据。
 
@@ -45,6 +49,20 @@ python3 scripts/search.py "问题" --layer derived --json
 | 访问与权利 | `source_visibility`, `text_access`, `rights_scope`, `license` | 分开原材料的访问方式和本份文字的使用许可 |
 
 RAG切块继承这些字段。原文与翻译按source family关联，多个片段保持各自定位。检索分数用于排序；来源角色用于决定如何引用。
+
+## 由脚本推出的字段
+
+同一事实只在一处维护，其他地方的副本由`scripts/derive_catalogs.py`推出，`python3 scripts/validate_release.py --write-manifest`会重新生成，副本过期时校验失败。
+
+| 字段 | 唯一来源 |
+|---|---|
+| `catalog/videos.jsonl`的`guest_names` | `catalog/guests.json`的参与关系 |
+| `catalog/videos.jsonl`里嘉宾节目的标题（只有目录的行） | `catalog/guests.json`的节目记录 |
+| `catalog/videos.jsonl`的`dialogue_path` | `config/public-dialogue-policy.json` |
+| `catalog/guests.json`参与关系的`index`（每人按节目日期从0编号） | 节目日期 |
+| `catalog/guest-names.json`（名字表） | `catalog/guests.json`与`config/speaker-names.json` |
+
+名字表列出每个名字指向哪些人物：显示名、别名、括号前的本名（「硅谷徐老师（Howie Xu）」里的「硅谷徐老师」）、括号里的称呼或节目标签、多人组合里每位成员的名字，以及主持人的名字。括号里的标签和公司名同时作为区分同名者的限定词。名字的键先做NFKC和大小写折叠，再去掉空白和标点，规则与示例写在文件里，消费者按同一规则处理问题再查表。名字表只用于找人；合并或拆分身份仍要回到来源。
 
 ## 许可与版本
 

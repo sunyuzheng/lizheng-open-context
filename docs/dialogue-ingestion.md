@@ -25,7 +25,7 @@ python3 scripts/search.py "问题" --layer derived --json
   "source_url": "https://www.youtube.com/watch?v=ABCDEFGHIJK",
   "source_type": "video-transcript",
   "units": [{
-    "id": "cue-1",
+    "id": "youtube-ABCDEFGHIJK#cue-1",
     "start_seconds": 1.25,
     "end_seconds": 3.5,
     "text": "保留实际发言。",

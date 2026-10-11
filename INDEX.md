@@ -30,7 +30,7 @@
 
 | 资料 | 数量 | 目录页 | 机器可读 | 说明 |
 | --- | ---: | --- | --- | --- |
-| 视频目录 | 761 条 | [视频目录](index/videos.md) | [catalog/videos.jsonl](catalog/videos.jsonl) | 333 条只有目录、没有字幕 |
+| 视频目录 | 761 条 | [视频目录](index/videos.md) | [catalog/videos.jsonl](catalog/videos.jsonl) | 11 条只有目录、没有字幕 |
 | Knowledge Bank | 169 篇 | [Knowledge Bank 目录](index/knowledge-bank.md) | [catalog/knowledge-bank.jsonl](catalog/knowledge-bank.jsonl) | 立正的 36 篇有全文，其他作者只列标题和链接 |
 
 目录数据（`catalog/`、`config/`、`index/` 和本页）按[CC0 1.0](LICENSES/CC0-1.0.txt)开放。

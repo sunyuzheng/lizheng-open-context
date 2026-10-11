@@ -1,0 +1,235 @@
+#!/usr/bin/env python3
+"""Derive every catalog field that repeats a fact owned elsewhere, so no copy is edited by hand.
+
+Owners: catalog/guests.json holds people, programmes and who appeared where;
+config/public-dialogue-policy.json holds which structured transcripts are public;
+config/speaker-names.json holds the host's names. From them this module rewrites the copies in
+catalog/videos.jsonl (guest names, programme titles, the structured transcript path), numbers each
+person's appearances by date, and writes the shared name table catalog/guest-names.json that the
+website and Context Infra read. `python3 scripts/validate_release.py --write-manifest` runs it;
+validation fails while any copy is stale.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import unicodedata
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+GUESTS = "catalog/guests.json"
+VIDEOS = "catalog/videos.jsonl"
+NAMES = "catalog/guest-names.json"
+SPEAKERS = "config/speaker-names.json"
+DIALOGUE_POLICY = "config/public-dialogue-policy.json"
+
+# A name's key: NFKC, casefold, then drop whitespace and these marks. Consumers normalize a
+# question the same way before looking a key up; KEY_EXAMPLES let them test that they do.
+KEY_DROP = frozenset(" \t\r\n　·・•&/、,.。()[]【】{}「」『』<>《》\"'“”‘’-–—_@#:;!?|")
+KEY_RULE = "NFKC, casefold, then drop whitespace and the characters " + "".join(sorted(KEY_DROP - set(" \t\r\n　")))
+KEY_EXAMPLES = [["Leo（Charisma）", "leocharisma"], ["Leo Charisma", "leocharisma"], ["charisma-Leo", "charismaleo"],
+                ["硅谷徐老师（Howie Xu）", "硅谷徐老师howiexu"], ["Koji & Monica", "kojimonica"], ["王臻 & Nick", "王臻nick"]]
+PARENTHETICAL = re.compile(r"^(?P<base>.+?)\s*[（(](?P<inner>[^（）()]+)[）)]\s*$")
+MEMBER_SEPARATOR = re.compile(r"\s*[&＆/／、,，]\s*")
+COMPANY_SEPARATOR = re.compile(r"\s*[·・|｜/／]\s*")
+DIALOGUE_NOTE = ("Discovery metadata for this programme. Its public structured transcript is at dialogue_path; "
+                 "quote each unit by its recorded speaker, and do not infer Yuzheng's views from this catalog row.")
+
+
+def name_key(text: str) -> str:
+    return "".join(char for char in unicodedata.normalize("NFKC", text).casefold() if char not in KEY_DROP)
+
+
+def read_json(path: Path):
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def json_text(value) -> str:
+    return json.dumps(value, ensure_ascii=False, indent=2) + "\n"
+
+
+def jsonl_text(rows: list[dict]) -> str:
+    return "".join(json.dumps(row, ensure_ascii=False, sort_keys=True) + "\n" for row in rows)
+
+
+def participants(catalog: dict) -> dict[str, list[str]]:
+    """Each programme's people, by source ID, in the catalog's order."""
+    relation: dict[str, list[str]] = {}
+    for row in catalog["appearances"]:
+        people = relation.setdefault(row["source_id"], [])
+        if row["entity_id"] not in people:
+            people.append(row["entity_id"])
+    return relation
+
+
+def ordered_appearances(catalog: dict) -> dict:
+    """Number each person's appearances 0, 1, 2… from their earliest programme."""
+    dates = {source["source_id"]: source.get("published_at") or "" for source in catalog["sources"]}
+    by_entity: dict[str, list[dict]] = {}
+    for row in catalog["appearances"]:
+        by_entity.setdefault(row["entity_id"], []).append(row)
+    order = {}
+    for entity_id, rows in by_entity.items():
+        for position, row in enumerate(sorted(rows, key=lambda row: (dates[row["source_id"]], row["source_id"]))):
+            order[(entity_id, row["source_id"])] = position
+    appearances = [{**row, "index": order[(row["entity_id"], row["source_id"])]} for row in catalog["appearances"]]
+    return {**catalog, "appearances": appearances}
+
+
+def derived_videos(rows: list[dict], catalog: dict, dialogue_ids: set[str]) -> list[dict]:
+    names = {entity["entity_id"]: entity["display_name"] for entity in catalog["entities"]}
+    sources = {source["source_id"]: source for source in catalog["sources"]}
+    people = participants(catalog)
+    result = []
+    for row in rows:
+        row = dict(row)
+        source_id = "youtube-" + row["video_id"]
+        row["guest_names"] = sorted({names[entity_id] for entity_id in people.get(source_id, [])})
+        source = sources.get(source_id)
+        # The catalog keeps the programme's current title; a full-text row keeps the title its
+        # bound file carries, and validation reports any difference for review.
+        if source and not row.get("transcript_included"):
+            row["title"] = source["title"]
+        if row["video_id"] in dialogue_ids:
+            row["dialogue_path"] = f"corpus/dialogues/youtube-{row['video_id']}.json"
+            if not row.get("transcript_included"):
+                row["attribution_note"] = DIALOGUE_NOTE
+        else:
+            row.pop("dialogue_path", None)
+        result.append(row)
+    return result
+
+
+def entity_names(entity: dict) -> tuple[list[tuple[str, str]], list[str]]:
+    """(name, kind) pairs that find this entity, and the qualifiers that tell it apart."""
+    texts = [entity["display_name"], *entity["aliases"]]
+    alias_keys = {name_key(text) for text in texts}
+    found: list[tuple[str, str]] = []
+    qualifiers: list[str] = []
+    for text in texts:
+        found.append((text, "display" if text == entity["display_name"] else "alias"))
+    for text in texts:
+        match = PARENTHETICAL.match(text)
+        base = match["base"].strip() if match else text
+        if match:
+            found.append((base, "base"))
+            inner = [part for part in MEMBER_SEPARATOR.split(match["inner"]) if part.strip()]
+            if entity["entity_type"] == "group" and len(inner) > 1:
+                found.extend((part, "member") for part in inner)
+            elif name_key(match["inner"]) not in alias_keys:
+                # A nickname, channel or programme label: it tells namesakes apart, and
+                # people also search by it (宝二爷, Charisma, 品酒课).
+                found.append((match["inner"].strip(), "qualifier"))
+                qualifiers.append(match["inner"].strip())
+        if entity["entity_type"] == "group":
+            parts = [part for part in MEMBER_SEPARATOR.split(base) if part.strip()]
+            if len(parts) > 1:
+                found.extend((part, "member") for part in parts)
+    for part in COMPANY_SEPARATOR.split(entity.get("guest_company") or ""):
+        if part.strip():
+            qualifiers.append(part.strip())
+    return found, qualifiers
+
+
+def name_table(catalog: dict, speakers: dict) -> dict:
+    entries: dict[str, dict] = {}
+    qualifiers: dict[str, list[dict]] = {}
+    company_keys: dict[str, set[str]] = {}
+    for entity in catalog["entities"]:
+        for part in COMPANY_SEPARATOR.split(entity.get("guest_company") or ""):
+            if name_key(part):
+                company_keys.setdefault(name_key(part), set()).add(entity["entity_id"])
+    for entity in catalog["entities"]:
+        found, extra = entity_names(entity)
+        for text, kind in found:
+            key = name_key(text)
+            if not key:
+                continue
+            entry = entries.setdefault(key, {"name": text.strip(), "key": key, "entity_ids": [], "kinds": []})
+            if entity["entity_id"] not in entry["entity_ids"]:
+                entry["entity_ids"].append(entity["entity_id"])
+            if kind not in entry["kinds"]:
+                entry["kinds"].append(kind)
+        rows, seen = [], set()
+        for text in extra:
+            key = name_key(text)
+            if key and key not in seen:
+                seen.add(key)
+                rows.append({"name": text, "key": key})
+        if rows:
+            qualifiers[entity["entity_id"]] = rows
+    for entry in entries.values():
+        # A label shared with other people's organization (Multi-FIRE) finds all of them.
+        if "qualifier" in entry["kinds"]:
+            for entity_id in company_keys.get(entry["key"], ()):
+                if entity_id not in entry["entity_ids"]:
+                    entry["entity_ids"].append(entity_id)
+        entry["entity_ids"].sort()
+    return {
+        "schema_version": 1,
+        "generated_from": [GUESTS, SPEAKERS],
+        "key_rule": KEY_RULE,
+        "key_drop": "".join(sorted(KEY_DROP - set(" \t\r\n\u3000"))),
+        "key_examples": KEY_EXAMPLES,
+        "speakers": [{"speaker_id": row["speaker_id"], "role": row["role"],
+                      "names": [{"name": name, "key": name_key(name)} for name in row["names"]]}
+                     for row in speakers["speakers"]],
+        "names": [entries[key] for key in sorted(entries)],
+        "qualifiers": {entity_id: qualifiers[entity_id] for entity_id in sorted(qualifiers)},
+    }
+
+
+def outputs(root: Path = ROOT) -> dict[str, str]:
+    """Every derived file's expected text, from the owning files as they are now."""
+    catalog = ordered_appearances(read_json(root / GUESTS))
+    speakers = read_json(root / SPEAKERS)
+    if speakers.get("schema_version") != 1 or not speakers.get("speakers"):
+        raise ValueError("config/speaker-names.json is invalid")
+    policy_path = root / DIALOGUE_POLICY
+    dialogue_ids = {row["video_id"] for row in read_json(policy_path)["records"]} if policy_path.is_file() else set()
+    rows = [json.loads(line) for line in (root / VIDEOS).read_text(encoding="utf-8").splitlines() if line.strip()]
+    return {
+        GUESTS: json_text(catalog),
+        VIDEOS: jsonl_text(derived_videos(rows, catalog, dialogue_ids)),
+        NAMES: json_text(name_table(catalog, speakers)),
+    }
+
+
+def write(root: Path = ROOT) -> list[str]:
+    changed = []
+    for relative, text in outputs(root).items():
+        path = root / relative
+        if not path.is_file() or path.read_text(encoding="utf-8") != text:
+            path.write_text(text, encoding="utf-8")
+            changed.append(relative)
+    return changed
+
+
+def validate(errors: list[str], root: Path = ROOT) -> None:
+    try:
+        expected = outputs(root)
+    except (OSError, ValueError, KeyError, TypeError) as exc:
+        errors.append(f"derived catalogs: {exc}")
+        return
+    for relative, text in expected.items():
+        path = root / relative
+        if not path.is_file() or path.read_text(encoding="utf-8") != text:
+            errors.append(f"{relative} has stale derived fields; rerun python3 scripts/validate_release.py --write-manifest")
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--check", action="store_true", help="only report stale derived files")
+    args = parser.parse_args()
+    if args.check:
+        errors: list[str] = []
+        validate(errors)
+        print("\n".join(errors) or "derived catalogs are current")
+        raise SystemExit(1 if errors else 0)
+    print(json.dumps({"changed": write()}, ensure_ascii=False))
+
+
+if __name__ == "__main__":
+    main()

@@ -195,7 +195,7 @@ def community_page(root: Path) -> str:
 
 def video_kind(row: dict) -> str:
     if not row.get("transcript_included"):
-        return "只有目录"
+        return "对谈原稿" if row.get("dialogue_path") else "只有目录"
     if row.get("speaker_classification") != "solo-yuzheng":
         return "会员 · 对话" if row.get("source_visibility") == "members-only" else "公开 · 对话"
     return "会员 · 本人主讲" if row.get("source_visibility") == "members-only" else "本人主讲"
@@ -203,11 +203,13 @@ def video_kind(row: dict) -> str:
 
 def transcript_groups(videos: list[dict]) -> dict[str, int]:
     """Transcript counts by who speaks and which license applies."""
-    groups = {"open-solo": 0, "open-solo-member": 0, "member-solo": 0, "member-mixed": 0, "public-mixed": 0, "listed": 0}
+    groups = {"open-solo": 0, "open-solo-member": 0, "member-solo": 0, "member-mixed": 0, "public-mixed": 0, "dialogue": 0, "listed": 0}
     for row in videos:
         kind = video_kind(row)
         if kind == "只有目录":
             groups["listed"] += 1
+        elif kind == "对谈原稿":
+            groups["dialogue"] += 1
         elif kind == "会员 · 对话":
             groups["member-mixed"] += 1
         elif kind == "公开 · 对话":
@@ -245,24 +247,26 @@ def video_page(root: Path) -> str:
         "",
         "# 视频目录",
         "",
-        f"立正 YouTube 频道「课代表立正」的 {len(videos)} 条视频，按发布时间从新到旧排列。其中 {len(videos) - groups['listed']} 条有字幕全文：",
+        f"立正 YouTube 频道「课代表立正」的 {len(videos)} 条视频，按发布时间从新到旧排列。其中 {len(videos) - groups['listed']} 条有字幕全文或对谈原稿：",
         "",
         *table(["类型", "数量", "字幕的许可"], [
             [open_label, str(groups["open-solo"]), license_link(page, "CC-BY-4.0")],
             ["会员 · 本人主讲", str(groups["member-solo"]), license_link(page, REFERENCE_USE)],
             ["会员 · 对话", str(groups["member-mixed"]), f"{license_link(page, REFERENCE_USE)}；嘉宾的话归嘉宾本人"],
             ["公开 · 对话", str(groups["public-mixed"]), f"{license_link(page, REFERENCE_USE)}；嘉宾的话归嘉宾本人"],
+            ["对谈原稿", str(groups["dialogue"]), f"{license_link(page, REFERENCE_USE)}；逐句保留时间码，说话人待核，嘉宾的话归嘉宾本人"],
             ["只有目录", str(groups["listed"]), "没有字幕全文；标题、日期和链接按" + license_link(page, "CC0-1.0") + "开放"],
         ], numeric={1}),
         "",
-        "会员视频需要频道会员才能观看，字幕文字已获授权开放。「会员 · 本人主讲」经人工核对只有立正一人讲述；「会员 · 对话」和「公开 · 对话」里嘉宾、主持人和提问者的话归他们本人。「公开 · 对话」是立正 2026-10-04 指定收录的、塑造他价值观的几场公开对话，这些对话里他本人的话另见" + link(page, "塑造价值观的对话", "index/values-conversations.md") + "。「只有目录」多是嘉宾访谈、多人对话或尚未复核说话人的视频。",
+        "会员视频需要频道会员才能观看，字幕文字已获授权开放。「会员 · 本人主讲」经人工核对只有立正一人讲述；「会员 · 对话」和「公开 · 对话」里嘉宾、主持人和提问者的话归他们本人。「公开 · 对话」是立正 2026-10-04 指定收录的、塑造他价值观的几场公开对话，这些对话里他本人的话另见" + link(page, "塑造价值观的对话", "index/values-conversations.md") + "。「对谈原稿」是结构化的公开对谈逐字稿，见" + link(page, "对谈原文目录", "index/dialogues.md") + "。「只有目录」是还没有收录文字的视频。",
         "",
         f"机器可读：{link(page, 'catalog/videos.jsonl', 'catalog/videos.jsonl')}",
     ]
     for year, rows in by_year(videos):
         body = [
             [day(row.get("published_at")), f"[{cell(row['title'])}]({row['url']})",
-             link(page, "全文", row["corpus_path"]) if row.get("transcript_included") else "—", video_kind(row)]
+             link(page, "全文", row["corpus_path"]) if row.get("transcript_included")
+             else link(page, "原稿", row["dialogue_path"]) if row.get("dialogue_path") else "—", video_kind(row)]
             for row in rows
         ]
         out += ["", f"## {year}（{len(rows)} 条）", "", *table(["日期", "视频", "字幕", "类型"], body)]

@@ -75,5 +75,20 @@ class SearchTests(unittest.TestCase):
         self.assertTrue(MODULE.license_matches(doc("course-lesson", "LicenseRef-Lizheng-Reference-Use-1.0"), "all"))
         self.assertTrue(MODULE.type_matches(doc("course-lesson", ""), "course"))
 
+    def test_catalog_records_are_structured_not_raw_speech(self):
+        for meta in ({"content_origin": "metadata-only", "evidence_role": "discovery-only", "speaker_classification": "mixed-speakers"},
+                     {"source_type": "knowledge-bank-catalog"}, {"evidence_role": "metadata-only"}):
+            fields = MODULE.provenance_fields(meta)
+            self.assertEqual(fields["data_layer"], "structured", meta)
+            self.assertEqual((fields["speaker_id"], fields["speaker_status"]), ("", "not-speech"), meta)
+        solo = MODULE.provenance_fields({"speaker_classification": "solo-yuzheng", "content_origin": "yuzheng-spoken-source"})
+        self.assertEqual((solo["data_layer"], solo["speaker_id"]), ("raw", "yuzheng"))
+
+    def test_published_catalog_rows_never_load_as_raw_text(self):
+        catalog_docs = [doc for doc in MODULE.load_documents() if doc.source_type.endswith("-catalog")]
+        self.assertTrue(catalog_docs)
+        self.assertEqual({doc.data_layer for doc in catalog_docs}, {"structured"})
+
+
 if __name__ == "__main__":
     unittest.main()
