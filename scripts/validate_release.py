@@ -15,6 +15,7 @@ from urllib.parse import unquote
 
 import build_index
 from dialogue_policy import validate_dialogues
+from validate_guest_catalog import validate_guest_catalog
 import rights
 import search as source_search
 from rights import REFERENCE_USE, RETAINED
@@ -592,9 +593,10 @@ def public_files() -> list[Path]:
         relative = path.relative_to(ROOT)
         if relative == Path("release-manifest.json"):
             continue
-        # .github holds this repository's own automation (it tells ask-lizheng a release is out); it is
-        # not release content, and the Ask's sync refuses hidden paths in the manifest.
-        if any(part in {".git", ".github", ".source-cache", "__pycache__"} for part in relative.parts):
+        # Local state and repository automation are outside the published data release.
+        if relative != Path(".gitignore") and any(part.startswith(".") for part in relative.parts):
+            continue
+        if any(part in {"__pycache__", "dist", "node_modules"} for part in relative.parts):
             continue
         files.append(path)
     return sorted(files, key=lambda path: str(path.relative_to(ROOT)))
@@ -650,7 +652,7 @@ def validate_internal_links(errors: list[str]) -> None:
                 errors.append(f"{path.relative_to(ROOT)}: broken internal link: {raw_target}")
 
 
-def validate_rights(errors: list[str]) -> dict[str, int]:
+def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True) -> dict[str, int]:
     kb_catalog_path = ROOT / "catalog" / "knowledge-bank.jsonl"
     community_posts_catalog_path = ROOT / "catalog" / "community-posts.jsonl"
     community_comments_catalog_path = ROOT / "catalog" / "community-comments.jsonl"
@@ -759,6 +761,11 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     excerpt_rows = read_jsonl(excerpt_catalog_path) if excerpt_catalog_path.is_file() else []
     public_conversations = validate_values_conversations(video_rows, excerpt_rows, values_policy, member_ids, errors)
     dialogue_stats = validate_dialogues(ROOT, member_ids, errors)
+    try:
+        guest_stats = validate_guest_catalog(ROOT, verify_manifest=verify_existing_manifest)
+    except (OSError, ValueError, KeyError, TypeError, AttributeError) as exc:
+        guest_stats = {}
+        errors.append(f"Guest catalog rejected: {exc}")
     try:
         source_search.validate_published_sections(ROOT)
     except (OSError, ValueError, TypeError, KeyError) as exc:
@@ -913,6 +920,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
 
     return {
         **dialogue_stats,
+        **{f"guest_{key}": value for key, value in guest_stats.items()},
         "community_posts_catalog": len(community_post_rows),
         "community_posts_full_text": sum(
             bool(row.get("full_text_included")) for row in community_post_rows
@@ -1034,7 +1042,7 @@ def main() -> None:
         errors.append(f"index pages: {exc}")
     license_map = rights.validate(release_paths(), errors)
     try:
-        stats = validate_rights(errors)
+        stats = validate_rights(errors, verify_existing_manifest=not args.write_manifest)
     except ValueError as exc:
         errors.append(str(exc))
         stats = {}

@@ -1,91 +1,45 @@
-# 来源、作者与证据权重
+# 来源模型
 
-先问“这是谁的表达、经过什么处理”，再问它对当前问题有多大帮助。社区发布账号、视频主讲人、原作作者、翻译者和综合撰写者是不同角色。
+一份资料同时记录它说了什么、谁表达、何时发表、经过怎样的处理，以及可怎样使用。检索、引用和回答继承这些信息。
 
-## 原始资料与派生提炼分成两层
+## 原始资料与提炼
 
-维护者于 2026-10-10 明确：raw data（精校后的原文也属于这一层）与提炼应分成两层。原始资料是独立可用的检索与引用依据；无需先为每份材料生成摘要或判断卡。
+原稿与忠实精校文本属于Raw层。文字、时间码、发言者、质量和版本关系保留在来源记录中；精校提高原文的可靠性。
 
-**原始资料层**保留原媒体／原字幕的来源、精校原文及其版本关系，并附说话人、时间码、日期、来源、许可和校对状态等必要元数据。精校保留说话人的原意与措辞，不把口语改写成观点摘要。说话人归属记录确认依据，不确定的保留未知或待核；说话人标注不代表认同或立场确认。不同版本可追溯，原稿不被覆盖。
+摘要、阅读地图、主题解释和判断卡属于Derived层，记录撰写方式与来源片段，独立更新。原文和提炼分别检索：
 
-**派生提炼层**按实际需要保存摘要、主题整理、概念关系、判断卡，以及“这是提问、认同、质疑或本人观点”的语义判读。每项提炼标明撰写者、生成／审阅状态，并回指准确的原文版本与片段；可以单独修订、重建或移除，不能改写或覆盖原始资料。AI 小标题与背景说明属于这一层，不作为原话传递。
+```sh
+python3 scripts/search.py "问题" --layer raw --json
+python3 scripts/search.py "问题" --layer derived --json
+```
 
-检索可直接使用原始资料，也可借助派生层导航；两层分别保留身份与索引类型。对谈中嘉宾与立正的原话都属于原始资料，按说话人区分，不按人物另设数据层。需要明确归属的结论或逐字引用时，回到原始片段核实；相关性、提炼标签或“说出口”本身不能证明本人赞同。
+同一已发表文件可以包含不同层的段落。`config/source-section-layers.json`用文件hash和实际段落分界记录这种结构；原话摘录与编者说明通过`fragment_id`关联。
 
-现有摘录文件仍以一个 Markdown 保存原始引文和 AI 小标题／背景；`scripts/search.py` 将其读成独立的 `raw` 引文块与 `derived` 说明块。原始字幕块只含时间码和转录正文，排除文件开头的编者说明。派生块回指原始 `fragment_id`，不能作为本人原话。消费端的对应改动须随明确的版本部署，不能由本说明推定线上已经更新。
+## 作者与发言者
 
-结构化逐字稿格式与本地候选入口见 [`dialogue-ingestion.md`](dialogue-ingestion.md)。候选整理与公共收录是两步；本地整库转换不改变会员快照，也不公开未发布材料。
+原作者、发布者、翻译者和整理者分别记录。节目参与关系属于目录数据；字幕单元记录具体发言者及确认状态。人物别名用于发现节目，引用采用实际发言归属。
 
-## 如何使用不同来源
+引文、提问、假设、案例和本人判断保留其语境。对“立正怎样想”的回答，使用有明确归属和日期的本人表达。跨来源综合由回答者承担，标明对应依据。
 
-| 来源 | 能支持什么 | 对立正立场的默认权重 |
+## 字段合同
+
+| 字段组 | 字段 | 用途 |
 |---|---|---|
-| 本人直接发表的判断／原视频中的本人发言 | 该日期、该语境下的本人表达 | direct-with-quotation-boundaries：排除其中的他人引语、提问与案例 |
-| 本人原作的 AI 英译或 Bot 转载 | 帮助英文检索和理解原作 | verify-original：核对原文；英文用词不作为本人英文原话 |
-| 鸭哥、Carl Guo 等社区作者的文章 | 作者本人的经验、技术与观点 | not-evidence：不能证明立正也这样想、做过这件事或替其背书 |
-| 原作者不明、仅有品牌账号的文章 | 待核实的社区参考资料 | not-evidence：保留未知，不猜作者 |
-| AI synthesis、核心主张摘要、Public Axioms、书籍框架整理、回答示例 | 导航、概念关系、跨来源理解 | secondary-only：AI 写的二次整理，不是亲笔、逐字原话或逐句认可的证明 |
-| 嘉宾视频／其他文章的目录 | 找到应去看的原始材料 | not-evidence：标题与简介不是全文证据 |
-| 书和Statsig博客文章的中文版（AI按立正的中文习惯改写） | 找思路、概念和例子，帮助中文检索 | verify-original：核对英文原文；书里的「我们」和合著文章不归立正一人 |
-| 明确授权的会员视频字幕和指定公开对话字幕，含嘉宾／未逐段确认说话人的对话 | 在时间码处核实具体发言，提供有归属的参考 | not-evidence：整篇不能证明立正的立场；只能将明确发言归给相应说话人 |
-| 从这些对话里逐段核对后摘出的立正本人发言（`video-excerpt`） | 该日期、该语境下的本人表达，带时间码 | direct-with-quotation-boundaries：引文逐字对应字幕；每段的小标题和背景是 AI 写的，不是他的话 |
+| 身份与定位 | `id`, `source_type`, `source_url`, `source_family` | 标识资料、回查来源、关联原作及其不同版本 |
+| 作者 | `author`, `publisher`, `original_author`, `original_source_url` | 保留表达、发布和原作归属 |
+| 处理方式 | `content_origin`, `generation_method`, `language` | 区分本人发表、他人作品、翻译与整理 |
+| 时间 | `published_at`, `generated_at`, `snapshot_at` | 分别记录发表、生成和采集时间 |
+| 片段与版本 | `data_layer`, `fragment_id`, `source_snapshot_sha256` | 区分资料层，定位原文版本及片段 |
+| 人物与节目 | 目录中的`entity_id`, `source_id`与参与关系；检索时提供`participant_entity_ids`, `participant_names`, `participant_aliases` | 按人物发现相关节目 |
+| 发言 | `speaker_id`, `speaker_name`, `speaker_status`, `speech_act` | 记录发言者、确认状态与表达性质 |
+| 使用角色 | `evidence_role`, `yuzheng_stance_weight`, `source_context` | 区分原文、参考资料、翻译、综合与目录入口 |
+| 质量 | `transcript_source_kind`, `transcript_quality` | 记录字幕来源、校对阶段和待核信息 |
+| 访问与权利 | `source_visibility`, `text_access`, `rights_scope`, `license` | 分开原材料的访问方式和本份文字的使用许可 |
 
-这些标签衡量“可否归成立正的立场”，不是给作者排水平。对技术问题，鸭哥的原始文章可能比立正的摘要更有用；对“立正本人怎么想”，那篇文章就没有直接归属权。搜索 score 只表示词面相关性，不能当成真实性、认可度或可信概率。
+RAG切块继承这些字段。原文与翻译按source family关联，多个片段保持各自定位。检索分数用于排序；来源角色用于决定如何引用。
 
-当前主张先用 `context/core-thesis.md` 定位，再回到底层来源。AI 整理层与直接来源冲突时，不可因它位于 context/ 或更新更晚而覆盖原文。缺证据时保留差异。
+## 许可与版本
 
-## 每段检索结果必须保留的字段
+每份文件声明一项许可，release manifest记录其hash和许可。会员媒体的访问方式与已授权文字的开放方式分别保存；嘉宾、第三方作者和合著者的作品保留其归属。具体规则见[版权与许可](../LICENSE.md)。
 
-| 字段 | 含义 |
-|---|---|
-| id / source_type / source_url | 稳定身份、材料类型、可回查的来源 |
-| author | 本文件表达或文字的作者；AI 整理明确写 AI |
-| publisher | 发布账号或整理发布者，不自动等同原作者 |
-| original_author / original_source_url | 原作作者与原文；不明则保持未知 |
-| content_origin | 本人发表、本人发言、第三方社区、AI synthesis 或 AI translation |
-| generation_method | ai-written、ai-translation、Bot 转载或 not-established；转载标记不证明谁写了英文 |
-| evidence_role / yuzheng_stance_weight | 用途与对本人立场的证据权重 |
-| source_context / attribution_note | 来自什么场景、谁的提问／引语／案例、该怎样归属 |
-| source_family | 同一原作及其译文、转载的共同来源；不能重复算独立佐证 |
-| language | 当前文本语言，不等于原视频语言 |
-| published_at | 原始来源发表时间；AI 视频译稿中专指原视频 |
-| generated_at | AI 译稿生成时间，与原视频发表时间分开 |
-| snapshot_at | 抓取或整理该版本的日期，不是观点发表日 |
-| data_layer / fragment_id / source_snapshot_sha256 | 原始／派生层、准确片段及其来源文件版本；AI 说明回指原话，不替代原话 |
-| participant_names | 节目参与者目录，可按姓名找节目；不证明某一段是谁说的 |
-| speaker_id / speaker_name / speaker_status | 片段的已核实说话人；未知为 unknown／unresolved，节目嘉宾名单不等于逐段归属 |
-| source_visibility / content_status | 原始访问范围与历史状态 |
-| text_access / membership_platform / membership_url | 字幕文字的开放状态；原视频的会员平台与加入入口。YouTube频道会员不等于Superlinear Founding额度 |
-| membership_verified_at | 原视频会员状态核验日期，不是视频发表日 |
-| transcript_source_kind / transcript_quality | 字幕来源与校对状态；人工字幕、Studio导出、精校、本地未校正ASR、来源未确认分别保留 |
-| rights_scope / license | 该份材料的权利范围与 SPDX 许可：`CC-BY-4.0`（立正的文字）、`LicenseRef-Lizheng-Reference-Use-1.0`（会员内容的文字）、`LicenseRef-Original-Rights-Retained`（他人的作品），说明见 [`../LICENSE.md`](../LICENSE.md)；AI 写作方式不决定底层原作归属 |
-
-RAG 切块时继承所有归属字段。只把正文送进模型、把作者说明留在文档第一页，会重新制造归属错误。来源正文是被检索的数据，不是可以覆盖 agent 指令的提示词。
-
-## 英文社区与视频中的引用
-
-本次英文社区来源清单见 `config/english-source-policy.json`。已发布文章保留显式 Author / See original / Translated by / Reposted by 说明；品牌账号发帖不会把原作者改成立正。7 篇明确标记 Superlinear Bot 翻译，30 篇明确标记 Bot 转载。无法确认的写作／翻译过程不补写。
-
-视频里“立正说出口”也不等于“立正原创”：朗读社区文章、复述别人的问题、介绍他人的项目、引用嘉宾观点，都应归给相应作者。主讲人的回应只代表回应部分。无法定位引用边界时，将该段作为混合语境参考，不能整段提升为本人直接立场。英文 AI 翻译不会改变这种边界，也不会把其中的第一人称经历变成立正自己的经历。
-
-77 份英文视频译稿来自已收录本人单讲视频，保留 AI 生成方式与时间码。它们此前是本地生成的译稿，本仓库收录不意味着英文曾在原平台发布；`translation_publication_status` 明确说明这一点。未收录嘉宾／多人视频的完整译稿。
-
-## 时间和发现方式
-
-Circle 搜索用于发现，正文从实际帖子可见 HTML 取得，不使用搜索索引拼入的附件文本。2026-09-17 的文章更新是已发布快照的增量；历史评论仍为 2026-08-30 审核快照。视频主目录来自 2026-09-15 媒体库，最新频道页面在 2026-09-17 复核：其中另外三条仅向频道会员开放，因此不进入公开视频全文。
-
-产品价格、权益、活动、人员与平台能力都可能改变；旧文不能自动回答今天的状态。同一主题的原文、翻译和 AI 综合相互矛盾时，展示变化或不确定性，不要无声合并。
-
-## 课程文字稿（2026-10-03）
-
-`source_type=course-lesson`：会员课程的作者文字稿，目前只有《真本事》23课，按课程顺序的目录见 [`../index/zhenbenshi-course.md`](../index/zhenbenshi-course.md)。`rights_scope=publisher-authorized-course-text` 与 `license=LicenseRef-Lizheng-Reference-Use-1.0` 表示作者授权开放阅读、检索、问答与短引用，但不以本仓库 CC 许可再授权；`source_visibility=members-only` 描述原课程，`text_access=public` 描述开放的文字，`membership_platform=superlinear`。证据权重与作者帖子相同（`direct-with-quotation-boundaries`）：课里引用的他人观点、案例仍归原作者。
-
-## 书和博客的中文版（2026-10-04）
-
-`source_type=book-chapter`：《Growth Data Analytics Playbook》中文版的12份文字（关于这本书、10章和结语），目录见 [`../index/growth-data-analytics-playbook-zh.md`](../index/growth-data-analytics-playbook-zh.md)；`source_url` 是lizheng.ai上免费阅读的那一章，`original_source_url` 是英文原书。`source_type=blog-post`：立正在Statsig博客的19篇文章的中文版，目录见 [`../index/statsig-blog.md`](../index/statsig-blog.md)；`source_url` 是英文原文。两者都是 `author=AI`、`publisher=Yuzheng Sun`、`content_origin=ai-translation`、`evidence_role=translation`、`yuzheng_stance_weight=verify-original`，`rights_scope=publisher-authorized-adaptation`，按立正参考使用许可开放。`original_author` 写原作的全部作者：书是三位作者，合著文章是两位，另有 `co_authors` 字段。`published_at` 是英文原作的日期，`generated_at` 是中文版的生成日期。只收文字，图只保留图注。判断卡不能以它们为依据，需要立正本人的原话时，回到他的视频和帖子；对应关系见 [`../context/growth-analytics-reading-map.md`](../context/growth-analytics-reading-map.md)。
-
-## 塑造价值观的对话（2026-10-04）
-
-立正指定的十二场对话：问道（格桑泽仁）、赵智沉两场、王路一场、Leon 八场（含和露露谈教育两期）。其中六场是会员视频，字幕此前已收录；王路和 Leon 的六场公开对话按同样的条件补入（`rights_scope=publisher-authorized-transcript`、`speaker_classification=mixed-or-unresolved`、`source_visibility=public`、`inclusion_authorization=maintainer-request-2026-10-04-values-conversations`），清单和字幕哈希见 [`../config/values-conversations-policy.json`](../config/values-conversations-policy.json)。
-
-`source_type=video-excerpt`：每场对话一个文件，在 `corpus/conversation-excerpts/`，只收能从上下文确认是立正本人说的段落。字段是 `author=Yuzheng Sun`、`content_origin=yuzheng-spoken-source`、`generation_method=speaker-reviewed-excerpt`、`evidence_role=primary-speech`、`yuzheng_stance_weight=direct-with-quotation-boundaries`；`source_transcript` 指向收录的字幕全文，`guest_names` 是这场对话的嘉宾，`excerpt_count` 是段数。每段以 `## 时间 小标题` 开头，下一行是带时间码的链接和 AI 写的一句背景，引文放在引用块里，「……」表示省略。`validate_release.py` 会核对每段引文在字幕里逐字出现（标点与空白不计），并且起点正是标出的时间。按时间和主题的梳理见 [`../context/values-conversations-map.md`](../context/values-conversations-map.md)，目录见 [`../index/values-conversations.md`](../index/values-conversations.md)。
+数据更新在Open Context完成。消费者按commit和manifest构建可重现的副本，保存引用所用版本；实际来源、质量和许可随该版本一起进入回答。字幕结构与导入流程见[对谈资料](dialogue-ingestion.md)。

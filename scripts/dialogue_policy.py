@@ -10,6 +10,7 @@ from pathlib import Path
 import search
 from raw_turn_policy import reviewed_policy, validate_units
 from rights import REFERENCE_USE
+from validate_guest_catalog import CATALOG_FIELDS, programme_participants
 
 AUTHORIZATION = "maintainer-request-2026-10-10-dialogue-transcripts"
 CHANNEL = "UC_5lJHgnMP_lb_VpIiXV0hQ"
@@ -60,6 +61,8 @@ def validate_dialogues(root: Path, member_ids: set[str], errors: list[str]) -> d
         if not isinstance(rows, list):
             raise ValueError("invalid_public_dialogue_records")
         turns = reviewed_policy(root, policy, read_object)
+        catalog_path = root / "catalog/guests.json"
+        participants = programme_participants(read_object(catalog_path)) if catalog_path.exists() else {}
         identities = set()
         for row in rows:
             identity = row.get("video_id")
@@ -84,21 +87,10 @@ def validate_dialogues(root: Path, member_ids: set[str], errors: list[str]) -> d
             if (data.get("source_url") != f"https://www.youtube.com/watch?v={identity}"
                     or data.get("source_family") != data["source_url"]
                     or not isinstance(data.get("title"), str) or not data["title"].strip()
-                    or not data.get("attribution_note") or data.get("language") not in {"zh", "en", "mixed"}
-                    or not isinstance(data.get("participant_names", ""), str)):
+                    or data.get("language") not in {"zh", "en", "mixed"}):
                 raise ValueError("dialogue_source_metadata_missing")
-            identity_fields = {"participant_entity_ids", "participant_aliases", "participant_metadata_basis"}
-            if identity_fields & data.keys():
-                ids, aliases, basis = (data.get(key) for key in (
-                    "participant_entity_ids", "participant_aliases", "participant_metadata_basis"))
-                if (not isinstance(ids, list) or len(ids) > 64
-                        or any(not isinstance(eid, str) or not re.fullmatch(r"[a-z][a-z0-9_.:-]{0,127}", eid) for eid in ids)
-                        or len(ids) != len(set(ids))
-                        or not isinstance(aliases, list) or len(aliases) > 128
-                        or any(not isinstance(alias, str) or not alias.strip() or len(alias) > 100
-                               or any(ord(c) < 32 for c in alias) or "/Users/" in alias for alias in aliases)
-                        or not isinstance(basis, str) or not basis.strip() or len(basis) > 1000):
-                    raise ValueError("dialogue_participant_identity_metadata_invalid")
+            if CATALOG_FIELDS & data.keys():
+                raise ValueError("dialogue_catalog_metadata_duplicated")
             datetime.fromisoformat(data["published_at"].replace("Z", "+00:00"))
             evidence = row.get("anonymous_evidence", {})
             if (evidence.get("video_id") != identity or evidence.get("channel_id") != CHANNEL
@@ -116,7 +108,7 @@ def validate_dialogues(root: Path, member_ids: set[str], errors: list[str]) -> d
                     or type(quality.get("unresolved_count")) is not int or quality["unresolved_count"] < 0
                     or any(not HASH.fullmatch(str(quality.get(key, ""))) for key in ("original_source_sha256", "root_output_sha256", "root_receipt_sha256"))):
                 raise ValueError("dialogue_quality_overclaim_or_missing_proof")
-            validate_units(data, turns.get(identity))
+            validate_units(data, turns.get(identity), participants.get(data["id"], set()))
             previous = search.ROOT
             search.ROOT = root
             try:

@@ -22,7 +22,6 @@ class DialoguePolicyTests(unittest.TestCase):
         (self.root / "config").mkdir()
         self.data = {**policy.PROVENANCE, "schema_version": 1, "id": f"youtube-{ID}", "video_id": ID,
             "title": "Synthetic dialogue", "published_at": "2020-01-02", "language": "zh",
-            "attribution_note": "Speakers unresolved; not the publisher's stance.",
             "source_url": f"https://www.youtube.com/watch?v={ID}", "source_family": f"https://www.youtube.com/watch?v={ID}",
             "public_verified_at": "2026-10-10T12:00:00+00:00",
             "quality": {"ai_text_processing_verified": True, "root_edit_review_verified": True,
@@ -93,18 +92,13 @@ class DialoguePolicyTests(unittest.TestCase):
         self.data["video_id"] = ID; self.data["units"][0]["start_seconds"] = -1; self.save()
         self.assertTrue(self.check()[1])
 
-    def test_participant_identity_is_metadata_and_requires_bounded_complete_fields(self):
-        self.data.update(participant_entity_ids=["guest:synthetic"], participant_aliases=["Synthetic alias"],
-                         participant_metadata_basis="Reviewed programme identity; no turn attribution")
-        self.save()
-        self.assertEqual(self.check()[1], [])
-        self.assertEqual(self.data["units"][0]["speaker_id"], "unknown")
-        for ids, aliases, basis in [([{}], [], "basis"), (["guest:a", "guest:a"], [], "basis"),
-                                   (["guest:a"], ["/Users/private/source"], "basis"),
-                                   (["guest:a"], ["alias"], "")]:
-            with self.subTest(ids=ids):
-                self.data.update(participant_entity_ids=ids, participant_aliases=aliases, participant_metadata_basis=basis)
-                self.save(); self.assertIn("identity_metadata_invalid", self.check()[1][0])
+    def test_raw_catalog_fields_are_owned_by_shared_catalog(self):
+        for key in policy.CATALOG_FIELDS:
+            with self.subTest(key=key):
+                self.data[key] = "Duplicated metadata"
+                self.save(); self.assertIn("catalog_metadata_duplicated", self.check()[1][0])
+                self.data.pop(key)
+        self.save(); self.assertEqual(self.check()[1], [])
 
     def save_reviewed_turn(self, speaker="yuzheng", act="question"):
         baseline = turns.digest(turns.unknown_units(self.data["units"]))
@@ -169,9 +163,10 @@ class DialoguePolicyTests(unittest.TestCase):
     def test_guest_attribution_requires_programme_entity_and_exact_unit_set(self):
         self.save_reviewed_turn(speaker="guest:synthetic", act="statement")
         self.assertIn("unit_invalid", self.check()[1][0])
-        self.data.update(participant_entity_ids=["guest:synthetic"], participant_aliases=["synthetic"], participant_metadata_basis="programme only")
-        self.path.write_text(json.dumps(self.data)); self.row["sha256"] = hashlib.sha256(self.path.read_bytes()).hexdigest()
-        self.policy_path.write_text(json.dumps(self.config)); self.assertEqual(self.check()[1], [])
+        (self.root / "catalog").mkdir()
+        (self.root / "catalog/guests.json").write_text(json.dumps({"appearances": [{"entity_id": "guest:synthetic", "source_id": f"youtube-{ID}"}]}))
+        self.assertEqual(self.check()[1], [])
+        self.assertNotIn("participant_entity_ids", self.data)
         self.turn_data["records"][0]["units"].append(dict(self.turn_data["records"][0]["units"][0]))
         self.save_turn_policy(); self.assertIn("unit_invalid", self.check()[1][0])
 

@@ -491,14 +491,19 @@ def hub_page(root: Path) -> str:
 def dialogue_page(root: Path) -> str:
     page = "index/dialogues.md"
     policy = json.loads((root / "config/public-dialogue-policy.json").read_text())
+    catalog_path = root / "catalog/guests.json"
+    catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else {"entities": [], "appearances": []}
+    entities = {e["entity_id"]: e["display_name"] for e in catalog["entities"]}
+    participants = {}
+    for relation in catalog["appearances"]:
+        participants.setdefault(relation["source_id"], []).append(entities[relation["entity_id"]])
     rows = []
     for binding in policy["records"]:
         data = json.loads((root / binding["corpus_path"]).read_text())
-        rows.append({**data, "corpus_path": binding["corpus_path"]})
+        rows.append({**data, "corpus_path": binding["corpus_path"], "participant_names": "；".join(participants.get(data["id"], []))})
     out = [GENERATED, "", "# 对谈原文", "",
-        "这些原文直接参与检索，无须先生成 AI 提炼。每句保留时间码；AI 文字校对及改动复核不等于逐句听校。",
-        "参与者名单用于寻找节目，不能确认每句话是谁说的。待核片段不能归给立正或某位嘉宾；嘉宾观点与立正本人的主张分别看待。",
-        "同一视频若保留了旧字幕，检索优先使用这里的结构化版本；同一来源的版本、引文和提炼不构成多份独立证据。", "",
+        "原文保留每句文字、时间码、发言归属和质量记录，直接参与检索。节目参与者由共享嘉宾目录提供。",
+        "[资料架构](../docs/conversation-architecture.md) · [来源字段](../docs/source-model.md) · [校对阶段](../docs/dialogue-ingestion.md)", "",
         f"共 {len(rows)} 份。{license_link(page, REFERENCE_USE)}；嘉宾保留自己发言的权利。", "",
         *table(["日期", "原文", "节目参与者目录", "文字待核组", "视频"], [
             [cell(day(row["published_at"])), link(page, row["title"], row["corpus_path"]),

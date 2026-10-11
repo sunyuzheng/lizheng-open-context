@@ -412,7 +412,53 @@ def load_documents() -> list[Document]:
                     **provenance_fields(row),
                 )
             )
+    docs = apply_guest_catalog(docs)
+    # Catalogue-only programmes remain useful reading destinations.
+    known = {doc.source_id for doc in docs}
+    catalog_path = ROOT / "catalog/guests.json"
+    if catalog_path.is_file():
+        catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+        for source in catalog["sources"]:
+            if source["source_id"] in known:
+                continue
+            docs.append(Document(
+                id=source["source_id"], source_id=source["source_id"], title=source["title"],
+                section="", source_type="programme-catalog", source_url=source["url"],
+                published_at=source.get("published_at", ""), text="",
+                path="catalog/guests.json", source_family=source["url"],
+                evidence_role="metadata-only", license="CC0-1.0",
+            ))
+        docs = apply_guest_catalog(docs)
     return docs
+
+
+def apply_guest_catalog(documents: list[Document]) -> list[Document]:
+    """Join programme participants without changing speech, authorship or stance."""
+    path = ROOT / "catalog/guests.json"
+    if not path.is_file():
+        return documents
+    catalog = json.loads(path.read_text(encoding="utf-8"))
+    entities = {row["entity_id"]: row for row in catalog["entities"]}
+    sources = {row["source_id"]: row for row in catalog["sources"]}
+    by_url = {row["url"]: row["source_id"] for row in catalog["sources"]}
+    participants = {}
+    for row in catalog["appearances"]:
+        rows = participants.setdefault(row["source_id"], [])
+        if row["entity_id"] not in rows:
+            rows.append(row["entity_id"])
+    for doc in documents:
+        source = doc.source_id if doc.source_id in sources else by_url.get(doc.source_family)
+        ids = participants.get(source, [])
+        if not ids:
+            continue
+        people = [entities[identity] for identity in ids]
+        doc.participant_entity_ids = "；".join(ids)
+        doc.participant_names = "；".join(person["display_name"] for person in people)
+        doc.participant_aliases = "；".join(dict.fromkeys(
+            alias for person in people for alias in person["aliases"]
+        ))
+        doc.participant_metadata_basis = "catalog/guests.json: programme participation"
+    return documents
 
 
 def parse_raw_dialogue(path: Path) -> list[Document]:
@@ -561,7 +607,7 @@ def type_matches(doc: Document, requested: str) -> bool:
     if requested == "all":
         return True
     if requested == "video":
-        return doc.source_type in {"video-transcript", "video-excerpt", "video-annotation", "video-catalog", "video-translation", "video-translation-catalog"}
+        return doc.source_type in {"video-transcript", "video-excerpt", "video-annotation", "video-catalog", "video-translation", "video-translation-catalog", "programme-catalog"}
     if requested == "knowledge-bank":
         return doc.source_type in {"knowledge-bank", "knowledge-bank-catalog"}
     if requested == "community":

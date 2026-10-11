@@ -207,6 +207,37 @@ speaker_classification: "mixed-or-unresolved"
         self.assertEqual(unknown["speaker_name"], "")
         self.assertEqual(unknown["yuzheng_stance_weight"], "not-evidence")
 
+    def guest_catalog(self):
+        folder = self.root / "catalog"; folder.mkdir(exist_ok=True)
+        (folder / "guests.json").write_text(json.dumps({
+            "entities": [{"entity_id": "guest:synthetic", "display_name": "目录人名", "aliases": ["合成别名"]}],
+            "sources": [{"source_id": "youtube-ABCDEFGHIJK", "title": "Programme", "url": "https://www.youtube.com/watch?v=ABCDEFGHIJK"}],
+            "appearances": [{"entity_id": "guest:synthetic", "source_id": "youtube-ABCDEFGHIJK"}],
+        }, ensure_ascii=False))
+
+    def test_shared_catalog_joins_names_without_changing_original_turns(self):
+        from dataclasses import asdict
+        path, _ = self.structured(); before = path.read_bytes()
+        docs = search.parse_raw_dialogue(path); original = [asdict(doc) for doc in docs]
+        self.guest_catalog(); search.apply_guest_catalog(docs)
+        metadata_fields = {"participant_names", "participant_entity_ids", "participant_aliases", "participant_metadata_basis"}
+        for old, doc in zip(original, docs):
+            after = asdict(doc)
+            self.assertEqual({k: v for k, v in old.items() if k not in metadata_fields},
+                             {k: v for k, v in after.items() if k not in metadata_fields})
+            self.assertEqual(doc.participant_aliases, "合成别名")
+        self.assertEqual(docs[-1].speaker_id, "unknown")
+        self.assertEqual(path.read_bytes(), before)
+
+    def test_catalog_only_programme_is_discovery_without_speech(self):
+        self.guest_catalog(); docs = search.load_documents()
+        self.assertEqual(len(docs), 1)
+        self.assertEqual(docs[0].source_type, "programme-catalog")
+        self.assertEqual(docs[0].evidence_role, "metadata-only")
+        self.assertEqual(docs[0].yuzheng_stance_weight, "not-evidence")
+        self.assertEqual(docs[0].text, "")
+        self.assertTrue(search.search_documents(docs, "合成别名"))
+
     def test_excerpt_without_quote_fails_closed(self):
         path = self.markdown('---\nsource_type: "video-excerpt"\n---\n## 00:00:01 heading\n\n[00:00:01](https://www.youtube.com/watch?v=ABCDEFGHIJK&t=1s) no quotation')
         with self.assertRaises(ValueError):

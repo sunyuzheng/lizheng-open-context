@@ -56,7 +56,7 @@ def reviewed_policy(root, public_policy, read_object):
     return rows
 
 
-def validate_units(data, row):
+def validate_units(data, row, participant_ids):
     units = data["units"]
     annotations = {u["id"]: u for u in units if u.get("speaker_id") != "unknown" or "speech_act" in u}
     if row is None:
@@ -76,7 +76,7 @@ def validate_units(data, row):
                 or not re.fullmatch(r"(?:yuzheng|guest:[a-z0-9_.:-]+)", annotation["speaker_id"])
                 or not isinstance(annotation["speaker_name"], str) or not annotation["speaker_name"].strip()
                 or len(annotation["speaker_name"]) > 100 or any(ord(c) < 32 for c in annotation["speaker_name"])
-                or (annotation["speaker_id"] != "yuzheng" and annotation["speaker_id"] not in data.get("participant_entity_ids", []))
+                or (annotation["speaker_id"] != "yuzheng" and annotation["speaker_id"] not in participant_ids)
                 or not re.fullmatch(r"[0-9a-f]{64}", annotation["content_sha256"])):
             raise ValueError("turn_attribution_unit_invalid")
         expected[annotation["id"]] = annotation

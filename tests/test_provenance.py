@@ -28,6 +28,17 @@ SEARCH = load_module("provenance_search", "search.py")
 VALIDATOR = load_module("provenance_validator", "validate_release.py")
 
 
+class PublicReleasePathsTests(unittest.TestCase):
+    def test_release_excludes_runtime_state_and_automation(self):
+        with tempfile.TemporaryDirectory() as directory, patch.object(VALIDATOR, "ROOT", Path(directory)):
+            root = Path(directory)
+            public = {".gitignore", "README.md", "catalog/source.json"}
+            private = {".pytest_cache/README.md", ".local/notes.txt", ".github/workflows/test.yml", "corpus/.draft/text.md", "scripts/__pycache__/cache.pyc", "dist/output.md", "node_modules/package.json"}
+            for name in public | private:
+                path = root / name; path.parent.mkdir(parents=True, exist_ok=True); path.write_text("synthetic")
+            self.assertEqual({p.relative_to(root).as_posix() for p in VALIDATOR.public_files()}, public)
+
+
 def source_meta(**updates) -> dict:
     result = {
         "id": "circle-1", "title": "Quantum context", "author": "Guest Author",

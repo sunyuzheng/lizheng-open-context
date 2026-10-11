@@ -2,9 +2,8 @@
 
 # 对谈原文
 
-这些原文直接参与检索，无须先生成 AI 提炼。每句保留时间码；AI 文字校对及改动复核不等于逐句听校。
-参与者名单用于寻找节目，不能确认每句话是谁说的。待核片段不能归给立正或某位嘉宾；嘉宾观点与立正本人的主张分别看待。
-同一视频若保留了旧字幕，检索优先使用这里的结构化版本；同一来源的版本、引文和提炼不构成多份独立证据。
+原文保留每句文字、时间码、发言归属和质量记录，直接参与检索。节目参与者由共享嘉宾目录提供。
+[资料架构](../docs/conversation-architecture.md) · [来源字段](../docs/source-model.md) · [校对阶段](../docs/dialogue-ingestion.md)
 
 共 339 份。[立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾保留自己发言的权利。
 
@@ -18,7 +17,7 @@
 | 2026-08-28 | [让心自由，才能更好地活着｜对话《金刚经50讲》王路](../corpus/dialogues/youtube-VSX1wxueZPU.json) | 王路 | 0 | [原视频](https://www.youtube.com/watch?v=VSX1wxueZPU) |
 | 2026-08-21 | [我们把一个世界级的AI大会带到了上海！](../corpus/dialogues/youtube-AkN2RV3X49Q.json) | 目录未列姓名 | 0 | [原视频](https://www.youtube.com/watch?v=AkN2RV3X49Q) |
 | 2026-08-17 | [吐槽大厂，做成七位数生意｜The Tech Roast Show访谈](../corpus/dialogues/youtube-XoyE0eQZYh0.json) | The Tech Roast Show（Austin、Jesse、Nikita） | 0 | [原视频](https://www.youtube.com/watch?v=XoyE0eQZYh0) |
-| 2026-08-12 | [AI时代，找工作的难度，远超你想象｜Jobright创始人分享一线求职数据](../corpus/dialogues/youtube-BR3hN7InkmY.json) | Carina；Ethan Zheng | 1 | [原视频](https://www.youtube.com/watch?v=BR3hN7InkmY) |
+| 2026-08-12 | [AI时代，找工作的难度，远超你想象｜Jobright创始人分享一线求职数据](../corpus/dialogues/youtube-BR3hN7InkmY.json) | Ethan Zheng；Carina | 1 | [原视频](https://www.youtube.com/watch?v=BR3hN7InkmY) |
 | 2026-08-04 | [人人都有50个博士为自己打工，为什么多数人的工作没什么变化？｜硅谷徐老师年度对话](../corpus/dialogues/youtube-Tvmmv93FZgc.json) | 硅谷徐老师（Howie Xu） | 0 | [原视频](https://www.youtube.com/watch?v=Tvmmv93FZgc) |
 | 2026-07-25 | [其实副业比想象中更容易开始，前提是找准需求](../corpus/dialogues/youtube-ll-X6xP-t8Y.json) | Vera & 粒粒 | 0 | [原视频](https://www.youtube.com/watch?v=ll-X6xP-t8Y) |
 | 2026-07-17 | [他的FDE团队从30人扩到100人，但为什么很多大厂工程师甚至不知道这个岗位？](../corpus/dialogues/youtube-gsK1UTt0Qiw.json) | Jove Zhong | 3 | [原视频](https://www.youtube.com/watch?v=gsK1UTt0Qiw) |
@@ -29,7 +28,7 @@
 | 2026-05-28 | [两年时间，分三步，从程序员转型成了AI创业者](../corpus/dialogues/youtube-HTxtDxEo3kQ.json) | Zero 刘希元 | 2 | [原视频](https://www.youtube.com/watch?v=HTxtDxEo3kQ) |
 | 2026-05-18 | [你跟AI高手，prompt水平差距有多大？](../corpus/dialogues/youtube--s9Oj3koBTc.json) | 目录未列姓名 | 0 | [原视频](https://www.youtube.com/watch?v=-s9Oj3koBTc) |
 | 2026-04-29 | [躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧](../corpus/dialogues/youtube-99-5ptPiHJ0.json) | 魏慧 Wei Manfredi | 1 | [原视频](https://www.youtube.com/watch?v=99-5ptPiHJ0) |
-| 2026-04-21 | [GenAI全明星：硅谷徐老师，贾扬清，Martian，吴中杰｜成本、问题、市场、现状、发展｜会员视频转公开](../corpus/dialogues/youtube-Lt-lVe957hc.json) | 硅谷徐老师（Howie Xu）；Jason Hu；贾扬清；吴中杰 Jay Wu | 4 | [原视频](https://www.youtube.com/watch?v=Lt-lVe957hc) |
+| 2026-04-21 | [GenAI全明星：硅谷徐老师，贾扬清，Martian，吴中杰｜成本、问题、市场、现状、发展｜会员视频转公开](../corpus/dialogues/youtube-Lt-lVe957hc.json) | 硅谷徐老师（Howie Xu）；贾扬清；Jason Hu；吴中杰 Jay Wu | 4 | [原视频](https://www.youtube.com/watch?v=Lt-lVe957hc) |
 | 2026-04-21 | [他给了AI自我进化的能力，随后人生被颠覆了｜EvoMap创始人，张昊阳](../corpus/dialogues/youtube-2xvXebaqZ_I.json) | 张昊阳 seikiko | 0 | [原视频](https://www.youtube.com/watch?v=2xvXebaqZ_I) |
 | 2026-04-09 | [十年前101公路挂中文招聘广告，十年后挂AI广告——他两次都在风暴中心](../corpus/dialogues/youtube-HCskdzFfl9k.json) | Wu Kan | 1 | [原视频](https://www.youtube.com/watch?v=HCskdzFfl9k) |
 | 2026-03-28 | [清华教授：应试教育在AI面前全军覆没，我们应该如何重新学习？](../corpus/dialogues/youtube--Et3GJRSI_0.json) | 刘嘉 | 0 | [原视频](https://www.youtube.com/watch?v=-Et3GJRSI_0) |

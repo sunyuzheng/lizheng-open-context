@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .source-cache/
 .venv/
+.pytest_cache/
 dist/
