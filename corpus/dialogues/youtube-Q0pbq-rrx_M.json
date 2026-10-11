@@ -1,0 +1,3941 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-Q0pbq-rrx_M",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-08-09T17:00:37Z",
+  "participant_aliases": [
+    "Terry",
+    "Terry (Hackbear Terry)"
+  ],
+  "participant_entity_ids": [
+    "guest:terry"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Terry (Hackbear Terry)",
+  "public_verified_at": "2026-10-11T01:56:01.109773+00:00",
+  "published_at": "2025-08-09",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "ee59148c2d30c7f97a1d2b3137744767921e9e2ebbf7a7dede6f9d1f89cd60af",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "ac7884aa8e9f40c8f4f6a4f937e24d2ee52b440593dde3388aa51e23e70db6d9",
+    "root_receipt_sha256": "9ba96c8b49b72aa0f341fa0e592818da93ef8e29cafe861270f28f32804dfc39",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=Q0pbq-rrx_M",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=Q0pbq-rrx_M",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "AI 时代，还需要刷 LeetCode 吗？｜@hackbearterry 访谈_下",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 1.6,
+      "id": "youtube-Q0pbq-rrx_M#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "我認為工程師他最大的價值"
+    },
+    {
+      "end_seconds": 3.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1.6,
+      "text": "對於公司來講是解決問題的"
+    },
+    {
+      "end_seconds": 4.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.2,
+      "text": "而不是說用工具的能力"
+    },
+    {
+      "end_seconds": 6.52,
+      "id": "youtube-Q0pbq-rrx_M#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.839,
+      "text": "要讓AI去幫我生成一個答案"
+    },
+    {
+      "end_seconds": 7.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.52,
+      "text": "很簡單 我就用AI"
+    },
+    {
+      "end_seconds": 8.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.48,
+      "text": "我只要把prompt寫好了"
+    },
+    {
+      "end_seconds": 9.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.519,
+      "text": "我的答案就會是正確的"
+    },
+    {
+      "end_seconds": 12.04,
+      "id": "youtube-Q0pbq-rrx_M#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.56,
+      "text": "現在這個時代最難的不是那個問題的答案"
+    },
+    {
+      "end_seconds": 13.64,
+      "id": "youtube-Q0pbq-rrx_M#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.04,
+      "text": "而是你知不知道怎麼問問題"
+    },
+    {
+      "end_seconds": 15.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.64,
+      "text": "你如果沒有這個技術的基礎"
+    },
+    {
+      "end_seconds": 16.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.2,
+      "text": "還有積累的話"
+    },
+    {
+      "end_seconds": 17.92,
+      "id": "youtube-Q0pbq-rrx_M#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.12,
+      "text": "你是沒辦法去運用好AI的工具的"
+    },
+    {
+      "end_seconds": 19.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.92,
+      "text": "有一段時間是非常集中的在訓練"
+    },
+    {
+      "end_seconds": 20.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.839,
+      "text": "我自己在Leco上面的"
+    },
+    {
+      "end_seconds": 21.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.839,
+      "text": "你發現呢"
+    },
+    {
+      "end_seconds": 23.4,
+      "id": "youtube-Q0pbq-rrx_M#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.48,
+      "text": "這邊是除了公司考Leco題目之外"
+    },
+    {
+      "end_seconds": 24.92,
+      "id": "youtube-Q0pbq-rrx_M#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.4,
+      "text": "它考的其他任何題型"
+    },
+    {
+      "end_seconds": 25.8,
+      "id": "youtube-Q0pbq-rrx_M#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.92,
+      "text": "包含系統設計"
+    },
+    {
+      "end_seconds": 27.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.8,
+      "text": "其實你都可以透過這個訓練"
+    },
+    {
+      "end_seconds": 28.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.199,
+      "text": "去讓你的能力有所提升"
+    },
+    {
+      "end_seconds": 30.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.559,
+      "text": "Leco其實就是一再解決複雜問題"
+    },
+    {
+      "end_seconds": 33.679,
+      "id": "youtube-Q0pbq-rrx_M#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.64,
+      "text": "上次我們聊天"
+    },
+    {
+      "end_seconds": 36.679,
+      "id": "youtube-Q0pbq-rrx_M#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.679,
+      "text": "我從你這學到了很多投資的知識"
+    },
+    {
+      "end_seconds": 38.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.679,
+      "text": "然後我們也交流一下賣課的事情"
+    },
+    {
+      "end_seconds": 41.039,
+      "id": "youtube-Q0pbq-rrx_M#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.519,
+      "text": "你說你現在跟人家製作一個課程"
+    },
+    {
+      "end_seconds": 44.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.039,
+      "text": "而且你講這個課程是做LeetCode的課程"
+    },
+    {
+      "end_seconds": 45.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.359,
+      "text": "可以講一下嗎"
+    },
+    {
+      "end_seconds": 47.28,
+      "id": "youtube-Q0pbq-rrx_M#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.2,
+      "text": "就是為什麼要在這個時候做一個LeetCode課程"
+    },
+    {
+      "end_seconds": 49.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.28,
+      "text": "其實很多人問我這個問題"
+    },
+    {
+      "end_seconds": 52.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.48,
+      "text": "其實我一直覺得說AI它只是一個工具而已"
+    },
+    {
+      "end_seconds": 54.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.759,
+      "text": "就像我們為什麼會有Java"
+    },
+    {
+      "end_seconds": 55.28,
+      "id": "youtube-Q0pbq-rrx_M#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.439,
+      "text": "為什麼會有Python"
+    },
+    {
+      "end_seconds": 56.32,
+      "id": "youtube-Q0pbq-rrx_M#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.28,
+      "text": "會有Machine Learning"
+    },
+    {
+      "end_seconds": 58.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.32,
+      "text": "這些都只是一個工具"
+    },
+    {
+      "end_seconds": 60.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.159,
+      "text": "一家公司為什麼要招程序員"
+    },
+    {
+      "end_seconds": 62.399,
+      "id": "youtube-Q0pbq-rrx_M#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.799,
+      "text": "為什麼要招工程師"
+    },
+    {
+      "end_seconds": 63.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.399,
+      "text": "AI如果最後AGI"
+    },
+    {
+      "end_seconds": 66.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.839,
+      "text": "那我就把所有員工都裁掉"
+    },
+    {
+      "end_seconds": 68.239,
+      "id": "youtube-Q0pbq-rrx_M#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.12,
+      "text": "我就讓AI來替我工作就好"
+    },
+    {
+      "end_seconds": 69.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.239,
+      "text": "全都是Agent"
+    },
+    {
+      "end_seconds": 70.84,
+      "id": "youtube-Q0pbq-rrx_M#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.079,
+      "text": "但這個建議就還不現實"
+    },
+    {
+      "end_seconds": 73.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.84,
+      "text": "為什麼這些公司在招工程師的時候"
+    },
+    {
+      "end_seconds": 74.679,
+      "id": "youtube-Q0pbq-rrx_M#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.359,
+      "text": "還是問一樣的問題"
+    },
+    {
+      "end_seconds": 75.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.679,
+      "text": "你怎麼去寫這個code"
+    },
+    {
+      "end_seconds": 77.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.959,
+      "text": "應該說目前沒有更好的方式"
+    },
+    {
+      "end_seconds": 80.719,
+      "id": "youtube-Q0pbq-rrx_M#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.959,
+      "text": "去短短45分鐘之內去判定說"
+    },
+    {
+      "end_seconds": 82.239,
+      "id": "youtube-Q0pbq-rrx_M#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.719,
+      "text": "我要不要Hire這個人"
+    },
+    {
+      "end_seconds": 84.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.239,
+      "text": "我覺得這是現在Hiring最難的一個地方"
+    },
+    {
+      "end_seconds": 86.64,
+      "id": "youtube-Q0pbq-rrx_M#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.799,
+      "text": "就是這個process沒辦法被取代"
+    },
+    {
+      "end_seconds": 87.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 86.64,
+      "text": "就是我今天在面試"
+    },
+    {
+      "end_seconds": 89.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.799,
+      "text": "還是一樣同樣的process"
+    },
+    {
+      "end_seconds": 91.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.2,
+      "text": "跟一年前兩年前是沒有太大區別"
+    },
+    {
+      "end_seconds": 92.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.319,
+      "text": "我們要做這個課程"
+    },
+    {
+      "end_seconds": 93.679,
+      "id": "youtube-Q0pbq-rrx_M#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.359,
+      "text": "因為首先第一個就是"
+    },
+    {
+      "end_seconds": 95.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.679,
+      "text": "我們覺得現在大家還是有這個需求"
+    },
+    {
+      "end_seconds": 97.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.799,
+      "text": "不管你今天是去面試"
+    },
+    {
+      "end_seconds": 99.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.12,
+      "text": "還是說你今天是怕被layoff"
+    },
+    {
+      "end_seconds": 101.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.0,
+      "text": "那你想要有一個類似防禦的機制"
+    },
+    {
+      "end_seconds": 103.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.599,
+      "text": "就是如果你真的被layoff的話"
+    },
+    {
+      "end_seconds": 105.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.2,
+      "text": "那你今天可以快速的找到工作嗎"
+    },
+    {
+      "end_seconds": 107.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.2,
+      "text": "能不能就是快速的去接軌下來工作"
+    },
+    {
+      "end_seconds": 109.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.159,
+      "text": "這個是我們課程可以幫助到你的"
+    },
+    {
+      "end_seconds": 109.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.159,
+      "text": "另外一點就是"
+    },
+    {
+      "end_seconds": 112.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.959,
+      "text": "我們希望透過這個方式去訓練你"
+    },
+    {
+      "end_seconds": 113.84,
+      "id": "youtube-Q0pbq-rrx_M#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.159,
+      "text": "個人的解決問題的人"
+    },
+    {
+      "end_seconds": 116.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.84,
+      "text": "因為我認為工程師最大的功能"
+    },
+    {
+      "end_seconds": 117.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.359,
+      "text": "它最大的價值"
+    },
+    {
+      "end_seconds": 119.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.2,
+      "text": "對於公司來講是解決問題的能力"
+    },
+    {
+      "end_seconds": 121.039,
+      "id": "youtube-Q0pbq-rrx_M#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.319,
+      "text": "而不是說用工具的能力"
+    },
+    {
+      "end_seconds": 121.84,
+      "id": "youtube-Q0pbq-rrx_M#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.039,
+      "text": "用工具"
+    },
+    {
+      "end_seconds": 122.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.84,
+      "text": "我今天要學Python"
+    },
+    {
+      "end_seconds": 124.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 122.799,
+      "text": "我很簡單很快就可以學了"
+    },
+    {
+      "end_seconds": 126.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 124.2,
+      "text": "要讓AI去幫我生成一個答案"
+    },
+    {
+      "end_seconds": 127.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 126.2,
+      "text": "很簡單我就用AI"
+    },
+    {
+      "end_seconds": 128.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.359,
+      "text": "我只要把prompt寫好了"
+    },
+    {
+      "end_seconds": 130.039,
+      "id": "youtube-Q0pbq-rrx_M#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.599,
+      "text": "我的答案就會是正確了"
+    },
+    {
+      "end_seconds": 131.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 130.039,
+      "text": "但是難的在哪裡"
+    },
+    {
+      "end_seconds": 134.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.24,
+      "text": "現在這個時代最難的不是那個問題的答案"
+    },
+    {
+      "end_seconds": 136.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.24,
+      "text": "而是你知不知道怎麼問問題"
+    },
+    {
+      "end_seconds": 139.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.079,
+      "text": "你如果沒有這個基礎還有積累的話"
+    },
+    {
+      "end_seconds": 141.479,
+      "id": "youtube-Q0pbq-rrx_M#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 139.0,
+      "text": "你是沒辦法去運用好AI的工具的"
+    },
+    {
+      "end_seconds": 142.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 141.479,
+      "text": "所以這也是為什麼我們"
+    },
+    {
+      "end_seconds": 144.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 142.639,
+      "text": "想要出這個課程的原因呢"
+    },
+    {
+      "end_seconds": 145.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.199,
+      "text": "首先當然是希望可以"
+    },
+    {
+      "end_seconds": 147.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.639,
+      "text": "讓你在職場上面找工作方面"
+    },
+    {
+      "end_seconds": 148.96,
+      "id": "youtube-Q0pbq-rrx_M#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.56,
+      "text": "可以非常非常的順利"
+    },
+    {
+      "end_seconds": 149.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 148.96,
+      "text": "這是第一個"
+    },
+    {
+      "end_seconds": 150.719,
+      "id": "youtube-Q0pbq-rrx_M#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.879,
+      "text": "第二個就是"
+    },
+    {
+      "end_seconds": 152.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.719,
+      "text": "希望能夠透過這個方式"
+    },
+    {
+      "end_seconds": 154.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 152.359,
+      "text": "讓你去把你的基本的能力"
+    },
+    {
+      "end_seconds": 157.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.799,
+      "text": "軟體工程師的能力給體現出來"
+    },
+    {
+      "end_seconds": 159.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.079,
+      "text": "那個就是跟我一起做這個課程的"
+    },
+    {
+      "end_seconds": 160.28,
+      "id": "youtube-Q0pbq-rrx_M#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 159.159,
+      "text": "一個朋友一個partner"
+    },
+    {
+      "end_seconds": 161.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.28,
+      "text": "他是我見過最厲害的"
+    },
+    {
+      "end_seconds": 162.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.319,
+      "text": "就是你如果經常在那個"
+    },
+    {
+      "end_seconds": 163.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 162.439,
+      "text": "LeetCode的那個榜單上面"
+    },
+    {
+      "end_seconds": 165.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.879,
+      "text": "你可以看到他前三前五那種"
+    },
+    {
+      "end_seconds": 166.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 165.599,
+      "text": "我當時就很好奇說"
+    },
+    {
+      "end_seconds": 168.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 166.519,
+      "text": "為什麼他可以這麼厲害這麼快"
+    },
+    {
+      "end_seconds": 169.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.359,
+      "text": "其實我跟他聊過很多"
+    },
+    {
+      "end_seconds": 171.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 169.439,
+      "text": "他不是因為練過很多遍"
+    },
+    {
+      "end_seconds": 172.68,
+      "id": "youtube-Q0pbq-rrx_M#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 171.359,
+      "text": "或是說看過很多遍"
+    },
+    {
+      "end_seconds": 174.28,
+      "id": "youtube-Q0pbq-rrx_M#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 172.68,
+      "text": "儘管是他沒看過很多題目"
+    },
+    {
+      "end_seconds": 176.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 174.319,
+      "text": "他可以很快速的把這個題目給"
+    },
+    {
+      "end_seconds": 178.52,
+      "id": "youtube-Q0pbq-rrx_M#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 176.319,
+      "text": "拆解成幾個更小的題目"
+    },
+    {
+      "end_seconds": 179.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 178.52,
+      "text": "就我今天給他一個"
+    },
+    {
+      "end_seconds": 180.28,
+      "id": "youtube-Q0pbq-rrx_M#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.319,
+      "text": "非常非常複雜的問題"
+    },
+    {
+      "end_seconds": 181.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.28,
+      "text": "他可以把它拆解成"
+    },
+    {
+      "end_seconds": 183.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 181.439,
+      "text": "幾個很小的更簡單的問題"
+    },
+    {
+      "end_seconds": 185.039,
+      "id": "youtube-Q0pbq-rrx_M#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.319,
+      "text": "然後用我們熟悉的工具"
+    },
+    {
+      "end_seconds": 186.68,
+      "id": "youtube-Q0pbq-rrx_M#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 185.039,
+      "text": "數據結構或者是算法"
+    },
+    {
+      "end_seconds": 187.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.68,
+      "text": "解決這些問題"
+    },
+    {
+      "end_seconds": 188.84,
+      "id": "youtube-Q0pbq-rrx_M#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 187.56,
+      "text": "那我們這堂課的目的呢"
+    },
+    {
+      "end_seconds": 190.92,
+      "id": "youtube-Q0pbq-rrx_M#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.84,
+      "text": "也是希望可以訓練大家這個能力"
+    },
+    {
+      "end_seconds": 191.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 190.92,
+      "text": "讓你變成一個"
+    },
+    {
+      "end_seconds": 193.479,
+      "id": "youtube-Q0pbq-rrx_M#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 191.639,
+      "text": "更能解決問題的一個程序員"
+    },
+    {
+      "end_seconds": 195.4,
+      "id": "youtube-Q0pbq-rrx_M#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.479,
+      "text": "而不是說你只會用工具的一個程序員"
+    },
+    {
+      "end_seconds": 196.96,
+      "id": "youtube-Q0pbq-rrx_M#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 195.4,
+      "text": "而不是說你會用AI的一個程序員"
+    },
+    {
+      "end_seconds": 197.68,
+      "id": "youtube-Q0pbq-rrx_M#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 196.96,
+      "text": "我們覺得leak code"
+    },
+    {
+      "end_seconds": 198.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.68,
+      "text": "他只是一個載體而已"
+    },
+    {
+      "end_seconds": 199.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 198.759,
+      "text": "他只是一個途徑"
+    },
+    {
+      "end_seconds": 201.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 199.759,
+      "text": "我們可以用project也可以啊"
+    },
+    {
+      "end_seconds": 201.96,
+      "id": "youtube-Q0pbq-rrx_M#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.199,
+      "text": "對啊你想想看"
+    },
+    {
+      "end_seconds": 203.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.96,
+      "text": "我今天公司要hire人"
+    },
+    {
+      "end_seconds": 204.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 203.679,
+      "text": "我也可以說"
+    },
+    {
+      "end_seconds": 206.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 204.359,
+      "text": "OK我們今天來work on一個project"
+    },
+    {
+      "end_seconds": 208.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 206.159,
+      "text": "我們spend一整天的時間去做這件事情"
+    },
+    {
+      "end_seconds": 209.559,
+      "id": "youtube-Q0pbq-rrx_M#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 208.079,
+      "text": "但是大公司哪有這個成本"
+    },
+    {
+      "end_seconds": 211.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.559,
+      "text": "Google一天他要多少個interview"
+    },
+    {
+      "end_seconds": 212.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.319,
+      "text": "每個engineer都花一天的時間"
+    },
+    {
+      "end_seconds": 214.559,
+      "id": "youtube-Q0pbq-rrx_M#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 212.839,
+      "text": "去跟candidate做一個round interview"
+    },
+    {
+      "end_seconds": 215.679,
+      "id": "youtube-Q0pbq-rrx_M#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.559,
+      "text": "那公司就虧死了"
+    },
+    {
+      "end_seconds": 216.559,
+      "id": "youtube-Q0pbq-rrx_M#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 215.679,
+      "text": "沒有人幹活了"
+    },
+    {
+      "end_seconds": 218.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.559,
+      "text": "所以說他只是一個途徑而已"
+    },
+    {
+      "end_seconds": 219.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 218.199,
+      "text": "然後我們是希望透過這個途徑"
+    },
+    {
+      "end_seconds": 221.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.839,
+      "text": "能夠訓練大家的思考方式"
+    },
+    {
+      "end_seconds": 223.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 221.959,
+      "text": "拆解問題的能力"
+    },
+    {
+      "end_seconds": 224.399,
+      "id": "youtube-Q0pbq-rrx_M#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.159,
+      "text": "如果跳出"
+    },
+    {
+      "end_seconds": 226.119,
+      "id": "youtube-Q0pbq-rrx_M#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 224.399,
+      "text": "幫大家能找到工作的"
+    },
+    {
+      "end_seconds": 227.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 226.119,
+      "text": "這樣的一個限制"
+    },
+    {
+      "end_seconds": 229.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 227.359,
+      "text": "就是跳出面試的場景"
+    },
+    {
+      "end_seconds": 230.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.319,
+      "text": "你覺得leak code"
+    },
+    {
+      "end_seconds": 233.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 230.519,
+      "text": "是訓練思維方式的最好的途徑嗎"
+    },
+    {
+      "end_seconds": 235.96,
+      "id": "youtube-Q0pbq-rrx_M#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 233.68,
+      "text": "我認為最好的方式當然是"
+    },
+    {
+      "end_seconds": 237.84,
+      "id": "youtube-Q0pbq-rrx_M#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 235.96,
+      "text": "我們今天有一個real world problem"
+    },
+    {
+      "end_seconds": 239.479,
+      "id": "youtube-Q0pbq-rrx_M#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.84,
+      "text": "就真實世界的問題"
+    },
+    {
+      "end_seconds": 241.479,
+      "id": "youtube-Q0pbq-rrx_M#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 239.479,
+      "text": "然後我們怎麼去tackle這個問題"
+    },
+    {
+      "end_seconds": 242.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 241.479,
+      "text": "從最籠統"
+    },
+    {
+      "end_seconds": 245.479,
+      "id": "youtube-Q0pbq-rrx_M#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 242.959,
+      "text": "最vague的一個business requirement下來"
+    },
+    {
+      "end_seconds": 247.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 245.479,
+      "text": "直接把這個問題給從頭到尾做一遍"
+    },
+    {
+      "end_seconds": 249.719,
+      "id": "youtube-Q0pbq-rrx_M#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.879,
+      "text": "這個我覺得當然是最好的方式"
+    },
+    {
+      "end_seconds": 252.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.719,
+      "text": "這也是我自己認為我會走到今天"
+    },
+    {
+      "end_seconds": 255.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 252.359,
+      "text": "能當這個程序員有的這個訓練"
+    },
+    {
+      "end_seconds": 256.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 255.12,
+      "text": "我覺得這是最好的方式"
+    },
+    {
+      "end_seconds": 258.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 256.36,
+      "text": "但是這個東西就比較困難"
+    },
+    {
+      "end_seconds": 259.8,
+      "id": "youtube-Q0pbq-rrx_M#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 258.24,
+      "text": "因為它需要的是"
+    },
+    {
+      "end_seconds": 261.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.8,
+      "text": "你去遇到真實世界問題"
+    },
+    {
+      "end_seconds": 262.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.12,
+      "text": "我覺得不是一個課程"
+    },
+    {
+      "end_seconds": 263.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 262.52,
+      "text": "或是一個什麼東西"
+    },
+    {
+      "end_seconds": 265.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 263.36,
+      "text": "就可以幫你去達到這樣子的"
+    },
+    {
+      "end_seconds": 267.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 265.12,
+      "text": "我覺得你需要的是真正的工作經驗"
+    },
+    {
+      "end_seconds": 269.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.48,
+      "text": "那我們認為用leak code題目"
+    },
+    {
+      "end_seconds": 271.8,
+      "id": "youtube-Q0pbq-rrx_M#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.12,
+      "text": "等於說把一個小一點的scope的問題"
+    },
+    {
+      "end_seconds": 273.84,
+      "id": "youtube-Q0pbq-rrx_M#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.8,
+      "text": "當作是一個方式去呈現"
+    },
+    {
+      "end_seconds": 275.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 273.84,
+      "text": "它的問題scope變得非常小"
+    },
+    {
+      "end_seconds": 277.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.56,
+      "text": "也是一個有點challenge的問題"
+    },
+    {
+      "end_seconds": 279.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 277.36,
+      "text": "我不知道課代表有沒有做過LeetCode題"
+    },
+    {
+      "end_seconds": 280.68,
+      "id": "youtube-Q0pbq-rrx_M#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 279.759,
+      "text": "很久以前做過"
+    },
+    {
+      "end_seconds": 281.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 280.68,
+      "text": "你就當我做過吧"
+    },
+    {
+      "end_seconds": 284.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 281.759,
+      "text": "我自己曾經有段時間是"
+    },
+    {
+      "end_seconds": 285.68,
+      "id": "youtube-Q0pbq-rrx_M#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 284.2,
+      "text": "非常集中的在訓練"
+    },
+    {
+      "end_seconds": 287.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.68,
+      "text": "我自己在leak code上面的能力"
+    },
+    {
+      "end_seconds": 288.04,
+      "id": "youtube-Q0pbq-rrx_M#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 287.0,
+      "text": "後來我發現"
+    },
+    {
+      "end_seconds": 290.52,
+      "id": "youtube-Q0pbq-rrx_M#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 288.04,
+      "text": "面試除了公司考leak code題目之外"
+    },
+    {
+      "end_seconds": 292.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 290.52,
+      "text": "它考的其他任何題型"
+    },
+    {
+      "end_seconds": 293.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 292.24,
+      "text": "包含系統設計"
+    },
+    {
+      "end_seconds": 294.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.24,
+      "text": "其實你都可以"
+    },
+    {
+      "end_seconds": 295.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 294.079,
+      "text": "透過這個訓練去"
+    },
+    {
+      "end_seconds": 296.68,
+      "id": "youtube-Q0pbq-rrx_M#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 295.159,
+      "text": "讓你的能力有所提升"
+    },
+    {
+      "end_seconds": 297.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 296.68,
+      "text": "因為你的思維方式"
+    },
+    {
+      "end_seconds": 298.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 297.839,
+      "text": "你思考的模式"
+    },
+    {
+      "end_seconds": 300.68,
+      "id": "youtube-Q0pbq-rrx_M#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 298.959,
+      "text": "已經wire in在那種方式"
+    },
+    {
+      "end_seconds": 301.479,
+      "id": "youtube-Q0pbq-rrx_M#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 300.68,
+      "text": "那leak code其實就是"
+    },
+    {
+      "end_seconds": 302.479,
+      "id": "youtube-Q0pbq-rrx_M#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.479,
+      "text": "一直在解決問題"
+    },
+    {
+      "end_seconds": 303.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 302.479,
+      "text": "解決複雜問題"
+    },
+    {
+      "end_seconds": 303.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 303.24,
+      "text": "讓你思考模式"
+    },
+    {
+      "end_seconds": 305.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 303.959,
+      "text": "已經wire in在那個方面"
+    },
+    {
+      "end_seconds": 305.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 305.159,
+      "text": "你就有一個"
+    },
+    {
+      "end_seconds": 306.68,
+      "id": "youtube-Q0pbq-rrx_M#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 305.879,
+      "text": "應該說程序員"
+    },
+    {
+      "end_seconds": 307.719,
+      "id": "youtube-Q0pbq-rrx_M#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 306.68,
+      "text": "很好的一個基礎"
+    },
+    {
+      "end_seconds": 308.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 307.719,
+      "text": "這也是為什麼我認為"
+    },
+    {
+      "end_seconds": 310.719,
+      "id": "youtube-Q0pbq-rrx_M#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 308.56,
+      "text": "大公司還在考這個leak code問題"
+    },
+    {
+      "end_seconds": 312.8,
+      "id": "youtube-Q0pbq-rrx_M#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 310.719,
+      "text": "是它寧可找一個程序員"
+    },
+    {
+      "end_seconds": 313.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 312.8,
+      "text": "是有這個基礎"
+    },
+    {
+      "end_seconds": 315.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 313.839,
+      "text": "也不願意就是risk"
+    },
+    {
+      "end_seconds": 316.719,
+      "id": "youtube-Q0pbq-rrx_M#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 315.199,
+      "text": "害一個人他沒有這個基礎"
+    },
+    {
+      "end_seconds": 317.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.719,
+      "text": "說不定他很強"
+    },
+    {
+      "end_seconds": 319.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 317.759,
+      "text": "但是這個risk太高了"
+    },
+    {
+      "end_seconds": 320.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 319.439,
+      "text": "除了這個之外"
+    },
+    {
+      "end_seconds": 320.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 320.079,
+      "text": "我覺得就各方面"
+    },
+    {
+      "end_seconds": 322.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 320.959,
+      "text": "不管是在工作的時候"
+    },
+    {
+      "end_seconds": 324.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.319,
+      "text": "還是在解決technical problem的時候"
+    },
+    {
+      "end_seconds": 325.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.759,
+      "text": "我的思考模式"
+    },
+    {
+      "end_seconds": 327.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 325.599,
+      "text": "我覺得都會有不太一樣"
+    },
+    {
+      "end_seconds": 328.919,
+      "id": "youtube-Q0pbq-rrx_M#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 327.079,
+      "text": "就跟我以前沒有做過leak code的時候"
+    },
+    {
+      "end_seconds": 330.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.919,
+      "text": "我覺得我思考模式變很多"
+    },
+    {
+      "end_seconds": 331.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 330.519,
+      "text": "所以這也是為什麼"
+    },
+    {
+      "end_seconds": 331.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 331.359,
+      "text": "我覺得很多人"
+    },
+    {
+      "end_seconds": 333.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 331.879,
+      "text": "沒有辦法去想像的一個點"
+    },
+    {
+      "end_seconds": 334.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 333.359,
+      "text": "他覺得你leak code"
+    },
+    {
+      "end_seconds": 335.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 334.439,
+      "text": "就只是為了考試"
+    },
+    {
+      "end_seconds": 336.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 335.519,
+      "text": "為了面試而已"
+    },
+    {
+      "end_seconds": 337.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.199,
+      "text": "其實我覺得反而是"
+    },
+    {
+      "end_seconds": 338.679,
+      "id": "youtube-Q0pbq-rrx_M#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 337.599,
+      "text": "訓練你思考模式"
+    },
+    {
+      "end_seconds": 340.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 338.679,
+      "text": "非常重要的一個過程"
+    },
+    {
+      "end_seconds": 342.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 340.24,
+      "text": "最後一個關於你的課程的問題"
+    },
+    {
+      "end_seconds": 343.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 342.079,
+      "text": "市面上已經有很多leak code"
+    },
+    {
+      "end_seconds": 344.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.759,
+      "text": "對你的訓練了"
+    },
+    {
+      "end_seconds": 346.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 344.56,
+      "text": "為什麼你要出一個新的"
+    },
+    {
+      "end_seconds": 347.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 346.079,
+      "text": "市面上的這些真的都不夠嗎"
+    },
+    {
+      "end_seconds": 348.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 347.759,
+      "text": "這也是一個很好問題"
+    },
+    {
+      "end_seconds": 349.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 348.759,
+      "text": "就是大家會覺得說"
+    },
+    {
+      "end_seconds": 351.32,
+      "id": "youtube-Q0pbq-rrx_M#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 349.6,
+      "text": "我在youtube上面隨便搜"
+    },
+    {
+      "end_seconds": 352.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 351.32,
+      "text": "只搜一個題型"
+    },
+    {
+      "end_seconds": 353.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.24,
+      "text": "肯定會一堆講解的人"
+    },
+    {
+      "end_seconds": 356.04,
+      "id": "youtube-Q0pbq-rrx_M#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 353.879,
+      "text": "其實你甚至你丟給chatchbt"
+    },
+    {
+      "end_seconds": 357.76,
+      "id": "youtube-Q0pbq-rrx_M#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 356.04,
+      "text": "他就可以直接給你一個解答"
+    },
+    {
+      "end_seconds": 358.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 357.76,
+      "text": "對"
+    },
+    {
+      "end_seconds": 360.08,
+      "id": "youtube-Q0pbq-rrx_M#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 358.12,
+      "text": "這個是大家都知道的"
+    },
+    {
+      "end_seconds": 360.96,
+      "id": "youtube-Q0pbq-rrx_M#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 360.08,
+      "text": "以前我也是不懂"
+    },
+    {
+      "end_seconds": 362.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 360.96,
+      "text": "我就是看線上資源"
+    },
+    {
+      "end_seconds": 363.64,
+      "id": "youtube-Q0pbq-rrx_M#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 362.48,
+      "text": "我當然也有買一些"
+    },
+    {
+      "end_seconds": 365.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.64,
+      "text": "那種很便宜的那種教學"
+    },
+    {
+      "end_seconds": 366.6,
+      "id": "youtube-Q0pbq-rrx_M#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 365.36,
+      "text": "那些帶給我的就是"
+    },
+    {
+      "end_seconds": 367.76,
+      "id": "youtube-Q0pbq-rrx_M#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 366.6,
+      "text": "OK 他告訴我"
+    },
+    {
+      "end_seconds": 368.6,
+      "id": "youtube-Q0pbq-rrx_M#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 367.76,
+      "text": "這個是solution"
+    },
+    {
+      "end_seconds": 369.6,
+      "id": "youtube-Q0pbq-rrx_M#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.6,
+      "text": "然後用什麼data structure"
+    },
+    {
+      "end_seconds": 370.28,
+      "id": "youtube-Q0pbq-rrx_M#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 369.6,
+      "text": "用什麼做"
+    },
+    {
+      "end_seconds": 371.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 370.28,
+      "text": "等於說在學習的過程"
+    },
+    {
+      "end_seconds": 372.96,
+      "id": "youtube-Q0pbq-rrx_M#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.36,
+      "text": "更像是在背那個答案"
+    },
+    {
+      "end_seconds": 373.96,
+      "id": "youtube-Q0pbq-rrx_M#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 372.96,
+      "text": "應該說更像是"
+    },
+    {
+      "end_seconds": 375.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 373.96,
+      "text": "我看到題目之後"
+    },
+    {
+      "end_seconds": 376.96,
+      "id": "youtube-Q0pbq-rrx_M#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 375.0,
+      "text": "我馬上去想到最優解是什麼"
+    },
+    {
+      "end_seconds": 378.04,
+      "id": "youtube-Q0pbq-rrx_M#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 376.96,
+      "text": "可能我先出一個"
+    },
+    {
+      "end_seconds": 379.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 378.04,
+      "text": "不是最優解的一個答案"
+    },
+    {
+      "end_seconds": 381.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.199,
+      "text": "然後我再把它優化成最優解的一個答案"
+    },
+    {
+      "end_seconds": 382.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.199,
+      "text": "那他們訓練真的就是"
+    },
+    {
+      "end_seconds": 383.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 382.439,
+      "text": "讓你在interview的時候"
+    },
+    {
+      "end_seconds": 384.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 383.639,
+      "text": "可以最佳的表現"
+    },
+    {
+      "end_seconds": 386.92,
+      "id": "youtube-Q0pbq-rrx_M#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.879,
+      "text": "但是你不知道為什麼要這樣做"
+    },
+    {
+      "end_seconds": 387.92,
+      "id": "youtube-Q0pbq-rrx_M#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 386.92,
+      "text": "我覺得這是比較可惜的"
+    },
+    {
+      "end_seconds": 389.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 387.92,
+      "text": "我認為Hank很厲害的點是"
+    },
+    {
+      "end_seconds": 390.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 389.599,
+      "text": "在做講解的時候"
+    },
+    {
+      "end_seconds": 392.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 390.519,
+      "text": "我覺得非常的有價值的一點就是"
+    },
+    {
+      "end_seconds": 394.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 392.519,
+      "text": "他從最原始的思維去"
+    },
+    {
+      "end_seconds": 395.399,
+      "id": "youtube-Q0pbq-rrx_M#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 394.599,
+      "text": "帶大家去理解"
+    },
+    {
+      "end_seconds": 397.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 395.399,
+      "text": "我們今天這條題出來之後"
+    },
+    {
+      "end_seconds": 399.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 397.519,
+      "text": "我們怎麼去把它變成"
+    },
+    {
+      "end_seconds": 401.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 399.439,
+      "text": "稍微更簡單的幾個小問題"
+    },
+    {
+      "end_seconds": 404.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 401.879,
+      "text": "然後為什麼我們要用這樣的方式去思考"
+    },
+    {
+      "end_seconds": 405.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 404.48,
+      "text": "我們用這個data structure"
+    },
+    {
+      "end_seconds": 407.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 405.639,
+      "text": "背後的邏輯是什麼"
+    },
+    {
+      "end_seconds": 408.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 407.079,
+      "text": "然後為什麼這個data structure這麼重要"
+    },
+    {
+      "end_seconds": 410.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 408.759,
+      "text": "然後他再繼續做一些延伸"
+    },
+    {
+      "end_seconds": 412.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.56,
+      "text": "我覺得這是他在講課的時候"
+    },
+    {
+      "end_seconds": 413.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 412.199,
+      "text": "提供最大的一個價值"
+    },
+    {
+      "end_seconds": 415.8,
+      "id": "youtube-Q0pbq-rrx_M#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.48,
+      "text": "我覺得這跟一些其他線上課程太一樣了"
+    },
+    {
+      "end_seconds": 416.8,
+      "id": "youtube-Q0pbq-rrx_M#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 415.8,
+      "text": "另外一點就是"
+    },
+    {
+      "end_seconds": 419.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 416.8,
+      "text": "實體在線上帶大家一起練習"
+    },
+    {
+      "end_seconds": 421.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 419.079,
+      "text": "是這個課程我認為最有價值的地方"
+    },
+    {
+      "end_seconds": 423.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 421.36,
+      "text": "因為我自己當時在練的時候"
+    },
+    {
+      "end_seconds": 425.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 423.079,
+      "text": "一開始我沒有任何人去監督我"
+    },
+    {
+      "end_seconds": 426.8,
+      "id": "youtube-Q0pbq-rrx_M#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 425.24,
+      "text": "或是跟我一起做這件事情"
+    },
+    {
+      "end_seconds": 429.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 426.8,
+      "text": "導致我浪費了大概有好幾個月的時間"
+    },
+    {
+      "end_seconds": 431.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 429.12,
+      "text": "就是半吊子去做這件事情"
+    },
+    {
+      "end_seconds": 432.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 431.079,
+      "text": "就是想到去做"
+    },
+    {
+      "end_seconds": 433.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.439,
+      "text": "然後可能過了兩個禮拜"
+    },
+    {
+      "end_seconds": 435.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 433.959,
+      "text": "就拖也沒去做這事情"
+    },
+    {
+      "end_seconds": 436.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 435.48,
+      "text": "然後之後又想到一下"
+    },
+    {
+      "end_seconds": 437.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 436.639,
+      "text": "然後又去做"
+    },
+    {
+      "end_seconds": 438.92,
+      "id": "youtube-Q0pbq-rrx_M#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 437.4,
+      "text": "導致這樣效率非常非常的低"
+    },
+    {
+      "end_seconds": 441.6,
+      "id": "youtube-Q0pbq-rrx_M#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 438.92,
+      "text": "因為很難在自己一個人的情況下"
+    },
+    {
+      "end_seconds": 443.08,
+      "id": "youtube-Q0pbq-rrx_M#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 441.6,
+      "text": "我就去堅持做這件事情"
+    },
+    {
+      "end_seconds": 444.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 443.08,
+      "text": "尤其是你已經有工作"
+    },
+    {
+      "end_seconds": 446.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 444.36,
+      "text": "你已經有穩定的生活跟步調"
+    },
+    {
+      "end_seconds": 448.4,
+      "id": "youtube-Q0pbq-rrx_M#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 446.24,
+      "text": "你很難去把時間空出來"
+    },
+    {
+      "end_seconds": 450.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 448.4,
+      "text": "就算哪怕是一個禮拜一道題"
+    },
+    {
+      "end_seconds": 452.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 450.199,
+      "text": "我覺得其實都是不太容易去堅持"
+    },
+    {
+      "end_seconds": 454.72,
+      "id": "youtube-Q0pbq-rrx_M#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 452.36,
+      "text": "我當時因為遇到了一個很好的朋友"
+    },
+    {
+      "end_seconds": 456.4,
+      "id": "youtube-Q0pbq-rrx_M#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 454.72,
+      "text": "我們一起互相約束"
+    },
+    {
+      "end_seconds": 457.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 456.4,
+      "text": "我們每天下班的時候"
+    },
+    {
+      "end_seconds": 460.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 457.879,
+      "text": "從5點一直刷題刷到凌晨12點"
+    },
+    {
+      "end_seconds": 461.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 460.639,
+      "text": "然後我們再回家"
+    },
+    {
+      "end_seconds": 464.28,
+      "id": "youtube-Q0pbq-rrx_M#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.759,
+      "text": "我們這樣幹了大概有兩三個月的時間"
+    },
+    {
+      "end_seconds": 466.08,
+      "id": "youtube-Q0pbq-rrx_M#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 464.28,
+      "text": "我認為這個效果非常非常的好"
+    },
+    {
+      "end_seconds": 467.919,
+      "id": "youtube-Q0pbq-rrx_M#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 466.12,
+      "text": "所以說我想把這個體驗帶給大家"
+    },
+    {
+      "end_seconds": 469.8,
+      "id": "youtube-Q0pbq-rrx_M#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 467.919,
+      "text": "當我知道不可能每天做這件事情"
+    },
+    {
+      "end_seconds": 471.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 469.8,
+      "text": "就是沒有人那麼有空"
+    },
+    {
+      "end_seconds": 474.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 471.24,
+      "text": "所以說我們就打算以一個禮拜一天的方式"
+    },
+    {
+      "end_seconds": 476.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 474.319,
+      "text": "讓所有加入我們的學員"
+    },
+    {
+      "end_seconds": 477.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 476.359,
+      "text": "一起在線上做這件事情"
+    },
+    {
+      "end_seconds": 479.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 477.839,
+      "text": "有點像是讀書會那種感覺"
+    },
+    {
+      "end_seconds": 480.279,
+      "id": "youtube-Q0pbq-rrx_M#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 479.24,
+      "text": "就是大家一起做"
+    },
+    {
+      "end_seconds": 482.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 480.279,
+      "text": "然後我跟Hank當然就會Live直播"
+    },
+    {
+      "end_seconds": 484.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 482.599,
+      "text": "然後最後在結束的時候做一個講解"
+    },
+    {
+      "end_seconds": 486.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 484.799,
+      "text": "因為我相信很多人是沒辦法做到這一點"
+    },
+    {
+      "end_seconds": 487.399,
+      "id": "youtube-Q0pbq-rrx_M#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 486.519,
+      "text": "就算是一週一次"
+    },
+    {
+      "end_seconds": 488.919,
+      "id": "youtube-Q0pbq-rrx_M#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 487.399,
+      "text": "我相信很多人是做不到的"
+    },
+    {
+      "end_seconds": 491.719,
+      "id": "youtube-Q0pbq-rrx_M#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 488.919,
+      "text": "對我覺得這是實在已經最有價值的另外一個點"
+    },
+    {
+      "end_seconds": 493.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 491.719,
+      "text": "就是每個週的大家刷題"
+    },
+    {
+      "end_seconds": 494.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 493.56,
+      "text": "這個是從什麼時候開始"
+    },
+    {
+      "end_seconds": 496.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.0,
+      "text": "我們是10月開始10月1號"
+    },
+    {
+      "end_seconds": 498.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 496.639,
+      "text": "10月1號開始帶大家做參與"
+    },
+    {
+      "end_seconds": 500.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.359,
+      "text": "一直run到12月底"
+    },
+    {
+      "end_seconds": 503.239,
+      "id": "youtube-Q0pbq-rrx_M#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.359,
+      "text": "除了Hank講解之外"
+    },
+    {
+      "end_seconds": 504.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 503.239,
+      "text": "另外一個我覺得很有價值的就是"
+    },
+    {
+      "end_seconds": 506.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 504.879,
+      "text": "我們叫實戰演練"
+    },
+    {
+      "end_seconds": 508.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 506.159,
+      "text": "就是我實際去考Hank這個題目"
+    },
+    {
+      "end_seconds": 512.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 508.799,
+      "text": "我們用這種Mock Interview的方式去做這個事情"
+    },
+    {
+      "end_seconds": 514.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 512.36,
+      "text": "因為我覺得最好的學習方式"
+    },
+    {
+      "end_seconds": 516.24,
+      "id": "youtube-Q0pbq-rrx_M#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 514.519,
+      "text": "就是看別人怎麼去做"
+    },
+    {
+      "end_seconds": 517.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 516.24,
+      "text": "去模仿"
+    },
+    {
+      "end_seconds": 518.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 517.0,
+      "text": "因為Hank是真的很厲害"
+    },
+    {
+      "end_seconds": 520.279,
+      "id": "youtube-Q0pbq-rrx_M#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 518.079,
+      "text": "所以說我想把這個呈現給大家"
+    },
+    {
+      "end_seconds": 523.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 520.279,
+      "text": "給大家看一個強行選手的表現應該是怎麼樣"
+    },
+    {
+      "end_seconds": 525.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 523.84,
+      "text": "然後我們會總結說"
+    },
+    {
+      "end_seconds": 527.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.2,
+      "text": "這些都是你可能之後在面試的時候"
+    },
+    {
+      "end_seconds": 528.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.439,
+      "text": "可以去注意的重點"
+    },
+    {
+      "end_seconds": 530.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 528.879,
+      "text": "我們每個章節都有一個Mock Interview"
+    },
+    {
+      "end_seconds": 532.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 530.879,
+      "text": "我覺得這也是非常有價值"
+    },
+    {
+      "end_seconds": 535.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 532.639,
+      "text": "也是應該說其他線上課程"
+    },
+    {
+      "end_seconds": 536.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 535.2,
+      "text": "比較沒有在offer一個東西"
+    },
+    {
+      "end_seconds": 537.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 536.759,
+      "text": "是啊"
+    },
+    {
+      "end_seconds": 540.039,
+      "id": "youtube-Q0pbq-rrx_M#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 537.439,
+      "text": "我自己做數據科學的視頻"
+    },
+    {
+      "end_seconds": 541.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 540.039,
+      "text": "最有價值的視頻之一"
+    },
+    {
+      "end_seconds": 543.279,
+      "id": "youtube-Q0pbq-rrx_M#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 541.759,
+      "text": "就是一期Mock Interview"
+    },
+    {
+      "end_seconds": 544.399,
+      "id": "youtube-Q0pbq-rrx_M#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.279,
+      "text": "就請了一個人過來"
+    },
+    {
+      "end_seconds": 546.039,
+      "id": "youtube-Q0pbq-rrx_M#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 544.399,
+      "text": "然後我先面試他"
+    },
+    {
+      "end_seconds": 548.399,
+      "id": "youtube-Q0pbq-rrx_M#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 546.039,
+      "text": "然後在過程中我也會用文字去講"
+    },
+    {
+      "end_seconds": 550.08,
+      "id": "youtube-Q0pbq-rrx_M#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 548.399,
+      "text": "我當時的那些細節是什麼之後"
+    },
+    {
+      "end_seconds": 551.279,
+      "id": "youtube-Q0pbq-rrx_M#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 550.08,
+      "text": "我再給他一些反饋"
+    },
+    {
+      "end_seconds": 553.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 551.279,
+      "text": "你在看到一個真正的面試表現"
+    },
+    {
+      "end_seconds": 555.72,
+      "id": "youtube-Q0pbq-rrx_M#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 553.639,
+      "text": "和我的這些critique之前"
+    },
+    {
+      "end_seconds": 557.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.72,
+      "text": "你一直在重複你的錯誤"
+    },
+    {
+      "end_seconds": 559.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.199,
+      "text": "但是你根本不知道你在犯錯"
+    },
+    {
+      "end_seconds": 560.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 559.0,
+      "text": "你也不知道這時候更好的表現"
+    },
+    {
+      "end_seconds": 561.919,
+      "id": "youtube-Q0pbq-rrx_M#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 560.759,
+      "text": "應該是什麼樣子的"
+    },
+    {
+      "end_seconds": 563.679,
+      "id": "youtube-Q0pbq-rrx_M#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 561.919,
+      "text": "當你真的在這樣一個實戰的環境下"
+    },
+    {
+      "end_seconds": 565.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 563.679,
+      "text": "看到這個東西以後"
+    },
+    {
+      "end_seconds": 566.559,
+      "id": "youtube-Q0pbq-rrx_M#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 565.0,
+      "text": "你就會發現"
+    },
+    {
+      "end_seconds": 568.72,
+      "id": "youtube-Q0pbq-rrx_M#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 566.559,
+      "text": "原來我之前一直在錯誤的地方打轉"
+    },
+    {
+      "end_seconds": 569.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 568.72,
+      "text": "網上發的那些面經"
+    },
+    {
+      "end_seconds": 571.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 569.759,
+      "text": "也都是在教我錯誤的東西"
+    },
+    {
+      "end_seconds": 572.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.0,
+      "text": "reinforce我那些錯誤的東西"
+    },
+    {
+      "end_seconds": 575.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 572.759,
+      "text": "你一旦進入了一個正確的循環了以後"
+    },
+    {
+      "end_seconds": 578.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 575.159,
+      "text": "你的進步速度才會是真的是在有意義的進步"
+    },
+    {
+      "end_seconds": 581.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.439,
+      "text": "而且我覺得當你看過很多片之後"
+    },
+    {
+      "end_seconds": 582.36,
+      "id": "youtube-Q0pbq-rrx_M#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 581.0,
+      "text": "真實在去面試的時候"
+    },
+    {
+      "end_seconds": 584.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 582.399,
+      "text": "我覺得你腦海會有帶來這些畫面"
+    },
+    {
+      "end_seconds": 587.84,
+      "id": "youtube-Q0pbq-rrx_M#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 584.519,
+      "text": "你也會去慢慢的去把自己帶入在那個情境去"
+    },
+    {
+      "end_seconds": 589.96,
+      "id": "youtube-Q0pbq-rrx_M#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 587.84,
+      "text": "我相信你也做得比現在還要更好"
+    },
+    {
+      "end_seconds": 591.44,
+      "id": "youtube-Q0pbq-rrx_M#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 589.96,
+      "text": "這個課程offering真的超多的"
+    },
+    {
+      "end_seconds": 593.279,
+      "id": "youtube-Q0pbq-rrx_M#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.44,
+      "text": "我們其實還有一個叫專業分享的部分"
+    },
+    {
+      "end_seconds": 595.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.279,
+      "text": "就是我們會請一些業界比較厲害的人"
+    },
+    {
+      "end_seconds": 597.919,
+      "id": "youtube-Q0pbq-rrx_M#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 595.879,
+      "text": "請他們來我們的學院"
+    },
+    {
+      "end_seconds": 600.56,
+      "id": "youtube-Q0pbq-rrx_M#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 597.919,
+      "text": "跟大家分享一下現在市場的一個情況"
+    },
+    {
+      "end_seconds": 601.8,
+      "id": "youtube-Q0pbq-rrx_M#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 600.56,
+      "text": "最新的一些資訊"
+    },
+    {
+      "end_seconds": 603.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 601.8,
+      "text": "關於不管是在tech"
+    },
+    {
+      "end_seconds": 604.72,
+      "id": "youtube-Q0pbq-rrx_M#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.0,
+      "text": "或是公司招人"
+    },
+    {
+      "end_seconds": 605.84,
+      "id": "youtube-Q0pbq-rrx_M#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 604.72,
+      "text": "或是他們的process"
+    },
+    {
+      "end_seconds": 606.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 605.84,
+      "text": "或是interview"
+    },
+    {
+      "end_seconds": 608.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-372",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 606.48,
+      "text": "或是在找人的這些target"
+    },
+    {
+      "end_seconds": 610.399,
+      "id": "youtube-Q0pbq-rrx_M#cue-373",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 608.519,
+      "text": "或是他們就業市場的一個分享"
+    },
+    {
+      "end_seconds": 611.8,
+      "id": "youtube-Q0pbq-rrx_M#cue-374",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 610.399,
+      "text": "我覺得這都非常非常的有幫助"
+    },
+    {
+      "end_seconds": 614.279,
+      "id": "youtube-Q0pbq-rrx_M#cue-375",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 611.839,
+      "text": "我覺得我在你身上應該很需要學習的一點"
+    },
+    {
+      "end_seconds": 616.679,
+      "id": "youtube-Q0pbq-rrx_M#cue-376",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 614.279,
+      "text": "就是你對待很多事情都很認真"
+    },
+    {
+      "end_seconds": 618.039,
+      "id": "youtube-Q0pbq-rrx_M#cue-377",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 616.679,
+      "text": "無論是投資也好"
+    },
+    {
+      "end_seconds": 618.719,
+      "id": "youtube-Q0pbq-rrx_M#cue-378",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 618.039,
+      "text": "做這個課程"
+    },
+    {
+      "end_seconds": 621.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-379",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 618.719,
+      "text": "就是我能看出來你這個課程真的設計很有些"
+    },
+    {
+      "end_seconds": 624.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-380",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 621.159,
+      "text": "我和鴨哥雖然在設計課程內容上很容易"
+    },
+    {
+      "end_seconds": 627.719,
+      "id": "youtube-Q0pbq-rrx_M#cue-381",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 624.0,
+      "text": "但是真的去賣課的時候就來吊兒郎當的"
+    },
+    {
+      "end_seconds": 628.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-382",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 627.719,
+      "text": "發個視頻"
+    },
+    {
+      "end_seconds": 631.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-383",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 628.959,
+      "text": "但可以賣得那麼好也挺厲害的"
+    },
+    {
+      "end_seconds": 632.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-384",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 631.12,
+      "text": "代表說你們是真材實料"
+    },
+    {
+      "end_seconds": 635.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-385",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 632.959,
+      "text": "這就是我覺得對不起鴨哥的一點"
+    },
+    {
+      "end_seconds": 637.199,
+      "id": "youtube-Q0pbq-rrx_M#cue-386",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 635.0,
+      "text": "就是真的覺得跟鴨哥這個課程"
+    },
+    {
+      "end_seconds": 640.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-387",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 637.199,
+      "text": "遠超市面上其他課程的水平"
+    },
+    {
+      "end_seconds": 641.919,
+      "id": "youtube-Q0pbq-rrx_M#cue-388",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 640.159,
+      "text": "就不能放到一個地方去比較"
+    },
+    {
+      "end_seconds": 644.559,
+      "id": "youtube-Q0pbq-rrx_M#cue-389",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 641.919,
+      "text": "然後不管是帶來我們的mindset"
+    },
+    {
+      "end_seconds": 647.12,
+      "id": "youtube-Q0pbq-rrx_M#cue-390",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 644.559,
+      "text": "然後鴨哥所講的這些東西"
+    },
+    {
+      "end_seconds": 649.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-391",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.12,
+      "text": "你想鴨哥他是今年年初的時候"
+    },
+    {
+      "end_seconds": 651.399,
+      "id": "youtube-Q0pbq-rrx_M#cue-392",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 649.959,
+      "text": "寫了那個cursor rules"
+    },
+    {
+      "end_seconds": 654.039,
+      "id": "youtube-Q0pbq-rrx_M#cue-393",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 651.399,
+      "text": "就是如果把cursor變成Devin的效果"
+    },
+    {
+      "end_seconds": 655.719,
+      "id": "youtube-Q0pbq-rrx_M#cue-394",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 654.039,
+      "text": "那個在github上幾千顆星"
+    },
+    {
+      "end_seconds": 657.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-395",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 655.719,
+      "text": "就是cursor現在可能做到的"
+    },
+    {
+      "end_seconds": 658.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-396",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 657.519,
+      "text": "就是cursor的官方版本"
+    },
+    {
+      "end_seconds": 661.959,
+      "id": "youtube-Q0pbq-rrx_M#cue-397",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 658.959,
+      "text": "可能有鴨哥當時幫他們魔改的那個那麼好用"
+    },
+    {
+      "end_seconds": 663.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-398",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 661.959,
+      "text": "有的地方可能還不如"
+    },
+    {
+      "end_seconds": 665.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-399",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 663.159,
+      "text": "就是他的內容如果說有一百分的話"
+    },
+    {
+      "end_seconds": 668.279,
+      "id": "youtube-Q0pbq-rrx_M#cue-400",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 665.759,
+      "text": "可能我覺得市面上另外的一個內容"
+    },
+    {
+      "end_seconds": 669.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-401",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.279,
+      "text": "最多也就是五六十分"
+    },
+    {
+      "end_seconds": 670.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-402",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 669.799,
+      "text": "不一定有"
+    },
+    {
+      "end_seconds": 673.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-403",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 670.519,
+      "text": "但是我很明顯是沒有把他的潛力發揮出來的"
+    },
+    {
+      "end_seconds": 675.519,
+      "id": "youtube-Q0pbq-rrx_M#cue-404",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 673.799,
+      "text": "因為我們賣課賣的太佛了"
+    },
+    {
+      "end_seconds": 678.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-405",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 675.519,
+      "text": "沒事我覺得這我們都可以再交流"
+    },
+    {
+      "end_seconds": 680.319,
+      "id": "youtube-Q0pbq-rrx_M#cue-406",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 678.159,
+      "text": "是的到時候兩姐請假你的假日"
+    },
+    {
+      "end_seconds": 682.479,
+      "id": "youtube-Q0pbq-rrx_M#cue-407",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 680.319,
+      "text": "我們把這個課程內容可以重新設計一下"
+    },
+    {
+      "end_seconds": 684.559,
+      "id": "youtube-Q0pbq-rrx_M#cue-408",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 682.479,
+      "text": "然後各方面都可以做得更好"
+    },
+    {
+      "end_seconds": 687.439,
+      "id": "youtube-Q0pbq-rrx_M#cue-409",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 684.559,
+      "text": "好我覺得起碼我聽了我是被totally convinced"
+    },
+    {
+      "end_seconds": 690.679,
+      "id": "youtube-Q0pbq-rrx_M#cue-410",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 687.439,
+      "text": "哪怕我不刷立刻我沒有去考這個程序的問題"
+    },
+    {
+      "end_seconds": 693.479,
+      "id": "youtube-Q0pbq-rrx_M#cue-411",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 690.679,
+      "text": "我也都有想上的感覺"
+    },
+    {
+      "end_seconds": 696.359,
+      "id": "youtube-Q0pbq-rrx_M#cue-412",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.479,
+      "text": "你知道我們到時候也會有一個鏈接"
+    },
+    {
+      "end_seconds": 697.559,
+      "id": "youtube-Q0pbq-rrx_M#cue-413",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 696.359,
+      "text": "我會放到視頻的下面"
+    },
+    {
+      "end_seconds": 699.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-414",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 697.559,
+      "text": "然後大家想上的話有一個專屬的折扣碼"
+    },
+    {
+      "end_seconds": 701.759,
+      "id": "youtube-Q0pbq-rrx_M#cue-415",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 699.839,
+      "text": "大概是一個半價的對吧"
+    },
+    {
+      "end_seconds": 702.799,
+      "id": "youtube-Q0pbq-rrx_M#cue-416",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 701.759,
+      "text": "對沒錯"
+    },
+    {
+      "end_seconds": 707.159,
+      "id": "youtube-Q0pbq-rrx_M#cue-417",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 702.799,
+      "text": "對大家就可以去直接用這個鏈接去購買就好了"
+    },
+    {
+      "end_seconds": 709.559,
+      "id": "youtube-Q0pbq-rrx_M#cue-418",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 707.159,
+      "text": "好非常感謝課代表邀請"
+    },
+    {
+      "end_seconds": 711.839,
+      "id": "youtube-Q0pbq-rrx_M#cue-419",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 709.559,
+      "text": "希望這些視頻對我們的觀眾都是有用的"
+    },
+    {
+      "end_seconds": 716.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-420",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 714.239,
+      "text": "我投資特斯拉背後邏輯是因為我相信特斯拉是"
+    },
+    {
+      "end_seconds": 718.639,
+      "id": "youtube-Q0pbq-rrx_M#cue-421",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 716.599,
+      "text": "在real world AI裡面是最強的"
+    },
+    {
+      "end_seconds": 721.079,
+      "id": "youtube-Q0pbq-rrx_M#cue-422",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 718.639,
+      "text": "領下數據還有他接下來機器人的前景"
+    },
+    {
+      "end_seconds": 725.599,
+      "id": "youtube-Q0pbq-rrx_M#cue-423",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 721.079,
+      "text": "我認為那個才是真正能夠去解決人口短缺問題的核心技術"
+    },
+    {
+      "end_seconds": 728.0,
+      "id": "youtube-Q0pbq-rrx_M#cue-424",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 725.639,
+      "text": "雷達做LM是一個很好的開始"
+    },
+    {
+      "end_seconds": 730.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-425",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 728.0,
+      "text": "並不代表說他可以去解決這方面的問題"
+    },
+    {
+      "end_seconds": 733.08,
+      "id": "youtube-Q0pbq-rrx_M#cue-426",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 730.48,
+      "text": "儘管我認為是一個很好的很賺錢的一個business"
+    },
+    {
+      "end_seconds": 735.04,
+      "id": "youtube-Q0pbq-rrx_M#cue-427",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 733.08,
+      "text": "但是我只要不懂的話我就不會把錢放在裡面"
+    },
+    {
+      "end_seconds": 736.879,
+      "id": "youtube-Q0pbq-rrx_M#cue-428",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 735.04,
+      "text": "對傳統金融會對整個世界"
+    },
+    {
+      "end_seconds": 739.2,
+      "id": "youtube-Q0pbq-rrx_M#cue-429",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 736.879,
+      "text": "對所有國家政府的威脅最大的就是穩定幣"
+    },
+    {
+      "end_seconds": 740.399,
+      "id": "youtube-Q0pbq-rrx_M#cue-430",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 739.2,
+      "text": "不是比特幣也不是以太坊"
+    },
+    {
+      "end_seconds": 742.279,
+      "id": "youtube-Q0pbq-rrx_M#cue-431",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 740.399,
+      "text": "其實大家都非常的害怕穩定幣的發展"
+    },
+    {
+      "end_seconds": 743.48,
+      "id": "youtube-Q0pbq-rrx_M#cue-432",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 742.279,
+      "text": "但是這是沒辦法擋的"
+    }
+  ],
+  "video_id": "Q0pbq-rrx_M",
+  "yuzheng_stance_weight": "not-evidence"
+}

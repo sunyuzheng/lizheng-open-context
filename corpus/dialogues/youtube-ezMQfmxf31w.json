@@ -1,0 +1,368 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-ezMQfmxf31w",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-05-10T01:51:42Z",
+  "participant_aliases": [
+    "Fan Deng",
+    "樊登"
+  ],
+  "participant_entity_ids": [
+    "guest:fan-deng"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "樊登",
+  "public_verified_at": "2026-10-11T01:59:05.387181+00:00",
+  "published_at": "2025-05-10",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "6f30744e99c894539e654662f0277edbf7e513766da2ca445adaaf4f42f0547e",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "8a9e59f28a7d8ced58e93ab03b656e7ce3ef4e393844e8511abe89aded0cd14c",
+    "root_receipt_sha256": "8591197ed2d8012dbf67bb3d0f28c312afd4551fa2c4fd1e02b2785e0088f750",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=ezMQfmxf31w",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=ezMQfmxf31w",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "樊登：被AI克隆，已经发生，并且很无力",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 3.446,
+      "id": "youtube-ezMQfmxf31w#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "你觉得大家对你的最大误解是什么可能是有人"
+    },
+    {
+      "end_seconds": 4.799,
+      "id": "youtube-ezMQfmxf31w#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.446,
+      "text": "觉得我会胡说八道"
+    },
+    {
+      "end_seconds": 7.32,
+      "id": "youtube-ezMQfmxf31w#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.639,
+      "text": "但其实我这个人很少胡说八道"
+    },
+    {
+      "end_seconds": 11.359,
+      "id": "youtube-ezMQfmxf31w#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.72,
+      "text": "我讲的东西背后都有一些书"
+    },
+    {
+      "end_seconds": 14.16,
+      "id": "youtube-ezMQfmxf31w#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.2,
+      "text": "所以要胡说八道也是那些作者胡说八道"
+    },
+    {
+      "end_seconds": 19.08,
+      "id": "youtube-ezMQfmxf31w#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.04,
+      "text": "但是相对来讲我讲的东西信噪比比较高"
+    },
+    {
+      "end_seconds": 22.32,
+      "id": "youtube-ezMQfmxf31w#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.28,
+      "text": "但是有判断能力的人很少"
+    },
+    {
+      "end_seconds": 28.24,
+      "id": "youtube-ezMQfmxf31w#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.12,
+      "text": "再加上现在早期是断章取义的多就大家瞎剪"
+    },
+    {
+      "end_seconds": 29.519,
+      "id": "youtube-ezMQfmxf31w#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.24,
+      "text": "很多东西剪到一块"
+    },
+    {
+      "end_seconds": 35.215,
+      "id": "youtube-ezMQfmxf31w#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.199,
+      "text": "那意思就完全歪曲了现在就变成瞎说了就是"
+    },
+    {
+      "end_seconds": 40.0,
+      "id": "youtube-ezMQfmxf31w#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.443,
+      "text": "AI 直接用我的头像和声音说特别恶心的话"
+    },
+    {
+      "end_seconds": 43.853,
+      "id": "youtube-ezMQfmxf31w#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.88,
+      "text": "所以我经常会碰到有好多人说讨厌你说的什么"
+    },
+    {
+      "end_seconds": 47.371,
+      "id": "youtube-ezMQfmxf31w#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.853,
+      "text": "观点我说我没说过这观点从来没有过我说我也"
+    },
+    {
+      "end_seconds": 50.519,
+      "id": "youtube-ezMQfmxf31w#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.371,
+      "text": "反对这样的观点它就是 AI 因为那些很"
+    },
+    {
+      "end_seconds": 52.12,
+      "id": "youtube-ezMQfmxf31w#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.519,
+      "text": "糟糕的观点更容易卖书"
+    },
+    {
+      "end_seconds": 54.359,
+      "id": "youtube-ezMQfmxf31w#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.079,
+      "text": "卖那些很烂的书"
+    },
+    {
+      "end_seconds": 59.32,
+      "id": "youtube-ezMQfmxf31w#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.719,
+      "text": "这个特别可怕所以 AI 如果不立法我们就"
+    },
+    {
+      "end_seconds": 61.16,
+      "id": "youtube-ezMQfmxf31w#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.32,
+      "text": "完了那就真的变坏人了"
+    },
+    {
+      "end_seconds": 66.464,
+      "id": "youtube-ezMQfmxf31w#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.92,
+      "text": "那天我刷到一个短视频就是我然后说员工都是"
+    },
+    {
+      "end_seconds": 67.4,
+      "id": "youtube-ezMQfmxf31w#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.464,
+      "text": "白眼狼"
+    },
+    {
+      "end_seconds": 72.159,
+      "id": "youtube-ezMQfmxf31w#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.2,
+      "text": "永远不要相信员工你能分辨出来是真是假吗"
+    },
+    {
+      "end_seconds": 73.0,
+      "id": "youtube-ezMQfmxf31w#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.159,
+      "text": "声音是一样"
+    },
+    {
+      "end_seconds": 77.354,
+      "id": "youtube-ezMQfmxf31w#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.04,
+      "text": "口型也对得上我就觉得稍微有点品味的人都会"
+    },
+    {
+      "end_seconds": 80.76,
+      "id": "youtube-ezMQfmxf31w#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.354,
+      "text": "讨厌我他一看觉得这人怎么这么说还有一个"
+    },
+    {
+      "end_seconds": 84.28,
+      "id": "youtube-ezMQfmxf31w#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.76,
+      "text": "视频是说我说女人就是要取悦男人"
+    },
+    {
+      "end_seconds": 88.719,
+      "id": "youtube-ezMQfmxf31w#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.48,
+      "text": "女人要不取悦男人就没法生活没有地位"
+    },
+    {
+      "end_seconds": 91.959,
+      "id": "youtube-ezMQfmxf31w#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.719,
+      "text": "这直接导致很多女的很讨厌我"
+    },
+    {
+      "end_seconds": 96.731,
+      "id": "youtube-ezMQfmxf31w#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.199,
+      "text": "所以你这是鲁迅的地位很多人不是说鲁迅说"
+    },
+    {
+      "end_seconds": 99.76,
+      "id": "youtube-ezMQfmxf31w#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.731,
+      "text": "什么什么鲁迅根本没说过这样的话他们就是"
+    },
+    {
+      "end_seconds": 103.759,
+      "id": "youtube-ezMQfmxf31w#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.76,
+      "text": "为了卖书就是为了卖那些所以只能靠法律了"
+    },
+    {
+      "end_seconds": 105.879,
+      "id": "youtube-ezMQfmxf31w#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.759,
+      "text": "打官司以及认准帆书出品"
+    },
+    {
+      "end_seconds": 111.011,
+      "id": "youtube-ezMQfmxf31w#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.359,
+      "text": "不管用他都会打帆书人家都侵你的权了人家还"
+    },
+    {
+      "end_seconds": 114.439,
+      "id": "youtube-ezMQfmxf31w#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.011,
+      "text": "怕这个吗是消费者是没有动力去认真分辨"
+    },
+    {
+      "end_seconds": 118.439,
+      "id": "youtube-ezMQfmxf31w#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.439,
+      "text": "谁会认真的分辨这是真的假的他就是喜欢不"
+    },
+    {
+      "end_seconds": 120.56,
+      "id": "youtube-ezMQfmxf31w#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.439,
+      "text": "喜欢而已是个素没"
+    }
+  ],
+  "video_id": "ezMQfmxf31w",
+  "yuzheng_stance_weight": "not-evidence"
+}

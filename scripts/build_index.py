@@ -427,6 +427,12 @@ def hub_page(root: Path) -> str:
         ["英文 AI 译稿", f"{count('english-translations')} 份", link(page, "英文资料", "index/english.md"), link(page, "corpus/english-translations/", "corpus/english-translations/"), cc_by],
         ["AI 整理与《真本事》框架", f"{len(context_files)} 份", f"[见下文](#{github_anchor('AI 整理与《真本事》框架')})", link(page, "context/", "context/"), cc_by],
     ]
+    policy_path = root / "config/public-dialogue-policy.json"
+    if policy_path.exists():
+        structured = json.loads(policy_path.read_text())["records"]
+        full_text.insert(9, ["结构化对谈原文", f"{len(structured)} 份（含既有来源的新版本）",
+            link(page, "对谈原文目录", "index/dialogues.md"), link(page, "corpus/dialogues/", "corpus/dialogues/"),
+            f"{reference}；说话人待核，不能据此推定立正赞同"])
     listed = [
         ["视频目录", f"{len(videos)} 条", link(page, "视频目录", "index/videos.md"), link(page, "catalog/videos.jsonl", "catalog/videos.jsonl"), f"{groups['listed']} 条只有目录、没有字幕"],
         ["Knowledge Bank", f"{len(kb)} 篇", link(page, "Knowledge Bank 目录", "index/knowledge-bank.md"), link(page, "catalog/knowledge-bank.jsonl", "catalog/knowledge-bank.jsonl"), f"立正的 {sum(bool(r.get('full_text_included')) for r in kb)} 篇有全文，其他作者只列标题和链接"],
@@ -466,6 +472,7 @@ def hub_page(root: Path) -> str:
         f"- {link(page, '回答协议', 'docs/answering-contract.md')}：怎样区分原文、综合和推断",
         f"- {link(page, '自己做一个 Agent', 'docs/build-your-own-agent.md')}：最小可用的检索与推荐流程",
         f"- {link(page, '来源模型', 'docs/source-model.md')}：字段、来源优先级与时间",
+        f"- {link(page, '对谈资料的两层', 'docs/dialogue-ingestion.md')}：原文、AI 提炼、说话人及收录边界",
         f"- {link(page, '隐私与权利', 'docs/privacy-and-rights.md')}：什么进仓库、什么不进",
         f"- {link(page, 'release-manifest.json', 'release-manifest.json')}：每个文件的哈希与许可；{link(page, 'REUSE.toml', 'REUSE.toml')}：机器可读的许可对照",
         "",
@@ -478,6 +485,25 @@ def hub_page(root: Path) -> str:
         "but do not republish them in full, charge for them, or train models on them. Articles by other authors keep their original rights. "
         "Catalogs and index pages are CC0; code and documentation are MIT. See [LICENSE.md](LICENSE.md).",
     ]
+    return "\n".join(out) + "\n"
+
+
+def dialogue_page(root: Path) -> str:
+    page = "index/dialogues.md"
+    policy = json.loads((root / "config/public-dialogue-policy.json").read_text())
+    rows = []
+    for binding in policy["records"]:
+        data = json.loads((root / binding["corpus_path"]).read_text())
+        rows.append({**data, "corpus_path": binding["corpus_path"]})
+    out = [GENERATED, "", "# 对谈原文", "",
+        "这些原文直接参与检索，无须先生成 AI 提炼。每句保留时间码；AI 文字校对及改动复核不等于逐句听校。",
+        "参与者名单用于寻找节目，不能确认每句话是谁说的。待核片段不能归给立正或某位嘉宾；嘉宾观点与立正本人的主张分别看待。",
+        "同一视频若保留了旧字幕，检索优先使用这里的结构化版本；同一来源的版本、引文和提炼不构成多份独立证据。", "",
+        f"共 {len(rows)} 份。{license_link(page, REFERENCE_USE)}；嘉宾保留自己发言的权利。", "",
+        *table(["日期", "原文", "节目参与者目录", "文字待核组", "视频"], [
+            [cell(day(row["published_at"])), link(page, row["title"], row["corpus_path"]),
+             cell(row.get("participant_names") or "目录未列姓名"), str(row["quality"]["unresolved_count"]),
+             link(page, "原视频", row["source_url"])] for row in newest_first(rows)], numeric={3})]
     return "\n".join(out) + "\n"
 
 
@@ -495,7 +521,10 @@ PAGES = {
 
 
 def pages(root: Path = ROOT) -> dict[str, str]:
-    return {name: build(root) for name, build in PAGES.items()}
+    built = {name: build(root) for name, build in PAGES.items()}
+    if (root / "config/public-dialogue-policy.json").exists():
+        built["index/dialogues.md"] = dialogue_page(root)
+    return built
 
 
 def write(root: Path = ROOT) -> dict[str, str]:

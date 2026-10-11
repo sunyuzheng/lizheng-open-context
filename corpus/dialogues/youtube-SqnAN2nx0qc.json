@@ -1,0 +1,583 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-SqnAN2nx0qc",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2020-02-01T00:10:24Z",
+  "participant_aliases": [
+    "冯老师（品酒课）"
+  ],
+  "participant_entity_ids": [
+    "guest:feng-wine-class"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "冯老师（品酒课）",
+  "public_verified_at": "2026-10-11T01:56:38.078654+00:00",
+  "published_at": "2020-02-01",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "7f6601962f99897c0ed74a5eec850dd22b1990a043470ac352ba5f34785ff77e",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "f992ccb77a480566e002e8468ece2d90e7c01b908b7e81f26f969e62ed66df67",
+    "root_receipt_sha256": "a3b064ff108bf4cb949e19df59ed6c9f60401e75c59727c2204642650c94e805",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=SqnAN2nx0qc",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=SqnAN2nx0qc",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "冯老师品酒课   Casetta 1990",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 3.325,
+      "id": "youtube-SqnAN2nx0qc#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "刚才在餐馆喝了一个 Barbaresco,"
+    },
+    {
+      "end_seconds": 5.775,
+      "id": "youtube-SqnAN2nx0qc#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.325,
+      "text": "讲到说 Barbaresco 跟"
+    },
+    {
+      "end_seconds": 9.476,
+      "id": "youtube-SqnAN2nx0qc#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.95,
+      "text": "Barolo 一个是意大利红酒皇后,一个"
+    },
+    {
+      "end_seconds": 12.1,
+      "id": "youtube-SqnAN2nx0qc#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.476,
+      "text": "是意大利红酒之王那么现在喝一个红酒之王"
+    },
+    {
+      "end_seconds": 13.182,
+      "id": "youtube-SqnAN2nx0qc#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.1,
+      "text": "就是 Barolo 它跟"
+    },
+    {
+      "end_seconds": 15.091,
+      "id": "youtube-SqnAN2nx0qc#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.273,
+      "text": "Barbaresco 用的是同一种葡萄,"
+    },
+    {
+      "end_seconds": 17.094,
+      "id": "youtube-SqnAN2nx0qc#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.091,
+      "text": "叫 Nebbiolo 然后这一个款的"
+    },
+    {
+      "end_seconds": 19.594,
+      "id": "youtube-SqnAN2nx0qc#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.25,
+      "text": "Nebbiolo 这个厂家叫做"
+    },
+    {
+      "end_seconds": 22.5,
+      "id": "youtube-SqnAN2nx0qc#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.75,
+      "text": "Casetta 然后它上面除了告诉你"
+    },
+    {
+      "end_seconds": 25.1,
+      "id": "youtube-SqnAN2nx0qc#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.65,
+      "text": "Barolo 里面还告诉你很重要的信息,"
+    },
+    {
+      "end_seconds": 26.0,
+      "id": "youtube-SqnAN2nx0qc#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.1,
+      "text": "叫 Riserva"
+    },
+    {
+      "end_seconds": 31.455,
+      "id": "youtube-SqnAN2nx0qc#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.0,
+      "text": "说明它是一个陈酿过的 Barolo 但你"
+    },
+    {
+      "end_seconds": 36.0,
+      "id": "youtube-SqnAN2nx0qc#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.455,
+      "text": "会想说,这瓶看年份已经是 1990 年了"
+    },
+    {
+      "end_seconds": 37.0,
+      "id": "youtube-SqnAN2nx0qc#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.0,
+      "text": "所以这个 Riserva 什么意思呢?"
+    },
+    {
+      "end_seconds": 39.5,
+      "id": "youtube-SqnAN2nx0qc#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.0,
+      "text": "其实这个 Riserva 讲的是,它在出"
+    },
+    {
+      "end_seconds": 43.556,
+      "id": "youtube-SqnAN2nx0qc#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.5,
+      "text": "酒庄之前它在它的木桶里面至少陈年 5 年"
+    },
+    {
+      "end_seconds": 46.0,
+      "id": "youtube-SqnAN2nx0qc#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.556,
+      "text": "以上为什么这对 Barolo 很重要?"
+    },
+    {
+      "end_seconds": 48.4,
+      "id": "youtube-SqnAN2nx0qc#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.0,
+      "text": "因为 Barolo,刚才说它的酒体很强劲"
+    },
+    {
+      "end_seconds": 52.75,
+      "id": "youtube-SqnAN2nx0qc#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.4,
+      "text": ",单宁厚重所以大部分的传统的酒庄它会选择"
+    },
+    {
+      "end_seconds": 55.941,
+      "id": "youtube-SqnAN2nx0qc#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.75,
+      "text": "在木桶当中陈年很久的时间很多人会陈年 5"
+    },
+    {
+      "end_seconds": 57.0,
+      "id": "youtube-SqnAN2nx0qc#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.059,
+      "text": "年,至少 5 年"
+    },
+    {
+      "end_seconds": 59.4,
+      "id": "youtube-SqnAN2nx0qc#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.0,
+      "text": "然后很多人会选择陈年 10 年以后才会在"
+    },
+    {
+      "end_seconds": 63.111,
+      "id": "youtube-SqnAN2nx0qc#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.4,
+      "text": "市场出一卖因为如果在那之前的话,出来的"
+    },
+    {
+      "end_seconds": 65.75,
+      "id": "youtube-SqnAN2nx0qc#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.111,
+      "text": "酒太涩了大家其实喝不了所以这个"
+    },
+    {
+      "end_seconds": 69.846,
+      "id": "youtube-SqnAN2nx0qc#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.938,
+      "text": "Riserva 告诉你它至少葡萄榨完汁"
+    },
+    {
+      "end_seconds": 73.857,
+      "id": "youtube-SqnAN2nx0qc#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.846,
+      "text": "酿成酒以后它在一个很大的木桶里面至少陈年"
+    },
+    {
+      "end_seconds": 77.1,
+      "id": "youtube-SqnAN2nx0qc#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.048,
+      "text": "5 年以上在它的背标也说了一句话,至少"
+    },
+    {
+      "end_seconds": 79.059,
+      "id": "youtube-SqnAN2nx0qc#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.1,
+      "text": "陈年 5 年这样的话才能被称为"
+    },
+    {
+      "end_seconds": 84.0,
+      "id": "youtube-SqnAN2nx0qc#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.176,
+      "text": "Riserva 就是这种真选真样子的酒"
+    },
+    {
+      "end_seconds": 87.0,
+      "id": "youtube-SqnAN2nx0qc#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.0,
+      "text": "这瓶我们刚才讲的时候已经是 90 年了"
+    },
+    {
+      "end_seconds": 91.286,
+      "id": "youtube-SqnAN2nx0qc#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.0,
+      "text": "所以它喝上去它的那种陈年过程中给你带来的"
+    },
+    {
+      "end_seconds": 93.0,
+      "id": "youtube-SqnAN2nx0qc#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.286,
+      "text": "味道会更丰富一点"
+    },
+    {
+      "end_seconds": 96.619,
+      "id": "youtube-SqnAN2nx0qc#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.0,
+      "text": "所以像我闻上去的话会闻到很浓郁的蘑菇的"
+    },
+    {
+      "end_seconds": 101.636,
+      "id": "youtube-SqnAN2nx0qc#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.619,
+      "text": "味道是一种你可以想象那种新鲜蘑菇被打碎"
+    },
+    {
+      "end_seconds": 107.643,
+      "id": "youtube-SqnAN2nx0qc#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.636,
+      "text": "以后的味道它会闻到一点点果味但是比较"
+    },
+    {
+      "end_seconds": 111.455,
+      "id": "youtube-SqnAN2nx0qc#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.643,
+      "text": "淡像靖晨刚才讲说它是梅子味我觉得这个说的"
+    },
+    {
+      "end_seconds": 116.25,
+      "id": "youtube-SqnAN2nx0qc#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.455,
+      "text": "很贴切我也可以闻到一些红梅或者说话梅或者"
+    },
+    {
+      "end_seconds": 118.759,
+      "id": "youtube-SqnAN2nx0qc#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.25,
+      "text": "乌梅的这种感觉然后还有一点点 Raw"
+    },
+    {
+      "end_seconds": 120.5,
+      "id": "youtube-SqnAN2nx0qc#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.828,
+      "text": "Fruit 像 Cranberry 然后"
+    },
+    {
+      "end_seconds": 125.111,
+      "id": "youtube-SqnAN2nx0qc#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 120.5,
+      "text": "一点点甜甜的 Oak 的味道让它喝上去的"
+    },
+    {
+      "end_seconds": 128.815,
+      "id": "youtube-SqnAN2nx0qc#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.111,
+      "text": "时候我个人感觉它已经有点过了它的最佳适饮"
+    },
+    {
+      "end_seconds": 132.0,
+      "id": "youtube-SqnAN2nx0qc#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.815,
+      "text": "年因为它刚开始我的酸度的感觉非常高"
+    },
+    {
+      "end_seconds": 136.762,
+      "id": "youtube-SqnAN2nx0qc#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.0,
+      "text": "只可以理解为酒精在缓慢氧化过程中慢慢变成"
+    },
+    {
+      "end_seconds": 140.913,
+      "id": "youtube-SqnAN2nx0qc#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.762,
+      "text": "酸然后它尾韵的话其实刚才也有朋友提到它"
+    },
+    {
+      "end_seconds": 144.812,
+      "id": "youtube-SqnAN2nx0qc#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.913,
+      "text": "非常的优雅就是它的那种酒精灼烧感不是那么"
+    },
+    {
+      "end_seconds": 148.065,
+      "id": "youtube-SqnAN2nx0qc#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.812,
+      "text": "强它在陈年过程中它的酒精可能一方面是蒸发"
+    },
+    {
+      "end_seconds": 150.514,
+      "id": "youtube-SqnAN2nx0qc#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 148.065,
+      "text": "一方面它已经融合的非常好然后它也有跟"
+    },
+    {
+      "end_seconds": 151.886,
+      "id": "youtube-SqnAN2nx0qc#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.6,
+      "text": "Barbaresco 刚才我喝的"
+    },
+    {
+      "end_seconds": 153.933,
+      "id": "youtube-SqnAN2nx0qc#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.971,
+      "text": "Barbaresco 一样它也有很浓郁的"
+    },
+    {
+      "end_seconds": 156.6,
+      "id": "youtube-SqnAN2nx0qc#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.933,
+      "text": "一种 savoriness 就是一种鲜度"
+    },
+    {
+      "end_seconds": 160.4,
+      "id": "youtube-SqnAN2nx0qc#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 156.6,
+      "text": "在里面一直很悠长总的来说我觉得是一瓶不错"
+    },
+    {
+      "end_seconds": 167.0,
+      "id": "youtube-SqnAN2nx0qc#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.4,
+      "text": "喝的酒我觉得如果能提前 5 年喝它的果味"
+    },
+    {
+      "end_seconds": 170.267,
+      "id": "youtube-SqnAN2nx0qc#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.0,
+      "text": "如果能再突出一点它还能再多一点单宁的话我"
+    },
+    {
+      "end_seconds": 175.059,
+      "id": "youtube-SqnAN2nx0qc#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 170.267,
+      "text": "觉得会是一个更加平衡的一瓶酒现在喝上去我"
+    },
+    {
+      "end_seconds": 178.227,
+      "id": "youtube-SqnAN2nx0qc#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.059,
+      "text": "觉得它的酸度有点太高了但是其实我刚才放了"
+    },
+    {
+      "end_seconds": 180.667,
+      "id": "youtube-SqnAN2nx0qc#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 178.227,
+      "text": "一口我觉得现在喝上去也不错酸度感觉没有"
+    },
+    {
+      "end_seconds": 183.385,
+      "id": "youtube-SqnAN2nx0qc#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.667,
+      "text": "那么高也许是温度的原因对这就是我们现在喝"
+    },
+    {
+      "end_seconds": 186.2,
+      "id": "youtube-SqnAN2nx0qc#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.385,
+      "text": "的瓶 90 年的 Barolo 好"
+    },
+    {
+      "end_seconds": 187.0,
+      "id": "youtube-SqnAN2nx0qc#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.2,
+      "text": "谢谢大家"
+    }
+  ],
+  "video_id": "SqnAN2nx0qc",
+  "yuzheng_stance_weight": "not-evidence"
+}

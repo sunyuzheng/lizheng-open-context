@@ -1,0 +1,867 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-WU5lKVm4oOE",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2020-08-04T03:48:30Z",
+  "participant_aliases": [
+    "Cooper",
+    "Cooper Zhu",
+    "Cooper竹子",
+    "Lu Wei",
+    "Wei Lu",
+    "卢蔚"
+  ],
+  "participant_entity_ids": [
+    "guest:lu-wei"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "卢蔚（Cooper）",
+  "public_verified_at": "2026-10-11T01:57:29.303090+00:00",
+  "published_at": "2020-08-04",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "89665fb4913505c3c10dfb830aa72a95b928188c0c9a867cc3831770bfc432e4",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "233e70084bc42b1eebf0d5af23d328bb4aa1e62134b475a9e9104cf0841593ef",
+    "root_receipt_sha256": "f33f7d8ea494f27d71cff1c38d765e7f9cd77f51b86fdcec889710930ec35365",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=WU5lKVm4oOE",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=WU5lKVm4oOE",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "人工智能@互联网大厂 - 花絮",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 4.254,
+      "id": "youtube-WU5lKVm4oOE#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "说到这个,我要进行一个预测,就是我们来聊"
+    },
+    {
+      "end_seconds": 7.65,
+      "id": "youtube-WU5lKVm4oOE#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.254,
+      "text": "一下美国政府到底要怎么对付这几家公司的"
+    },
+    {
+      "end_seconds": 11.24,
+      "id": "youtube-WU5lKVm4oOE#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.65,
+      "text": "垄断当然我不能说我们公司在垄断,这不正确"
+    },
+    {
+      "end_seconds": 13.732,
+      "id": "youtube-WU5lKVm4oOE#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.24,
+      "text": "我借用那个 Subcommittee 的"
+    },
+    {
+      "end_seconds": 17.231,
+      "id": "youtube-WU5lKVm4oOE#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.732,
+      "text": "主席的话来说他认为垄断是存在的然后这事"
+    },
+    {
+      "end_seconds": 20.726,
+      "id": "youtube-WU5lKVm4oOE#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.231,
+      "text": "一定会被搞的,关键是怎么搞的问题我认为"
+    },
+    {
+      "end_seconds": 23.433,
+      "id": "youtube-WU5lKVm4oOE#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.726,
+      "text": "美国会 somehow 让他们公开一部分"
+    },
+    {
+      "end_seconds": 25.519,
+      "id": "youtube-WU5lKVm4oOE#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.433,
+      "text": "的数据或者至少让大家都有 access"
+    },
+    {
+      "end_seconds": 29.64,
+      "id": "youtube-WU5lKVm4oOE#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.199,
+      "text": "这才是真正的在打断他的垄断如果他这么做"
+    },
+    {
+      "end_seconds": 34.362,
+      "id": "youtube-WU5lKVm4oOE#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.64,
+      "text": "如果他这么做,美国会产生一大批的那些小的"
+    },
+    {
+      "end_seconds": 34.92,
+      "id": "youtube-WU5lKVm4oOE#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.362,
+      "text": "公司来"
+    },
+    {
+      "end_seconds": 39.12,
+      "id": "youtube-WU5lKVm4oOE#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.64,
+      "text": "来那个,就他其实又会促成一个发展"
+    },
+    {
+      "end_seconds": 44.04,
+      "id": "youtube-WU5lKVm4oOE#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.84,
+      "text": "我给你做一个不一样的预测吧我觉得你说的"
+    },
+    {
+      "end_seconds": 46.437,
+      "id": "youtube-WU5lKVm4oOE#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.04,
+      "text": "这个,我同意你的 solution 我"
+    },
+    {
+      "end_seconds": 48.24,
+      "id": "youtube-WU5lKVm4oOE#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.437,
+      "text": "觉得这是一个很好的 solution"
+    },
+    {
+      "end_seconds": 49.56,
+      "id": "youtube-WU5lKVm4oOE#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.24,
+      "text": "但是这不是一个"
+    },
+    {
+      "end_seconds": 51.503,
+      "id": "youtube-WU5lKVm4oOE#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.2,
+      "text": "现有政治体制之下能达到的"
+    },
+    {
+      "end_seconds": 54.851,
+      "id": "youtube-WU5lKVm4oOE#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.611,
+      "text": "solution 就是你想的可能是有一个"
+    },
+    {
+      "end_seconds": 58.52,
+      "id": "youtube-WU5lKVm4oOE#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.851,
+      "text": "哲人王在那做然后去理想国哲人王这种情况下"
+    },
+    {
+      "end_seconds": 60.182,
+      "id": "youtube-WU5lKVm4oOE#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.52,
+      "text": "然后大家就是用了一个非常 make"
+    },
+    {
+      "end_seconds": 62.959,
+      "id": "youtube-WU5lKVm4oOE#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.28,
+      "text": "sense 的东西把这事做好了但是你如果"
+    },
+    {
+      "end_seconds": 65.36,
+      "id": "youtube-WU5lKVm4oOE#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.959,
+      "text": "看听证会,你也看到了就是党派斗争的上面都"
+    },
+    {
+      "end_seconds": 68.412,
+      "id": "youtube-WU5lKVm4oOE#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.36,
+      "text": "是一个很大的东西更不要说是怎么样子去解决"
+    },
+    {
+      "end_seconds": 68.56,
+      "id": "youtube-WU5lKVm4oOE#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.412,
+      "text": "它"
+    },
+    {
+      "end_seconds": 71.133,
+      "id": "youtube-WU5lKVm4oOE#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.439,
+      "text": "对,这肯定是有 technical 有"
+    },
+    {
+      "end_seconds": 73.033,
+      "id": "youtube-WU5lKVm4oOE#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.133,
+      "text": "难度的但我为什么这么说呢?不是"
+    },
+    {
+      "end_seconds": 74.167,
+      "id": "youtube-WU5lKVm4oOE#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.09,
+      "text": "technical 的难度,我说的不是"
+    },
+    {
+      "end_seconds": 76.48,
+      "id": "youtube-WU5lKVm4oOE#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.223,
+      "text": "technical 的难度是他们的核心"
+    },
+    {
+      "end_seconds": 79.952,
+      "id": "youtube-WU5lKVm4oOE#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.48,
+      "text": "目的并不是真正为了反垄断他们的核心目的你"
+    },
+    {
+      "end_seconds": 82.185,
+      "id": "youtube-WU5lKVm4oOE#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.952,
+      "text": "要想啊,你要这样想,我们来 debate"
+    },
+    {
+      "end_seconds": 82.52,
+      "id": "youtube-WU5lKVm4oOE#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.297,
+      "text": "一下"
+    },
+    {
+      "end_seconds": 87.279,
+      "id": "youtube-WU5lKVm4oOE#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 83.2,
+      "text": "二十几年前微软比现在的垄断更垄断二十几年"
+    },
+    {
+      "end_seconds": 87.519,
+      "id": "youtube-WU5lKVm4oOE#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.279,
+      "text": "前"
+    },
+    {
+      "end_seconds": 91.312,
+      "id": "youtube-WU5lKVm4oOE#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.399,
+      "text": "我不知道你当时有没有其实我也是最近才看到"
+    },
+    {
+      "end_seconds": 91.439,
+      "id": "youtube-WU5lKVm4oOE#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.312,
+      "text": "的"
+    },
+    {
+      "end_seconds": 93.799,
+      "id": "youtube-WU5lKVm4oOE#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.079,
+      "text": "那个美国政府最后跟他 settle"
+    },
+    {
+      "end_seconds": 96.382,
+      "id": "youtube-WU5lKVm4oOE#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.56,
+      "text": "settle 的结果是微软同意开放他"
+    },
+    {
+      "end_seconds": 98.324,
+      "id": "youtube-WU5lKVm4oOE#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.483,
+      "text": "Windows 的 API 让第三方的"
+    },
+    {
+      "end_seconds": 100.004,
+      "id": "youtube-WU5lKVm4oOE#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 98.324,
+      "text": "软件 developer 可以来"
+    },
+    {
+      "end_seconds": 101.159,
+      "id": "youtube-WU5lKVm4oOE#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 100.109,
+      "text": "develop 应用"
+    },
+    {
+      "end_seconds": 105.239,
+      "id": "youtube-WU5lKVm4oOE#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.56,
+      "text": "我觉得这个其实跟你开放数据是一模一样的"
+    },
+    {
+      "end_seconds": 108.52,
+      "id": "youtube-WU5lKVm4oOE#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.239,
+      "text": "就是当时当时微软之所以被搞是因为他把网景"
+    },
+    {
+      "end_seconds": 111.31,
+      "id": "youtube-WU5lKVm4oOE#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.52,
+      "text": "浏览器给弄死了当时的美国和现在美国已经"
+    },
+    {
+      "end_seconds": 114.301,
+      "id": "youtube-WU5lKVm4oOE#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.31,
+      "text": "不是一个哦,那这样说,那我就我说的是"
+    },
+    {
+      "end_seconds": 117.191,
+      "id": "youtube-WU5lKVm4oOE#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 114.301,
+      "text": "政治体制的问题然后我说的是他们现在有没有"
+    },
+    {
+      "end_seconds": 117.999,
+      "id": "youtube-WU5lKVm4oOE#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.191,
+      "text": "办法 reached 一个"
+    },
+    {
+      "end_seconds": 119.536,
+      "id": "youtube-WU5lKVm4oOE#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.051,
+      "text": "sensible solution 了那"
+    },
+    {
+      "end_seconds": 121.559,
+      "id": "youtube-WU5lKVm4oOE#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.536,
+      "text": "也是有可能的那是有可能的"
+    },
+    {
+      "end_seconds": 126.246,
+      "id": "youtube-WU5lKVm4oOE#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 122.559,
+      "text": "但如果这样反而如果中国做了的话那美国就我"
+    },
+    {
+      "end_seconds": 130.439,
+      "id": "youtube-WU5lKVm4oOE#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 126.246,
+      "text": "觉得可能就会输掉这个竞赛了有可能我对我我"
+    },
+    {
+      "end_seconds": 132.224,
+      "id": "youtube-WU5lKVm4oOE#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 130.439,
+      "text": "我觉得刚才我没有把你的 solution"
+    },
+    {
+      "end_seconds": 134.439,
+      "id": "youtube-WU5lKVm4oOE#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.313,
+      "text": "给讲清楚啊我稍稍这个 rephrase"
+    },
+    {
+      "end_seconds": 138.152,
+      "id": "youtube-WU5lKVm4oOE#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.559,
+      "text": "一下或者说我来说一下我的理解就是你觉得"
+    },
+    {
+      "end_seconds": 141.55,
+      "id": "youtube-WU5lKVm4oOE#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 138.152,
+      "text": "这个数据模型哦不是,你觉得模型本身呢是"
+    },
+    {
+      "end_seconds": 144.263,
+      "id": "youtube-WU5lKVm4oOE#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 141.55,
+      "text": "锄头对吧然后模型开放的大家模型也都可以做"
+    },
+    {
+      "end_seconds": 147.989,
+      "id": "youtube-WU5lKVm4oOE#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.263,
+      "text": "得差不多但是数据才是真正的壁垒和精硕数据"
+    },
+    {
+      "end_seconds": 150.075,
+      "id": "youtube-WU5lKVm4oOE#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.989,
+      "text": "才是真正的矿所以我们叫 data"
+    },
+    {
+      "end_seconds": 152.4,
+      "id": "youtube-WU5lKVm4oOE#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.178,
+      "text": "mining 就是你数据开放了"
+    },
+    {
+      "end_seconds": 155.388,
+      "id": "youtube-WU5lKVm4oOE#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 152.4,
+      "text": "自然会有资本去让你做出更好的锄头就是你"
+    },
+    {
+      "end_seconds": 158.273,
+      "id": "youtube-WU5lKVm4oOE#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 155.388,
+      "text": "资本的动机比你 Google 让我去"
+    },
+    {
+      "end_seconds": 161.4,
+      "id": "youtube-WU5lKVm4oOE#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.396,
+      "text": "raise 人类的知识的吧那个动机强多了"
+    },
+    {
+      "end_seconds": 164.382,
+      "id": "youtube-WU5lKVm4oOE#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.4,
+      "text": "然后你觉得如果我们说如果这些大厂有垄断"
+    },
+    {
+      "end_seconds": 167.424,
+      "id": "youtube-WU5lKVm4oOE#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 164.382,
+      "text": "的话垄断都是在这数据之上如果能三方开放"
+    },
+    {
+      "end_seconds": 171.856,
+      "id": "youtube-WU5lKVm4oOE#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.424,
+      "text": "这些数据的话啊就可以非常有效的促进竞争把"
+    },
+    {
+      "end_seconds": 175.186,
+      "id": "youtube-WU5lKVm4oOE#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 171.856,
+      "text": "这个大厂我相信有一大波这些大厂里面的人就"
+    },
+    {
+      "end_seconds": 177.309,
+      "id": "youtube-WU5lKVm4oOE#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.186,
+      "text": "会有 risk seeking 的人就会"
+    },
+    {
+      "end_seconds": 178.719,
+      "id": "youtube-WU5lKVm4oOE#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.309,
+      "text": "出去自己搞相信这样"
+    },
+    {
+      "end_seconds": 182.354,
+      "id": "youtube-WU5lKVm4oOE#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.719,
+      "text": "嗯好的我觉得这真的是一个挺好的"
+    },
+    {
+      "end_seconds": 184.74,
+      "id": "youtube-WU5lKVm4oOE#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 182.484,
+      "text": "solution 可能有一些隐私方面的"
+    },
+    {
+      "end_seconds": 186.703,
+      "id": "youtube-WU5lKVm4oOE#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.74,
+      "text": "这个 concern 但是它可以比方"
+    },
+    {
+      "end_seconds": 188.415,
+      "id": "youtube-WU5lKVm4oOE#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.775,
+      "text": "aggregate level 嘛比如说"
+    },
+    {
+      "end_seconds": 191.055,
+      "id": "youtube-WU5lKVm4oOE#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.415,
+      "text": "像图调教育所一样你不给每个人买了什么你给"
+    },
+    {
+      "end_seconds": 193.985,
+      "id": "youtube-WU5lKVm4oOE#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 191.055,
+      "text": "大家一天买了什么或者一类的都可以这是"
+    },
+    {
+      "end_seconds": 195.0,
+      "id": "youtube-WU5lKVm4oOE#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 194.058,
+      "text": "technical 的问题"
+    },
+    {
+      "end_seconds": 202.159,
+      "id": "youtube-WU5lKVm4oOE#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 198.52,
+      "text": "对我觉得以这个美国人普遍对技术的信任来说"
+    },
+    {
+      "end_seconds": 203.64,
+      "id": "youtube-WU5lKVm4oOE#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 202.159,
+      "text": "这件事是不太可能的"
+    },
+    {
+      "end_seconds": 208.099,
+      "id": "youtube-WU5lKVm4oOE#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 204.52,
+      "text": "我觉得这几乎是我能想到的唯一的办法其他的"
+    },
+    {
+      "end_seconds": 208.319,
+      "id": "youtube-WU5lKVm4oOE#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 208.099,
+      "text": "都"
+    },
+    {
+      "end_seconds": 212.4,
+      "id": "youtube-WU5lKVm4oOE#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.24,
+      "text": "你不要就不要说这个就是连这个"
+    },
+    {
+      "end_seconds": 216.959,
+      "id": "youtube-WU5lKVm4oOE#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.28,
+      "text": "就是就是用这个邮寄选票的这件事情是一个"
+    },
+    {
+      "end_seconds": 220.03,
+      "id": "youtube-WU5lKVm4oOE#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.959,
+      "text": "非常容易用用他们说有很多 fraud 的"
+    },
+    {
+      "end_seconds": 222.994,
+      "id": "youtube-WU5lKVm4oOE#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.03,
+      "text": "问题这是一个非常容易被技术解决的问题但是"
+    },
+    {
+      "end_seconds": 226.48,
+      "id": "youtube-WU5lKVm4oOE#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.994,
+      "text": "他们不可能去用技术解决一方面是因为政治"
+    },
+    {
+      "end_seconds": 229.599,
+      "id": "youtube-WU5lKVm4oOE#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 226.48,
+      "text": "另外一方面就是大家确实对技术不信任"
+    },
+    {
+      "end_seconds": 232.0,
+      "id": "youtube-WU5lKVm4oOE#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 230.239,
+      "text": "他们认为你加了这些"
+    },
+    {
+      "end_seconds": 238.24,
+      "id": "youtube-WU5lKVm4oOE#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 233.12,
+      "text": "反法的技术反而会导致这个就是科技公司也好"
+    },
+    {
+      "end_seconds": 243.028,
+      "id": "youtube-WU5lKVm4oOE#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.24,
+      "text": "政府去操纵在背后去操纵对受过教育的很年轻"
+    },
+    {
+      "end_seconds": 244.359,
+      "id": "youtube-WU5lKVm4oOE#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 243.028,
+      "text": "的那个要好一点"
+    },
+    {
+      "end_seconds": 248.245,
+      "id": "youtube-WU5lKVm4oOE#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 245.12,
+      "text": "但是那部分百分之四十左右的支持川普的人我"
+    },
+    {
+      "end_seconds": 249.959,
+      "id": "youtube-WU5lKVm4oOE#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 248.245,
+      "text": "就不知道怎么 deal with 这帮人"
+    }
+  ],
+  "video_id": "WU5lKVm4oOE",
+  "yuzheng_stance_weight": "not-evidence"
+}

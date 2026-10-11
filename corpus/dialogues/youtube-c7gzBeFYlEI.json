@@ -1,0 +1,917 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-c7gzBeFYlEI",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-06-03T23:00:46+00:00",
+  "participant_aliases": [
+    "Fan Deng",
+    "樊登"
+  ],
+  "participant_entity_ids": [
+    "guest:fan-deng"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "樊登",
+  "public_verified_at": "2026-10-11T01:58:25.193928+00:00",
+  "published_at": "2025-06-03",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "f39d2a488337a8f857e53ccfa64a34e1f039a1bb4ddd1864a1058aacb2ff61e6",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "34c7619835eadf36be4f1f9ed78a042940bc87c82cefeb3cf56398cdd7607851",
+    "root_receipt_sha256": "291fe3853199a3b7fa1bda8f646c3bcc0c66d17b54b4e45fd140419d3e7a5977",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=c7gzBeFYlEI",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=c7gzBeFYlEI",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "带来十亿年收入的三个认知迭代｜樊登",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 0.733,
+      "id": "youtube-c7gzBeFYlEI#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.033,
+      "text": "从什么时候"
+    },
+    {
+      "end_seconds": 2.366,
+      "id": "youtube-c7gzBeFYlEI#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.733,
+      "text": "你开始非常坦然的接受自己"
+    },
+    {
+      "end_seconds": 3.833,
+      "id": "youtube-c7gzBeFYlEI#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.433,
+      "text": "这个真的记不得了"
+    },
+    {
+      "end_seconds": 7.666,
+      "id": "youtube-c7gzBeFYlEI#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.733,
+      "text": "但对于我来讲"
+    },
+    {
+      "end_seconds": 9.6,
+      "id": "youtube-c7gzBeFYlEI#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.666,
+      "text": "人生影响最大的东西呢"
+    },
+    {
+      "end_seconds": 12.533,
+      "id": "youtube-c7gzBeFYlEI#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.6,
+      "text": "可能第一个是论语"
+    },
+    {
+      "end_seconds": 13.5,
+      "id": "youtube-c7gzBeFYlEI#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.533,
+      "text": "孔子的东西"
+    },
+    {
+      "end_seconds": 15.166,
+      "id": "youtube-c7gzBeFYlEI#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.5,
+      "text": "我花了一年的时间读《论语》"
+    },
+    {
+      "end_seconds": 15.933,
+      "id": "youtube-c7gzBeFYlEI#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.166,
+      "text": "只读这个"
+    },
+    {
+      "end_seconds": 16.633,
+      "id": "youtube-c7gzBeFYlEI#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.933,
+      "text": "所以《论语》"
+    },
+    {
+      "end_seconds": 18.366,
+      "id": "youtube-c7gzBeFYlEI#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.633,
+      "text": "肯定是对我影响很大的一个东西"
+    },
+    {
+      "end_seconds": 19.266,
+      "id": "youtube-c7gzBeFYlEI#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.366,
+      "text": "可不可以稍稍讲一下"
+    },
+    {
+      "end_seconds": 21.366,
+      "id": "youtube-c7gzBeFYlEI#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.266,
+      "text": "吸引你反复回去读的东西是什么"
+    },
+    {
+      "end_seconds": 23.533,
+      "id": "youtube-c7gzBeFYlEI#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.366,
+      "text": "孔子为什么被称作圣人呢"
+    },
+    {
+      "end_seconds": 25.066,
+      "id": "youtube-c7gzBeFYlEI#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.533,
+      "text": "就是他看问题看得很准"
+    },
+    {
+      "end_seconds": 26.4,
+      "id": "youtube-c7gzBeFYlEI#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.066,
+      "text": "度把握得很合适"
+    },
+    {
+      "end_seconds": 27.6,
+      "id": "youtube-c7gzBeFYlEI#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.433,
+      "text": "不说过分的话"
+    },
+    {
+      "end_seconds": 30.5,
+      "id": "youtube-c7gzBeFYlEI#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.7,
+      "text": "然后每一个评论建议"
+    },
+    {
+      "end_seconds": 33.1,
+      "id": "youtube-c7gzBeFYlEI#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.5,
+      "text": "你今天看来都觉得是对的"
+    },
+    {
+      "end_seconds": 35.133,
+      "id": "youtube-c7gzBeFYlEI#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.1,
+      "text": "对我影响最大的就是"
+    },
+    {
+      "end_seconds": 39.433,
+      "id": "youtube-c7gzBeFYlEI#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.1,
+      "text": "诶～ 以前我们都是抱怨社会"
+    },
+    {
+      "end_seconds": 41.2,
+      "id": "youtube-c7gzBeFYlEI#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.433,
+      "text": "我们都是抱怨教育制度"
+    },
+    {
+      "end_seconds": 44.6,
+      "id": "youtube-c7gzBeFYlEI#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.2,
+      "text": "抱怨导师抱怨学校抱怨单位"
+    },
+    {
+      "end_seconds": 46.933,
+      "id": "youtube-c7gzBeFYlEI#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.6,
+      "text": "但是孔子为什么告诉你说君子求诸己"
+    },
+    {
+      "end_seconds": 48.066,
+      "id": "youtube-c7gzBeFYlEI#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.933,
+      "text": "小人求诸人呢"
+    },
+    {
+      "end_seconds": 48.8,
+      "id": "youtube-c7gzBeFYlEI#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.133,
+      "text": "你后来一想"
+    },
+    {
+      "end_seconds": 50.533,
+      "id": "youtube-c7gzBeFYlEI#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.8,
+      "text": "你发现只要你求诸己"
+    },
+    {
+      "end_seconds": 51.666,
+      "id": "youtube-c7gzBeFYlEI#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.566,
+      "text": "你每天都很高兴"
+    },
+    {
+      "end_seconds": 53.133,
+      "id": "youtube-c7gzBeFYlEI#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.9,
+      "text": "你整天抱怨别人"
+    },
+    {
+      "end_seconds": 54.033,
+      "id": "youtube-c7gzBeFYlEI#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.133,
+      "text": "你每天都不高兴"
+    },
+    {
+      "end_seconds": 56.566,
+      "id": "youtube-c7gzBeFYlEI#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.133,
+      "text": "这就是非常重要的提示"
+    },
+    {
+      "end_seconds": 59.366,
+      "id": "youtube-c7gzBeFYlEI#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.566,
+      "text": "我在那个教大家工作的那个课里边"
+    },
+    {
+      "end_seconds": 62.066,
+      "id": "youtube-c7gzBeFYlEI#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.366,
+      "text": "说有三个思维我们是需要纠正的"
+    },
+    {
+      "end_seconds": 63.5,
+      "id": "youtube-c7gzBeFYlEI#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.1,
+      "text": "一个是成长型思维"
+    },
+    {
+      "end_seconds": 64.966,
+      "id": "youtube-c7gzBeFYlEI#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.5,
+      "text": "就是你之前是固定型"
+    },
+    {
+      "end_seconds": 66.366,
+      "id": "youtube-c7gzBeFYlEI#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.966,
+      "text": "你应该学成长型思维"
+    },
+    {
+      "end_seconds": 68.266,
+      "id": "youtube-c7gzBeFYlEI#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.366,
+      "text": "一个是这种客体思维"
+    },
+    {
+      "end_seconds": 69.633,
+      "id": "youtube-c7gzBeFYlEI#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.266,
+      "text": "你应该是有一个主体思维"
+    },
+    {
+      "end_seconds": 71.366,
+      "id": "youtube-c7gzBeFYlEI#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.733,
+      "text": "然后一个是打分思维"
+    },
+    {
+      "end_seconds": 73.1,
+      "id": "youtube-c7gzBeFYlEI#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.366,
+      "text": "你应该是有一个更多维的思维"
+    },
+    {
+      "end_seconds": 74.133,
+      "id": "youtube-c7gzBeFYlEI#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.1,
+      "text": "先纠正这三个"
+    },
+    {
+      "end_seconds": 76.833,
+      "id": "youtube-c7gzBeFYlEI#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.133,
+      "text": "你才能看懂工作和赚钱这件事情"
+    },
+    {
+      "end_seconds": 77.566,
+      "id": "youtube-c7gzBeFYlEI#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.833,
+      "text": "到底是个什么事"
+    },
+    {
+      "end_seconds": 79.666,
+      "id": "youtube-c7gzBeFYlEI#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.766,
+      "text": "第二个过程呢"
+    },
+    {
+      "end_seconds": 81.266,
+      "id": "youtube-c7gzBeFYlEI#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.666,
+      "text": "可能就是科学性"
+    },
+    {
+      "end_seconds": 82.033,
+      "id": "youtube-c7gzBeFYlEI#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.266,
+      "text": "对我的影响"
+    },
+    {
+      "end_seconds": 83.166,
+      "id": "youtube-c7gzBeFYlEI#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.033,
+      "text": "读这个"
+    },
+    {
+      "end_seconds": 84.3,
+      "id": "youtube-c7gzBeFYlEI#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 83.166,
+      "text": "《批判性思维》的书"
+    },
+    {
+      "end_seconds": 86.933,
+      "id": "youtube-c7gzBeFYlEI#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.366,
+      "text": "还有像《世界观》这样的书"
+    },
+    {
+      "end_seconds": 88.8,
+      "id": "youtube-c7gzBeFYlEI#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 86.933,
+      "text": "就是重新的梳理了一遍"
+    },
+    {
+      "end_seconds": 90.0,
+      "id": "youtube-c7gzBeFYlEI#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.8,
+      "text": "科学的发展历程"
+    },
+    {
+      "end_seconds": 92.333,
+      "id": "youtube-c7gzBeFYlEI#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 90.1,
+      "text": "《批判性思维》对于我的影响是很大的"
+    },
+    {
+      "end_seconds": 93.233,
+      "id": "youtube-c7gzBeFYlEI#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.333,
+      "text": "《思辨与立场》"
+    },
+    {
+      "end_seconds": 94.866,
+      "id": "youtube-c7gzBeFYlEI#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.3,
+      "text": "《我会独立思考》这样的东西"
+    },
+    {
+      "end_seconds": 97.5,
+      "id": "youtube-c7gzBeFYlEI#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.0,
+      "text": "这个是我人生我觉得第二次"
+    },
+    {
+      "end_seconds": 98.466,
+      "id": "youtube-c7gzBeFYlEI#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.5,
+      "text": "有了新的认识"
+    },
+    {
+      "end_seconds": 101.966,
+      "id": "youtube-c7gzBeFYlEI#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 98.533,
+      "text": "第三个变化就是复杂体系"
+    },
+    {
+      "end_seconds": 103.666,
+      "id": "youtube-c7gzBeFYlEI#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.133,
+      "text": "《复杂》这本书"
+    },
+    {
+      "end_seconds": 105.366,
+      "id": "youtube-c7gzBeFYlEI#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.666,
+      "text": "《规模》这样的书"
+    },
+    {
+      "end_seconds": 107.133,
+      "id": "youtube-c7gzBeFYlEI#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.366,
+      "text": "你才知道区分"
+    },
+    {
+      "end_seconds": 108.833,
+      "id": "youtube-c7gzBeFYlEI#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.166,
+      "text": "有的问题能分成几部分"
+    },
+    {
+      "end_seconds": 110.033,
+      "id": "youtube-c7gzBeFYlEI#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.833,
+      "text": "有的问题分不成几部分"
+    },
+    {
+      "end_seconds": 115.866,
+      "id": "youtube-c7gzBeFYlEI#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.533,
+      "text": "然后由这个事再诞生了幂次的想法"
+    },
+    {
+      "end_seconds": 117.6,
+      "id": "youtube-c7gzBeFYlEI#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.866,
+      "text": "复杂体系最后得出的结论就是"
+    },
+    {
+      "end_seconds": 120.1,
+      "id": "youtube-c7gzBeFYlEI#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.766,
+      "text": "哦～你看这个"
+    },
+    {
+      "end_seconds": 121.833,
+      "id": "youtube-c7gzBeFYlEI#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 120.533,
+      "text": "对幂次曲线"
+    },
+    {
+      "end_seconds": 122.566,
+      "id": "youtube-c7gzBeFYlEI#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.933,
+      "text": "这特别好"
+    },
+    {
+      "end_seconds": 123.866,
+      "id": "youtube-c7gzBeFYlEI#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 122.666,
+      "text": "我自己的这个社区"
+    },
+    {
+      "end_seconds": 125.566,
+      "id": "youtube-c7gzBeFYlEI#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.866,
+      "text": "就叫做Superlinear Academy"
+    },
+    {
+      "end_seconds": 125.733,
+      "id": "youtube-c7gzBeFYlEI#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.566,
+      "text": "对"
+    },
+    {
+      "end_seconds": 128.033,
+      "id": "youtube-c7gzBeFYlEI#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.733,
+      "text": "所以我那个AI课程其实也是一个社区"
+    },
+    {
+      "end_seconds": 129.6,
+      "id": "youtube-c7gzBeFYlEI#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.033,
+      "text": "这里边讲了三个公式嘛"
+    },
+    {
+      "end_seconds": 130.4,
+      "id": "youtube-c7gzBeFYlEI#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 129.6,
+      "text": "一个是"
+    },
+    {
+      "end_seconds": 134.266,
+      "id": "youtube-c7gzBeFYlEI#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 130.4,
+      "text": "你涨90%跌30%不如涨20%涨20%"
+    },
+    {
+      "end_seconds": 137.2,
+      "id": "youtube-c7gzBeFYlEI#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.366,
+      "text": "第二个是你1.03的200次方"
+    },
+    {
+      "end_seconds": 139.133,
+      "id": "youtube-c7gzBeFYlEI#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.2,
+      "text": "和1.02的200次方会差7倍"
+    },
+    {
+      "end_seconds": 141.566,
+      "id": "youtube-c7gzBeFYlEI#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 139.133,
+      "text": "第三个是1.03的200次方"
+    },
+    {
+      "end_seconds": 143.733,
+      "id": "youtube-c7gzBeFYlEI#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 141.566,
+      "text": "它80%是来自于后50次"
+    },
+    {
+      "end_seconds": 145.5,
+      "id": "youtube-c7gzBeFYlEI#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 143.733,
+      "text": "但是1.03的2,000次方"
+    },
+    {
+      "end_seconds": 147.766,
+      "id": "youtube-c7gzBeFYlEI#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.5,
+      "text": "80%还是来自于后50次"
+    },
+    {
+      "end_seconds": 149.833,
+      "id": "youtube-c7gzBeFYlEI#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.766,
+      "text": "人其实很难理解幂次的我觉得"
+    },
+    {
+      "end_seconds": 151.866,
+      "id": "youtube-c7gzBeFYlEI#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.0,
+      "text": "人脑不是为现代社会设计的"
+    },
+    {
+      "end_seconds": 154.1,
+      "id": "youtube-c7gzBeFYlEI#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 152.066,
+      "text": "人脑是为原始打猎的设计"
+    },
+    {
+      "end_seconds": 157.333,
+      "id": "youtube-c7gzBeFYlEI#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.1,
+      "text": "人脑是没法理解这种突如其来的东西"
+    },
+    {
+      "end_seconds": 160.133,
+      "id": "youtube-c7gzBeFYlEI#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.333,
+      "text": "所以这个世界上绝大多数的痛苦"
+    },
+    {
+      "end_seconds": 161.2,
+      "id": "youtube-c7gzBeFYlEI#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.166,
+      "text": "都是突如其来的"
+    },
+    {
+      "end_seconds": 163.033,
+      "id": "youtube-c7gzBeFYlEI#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.333,
+      "text": "所以叫不撞南墙不回头嘛"
+    },
+    {
+      "end_seconds": 164.466,
+      "id": "youtube-c7gzBeFYlEI#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.2,
+      "text": "不见棺材不掉泪"
+    },
+    {
+      "end_seconds": 165.933,
+      "id": "youtube-c7gzBeFYlEI#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 164.533,
+      "text": "不到黄河心不死"
+    },
+    {
+      "end_seconds": 167.666,
+      "id": "youtube-c7gzBeFYlEI#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 165.966,
+      "text": "这三个其实讲的是一回事儿"
+    },
+    {
+      "end_seconds": 168.366,
+      "id": "youtube-c7gzBeFYlEI#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.666,
+      "text": "就是幂次"
+    },
+    {
+      "end_seconds": 171.5,
+      "id": "youtube-c7gzBeFYlEI#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.366,
+      "text": "事物的累积突破了阈值才能看得出来"
+    },
+    {
+      "end_seconds": 173.833,
+      "id": "youtube-c7gzBeFYlEI#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 171.566,
+      "text": "这几次的认知的提升"
+    },
+    {
+      "end_seconds": 175.033,
+      "id": "youtube-c7gzBeFYlEI#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.833,
+      "text": "是我大概能够梳理的"
+    },
+    {
+      "end_seconds": 178.233,
+      "id": "youtube-c7gzBeFYlEI#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.1,
+      "text": "但是这中间读过几百本不同的书"
+    },
+    {
+      "end_seconds": 179.7,
+      "id": "youtube-c7gzBeFYlEI#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 178.233,
+      "text": "所以它是个连续的过程"
+    }
+  ],
+  "video_id": "c7gzBeFYlEI",
+  "yuzheng_stance_weight": "not-evidence"
+}

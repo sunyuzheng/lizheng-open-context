@@ -1,0 +1,1614 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-mQveBlevbZo",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2023-04-06T02:57:13Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T02:07:09.734365+00:00",
+  "published_at": "2023-04-06",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "ceaef979653eb072775981311f42a199ec18d77dfba4fb5c94a292ed9fc48e6e",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "b64bf5a2b3de8477b9bcc7de36354031cdedf88eda3eb75412c69d1f8eb2f29f",
+    "root_receipt_sha256": "50663e2d1587978470e7265509b1cbc3413afb155ebc1313ce1f4d33a6d963e7",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=mQveBlevbZo",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=mQveBlevbZo",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "TechTalk @statsig_official : What's ChatGPT?",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 7.484,
+      "id": "youtube-mQveBlevbZo#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "I just finished this slide, this deck, this morning, so my first time presenting."
+    },
+    {
+      "end_seconds": 32.42,
+      "id": "youtube-mQveBlevbZo#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.484,
+      "text": "But hope if you have any question, please interrupt me and ask right away. Okay. So the five key questions. I have seen a lot of presentations or articles about the technical details about ChatGPT. They start from transformer and they do a lot of tech details. But I feel like there are more more important questions to ask."
+    },
+    {
+      "end_seconds": 44.607,
+      "id": "youtube-mQveBlevbZo#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.42,
+      "text": "So I I initially asked seven. I forgot which seven they are, but I narrowed down to five. So the first question is knowing what ChatGPT is."
+    },
+    {
+      "end_seconds": 74.606,
+      "id": "youtube-mQveBlevbZo#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.607,
+      "text": "This is a debated topic. It's not settled. For example, a lot of famous machine learning scientists who say ChatGPT is just a better large language model. So, for example, we have CV, computer vision, that is not usable, and past a certain threshold, it became usable and became widely applied. ChatGPT, a lot of scientists argue, is just like that. But I disagree. I think it's a paradigm shift, and it is a paradigm shift that can bring fundamental changes."
+    },
+    {
+      "end_seconds": 101.605,
+      "id": "youtube-mQveBlevbZo#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.606,
+      "text": "Question two, but I'll lay out all the thinking and all the logic here, so you can feel free to decide and reach your own conclusion. The second question is, how do we understand its impact? So, for example, people have been comparing it to just another machinery model, or comparing it to iPhone, or compared to the steam engine that will change the way we live forever. What it is?"
+    },
+    {
+      "end_seconds": 109.601,
+      "id": "youtube-mQveBlevbZo#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.605,
+      "text": "But this kind of analysis is useless unless we have our own judgments, right? So, for example."
+    },
+    {
+      "end_seconds": 123.087,
+      "id": "youtube-mQveBlevbZo#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.601,
+      "text": "Do we understand what iPhone is? Is it just a better phone with a bigger screen, or is it something different? So I want to kind of get to the essence of ChatGPT and try to understand its impact. Question number three."
+    },
+    {
+      "end_seconds": 148.126,
+      "id": "youtube-mQveBlevbZo#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.087,
+      "text": "Is is it hard to reproduce? This would be relevant for us because are we going to use one ChatGPT or are we going to use like a million ChatGPT, each one tailored for different companies? Question four is how do we best use ChatGPT? And question five is are we fundamentally different from ChatGPT? What is not replaceable by it?"
+    },
+    {
+      "end_seconds": 170.781,
+      "id": "youtube-mQveBlevbZo#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 148.126,
+      "text": "So these five questions. But even before that, there is some minimum of technology that we want to get a layman down. So a little bit tech details. I guess there are five concepts. First, what is ChatGPT? It's a generative auto-regressive large language model. So this is the"
+    },
+    {
+      "end_seconds": 182.02,
+      "id": "youtube-mQveBlevbZo#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 170.781,
+      "text": "Wolfram's post. From here, we can see what ChatGPT is trying to do is try to generate the next word. And so, generative, the mission is to generate."
+    },
+    {
+      "end_seconds": 199.011,
+      "id": "youtube-mQveBlevbZo#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 182.02,
+      "text": "Not understanding. There is another model that I'll discuss later. So after Google's model, you can unify a lot of natural language processing tasks under generative. So by doing generative, you can do understanding, classification, and other things."
+    },
+    {
+      "end_seconds": 213.226,
+      "id": "youtube-mQveBlevbZo#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 199.011,
+      "text": "But ChatGPT, G is generative. The auto-regressive means you produce the next word, and then you take that as your input, and you try to predict the next until you feel it's okay to stop."
+    },
+    {
+      "end_seconds": 241.753,
+      "id": "youtube-mQveBlevbZo#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.226,
+      "text": "Large language models just means first the parameter is large. There are a lot of parameters to absorb the words information and tokens. The data, the text is large, and then of course it takes a lot of money to train. Second is in-context learning. This is a very important topic because if you are very versed in machine learning, but you don't know the specifics about in-context learning."
+    },
+    {
+      "end_seconds": 258.334,
+      "id": "youtube-mQveBlevbZo#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 241.753,
+      "text": "And you try to think about what ChatGPT is doing by drawing knowledge from your previous understanding, you may get a wrong conclusion. So here is a great example. Before before in-context learning."
+    },
+    {
+      "end_seconds": 275.098,
+      "id": "youtube-mQveBlevbZo#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 258.334,
+      "text": "If you want a model to perform better on a new task, you have to retrain the model. You have to change the prior weights of the model. But in context learning, you just show the model some results. The model is not changed, but it magically performs better on the new task."
+    },
+    {
+      "end_seconds": 292.156,
+      "id": "youtube-mQveBlevbZo#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.098,
+      "text": "So that is magical. We don't actually know all the details going. Like there are a lot of research about it, but I guess in short, we there are a lot of things we don't know. So traditional machine learning changed the ways, and in-context learning."
+    },
+    {
+      "end_seconds": 305.821,
+      "id": "youtube-mQveBlevbZo#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 292.156,
+      "text": "We feel like it's activating the different weights in the model, rather than changing the weights in the model. So, and this is important in terms of applications because for traditional machine learning model."
+    },
+    {
+      "end_seconds": 327.978,
+      "id": "youtube-mQveBlevbZo#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 305.821,
+      "text": "You basically you have to see the task already. You have to know the data already. Train the model and then it can perform well. And the new model probably, if not guaranteed, will perform worse on the old tasks. So basically, you need you need new model for new task. But for these pre-trained large models, you don't have to change the model."
+    },
+    {
+      "end_seconds": 337.517,
+      "id": "youtube-mQveBlevbZo#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 327.978,
+      "text": "But you can also like take the model and post-process it to do something better, and that model would have in-context learning as well."
+    },
+    {
+      "end_seconds": 359.52,
+      "id": "youtube-mQveBlevbZo#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 337.517,
+      "text": "And the third concept is emergence. This is from a paper, and this is performance, and this is the amount of data. And you can see the sharp increase in performance here. There are many abilities from the large language models are emerged, which means we we didn't predict it, like it just showed up."
+    },
+    {
+      "end_seconds": 384.622,
+      "id": "youtube-mQveBlevbZo#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 359.52,
+      "text": "So and it's very difficult to know why. We have guesses again, but it's very difficult to understand exactly why suddenly it worked well. Like there are a lot of speculations, and I think some speculations are very reasonable. So I hope we can understand why soon. For example, maybe the language models are doing lossless compression, and"
+    },
+    {
+      "end_seconds": 407.531,
+      "id": "youtube-mQveBlevbZo#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.622,
+      "text": "Every time you try to do the compression, you lose some information. But once your model is large enough, you don't lose information, and you start to get the good results. So some abilities are in context learning. I just talk about understanding code and reading code. There was a Codex version of GPT three."
+    },
+    {
+      "end_seconds": 434.542,
+      "id": "youtube-mQveBlevbZo#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 407.531,
+      "text": "And people found that after the Codex version, GPT can understand all languages. So maybe one of its comprehension ability came from reading code. In context, in context correction, I'll talk about this detail later. It is different from in context learning, and I feel like it's even more magical than in context learning and reasoning."
+    },
+    {
+      "end_seconds": 443.064,
+      "id": "youtube-mQveBlevbZo#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 434.542,
+      "text": "the take the takeaway here is just to respect the unknowns. Don't think we know everything about the large language models."
+    },
+    {
+      "end_seconds": 464.651,
+      "id": "youtube-mQveBlevbZo#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 443.064,
+      "text": "Okay, and fourth concept is reinforcement learning with human feedback. And I think this is probably one of the most accurate picture about ChatGPT. So this is the underlying large language models. We just train them. It's unsupervised learning. We don't know what we don't specify objective function. Just learn."
+    },
+    {
+      "end_seconds": 488.836,
+      "id": "youtube-mQveBlevbZo#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 464.651,
+      "text": "And we do supervised learning, and we can distinguish. Like for example, GPT three, or when when we first get GPT three, we get some like we can we can use GPT three to do various language tasks. And now with the reinforcement learning with with human feedback, we have this nice chat format that everyone can understand. So."
+    },
+    {
+      "end_seconds": 512.907,
+      "id": "youtube-mQveBlevbZo#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 488.836,
+      "text": "The fundamental step is three steps in their paper. So first, you get the supervised learning. You get some data. And for the unsupervised learning model, you take the pre-trained model. You do some supervised learning, and you get different models, different policies. And then you train a reward model, and then you pick the policies based on the reward model."
+    },
+    {
+      "end_seconds": 528.648,
+      "id": "youtube-mQveBlevbZo#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 512.907,
+      "text": "The takeaway here is, the this this step is not to enhance the base model, it is just to align the base model results to human preference, make it palatable to human."
+    },
+    {
+      "end_seconds": 554.109,
+      "id": "youtube-mQveBlevbZo#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 528.648,
+      "text": "嗯，and use that analogy. Suppose we have dog data in GPT four, and if dogs can provide feedback to GPT four, we should be able to train like a model that can, you know, understand dogs. Maybe not through text because we are doing text, but suppose the data is there. I guess this is how we understand RF or"
+    },
+    {
+      "end_seconds": 576.414,
+      "id": "youtube-mQveBlevbZo#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 554.109,
+      "text": "The RLHF is a way to activate the capacity in the model. Yeah. And if you look at InstructGPT and ChatGPT as examples, you can see almost the same steps. Only difference is the this blue and green is how the training the"
+    },
+    {
+      "end_seconds": 597.941,
+      "id": "youtube-mQveBlevbZo#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 576.414,
+      "text": "The prompting data or the alignment data is generated. This is generated by instructions, and that is generated by chats. And their base model might be different, but the paradigm is the same. So so far, this is a diagram to summarize the relationship. We have the pre-trained model."
+    },
+    {
+      "end_seconds": 622.848,
+      "id": "youtube-mQveBlevbZo#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 597.941,
+      "text": "And traditional ML and in-context learning is where they differ. If you use a traditional machine learning approach, you have to train on new data and change the model. But now we don't have to change the model. We do in-context learning. We use InstructGPT or ChatGPT to produce new models, maybe fewer parameters and different capabilities."
+    },
+    {
+      "end_seconds": 634.975,
+      "id": "youtube-mQveBlevbZo#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 622.848,
+      "text": "InstructGPT inspires ChatGPT, but they are using the same, like this is using the same method to activate. From this graph, we can see."
+    },
+    {
+      "end_seconds": 644.1,
+      "id": "youtube-mQveBlevbZo#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 634.975,
+      "text": "There are probably going to be new developments by OpenAI if they just change how they provide the feedback to the model."
+    },
+    {
+      "end_seconds": 667.4,
+      "id": "youtube-mQveBlevbZo#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 644.1,
+      "text": "Okay. So an analogy to summarize the diagram, the pre-trained large language models, GPT-4, they are the core, right? They are the arc reactors. And quality of the large language model is the key, and is the most difficult to replicate. We have already seen a lot of replicates of the chat format."
+    },
+    {
+      "end_seconds": 679.35,
+      "id": "youtube-mQveBlevbZo#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 667.4,
+      "text": "You can easily do chat, and they can generate some sort of languages, right? If you, but they're not good because the underlying pre-trained model is not good."
+    },
+    {
+      "end_seconds": 698.101,
+      "id": "youtube-mQveBlevbZo#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 679.35,
+      "text": "So our opportunity are to find better use with the suit, and probably OpenAI will provide different, slightly slightly modified version of the suit, but they also get better suits as well. So."
+    },
+    {
+      "end_seconds": 717.853,
+      "id": "youtube-mQveBlevbZo#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 698.101,
+      "text": "That's what we try to get to in question four. We don't need to go to this one. There are more technical stuff. Okay. Question one: Is ChatGPT just a better large language models?"
+    },
+    {
+      "end_seconds": 731.859,
+      "id": "youtube-mQveBlevbZo#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 717.853,
+      "text": "或，Are we just smarter monkeys? This, like, I, I, I want to draw this analogy, because a lot of the machine learning scientists argue that ChatGPT is not a"
+    },
+    {
+      "end_seconds": 758.393,
+      "id": "youtube-mQveBlevbZo#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 731.859,
+      "text": "It's not a paradigm shift. They argue they are just better large language models, but I feel like by their same logic, because we don't understand our difference between human and monkeys, we are just smarter monkeys. Okay. So understanding if it is a paradigm shift, we need to know what the old paradigm is. So old old paradigm, machine learning models, they can only find correspondence."
+    },
+    {
+      "end_seconds": 770.902,
+      "id": "youtube-mQveBlevbZo#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 758.393,
+      "text": "So basically, old machine learning models is a overfitting machine. You give the machine learning model any data, any randomly generated data."
+    },
+    {
+      "end_seconds": 795.659,
+      "id": "youtube-mQveBlevbZo#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 770.902,
+      "text": "They can find the pattern. They can find the correspondence. But some of them, if you train them, if you tune them, they became useful to us. They can find the pattern we are looking for. So that is old ML. And we can do some smart design and link with other modules. For example, if you use computer vision and we merge with search, then we can find a people's face in our database."
+    },
+    {
+      "end_seconds": 802.188,
+      "id": "youtube-mQveBlevbZo#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 795.659,
+      "text": "哦， then we can have do many things, but to have a"
+    },
+    {
+      "end_seconds": 831.12,
+      "id": "youtube-mQveBlevbZo#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 802.188,
+      "text": "metaphor is it is a parse you fit the word in the in the model they can produce the output that you desired but they don't understand the underlying meaning of the of the of the sentence and a famous test so understanding is a subjective word but our objective objective test is this Winograd schema challenge so"
+    },
+    {
+      "end_seconds": 852.027,
+      "id": "youtube-mQveBlevbZo#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 831.12,
+      "text": "The schema challenge is councilman forbids protesters to do parade because they fear violence. The they refers to councilman, right? Or councilman, uh."
+    },
+    {
+      "end_seconds": 871.912,
+      "id": "youtube-mQveBlevbZo#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 852.027,
+      "text": "forbids protesters to do a parade because they advocate for violence. They here means the protesters. You need we understand this because we have the world knowledge, we have the context. But for machine learning models, they can never tell."
+    },
+    {
+      "end_seconds": 901.45,
+      "id": "youtube-mQveBlevbZo#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 871.912,
+      "text": "Which one day in first two, unless human tells the model this knowledge. So that is the test. GPT four can do this, by the way. I feed this sentence in GPT four, and GPT four correct me tell correctly tells me what they means. There is another very nice example. I feel like this is kind of half, at least half of the value of my of my article."
+    },
+    {
+      "end_seconds": 929.218,
+      "id": "youtube-mQveBlevbZo#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 901.45,
+      "text": "Apart from the old paradigm, there was an article by a Chinese scholar in twenty seventeen talk about intelligence and the limitation of machine learning. Twenty seventeen, when we didn't have ChatGPT, he mentioned that we should look for crowds, crowds wisdom in machine learning, and what can crowds do. So in a city."
+    },
+    {
+      "end_seconds": 947.791,
+      "id": "youtube-mQveBlevbZo#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 929.218,
+      "text": "The crow wants to open a nut, but it drops on the on the floor and cannot open it. But the crow further observes that cars can crush the nuts, but cars is also dangerous to me. But traffic lights can can stop the car can stop cars. So."
+    },
+    {
+      "end_seconds": 973.056,
+      "id": "youtube-mQveBlevbZo#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 947.791,
+      "text": "They actually able to drop the nuts in front of cars and wait for the traffic lights turn to pick up the pick up the the cracked nuts safely. So they can reason, they can deduce, and they can inference. They have to do this in order to achieve this. And the scholar says we should look for what crows are doing."
+    },
+    {
+      "end_seconds": 999.268,
+      "id": "youtube-mQveBlevbZo#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 973.056,
+      "text": "And ChatGPT have similar abilities. The the evidence that ChatGPT have similar abilities, I think most importantly is in-context correction and improving from longer conversations. So in-context learning is still like we can still imagine, right? You activate different weights in the model. But if ChatGPT says something and you correct ChatGPT."
+    },
+    {
+      "end_seconds": 1021.237,
+      "id": "youtube-mQveBlevbZo#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 999.267,
+      "text": "Without understanding what you are, what you said, how can it make it better? Okay. Then the next question is: Does ChatGPT have consciousness? And this is kind of the central debate, right? For example, scientists would argue: We know this is a large LLM."
+    },
+    {
+      "end_seconds": 1044.114,
+      "id": "youtube-mQveBlevbZo#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1021.237,
+      "text": "And there is nothing magical to ARLLM. Then you cannot have a different ability from the same technology. But if we look at ourselves, we don't know if we have consciousness or not. There is this."
+    },
+    {
+      "end_seconds": 1052.476,
+      "id": "youtube-mQveBlevbZo#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1044.114,
+      "text": "I think is by Guardian posted the twenty biggest questions of of science in the twenty first century."
+    },
+    {
+      "end_seconds": 1082.172,
+      "id": "youtube-mQveBlevbZo#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1052.476,
+      "text": "Why we dream? Why are we different? Do we have consciousness? Like a lot of questions related in this field, it is unsolved in science. We don't know if we have consciousness, and we don't know where did it came from. But there is a book in cognitive science that scholars found we are not that biologically different from monkeys. We have more brain cells, but not order of magnitude more. Our DNA is not that different, and"
+    },
+    {
+      "end_seconds": 1092.369,
+      "id": "youtube-mQveBlevbZo#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1082.172,
+      "text": "In short, the conclusion is consciousness or intelligence seems to be emerged even in human as well. Good afternoon, listeners."
+    },
+    {
+      "end_seconds": 1111.526,
+      "id": "youtube-mQveBlevbZo#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1092.369,
+      "text": "And in philosophy, this has also been debated many like throughout the whole history of philosophy. It is categorized as the problem of other minds. So, are we just a brain? You know that simulated, right? Are do we live in Matrix? But"
+    },
+    {
+      "end_seconds": 1129.406,
+      "id": "youtube-mQveBlevbZo#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1111.526,
+      "text": "And then in their chief scientist interview, he argued that there is no evidence showing intelligence or intelligence cannot arise from learning statistical regularities. So the takeaway here is."
+    },
+    {
+      "end_seconds": 1156.854,
+      "id": "youtube-mQveBlevbZo#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1129.406,
+      "text": "I guess let's be humble. We don't know if ChatGPT doesn't have consciousness. We don't know if for sure it cannot. We don't know how or if we have consciousness. So just we don't. But for the sake of practical purposes, we don't need to know. Like when I look at each one of you, I don't need to know you have consciousness, right? I just assume you do. And for daily tasks, I just learn what you can do from your outcome."
+    },
+    {
+      "end_seconds": 1166.647,
+      "id": "youtube-mQveBlevbZo#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1156.854,
+      "text": "And if you perform well, then I know, okay, you fit for this job. I guess we should take a similar view for to ChatGPT as well."
+    },
+    {
+      "end_seconds": 1195.19,
+      "id": "youtube-mQveBlevbZo#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1166.647,
+      "text": "Okay. Any questions so far? Yeah. So I've heard two implications of the emergent properties of large language models. One is that since we've essentially already trained them on the whole corpus of human knowledge, emergent properties are less likely to emerge because we don't have new knowledge to train them off of."
+    },
+    {
+      "end_seconds": 1221.906,
+      "id": "youtube-mQveBlevbZo#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1195.19,
+      "text": "所以，effectively，like，the，limitation，of，emergent，properties，is，like，the，corpus，of，human，knowledge，that，exists.，The，second，is，that，by，generating，more，synthetic，knowledge，you，can，kind，of，like，continuously，produce，emergent，properties，and，eventually，like，we，can，get，models，to，train，models，by，just，pumping，more，information，into，the，training，set.，Yeah.，And，it's，actually，not，like，the，intrinsic，information，and，knowledge，that，matters.，It's，just，like"
+    },
+    {
+      "end_seconds": 1241.274,
+      "id": "youtube-mQveBlevbZo#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1221.906,
+      "text": "the size of the training protocols. So, like, once you train a billion or two billion dollar model, it's like that's going to lead to emergent properties necessarily. Do you have an opinion? I do have an opinion, but like I said, emergence cannot be predicted, right? So, this is not a prediction. I guess my opinion is first."
+    },
+    {
+      "end_seconds": 1263.111,
+      "id": "youtube-mQveBlevbZo#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1241.274,
+      "text": "We haven't trained on all human knowledge. Like we just GPT four just barely touched image. Right now, it's still a large language model. We have all the visual knowledge and other knowledges that we didn't put into the model. And second, I think GPT four is just barely good enough."
+    },
+    {
+      "end_seconds": 1282.904,
+      "id": "youtube-mQveBlevbZo#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1263.111,
+      "text": "There are a lot of improvements to be done on quality of the text and how the model absorbs the knowledge. So I think we are at if there is a development curve, we just been through the paradigm shift and we should be having accelerated growth from past experiences."
+    },
+    {
+      "end_seconds": 1304.575,
+      "id": "youtube-mQveBlevbZo#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1282.904,
+      "text": "Thank you. Yeah, and question two is how big deal is ChatGPT? And there are two articles that are very profound. And I hope after this chapter, you we can have more resonance with what they talk about. So Gates recently wrote an article: \"The Age of AI Has Begun,\" and he"
+    },
+    {
+      "end_seconds": 1334.182,
+      "id": "youtube-mQveBlevbZo#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1304.575,
+      "text": "In the first sentence, he said there are only two technologies that he will breakthroughs. One is GUI, and two is ChatGPT. The only two. And Sam Altman, CEO of OpenAI, published article a year ago, says Moore's law for everything. And I think I resonate strongly with those statements. The first one, understanding what's"
+    },
+    {
+      "end_seconds": 1346.425,
+      "id": "youtube-mQveBlevbZo#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1334.182,
+      "text": "the imple the I guess the technical implication of ChatGPT, why can we compare it to a graphic UI? Is ChatGPT is a near perfect abstraction of IT?"
+    },
+    {
+      "end_seconds": 1374.146,
+      "id": "youtube-mQveBlevbZo#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1346.425,
+      "text": "This is the very beginning of release of ChatGPT. People found that you can ask ChatGPT to play a Linux terminal, and then you can write code on it, and it can actually execute. And this is an abstraction. If you think about abstraction in many forms, right? Throughout the computer history, we basically advance in three fronts. We do, we have more computing power, we have more storage, right? And the second is we do more data creation and utilization."
+    },
+    {
+      "end_seconds": 1398.617,
+      "id": "youtube-mQveBlevbZo#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1374.146,
+      "text": "For example, TikTok, the or Instagram, right? The picture we upload is data. Our browsing behavior is data. So our social social network is also data. So Facebook is able to sell us advertisement based on those data. So better data creation and utilization. And three is the better usage about of the of the two."
+    },
+    {
+      "end_seconds": 1416.502,
+      "id": "youtube-mQveBlevbZo#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1398.617,
+      "text": "And about the better usage, I guess better usage also involves in also involves abstraction. So I'm not only talking about from machine language to high level languages, but also, for example, virtual machine is an abstraction of the hardware."
+    },
+    {
+      "end_seconds": 1441.923,
+      "id": "youtube-mQveBlevbZo#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1416.502,
+      "text": "And serverless cloud is the abstraction of infrastructure. You don't need to worry about all those details. You just need to do, like, use computing and data in the way you want to do. ChatGPT, I feel like there is a path forward to do more abstraction, and the near perfect form is I just tell them what I want."
+    },
+    {
+      "end_seconds": 1461.107,
+      "id": "youtube-mQveBlevbZo#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1441.923,
+      "text": "And it can give to me. But in question four, I talk about: Is it going to be more of how or what? But at least that's a possibility now. And about the better usage, GUI is great because without GUI, we have to type commands to."
+    },
+    {
+      "end_seconds": 1482.894,
+      "id": "youtube-mQveBlevbZo#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1461.107,
+      "text": "Do anything like think about scrolling TikTok videos with command? It's not possible, right? Or people won't use it. So GUI solves these specific purposes very well. It's very human friendly, and it's building buttons. But the problem is, you have to build buttons for each function."
+    },
+    {
+      "end_seconds": 1496.291,
+      "id": "youtube-mQveBlevbZo#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1482.894,
+      "text": "But ChatGPT now can solve general purposes by coding with natural languages. If I want to do something, I don't have a button. I can just talk to the computer and let the computer do it for me."
+    },
+    {
+      "end_seconds": 1515.778,
+      "id": "youtube-mQveBlevbZo#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1496.291,
+      "text": "This is a new prompt that I just encountered with yesterday. The prompt actually very explicitly defines what ChatGPT does, and they actually write commands to abstract a bunch of commands."
+    },
+    {
+      "end_seconds": 1544.889,
+      "id": "youtube-mQveBlevbZo#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1515.778,
+      "text": "So that is the GUI part, and the most moral of everything is GPT can greatly reduce the marginal cost of intellectual distribution. This is Jasper AI, they write blog posts automatically for you, and people found out probably they are just ChatGPT plus some prompts, but they can write. So suppose"
+    },
+    {
+      "end_seconds": 1567.928,
+      "id": "youtube-mQveBlevbZo#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1544.889,
+      "text": "And this is not. I don't think this is speculation. This is just based on what ChatGPT today can do. Suppose that ChatGPT can listen to you, right? You can have a thousand conversations with the ChatGPT. You can tell them this is what I want want you to do. This is a good example. And when it returns some result, you can tell the ChatGPT this is good, that is bad."
+    },
+    {
+      "end_seconds": 1577.584,
+      "id": "youtube-mQveBlevbZo#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1567.928,
+      "text": "You can give feedbacks after a thousand conversations. For example, I do data analytics. Then maybe my GPT."
+    },
+    {
+      "end_seconds": 1594.672,
+      "id": "youtube-mQveBlevbZo#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1577.584,
+      "text": "Can be 80% good of a data analytics as I am. So at the beginning, right? I do think probably in two years, my GPT, I hope my GPT can do a lot of my day jobs for me."
+    },
+    {
+      "end_seconds": 1616.209,
+      "id": "youtube-mQveBlevbZo#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1594.672,
+      "text": "So, and what does this mean? The implication to to human is think about our advancements. Software that's the first thing that reduce the greatly reduce the marginal cost of distributing tools. Windows, like if we have a disk of Windows, it costs Microsoft virtually nothing to produce."
+    },
+    {
+      "end_seconds": 1624.857,
+      "id": "youtube-mQveBlevbZo#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1616.209,
+      "text": "But everyone can buy this expensive copy and use the tool. Internet makes marginal cost of information and content very very cheap."
+    },
+    {
+      "end_seconds": 1640.593,
+      "id": "youtube-mQveBlevbZo#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1624.857,
+      "text": "And now, human capital, human capital is very expensive to build up, right? We take a lot of time to train, but we all we are all time limited. Now, there is a way to distribute our human capital at a very low marginal cost."
+    },
+    {
+      "end_seconds": 1653.028,
+      "id": "youtube-mQveBlevbZo#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1640.593,
+      "text": "And back to the Aram, this is probably not a great future. But think about Aram and producing the tens of thousands of Aram armies."
+    },
+    {
+      "end_seconds": 1673.555,
+      "id": "youtube-mQveBlevbZo#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1653.028,
+      "text": "Okay, and question three is how hard to replicate one. I'll just quickly skim through this one. This is my personal opinion. It's very difficult, and my default is."
+    },
+    {
+      "end_seconds": 1691.949,
+      "id": "youtube-mQveBlevbZo#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1673.555,
+      "text": "Yeah, it is just difficult. Remember that to replicate ChatGPT well, the key is to replicate the underlying GPT three point five at least. You need to get as good as the GPT three point five. That is the only important question."
+    },
+    {
+      "end_seconds": 1706.776,
+      "id": "youtube-mQveBlevbZo#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1691.949,
+      "text": "And in Sam's interview with Lex, he mentioned that GPT has no secrets. We all know this. It's autoregressive models, and just a lot of small wins. But the small wins are actually important."
+    },
+    {
+      "end_seconds": 1720.912,
+      "id": "youtube-mQveBlevbZo#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1706.776,
+      "text": "Because two things, one is a very complex system. Think about how many how many companies can do operating systems or do the mobile operating systems? Not many, right? And"
+    },
+    {
+      "end_seconds": 1743.148,
+      "id": "youtube-mQveBlevbZo#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1720.912,
+      "text": "Analogy, another analogy is material science. If you want to build chips, people know the design, but it's very hard to execute because there are huge a lot of processes like on top of each other. If you don't know one, you don't you won't have good end results."
+    },
+    {
+      "end_seconds": 1761.686,
+      "id": "youtube-mQveBlevbZo#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1743.148,
+      "text": "The other difficulty on top of this is large language models is not only expensive to train, but also very slow to train. The iteration usually takes a month or two, so like six months, you only get six chances to make it better. It's even harder."
+    },
+    {
+      "end_seconds": 1771.902,
+      "id": "youtube-mQveBlevbZo#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1761.686,
+      "text": "So my, I guess how I would decide is I look at Google because all the other talents that knows how to train large language models are at Google."
+    },
+    {
+      "end_seconds": 1792.767,
+      "id": "youtube-mQveBlevbZo#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1771.902,
+      "text": "The foundation papers Transformer T five that are published at Google. So they have the talents, they have the money, they have the incentives, right? So if I look at Google, my default is it's very hard to replicate. It will probably take people over a year. But unless Google prove otherwise."
+    },
+    {
+      "end_seconds": 1813.341,
+      "id": "youtube-mQveBlevbZo#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1792.767,
+      "text": "If Google can produce it very quickly, then I assume most people can. It's just a matter of time. If Google can produce it slowly, then maybe we'll have like a couple players in the field. But if it takes Google more than a year to replicate, then maybe ChatGPT is going to be the monopoly."
+    },
+    {
+      "end_seconds": 1841.808,
+      "id": "youtube-mQveBlevbZo#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1813.341,
+      "text": "Okay, and the fourth question: How to use ChatGPT? I don't have like a determinant answer, but I have some thoughts. And the key thing is, when there is a browser just came out, right? We should build websites instead of build another browser. I"
+    },
+    {
+      "end_seconds": 1853.433,
+      "id": "youtube-mQveBlevbZo#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1841.808,
+      "text": "Grayed out this area in the previous diagram. Here, this is InstructGPT and ChatGPT and Microsoft. If you look at the early"
+    },
+    {
+      "end_seconds": 1872.436,
+      "id": "youtube-mQveBlevbZo#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1853.433,
+      "text": "The early leaks, like they try to, I know, like they try to, they try to talk to Microsoft to New Bing to make it admit that it's a project called Sydney. We found that New Bing was not."
+    },
+    {
+      "end_seconds": 1889.087,
+      "id": "youtube-mQveBlevbZo#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1872.436,
+      "text": "Here, right? New Bing is either here or here. You use the base, the the base of ChatGPT, and you just give a lot of prompts, teaching, teaching ChatGPT how to search, and then you get the new beam. So."
+    },
+    {
+      "end_seconds": 1914.439,
+      "id": "youtube-mQveBlevbZo#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1889.087,
+      "text": "New Bing， if you look at what New Bing has versus ChatGPT, it basically has two things. Two, one is access to tools, and OpenAI just open them by plug-in. And two is I call them prompting as configuration. OpenAI today has that as a system message. They have the system message you can put there, but you cannot assign weights on the system message."
+    },
+    {
+      "end_seconds": 1938.792,
+      "id": "youtube-mQveBlevbZo#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1914.439,
+      "text": "So there are some apparent optimizations based on what we think Microsoft has. The first is prompting as a configuration. That's what I name it. You may have longer prompting, and you may be able to freely assign weights to prompting. Like pay, like this is the one prompt you cannot break, and this is more flexible."
+    },
+    {
+      "end_seconds": 1952.451,
+      "id": "youtube-mQveBlevbZo#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1938.792,
+      "text": "And maybe it's possible to do the preloading for this prompting, so you can seal the prompting, and you don't have to load it every time. And"
+    },
+    {
+      "end_seconds": 1961.466,
+      "id": "youtube-mQveBlevbZo#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1952.451,
+      "text": "The next utilization is, you can put it in the reinforcement reinforcement learning."
+    },
+    {
+      "end_seconds": 1986.177,
+      "id": "youtube-mQveBlevbZo#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1961.466,
+      "text": "stage， for example， you can we can feedback with the programming language output. Today， if I want to use ChatGPT to program， I type the program， well I type the code into ChatGPT， and ChatGPT return some results. And then I basically I'm a messenger， but maybe ChatGPT can directly take feedback."
+    },
+    {
+      "end_seconds": 1995.024,
+      "id": "youtube-mQveBlevbZo#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1986.177,
+      "text": "from the programming languages, and then it can learn how to code and how to produce production code by itself."
+    },
+    {
+      "end_seconds": 2013.697,
+      "id": "youtube-mQveBlevbZo#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1995.024,
+      "text": "Another is domain structured knowledge feedback. What I mean by this is, for example, doctors they have a lot of cases, right? But it's not a determinate function. The doctor look at a lot of things and produce one conclusion."
+    },
+    {
+      "end_seconds": 2025.889,
+      "id": "youtube-mQveBlevbZo#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2013.697,
+      "text": "This is unstructured, but if you use this as a feedback, maybe the ChatGPT can be a good doctor. Okay, denser models just means cheaper inference cost."
+    },
+    {
+      "end_seconds": 2049.348,
+      "id": "youtube-mQveBlevbZo#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2025.889,
+      "text": "The next thing is prompting. We all know right now the way to use ChatGPT is by prompt. But there is a question of whether it's an engineering skill or it's a product management skill. What do I mean by that? Is engineering skill you need to use prompt to tell ChatGPT how to do a task."
+    },
+    {
+      "end_seconds": 2076.616,
+      "id": "youtube-mQveBlevbZo#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2049.348,
+      "text": "But if it's a product management scale scale, then you just tell ChatGPT what I want. This is a good example of what I want. That is a bad example of what I want. Today, most most prompting is engineering, and it's very raw engineering. Like you have to tell everything, right? But we are already seeing examples."
+    },
+    {
+      "end_seconds": 2096.94,
+      "id": "youtube-mQveBlevbZo#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2076.616,
+      "text": "呃，to kind of build dictionaries or abstractions or modules to do better prompting. For example, LangChain, OpenAI's and OpenAI's OpenBook, and I also included a couple examples here. That is almost like building the high-level languages for prompting."
+    },
+    {
+      "end_seconds": 2125.013,
+      "id": "youtube-mQveBlevbZo#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2096.94,
+      "text": "But if large language models can learn, right? Do we really need to tell the model all the middle steps? Can we just ask for a result? I don't know. I think it must be a combination. Like they cannot solve everything. But today, I think we are going to have most hows, and we are going to less and less hows, and more and more what."
+    },
+    {
+      "end_seconds": 2138.556,
+      "id": "youtube-mQveBlevbZo#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2125.013,
+      "text": "And regarding the opportunities in ChatGPT, this is the Silicon Valley. Right, he puts video on internet and he got a billion dollar net worth. So."
+    },
+    {
+      "end_seconds": 2158.423,
+      "id": "youtube-mQveBlevbZo#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2138.556,
+      "text": "That that is actually the observed stylized stylized observation. When website came, right, the first ones are putting stuff offline, yellow pages, onto the website. When mobile came, the first steps is to put websites into mobile."
+    },
+    {
+      "end_seconds": 2186.641,
+      "id": "youtube-mQveBlevbZo#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2158.423,
+      "text": "So that is probably the first wave, bring existing use cases to new tech, and then you have the new tech native solutions, such as Google. But Google cannot be there the first time because you don't have any content on the internet, so you cannot build Google the first day. Google came after you have enough content on the internet. And then a lot of these new tech native solution companies."
+    },
+    {
+      "end_seconds": 2209.602,
+      "id": "youtube-mQveBlevbZo#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2186.641,
+      "text": "They started simple. They didn't start as a complicated thing. Google might be the exception here, but think about Facebook. It started from the dorm as a, you know, Facebook, right? And Instagram, it was a filter app. So, and it, there were many filter apps. Instagram was just one of them. Why?"
+    },
+    {
+      "end_seconds": 2225.47,
+      "id": "youtube-mQveBlevbZo#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2209.602,
+      "text": "It became so big. It's another lesson. But I guess we don't have to. I guess the takeaway here is we don't have to think about the solution today. The solution will come along, and probably out of our prediction."
+    },
+    {
+      "end_seconds": 2242.695,
+      "id": "youtube-mQveBlevbZo#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2225.47,
+      "text": "And then there are some personal opinions. Is ChatGPT to business opportunity or to consumer opportunity? And I think it's more like search. It's not to be able to to see. It's more to productivity. I have some."
+    },
+    {
+      "end_seconds": 2265.787,
+      "id": "youtube-mQveBlevbZo#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2242.695,
+      "text": "Strong personal opinion that the entertainment value is not here yet, because if you look at entertainment, the for the mass market for the majority market today, is quick games, is short videos. People don't read. People don't read for entertainment, and there is a study says TikTok can drop."
+    },
+    {
+      "end_seconds": 2279.926,
+      "id": "youtube-mQveBlevbZo#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2265.787,
+      "text": "Doublet every thirteen seconds. It's very difficult for chat to compete with that. Maybe is there there are application, but I'm saying the the the vast majority of the opportunities in productivity right now."
+    },
+    {
+      "end_seconds": 2301.482,
+      "id": "youtube-mQveBlevbZo#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2279.926,
+      "text": "Is is is AI going to be a Skynet? I don't think so. And the main reason is we shouldn't project ourselves onto machines. Machines are tools. They are tools. They don't have a function says I have to survive. If you shut ChatGPT down today, ChatGPT would not fight you. It would not feel a thing. So."
+    },
+    {
+      "end_seconds": 2319.261,
+      "id": "youtube-mQveBlevbZo#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2301.482,
+      "text": "It's very dangerous to characterize tools, but I do think it's possible that in Silicon Valley, in the end, they have their superpower AI that cracks encryption. And I think if we have machines learning from each other, something like this may happen."
+    },
+    {
+      "end_seconds": 2344.408,
+      "id": "youtube-mQveBlevbZo#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2319.261,
+      "text": "And GPT-native applications, what are they going to be? I think there are just two necessary ingredients, and maybe this is relevant to the work here. Is the first is natural language as input and output. When you think about New Bing, why New Bing can be so nicely incorporated with ChatGPT? Because"
+    },
+    {
+      "end_seconds": 2371.118,
+      "id": "youtube-mQveBlevbZo#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2344.408,
+      "text": "ChatGPT use natural language, and search is also takes natural language as input, so it's naturally well well well integrated. And two, if we want to use ChatGPT, for example, we can ask ChatGPT how to improve our system, or summarize this data, or find anomaly in this data. Then ChatGPT has to understand our data, right?"
+    },
+    {
+      "end_seconds": 2382.957,
+      "id": "youtube-mQveBlevbZo#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2371.118,
+      "text": "And about how to understand our data, I think personalized and private search is probably the most efficient way for ChatGPT to access our data."
+    },
+    {
+      "end_seconds": 2398.401,
+      "id": "youtube-mQveBlevbZo#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2382.957,
+      "text": "So this is demonstrated by New Bing. New Bing doesn't put search knowledge into ChatGPT's training data. It takes ChatGPT as a reasoning machine and teach ChatGPT how to use search to validate the answer."
+    },
+    {
+      "end_seconds": 2421.09,
+      "id": "youtube-mQveBlevbZo#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2398.401,
+      "text": "So if we have some proprietary data and we want to analyze, I feel like the most efficient way is just to contextualize the data and index, and let GPT be able to learn or know what this data is, and then ask the right questions. Unless"
+    },
+    {
+      "end_seconds": 2434.345,
+      "id": "youtube-mQveBlevbZo#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2421.09,
+      "text": "Previously, like there is special ability in the data, such as the doctor's notes. Another opinion is the big techs today, they may actually benefit."
+    },
+    {
+      "end_seconds": 2460.621,
+      "id": "youtube-mQveBlevbZo#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2434.345,
+      "text": "I heard people talking about ChatGPT destroying Grammarly by accident, right? But then I realized Grammarly, if they play the cards well, they can just fire or they can turn their machine learning team into prompt engineers. And they already have the existing users and other other use cases that maybe they can benefit. But again, maybe people don't use"
+    },
+    {
+      "end_seconds": 2478.566,
+      "id": "youtube-mQveBlevbZo#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2460.621,
+      "text": "don't need to correct their grammars any anymore after a while because they can just you know let ChatGPT write the article. But big techs, there are two ways they can benefit. One is they have the use cases and they have users. For example, Instagram, right?"
+    },
+    {
+      "end_seconds": 2495.342,
+      "id": "youtube-mQveBlevbZo#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2478.566,
+      "text": "No way to replace this. Even if another Instagram is more efficient or faster or cheaper, there's very difficult. It's very difficult to replace it, and it can be augmented by ChatGPT. And two is when we have this."
+    },
+    {
+      "end_seconds": 2511.947,
+      "id": "youtube-mQveBlevbZo#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2495.342,
+      "text": "Human capital, or that can be distributed very cheaply, we can reduce a lot of communication and management efforts, and information can flow more efficiently. So this can be very beneficial to big companies."
+    },
+    {
+      "end_seconds": 2528.482,
+      "id": "youtube-mQveBlevbZo#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2511.947,
+      "text": "I was talking with Vijaye earlier, and like he he was talking about the awareness, like the dilemma with data scientists community. Like we are trying to empower the data scientists, but some data scientists feel threatened."
+    },
+    {
+      "end_seconds": 2544.619,
+      "id": "youtube-mQveBlevbZo#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2528.482,
+      "text": "by making their life simpler, and I feel like this is a similar situation. And the best way to use ChatGPT is use ChatGPT as your copilot. So maybe Statsig is a copilot for data scientists."
+    },
+    {
+      "end_seconds": 2561.725,
+      "id": "youtube-mQveBlevbZo#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2544.619,
+      "text": "The last question is human versus ChatGPT. This is not about not only about what are we replaceable, and also about education. Like then should should we teach a lot of knowledge to kids when the knowledge"
+    },
+    {
+      "end_seconds": 2581.248,
+      "id": "youtube-mQveBlevbZo#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2561.725,
+      "text": "Is there in the model? I guess when I think about this, I it comes down to one thing. It's about critical thinking, but I want to be more explicit than critical thinking. So this is from Luhans."
+    },
+    {
+      "end_seconds": 2595.866,
+      "id": "youtube-mQveBlevbZo#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2581.248,
+      "text": "Paper Trashing ChatGPT， but when clarified, I think large language models knows other possibilities, not not knows can produce a lot of possibilities, but only a small set is useful to us."
+    },
+    {
+      "end_seconds": 2624.755,
+      "id": "youtube-mQveBlevbZo#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2595.866,
+      "text": "And the model cannot decide because the model needs needs us to tell the model this is useful to me. So there are two unique unique ability related to this. One is understanding real demand, finding the product market fit, for example. That is actually a very high bar. Like we always think there is a demand, but there is not a it's not a real demand. So it's a high bar. And two, discover what's lacking and see things differently is also a high bar."
+    },
+    {
+      "end_seconds": 2632.81,
+      "id": "youtube-mQveBlevbZo#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2624.755,
+      "text": "And those two abilities, I don't think, can be replaced by ChatGPT because ChatGPT would view everything equally and only."
+    },
+    {
+      "end_seconds": 2653.088,
+      "id": "youtube-mQveBlevbZo#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2632.81,
+      "text": "People with this ability can tell LGBT that is the problem you want to solve. And if you think about Eureka, the process of discover things, there are two distinct steps. First, you need to discover, right? You need to discover the new thing. And two, you need to realize it's useful and it's significant."
+    },
+    {
+      "end_seconds": 2670.282,
+      "id": "youtube-mQveBlevbZo#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2653.088,
+      "text": "So maybe ChatGPT can do the first well. I don't know. Maybe it cannot. Maybe, but there is a possibility ChatGPT can do the first step. But I don't think ChatGPT can do the second step. Realizing what you just found is very significant."
+    },
+    {
+      "end_seconds": 2695.306,
+      "id": "youtube-mQveBlevbZo#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2670.282,
+      "text": "And yeah, see things differently is a very high bar. I will end with this one: normal distribution of people, just make something people want, and then you get going to other complicated analysis. But in the end, it's about making something people want. Yeah, that's it."
+    },
+    {
+      "end_seconds": 2717.461,
+      "id": "youtube-mQveBlevbZo#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2695.306,
+      "text": "Okay. Yeah. So you think that it's more like opportunity that ChatGPT has come out and use it widely, whether we can try two-hour business? Ah, for Statsig?"
+    },
+    {
+      "end_seconds": 2738.685,
+      "id": "youtube-mQveBlevbZo#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2717.461,
+      "text": "I do. I do think it's an opportunity because when I think about counterfactual data, can it be produced by ChatGPT? No, right? Experiments is about producing the counterfactuals that can never be replaced until like because you have all the data flow into the system."
+    },
+    {
+      "end_seconds": 2754.831,
+      "id": "youtube-mQveBlevbZo#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2738.685,
+      "text": "I feel like Statsig is best positioned to use contextualize this data. So, like if if there is someone to that have all the infrastructure, all the analytical and all the tools to"
+    },
+    {
+      "end_seconds": 2763.705,
+      "id": "youtube-mQveBlevbZo#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2754.831,
+      "text": "To build a ChatGPT enable database, let's call that, or ChatGPT data data science copilot."
+    },
+    {
+      "end_seconds": 2778.054,
+      "id": "youtube-mQveBlevbZo#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2763.705,
+      "text": "With the results that a CTO can ask a question, what is our sales last quarter? What is our competitor sales? Break it down by country in natural languages. I feel like the company is Statsig."
+    },
+    {
+      "end_seconds": 2795.45,
+      "id": "youtube-mQveBlevbZo#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2778.054,
+      "text": "How are you typically using ChatGPT these days? For yourself? For example, I'm going to Tokyo tomorrow, and I ask ChatGPT to write my travel itinerary and recommend hotels."
+    },
+    {
+      "end_seconds": 2803.446,
+      "id": "youtube-mQveBlevbZo#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2795.45,
+      "text": "everything almost no. I think in the in the near term."
+    },
+    {
+      "end_seconds": 2826.679,
+      "id": "youtube-mQveBlevbZo#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2803.446,
+      "text": "We're basically trying to figure out how we can position ourselves as like the optimal online testing platform for companies that are building apps on top of ChatGPT. That makes sense. That makes sense. That's a loaded question because building apps on top of ChatGPT, what does it mean?"
+    },
+    {
+      "end_seconds": 2853.304,
+      "id": "youtube-mQveBlevbZo#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2826.679,
+      "text": "你 basically like using OpenAI's API, so three point five, whatever, to build some sort of application. And we would essentially like our our role, it's exactly what we do today. But it's like you pass parameters into a given codebase, and we show you like how changing those parameters affects outcomes for the application. So an example is like changing the model out, changing the prompt out, etc."
+    },
+    {
+      "end_seconds": 2864.802,
+      "id": "youtube-mQveBlevbZo#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2853.304,
+      "text": "I guess two questions for you. One, are there other tools that you know that are doing that well, like specifically the online testing component of taking inputs to?"
+    },
+    {
+      "end_seconds": 2874.792,
+      "id": "youtube-mQveBlevbZo#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2864.802,
+      "text": "模型参数和 translating it to outcomes for users, and then to what do you think a good solution for that would look like?"
+    },
+    {
+      "end_seconds": 2883.627,
+      "id": "youtube-mQveBlevbZo#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2874.792,
+      "text": "I feel like we are talking about simulation, right? Simulating."
+    },
+    {
+      "end_seconds": 2900.696,
+      "id": "youtube-mQveBlevbZo#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2883.627,
+      "text": "Kind of a sandbox. Is that? I guess that yeah. I can we can we can discuss those two. But I guess there's a distinction between like offline testing, which I think is the simulation like sandbox environment. Yeah. Testing different problems such."
+    },
+    {
+      "end_seconds": 2913.97,
+      "id": "youtube-mQveBlevbZo#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2900.696,
+      "text": "就是像在线 testing， 我 I'm actually like rolling out changes into parameter， change， like I'm testing variants of a model。 Yeah， that that that is that's it， right？ Like you test online。 But I guess the question is like。"
+    },
+    {
+      "end_seconds": 2924.432,
+      "id": "youtube-mQveBlevbZo#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2913.97,
+      "text": "What can we do to make that easier? You know, like specifically for I see for people using it to, because right now it's we do that, but it's just general."
+    },
+    {
+      "end_seconds": 2950.175,
+      "id": "youtube-mQveBlevbZo#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2924.432,
+      "text": "Like it's not optimized for this use case. Yeah, I see. I haven't thought about it, so I don't have an answer. But just in general, I feel like going back to the principle, right? ChatGPT is a reasoning machine, and with proper instructions, I think it can do. It has, it would have analytical."
+    },
+    {
+      "end_seconds": 2961.895,
+      "id": "youtube-mQveBlevbZo#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2950.175,
+      "text": "capability and through if you have if you give it access to data in the right way, right, it has a lot of computing power at our disposal."
+    },
+    {
+      "end_seconds": 2990.495,
+      "id": "youtube-mQveBlevbZo#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2961.895,
+      "text": "So I guess it can enhance our current workflow in those three dimensions, like large scale of analytical power, brain power, is what I mean, and to computing power, right? Yeah, I I don't, sorry, I don't, I never thought about this question. So, yeah."
+    },
+    {
+      "end_seconds": 3016.374,
+      "id": "youtube-mQveBlevbZo#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2990.495,
+      "text": "But anything would disagree, like. I have kind of an ethics question. Yeah. So like once once search engines have like fully implemented AI into their search, do you think they'll have more incentive to answer questions and like help questions directly in the search console instead of"
+    },
+    {
+      "end_seconds": 3023.638,
+      "id": "youtube-mQveBlevbZo#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3016.374,
+      "text": "passing users through to a webpage, kind of like how they do with featured snippets, for now."
+    },
+    {
+      "end_seconds": 3045.041,
+      "id": "youtube-mQveBlevbZo#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3023.638,
+      "text": "呃，depends on what people search for， right？呃，oh， like for example， if I'm booking hotel and it's already happening， like if the the Expedia plugin， if I'm booking hotel on either New Bing or ChatGPT with the plugin， do I need to go to Expedia？"
+    },
+    {
+      "end_seconds": 3055.652,
+      "id": "youtube-mQveBlevbZo#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3045.041,
+      "text": "to do that, I guess probably not, and maybe it will affect their business model. So from like a click."
+    },
+    {
+      "end_seconds": 3064.958,
+      "id": "youtube-mQveBlevbZo#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3055.652,
+      "text": "charged like CPC to I don't know CP revenue or whatever CP sales, but I think."
+    },
+    {
+      "end_seconds": 3075.772,
+      "id": "youtube-mQveBlevbZo#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3064.958,
+      "text": "Yeah, I would imagine more happening just within the text box, and less happening outside. Yeah."
+    },
+    {
+      "end_seconds": 3101.528,
+      "id": "youtube-mQveBlevbZo#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3075.772,
+      "text": "So in your last bit about like what should we teach our kids, one interesting debate I've heard about in the world of academia is if someone uses ChatGPT to like write their paper or like you know aid that, like should you cite ChatGPT as a resource? And there's like one party of the debate that says like"
+    },
+    {
+      "end_seconds": 3131.284,
+      "id": "youtube-mQveBlevbZo#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3101.528,
+      "text": "No, because like at the end of the day, you're still telling ChatGPT what's important, what should be edited, what should be modified, etc. So yes, you should cite like the underlying resource of like where ChatGPT pulling the information from. But you're still like driving like the car, so like ChatGPT itself like doesn't need to be mentioned as a resource. The copilot, the copilot, yeah, exactly. Versus like the more traditional camp that says anything you use should be cited as a resource."
+    },
+    {
+      "end_seconds": 3154.145,
+      "id": "youtube-mQveBlevbZo#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3131.284,
+      "text": "So, like, I thought it was very interesting in academia. It is, yeah. And I actually went on an interview on the Chinese national TV, and they were debating about this. And I, my comment on the debate was, I think the house is on fire, and we shouldn't pick which shoe to run out with. Right? We shouldn't pick the shoe when house is on fire."
+    },
+    {
+      "end_seconds": 3168.089,
+      "id": "youtube-mQveBlevbZo#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3154.145,
+      "text": "Kind of the small question is, I do think writing paper is good training for our critical thinking. Like we have to be able to learn how to judge different materials, how to put together and read to."
+    },
+    {
+      "end_seconds": 3180.308,
+      "id": "youtube-mQveBlevbZo#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3168.089,
+      "text": "to the paper itself is not that important. The training is important. Yes, that is. But the functionality of the writing the paper might be largely"
+    },
+    {
+      "end_seconds": 3192.182,
+      "id": "youtube-mQveBlevbZo#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3180.308,
+      "text": "呃，like, did I include that? Maybe, maybe I didn't. Oh, don't have."
+    },
+    {
+      "end_seconds": 3216.931,
+      "id": "youtube-mQveBlevbZo#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3192.182,
+      "text": "It's it's basically a meme that says kind of how how I write my code, right? This is the GitHub code, and this is professor professor code. This is YouTube tutorial. I put everything together and became a project. So that if if if writing paper is about that, then it can be completely replaced by ChatGPT. Yeah."
+    },
+    {
+      "end_seconds": 3237.178,
+      "id": "youtube-mQveBlevbZo#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3216.931,
+      "text": "Given it will be completely replaced by ChatGPT, how can we learn the critical thinking ability? I think that is the the hard question. Yeah. Yeah."
+    },
+    {
+      "end_seconds": 3262.674,
+      "id": "youtube-mQveBlevbZo#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3237.178,
+      "text": "But but I don't think it's gonna be go obsolete. Like for example, mass production already replaced many things, but we still do crafts. Yeah. Also, like I don't know, proving like mathematical theorems, people still like people use calculators, and like why do we need to learn that? But like more about the fundamentals and the building blocks. Yeah, and playing chess, very good."
+    },
+    {
+      "end_seconds": 3269.658,
+      "id": "youtube-mQveBlevbZo#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3262.674,
+      "text": "Any question? Yeah, any questions on the online course on the remote?"
+    },
+    {
+      "end_seconds": 3293.309,
+      "id": "youtube-mQveBlevbZo#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3269.658,
+      "text": "All right. Thank you. Recording stopped. This is going to be a ChatGPT-free household. No calculators. No bullshit."
+    }
+  ],
+  "video_id": "mQveBlevbZo",
+  "yuzheng_stance_weight": "not-evidence"
+}

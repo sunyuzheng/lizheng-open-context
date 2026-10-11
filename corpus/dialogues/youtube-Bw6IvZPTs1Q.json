@@ -1,0 +1,5786 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-Bw6IvZPTs1Q",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2020-10-03T20:44:15Z",
+  "participant_aliases": [
+    "Chen Hao",
+    "陈昊"
+  ],
+  "participant_entity_ids": [
+    "guest:chen-hao"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "陈昊",
+  "public_verified_at": "2026-10-11T01:53:23.811233+00:00",
+  "published_at": "2020-10-03",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "e9e79ac82ca88ada52dc7c2bf63fecf1d77079b2691f007e953e7d9293d186c7",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "7ceffcedde325fcca2f22b88eab6a252c35e082809910541320adf2a37ecb337",
+    "root_receipt_sha256": "06e701440329117a781aff618c919f015c4155915d6f1a1b125e2203407d0091",
+    "unresolved_count": 5
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=Bw6IvZPTs1Q",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=Bw6IvZPTs1Q",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "5nm芯片工程师科普顶级芯片开发与挑战｜中文网络权威",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 4.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "最近芯片是一个这个算是红得发紫的课题了"
+    },
+    {
+      "end_seconds": 7.679,
+      "id": "youtube-Bw6IvZPTs1Q#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.6,
+      "text": "因为我们国家发现落后了很大一截"
+    },
+    {
+      "end_seconds": 9.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.679,
+      "text": "然后最近有很多的投资"
+    },
+    {
+      "end_seconds": 12.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.8,
+      "text": "希望去这个赶英超美对吧"
+    },
+    {
+      "end_seconds": 14.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.28,
+      "text": "把芯片的这个制作给追上来"
+    },
+    {
+      "end_seconds": 17.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.28,
+      "text": "但是芯片到底为什么难"
+    },
+    {
+      "end_seconds": 19.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.24,
+      "text": "以及这些钱投下去"
+    },
+    {
+      "end_seconds": 22.16,
+      "id": "youtube-Bw6IvZPTs1Q#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.32,
+      "text": "到底是出来另外一个泡沫呢"
+    },
+    {
+      "end_seconds": 25.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.16,
+      "text": "还是真的可以用钱来买时间"
+    },
+    {
+      "end_seconds": 28.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.28,
+      "text": "把这个技术真的提升上去"
+    },
+    {
+      "end_seconds": 30.119,
+      "id": "youtube-Bw6IvZPTs1Q#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.519,
+      "text": "是大家很关心的一个问题"
+    },
+    {
+      "end_seconds": 32.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.119,
+      "text": "要想搞清楚这些问题"
+    },
+    {
+      "end_seconds": 33.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.0,
+      "text": "要想搞清楚答案的话"
+    },
+    {
+      "end_seconds": 37.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.439,
+      "text": "我们了解这前沿芯片的制作流程"
+    },
+    {
+      "end_seconds": 40.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.32,
+      "text": "其实是这个必不可少的一个环节"
+    },
+    {
+      "end_seconds": 43.359,
+      "id": "youtube-Bw6IvZPTs1Q#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.28,
+      "text": "我们今天就请来了在Intel"
+    },
+    {
+      "end_seconds": 46.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.359,
+      "text": "5纳米芯片研发组的陈浩博士"
+    },
+    {
+      "end_seconds": 50.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.879,
+      "text": "来帮大家讲一下这个制作前沿芯片"
+    },
+    {
+      "end_seconds": 52.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.439,
+      "text": "到底为什么难这件事情"
+    },
+    {
+      "end_seconds": 54.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.92,
+      "text": "那那个欢迎陈浩同学"
+    },
+    {
+      "end_seconds": 57.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.759,
+      "text": "大家好我是陈浩"
+    },
+    {
+      "end_seconds": 60.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.799,
+      "text": "我是在Intel工作的芯片工程师"
+    },
+    {
+      "end_seconds": 62.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.759,
+      "text": "来到Intel以前"
+    },
+    {
+      "end_seconds": 64.56,
+      "id": "youtube-Bw6IvZPTs1Q#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.079,
+      "text": "我在康奈尔大学攻读博士学位"
+    },
+    {
+      "end_seconds": 69.159,
+      "id": "youtube-Bw6IvZPTs1Q#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.56,
+      "text": "主要做的一些关于固体化学相关的课题"
+    },
+    {
+      "end_seconds": 72.56,
+      "id": "youtube-Bw6IvZPTs1Q#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.159,
+      "text": "来到Intel已经7年了"
+    },
+    {
+      "end_seconds": 75.359,
+      "id": "youtube-Bw6IvZPTs1Q#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.56,
+      "text": "我经历了从22纳米到5纳米"
+    },
+    {
+      "end_seconds": 78.599,
+      "id": "youtube-Bw6IvZPTs1Q#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.359,
+      "text": "制程的这个研发和生产"
+    },
+    {
+      "end_seconds": 81.359,
+      "id": "youtube-Bw6IvZPTs1Q#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.599,
+      "text": "今天非常高兴能够在这和大家聊一聊"
+    },
+    {
+      "end_seconds": 83.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.359,
+      "text": "关于芯片的事"
+    },
+    {
+      "end_seconds": 84.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 83.039,
+      "text": "好的陈浩同学"
+    },
+    {
+      "end_seconds": 86.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.4,
+      "text": "我觉得我们今天就是"
+    },
+    {
+      "end_seconds": 89.88,
+      "id": "youtube-Bw6IvZPTs1Q#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 86.8,
+      "text": "因为很多同学对芯片这个概念不是很了解"
+    },
+    {
+      "end_seconds": 95.04,
+      "id": "youtube-Bw6IvZPTs1Q#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.88,
+      "text": "我们今天就先从粗到细或者从高到低"
+    },
+    {
+      "end_seconds": 97.359,
+      "id": "youtube-Bw6IvZPTs1Q#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.04,
+      "text": "来先讲一下芯片到底是什么"
+    },
+    {
+      "end_seconds": 100.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.359,
+      "text": "然后这个工艺里边可能我们再展开"
+    },
+    {
+      "end_seconds": 103.52,
+      "id": "youtube-Bw6IvZPTs1Q#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 100.4,
+      "text": "到一直到最难的这一部分"
+    },
+    {
+      "end_seconds": 107.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.52,
+      "text": "最后可能再讲讲我们大家都关心的光刻机"
+    },
+    {
+      "end_seconds": 108.76,
+      "id": "youtube-Bw6IvZPTs1Q#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.0,
+      "text": "和这个工艺有什么关系"
+    },
+    {
+      "end_seconds": 110.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.76,
+      "text": "然后难点到底在哪"
+    },
+    {
+      "end_seconds": 113.04,
+      "id": "youtube-Bw6IvZPTs1Q#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.439,
+      "text": "最后我们可能再讲一些商业应用"
+    },
+    {
+      "end_seconds": 114.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.04,
+      "text": "和回到我们最开始的问题"
+    },
+    {
+      "end_seconds": 118.239,
+      "id": "youtube-Bw6IvZPTs1Q#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 114.959,
+      "text": "就是我们国家到底如何在这方面进行赶超"
+    },
+    {
+      "end_seconds": 119.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.239,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 121.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.039,
+      "text": "首先我们聊一下芯片"
+    },
+    {
+      "end_seconds": 123.599,
+      "id": "youtube-Bw6IvZPTs1Q#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.759,
+      "text": "芯片其实就是集成电路"
+    },
+    {
+      "end_seconds": 127.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.599,
+      "text": "它其实就是把很复杂的电路集成到一个很小的面积上"
+    },
+    {
+      "end_seconds": 131.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.319,
+      "text": "芯片可以分为模拟芯片和数字芯片"
+    },
+    {
+      "end_seconds": 134.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.0,
+      "text": "而数字芯片是大家比较关心的"
+    },
+    {
+      "end_seconds": 136.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.039,
+      "text": "比如说像CPU这些"
+    },
+    {
+      "end_seconds": 139.479,
+      "id": "youtube-Bw6IvZPTs1Q#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.519,
+      "text": "它属于数字芯片当中的逻辑芯片"
+    },
+    {
+      "end_seconds": 142.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 139.479,
+      "text": "当然还有比如像内存闪存这类的"
+    },
+    {
+      "end_seconds": 146.08,
+      "id": "youtube-Bw6IvZPTs1Q#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 142.84,
+      "text": "它是属于数字芯片当中的储存芯片"
+    },
+    {
+      "end_seconds": 148.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 146.08,
+      "text": "他们是根据功用来进行划分的"
+    },
+    {
+      "end_seconds": 152.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 148.48,
+      "text": "难的是不是就是逻辑芯片"
+    },
+    {
+      "end_seconds": 153.52,
+      "id": "youtube-Bw6IvZPTs1Q#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 152.2,
+      "text": "可以这么说"
+    },
+    {
+      "end_seconds": 157.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.52,
+      "text": "你比如说大家现在比较关心的中芯国际"
+    },
+    {
+      "end_seconds": 159.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.84,
+      "text": "他们做的CPU这种产品"
+    },
+    {
+      "end_seconds": 161.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 159.96,
+      "text": "它就是逻辑芯片"
+    },
+    {
+      "end_seconds": 163.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.92,
+      "text": "但是我要强调一点"
+    },
+    {
+      "end_seconds": 166.52,
+      "id": "youtube-Bw6IvZPTs1Q#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.439,
+      "text": "其实储存芯片的市场也非常的大"
+    },
+    {
+      "end_seconds": 172.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 166.52,
+      "text": "它是要超过逻辑芯片的整个的交易量和市场的"
+    },
+    {
+      "end_seconds": 174.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 172.4,
+      "text": "像我们国家做的比较好的"
+    },
+    {
+      "end_seconds": 178.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.44,
+      "text": "像长江存储大家可能都已经知道"
+    },
+    {
+      "end_seconds": 184.08,
+      "id": "youtube-Bw6IvZPTs1Q#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 178.8,
+      "text": "还有合肥长鑫他们都是在储存这个领域里做的非常不错"
+    },
+    {
+      "end_seconds": 185.52,
+      "id": "youtube-Bw6IvZPTs1Q#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.08,
+      "text": "不知道"
+    },
+    {
+      "end_seconds": 188.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 185.52,
+      "text": "但是反正我们了解了储存芯片"
+    },
+    {
+      "end_seconds": 189.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.32,
+      "text": "我们做的不错的"
+    },
+    {
+      "end_seconds": 193.56,
+      "id": "youtube-Bw6IvZPTs1Q#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 189.96,
+      "text": "但是逻辑芯片可能还有很多技术上需要赶超的地方"
+    },
+    {
+      "end_seconds": 194.04,
+      "id": "youtube-Bw6IvZPTs1Q#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.56,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 198.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 196.16,
+      "text": "都需要一些进步"
+    },
+    {
+      "end_seconds": 202.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 198.0,
+      "text": "但是做的不是最新的制程"
+    },
+    {
+      "end_seconds": 205.199,
+      "id": "youtube-Bw6IvZPTs1Q#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 202.319,
+      "text": "但是你比如说像长江存储"
+    },
+    {
+      "end_seconds": 212.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 205.199,
+      "text": "他们现在做闪存做到128层已经是最新的制程了"
+    },
+    {
+      "end_seconds": 214.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.639,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 216.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.319,
+      "text": "那我们就来讲逻辑芯片"
+    },
+    {
+      "end_seconds": 218.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.879,
+      "text": "尤其是CPU"
+    },
+    {
+      "end_seconds": 222.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 218.92,
+      "text": "CPU到底是怎么造的"
+    },
+    {
+      "end_seconds": 224.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.319,
+      "text": "就是我们应该怎么说"
+    },
+    {
+      "end_seconds": 227.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 224.12,
+      "text": "CPU它制造过程到底是什么样子的"
+    },
+    {
+      "end_seconds": 230.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 227.0,
+      "text": "然后这里边的难点到底是哪里的"
+    },
+    {
+      "end_seconds": 236.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 231.479,
+      "text": "其实一般芯片的制作分为三个主要的阶段"
+    },
+    {
+      "end_seconds": 237.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 236.4,
+      "text": "一个是设计"
+    },
+    {
+      "end_seconds": 238.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.759,
+      "text": "然后是制程"
+    },
+    {
+      "end_seconds": 239.919,
+      "id": "youtube-Bw6IvZPTs1Q#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.8,
+      "text": "最后是封装"
+    },
+    {
+      "end_seconds": 242.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 239.919,
+      "text": "封装是其中技术难度最低的"
+    },
+    {
+      "end_seconds": 244.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 242.8,
+      "text": "我们也没有必要在这讲了"
+    },
+    {
+      "end_seconds": 249.599,
+      "id": "youtube-Bw6IvZPTs1Q#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 244.84,
+      "text": "那芯片的设计相对于芯片的制程是比较轻资产"
+    },
+    {
+      "end_seconds": 251.719,
+      "id": "youtube-Bw6IvZPTs1Q#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.599,
+      "text": "只是相对于制程来讲"
+    },
+    {
+      "end_seconds": 255.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 252.599,
+      "text": "所以有很多公司会更加愿意去做芯片的设计"
+    },
+    {
+      "end_seconds": 258.04,
+      "id": "youtube-Bw6IvZPTs1Q#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 256.72,
+      "text": "像NVIDIA"
+    },
+    {
+      "end_seconds": 259.04,
+      "id": "youtube-Bw6IvZPTs1Q#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 258.04,
+      "text": "像AMD"
+    },
+    {
+      "end_seconds": 261.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.04,
+      "text": "像我们国内做的比较好的海思"
+    },
+    {
+      "end_seconds": 263.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.639,
+      "text": "他们主要是设计芯片的"
+    },
+    {
+      "end_seconds": 266.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 265.6,
+      "text": "大家比较关心的"
+    },
+    {
+      "end_seconds": 269.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 266.8,
+      "text": "像中芯国际这类的公司"
+    },
+    {
+      "end_seconds": 272.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.84,
+      "text": "我们把它统一称作是晶圆厂"
+    },
+    {
+      "end_seconds": 275.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 272.68,
+      "text": "他们是真正去制程芯片"
+    },
+    {
+      "end_seconds": 280.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 276.68,
+      "text": "那也就是我们今天主要聊的也是芯片的制程"
+    },
+    {
+      "end_seconds": 284.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.48,
+      "text": "我们谈到制程"
+    },
+    {
+      "end_seconds": 289.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.319,
+      "text": "芯片其实它主要有两个最主要的部分"
+    },
+    {
+      "end_seconds": 293.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 289.639,
+      "text": "一个是进行计算的晶体管单元"
+    },
+    {
+      "end_seconds": 296.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.12,
+      "text": "另外是把这些晶体管单元通过"
+    },
+    {
+      "end_seconds": 299.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 296.24,
+      "text": "功能性的设计连接起来的基础线"
+    },
+    {
+      "end_seconds": 303.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 299.8,
+      "text": "来实现整体的芯片的运作"
+    },
+    {
+      "end_seconds": 309.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 305.12,
+      "text": "所以如果我们把芯片看作一个建筑的话"
+    },
+    {
+      "end_seconds": 313.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 309.639,
+      "text": "这些晶体管单元它是在建筑的最底层"
+    },
+    {
+      "end_seconds": 318.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 314.36,
+      "text": "然后这个建筑是通过一种叫做电介质材料的"
+    },
+    {
+      "end_seconds": 320.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 318.8,
+      "text": "材料进行支撑"
+    },
+    {
+      "end_seconds": 322.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 320.879,
+      "text": "然后在每一层电介质材料当中"
+    },
+    {
+      "end_seconds": 325.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.8,
+      "text": "我们把这个金属线放到当中"
+    },
+    {
+      "end_seconds": 328.16,
+      "id": "youtube-Bw6IvZPTs1Q#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 325.92,
+      "text": "然后进行功能性的连接"
+    },
+    {
+      "end_seconds": 330.52,
+      "id": "youtube-Bw6IvZPTs1Q#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.16,
+      "text": "所以这个芯片是个立体的结构"
+    },
+    {
+      "end_seconds": 331.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 330.52,
+      "text": "是个立体的结构"
+    },
+    {
+      "end_seconds": 332.52,
+      "id": "youtube-Bw6IvZPTs1Q#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 331.48,
+      "text": "具体来讲的话"
+    },
+    {
+      "end_seconds": 335.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 332.52,
+      "text": "你比如说在某一层电介质层当中"
+    },
+    {
+      "end_seconds": 339.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 337.199,
+      "text": "芯片的设计会非常明确的规定"
+    },
+    {
+      "end_seconds": 341.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 339.92,
+      "text": "这个金属线的长度宽度"
+    },
+    {
+      "end_seconds": 344.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 341.8,
+      "text": "间距上下层连接的位置"
+    },
+    {
+      "end_seconds": 350.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 344.439,
+      "text": "然后我们可以把这个想象成一个金属线的图案"
+    },
+    {
+      "end_seconds": 351.959,
+      "id": "youtube-Bw6IvZPTs1Q#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 350.759,
+      "text": "在制程过程当中"
+    },
+    {
+      "end_seconds": 354.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 351.959,
+      "text": "我们首先是通过光刻的方式"
+    },
+    {
+      "end_seconds": 358.959,
+      "id": "youtube-Bw6IvZPTs1Q#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.439,
+      "text": "把这个图案刻印到电介质材料的表面"
+    },
+    {
+      "end_seconds": 362.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 358.959,
+      "text": "然后通过化学的方法"
+    },
+    {
+      "end_seconds": 364.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 362.279,
+      "text": "把这个图案刻蚀到电介质材料当中"
+    },
+    {
+      "end_seconds": 368.399,
+      "id": "youtube-Bw6IvZPTs1Q#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 364.639,
+      "text": "最后是把金属填充到刻蚀出的沟槽当中"
+    },
+    {
+      "end_seconds": 371.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.399,
+      "text": "实现了这一层芯片的制作"
+    },
+    {
+      "end_seconds": 373.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.799,
+      "text": "然后我们用类似的方法"
+    },
+    {
+      "end_seconds": 376.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 373.12,
+      "text": "一层一层一层的把最终的芯片制作出来"
+    },
+    {
+      "end_seconds": 379.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 376.519,
+      "text": "听起来就是一个挺工程的事情"
+    },
+    {
+      "end_seconds": 380.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.12,
+      "text": "首先它是一个集成电路"
+    },
+    {
+      "end_seconds": 381.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 380.879,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 382.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.279,
+      "text": "就是一堆线"
+    },
+    {
+      "end_seconds": 385.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 382.12,
+      "text": "然后你要想办法把这个线做得足够细"
+    },
+    {
+      "end_seconds": 385.959,
+      "id": "youtube-Bw6IvZPTs1Q#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 385.0,
+      "text": "足够小"
+    },
+    {
+      "end_seconds": 389.679,
+      "id": "youtube-Bw6IvZPTs1Q#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 385.959,
+      "text": "然后你交由各种各样的复杂的工艺"
+    },
+    {
+      "end_seconds": 392.159,
+      "id": "youtube-Bw6IvZPTs1Q#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 389.679,
+      "text": "去在这么小的一个地方把它做出来"
+    },
+    {
+      "end_seconds": 396.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 392.159,
+      "text": "那是不是现在我们的所谓的几纳米几纳米"
+    },
+    {
+      "end_seconds": 399.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 396.319,
+      "text": "就是说它的中间的什么东西的大小"
+    },
+    {
+      "end_seconds": 400.959,
+      "id": "youtube-Bw6IvZPTs1Q#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 399.559,
+      "text": "可以这么想"
+    },
+    {
+      "end_seconds": 405.479,
+      "id": "youtube-Bw6IvZPTs1Q#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 400.959,
+      "text": "在这个行业里面我们把这个大家比较说的比较多的"
+    },
+    {
+      "end_seconds": 406.679,
+      "id": "youtube-Bw6IvZPTs1Q#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 405.479,
+      "text": "像10纳米"
+    },
+    {
+      "end_seconds": 407.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 406.679,
+      "text": "14纳米"
+    },
+    {
+      "end_seconds": 410.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 407.759,
+      "text": "10纳米7纳米这种名词"
+    },
+    {
+      "end_seconds": 412.479,
+      "id": "youtube-Bw6IvZPTs1Q#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.0,
+      "text": "其实我们是叫做技术节点"
+    },
+    {
+      "end_seconds": 420.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 412.479,
+      "text": "它是衡量制程度和制程难度的一个名词"
+    },
+    {
+      "end_seconds": 425.679,
+      "id": "youtube-Bw6IvZPTs1Q#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 420.519,
+      "text": "以前的技术节点的多少纳米"
+    },
+    {
+      "end_seconds": 427.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 425.68,
+      "text": "它是有实际的物理意义的"
+    },
+    {
+      "end_seconds": 432.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.28,
+      "text": "从最初的晶体管单元门的长度"
+    },
+    {
+      "end_seconds": 436.16,
+      "id": "youtube-Bw6IvZPTs1Q#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.28,
+      "text": "到后来的最密金属线部分"
+    },
+    {
+      "end_seconds": 442.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 436.16,
+      "text": "重复单元的尺度的一半是有实际的物理意义的"
+    },
+    {
+      "end_seconds": 444.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 442.519,
+      "text": "但是在22纳米这个技术节点以后"
+    },
+    {
+      "end_seconds": 448.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 444.72,
+      "text": "因为晶体管单元的设计产生巨大的变化"
+    },
+    {
+      "end_seconds": 451.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 448.759,
+      "text": "它就慢慢的没有物理意义了"
+    },
+    {
+      "end_seconds": 456.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.56,
+      "text": "但是我想让大家注意到的是"
+    },
+    {
+      "end_seconds": 460.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 456.079,
+      "text": "就是这个下一代技术节点和上一代技术节点的关系"
+    },
+    {
+      "end_seconds": 462.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 460.48,
+      "text": "大概是0.7倍"
+    },
+    {
+      "end_seconds": 466.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 462.439,
+      "text": "你比如说14纳米乘以0.7是10纳米"
+    },
+    {
+      "end_seconds": 468.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 466.0,
+      "text": "10纳米乘以0.7是7纳米"
+    },
+    {
+      "end_seconds": 470.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 468.48,
+      "text": "7纳米乘以0.7"
+    },
+    {
+      "end_seconds": 471.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 470.6,
+      "text": "5纳米"
+    },
+    {
+      "end_seconds": 472.719,
+      "id": "youtube-Bw6IvZPTs1Q#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 471.279,
+      "text": "4.95纳米"
+    },
+    {
+      "end_seconds": 477.199,
+      "id": "youtube-Bw6IvZPTs1Q#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 472.719,
+      "text": "它实际上你可以看到把这个0.7的倍率"
+    },
+    {
+      "end_seconds": 478.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 477.199,
+      "text": "放到一个平面上"
+    },
+    {
+      "end_seconds": 480.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 479.0,
+      "text": "0.7乘以0.7"
+    },
+    {
+      "end_seconds": 482.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 480.319,
+      "text": "0.49大概就是0.5"
+    },
+    {
+      "end_seconds": 484.04,
+      "id": "youtube-Bw6IvZPTs1Q#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 482.84,
+      "text": "意思是什么呢"
+    },
+    {
+      "end_seconds": 488.08,
+      "id": "youtube-Bw6IvZPTs1Q#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 484.04,
+      "text": "就是说我们把晶体管的面积"
+    },
+    {
+      "end_seconds": 492.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 488.08,
+      "text": "在每一代技术更新之后变成了它的一半"
+    },
+    {
+      "end_seconds": 493.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 492.36,
+      "text": "也就是单位"
+    },
+    {
+      "end_seconds": 495.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 493.68,
+      "text": "是不是就是摩尔定律的意思"
+    },
+    {
+      "end_seconds": 498.04,
+      "id": "youtube-Bw6IvZPTs1Q#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.72,
+      "text": "就是我们要性能翻倍"
+    },
+    {
+      "end_seconds": 498.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.04,
+      "text": "对"
+    },
+    {
+      "end_seconds": 502.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.68,
+      "text": "它造成结果就是单位面积内"
+    },
+    {
+      "end_seconds": 504.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 502.28,
+      "text": "晶体管的密度就翻倍了"
+    },
+    {
+      "end_seconds": 508.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 504.2,
+      "text": "所以更加有意义的是这个倍率"
+    },
+    {
+      "end_seconds": 512.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 508.12,
+      "text": "而不是纳米数本身"
+    },
+    {
+      "end_seconds": 513.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 512.519,
+      "text": "明白了"
+    },
+    {
+      "end_seconds": 517.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 513.36,
+      "text": "所以说纳米数的0.7倍其实就是跟摩尔定律的"
+    },
+    {
+      "end_seconds": 522.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 517.44,
+      "text": "性能翻倍是一一对的"
+    },
+    {
+      "end_seconds": 523.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 522.84,
+      "text": "OK"
+    },
+    {
+      "end_seconds": 527.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 523.48,
+      "text": "在二二纳米没有任何的失质都不一一了"
+    },
+    {
+      "end_seconds": 529.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.0,
+      "text": "并不是说这个东西是母纳米的"
+    },
+    {
+      "end_seconds": 532.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.279,
+      "text": "或者是宜能吸纳米或者量"
+    },
+    {
+      "end_seconds": 533.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 532.48,
+      "text": "对"
+    },
+    {
+      "end_seconds": 536.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 533.44,
+      "text": "所以说我们大家会想到"
+    },
+    {
+      "end_seconds": 541.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 536.639,
+      "text": "就是说现在我们所有的很多科技创新"
+    },
+    {
+      "end_seconds": 543.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 541.6,
+      "text": "都是基于摩尔定律的"
+    },
+    {
+      "end_seconds": 545.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.519,
+      "text": "就虽然它不是一个真正有益的东西"
+    },
+    {
+      "end_seconds": 548.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.799,
+      "text": "但是其实就是一个这样的规律"
+    },
+    {
+      "end_seconds": 551.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 548.799,
+      "text": "那摩尔定律归根结底的原动力"
+    },
+    {
+      "end_seconds": 557.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 551.96,
+      "text": "就是芯片几纳米的长度或者宽度"
+    },
+    {
+      "end_seconds": 557.679,
+      "id": "youtube-Bw6IvZPTs1Q#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.0,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 559.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.679,
+      "text": "我们可以把摩尔定律放在一边"
+    },
+    {
+      "end_seconds": 563.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 559.799,
+      "text": "因为现在有很多讨论说摩尔定律是不是还活着"
+    },
+    {
+      "end_seconds": 564.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 563.48,
+      "text": "等等"
+    },
+    {
+      "end_seconds": 566.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 564.2,
+      "text": "但是我们可以看到一点是什么呢"
+    },
+    {
+      "end_seconds": 571.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 566.559,
+      "text": "就是随着这个制程的更新"
+    },
+    {
+      "end_seconds": 574.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.0,
+      "text": "你单位面积比晶体管的密度翻倍"
+    },
+    {
+      "end_seconds": 576.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 574.72,
+      "text": "它的好处是什么呢"
+    },
+    {
+      "end_seconds": 579.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 576.6,
+      "text": "它的好处首先一点就是算力的增加毫无疑问"
+    },
+    {
+      "end_seconds": 584.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 579.6,
+      "text": "第二点实际上就是在某单位的晶体管单元当中"
+    },
+    {
+      "end_seconds": 587.679,
+      "id": "youtube-Bw6IvZPTs1Q#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 584.079,
+      "text": "电子所要穿越的距离减低了"
+    },
+    {
+      "end_seconds": 590.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 587.679,
+      "text": "这样的就造成一个直接的好处"
+    },
+    {
+      "end_seconds": 592.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 590.279,
+      "text": "就是它的耗电就会降低"
+    },
+    {
+      "end_seconds": 593.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 592.0,
+      "text": "热效应降低"
+    },
+    {
+      "end_seconds": 596.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.799,
+      "text": "另外一点就是说"
+    },
+    {
+      "end_seconds": 599.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 596.719,
+      "text": "我们知道芯片的生产"
+    },
+    {
+      "end_seconds": 601.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 599.12,
+      "text": "它首先是在一个很大的硅片上面"
+    },
+    {
+      "end_seconds": 606.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 601.439,
+      "text": "然后生产好了以后把它切割成无数的芯片的单元来去卖"
+    },
+    {
+      "end_seconds": 610.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 606.639,
+      "text": "所以当你的芯片的面积变小了"
+    },
+    {
+      "end_seconds": 613.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 610.319,
+      "text": "也就是同样一个硅片"
+    },
+    {
+      "end_seconds": 615.599,
+      "id": "youtube-Bw6IvZPTs1Q#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 613.079,
+      "text": "你可以生产出更多的芯片"
+    },
+    {
+      "end_seconds": 617.719,
+      "id": "youtube-Bw6IvZPTs1Q#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 615.599,
+      "text": "所以它的成本也就降低了"
+    },
+    {
+      "end_seconds": 620.719,
+      "id": "youtube-Bw6IvZPTs1Q#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 617.719,
+      "text": "所以说降低这个几纳米以后"
+    },
+    {
+      "end_seconds": 622.679,
+      "id": "youtube-Bw6IvZPTs1Q#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 620.719,
+      "text": "你既可以更快又可以更省电"
+    },
+    {
+      "end_seconds": 624.199,
+      "id": "youtube-Bw6IvZPTs1Q#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 622.679,
+      "text": "然后制造成本还更低"
+    },
+    {
+      "end_seconds": 625.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 624.199,
+      "text": "相对的"
+    },
+    {
+      "end_seconds": 628.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 625.12,
+      "text": "就是你比如说你如果不进行技术优化"
+    },
+    {
+      "end_seconds": 631.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 628.6,
+      "text": "你做同样多的晶体管单元"
+    },
+    {
+      "end_seconds": 632.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 631.639,
+      "text": "你的成本要高"
+    },
+    {
+      "end_seconds": 634.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 632.879,
+      "text": "对就是控制住其他变量以后"
+    },
+    {
+      "end_seconds": 635.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 634.639,
+      "text": "那就对"
+    },
+    {
+      "end_seconds": 636.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 635.24,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 638.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 636.72,
+      "text": "那就好重要的是吧"
+    },
+    {
+      "end_seconds": 639.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 638.279,
+      "text": "那这个东西"
+    },
+    {
+      "end_seconds": 644.399,
+      "id": "youtube-Bw6IvZPTs1Q#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 639.6,
+      "text": "刚刚我们说它芯片制作过程是设计制程和封装"
+    },
+    {
+      "end_seconds": 647.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 644.399,
+      "text": "看起来就是所有的技术"
+    },
+    {
+      "end_seconds": 651.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.519,
+      "text": "目前决定几纳米几纳米的技术难度"
+    },
+    {
+      "end_seconds": 653.08,
+      "id": "youtube-Bw6IvZPTs1Q#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 651.32,
+      "text": "就是在制程这一块对吧"
+    },
+    {
+      "end_seconds": 654.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 653.6,
+      "text": "是的"
+    },
+    {
+      "end_seconds": 661.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 654.2,
+      "text": "制程本身是因为你随着更新换代"
+    },
+    {
+      "end_seconds": 666.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 661.68,
+      "text": "你所要做的晶体管密度增加"
+    },
+    {
+      "end_seconds": 669.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 666.2,
+      "text": "也就对你整个制作工艺要求就提高了"
+    },
+    {
+      "end_seconds": 672.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 669.92,
+      "text": "你需要这个结构"
+    },
+    {
+      "end_seconds": 677.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 672.879,
+      "text": "所以说如何把这个关键元件做得更小"
+    },
+    {
+      "end_seconds": 679.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 677.8,
+      "text": "就是技术难度对吧"
+    },
+    {
+      "end_seconds": 681.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 679.8,
+      "text": "对的"
+    },
+    {
+      "end_seconds": 685.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 681.639,
+      "text": "那我从一个外行的理解"
+    },
+    {
+      "end_seconds": 687.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 685.36,
+      "text": "就是说你要把这个东西做小"
+    },
+    {
+      "end_seconds": 691.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 687.639,
+      "text": "你需要用刚刚相关你刚刚说的需要用光刻"
+    },
+    {
+      "end_seconds": 694.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 691.039,
+      "text": "但是光其实在这个微观世界是有一个波粒二象性的"
+    },
+    {
+      "end_seconds": 695.199,
+      "id": "youtube-Bw6IvZPTs1Q#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 694.96,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 696.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 695.199,
+      "text": "它有一个波长"
+    },
+    {
+      "end_seconds": 699.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 696.0,
+      "text": "所以说它可能在一个很微观的地方就不准确了"
+    },
+    {
+      "end_seconds": 702.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 699.559,
+      "text": "是不是这个就是它的技术挑战"
+    },
+    {
+      "end_seconds": 702.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 702.36,
+      "text": "对的"
+    },
+    {
+      "end_seconds": 706.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 702.879,
+      "text": "这是其中一点非常重要的技术挑战"
+    },
+    {
+      "end_seconds": 715.159,
+      "id": "youtube-Bw6IvZPTs1Q#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 706.559,
+      "text": "因为我们在最近你可能大家讨论的比较热的EUV"
+    },
+    {
+      "end_seconds": 719.679,
+      "id": "youtube-Bw6IvZPTs1Q#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 715.159,
+      "text": "所谓的这个极紫外光出现以前"
+    },
+    {
+      "end_seconds": 723.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 719.679,
+      "text": "大家都是用这种Argon fluoride 193纳米的光源"
+    },
+    {
+      "end_seconds": 729.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 726.24,
+      "text": "所以这个光的波长是193纳米"
+    },
+    {
+      "end_seconds": 734.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 729.759,
+      "text": "但是我们要在这个基础之上做一个22纳米的东西"
+    },
+    {
+      "end_seconds": 736.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 734.0,
+      "text": "或者说甚至是10纳米的东西"
+    },
+    {
+      "end_seconds": 738.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 736.24,
+      "text": "或者在制程当中"
+    },
+    {
+      "end_seconds": 745.159,
+      "id": "youtube-Bw6IvZPTs1Q#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 738.72,
+      "text": "我们是有办法来通过科技实现我们需要的尺寸"
+    },
+    {
+      "end_seconds": 752.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.159,
+      "text": "但是你可以把光刻这个过程想象成"
+    },
+    {
+      "end_seconds": 753.679,
+      "id": "youtube-Bw6IvZPTs1Q#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 752.12,
+      "text": "光刻机想象成一个笔"
+    },
+    {
+      "end_seconds": 756.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 753.679,
+      "text": "光刻的过程就是把这个字写出来"
+    },
+    {
+      "end_seconds": 759.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 756.6,
+      "text": "那你这个大笔写大字比较方便"
+    },
+    {
+      "end_seconds": 762.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 759.279,
+      "text": "当你写的字的尺寸逐渐变小的时候"
+    },
+    {
+      "end_seconds": 766.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 762.32,
+      "text": "你就需要更小的笔来写这个字"
+    },
+    {
+      "end_seconds": 770.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 766.12,
+      "text": "这样可以直观的理解光刻机带当中的作用"
+    },
+    {
+      "end_seconds": 774.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 770.24,
+      "text": "你比如说我刚才说了现在用的光刻机是193纳米光源"
+    },
+    {
+      "end_seconds": 779.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 774.96,
+      "text": "我们有一些办法你比如把它进入到放到这个介质当中"
+    },
+    {
+      "end_seconds": 783.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 779.72,
+      "text": "这样它的光的波长会进一步缩小一些"
+    },
+    {
+      "end_seconds": 786.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 783.2,
+      "text": "但是EUV的波长是13.4纳米"
+    },
+    {
+      "end_seconds": 789.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 786.84,
+      "text": "这两个东西不是一个数量级的"
+    },
+    {
+      "end_seconds": 792.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 789.399,
+      "text": "所以可以这么讲在7纳米的制程以后"
+    },
+    {
+      "end_seconds": 794.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 792.48,
+      "text": "基本上你是需要EUV的"
+    },
+    {
+      "end_seconds": 796.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 794.6,
+      "text": "我想再稍稍理解一下"
+    },
+    {
+      "end_seconds": 800.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 796.36,
+      "text": "就是193纳米到193纳米的波长"
+    },
+    {
+      "end_seconds": 803.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 800.799,
+      "text": "去刻一个22纳米的东西"
+    },
+    {
+      "end_seconds": 805.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 803.519,
+      "text": "能不能稍稍解释一下是怎么做到的"
+    },
+    {
+      "end_seconds": 807.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 805.519,
+      "text": "因为我自己对这个很好奇"
+    },
+    {
+      "end_seconds": 812.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 808.6,
+      "text": "首先我们要知道"
+    },
+    {
+      "end_seconds": 816.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 812.039,
+      "text": "你一定的波长下所能刻印的最小尺度是有限制的"
+    },
+    {
+      "end_seconds": 819.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 816.36,
+      "text": "这个东西我也没必要在这里讲"
+    },
+    {
+      "end_seconds": 819.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 819.12,
+      "text": "对"
+    },
+    {
+      "end_seconds": 825.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 819.48,
+      "text": "我们可以通过一些其他的方式"
+    },
+    {
+      "end_seconds": 828.04,
+      "id": "youtube-Bw6IvZPTs1Q#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 825.4,
+      "text": "让每一次刻印的尺度并不那么小"
+    },
+    {
+      "end_seconds": 831.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 828.04,
+      "text": "但是把它叠加起来就形成一个比较小的尺度"
+    },
+    {
+      "end_seconds": 834.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 831.72,
+      "text": "你比如说我在刻印金属线的时候"
+    },
+    {
+      "end_seconds": 838.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 834.0,
+      "text": "你比如说123456这样一个金属线的一排金属线"
+    },
+    {
+      "end_seconds": 841.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 838.6,
+      "text": "我们可以在刻印的时候通过两次刻印"
+    },
+    {
+      "end_seconds": 844.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 841.8,
+      "text": "第一次刻金属线13557"
+    },
+    {
+      "end_seconds": 847.52,
+      "id": "youtube-Bw6IvZPTs1Q#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 844.32,
+      "text": "这样的尺寸就相当于比较大"
+    },
+    {
+      "end_seconds": 849.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 847.679,
+      "text": "然后第二次刻2468"
+    },
+    {
+      "end_seconds": 853.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 849.879,
+      "text": "然后再把两次加起来的话"
+    },
+    {
+      "end_seconds": 860.399,
+      "id": "youtube-Bw6IvZPTs1Q#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 853.079,
+      "text": "你就可以做出了比现有尺度小一半的尺寸"
+    },
+    {
+      "end_seconds": 863.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 860.399,
+      "text": "这个在我们这个行业里有个专业术语叫Double Pattern"
+    },
+    {
+      "end_seconds": 867.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 864.96,
+      "text": "当然后来又有一些更好的方式"
+    },
+    {
+      "end_seconds": 870.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 867.759,
+      "text": "你比如Self Align Double Pattern"
+    },
+    {
+      "end_seconds": 872.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 870.279,
+      "text": "它相当于一次曝光"
+    },
+    {
+      "end_seconds": 875.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 872.48,
+      "text": "曝光之后产生的结构"
+    },
+    {
+      "end_seconds": 878.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 875.08,
+      "text": "它本身的性质在通过化学的方式"
+    },
+    {
+      "end_seconds": 880.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 878.32,
+      "text": "把它的尺寸缩小到一半"
+    },
+    {
+      "end_seconds": 883.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 882.04,
+      "text": "其实是有一些办法"
+    },
+    {
+      "end_seconds": 884.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 883.36,
+      "text": "但是问题是什么"
+    },
+    {
+      "end_seconds": 886.52,
+      "id": "youtube-Bw6IvZPTs1Q#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 884.32,
+      "text": "问题是你使用这些办法"
+    },
+    {
+      "end_seconds": 889.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 886.52,
+      "text": "你无疑就会让整个制作的这个工序"
+    },
+    {
+      "end_seconds": 894.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 889.84,
+      "text": "变得一个本身就很复杂的"
+    },
+    {
+      "end_seconds": 896.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 894.96,
+      "text": "制作过程变得更复杂了"
+    },
+    {
+      "end_seconds": 902.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 897.44,
+      "text": "听起来我们想要实现更小的尺寸"
+    },
+    {
+      "end_seconds": 903.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 902.4,
+      "text": "无非两种方法"
+    },
+    {
+      "end_seconds": 905.919,
+      "id": "youtube-Bw6IvZPTs1Q#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 904.0,
+      "text": "或者说两种方法相结合也行"
+    },
+    {
+      "end_seconds": 908.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 906.559,
+      "text": "第一就是要有一个更强的工具"
+    },
+    {
+      "end_seconds": 910.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 909.48,
+      "text": "EUV的光刻机"
+    },
+    {
+      "end_seconds": 913.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 910.559,
+      "text": "比如说另外就是要叠加更复杂的工艺"
+    },
+    {
+      "end_seconds": 915.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 914.0,
+      "text": "当然这个叠加的工艺"
+    },
+    {
+      "end_seconds": 918.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 916.319,
+      "text": "这个叠加工艺是不是也不是免费的"
+    },
+    {
+      "end_seconds": 920.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 918.36,
+      "text": "就除了会让它更复杂"
+    },
+    {
+      "end_seconds": 921.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 920.039,
+      "text": "可能导致生产成本更高"
+    },
+    {
+      "end_seconds": 923.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 921.84,
+      "text": "是不是还有什么其他的副作用"
+    },
+    {
+      "end_seconds": 927.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 924.12,
+      "text": "主要是对良率造成一些影响"
+    },
+    {
+      "end_seconds": 931.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 927.72,
+      "text": "一个是因为叠加的工序"
+    },
+    {
+      "end_seconds": 932.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 931.039,
+      "text": "它并不是直接刻印"
+    },
+    {
+      "end_seconds": 935.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 932.919,
+      "text": "所以它很可能在前后会有一些"
+    },
+    {
+      "end_seconds": 937.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 935.6,
+      "text": "你比如说当我们做两次刻印的时候"
+    },
+    {
+      "end_seconds": 940.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 937.96,
+      "text": "当第二次刻印"
+    },
+    {
+      "end_seconds": 943.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 940.279,
+      "text": "它发生的位置并不是第一次刻印的正中间的时候"
+    },
+    {
+      "end_seconds": 945.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 943.559,
+      "text": "那你这个性能就会受到影响"
+    },
+    {
+      "end_seconds": 953.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 946.439,
+      "text": "另外一点就是说你每一步都会有一个良率的问题"
+    },
+    {
+      "end_seconds": 956.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 954.039,
+      "text": "你比如说一个芯片的制作过程"
+    },
+    {
+      "end_seconds": 959.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 956.519,
+      "text": "可能是上百步一个过程"
+    },
+    {
+      "end_seconds": 963.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 960.759,
+      "text": "你每一步损失1%的芯片"
+    },
+    {
+      "end_seconds": 965.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 963.2,
+      "text": "你100步之后假设这么加"
+    },
+    {
+      "end_seconds": 966.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 965.12,
+      "text": "你就损失了很多"
+    },
+    {
+      "end_seconds": 968.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 966.92,
+      "text": "基本上可能很多"
+    },
+    {
+      "end_seconds": 970.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 969.399,
+      "text": "我没有具体去算过"
+    },
+    {
+      "end_seconds": 974.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 971.12,
+      "text": "但是可能就是你感兴趣的朋友可以自己算一下"
+    },
+    {
+      "end_seconds": 977.399,
+      "id": "youtube-Bw6IvZPTs1Q#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 974.96,
+      "text": "100步200步的这种工艺"
+    },
+    {
+      "end_seconds": 979.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 977.399,
+      "text": "如果你每一步损失1%"
+    },
+    {
+      "end_seconds": 982.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 979.24,
+      "text": "这个结果是不堪设想"
+    },
+    {
+      "end_seconds": 983.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 982.639,
+      "text": "我们重新来算一遍"
+    },
+    {
+      "end_seconds": 987.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 983.96,
+      "text": "然后那个0.2"
+    },
+    {
+      "end_seconds": 988.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 987.639,
+      "text": "0.299"
+    },
+    {
+      "end_seconds": 990.639,
+      "id": "youtube-Bw6IvZPTs1Q#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 989.919,
+      "text": "100次"
+    },
+    {
+      "end_seconds": 994.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 992.639,
+      "text": "就只剩36%了"
+    },
+    {
+      "end_seconds": 995.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 994.36,
+      "text": "36%"
+    },
+    {
+      "end_seconds": 1000.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 995.399,
+      "text": "听起来光刻是这中间非常重要的一个技术挑战"
+    },
+    {
+      "end_seconds": 1003.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1000.24,
+      "text": "除了光刻之外还没有其他的难点呢"
+    },
+    {
+      "end_seconds": 1007.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1003.84,
+      "text": "刚才我们只是谈了一下大家比较关心的光刻机的问题"
+    },
+    {
+      "end_seconds": 1012.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1008.08,
+      "text": "但是芯片制作它本身其实有它很独特的地方"
+    },
+    {
+      "end_seconds": 1022.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1013.6,
+      "text": "首先我们知道芯片制作的结构尺寸是非常小的"
+    },
+    {
+      "end_seconds": 1024.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1023.0,
+      "text": "所以在制作过程当中"
+    },
+    {
+      "end_seconds": 1028.16,
+      "id": "youtube-Bw6IvZPTs1Q#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1024.24,
+      "text": "晶圆厂实际上是把工具的性能推向了它的极限"
+    },
+    {
+      "end_seconds": 1033.16,
+      "id": "youtube-Bw6IvZPTs1Q#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1028.92,
+      "text": "很多时候需要很多工序之间形成互补"
+    },
+    {
+      "end_seconds": 1034.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1033.16,
+      "text": "来实现设计的要求"
+    },
+    {
+      "end_seconds": 1036.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1034.68,
+      "text": "这就引入了第二个问题"
+    },
+    {
+      "end_seconds": 1040.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1036.759,
+      "text": "检测问题和优化工序的问题本身的困难"
+    },
+    {
+      "end_seconds": 1046.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1040.92,
+      "text": "因为问题往往不是由一个工序自己造成的"
+    },
+    {
+      "end_seconds": 1048.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1047.48,
+      "text": "而优化过程当中"
+    },
+    {
+      "end_seconds": 1052.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1048.759,
+      "text": "你有时候很多时候是要对很多工序同时进行调整"
+    },
+    {
+      "end_seconds": 1055.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1053.4,
+      "text": "才能达到优化的效果"
+    },
+    {
+      "end_seconds": 1059.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1057.72,
+      "text": "牵一发动全身是吧"
+    },
+    {
+      "end_seconds": 1060.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1059.2,
+      "text": "我觉得这可能出了问题"
+    },
+    {
+      "end_seconds": 1061.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1060.68,
+      "text": "但是我动一下"
+    },
+    {
+      "end_seconds": 1063.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1061.44,
+      "text": "结果导致别的地方出了问题"
+    },
+    {
+      "end_seconds": 1064.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1063.039,
+      "text": "结果反而效果会变差"
+    },
+    {
+      "end_seconds": 1065.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1064.72,
+      "text": "那好难"
+    },
+    {
+      "end_seconds": 1070.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1066.16,
+      "text": "第三点就是检测问题本身就很难"
+    },
+    {
+      "end_seconds": 1072.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1071.16,
+      "text": "甚至有的时候"
+    },
+    {
+      "end_seconds": 1075.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1072.36,
+      "text": "很多时候我们在设计芯片过程当中"
+    },
+    {
+      "end_seconds": 1078.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1075.64,
+      "text": "加入了一些和芯片本身没有关系的结构"
+    },
+    {
+      "end_seconds": 1083.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1078.519,
+      "text": "这个结构就是为了帮助我们去更好的检测问题在哪"
+    },
+    {
+      "end_seconds": 1085.88,
+      "id": "youtube-Bw6IvZPTs1Q#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1083.96,
+      "text": "对的"
+    },
+    {
+      "end_seconds": 1090.16,
+      "id": "youtube-Bw6IvZPTs1Q#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1086.279,
+      "text": "最后我想说的芯片的制作是需要"
+    },
+    {
+      "end_seconds": 1096.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1091.0,
+      "text": "晶圆厂和设计公司之间非常紧密的协作才可以完成"
+    },
+    {
+      "end_seconds": 1097.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1096.559,
+      "text": "有的时候"
+    },
+    {
+      "end_seconds": 1100.919,
+      "id": "youtube-Bw6IvZPTs1Q#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1098.279,
+      "text": "一些设计在制作过程当中会产生"
+    },
+    {
+      "end_seconds": 1103.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-372",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1101.679,
+      "text": "非常容易产生一些缺陷"
+    },
+    {
+      "end_seconds": 1107.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-373",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1104.24,
+      "text": "这个时候晶圆厂把这个反馈给设计公司"
+    },
+    {
+      "end_seconds": 1111.399,
+      "id": "youtube-Bw6IvZPTs1Q#cue-374",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1107.879,
+      "text": "他们会对设计进行一些改进来避免这个问题"
+    },
+    {
+      "end_seconds": 1114.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-375",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1111.399,
+      "text": "所以是一个非常复杂的过程"
+    },
+    {
+      "end_seconds": 1117.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-376",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1114.919,
+      "text": "这就听起来就必须是专家中的专家"
+    },
+    {
+      "end_seconds": 1118.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-377",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1117.439,
+      "text": "然后很多"
+    },
+    {
+      "end_seconds": 1124.479,
+      "id": "youtube-Bw6IvZPTs1Q#cue-378",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1119.919,
+      "text": "他们要在各自的领域和各自的负责这一块是特别强的专家"
+    },
+    {
+      "end_seconds": 1126.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-379",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1124.479,
+      "text": "所以说他可能知道了问题"
+    },
+    {
+      "end_seconds": 1127.88,
+      "id": "youtube-Bw6IvZPTs1Q#cue-380",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1126.24,
+      "text": "有的时候可能还要凭感觉对吧"
+    },
+    {
+      "end_seconds": 1129.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-381",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1127.88,
+      "text": "凭经验和凭感觉"
+    },
+    {
+      "end_seconds": 1133.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-382",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1130.519,
+      "text": "很多时候需要经验"
+    },
+    {
+      "end_seconds": 1136.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-383",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1135.88,
+      "text": "这样听起来"
+    },
+    {
+      "end_seconds": 1139.88,
+      "id": "youtube-Bw6IvZPTs1Q#cue-384",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1138.279,
+      "text": "上下游就特别重要"
+    },
+    {
+      "end_seconds": 1146.599,
+      "id": "youtube-Bw6IvZPTs1Q#cue-385",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1140.12,
+      "text": "因为我们这些上下游的这种厂商是不是也不是一夜之间可以积累起来的"
+    },
+    {
+      "end_seconds": 1147.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-386",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1147.039,
+      "text": "听起来"
+    },
+    {
+      "end_seconds": 1148.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-387",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1148.0,
+      "text": "是"
+    },
+    {
+      "end_seconds": 1155.839,
+      "id": "youtube-Bw6IvZPTs1Q#cue-388",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1152.319,
+      "text": "我觉得你想问我关于晶圆厂和供应商之间的关系"
+    },
+    {
+      "end_seconds": 1156.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-389",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1156.24,
+      "text": "对"
+    },
+    {
+      "end_seconds": 1158.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-390",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1157.48,
+      "text": "刚才我也讲了"
+    },
+    {
+      "end_seconds": 1162.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-391",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1158.92,
+      "text": "芯片的制作过程它对工艺的要求非常高"
+    },
+    {
+      "end_seconds": 1164.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-392",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1162.96,
+      "text": "而它的工序又非常复杂"
+    },
+    {
+      "end_seconds": 1167.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-393",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1165.12,
+      "text": "这就造成了一个必然的结果"
+    },
+    {
+      "end_seconds": 1169.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-394",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1167.0,
+      "text": "也就是大家都去做自己擅长的"
+    },
+    {
+      "end_seconds": 1171.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-395",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1169.64,
+      "text": "也就是所谓的分工明确"
+    },
+    {
+      "end_seconds": 1173.359,
+      "id": "youtube-Bw6IvZPTs1Q#cue-396",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1171.68,
+      "text": "在这个基调下"
+    },
+    {
+      "end_seconds": 1177.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-397",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1173.72,
+      "text": "晶圆厂它主要专注于生产流程"
+    },
+    {
+      "end_seconds": 1180.839,
+      "id": "youtube-Bw6IvZPTs1Q#cue-398",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1177.96,
+      "text": "它要提供一个合适的生产流程"
+    },
+    {
+      "end_seconds": 1184.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-399",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1181.039,
+      "text": "来制作出设计所需要的结构"
+    },
+    {
+      "end_seconds": 1187.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-400",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1184.64,
+      "text": "而供应商他们是专注于生产工具"
+    },
+    {
+      "end_seconds": 1188.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-401",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1187.279,
+      "text": "也就是这些仪器"
+    },
+    {
+      "end_seconds": 1192.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-402",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1188.759,
+      "text": "他们来优化这些仪器或者是提供更新的仪器"
+    },
+    {
+      "end_seconds": 1195.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-403",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1192.839,
+      "text": "来完成生产工具的需要"
+    },
+    {
+      "end_seconds": 1200.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-404",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1196.72,
+      "text": "这其实我觉得在平时这是一个很好的合作方式"
+    },
+    {
+      "end_seconds": 1202.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-405",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1200.72,
+      "text": "大家做自己擅长的东西"
+    },
+    {
+      "end_seconds": 1205.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-406",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1202.68,
+      "text": "最后我们可以一起把它做出来更好的事情"
+    },
+    {
+      "end_seconds": 1210.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-407",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1206.12,
+      "text": "但是比如说在贸易战的背景之下是不是会产生问题"
+    },
+    {
+      "end_seconds": 1212.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-408",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1210.359,
+      "text": "因为它本身是一个特别复杂的工艺"
+    },
+    {
+      "end_seconds": 1214.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-409",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1212.84,
+      "text": "然后你中间一个环节出了问题"
+    },
+    {
+      "end_seconds": 1216.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-410",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1214.84,
+      "text": "可能就会导致整个工艺"
+    },
+    {
+      "end_seconds": 1219.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-411",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1216.64,
+      "text": "就是最后短板出现"
+    },
+    {
+      "end_seconds": 1221.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-412",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1219.84,
+      "text": "你能做什么大倒退"
+    },
+    {
+      "end_seconds": 1225.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-413",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1222.16,
+      "text": "我们听说中芯国际它已经能做出14纳米了"
+    },
+    {
+      "end_seconds": 1229.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-414",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1225.92,
+      "text": "是不是也是基于在这种国际合作的基础之上"
+    },
+    {
+      "end_seconds": 1231.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-415",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1230.32,
+      "text": "大家都是一样"
+    },
+    {
+      "end_seconds": 1236.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-416",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1231.24,
+      "text": "因为芯片生产制作"
+    },
+    {
+      "end_seconds": 1239.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-417",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1236.44,
+      "text": "它是一个非常大的产业链"
+    },
+    {
+      "end_seconds": 1240.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-418",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1239.28,
+      "text": "它需要方方面面"
+    },
+    {
+      "end_seconds": 1247.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-419",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1240.44,
+      "text": "所以每个方面的市场可能也不大"
+    },
+    {
+      "end_seconds": 1250.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-420",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1248.039,
+      "text": "所以我不可能说"
+    },
+    {
+      "end_seconds": 1254.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-421",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1252.4,
+      "text": "我一个公司把所有东西都做了"
+    },
+    {
+      "end_seconds": 1255.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-422",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1254.68,
+      "text": "那是不可能的"
+    },
+    {
+      "end_seconds": 1257.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-423",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1255.6,
+      "text": "所以硬是需要大家合作的"
+    },
+    {
+      "end_seconds": 1258.16,
+      "id": "youtube-Bw6IvZPTs1Q#cue-424",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1257.84,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 1261.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-425",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1258.16,
+      "text": "那我们刚才我觉得把工艺制作的"
+    },
+    {
+      "end_seconds": 1265.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-426",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1262.279,
+      "text": "制程中的难点给讲清楚了"
+    },
+    {
+      "end_seconds": 1266.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-427",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1265.2,
+      "text": "讲的差不多了"
+    },
+    {
+      "end_seconds": 1268.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-428",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1266.68,
+      "text": "就是首先光刻"
+    },
+    {
+      "end_seconds": 1272.239,
+      "id": "youtube-Bw6IvZPTs1Q#cue-429",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1268.359,
+      "text": "然后再就是其他工具和整个流程的复杂程度"
+    },
+    {
+      "end_seconds": 1277.239,
+      "id": "youtube-Bw6IvZPTs1Q#cue-430",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1272.439,
+      "text": "就导致了做芯片是一个非常难的工程问题"
+    },
+    {
+      "end_seconds": 1281.919,
+      "id": "youtube-Bw6IvZPTs1Q#cue-431",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1277.839,
+      "text": "在这个工程问题里边也会有各种各样的瓶颈"
+    },
+    {
+      "end_seconds": 1285.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-432",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1282.679,
+      "text": "接下来我想问两个"
+    },
+    {
+      "end_seconds": 1289.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-433",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1285.919,
+      "text": "一个就是你觉得我们现在国家"
+    },
+    {
+      "end_seconds": 1291.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-434",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1290.439,
+      "text": "大家现在比较感兴趣的"
+    },
+    {
+      "end_seconds": 1293.719,
+      "id": "youtube-Bw6IvZPTs1Q#cue-435",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1291.519,
+      "text": "我们国家可能会有万亿的投资"
+    },
+    {
+      "end_seconds": 1295.359,
+      "id": "youtube-Bw6IvZPTs1Q#cue-436",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1293.879,
+      "text": "投到芯片产业"
+    },
+    {
+      "end_seconds": 1298.159,
+      "id": "youtube-Bw6IvZPTs1Q#cue-437",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1295.599,
+      "text": "科创板也上市了很多公司"
+    },
+    {
+      "end_seconds": 1300.199,
+      "id": "youtube-Bw6IvZPTs1Q#cue-438",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1298.159,
+      "text": "也上市了很多芯片公司"
+    },
+    {
+      "end_seconds": 1304.719,
+      "id": "youtube-Bw6IvZPTs1Q#cue-439",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1300.439,
+      "text": "在你看来这些芯片公司到底能不能把真正"
+    },
+    {
+      "end_seconds": 1308.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-440",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1305.199,
+      "text": "比如说给他们几年时间很多钱"
+    },
+    {
+      "end_seconds": 1311.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-441",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1308.199,
+      "text": "能实现我们国家芯片的自主研发"
+    },
+    {
+      "end_seconds": 1313.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-442",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1312.24,
+      "text": "这个问题是这样的"
+    },
+    {
+      "end_seconds": 1321.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-443",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1313.839,
+      "text": "因为芯片的制程是需要大资本的介入"
+    },
+    {
+      "end_seconds": 1323.839,
+      "id": "youtube-Bw6IvZPTs1Q#cue-444",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1322.279,
+      "text": "而资本又是逐利的"
+    },
+    {
+      "end_seconds": 1326.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-445",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1323.839,
+      "text": "所以经济效益实际上是"
+    },
+    {
+      "end_seconds": 1329.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-446",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1326.599,
+      "text": "尤其对这种芯片行业是非常重要的"
+    },
+    {
+      "end_seconds": 1333.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-447",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1330.279,
+      "text": "当然了你比如像中芯国际这种公司"
+    },
+    {
+      "end_seconds": 1337.199,
+      "id": "youtube-Bw6IvZPTs1Q#cue-448",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1334.559,
+      "text": "它的制程实际上已经很先进了14纳米"
+    },
+    {
+      "end_seconds": 1340.399,
+      "id": "youtube-Bw6IvZPTs1Q#cue-449",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1337.439,
+      "text": "但是它和顶尖的晶圆铁厂"
+    },
+    {
+      "end_seconds": 1343.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-450",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1340.399,
+      "text": "你比如说台积电是有代差的"
+    },
+    {
+      "end_seconds": 1346.959,
+      "id": "youtube-Bw6IvZPTs1Q#cue-451",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1343.559,
+      "text": "而这个代差就造成它的市场份额实际上很小"
+    },
+    {
+      "end_seconds": 1348.959,
+      "id": "youtube-Bw6IvZPTs1Q#cue-452",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1346.959,
+      "text": "它就是不到10%"
+    },
+    {
+      "end_seconds": 1352.439,
+      "id": "youtube-Bw6IvZPTs1Q#cue-453",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1349.559,
+      "text": "但是它解决的是一个有与没有的问题"
+    },
+    {
+      "end_seconds": 1355.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-454",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1352.68,
+      "text": "所以它有很多是超过经济效益的考量"
+    },
+    {
+      "end_seconds": 1359.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-455",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1356.4,
+      "text": "我比从一个工程师的角度"
+    },
+    {
+      "end_seconds": 1362.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-456",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1359.519,
+      "text": "我可能更加关注于一些小的晶圆厂"
+    },
+    {
+      "end_seconds": 1366.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-457",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1363.24,
+      "text": "他们可能专注于某些特种"
+    },
+    {
+      "end_seconds": 1369.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-458",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1366.2,
+      "text": "或者是专门行业当中芯片的生产"
+    },
+    {
+      "end_seconds": 1372.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-459",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1370.0,
+      "text": "随着这个行业逐渐成熟"
+    },
+    {
+      "end_seconds": 1375.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-460",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1372.24,
+      "text": "他们也会积累更多的经验工程师"
+    },
+    {
+      "end_seconds": 1379.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-461",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1376.039,
+      "text": "这样帮他们成为这个行业里的独角兽"
+    },
+    {
+      "end_seconds": 1383.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-462",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1380.36,
+      "text": "这样一来他们就可以占有更多的市场份额"
+    },
+    {
+      "end_seconds": 1385.88,
+      "id": "youtube-Bw6IvZPTs1Q#cue-463",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1383.68,
+      "text": "从而提高自己的经济效益"
+    },
+    {
+      "end_seconds": 1390.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-464",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1386.64,
+      "text": "也随着这个行业本身的发展"
+    },
+    {
+      "end_seconds": 1393.16,
+      "id": "youtube-Bw6IvZPTs1Q#cue-465",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1390.96,
+      "text": "慢慢具备更好的竞争力"
+    },
+    {
+      "end_seconds": 1394.88,
+      "id": "youtube-Bw6IvZPTs1Q#cue-466",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1394.04,
+      "text": "明白了"
+    },
+    {
+      "end_seconds": 1398.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-467",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1394.88,
+      "text": "所以说其实我们这是分了两类芯片厂"
+    },
+    {
+      "end_seconds": 1401.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-468",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1399.12,
+      "text": "一个是你说芯片有各种各样的种类"
+    },
+    {
+      "end_seconds": 1404.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-469",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1401.759,
+      "text": "然后可能你在这个细分领域还是有可能做好的"
+    },
+    {
+      "end_seconds": 1407.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-470",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1404.96,
+      "text": "只要你有足够多的积累足够多的工程师"
+    },
+    {
+      "end_seconds": 1408.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-471",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1407.68,
+      "text": "也许是能做好的"
+    },
+    {
+      "end_seconds": 1414.159,
+      "id": "youtube-Bw6IvZPTs1Q#cue-472",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1408.799,
+      "text": "但是在这种最一线最前沿最重要的逻辑芯片CPU"
+    },
+    {
+      "end_seconds": 1418.159,
+      "id": "youtube-Bw6IvZPTs1Q#cue-473",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1414.599,
+      "text": "可能因为我们已经比别人落后了几十年了积累"
+    },
+    {
+      "end_seconds": 1419.919,
+      "id": "youtube-Bw6IvZPTs1Q#cue-474",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1418.519,
+      "text": "中间这个代差"
+    },
+    {
+      "end_seconds": 1421.599,
+      "id": "youtube-Bw6IvZPTs1Q#cue-475",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1420.2,
+      "text": "像你刚刚一开始提的"
+    },
+    {
+      "end_seconds": 1424.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-476",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1421.72,
+      "text": "如果你技术上有优势的话"
+    },
+    {
+      "end_seconds": 1426.839,
+      "id": "youtube-Bw6IvZPTs1Q#cue-477",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1424.319,
+      "text": "你不但会更快更省电还更便宜"
+    },
+    {
+      "end_seconds": 1430.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-478",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1427.2,
+      "text": "所以说代差可能很难利用市场的力量去弥补"
+    },
+    {
+      "end_seconds": 1433.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-479",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1431.119,
+      "text": "可能还这个时候真的需要一些"
+    },
+    {
+      "end_seconds": 1435.359,
+      "id": "youtube-Bw6IvZPTs1Q#cue-480",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1433.039,
+      "text": "就是政策的扶持之类的"
+    },
+    {
+      "end_seconds": 1438.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-481",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1435.599,
+      "text": "才有可能去解决这个核酶的问题"
+    },
+    {
+      "end_seconds": 1441.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-482",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1438.039,
+      "text": "不然的话可能我们如果没有钱没有市场的话"
+    },
+    {
+      "end_seconds": 1442.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-483",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1441.48,
+      "text": "就直接就被淘汰掉了"
+    },
+    {
+      "end_seconds": 1443.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-484",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1442.68,
+      "text": "就完全没有办法生存"
+    },
+    {
+      "end_seconds": 1449.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-485",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1444.559,
+      "text": "这个东西确实是比较复杂"
+    },
+    {
+      "end_seconds": 1451.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-486",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1449.279,
+      "text": "但是可以肯定的是什么呢"
+    },
+    {
+      "end_seconds": 1455.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-487",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1451.279,
+      "text": "就是芯片的一个成熟的晶圆厂"
+    },
+    {
+      "end_seconds": 1459.159,
+      "id": "youtube-Bw6IvZPTs1Q#cue-488",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1455.839,
+      "text": "它其实无论是晶圆厂也好"
+    },
+    {
+      "end_seconds": 1461.359,
+      "id": "youtube-Bw6IvZPTs1Q#cue-489",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1459.159,
+      "text": "或者是其他行业也好"
+    },
+    {
+      "end_seconds": 1465.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-490",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1461.519,
+      "text": "最终其实就是生产工具和使用生产工具的人"
+    },
+    {
+      "end_seconds": 1468.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-491",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1465.96,
+      "text": "也就是仪器和工程师"
+    },
+    {
+      "end_seconds": 1471.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-492",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1470.16,
+      "text": "仪器我们可以去买"
+    },
+    {
+      "end_seconds": 1474.839,
+      "id": "youtube-Bw6IvZPTs1Q#cue-493",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1472.16,
+      "text": "这都是我们需要慢慢培养"
+    },
+    {
+      "end_seconds": 1476.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-494",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1474.839,
+      "text": "尤其是这个经验"
+    },
+    {
+      "end_seconds": 1478.839,
+      "id": "youtube-Bw6IvZPTs1Q#cue-495",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1476.48,
+      "text": "当两者都很好的时候"
+    },
+    {
+      "end_seconds": 1486.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-496",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1480.72,
+      "text": "我觉得早晚会做出更先进的制程"
+    },
+    {
+      "end_seconds": 1488.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-497",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1487.759,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 1491.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-498",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1488.4,
+      "text": "那我们国家软件行业"
+    },
+    {
+      "end_seconds": 1493.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-499",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1491.44,
+      "text": "你看这个软件行业总就弯道超车"
+    },
+    {
+      "end_seconds": 1495.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-500",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1493.96,
+      "text": "或者说是在成立开始"
+    },
+    {
+      "end_seconds": 1498.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-501",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1495.799,
+      "text": "国际新兵还是跟着国际新兵走的"
+    },
+    {
+      "end_seconds": 1501.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-502",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1499.319,
+      "text": "那这个硬件行业"
+    },
+    {
+      "end_seconds": 1503.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-503",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1501.079,
+      "text": "你觉得有没有这种弯道超车的机会"
+    },
+    {
+      "end_seconds": 1506.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-504",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1503.68,
+      "text": "或者说我们有没有什么其他的重大发明"
+    },
+    {
+      "end_seconds": 1511.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-505",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1506.24,
+      "text": "可以让我们赶上国际新兵"
+    },
+    {
+      "end_seconds": 1514.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-506",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1511.64,
+      "text": "比如说你刚刚说的EUV的光刻机"
+    },
+    {
+      "end_seconds": 1515.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-507",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1514.279,
+      "text": "特别重要"
+    },
+    {
+      "end_seconds": 1517.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-508",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1515.0,
+      "text": "那我们国家有没有可能发明这种东西呢"
+    },
+    {
+      "end_seconds": 1523.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-509",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1518.92,
+      "text": "但是首先我说一下"
+    },
+    {
+      "end_seconds": 1527.919,
+      "id": "youtube-Bw6IvZPTs1Q#cue-510",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1523.119,
+      "text": "就是像你刚才说的这些公司"
+    },
+    {
+      "end_seconds": 1532.159,
+      "id": "youtube-Bw6IvZPTs1Q#cue-511",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1527.919,
+      "text": "其实它是属于信息时代产生的产物"
+    },
+    {
+      "end_seconds": 1535.799,
+      "id": "youtube-Bw6IvZPTs1Q#cue-512",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1532.839,
+      "text": "而信息时代我们国家从头就没有落下"
+    },
+    {
+      "end_seconds": 1539.119,
+      "id": "youtube-Bw6IvZPTs1Q#cue-513",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1536.039,
+      "text": "我们实际上是跟着世界一起在进步的"
+    },
+    {
+      "end_seconds": 1539.719,
+      "id": "youtube-Bw6IvZPTs1Q#cue-514",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1539.119,
+      "text": "新时代"
+    },
+    {
+      "end_seconds": 1544.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-515",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1540.0,
+      "text": "到你比如现在华为他们5G做的"
+    },
+    {
+      "end_seconds": 1546.959,
+      "id": "youtube-Bw6IvZPTs1Q#cue-516",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1544.319,
+      "text": "已经是世界先进毫无疑问了"
+    },
+    {
+      "end_seconds": 1549.359,
+      "id": "youtube-Bw6IvZPTs1Q#cue-517",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1547.159,
+      "text": "所以我们从头其实就没有落下"
+    },
+    {
+      "end_seconds": 1552.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-518",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1549.759,
+      "text": "而像这种芯片制程"
+    },
+    {
+      "end_seconds": 1558.719,
+      "id": "youtube-Bw6IvZPTs1Q#cue-519",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1552.559,
+      "text": "这种比较工业化的这种行业"
+    },
+    {
+      "end_seconds": 1561.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-520",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1558.959,
+      "text": "其实我们是起步很晚的"
+    },
+    {
+      "end_seconds": 1566.159,
+      "id": "youtube-Bw6IvZPTs1Q#cue-521",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1562.039,
+      "text": "所以需要慢慢积累经验和人才"
+    },
+    {
+      "end_seconds": 1571.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-522",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1566.399,
+      "text": "所以我个人觉得这个是没有什么可以弥补的"
+    },
+    {
+      "end_seconds": 1573.719,
+      "id": "youtube-Bw6IvZPTs1Q#cue-523",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1571.319,
+      "text": "这个就需要实验科学"
+    },
+    {
+      "end_seconds": 1575.479,
+      "id": "youtube-Bw6IvZPTs1Q#cue-524",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1573.879,
+      "text": "你就需要做更多的实验"
+    },
+    {
+      "end_seconds": 1576.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-525",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1575.599,
+      "text": "积累更多的经验"
+    },
+    {
+      "end_seconds": 1580.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-526",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1576.88,
+      "text": "从而产生更好的设计更好的办法"
+    },
+    {
+      "end_seconds": 1586.559,
+      "id": "youtube-Bw6IvZPTs1Q#cue-527",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1581.039,
+      "text": "所以这些都属于一些经验的积累"
+    },
+    {
+      "end_seconds": 1589.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-528",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1586.559,
+      "text": "在工业化过程当中"
+    },
+    {
+      "end_seconds": 1593.88,
+      "id": "youtube-Bw6IvZPTs1Q#cue-529",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1589.64,
+      "text": "但是这种创新精神也是非常重要的"
+    },
+    {
+      "end_seconds": 1598.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-530",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1594.559,
+      "text": "你比如说我们现在期待着"
+    },
+    {
+      "end_seconds": 1603.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-531",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1598.48,
+      "text": "我们引入更多的EUV来加速我们的制程"
+    },
+    {
+      "end_seconds": 1607.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-532",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1603.68,
+      "text": "但是与此同时很多公司在尝试"
+    },
+    {
+      "end_seconds": 1610.319,
+      "id": "youtube-Bw6IvZPTs1Q#cue-533",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1608.72,
+      "text": "难道我们一定要用EUV吗"
+    },
+    {
+      "end_seconds": 1614.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-534",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1610.519,
+      "text": "我们可不可以用别的方式来同样实现更小的制程"
+    },
+    {
+      "end_seconds": 1619.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-535",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1614.96,
+      "text": "你比如说有的公司他们已经开始用电子束"
+    },
+    {
+      "end_seconds": 1622.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-536",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1619.96,
+      "text": "直接来对结构进行修饰"
+    },
+    {
+      "end_seconds": 1627.119,
+      "id": "youtube-Bw6IvZPTs1Q#cue-537",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1623.72,
+      "text": "另外一些公司通过高分子聚合物的自组装"
+    },
+    {
+      "end_seconds": 1630.399,
+      "id": "youtube-Bw6IvZPTs1Q#cue-538",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1627.279,
+      "text": "在一个比较大的结构当中实现更小的结构"
+    },
+    {
+      "end_seconds": 1633.56,
+      "id": "youtube-Bw6IvZPTs1Q#cue-539",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1630.88,
+      "text": "当然了这些都属于实验阶段"
+    },
+    {
+      "end_seconds": 1640.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-540",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1633.8,
+      "text": "但是正是这些小公司或者这些人从事这些探索"
+    },
+    {
+      "end_seconds": 1643.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-541",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1640.64,
+      "text": "最终能够给我们提供一个另外的解"
+    },
+    {
+      "end_seconds": 1646.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-542",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1643.92,
+      "text": "或者是提供一个更好的解"
+    },
+    {
+      "end_seconds": 1650.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-543",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1647.36,
+      "text": "所以说这是工业化的积累"
+    },
+    {
+      "end_seconds": 1655.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-544",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1650.519,
+      "text": "工业化工程能力的积累和创新探索必须同步走"
+    },
+    {
+      "end_seconds": 1658.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-545",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1656.04,
+      "text": "才有可能真正的走到最前沿"
+    },
+    {
+      "end_seconds": 1659.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-546",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1659.039,
+      "text": "是的"
+    },
+    {
+      "end_seconds": 1663.399,
+      "id": "youtube-Bw6IvZPTs1Q#cue-547",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1660.0,
+      "text": "好的我们把制程的难点"
+    },
+    {
+      "end_seconds": 1667.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-548",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1663.399,
+      "text": "和我们现在面临的问题和挑战给讲清楚了"
+    },
+    {
+      "end_seconds": 1670.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-549",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1667.839,
+      "text": "在你看来我们国家芯片上没有什么新的引用"
+    },
+    {
+      "end_seconds": 1674.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-550",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1670.879,
+      "text": "或者说我们现在是不是解决了制程就可以了"
+    },
+    {
+      "end_seconds": 1676.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-551",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1675.72,
+      "text": "当然不是这样的"
+    },
+    {
+      "end_seconds": 1678.359,
+      "id": "youtube-Bw6IvZPTs1Q#cue-552",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1677.319,
+      "text": "你比如说"
+    },
+    {
+      "end_seconds": 1682.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-553",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1681.079,
+      "text": "当然不是这样的"
+    },
+    {
+      "end_seconds": 1684.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-554",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1682.399,
+      "text": "这个行业是需要"
+    },
+    {
+      "end_seconds": 1685.839,
+      "id": "youtube-Bw6IvZPTs1Q#cue-555",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1684.879,
+      "text": "刚才我也讲了"
+    },
+    {
+      "end_seconds": 1687.399,
+      "id": "youtube-Bw6IvZPTs1Q#cue-556",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1685.879,
+      "text": "是一个很复杂的产业链"
+    },
+    {
+      "end_seconds": 1688.88,
+      "id": "youtube-Bw6IvZPTs1Q#cue-557",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1687.4,
+      "text": "需要大家合作来实现"
+    },
+    {
+      "end_seconds": 1692.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-558",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1689.16,
+      "text": "你比如说上海微电子这个公司"
+    },
+    {
+      "end_seconds": 1697.28,
+      "id": "youtube-Bw6IvZPTs1Q#cue-559",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1692.96,
+      "text": "他们现在已经能够生产28纳米的光刻机"
+    },
+    {
+      "end_seconds": 1701.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-560",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1698.92,
+      "text": "但是一些核心的部件"
+    },
+    {
+      "end_seconds": 1704.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-561",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1701.4,
+      "text": "你比如说光杉还是来自于美国"
+    },
+    {
+      "end_seconds": 1708.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-562",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1704.64,
+      "text": "镜头是瑞典的还是欧洲某个公司的"
+    },
+    {
+      "end_seconds": 1713.16,
+      "id": "youtube-Bw6IvZPTs1Q#cue-563",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1708.72,
+      "text": "实际上它是需要整个产业链互相合作来实现的"
+    },
+    {
+      "end_seconds": 1716.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-564",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1713.56,
+      "text": "因此就是说"
+    },
+    {
+      "end_seconds": 1721.08,
+      "id": "youtube-Bw6IvZPTs1Q#cue-565",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1717.64,
+      "text": "这个东西会受到方方面面的影响"
+    },
+    {
+      "end_seconds": 1724.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-566",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1721.96,
+      "text": "另外一个例子你可能比较关心的"
+    },
+    {
+      "end_seconds": 1728.96,
+      "id": "youtube-Bw6IvZPTs1Q#cue-567",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1724.36,
+      "text": "最近ARM被NVIDIA收购这件事情"
+    },
+    {
+      "end_seconds": 1733.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-568",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1729.56,
+      "text": "因为NVIDIA是一家美国公司"
+    },
+    {
+      "end_seconds": 1736.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-569",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1734.4,
+      "text": "它现在把ARM收购了"
+    },
+    {
+      "end_seconds": 1741.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-570",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1736.88,
+      "text": "大家知道ARM它是很多芯片设计的基础语言"
+    },
+    {
+      "end_seconds": 1746.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-571",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1743.279,
+      "text": "一个美国公司把它收购走了以后"
+    },
+    {
+      "end_seconds": 1750.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-572",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1748.24,
+      "text": "很有可能会像光刻机一样"
+    },
+    {
+      "end_seconds": 1754.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-573",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1750.92,
+      "text": "在以后对我们造成一定的限制"
+    },
+    {
+      "end_seconds": 1760.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-574",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1754.759,
+      "text": "虽然NVIDIA宣称它会把ARM的总部保留在英国"
+    },
+    {
+      "end_seconds": 1763.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-575",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1761.08,
+      "text": "这样的话不会受美国金融合作管制"
+    },
+    {
+      "end_seconds": 1768.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-576",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1763.84,
+      "text": "但是像等等这些都是潜在的隐患"
+    },
+    {
+      "end_seconds": 1771.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-577",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1768.279,
+      "text": "如果大家不是很了解情况的话"
+    },
+    {
+      "end_seconds": 1772.759,
+      "id": "youtube-Bw6IvZPTs1Q#cue-578",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1771.4,
+      "text": "ARM它到底是干嘛的"
+    },
+    {
+      "end_seconds": 1775.079,
+      "id": "youtube-Bw6IvZPTs1Q#cue-579",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1772.759,
+      "text": "为什么会造成隐患呢"
+    },
+    {
+      "end_seconds": 1776.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-580",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1775.279,
+      "text": "就在哪个环节造成隐患呢"
+    },
+    {
+      "end_seconds": 1779.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-581",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1777.879,
+      "text": "ARM它是一种基础语言"
+    },
+    {
+      "end_seconds": 1783.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-582",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1780.559,
+      "text": "我们很多芯片的设计是基于ARM这个语言"
+    },
+    {
+      "end_seconds": 1787.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-583",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1783.96,
+      "text": "你比如说ARM的基础语言里面规定了"
+    },
+    {
+      "end_seconds": 1791.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-584",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1790.559,
+      "text": "也是一棵树"
+    },
+    {
+      "end_seconds": 1794.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-585",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1792.359,
+      "text": "然后我们的设计公司就会"
+    },
+    {
+      "end_seconds": 1799.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-586",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1794.799,
+      "text": "对基于这个基础语言进行一些改进"
+    },
+    {
+      "end_seconds": 1800.879,
+      "id": "youtube-Bw6IvZPTs1Q#cue-587",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1799.2,
+      "text": "来适应它的功用"
+    },
+    {
+      "end_seconds": 1804.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-588",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1801.52,
+      "text": "比如说可以把它修饰成"
+    },
+    {
+      "end_seconds": 1805.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-589",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1804.68,
+      "text": "这是一棵绿色的树"
+    },
+    {
+      "end_seconds": 1808.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-590",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1805.84,
+      "text": "这是一棵很小的树之类的"
+    },
+    {
+      "end_seconds": 1809.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-591",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1808.48,
+      "text": "树结构"
+    },
+    {
+      "end_seconds": 1811.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-592",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1810.2,
+      "text": "如果远程通常还树结构"
+    },
+    {
+      "end_seconds": 1814.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-593",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1813.08,
+      "text": "但是这些都是基于基础语言"
+    },
+    {
+      "end_seconds": 1818.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-594",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1815.16,
+      "text": "所以如果基础语言受到了限制"
+    },
+    {
+      "end_seconds": 1821.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-595",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1818.92,
+      "text": "那必然会影响整个的设计"
+    },
+    {
+      "end_seconds": 1825.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-596",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1822.16,
+      "text": "当然了现在就像我们刚才讨论的"
+    },
+    {
+      "end_seconds": 1828.88,
+      "id": "youtube-Bw6IvZPTs1Q#cue-597",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1827.92,
+      "text": "创新意志都在"
+    },
+    {
+      "end_seconds": 1833.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-598",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1831.72,
+      "text": "现在还有其他的基础语言"
+    },
+    {
+      "end_seconds": 1835.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-599",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1833.84,
+      "text": "你比如说RISC-V"
+    },
+    {
+      "end_seconds": 1839.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-600",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1835.8,
+      "text": "RISC-V它也是现在一个比较流行的基础语言"
+    },
+    {
+      "end_seconds": 1843.04,
+      "id": "youtube-Bw6IvZPTs1Q#cue-601",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1841.76,
+      "text": "ARM被收购以后"
+    },
+    {
+      "end_seconds": 1848.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-602",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1843.4,
+      "text": "会不会会更多的人来使用新的开源的基础语言"
+    },
+    {
+      "end_seconds": 1852.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-603",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1849.08,
+      "text": "这些也都是一些很有意思的事情"
+    },
+    {
+      "end_seconds": 1853.6,
+      "id": "youtube-Bw6IvZPTs1Q#cue-604",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1852.84,
+      "text": "明白了"
+    },
+    {
+      "end_seconds": 1856.76,
+      "id": "youtube-Bw6IvZPTs1Q#cue-605",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1854.0,
+      "text": "所以我觉得观察始终的"
+    },
+    {
+      "end_seconds": 1859.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-606",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1857.12,
+      "text": "我们如果总结一下今天我们说的所有事情"
+    },
+    {
+      "end_seconds": 1864.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-607",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1860.32,
+      "text": "观察始终就是芯片的设计和制造"
+    },
+    {
+      "end_seconds": 1865.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-608",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1864.48,
+      "text": "是一个特别复杂"
+    },
+    {
+      "end_seconds": 1867.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-609",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1865.84,
+      "text": "特别所谓高科技"
+    },
+    {
+      "end_seconds": 1869.8,
+      "id": "youtube-Bw6IvZPTs1Q#cue-610",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1867.84,
+      "text": "但是我觉得应该是说高工程"
+    },
+    {
+      "end_seconds": 1871.36,
+      "id": "youtube-Bw6IvZPTs1Q#cue-611",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1869.8,
+      "text": "它是人类工业的结晶"
+    },
+    {
+      "end_seconds": 1872.72,
+      "id": "youtube-Bw6IvZPTs1Q#cue-612",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1871.68,
+      "text": "的这样一件事情"
+    },
+    {
+      "end_seconds": 1874.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-613",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1873.08,
+      "text": "所以它很难"
+    },
+    {
+      "end_seconds": 1878.16,
+      "id": "youtube-Bw6IvZPTs1Q#cue-614",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1874.44,
+      "text": "但是其实这个东西不是一个可以被垄断的"
+    },
+    {
+      "end_seconds": 1880.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-615",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1878.16,
+      "text": "就是它的技术是有高门槛"
+    },
+    {
+      "end_seconds": 1882.64,
+      "id": "youtube-Bw6IvZPTs1Q#cue-616",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1880.12,
+      "text": "但是它在原理上没有被垄断"
+    },
+    {
+      "end_seconds": 1883.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-617",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1882.84,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 1885.4,
+      "id": "youtube-Bw6IvZPTs1Q#cue-618",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1883.36,
+      "text": "它是一个有解的东西"
+    },
+    {
+      "end_seconds": 1886.56,
+      "id": "youtube-Bw6IvZPTs1Q#cue-619",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1885.4,
+      "text": "大家都可以去做"
+    },
+    {
+      "end_seconds": 1889.84,
+      "id": "youtube-Bw6IvZPTs1Q#cue-620",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1886.84,
+      "text": "可是你想把它做好就要有很多的积累"
+    },
+    {
+      "end_seconds": 1892.279,
+      "id": "youtube-Bw6IvZPTs1Q#cue-621",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1890.16,
+      "text": "不是可以一蹴而就的"
+    },
+    {
+      "end_seconds": 1895.2,
+      "id": "youtube-Bw6IvZPTs1Q#cue-622",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1892.72,
+      "text": "这可能对我们的启示就是说"
+    },
+    {
+      "end_seconds": 1897.48,
+      "id": "youtube-Bw6IvZPTs1Q#cue-623",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1895.2,
+      "text": "第一我们还是要有一个良好的国际环境"
+    },
+    {
+      "end_seconds": 1898.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-624",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1897.48,
+      "text": "然后大家去合作"
+    },
+    {
+      "end_seconds": 1900.44,
+      "id": "youtube-Bw6IvZPTs1Q#cue-625",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1898.92,
+      "text": "把这个东西去做好"
+    },
+    {
+      "end_seconds": 1901.56,
+      "id": "youtube-Bw6IvZPTs1Q#cue-626",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1900.6,
+      "text": "这样才有经济效益"
+    },
+    {
+      "end_seconds": 1902.92,
+      "id": "youtube-Bw6IvZPTs1Q#cue-627",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1901.56,
+      "text": "我们的经济才可以往前走"
+    },
+    {
+      "end_seconds": 1906.68,
+      "id": "youtube-Bw6IvZPTs1Q#cue-628",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1903.24,
+      "text": "但是另外一方面就是在一些环境"
+    },
+    {
+      "end_seconds": 1910.0,
+      "id": "youtube-Bw6IvZPTs1Q#cue-629",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1906.68,
+      "text": "比如说不利的国际条件之下"
+    },
+    {
+      "end_seconds": 1913.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-630",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1910.2,
+      "text": "可能我们也要有一些保留一些自主研发的能力"
+    },
+    {
+      "end_seconds": 1916.32,
+      "id": "youtube-Bw6IvZPTs1Q#cue-631",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1913.88,
+      "text": "这样的话才不会被别人卡住脖子"
+    },
+    {
+      "end_seconds": 1919.56,
+      "id": "youtube-Bw6IvZPTs1Q#cue-632",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1916.32,
+      "text": "然后把整个未来给"
+    },
+    {
+      "end_seconds": 1920.519,
+      "id": "youtube-Bw6IvZPTs1Q#cue-633",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1919.96,
+      "text": "限制掉"
+    },
+    {
+      "end_seconds": 1922.12,
+      "id": "youtube-Bw6IvZPTs1Q#cue-634",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1921.32,
+      "text": "对了"
+    },
+    {
+      "end_seconds": 1926.039,
+      "id": "youtube-Bw6IvZPTs1Q#cue-635",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1922.4,
+      "text": "今天感谢陈浩博士来给我们提供了特别权威的"
+    },
+    {
+      "end_seconds": 1930.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-636",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1926.039,
+      "text": "关于前沿芯片研发和制造的第一手资料"
+    },
+    {
+      "end_seconds": 1933.24,
+      "id": "youtube-Bw6IvZPTs1Q#cue-637",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1931.32,
+      "text": "谢谢大家"
+    }
+  ],
+  "video_id": "Bw6IvZPTs1Q",
+  "yuzheng_stance_weight": "not-evidence"
+}

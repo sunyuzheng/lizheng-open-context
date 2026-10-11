@@ -1,0 +1,2631 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-eXVoZu-UoAM",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2020-06-06T23:07:35Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T01:58:59.647653+00:00",
+  "published_at": "2020-06-06",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "9f40a5911a9c2dda7a4bcb0d7149e1d940e90c0ddbed3354bb7374be54e8d38b",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "8be74a9702661014c68af20224729418e0ba6a4ea7460e320d48505ab65ddadf",
+    "root_receipt_sha256": "a359d2126e2c94c29eb9f89e2d76d365fd796984a2bf6f05ce6caabe64fe9eab",
+    "unresolved_count": 3
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=eXVoZu-UoAM",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=eXVoZu-UoAM",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "一起从头上手用Tableau进行数据分析",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 22.664,
+      "id": "youtube-eXVoZu-UoAM#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "好，嗯，我叫刘畅，然后我现在啊，亚马逊做BA，然后呃，也就是刚工作，嗯，我这个职位就刚开始三个月吧，所以就是还在就是继续了解。然后Tableau的话，我以前只是考过一个四级的证，就是还没有具体在工作中有就是应用过。"
+    },
+    {
+      "end_seconds": 32.068,
+      "id": "youtube-eXVoZu-UoAM#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.664,
+      "text": "然后，其实我们组用的比较多是呃QuickSight，但是可能也有些相通的地方，所以就想了解一下。"
+    },
+    {
+      "end_seconds": 41.593,
+      "id": "youtube-eXVoZu-UoAM#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.068,
+      "text": "哦，那个我是叫周晨，然后我是这个One Piece，就是这个场地的，我是partner，然后今天很高兴那个大家过来来参加这个活动。"
+    },
+    {
+      "end_seconds": 55.117,
+      "id": "youtube-eXVoZu-UoAM#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.593,
+      "text": "嗯，之前我们跟这个跟孙煜征也聊过很多，就是我们希望能在西雅图这边做一个，呃，针对于工程师啊，针对于数据科学家的这么一个呃生态或者是一个社区，在这边。"
+    },
+    {
+      "end_seconds": 77.963,
+      "id": "youtube-eXVoZu-UoAM#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.117,
+      "text": "呃，出于我们的呃，首先我我先介绍一下，One Piece Work呢是一个co-working space，就像那个WeWork一样，但但是呢，我们跟WeWork有很大的差别。我们有两个这个算是特色吧。第一个特色就是我们是做cross border的一个一个生意，是因为我们现在在整整个这个中美有十有十个像这样的一个这个这个office在里面。"
+    },
+    {
+      "end_seconds": 103.587,
+      "id": "youtube-eXVoZu-UoAM#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.963,
+      "text": "我们是在湾区过来的，我们在湾区现在有五个，然后L.A.有两个，西雅图在当场就有一个，然后是深圳一个，上海一个。我们的这这这个这个这个特色就是我们在一个城市里面只会有一个center，呃，然后通过这个center呢去实现我们第二个核心目标，就是我们要target这个城市里面的这些type entrepreneurs，或者是这些有创新思维的这些人才。"
+    },
+    {
+      "end_seconds": 114.833,
+      "id": "youtube-eXVoZu-UoAM#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.587,
+      "text": "对，这是因为我们背后呢有，不用说背后，就是我们的satellites business，就是我们还有一个VC的二，我们是直接可以去check去投一些好的一些创业标的。"
+    },
+    {
+      "end_seconds": 132.314,
+      "id": "youtube-eXVoZu-UoAM#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 114.833,
+      "text": "我们是想要在这个center里面更多一些可以投的，呃，这些项目也好，还是我觉得这些人才会帮助我们在这个center里面的这些呃科技的初创企业，对他们来来产生一些帮助的这样这样的一些人才。"
+    },
+    {
+      "end_seconds": 154.166,
+      "id": "youtube-eXVoZu-UoAM#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.314,
+      "text": "这个是我们呃这个比较看重的。我们这个基金这边呢，呃业绩还比较不错。像像我们这个，我们一三年开始在湾区里面投项目，目前已经投了三百六十多个项目。呃，然后比如说这个呃稍微有名气一些的这个，比如湾大，他们是第一个一个产品是我们。"
+    },
+    {
+      "end_seconds": 171.147,
+      "id": "youtube-eXVoZu-UoAM#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.166,
+      "text": "嗯，像Chaffer这个帮Uber做做这个被嗯那个调查的，呃，这个也是我们的合作伙伴。嗯，Hims就是他们是男性脱发起家的，然后现在是那个专注于男性和女性这种护理品牌的一个自自电商平台。"
+    },
+    {
+      "end_seconds": 192.822,
+      "id": "youtube-eXVoZu-UoAM#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 171.147,
+      "text": "嗯，也是，我们是五个独角兽。然后现在从一三年开始是十七年推出，嗯，这个是我们的能敢敢于去做这个，或者是敢于去呃呃进行一个探索的的一个核心的一个优势。对，这个是对于我们的一个简短简短的介绍。我们还是。"
+    },
+    {
+      "end_seconds": 201.474,
+      "id": "youtube-eXVoZu-UoAM#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 192.822,
+      "text": "希望可以，嗯，多一些去支持像这样的一些线下或者是线上的一些活动，嗯，这个人才是我们。"
+    },
+    {
+      "end_seconds": 231.08,
+      "id": "youtube-eXVoZu-UoAM#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.474,
+      "text": "呃，这个非常非常看重的一点，这个，嗯，for我们之后的感觉，这这些人有可能会有创新或者是创业的思维，哪怕他不创业，他的创新对于我们来说也是非常非常宝贵的，因为这个对于我们自己投过的一些项目，我接触过一些企业都是很有帮助的。啊，对，可以问个问题吗？啊，就您您是那个就是把投资者和这个技术人员连在一起的中介，还是还是更多的是你们有资金，就是说想寻找让你们投？对对对。"
+    },
+    {
+      "end_seconds": 241.436,
+      "id": "youtube-eXVoZu-UoAM#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 231.08,
+      "text": "对对，这个我我们是更希，就是我们跟WeWork不一样，就是我们更希望投入资金，对，是是是。"
+    },
+    {
+      "end_seconds": 263.721,
+      "id": "youtube-eXVoZu-UoAM#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 241.436,
+      "text": "谢谢。嗯，我我叫唐梦云，然后我是在HE啊，是一个healthcare做data analysis，然后刚毕业不久，然后最近也是在我们组里面是学习，就是做一些数据可视化一些处理，但是在用都是用R和Python写的，然后做一些Shiny什么的。"
+    },
+    {
+      "end_seconds": 276.611,
+      "id": "youtube-eXVoZu-UoAM#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 263.721,
+      "text": "所以对他们基本上没有什么基础，所以想要了解一下，感觉泰文书法都非常的难写，但是我的时候，然后想多了解一下，然后自己最近也开始学习。"
+    },
+    {
+      "end_seconds": 301.219,
+      "id": "youtube-eXVoZu-UoAM#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 276.611,
+      "text": "嗯，大家好，我是 Elaine，然后我是啊，One Piece Work 这边的 intern，然后的呃，我现在是还在读书，然后读 finance，然后理科的 finance 跟 data analysis 其实说实话就是不分家嘛，就基本上两个都是差不多的。我刚好就是这个 quarter 一堂课就是讲到那个 data visualization，里面教说 Tableau 之类的信息，然后我今天是过来学习的，对。"
+    },
+    {
+      "end_seconds": 324.655,
+      "id": "youtube-eXVoZu-UoAM#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.219,
+      "text": "好，各位，我叫范，我也是霞都U那边的学生，也是majoring finance。嗯，我也是这边的啊，inter一个inter，所以今天也是我来学习数据可视化。欢迎欢迎。那我们现在就开始吗？也是？我们可以开始了。"
+    },
+    {
+      "end_seconds": 353.4,
+      "id": "youtube-eXVoZu-UoAM#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.655,
+      "text": "好，嗯，欢迎大家来到今天的这个主题分享啊。我们今天讨论的主题就是Tableau数据可视化的啊一些入门的一些知识。嗯，首先来讲一下今天都会讲哪些东西啊。比较基础的就是先介绍一下Tableau是用来做什么的。"
+    },
+    {
+      "end_seconds": 368.331,
+      "id": "youtube-eXVoZu-UoAM#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 353.4,
+      "text": "啊，然后会具体的啊，根据一些实例，然后来讲一下如何快速的上手，从怎么样导入数据到创建图表，到最后会讲到怎么样建一些简单的dashboard。"
+    },
+    {
+      "end_seconds": 384.306,
+      "id": "youtube-eXVoZu-UoAM#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.331,
+      "text": "啊，今天暂时不太会讲的，会是比如说它都一些更高级的功能，因为这个软件其实功能还挺强大的。啊，我们暂时只是针对一些初学者来啊，介绍一下基本功能。"
+    },
+    {
+      "end_seconds": 391.548,
+      "id": "youtube-eXVoZu-UoAM#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.306,
+      "text": "啊，还有一方面啊，不会重点讲的是这个可视化的设计原则。"
+    },
+    {
+      "end_seconds": 419.266,
+      "id": "youtube-eXVoZu-UoAM#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 391.548,
+      "text": "啊，因为这个又是一个很大的题目，这个如果真的聊聊起来的话，可以涉及到比如说心理学啊、认知科学啊，就是很多很多方面。所以啊，我们有这个计划是会在这个系列里面之后再定定找定找时间，然后专门来啊讲一下这方面的啊一些一些啊一些啊知识。嗯。"
+    },
+    {
+      "end_seconds": 429.104,
+      "id": "youtube-eXVoZu-UoAM#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 419.266,
+      "text": "所以，从开始就是来讲一下塔博是来做什么的啊？对于我的理解呢，我现在是一个SDE，然后平时。"
+    },
+    {
+      "end_seconds": 440.692,
+      "id": "youtube-eXVoZu-UoAM#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 429.104,
+      "text": "不是不是百分之百，就是做一些定量的分析，但是，它对我的最大帮助是能通过数据可视化的方式，来很快地回答一些手里数据的问题。"
+    },
+    {
+      "end_seconds": 461.963,
+      "id": "youtube-eXVoZu-UoAM#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 440.692,
+      "text": "啊，而不不需要你写很长很长很长的code，或者啊，在Excel里面做一些很基础的一些啊图表啊。它它的交互方式是是它的一些特长。嗯，然后现在我也想问一下在座的各位，如果用过Tableau的，对？"
+    },
+    {
+      "end_seconds": 470.795,
+      "id": "youtube-eXVoZu-UoAM#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.963,
+      "text": "啊，就是对对你来讲，它最大的特点或者最大优势在哪里？"
+    },
+    {
+      "end_seconds": 483.863,
+      "id": "youtube-eXVoZu-UoAM#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 470.795,
+      "text": "Then, it's very easy to connect to the database. And then, it's very easy to connect to the database."
+    },
+    {
+      "end_seconds": 507.383,
+      "id": "youtube-eXVoZu-UoAM#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 483.863,
+      "text": "嗯，还有就是那个 data refresh 功能也也很棒，对。但是它我觉得特别大的局限就是你建 table 的时候，你必须是建一个 whatever you you you you create a KPI, you need to create a view. If you have like a in one dashboard, you have ten KPIs. You know what I mean? That's a lot. But if in the Power BI, in one page, one view, you can bring all the ten KPIs and create ten measures."
+    },
+    {
+      "end_seconds": 531.403,
+      "id": "youtube-eXVoZu-UoAM#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 507.383,
+      "text": "So this is a big. I think it's a it's a constraint of the tableau. Okay, good. How many different steps you you would need to actually sort to realize the what Power BI can do? Also, the model model part I think Power BI is much much powerful because for Power BI, a lot of data source you bring in, you can just build the model in one page, connect to each other. Tableau so far the model."
+    },
+    {
+      "end_seconds": 552.483,
+      "id": "youtube-eXVoZu-UoAM#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.403,
+      "text": "It's I probably I haven't thought about. If you have like a ten data source, you you set up ten connections. So how the ten data sources connect to each other? There's a join function in there. Yeah, there's a join, but it can be slow. So yeah, a lot of times I would actually just create the data from the"
+    },
+    {
+      "end_seconds": 573.584,
+      "id": "youtube-eXVoZu-UoAM#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 552.483,
+      "text": "Upstream, and then I can pipe into the final ones that I can use easily. Okay, I see. Yeah, so build the yeah pipeline is a is a one way. Yeah, that means you have, but pipeline sometimes is cause trouble because if you just grab data from data source to the Parbia and you build a pipeline to the Capella."
+    },
+    {
+      "end_seconds": 586.736,
+      "id": "youtube-eXVoZu-UoAM#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 573.584,
+      "text": "If something wrong with the data source, then you have to go through all the pipeline. You you need you you need to go through all the pipeline, check each one of step, then trace back. Yeah, actually, it's one more extra step. Yeah."
+    },
+    {
+      "end_seconds": 609.989,
+      "id": "youtube-eXVoZu-UoAM#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 586.736,
+      "text": "Yeah, that's. It will definitely have some capacity issues, especially when you have a lot of people on the same server, and the the slowness is the one kind of drawback that at least my team experienced. And but there could be some like a setup from the data part that can actually help overcome that difficulty."
+    },
+    {
+      "end_seconds": 618.001,
+      "id": "youtube-eXVoZu-UoAM#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 609.989,
+      "text": "Of the slowness, and that's the part extra steps you have to take. Yeah, for cloud service, I think is you can."
+    },
+    {
+      "end_seconds": 633.509,
+      "id": "youtube-eXVoZu-UoAM#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 618.001,
+      "text": "呃，用更大的host，或者一些用多个host同时来来做这个，类似于一个那个web service之类的。对对。然后刚才讲了data pipeline，差不多有一个叫tableau快。"
+    },
+    {
+      "end_seconds": 658.042,
+      "id": "youtube-eXVoZu-UoAM#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 633.509,
+      "text": "它是呃做这种，它是派饭，啊，我中文那时候派饭吧，就是 data transformation 那种，data wrangling 这个能接很多 data source，然后然后做些组合。啊，今天暂时不会讲到那么那么细的东西，啊，主要是还是入门一下 Tableau Desktop 这个这个软件。"
+    },
+    {
+      "end_seconds": 680.549,
+      "id": "youtube-eXVoZu-UoAM#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 658.042,
+      "text": "好，那先稍微啊，第一步就是先教一下大家怎么要安装这个Tableau啊。Tableau本身的话，如果直接买的话是每个月要七十块钱啊，但如果像如果是学生的话，可以再去申请一下这个这个免费的license，然后一年可以去一次。"
+    },
+    {
+      "end_seconds": 698.75,
+      "id": "youtube-eXVoZu-UoAM#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 680.549,
+      "text": "嗯，我平时用的就个人自己用的，不是公司的就会用 Tableau Public。它这个版本就是说，嗯，做 visualization 那些功能都是全的。它有一些功能限制，就是说你的这个 data source 它局限于比如说你本地的一些 data source。"
+    },
+    {
+      "end_seconds": 726.554,
+      "id": "youtube-eXVoZu-UoAM#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 698.75,
+      "text": "然后还有就是说，你啊做完了之后，你必须要 publish 到它的 server 上，你不能存在本地，就是稍微有些限制。但是对个人平时啊学习啊或者用来说，没有太大啊太大的不便啊。或者是如果你想你需要更多的功能，你可以选择付费版本。那 Tableau Public 的话，上传一些数据。"
+    },
+    {
+      "end_seconds": 741.825,
+      "id": "youtube-eXVoZu-UoAM#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 726.554,
+      "text": "会被其他人下载下来。对对对，所以就是公司的数据是不能不能放上去。对对，这个主要是有些 open data 你可以用，然后就是自己平时可以一起用是吧？对。"
+    },
+    {
+      "end_seconds": 768.102,
+      "id": "youtube-eXVoZu-UoAM#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 741.825,
+      "text": "嗯，然后，然后就开始进到啊，谈这个。呃，今天的主要，我们有很多幻灯片，主要是通过一些实战的方式来给大家介绍一下，怎么样从拿到数据到啊，一步一步的啊分析，然后使用它的一些功能。"
+    },
+    {
+      "end_seconds": 794.457,
+      "id": "youtube-eXVoZu-UoAM#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 768.102,
+      "text": "啊，所以你打开Tableau，这是它的一个初始界面。然后，啊，左边的话就是呃，帮助你连到你的数据的一些啊一个地方。然后，因为我现在用的是Tableau Public，所以它这个局限性比较少，就是只有比如说Excel文本文件、JSON、PDF。"
+    },
+    {
+      "end_seconds": 817.984,
+      "id": "youtube-eXVoZu-UoAM#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 794.457,
+      "text": "啊，special还有一些txt的文件格式。啊，server的话也是比较有有一些更简单的。如果你有如果那个完整版的话，有比如说各种AWS的那种database啊，啊Microsoft这些，呃，People Server什么的都有。"
+    },
+    {
+      "end_seconds": 846.555,
+      "id": "youtube-eXVoZu-UoAM#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 817.984,
+      "text": "啊，今天我们就是调呃，这个跟那个SharePoint能连在一起？可以，可以，嗯，可以连在一起。然后，但是数据可以直接导入到Tableau里边是吗？呃，但是它连起来有一点点chipping，对，它连的SharePoint是那个连的那个，因为SharePoint因为SharePoint其实是Office就是三六零手它那个一个display，你要连到那个file display的file save的那个location。哦。"
+    },
+    {
+      "end_seconds": 868.912,
+      "id": "youtube-eXVoZu-UoAM#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 846.555,
+      "text": "那我们组都是直接连到Rational Table上。哦，Rational Table。对。然后今天的数据，然后给一下介绍一下。今天啊，准备的是一个，因为是西雅图的团队，就是找了一个本地的一个数据。嗯。"
+    },
+    {
+      "end_seconds": 887.09,
+      "id": "youtube-eXVoZu-UoAM#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 868.912,
+      "text": "本地的Airbnb，然后前两年publish的一个open data，嗯，然后我们就基于这个来讲一下，啊，先用它这个来介绍一下这个数据里都包含哪些哪些东西。"
+    },
+    {
+      "end_seconds": 911.372,
+      "id": "youtube-eXVoZu-UoAM#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 887.09,
+      "text": "啊，它有三个table，一个是啊calendar，就是说LB边上每一个listing，然后它的每一天有没有availability，然后它的价钱是多少，这个就比较简单。然后最主要的是这个listing，啊，把字放大一点。"
+    },
+    {
+      "end_seconds": 939.628,
+      "id": "youtube-eXVoZu-UoAM#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 911.372,
+      "text": "Listing的话，它有九十二个column，就是它的数据其实还是很丰富的。它包括了你这个ID，然后的你的这个链接，它的名字，还有一些介绍，然后，嗯，还包括了它的一些，比如说host ID，然后它具体的位置是在哪个neighborhood，一会儿我们会呃会展开分析一下。"
+    },
+    {
+      "end_seconds": 955.154,
+      "id": "youtube-eXVoZu-UoAM#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 939.628,
+      "text": "然后第三个 table 是 review，就是在那个 Airbnb 上，啊，一些租客给那些 host 的 review，啊，今天暂时先不会用到它，主要是 listing，然后会涉及到一下它的。"
+    },
+    {
+      "end_seconds": 972.781,
+      "id": "youtube-eXVoZu-UoAM#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 955.154,
+      "text": "然后，当我们下载完这个数据之后，我们就可以通过 Tableau 来打开这个数据。我们先看这个 Listing 的 CSV，这个这个字体大家能看见吗？"
+    },
+    {
+      "end_seconds": 983.135,
+      "id": "youtube-eXVoZu-UoAM#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 972.782,
+      "text": "哦，如果他们在再往前坐一点，那这个看能不能放下，稍微有点小，不好意思，啊。"
+    },
+    {
+      "end_seconds": 1001.668,
+      "id": "youtube-eXVoZu-UoAM#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 983.135,
+      "text": "然后这个view就是跟刚才看的差不多，就是能告诉你啊，这个数据里面都包含哪些attribute。然后Tableau它会根据这些数据，然后来啊来判断你这个数据类型大概是什么样子的。"
+    },
+    {
+      "end_seconds": 1019.548,
+      "id": "youtube-eXVoZu-UoAM#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1001.668,
+      "text": "比如说这个ID都是一些数字，它会比如比如说是那个number是整数，然后有一些这个是string，然后还有一些date，它也会自动的parse出来。然后如果它有哪些没有做对的，可以在这里边直接改一下，然后。"
+    },
+    {
+      "end_seconds": 1037.962,
+      "id": "youtube-eXVoZu-UoAM#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1019.548,
+      "text": "啊，但一般来说都都还挺准的。然后这个地方还有一个功能，就比如说啊，来看一些基本的信息，就可以describe一下，比如说啊，名字一般有一千多个不同的名字。"
+    },
+    {
+      "end_seconds": 1052.866,
+      "id": "youtube-eXVoZu-UoAM#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1037.962,
+      "text": "然后，post operation，你可以做一些一些基本的，呃，验证一下这个 data 是不是你想要的，或者一些完整性，可以在这里边就是直接操作。"
+    },
+    {
+      "end_seconds": 1074.453,
+      "id": "youtube-eXVoZu-UoAM#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1052.866,
+      "text": "然后从这一页面，然后第一步就是要建一个新的worksheet，因为在Tableau里边，每一个view都是叫一个worksheet，嗯，然后在这里边你可以定义，就是说我的这个visualization要长什么样，我需要我想visualize哪些数据。"
+    },
+    {
+      "end_seconds": 1090.321,
+      "id": "youtube-eXVoZu-UoAM#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1074.453,
+      "text": "啊，然后对，右边是定义这些数据的地方，然后左边还是跟刚才一样，是这些数据里的attribute，然后它会根据这个data type，然后分成dimension和measures。"
+    },
+    {
+      "end_seconds": 1109.265,
+      "id": "youtube-eXVoZu-UoAM#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1090.321,
+      "text": "Dimension就是一些，比如说这些categorical variable，然后还有一些，比如说boolean之类的，然后一些numerical就是就是会归归类在measure里边。具体那个boolean是什么意思？boolean就是true和false，就是double那个。哦，谢谢。"
+    },
+    {
+      "end_seconds": 1132.541,
+      "id": "youtube-eXVoZu-UoAM#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1109.265,
+      "text": "嗯，然后比如说，一般来讲，第一第一步我们想看的就是说，因为它每一行是一个listing，对吧？每行是不同类型的。想看一下这个数据里边一共有，一共有多少个listing。然后这边有一个叫number of record。然后最简单的方式就是双击一下它。"
+    },
+    {
+      "end_seconds": 1159.485,
+      "id": "youtube-eXVoZu-UoAM#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1132.541,
+      "text": "然后你能看到，呃，它会直接建一个 bar chart，就是说一共有三千八百一十八个 listing，然后在在这个数据里面，嗯，然后做通过它来做一些分析比较非常简单，比如说，嗯，你可以找到 top of type，然后如果把它放到 column 里面。"
+    },
+    {
+      "end_seconds": 1169.761,
+      "id": "youtube-eXVoZu-UoAM#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1159.485,
+      "text": "它就会根据 property type，然后把这个刚才那个 bar 拆分成呃不同的呃多个 bar，然后每个代表了一个 property type。"
+    },
+    {
+      "end_seconds": 1191.141,
+      "id": "youtube-eXVoZu-UoAM#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1169.761,
+      "text": "然后现在能看出两个主要的，就是说有 apartment 和 house，这是两个主要的 property type。嗯，如果你想更细分的话，比如说还有 room type，我们可以加进来，然后稍微变一下格式。"
+    },
+    {
+      "end_seconds": 1202.018,
+      "id": "youtube-eXVoZu-UoAM#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1191.14,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 1229.22,
+      "id": "youtube-eXVoZu-UoAM#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1202.018,
+      "text": "然后对这样的话，就是把 property type 和 room type 然后拆分成呃两个，然后可以看就是比如说 apartment 里边，然后你这个 room type 是你可以占整个 entire home 是占有多少，然后这个呃 private room 有多少，然后这边可以很容易的来 sort 这些 table。"
+    },
+    {
+      "end_seconds": 1240.528,
+      "id": "youtube-eXVoZu-UoAM#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1229.22,
+      "text": "所以说，之前我们看到的，如果啊，单看，嗯，如果。"
+    },
+    {
+      "end_seconds": 1252.5,
+      "id": "youtube-eXVoZu-UoAM#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1240.528,
+      "text": "看总体的话，啊，这个 entire entire room house 的和占占主要的，然后第二是快乐 room，第三是趣味 room。"
+    },
+    {
+      "end_seconds": 1272.888,
+      "id": "youtube-eXVoZu-UoAM#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1252.5,
+      "text": "嗯，但是当我们加入了property type，我们能看出这个house里面其实private room更多一点，嗯，而这个apartment里面更多的是entire apartment，嗯，所以这是一个，就是稍微点两下drag and drop，你就可以就是。"
+    },
+    {
+      "end_seconds": 1288.58,
+      "id": "youtube-eXVoZu-UoAM#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1272.888,
+      "text": "能做很多不一样的、不同不同方式的分析。嗯，然后比如说，我们想继续看一下这个。"
+    },
+    {
+      "end_seconds": 1313.288,
+      "id": "youtube-eXVoZu-UoAM#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1288.58,
+      "text": "Open tab.现在现在我们看的是一个一个absolute一个值绝对值，说house有一千多个，然后apartment也是差不多一千多个。我们想看这个它占整个比例的percentage。嗯，我们可以就是在这个这个sum of number records里边加一个quick table calculation。"
+    },
+    {
+      "end_seconds": 1327.779,
+      "id": "youtube-eXVoZu-UoAM#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1313.288,
+      "text": "然后这里边有很多，它已经帮你定义好的。对，如果你直接选出percentage，然后它坐标已经改成了percentage。然后我们可以把这个数，然后加到label上。"
+    },
+    {
+      "end_seconds": 1343.373,
+      "id": "youtube-eXVoZu-UoAM#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1327.779,
+      "text": "这样的话，你就啊能非常直观的看到每一个 product type 它占整个这个 market 的比例是多少。嗯，大家有什么问题可以随时随时提出来。"
+    },
+    {
+      "end_seconds": 1365.746,
+      "id": "youtube-eXVoZu-UoAM#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1343.373,
+      "text": "然后前两天看这个数据的时候，发现特别有意思的，有一个包被 type 是这个蒙古蒙古包，还有一个一个 tree house，还是 bow house，对对对。然后后来我就还挺好奇的，就进去看了一下。然后它如果有共同点，你可以每一个 mark，每一个点都可以。"
+    },
+    {
+      "end_seconds": 1390.578,
+      "id": "youtube-eXVoZu-UoAM#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1365.746,
+      "text": "啊，很快的找到原始数据。就是你选了它之后，然后这边有一个show view data，就可以看到有哪些data来组成的这个这一个点。然后你可以选择full data，就可以看到所有的match data。然后我们找到这个listing URL，我们可以稍微看一下，因为这个还挺有意思。"
+    },
+    {
+      "end_seconds": 1406.03,
+      "id": "youtube-eXVoZu-UoAM#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1390.578,
+      "text": "所以这是在 Y C L 的一个 Airbnb，做成一个蒙古包的形式。"
+    },
+    {
+      "end_seconds": 1432.84,
+      "id": "youtube-eXVoZu-UoAM#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1406.03,
+      "text": "所以，通过通过一个图，然后找到，然后 go down 到具体的数据，这个这个还是很方便的。呃，大家这目前来讲有没有什么问题？"
+    },
+    {
+      "end_seconds": 1445.638,
+      "id": "youtube-eXVoZu-UoAM#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1432.84,
+      "text": "还是比较比较比较简单，是吧？嗯，同样的，我们可以就是做一下这个price分析。"
+    },
+    {
+      "end_seconds": 1470.877,
+      "id": "youtube-eXVoZu-UoAM#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1445.638,
+      "text": "我们还是双击一下这个 price，然后因为它默认的是一个 sum，就是所有 listing 的这个 price 总和。但可能这个这个对我没什么意义，但是我们可以改成别的，比如说我们可以改成 average，它会告诉你 average price 是多少，或者还有什么 median，就是中位数，中位数是一百一百块钱以上。"
+    },
+    {
+      "end_seconds": 1491.175,
+      "id": "youtube-eXVoZu-UoAM#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1470.877,
+      "text": "嗯，然后还有一个可以做的是，因为这个是就是price嘛，呃，中国人并不知道还有像什么cleaning fee什么的。然后如果我们想算一个，把这两个加起来，比如说算一个one night的一个total。"
+    },
+    {
+      "end_seconds": 1503.617,
+      "id": "youtube-eXVoZu-UoAM#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1491.175,
+      "text": "因为这个在这这这Column并没有，我们可以类似于Excel，然后建立一个function，然后可以把price，然后加上quantity。"
+    },
+    {
+      "end_seconds": 1519.577,
+      "id": "youtube-eXVoZu-UoAM#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1503.617,
+      "text": "然后我们就可以得到每一个listing。如果你只住一晚上，你大概需要多少？然后同样的，我们可以把它，去的，嗯。"
+    },
+    {
+      "end_seconds": 1548.762,
+      "id": "youtube-eXVoZu-UoAM#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1519.577,
+      "text": "那我们可以看，它现在涨到了一百六十五块钱。那可以问个问题吗？就是，当你有一个很大数据，说像这样子，就是有很多很多 call，然后你也不知道你可以用这个数据做什么。当然，你可以这样子试啊，看一个东西的有多少 count 啊，有多少 average 啊， median 什么这些东西。但是，就说你怎么，就是你就是一般是怎么样，就说从数据里面发现一些问题，是一直这样试吗？还是说有一些？"
+    },
+    {
+      "end_seconds": 1561.754,
+      "id": "youtube-eXVoZu-UoAM#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1548.762,
+      "text": "就是比较好的方法去做这个思路，就是说不是你比较random的去try，说哦，我要从这个数据找什么东西。这样，对我觉得两两两个方面吧，一个是就是你。"
+    },
+    {
+      "end_seconds": 1579.102,
+      "id": "youtube-eXVoZu-UoAM#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1561.754,
+      "text": "最好是能带着问题来看这个数据，就是你想通过这个数据来回答哪些问题，嗯，这样的话你就能很，就是你的目标比较比较明确一点，嗯，如果你只是想 explore 下自己的 data 的话，那个 Tableau Plan。"
+    },
+    {
+      "end_seconds": 1594.746,
+      "id": "youtube-eXVoZu-UoAM#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1579.102,
+      "text": "那个软件我觉得更适合这方面的，呃，工作，就是它会给你一些，给你一些这个数据方面的一些distribution啊，一些。"
+    },
+    {
+      "end_seconds": 1612.639,
+      "id": "youtube-eXVoZu-UoAM#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1594.746,
+      "text": "呃，比如这边会告诉你每个每个field都有哪些值，然后它占了多少，然后还有一些比如说histogram之类的东西，啊，这个就是能更直观的给你告告诉你一下，这个每个column都。"
+    },
+    {
+      "end_seconds": 1641.204,
+      "id": "youtube-eXVoZu-UoAM#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1612.64,
+      "text": "都都表示了哪些东西？嗯，孙明，这个它的 Prep 这个部分，它不在那个 Desktop 那部分包括。它是就是旁就是另外一个。是一个 Add-on 吗？还是另外一个 Application？啊，就是它可以同时用，就是你可以先把数据导到 Prep 里边，但就是得走两步，导到那个 App 里边，然后再导到这个 Desktop 里边。它可以从这个 Prep 直接到 Desktop，就是它。"
+    },
+    {
+      "end_seconds": 1657.306,
+      "id": "youtube-eXVoZu-UoAM#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1641.204,
+      "text": "可以，好像是可以一键然后导导进到啊，OK，还是得试一下。Prep里边那个workflows他已经做好了，还是你要自己去设？要要自己设计，自己设计，这是你自己的一些data source，然后你做一些transformation啊、join啊。"
+    },
+    {
+      "end_seconds": 1671.714,
+      "id": "youtube-eXVoZu-UoAM#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1657.306,
+      "text": "那个不好意思，打断一下。如果大家有需要网的，我们传一下吧。这上面有密码的那个，对对对对，我们就传传一下。还有发到微信上面。对。呃，我们的三密码在群里。"
+    },
+    {
+      "end_seconds": 1692.656,
+      "id": "youtube-eXVoZu-UoAM#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1671.714,
+      "text": "也OK，我我那天我发了我发了微信，我发了微信，不好意思不好意思，嗯没事，我直接连的就是那个Guest。哦对，Guest应该是不需要密码的。我最近做了一个。"
+    },
+    {
+      "end_seconds": 1700.757,
+      "id": "youtube-eXVoZu-UoAM#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1692.656,
+      "text": "其实我当时不知道有个那个Tableau Prep，我最近做了一个一个Dataflow，就是一个Automate的一个Dashboard，用的是Alteryx。"
+    },
+    {
+      "end_seconds": 1724.409,
+      "id": "youtube-eXVoZu-UoAM#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1700.757,
+      "text": "是什么？啊，Alteryx，对。然后完成了所有的那个那个workflow，然后把数据导到SQL里头，然后再导到那个Tableau。嗯。对，但是这个可能Table Pre Image Prep可能是更，对，它是整个一套的系统嘛？对对对。整合的比较好一点。对。而且我用的是Trial模式，因为只是一个，然后就是在十四天之内必须完成嘛，然后还好完成了。"
+    },
+    {
+      "end_seconds": 1735.174,
+      "id": "youtube-eXVoZu-UoAM#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1724.409,
+      "text": "然后对，Prep好像没有免费版的，然后必须要，对，但都有都有十四天的防护，嗯。"
+    },
+    {
+      "end_seconds": 1755.264,
+      "id": "youtube-eXVoZu-UoAM#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1735.174,
+      "text": "然后，对，现在我们就是看了一，就分析了一下这个price。然后，如果我们想，这这只是一个，只是一个，呃，其中一个一个统计值，就是median。如果我们想看，比如说这个one night total的。"
+    },
+    {
+      "end_seconds": 1770.724,
+      "id": "youtube-eXVoZu-UoAM#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1755.264,
+      "text": "啊，它的 histogram，它这边有一个 show me，就是它会根据你现在选择的这些 measure 或者 dimension，然后推荐一些，呃，是你可能需要到的图。比如说，如果我想要 histogram，那就双击一下 histogram。"
+    },
+    {
+      "end_seconds": 1797.563,
+      "id": "youtube-eXVoZu-UoAM#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1770.724,
+      "text": "它会自动的生成一个啊，这个histogram出来。然后我们这边的这个bin size，我们可以啊，它会自动的选一个值，但是如果我们想改的话，我们也可以edit。然后比如说我们是每二十五个算一个bin，然后可以很快的然后建一个histogram出来。"
+    },
+    {
+      "end_seconds": 1824.697,
+      "id": "youtube-eXVoZu-UoAM#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1797.563,
+      "text": "然后，对，这是一个distribution。如果我们想，呃，比较多个distribution的话，通常我会用到，比如说box plot这种的。然后现在讲一下怎么用box plot。呃，就直接用price吧。嗯，可以把price加到column上面。"
+    },
+    {
+      "end_seconds": 1834.481,
+      "id": "youtube-eXVoZu-UoAM#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1824.697,
+      "text": "然后现在只是一个total的块，然后，呃，如果我们把这个ID放到mark里边。"
+    },
+    {
+      "end_seconds": 1856.266,
+      "id": "youtube-eXVoZu-UoAM#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1834.481,
+      "text": "这个就告诉了，差不多就是说，我每一个 listing，然后我想看它的这个 price 是多少，然后每一个 listing 就会以一个 mark 来表示出来，然后它的这个 price 也会在上面显示。然后如果我们到 analytics。"
+    },
+    {
+      "end_seconds": 1867.153,
+      "id": "youtube-eXVoZu-UoAM#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1856.266,
+      "text": "呃，这边有个box plot，如果我们直接拉过去，它会，那我们可以把这个点，呃。"
+    },
+    {
+      "end_seconds": 1895.825,
+      "id": "youtube-eXVoZu-UoAM#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1867.153,
+      "text": "去掉，就box plot出来了。嗯，这样的话，我们就可以比较，比如说不同neighborhood它的这个呃price distribution是什么样子的。啊，然后如果我们想排序的话，当然可以，就是说我们想sort这个neighborhood，然后可以跟点它。"
+    },
+    {
+      "end_seconds": 1903.413,
+      "id": "youtube-eXVoZu-UoAM#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1895.825,
+      "text": "啊，根据什么做上呢？我们是根据一个field，比如说这个median price。"
+    },
+    {
+      "end_seconds": 1928.762,
+      "id": "youtube-eXVoZu-UoAM#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1903.412,
+      "text": "嗯，他就按照 median price，就是最便宜的是 Lake City，最贵的是唐塘。然后，但是另外也，它的 distribution 就是更更更分散一点，就是唐塘什么平这么集中，所以这这是很快的能做出一些这种 distribution 方面的啊。"
+    },
+    {
+      "end_seconds": 1956.762,
+      "id": "youtube-eXVoZu-UoAM#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1928.762,
+      "text": "目前大家有什么问题或者想补充的？怎么读这个 box？哦哦，这边对，最中间那个，就比如说灰的跟浅灰的中间那个是它的 median，然后左边、右边的这两个点是它的 p25、p75，嗯，就 first quartile，对，所以就是所有的这些那个 price 都是 under 它那个 under 那个。"
+    },
+    {
+      "end_seconds": 1983.092,
+      "id": "youtube-eXVoZu-UoAM#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1956.762,
+      "text": "因为它都是偏低于百分之五十嘛，低于百分之。你这个灭那个灰的是灭点是吗？中间的，中间的，然后深灰色的应该是从呃twenty five fifty到twenty five，然后最左边的那个地方是less than twenty five percent，到its first quantile。对，然后中间浅灰色的应该是fifty到seventy five。"
+    },
+    {
+      "end_seconds": 2012.162,
+      "id": "youtube-eXVoZu-UoAM#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1983.092,
+      "text": "它其实就是给你一个 distribution 的位置在哪里？嗯，我是说那个起，就那个深灰色，它那块儿，深灰色是从二十五到五十，到五十了吗？这个就是，对对，它是 median，嗯嗯，median 那边是。然后在这个应该 Tableau 它都有一个 documentation 都可以看，就是每一个 chart 怎么用。嗯，然后它还会有一些比较好的解释，就是比如说做什么样的 analysis 是用哪些 chart 比较好，在那个 Tableau 上都有些东西。"
+    },
+    {
+      "end_seconds": 2035.482,
+      "id": "youtube-eXVoZu-UoAM#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2012.162,
+      "text": "去找它的那个 documentation。你我我我有一条。哎，这个第一个，第一个是这个这个 RY 啊，是不是可以轻易的删除或者是加上？如果有 RY 的话。然后第二个，我其实一直对于 Box Plot 我有一个疑问，就是 RY 的定义是什么在 Box Plot 上？哦，对，它这个，比如说我们可以。"
+    },
+    {
+      "end_seconds": 2047.511,
+      "id": "youtube-eXVoZu-UoAM#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2035.482,
+      "text": "它它有包括有很几种很多定义，就是它这个两边这个头它是放在什么位置的？你可以选一个来看，会大一些。"
+    },
+    {
+      "end_seconds": 2059.455,
+      "id": "youtube-eXVoZu-UoAM#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2047.511,
+      "text": "啊，你就就这样，你就对，然后可以再放大一下，再一个就是太不方便，一天。"
+    },
+    {
+      "end_seconds": 2080.76,
+      "id": "youtube-eXVoZu-UoAM#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2059.455,
+      "text": "所以这里面会定义，就是两边的这个 whiskers 是到什么，然后现在是 data within 1.5 times the IQR。 IQR 就是 interquartile range，就是 P25 到 P75。然后它会是在一它的一点五倍的范围之内，然后找到最大的那个数。"
+    },
+    {
+      "end_seconds": 2092.231,
+      "id": "youtube-eXVoZu-UoAM#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2080.76,
+      "text": "然后它也可以画，比如说就是 maximum 和 minimum。嗯，这个是根据你的需求，因为他们有一个统一的定义。嗯。"
+    },
+    {
+      "end_seconds": 2113.61,
+      "id": "youtube-eXVoZu-UoAM#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2092.231,
+      "text": "然后你刚才第一个问题就是，阿外，哦，对，阿外怎么出去？怎么出去是吧？嗯，啊，可以把直接扣掉。对，这个对几种方法吧，就是如果你，比如说。"
+    },
+    {
+      "end_seconds": 2128.836,
+      "id": "youtube-eXVoZu-UoAM#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2113.61,
+      "text": "比如说你看到，比如说这方面这这几个我就不想要它了，然后直接exclude掉就可以了。或者说，我可以根据这个price，然后定一个filter。"
+    },
+    {
+      "end_seconds": 2145.99,
+      "id": "youtube-eXVoZu-UoAM#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2128.836,
+      "text": "然后filter的话，你也可以定义说，我的是一个range，还是比如说只看就是最大不超过，比如说六百，然后这样也可以去根据price来来apply filter。"
+    },
+    {
+      "end_seconds": 2173.143,
+      "id": "youtube-eXVoZu-UoAM#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2145.99,
+      "text": "所以像这个东西，就是说 down the road，你你会要都去考虑 how to productionize your pipeline，然后 how to productionize 有 dashboard。所以那个时候你就会就是像这种 manual 的这种调整 outlier 的东西，你可能会做的越少越好。 Otherwise， you will always run into the situation。 Okay， you don't remember what random things you did before."
+    },
+    {
+      "end_seconds": 2198.116,
+      "id": "youtube-eXVoZu-UoAM#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2173.143,
+      "text": "但差不多有一个好处，就是说，它会你生成结果之后，它会给你一个summary，就说你都apply了哪些filter，这个这个column和row是怎么定义的，它会是以文字的形式给你解释出来。你你你这个就是刚才你exclude掉了几个数据了吗？exclude掉之后，你新生成的那个table你能download出来吗？"
+    },
+    {
+      "end_seconds": 2208.007,
+      "id": "youtube-eXVoZu-UoAM#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2198.116,
+      "text": "在这上面可以，就是你每一个view，然后你做完之后的话，啊，你都可以在，应该是在analysis view data。"
+    },
+    {
+      "end_seconds": 2235.746,
+      "id": "youtube-eXVoZu-UoAM#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2208.007,
+      "text": "这就是这个 table 现在上面的 data，对，现在选出来的三千八百多分钟。嗯嗯嗯。然后，对，然后现在，比如说刚才这个 histogram，然后和这个 box plot 是其实是对应的，就是我们可以看到它的 screening 其实是这边比较分散，这边比较集中，然后这边可以看出来这个比较分散，这边。"
+    },
+    {
+      "end_seconds": 2260.688,
+      "id": "youtube-eXVoZu-UoAM#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2235.746,
+      "text": "你说的那个 summary 是从哪看？哪个？你说那 summary 是从哪看？啊，你找一下。就一般就是，如果你 export 出去之后，它会有一个选择，就是能看到它的。嗯，对吧？summary 是这个 summary。"
+    },
+    {
+      "end_seconds": 2272.954,
+      "id": "youtube-eXVoZu-UoAM#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2260.688,
+      "text": "Description. Caption. There's one description. Caption. Caption. Caption. Caption. Caption. Caption. Caption. Caption"
+    },
+    {
+      "end_seconds": 2294.745,
+      "id": "youtube-eXVoZu-UoAM#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2272.954,
+      "text": "And then, then下面就会写device filter on some twice, which range from二十到七十。Okay. It it tells you this particular set of parameters. And this is for that particular field, right? Yeah. 对对对。Okay."
+    },
+    {
+      "end_seconds": 2306.482,
+      "id": "youtube-eXVoZu-UoAM#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2294.745,
+      "text": "然后，然后再介绍一下它的这个。"
+    },
+    {
+      "end_seconds": 2332.179,
+      "id": "youtube-eXVoZu-UoAM#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2306.482,
+      "text": "现在我们看一下它这个listing在不同neighborhood的的listing的一个一个分布。我们还是从这个所有的这个count来，然后能看出每一个neighborhood有多少listing。给我们大概一个一个一个一个。"
+    },
+    {
+      "end_seconds": 2344.412,
+      "id": "youtube-eXVoZu-UoAM#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2332.179,
+      "text": "有，然后auto neighborhood是开最多的，开二手车那个的，然后第二个是咖啡和商汤，嗯，同样我们可以就是把它。"
+    },
+    {
+      "end_seconds": 2355.095,
+      "id": "youtube-eXVoZu-UoAM#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2344.412,
+      "text": "做成不相交的，然后我们也可以把它做成那种，然后这样可以看出一个。"
+    },
+    {
+      "end_seconds": 2377.828,
+      "id": "youtube-eXVoZu-UoAM#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2355.095,
+      "text": "啊，这个neighborhood的公路，但是因为这neighborhood更更它是一个地理的信息，所以我们同时也可以把它就是在map上啊直接标注出来。然后这个最简单的方法就是说我选择这个lat long，然后抬到虚拟里面，然后双击这个mapview。"
+    },
+    {
+      "end_seconds": 2396.824,
+      "id": "youtube-eXVoZu-UoAM#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2377.828,
+      "text": "然后它就会自动生成一个啊，这个地图的这个一个饼。然后现在只有一个点，因为是我们没有定义啊这个mark，所以它就会把所有的东西然后做一个average。"
+    },
+    {
+      "end_seconds": 2413.714,
+      "id": "youtube-eXVoZu-UoAM#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2396.824,
+      "text": "这是它所有的listing的一个平均的位置。嗯，如果我们要想每一个点，啊，显示一每一个listing显示一个点的话，跟刚才类似，就是把ID啊放到mark上，这样的话就可以看到。"
+    },
+    {
+      "end_seconds": 2427.522,
+      "id": "youtube-eXVoZu-UoAM#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2413.714,
+      "text": "所有的这个滤镜的位置，然后我们比如说可以把这个大小稍微调一下，然后它这个map这个layer也可以改，就是它的tile的形式，比如说。"
+    },
+    {
+      "end_seconds": 2436.561,
+      "id": "youtube-eXVoZu-UoAM#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2427.522,
+      "text": "还有，normal就是正常一点，就是加一些这个颜色，还有就是dark的，嗯。"
+    },
+    {
+      "end_seconds": 2451.047,
+      "id": "youtube-eXVoZu-UoAM#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2436.561,
+      "text": "嗯，如果你对这个 street 比较比较关心的话，还有具体的这个道路的这个这个 style，还，嗯，你先用 normal，然后可以加一些 street。"
+    },
+    {
+      "end_seconds": 2464.886,
+      "id": "youtube-eXVoZu-UoAM#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2451.047,
+      "text": "然后就有很多layer啊，你也可以根据你的需要然后来添加。你这个layer从从它长什么？啊，从这个map，然后map layers。"
+    },
+    {
+      "end_seconds": 2492.743,
+      "id": "youtube-eXVoZu-UoAM#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2464.886,
+      "text": "然后对，现在就是每一个点是一个list。然后刚才我们看到目前neighborhood，然后可以通过这个view来来来view来一下它的neighborhood的分布是什么样子。就是把这个neighborhood可以用不同的color来区分，就把它拽到这个color上面。然后这样我们看到。"
+    },
+    {
+      "end_seconds": 2511.282,
+      "id": "youtube-eXVoZu-UoAM#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2492.743,
+      "text": "就是A和B怎么样来分这些不同的neighborhood的？嗯，比如说这个这边是downtown，然后这边是taco，然后又district都可以，非常直观的在地图上看出来。嗯。"
+    },
+    {
+      "end_seconds": 2529.998,
+      "id": "youtube-eXVoZu-UoAM#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2511.282,
+      "text": "然后分析的时候，我们不一定非要就是放这些neighborhood的信息，可以比如说刚才看的这个property type，也可以做一下分析。嗯，能看到就是刚才最最重的最多的两个就是apartment和house。"
+    },
+    {
+      "end_seconds": 2559.863,
+      "id": "youtube-eXVoZu-UoAM#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2529.998,
+      "text": "然后apartment是这个蓝色的，你看就主要集中在 downtown、咖啡这种地方。然后house呢，更多的分分散在郊区的位置。然后对，然后我们可以就比如说，因为这个颜色太多了嘛，我们只关心这个最主要的这两个，那么可以把这两个选上，然后是keep on，然后现在就是会干净一点。"
+    },
+    {
+      "end_seconds": 2574.187,
+      "id": "youtube-eXVoZu-UoAM#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2559.863,
+      "text": "这这目前来讲，什么？"
+    },
+    {
+      "end_seconds": 2585.748,
+      "id": "youtube-eXVoZu-UoAM#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2574.187,
+      "text": "嗯，然后，哦，还有一个比较比较，哦。"
+    },
+    {
+      "end_seconds": 2606.992,
+      "id": "youtube-eXVoZu-UoAM#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2585.748,
+      "text": "呃，就推荐大家做的就是这个，很容易就是建很多很多这种 sheet，所以的话就是要及时的给它起个名字，比如说这个是 made by w type，不然的话你这个传播会很容易，就说你建十几二十个 sheet，然后你找不到你之前做的东西了。"
+    },
+    {
+      "end_seconds": 2630.487,
+      "id": "youtube-eXVoZu-UoAM#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2606.992,
+      "text": "它是一个data sheet的话，它就只有一张图是吗？对，只有一张图。嗯，然后，我现在看了很多关于property的，就是listing的这个这个信息，然后这里面还有一些host信息，我们可以。"
+    },
+    {
+      "end_seconds": 2658.215,
+      "id": "youtube-eXVoZu-UoAM#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2630.487,
+      "text": "我看一下，就是我们想知道，一共三千多个listing里有多少个host呢？嗯，这时候我们就需要看count一下这个host ID。啊，我们可以直接在这个这个row里边，然后来定义一下啊，我们这个function，就比如说count distinct host ID。"
+    },
+    {
+      "end_seconds": 2688.109,
+      "id": "youtube-eXVoZu-UoAM#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2658.215,
+      "text": "哦，就能看到一共有两千七百个host。嗯，啊，然后我们还想知道，比如说每一个host它有多少个listing，啊，然后就可以用比如说来一个distribution，然后来看一下。"
+    },
+    {
+      "end_seconds": 2704.274,
+      "id": "youtube-eXVoZu-UoAM#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2688.109,
+      "text": "然后这边有一个，这个好像是，这个搜索可以，帮你找到PostgreSQL的。"
+    },
+    {
+      "end_seconds": 2716.707,
+      "id": "youtube-eXVoZu-UoAM#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2704.274,
+      "text": "因为它默认的，因为在 Azure 里边默认的是一个 continuous development，但是我们想把它作为一个 dimension 来分析，然后把它们从 discrete。"
+    },
+    {
+      "end_seconds": 2728.903,
+      "id": "youtube-eXVoZu-UoAM#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2716.707,
+      "text": "这样能看到，就是说，最多的两千多个host都只有一个listing，然后三三百多是就有两个listing，好，谢谢。"
+    },
+    {
+      "end_seconds": 2751.41,
+      "id": "youtube-eXVoZu-UoAM#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2728.903,
+      "text": "大部分就是大家只有一个list。他这个指的是第，比如说那个三千多的、两千多的那个人，是他这一个人管理两千多个list，是这意思吗？不是，有两千多个host，他只有一个list。哦哦哦哦哦。对对对对。最多的一个host有五百多个人list。"
+    },
+    {
+      "end_seconds": 2758.937,
+      "id": "youtube-eXVoZu-UoAM#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2751.41,
+      "text": "对，就可以看一下这这个这方面的数据。嗯。"
+    },
+    {
+      "end_seconds": 2785.86,
+      "id": "youtube-eXVoZu-UoAM#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2758.937,
+      "text": "还有就是可以加上一些时间的信息。呃，这边有一个数据，就是说 host since。我们我们可以看一下这个西雅图这地区这边的。呃，刚才你不是在这个呃 log 里面直接 create a context？对。所以你并没有 really create that new measure。对。对吧？所以它就是一个 temporary。当你 exit out of that session，它就会。"
+    },
+    {
+      "end_seconds": 2798.398,
+      "id": "youtube-eXVoZu-UoAM#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2785.86,
+      "text": "Disappearing.呃，不是out of session，只是就是说你只能在这个卧室里用。如果你想在多个卧室里面同同时用的话，你你 has to create a new one. Okay, good."
+    },
+    {
+      "end_seconds": 2822.179,
+      "id": "youtube-eXVoZu-UoAM#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2798.398,
+      "text": "那个，我我我有一个问题是很 basic 的，就是那个 dimension 那个那个 column 里边的是它所有那个 table 上面的那个，相当于是那个名字对吧？那个那个列那个一个名字。它那个 measure 是你都是你自己 create 的？没有，也是那里面的，就是它一些你没有的一些 variable 是在 measure。那它那它这个怎么知道把哪个放在 dimension 里边，哪个放在 measure 里？就根据 data type。"
+    },
+    {
+      "end_seconds": 2836.052,
+      "id": "youtube-eXVoZu-UoAM#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2822.179,
+      "text": "啊，根据电池来走。然后在里面也是可以change这些电池，可以给大家演示一下。对，比如说刚才，嗯，哪一个应该是在上面呀？比如说电池。"
+    },
+    {
+      "end_seconds": 2851.745,
+      "id": "youtube-eXVoZu-UoAM#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2836.052,
+      "text": "就是说，我想把它弄成一个dimension，它可以convert成一个dimension，或者convert成discrete的，哦，它就会跑到上面去。它所谓它它这个dimension和这个measure的区别是什么？dimension是一个描述，measure是一个number，是这意思吗？"
+    },
+    {
+      "end_seconds": 2870.049,
+      "id": "youtube-eXVoZu-UoAM#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2851.745,
+      "text": "还是有什么区别？就是像刚才我们做的这些分析，比如说，嗯，啊，这个这个count就是一个measure，我们想看它有多少，然后我们把它break down在neighborhood，这个neighborhood就是一个dimension，嗯，对吧？嗯，就是。"
+    },
+    {
+      "end_seconds": 2897.014,
+      "id": "youtube-eXVoZu-UoAM#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2870.049,
+      "text": "在不同单位身上，然后看这个 measure 的值是多少。嗯，对，因为昨天那个，虽然它显示你 variable，假如就是一个 variable，它的分布一二三四五，我们可以 count as 一个 variable，但是呢，你也可以把它 convert as a number，一二三四五也是，也是 number，一二，嗯，对吧？现在你是 recognize 它 as an as a text 还是 as a value，对吧？对对。嗯，之前的理解好像是不是只有那个 dimension 可以作为 filter，还是？"
+    },
+    {
+      "end_seconds": 2919.227,
+      "id": "youtube-eXVoZu-UoAM#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2897.014,
+      "text": "And there's no such a limitation.都都可以，就是一个是dimension可以做成filter，一个是它每一个数据的值也可以做成。也可以，OK。OK，回到刚才这个问题，就是host的这个增长，嗯。"
+    },
+    {
+      "end_seconds": 2945.576,
+      "id": "youtube-eXVoZu-UoAM#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2919.227,
+      "text": "啊，有一个快捷的键，就是比如说你之前做了一些呃关于host的事情，然后你可以直接duplicate这个事情，然后你就可以在此基础上做一些修改，然后更更快一点的，不用重复刚才比如说count host ID。然后这边有一个host是。"
+    },
+    {
+      "end_seconds": 2966.098,
+      "id": "youtube-eXVoZu-UoAM#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2945.576,
+      "text": "就是它什么时候加入到 Airbnb？然后这个是它默认的是一按年来表示。然后就比如说，二零零八年有一个 host，零九年又进来了二十五个，然后一零年进来了八十七个，是每年都进来了多少？"
+    },
+    {
+      "end_seconds": 2989.331,
+      "id": "youtube-eXVoZu-UoAM#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2966.098,
+      "text": "啊，这是告诉你每年新来的host的数量。嗯，如果我们想知道，比如说每年它总共的host多少，就比如说二零零九年应该是零九年进来的加零八年进来的这种，对，cumulative。嗯。然后它这边也是有一个table calculation叫running total。"
+    },
+    {
+      "end_seconds": 3010.918,
+      "id": "youtube-eXVoZu-UoAM#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2989.331,
+      "text": "啊，选它的话可以看到一个增长的一个趋势。然后现在是每一年是一个点，我们可以再 expand 到每一个 quarter 或者到每一个月，整个这个都可以看出来这个走向趋势。"
+    },
+    {
+      "end_seconds": 3021.016,
+      "id": "youtube-eXVoZu-UoAM#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3010.918,
+      "text": "这个就是按照每一个具体的天，可以看到具体的是多少。"
+    },
+    {
+      "end_seconds": 3038.187,
+      "id": "youtube-eXVoZu-UoAM#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3021.016,
+      "text": "然后，嗯，就做的稍微高级一点，比如说把 full sense，把那个年份，啊，做成一十二的。"
+    },
+    {
+      "end_seconds": 3053.404,
+      "id": "youtube-eXVoZu-UoAM#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3038.187,
+      "text": "你应该可以把那个两个数据改一下，改一下出来看看。哪个数据？你刚才放color的时候，哦，它没有数据。"
+    },
+    {
+      "end_seconds": 3064.939,
+      "id": "youtube-eXVoZu-UoAM#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3053.404,
+      "text": "你说的是哪个数据？我刚才想的是，如果你你想做的是把它每就是每年加入的人，给它也单独出来，是吗？你说什么？就是。"
+    },
+    {
+      "end_seconds": 3088.579,
+      "id": "youtube-eXVoZu-UoAM#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3064.939,
+      "text": "我现在想做就是把这条线，现在是一个颜色嘛，对，然后分成不同的颜色，应该是可以。这是我今天对数据结构不了解。对，之前我做出来过，就是稍微偷看一下。就是每一年，就是每一年的又是一个不同的颜色，是吗？"
+    },
+    {
+      "end_seconds": 3103.026,
+      "id": "youtube-eXVoZu-UoAM#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3088.579,
+      "text": "对，每一年不同。你把那个 year 扔到那个 color 里头试一下。好。"
+    },
+    {
+      "end_seconds": 3132.5,
+      "id": "youtube-eXVoZu-UoAM#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3103.025,
+      "text": "右边有条纹，是不是有 discrete？对，右边有条纹。所以刚才如果我把它加进来之后，它就会变。啊，对，因为现在是 discrete 的，对，需要把它变成 continuous。嗯。嗯。"
+    },
+    {
+      "end_seconds": 3143.966,
+      "id": "youtube-eXVoZu-UoAM#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3132.5,
+      "text": "哦。"
+    },
+    {
+      "end_seconds": 3166.388,
+      "id": "youtube-eXVoZu-UoAM#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3143.966,
+      "text": "好像是这个 table calculation，啊，现在 table calculation 它是根据它最最低跳的一个 level，就是既是这个具体的 date 也分年，然后把它每一个 group 来做一个这样的计算，然后如果我们只是想，比如说只是根据客户信息的话。"
+    },
+    {
+      "end_seconds": 3183.579,
+      "id": "youtube-eXVoZu-UoAM#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3166.388,
+      "text": "这样的话，就是它一诺了这个年份的这个dimension，就不会把它就单独来分开来测。这个就是这个这概念稍微有一点模糊，就是大家用的时候可能用的多，对不对？"
+    },
+    {
+      "end_seconds": 3205.397,
+      "id": "youtube-eXVoZu-UoAM#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3183.579,
+      "text": "啊，能稍微理解一下，就它这个 table calculation 是啊，怎么样来做这个、这个、这个、这个啊区分的？这个目前入门的时候不太理解，是是OK的。"
+    },
+    {
+      "end_seconds": 3218.282,
+      "id": "youtube-eXVoZu-UoAM#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3205.397,
+      "text": "然后，除了这个，大家还有什么什么问题？怎么能把那个raw data显示在这个圈儿里下？"
+    },
+    {
+      "end_seconds": 3228.841,
+      "id": "youtube-eXVoZu-UoAM#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3218.282,
+      "text": "Raw data其实都在chart下面，或者是啊，就是咱们的single，啊，你就进一个dashboard放两个表上去，对对对，这个是separate的。"
+    },
+    {
+      "end_seconds": 3251.076,
+      "id": "youtube-eXVoZu-UoAM#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3228.841,
+      "text": "啊，有个比较快的，就是说你可以右click，然后Duplicate Cross Tab，然后给它显示成是那个Raw Data。对，就是Raw Data嘛。然后如果你建一个大树之后，讲直接把Insert进去。对对对，这样。然后。"
+    },
+    {
+      "end_seconds": 3267.543,
+      "id": "youtube-eXVoZu-UoAM#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3251.076,
+      "text": "OK，下一步我们讲一下怎么样join两个data，我们可以建一个新的data source，然后还是以listing为主。"
+    },
+    {
+      "end_seconds": 3293.261,
+      "id": "youtube-eXVoZu-UoAM#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3267.543,
+      "text": "然后我们可以把这calendar加进来，然后join的话就直接拖进来，然后它就自动的会以join的形式来把这两个东西连连在一起。然后你join的field，它一般会默认的会猜一个出来，但这个猜的不太准，所以就是我们像join这个listing ID和这边的listing ID。"
+    },
+    {
+      "end_seconds": 3307.381,
+      "id": "youtube-eXVoZu-UoAM#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3293.261,
+      "text": "然后用的join，这样的话我们就把这两个table给join起来了。嗯，然后我们可以建一个新的worksheet。"
+    },
+    {
+      "end_seconds": 3325.013,
+      "id": "youtube-eXVoZu-UoAM#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3307.381,
+      "text": "join这一段稍微有点大，所以它需要先处理一下。然后这里面你可以，如果你有别的table，你可以接着往下join，它可以join多个table。那你平时在工作中会做很多join吗？"
+    },
+    {
+      "end_seconds": 3346.619,
+      "id": "youtube-eXVoZu-UoAM#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3325.013,
+      "text": "嗯，基本上都是在前期做好。看看你这个 data pipeline 长什么样子吧。样子数据都很大的话，一般嗯，就我们组是一般不会在这个 TensorFlow 里边去装，然后的话就等的太慢，嗯，是吧？嗯，所以就基本上都是在前期给它做好。"
+    },
+    {
+      "end_seconds": 3359.154,
+      "id": "youtube-eXVoZu-UoAM#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3346.619,
+      "text": "就在那个前期就是用那个table，基本上就在SQL里边去给它创造，对，然后再，without a one table，但是，在SQL里面你那个怎么做成table？"
+    },
+    {
+      "end_seconds": 3384.292,
+      "id": "youtube-eXVoZu-UoAM#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3359.154,
+      "text": "嗯，那就是我们ETL的一个，哦，ETL就是，OK，OK，C，C不ETL，对。然后Tableau如果想增加Performance的话，它有一个Tableau Extract，不知道你们了解不了解？有，它有，有的时候会会用Extract versus the server side的version。对的，对Extract会快很多。但但是。"
+    },
+    {
+      "end_seconds": 3400.798,
+      "id": "youtube-eXVoZu-UoAM#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3384.292,
+      "text": "那个，嗯，应该会放到另外一个 file 里面去。对，但是你就是说那个是有一个 capacity 的一个 size， table size 的一个 limitation。"
+    },
+    {
+      "end_seconds": 3423.071,
+      "id": "youtube-eXVoZu-UoAM#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3400.798,
+      "text": "不知道为什么这么做。嗯，有些变成 extra 了，好像。好像他这可能不支持。他可能不行，他加不了这个。这个是登录什么？登录。就是刚才我定义的好，他那个 ID。"
+    },
+    {
+      "end_seconds": 3459.415,
+      "id": "youtube-eXVoZu-UoAM#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3434.436,
+      "text": "看在这儿，比较大，因为它每行是一天嘛，然后大概有有六个月还是一年的这种数据在里面。做生意，我之前在家做过什么没有什么。"
+    },
+    {
+      "end_seconds": 3467.862,
+      "id": "youtube-eXVoZu-UoAM#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3459.415,
+      "text": "那个那个，介绍一下这个football吧。"
+    },
+    {
+      "end_seconds": 3492.898,
+      "id": "youtube-eXVoZu-UoAM#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3467.862,
+      "text": "这个 data source 可以直接加一个 filter，嗯，就是在其实这个涉及到这个 table 它的 rendering 整个 pipeline，它也它也是有有一套系统的。就是我在这儿做的 filter 和在之后做的 filter，它这个这个处理顺序，就是算比较高级的一些功能，但一般来讲不太，目前来讲不太喜欢这样子。"
+    },
+    {
+      "end_seconds": 3501.83,
+      "id": "youtube-eXVoZu-UoAM#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3492.898,
+      "text": "嗯，就说我们去看当烫的吧，或者当烫的。"
+    },
+    {
+      "end_seconds": 3518.996,
+      "id": "youtube-eXVoZu-UoAM#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3501.83,
+      "text": "就相当于是你只 join 当堂和这个马马孔代那两个地方的数据是吧？对对，嗯，我不知道这个 future 它是怎么是 after join put future on 还是就是。"
+    },
+    {
+      "end_seconds": 3545.192,
+      "id": "youtube-eXVoZu-UoAM#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3518.996,
+      "text": "Before那个，对，想知道这个，因为如果你要讲Before的话，是Individual Place Put Filter，知道吧？对对对，就像我们好多东西是是Single Table with a Portfolio Single Table，然后然后再Join，对，是C里那种东西做的，因为太大数据。那这里边它可能就是它的Filter，因为那个用的是一个一个Neighborhood那个Filter，那个Filter只存在在Table One里边Listing那个Table里面。"
+    },
+    {
+      "end_seconds": 3564.978,
+      "id": "youtube-eXVoZu-UoAM#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3545.192,
+      "text": "所以它肯定是 filter listing first，然后再用 rest of the data to join with the calendar table. But the calendar table still goes through the whole table join. Yeah, yeah. So, so it can add another filter to the calendar table. But calendar table has no special filter, right? I think. 对。"
+    },
+    {
+      "end_seconds": 3578.908,
+      "id": "youtube-eXVoZu-UoAM#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3564.978,
+      "text": "你显示的是它用时，不是它剩下的时间，是吧？对，就是它用了多长时间。对对，所以这这个就告诉你，那个你要是想在 Tableau 里用，你会很很慢，对劲儿，对。"
+    },
+    {
+      "end_seconds": 3588.583,
+      "id": "youtube-eXVoZu-UoAM#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3578.908,
+      "text": "我一般喜欢filter是filter by date，就是那么多那种，首先把它先顺着先先就是cut好，然后呢再。"
+    },
+    {
+      "end_seconds": 3613.533,
+      "id": "youtube-eXVoZu-UoAM#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3588.583,
+      "text": "对，一般这这种设计，你要是做prototyping，就想看一下怎东西怎么样，长什么样，然后给他把这个东西先就是给他做出来，可以那种。但是你要是说一个product production的话，它有的时候需要一个set time或者是you want year over year的data在里边，就不能做那个那种类型的。"
+    },
+    {
+      "end_seconds": 3627.484,
+      "id": "youtube-eXVoZu-UoAM#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3613.533,
+      "text": "然后现在我们看到，measure里边就是包括了calendar里边的那两个measure和之前原来历史的measure，然后咱们。"
+    },
+    {
+      "end_seconds": 3652.894,
+      "id": "youtube-eXVoZu-UoAM#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3627.484,
+      "text": "默认显示，它会两个 table 里不同的单元是会分开分开显示。然后同样的，就是我们可以当做是一个大的 table 来处理。比如说，我们想看啊，每一天它的 availability 都有多少，我们可以把 date 放到 column 里边，然后。"
+    },
+    {
+      "end_seconds": 3682.036,
+      "id": "youtube-eXVoZu-UoAM#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3652.894,
+      "text": "比如说 total record 放上row，然后可以具体到每一天，然后可以啊用 available 用 color 来代表 availability，然后我不太知道我们可以用就是 area，然后有时候可以定义一个颜色，有 available 是那种绿色，没有的话能成灰色。"
+    },
+    {
+      "end_seconds": 3701.737,
+      "id": "youtube-eXVoZu-UoAM#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3682.036,
+      "text": "这样的话可以看到这个 availability，然后根据时间的一个一个走势，就说最近的可能 availability 比较低，然后过两个星期就比较高，然后之后过了到七月份又又有一个 drop。"
+    },
+    {
+      "end_seconds": 3719.498,
+      "id": "youtube-eXVoZu-UoAM#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3701.737,
+      "text": "嗯，之前是四月份的时候，反正就是通过这个能看到一些一些partner的，这些monthly partner，还有一些比如说就是像是weekly partner，就是十六号的一个deep，然后二十三号的deep，这个这种就是。"
+    },
+    {
+      "end_seconds": 3736.206,
+      "id": "youtube-eXVoZu-UoAM#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3719.498,
+      "text": "呃，可视化能能很直观的、很快速的展示出来的一些，它是每一天的总数是不变的，是吗？每天总数，因为这个listing就是那么多嘛，然后它是看每每一天是有一个波点，是是。"
+    },
+    {
+      "end_seconds": 3763.073,
+      "id": "youtube-eXVoZu-UoAM#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3736.206,
+      "text": "所以他这个就不考虑，就是 newly joined，比如说他新加入人的话，嗯，有的人可能二零一六年以后加进来的，这个他就不考虑这个了，他只是看就是 total number 里边有多少是被拉高，多少是不被拉高的，是这个意思吗？对，这个是他一六年那时候拿到的数据，然后是往前看，是往之后看吗？啊，往前啊，OK。所以它总数是固定的，总数是固定的，OK。嗯，还不知道之后会有哪些人加进来，对。"
+    },
+    {
+      "end_seconds": 3779.29,
+      "id": "youtube-eXVoZu-UoAM#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3763.073,
+      "text": "正好看那个 timeline，那个那个有没有就是 time series 方面的东西？ Analysis 在 analytics 里面有没有一些 more advanced feature？ 就看 intelligence。 对，嗯。"
+    },
+    {
+      "end_seconds": 3801.8,
+      "id": "youtube-eXVoZu-UoAM#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3779.29,
+      "text": "具体在哪？有什么问题可以通过那个啊？比如比如，嗯，可以看 price 在日期的变化，啊，是 price 在日期的变化，然后你可以在差一项做一个公式。"
+    },
+    {
+      "end_seconds": 3810.592,
+      "id": "youtube-eXVoZu-UoAM#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3801.8,
+      "text": "然后看电影，然后还是演电视剧。"
+    },
+    {
+      "end_seconds": 3835.802,
+      "id": "youtube-eXVoZu-UoAM#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3810.592,
+      "text": "就是 median price 的一个走势，然后比如说我们想看一下总体 average，就这个 time period 它的 average 是多少？可以划一条线做一个标记，然后。"
+    },
+    {
+      "end_seconds": 3850.273,
+      "id": "youtube-eXVoZu-UoAM#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3835.802,
+      "text": "你可以做，比如说，必须留什么，嗯，或者说，其他技术并没有。"
+    },
+    {
+      "end_seconds": 3872.6,
+      "id": "youtube-eXVoZu-UoAM#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3850.273,
+      "text": "没有那个 seasonality 的这种东西的一个 automatic 的。哎，你可以把那个 detail level 在 date 里面转成 month，或者是 week，或者是 week day，或者是 week number 来看。对对对。现在是 week number，对。这个弄错了。是 quarter。Tableau 支持 date function 的里面的一个。"
+    },
+    {
+      "end_seconds": 3883.156,
+      "id": "youtube-eXVoZu-UoAM#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3872.6,
+      "text": "agora eu vou começar a dar um treino"
+    },
+    {
+      "end_seconds": 3912.538,
+      "id": "youtube-eXVoZu-UoAM#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3883.156,
+      "text": "Quarter. I just want to change to weekly.看不到，其上面圈出来的。但是，其实想要的是，比如它的它的这个 distribution 分布是多少？"
+    },
+    {
+      "end_seconds": 3936.544,
+      "id": "youtube-eXVoZu-UoAM#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3912.538,
+      "text": "Confidential. Forecast能干什么呀？Forecast你可以试一下。嗯，它是给你个tray，嗯，之后呢？那也可以。我们已经定义它是forecast model是什么？对呀，但这是forecast的时候，它可能就可以定义有没有那个seasonal factor在里面。"
+    },
+    {
+      "end_seconds": 3953.499,
+      "id": "youtube-eXVoZu-UoAM#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3936.544,
+      "text": "就是every day，每每个课我们到时候都可以记下来，然后下节课再继续分享。就是不要stress，对，再继续讲，然后先把这节课准备的事情说完，然后再拿一个自己拿的，第二个option，OK。"
+    },
+    {
+      "end_seconds": 3976.813,
+      "id": "youtube-eXVoZu-UoAM#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3953.499,
+      "text": "所以，它这个功能挺多的，包括就是那个勾一什么的。嗯，OK，现在我们看到了，讲呃讲到了用到了join，然后它还可以，比如说用union。比如说，现在我们有西雅图的队形。"
+    },
+    {
+      "end_seconds": 4006.318,
+      "id": "youtube-eXVoZu-UoAM#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3976.813,
+      "text": "然后，如果我们想加入，比如说另外一个城市的一些，这俩字还够用。"
+    },
+    {
+      "end_seconds": 4021.006,
+      "id": "youtube-eXVoZu-UoAM#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4006.318,
+      "text": "的时候，大家还有什么别的问题？我其实我刚才有点 confused，就是你们想要实现什么？你是想实现那种 time intelligence 这些东西呢？就是假如就是 current month price。"
+    },
+    {
+      "end_seconds": 4029.756,
+      "id": "youtube-eXVoZu-UoAM#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4021.006,
+      "text": "其实我刚才就是想看，它是有没有一个 capability 去呃 automatically consider seasonality，然后 provide you一个 forecast。"
+    },
+    {
+      "end_seconds": 4052.256,
+      "id": "youtube-eXVoZu-UoAM#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4029.756,
+      "text": "然后，Yeah，其实从刚才的那个看，它是其实有那个 building 的一个 capability。对，就是你做插件，你可以。对，它是有一个 automatic model，在选 model 的时候，它有一个 automatic，有一个 automatic resiliency consideration，所以你可以 toggle 这个 model 有 select。对，因为我我我我我在了解，就是说，Capro 这个。"
+    },
+    {
+      "end_seconds": 4081.005,
+      "id": "youtube-eXVoZu-UoAM#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4052.256,
+      "text": "Time intelligence,就是因为那个，我在Power BI里的Time intelligence它就很powerful，就是很多的，其实就是亏了一些time的一些variable，你输入进这些东西，嗯，像什么rolling total past three months, rolling average total past six months, and compared to previous years，这些都是，我觉得Time intelligence东西，因为这些东西你在分析中也经常看嘛，嗯，但是在Tableau我这块我还没做，对，嗯，一般rolling average你都都可以，都可以做，嗯。"
+    },
+    {
+      "end_seconds": 4103.055,
+      "id": "youtube-eXVoZu-UoAM#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4081.005,
+      "text": "我有一个问题，就您刚才说那个，我可能听，我可能理解错了，就是您刚才说那个用差不多的时候需要create一些KPI是吗？那KPI是这里边的，它已经展示过了，还是是另外一个新的方式？嗯，没有没有没有没展示，KPI其实就是一个number。假如就是你们公司的promos，假如operation promos，假如each month就叫metrics，metrics，嗯，是一个metrics。"
+    },
+    {
+      "end_seconds": 4125.004,
+      "id": "youtube-eXVoZu-UoAM#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4103.055,
+      "text": "但是你看，你知道吗？你你一个Dash报里面可能有十几KPI，如果在Tableau里面做的话，就是一个小的number，一个KPI，在Tableau里面你就做一个Worksheet，嗯，然后哇，你二十个Worksheet，其实每个每个大的Worksheet上面就一个小表格一个number，对对对，啊，但是你你不能就是不能在这个Data Sheet上把它combine在一张图上，只能在Dash报儿上combine，combine是吧？"
+    },
+    {
+      "end_seconds": 4152.251,
+      "id": "youtube-eXVoZu-UoAM#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4125.004,
+      "text": "这确实是有点浪费方面。那么一块就一个 number，是嗯，对，就是 dashboard 上一个块就是必须要做一个表。嗯，但是它很好，就是说 easily，就是你想做什么，你可以独立的考虑它，我就不用考虑 impact others。对，因为我在那个哈尔滨，你要做一些好多那种，因为已经很多 merging 了，在做 future 东西的时候，其实有些时候很麻烦。嗯。"
+    },
+    {
+      "end_seconds": 4170.4,
+      "id": "youtube-eXVoZu-UoAM#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4152.251,
+      "text": "但是它可以就是 consistently use the same filter across all the views.对，但有些有些 filter 和有些，但是你你也可以针对这个东西，可以针对 specific for that view.对对对，就是各有利弊这种。"
+    },
+    {
+      "end_seconds": 4196.92,
+      "id": "youtube-eXVoZu-UoAM#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4170.4,
+      "text": "然后就是很快的讲一下这个Union是怎么做，就是也很简单，在这个Data Source这个这个里边，然后现在我们加了一个Union之下的，如果我们有就是波士顿的，直接加到它的下面，然后在加Table to Union，它就会根据这个Common的这些Attribute，它会做一个Union。这样的话，你的数据里面就是包含了两个两个不同的文件。"
+    },
+    {
+      "end_seconds": 4206.747,
+      "id": "youtube-eXVoZu-UoAM#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4196.92,
+      "text": "嗯，我就是想问，就是像这种数据的处理，就是就是，如果你实际在工作中，其实是不是先把它做好，再录进去比较？"
+    },
+    {
+      "end_seconds": 4221.441,
+      "id": "youtube-eXVoZu-UoAM#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4206.747,
+      "text": "还是说这Tableau的那个评论也能处理成大量的数据？他对处理大数据还是能力还可以的。对，像我之前呃，现在做的最近做的项目是有。"
+    },
+    {
+      "end_seconds": 4235.946,
+      "id": "youtube-eXVoZu-UoAM#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4221.441,
+      "text": "两百九十个 manual，同时在这里面处理。哦，那那那，其实你要考虑 the column more more more concern conservative on the column. 它这个是 column is more costly than the row."
+    },
+    {
+      "end_seconds": 4251.466,
+      "id": "youtube-eXVoZu-UoAM#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4235.946,
+      "text": "哦，对，所以你如果有很多的 column 的话，当你有很多 column 的话，你要就像我们刚才要 join 的时候，就是很难 join 。但是这个 union 好像好一点，因为它也在加。 union 基本上就是 pan ，对。"
+    },
+    {
+      "end_seconds": 4273.242,
+      "id": "youtube-eXVoZu-UoAM#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4251.466,
+      "text": "OK，啊，然后跟时间差不多，我们来讲一下这个建立Dashboard吧。意思我可以再问一个问题吗？就是就是就是就是你你你你这现在比如说做了十个十个十一个这个Sheet，如果说你那个数据Update的话，你只要一Refresh的话，这十一个都跟着变，对吧？对。"
+    },
+    {
+      "end_seconds": 4289.094,
+      "id": "youtube-eXVoZu-UoAM#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4273.242,
+      "text": "那就换句话说，如果比如说我换了另外一组 table，然后就是说这个 table 我想做的数据处理也是这些的话，我只要一 refresh 的话，也是可以用这个。现在这 workflow 是可以保存的，是吗？对对对。但是你的 condition 有 have the same column name at the same column。对。"
+    },
+    {
+      "end_seconds": 4306.971,
+      "id": "youtube-eXVoZu-UoAM#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4289.094,
+      "text": "然后，对他这里面，比如说有个问题啊，如果是呃，他的一些呃，别的备忘还没有放在不同的 date，那最后如果用在同一个dashboard上面的话，他会他会不会在refresh的时候产生问题？"
+    },
+    {
+      "end_seconds": 4328.481,
+      "id": "youtube-eXVoZu-UoAM#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4306.971,
+      "text": "如果你不同的背的话，有可能如果你 join 啊，join 背的话，它就对应不上。对啊，那在这种情况下，它会不会出现那个继续比如说低落或者？对，它会有到。对，如果你如果你用 left join 或者 right join 的话，如果另外一边没有的话，那就就是。"
+    },
+    {
+      "end_seconds": 4339.469,
+      "id": "youtube-eXVoZu-UoAM#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4328.481,
+      "text": "嗯，如果就是相关那个问题，如果你想换一个 data source，然后同样的 realization，你可以就是 replace data source，然后可以把一个东西然后变成另一个。"
+    },
+    {
+      "end_seconds": 4365.919,
+      "id": "youtube-eXVoZu-UoAM#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4339.469,
+      "text": "它这个 recognize 的时候就 recognize 它们那个那个那 column 的名字，对吧？如果说比如说，比如说我这个，比如说我这个 table 上有二十个不同的那个就是 column，然后我只用了十个做做做那个 visualization，我下一个 table 我就得十个，我可以用，对吧？还是说你 column 可以多吧？就如果你没用上，具体我不太清楚，但感觉就是它会智能的分析一下。"
+    },
+    {
+      "end_seconds": 4375.759,
+      "id": "youtube-eXVoZu-UoAM#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4365.919,
+      "text": "会找你用到的那些东西，但是而且你就是说你在这个它呃这个view里边，你也customly created那些field。"
+    },
+    {
+      "end_seconds": 4402.619,
+      "id": "youtube-eXVoZu-UoAM#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4375.759,
+      "text": "它可能就是会有一些 error message，你会需要去改一下。如果名字一样的话，它是可以的。名字一样可以，但是我之前就是假如它的 value 要是少的话，多的多是多和少可能都不行，因为我是以这种情况，我是已经那个 table 大势好的已经 OK 了，然后那个 data everything finished in the SQL，然后直接读读到那个那个 table 就是相当于 refresh，然后我们就是 automate 这个 process。"
+    },
+    {
+      "end_seconds": 4424.42,
+      "id": "youtube-eXVoZu-UoAM#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4402.619,
+      "text": "有些有些variable我在中间我就把它cut了，我觉得没用嘛。以前本来是六个variable，其实它真正用到就是四个，然后我就亏了四个variable，然后就replace那个table，这个这个table dashboard就不refresh。嗯，因为实际上它table本身它用的就是四个variable，它虽然那个里面有有有六个variable，它就用的是四个。然后我在做的时候，我说我干嘛还留那两个呢？"
+    },
+    {
+      "end_seconds": 4453.177,
+      "id": "youtube-eXVoZu-UoAM#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4424.42,
+      "text": "就是说，相当于我重新create一个table，然后source table不一样了，所以它会有一个MSH。对，这样的话，也就是说，其实就是只有四个labour work。那么这个这个table在释放它还是不refresh。然后没办法，以后我就把那两个拿回来以后，六个等于六个，然后table它就它就认了，它就refresh了。对，但是我不知道那个的是是single server多少table，这个是你是属于table直接读的这个data，所以我这个也不说。"
+    },
+    {
+      "end_seconds": 4475.279,
+      "id": "youtube-eXVoZu-UoAM#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4453.177,
+      "text": "但我的意思就是说，你在那个 table size 变，就像你说那个，假如它已经是六个，然后换成了四个，这个情况下是不足的。我觉得应该是，如果它的 table 是同一个 table，你在 table 里面 change 的话，应该不会影响到 table 的方式。那如果你就给他换了一个 table，虽然是同样的 column 数，那就不行。"
+    },
+    {
+      "end_seconds": 4489.934,
+      "id": "youtube-eXVoZu-UoAM#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4475.279,
+      "text": "对，相当于我它以前是六个。我的 refresh 是 refresh 里面的那个 source table 的话，那是可以。但是就是其实所有的 column name、column type 都一样，只是我把两个不用的东西我就把它给删除删除了啊。其实他们原来的那个 source table 里面是。"
+    },
+    {
+      "end_seconds": 4511.84,
+      "id": "youtube-eXVoZu-UoAM#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4489.934,
+      "text": "呃，就是最开始的那个走势，最开始是一样的，只是原来的我们以前呢，就是有有有部分那种manual的，你知道吧，拿手来拿手去manual，然后最后生成那个signals。那现在我就属于automatic这个flow了，然后直接就是用Alteryx就直接把这什么该draw的、该什么manipulate的，然后这么过来，中间就只露了两个耳朵。对。"
+    },
+    {
+      "end_seconds": 4523.212,
+      "id": "youtube-eXVoZu-UoAM#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4511.84,
+      "text": "就是，一开始是是有点tricky，就是比较picky感觉。对，它是有，就是它data source要是改的话，它就不认。内视就相当于data source是不一样的。"
+    },
+    {
+      "end_seconds": 4545.283,
+      "id": "youtube-eXVoZu-UoAM#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4523.212,
+      "text": "OK，啊，对，我们现在来讲一下这个 Dashboard。Dashboard 的功能就是说，我们见到很多这种 individual 的 worksheet，怎么样把它们整合在同一个 view 里边，然后同时再加一些交互的功能在里边。比如说刚才我们有一个 map view。"
+    },
+    {
+      "end_seconds": 4554.818,
+      "id": "youtube-eXVoZu-UoAM#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4545.283,
+      "text": "我们可以直接给它拖拽到这个这个 dash board 里面，然后刚才我们还做过这个 price distribution。"
+    },
+    {
+      "end_seconds": 4564.996,
+      "id": "youtube-eXVoZu-UoAM#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4554.818,
+      "text": "我们也可以把它拉进来，正好可以同时看到两个队友在一起。啊。"
+    },
+    {
+      "end_seconds": 4583.673,
+      "id": "youtube-eXVoZu-UoAM#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4564.996,
+      "text": "然后比较比较好用的功能就是，你可以一键就是把下面做成一个filter，这样的话，你选择呃某一个mark的时候，上面的也会就是同样的附着到那那些listing，嗯。"
+    },
+    {
+      "end_seconds": 4597.133,
+      "id": "youtube-eXVoZu-UoAM#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4583.673,
+      "text": "然后同同样的，如果你把它也做做一个搜索的话，就是你我只选，嗯嗯，就说我只关心，就说这这一块。"
+    },
+    {
+      "end_seconds": 4626.895,
+      "id": "youtube-eXVoZu-UoAM#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4597.133,
+      "text": "不行，然后下面的distribution也会，相应的会改变。嗯，就这样，交互功能是非常非常好的，非常强大的。是，嗯，然后比如说我想加一些feature在这边，嗯，这边有的feature就是你这个workshop里用到的那些有，如果没有的话，我们可以回到这个workshop，说我们想加一个那个或者那个功能。"
+    },
+    {
+      "end_seconds": 4637.196,
+      "id": "youtube-eXVoZu-UoAM#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4626.895,
+      "text": "你可以把这个 property 加进来，这样的话，回到大视图里面，我们就有这个选择了，我们可以有那个选择的。"
+    },
+    {
+      "end_seconds": 4651.199,
+      "id": "youtube-eXVoZu-UoAM#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4637.196,
+      "text": "就是我只关心咖啡障碍，是有一个呃内部的失调病在里面，嗯。"
+    },
+    {
+      "end_seconds": 4671.399,
+      "id": "youtube-eXVoZu-UoAM#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4651.199,
+      "text": "这个关于 dashboard 有什么有什么问题？Dashboard 基本上就是 dashboard，然后你怎么想给他？要是给他 design 成一个什么样子的？比如说我要是 not very symmetrical，比如说。"
+    },
+    {
+      "end_seconds": 4697.56,
+      "id": "youtube-eXVoZu-UoAM#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4671.399,
+      "text": "中间我想把它放成一个图，上面放一个 data，然后左边右边放点这个 data，或者是 not really symmetric。这个从 design 可以做吗？还是就这个 template？还是只是 drop and drag and drop，然后就看这个 table 是怎么给给放这个位置的？就是它位置，它这个这个可以用 container 控制。对，还还有这个 horizontal container、vertical container。"
+    },
+    {
+      "end_seconds": 4709.701,
+      "id": "youtube-eXVoZu-UoAM#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4697.56,
+      "text": "然后你也可以做成floating的，就说它是在任意位置的这种的，做container吧，container可以，嗯。"
+    },
+    {
+      "end_seconds": 4719.662,
+      "id": "youtube-eXVoZu-UoAM#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4709.701,
+      "text": "比如说，刚才我们是相当于 tile 的，我们可以 start with a vertical，或者画一张图。"
+    },
+    {
+      "end_seconds": 4745.754,
+      "id": "youtube-eXVoZu-UoAM#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4719.662,
+      "text": "这样的话，每次你加进来一个新的 worksheet，它都是会就是横向的这样的排序。然后你也可以在 container 里面加别的 container，比如说我在这里面可以加一个 vertical 的，好吧？这样的话，你你往这里边加的话，它就是会变成 vertical 的。"
+    },
+    {
+      "end_seconds": 4764.963,
+      "id": "youtube-eXVoZu-UoAM#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4745.754,
+      "text": "OK，然后我们在这里面可以控制它的大小，就是size。对，size可以控制。OK，然后可以加一些text的那种包，就可以加一些，比如说你要加一个title或者什么的，对，可以加text或者加个logo之类的。"
+    },
+    {
+      "end_seconds": 4782.266,
+      "id": "youtube-eXVoZu-UoAM#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4764.963,
+      "text": "完全不加了。对，还他还有比如说什么 button 啊，这种比较高级的东西。但 button 基本上就是说你的 filtering 是吗？这个 button。嗯。"
+    },
+    {
+      "end_seconds": 4803.984,
+      "id": "youtube-eXVoZu-UoAM#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4782.266,
+      "text": "就是前进后退的一个比较 fancy 的一个表盘，啊，这是一个标志，实际上也不 work，对不对？它并没有一个 filter 的方式。 filter 不是单独的，filter 你要把它放上去的话，也是通过你的 reflect 那些 filter，你可以把那个 filter 的 card，然后放到你的 dashboard 里头，放到你的 container 里头。"
+    },
+    {
+      "end_seconds": 4823.358,
+      "id": "youtube-eXVoZu-UoAM#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4803.984,
+      "text": "就是你在之前那些 view 里边，其实就可以加一些图表。嗯，就可以。然后就是，比如说放到这个 map 里，我可以把它在这边做成一个图表。嗯，对。然后，如果我想在 dashboard 里用同样的。"
+    },
+    {
+      "end_seconds": 4843.977,
+      "id": "youtube-eXVoZu-UoAM#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4823.358,
+      "text": "我就是，嗯，也是在这边。我们可以就是加这个 dashboard wide filter 吗？可以。这个就是 dashbo，呃，我们这个就是刚才没上那个 view specific 吗？对，比如说这个 filter，我想 apply 到所有的卧室，就可以定义，就是说现在只是在自己的卧室。"
+    },
+    {
+      "end_seconds": 4865.438,
+      "id": "youtube-eXVoZu-UoAM#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4843.977,
+      "text": "Okay. So your这个surface this filter only from one view, but you can apply to all other views.对。对。对。现在的话就是，比如说我加一个这个，你看右边的这个GPU上也可以看到一遍。嗯。就是因为现在filter apply到所有的模式。"
+    },
+    {
+      "end_seconds": 4883.784,
+      "id": "youtube-eXVoZu-UoAM#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4865.438,
+      "text": "嗯，对，这个方向就是定义一些这个 navigation 的，对，让你给到别的有事情。"
+    },
+    {
+      "end_seconds": 4895.739,
+      "id": "youtube-eXVoZu-UoAM#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4883.784,
+      "text": "看大家还有什么问题？"
+    },
+    {
+      "end_seconds": 4917.309,
+      "id": "youtube-eXVoZu-UoAM#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4895.739,
+      "text": "不客气，非常理解。嗯，准备的比较仓促，大家。客气，谢谢。对对，这非专业的，把专业的讲了。我接下来我会我会build很多这种，因为他们现在就direction change了嘛，就是我们全部的那个paper report全部要改成table report。嗯。"
+    },
+    {
+      "end_seconds": 4943.13,
+      "id": "youtube-eXVoZu-UoAM#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4917.309,
+      "text": "他就如果要是用那个 Tableau Public 的话，现在这你你现在用的是 Tableau Public，对对对，所以说你就相当于是个 website 对吧？现在现在只是在在本地 computer 上，但是你存的时候把它存到网上去，然后你每次用你在在浏览器上把它打开的时候，这边就是 Tableau Public。"
+    },
+    {
+      "end_seconds": 4964.537,
+      "id": "youtube-eXVoZu-UoAM#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4943.13,
+      "text": "然后你可以设定，比如说管理权呢，谁谁可以 touch 这个 data，谁可以 change 啊，这些都可以吗？还是只有你自己可以做这件事情？那个，那就是 server admin admin 去管的。但这个 Tableau Public 是 Tableau 他负责的，他的一个 server。如果你是公对对对，公司的那种 Tableau Server 是有 admin。"
+    },
+    {
+      "end_seconds": 4986.762,
+      "id": "youtube-eXVoZu-UoAM#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4964.537,
+      "text": "啊，它可以控制每个人的权限，这个这个权限管理还可以。在 public 上，你可以在你自己的 homepage 上控制有谁可以 view 你的 homepage，然后你可以把它 hide 掉，所以别人都看不到，就只有你自己能看见。这样网。所以 public 是个网站，嗯嗯。这样，然后在亚麻内部的话，基本上我们通过呃那个 app folder。"
+    },
+    {
+      "end_seconds": 4999.412,
+      "id": "youtube-eXVoZu-UoAM#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4986.762,
+      "text": "Permission, permission.com to control who can access your table.呃，就是Amazon相当于也是用的public是吗？但是不是不是我们自己的自己的访问。"
+    },
+    {
+      "end_seconds": 5012.664,
+      "id": "youtube-eXVoZu-UoAM#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4999.412,
+      "text": "呃，我想问一下，Cloud这个有，它有Database，就是你现在都数据都是在你，就本机上的，对，它有没有，比如说它在在，比如Server端进行那个。"
+    },
+    {
+      "end_seconds": 5037.684,
+      "id": "youtube-eXVoZu-UoAM#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5012.664,
+      "text": "Uh, data loading and some processing, and then just rendering in your,就是说一个web-based rendering. Because这样的话，我觉得在本期做的话是属于数据量比较有限的。它的这个是有那个功能的。基本上你可以就去，比如说你已经有一个你自己边是cluster的一些table，你就是那个table built for the tableau purpose，然后你就connect directly to that table."
+    },
+    {
+      "end_seconds": 5059.451,
+      "id": "youtube-eXVoZu-UoAM#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5037.684,
+      "text": "那 table 是在是在 server server table 是在 cluster，cluster 上。它都是一个 office table 或者是在 excel 在上面，可以直接。应该是有。然后 Tableau Server 也可以，就是说，呃，直接在上面编辑你的这个 worksheet，你不需要一个 Tableau Desktop。"
+    },
+    {
+      "end_seconds": 5069.018,
+      "id": "youtube-eXVoZu-UoAM#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5059.451,
+      "text": "它在网上也可以进行编辑，这样的话处理应该说是从就在server端来做的吧？对。"
+    },
+    {
+      "end_seconds": 5091.984,
+      "id": "youtube-eXVoZu-UoAM#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5069.018,
+      "text": "他的那个接口，接口是。想问一下，呃，这一大满，同事，因为我们在 Tableau 的话，view 这方我们只能就是去 view，跟他们已经 view 好的 dashboard。但是说我们如果自己想要 build dashboard 的话，是要 ask 一些 different permission 是吗？"
+    },
+    {
+      "end_seconds": 5117.601,
+      "id": "youtube-eXVoZu-UoAM#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5091.984,
+      "text": "你要是说只有I O组的人才能去，你你要是说你得看你得先找找找到那个呃你的那个组的谁是你的server admin，然后你从他那里边可以要一个desktop的license，好用的license，嗯，因为我现在发现好像我们没有一个central的一个Tableau的一个按钮，好像每一个one一个自己的。"
+    },
+    {
+      "end_seconds": 5133.274,
+      "id": "youtube-eXVoZu-UoAM#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5117.601,
+      "text": "有些是一些 work share 一个 server，对，然后是跟 Tableau 的 pricing 有关系，因为 Tableau 的 pricing 是根据 different license 类 price，所以他们可能会 control developer license，然后 viewer license，这样。"
+    },
+    {
+      "end_seconds": 5159.313,
+      "id": "youtube-eXVoZu-UoAM#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5133.274,
+      "text": "我我还想问一个亚马逊内部的问题，就是那个如果这个data在SharePoint上的话，想做一个auto automated的pipeline给transfer到Redshift cluster上的话，就是说，但这个差不多没有，就是之前的那个纯临时的pipeline，有什么方法吗？就是automated给把那个SharePoint的数据每次都转到这个？你SharePoint是Excel text？Excel就是SharePoint可以download到Excel text了。"
+    },
+    {
+      "end_seconds": 5179.718,
+      "id": "youtube-eXVoZu-UoAM#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5159.313,
+      "text": "我们现在的做法是，每次都把 SharePoint 上的数据 download 到 Excel 上，然后再把这 Excel update 到 Rush 上。但这中间有一个人为介入的过程，就是我得下载，下载完之后我再传。你的 source 是从哪来的？SharePoint SharePoint SharePoint 是 SharePoint 就 SharePoint 就是在 SharePoint 上啊，就是人为的去对，人为再去 enter。"
+    },
+    {
+      "end_seconds": 5195.684,
+      "id": "youtube-eXVoZu-UoAM#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5179.718,
+      "text": "这个的话是不是？就是直接放上Excel上给他漏得到，就对数据就是在SharePoint上的，所有的数据源都在SharePoint。像我们都是走，然后这种情况我可能就又走给他漏在EDX上。"
+    },
+    {
+      "end_seconds": 5218.105,
+      "id": "youtube-eXVoZu-UoAM#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5195.684,
+      "text": "给它形成一个 A G X feed，然后再从那个 feed 直接落进去 R S table。那个是一个 manual 的过程，还是一个 automated 的过程？因为你的这个硕士已经是 manual 的过程了嘛？嗯，所以在从你的啊，你的意思说，如果要是 SharePoint，可可是你的这个 SharePoint 的话。"
+    },
+    {
+      "end_seconds": 5234.038,
+      "id": "youtube-eXVoZu-UoAM#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5218.105,
+      "text": "我我我我知道，RDS呃有一个那个function，其实是你要是说update一个shared folder的那么一个东一个table，嗯，custom update，它是那呃。"
+    },
+    {
+      "end_seconds": 5249.722,
+      "id": "youtube-eXVoZu-UoAM#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5234.038,
+      "text": "R S table可以直接read它进去，regular basis。那这个auto automated的这个schedule是要在R S上设定是吧？还是在server上设定？我我在R S上设定这个，我定期当天去读就读这种数据，让它活跃起来。"
+    },
+    {
+      "end_seconds": 5268.705,
+      "id": "youtube-eXVoZu-UoAM#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5249.722,
+      "text": "你说呢？我没有接触过“SharePoint”这个这个词，SharePoint 太专业了，非常专业。我们做生意的时候就是说可以试一下，还有它不是，其实 SharePoint 和 Share Drive 是一个 similar 的一个。对对对对对对。所以，我我的我的那个 experience 就是说，你可以就是。"
+    },
+    {
+      "end_seconds": 5291.988,
+      "id": "youtube-eXVoZu-UoAM#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5268.705,
+      "text": "Directed point. There are several tools that share. Share.对，如果它可以直直接读到 Tableau 上的话，那就最好了。比如 SharePoint 直接连 Tableau，它直接就读。这这是最方便的，因为它是一个一个是对一个 visualization，一个是 data source，两个直接读。如果这个很难的话，就直接 data point data source。对，就每周都会有更新，每周都会有更新。但是 you want to accumulate in your backend data."
+    },
+    {
+      "end_seconds": 5305.121,
+      "id": "youtube-eXVoZu-UoAM#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5291.988,
+      "text": "对对，所以我就觉得还是就是先走一下，比较好的地方，比较stable一些，嗯，好。"
+    },
+    {
+      "end_seconds": 5328.848,
+      "id": "youtube-eXVoZu-UoAM#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5305.121,
+      "text": "可能他说那个就是我说的那个，因为其实我没搞清，但是我的 connection 建立了。他这个就是一个 open source，应该就是说，sharder 它应该有一个 sharder location，就是所谓你刚刚说那个什么。所以有很多 artifact 就是一个呃，那边是靠一开始的一个那个换好的，就是它有个 physical location 的一个地方，靠这个地方。它其实就在 cloud 上，就在 cloud 上。嗯嗯嗯。"
+    },
+    {
+      "end_seconds": 5349.079,
+      "id": "youtube-eXVoZu-UoAM#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5328.848,
+      "text": "嗯，对，数据找数据。我那个是没什么用，但是我后来想想，我那个是什么？我们我走的是那个Arch，然后有有一些Workflow嘛，就是Arch直接读的Comsight，嗯，所以这个Workflow我下载个Server，就是每每每每一个月那天把这个Workflow一装出来了，它就那个Table不也是三个？那你那个Workflow你是用Python写吗？我不是，我用的是Arch。"
+    },
+    {
+      "end_seconds": 5376.514,
+      "id": "youtube-eXVoZu-UoAM#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5349.079,
+      "text": "我还真没听说。二十四可以就是，它就像一个 workflow 的自动化一样，它抓抓一个小图标进去，我抓一个，哎，就跟它刚才说的那个很像。我我现可以的，感觉很强的。对对，二十四既然能从摄像头抓东西，但是抓的时候很快很 picky，就是说。我我就想到，其实你那个问题，你可以就是直接给它设计到去，嗯，S three 上去。"
+    },
+    {
+      "end_seconds": 5391.255,
+      "id": "youtube-eXVoZu-UoAM#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5376.514,
+      "text": "我们我们现在我们现在就是手动的把这数据弄起来之后放到 S3 上去，然后 S3 那边 run 最后 run 就读到 Redshift 八三上。那我觉得这个是不是可以，就是一个好的上层 code？"
+    },
+    {
+      "end_seconds": 5401.161,
+      "id": "youtube-eXVoZu-UoAM#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5391.255,
+      "text": "或者是要去，或者是你可以考虑build一个pipeline。对，我是想build一个，今年我是想build一个pipeline。"
+    },
+    {
+      "end_seconds": 5417.586,
+      "id": "youtube-eXVoZu-UoAM#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5401.161,
+      "text": "我觉得就是说，是我老板给我把这个文件找出来的。因为就是山上山display是一个一个文件，但实际上它有一个那个什么，有一个file的location，就是map drive，就是没有让你下载的，对吧？不是，你不用下载，就是map drive的下drive到你的。"
+    },
+    {
+      "end_seconds": 5434.537,
+      "id": "youtube-eXVoZu-UoAM#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5417.586,
+      "text": "local，本地的，对，那个是一次性嘛，然后这个相当于这个这个就已经连通了，对，然后你本地那个就直接连的是你这个家里的O drive或者家里的，我们俩在这样是吧？我我我们现在是先把数据拿过来，然后稍微做一些处理，对对对，李总，我以前。"
+    }
+  ],
+  "video_id": "eXVoZu-UoAM",
+  "yuzheng_stance_weight": "not-evidence"
+}

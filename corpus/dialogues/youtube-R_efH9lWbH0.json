@@ -1,0 +1,3000 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-R_efH9lWbH0",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2020-10-26T16:50:56Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T02:06:52.371188+00:00",
+  "published_at": "2020-10-26",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "f068e35c303a46a58358fb4039dcb875646fa0e379814edebc128f77c8b3b1ae",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "0ec97d6ca2337d5d69a8dd4ba428bc1d4e1495eebe36ffb051b72061a338579f",
+    "root_receipt_sha256": "9a57eb0e72eddce106504a96439c4a4cd72ddce3d1f1f34de86bf0c37726d4f9",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=R_efH9lWbH0",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=R_efH9lWbH0",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "云游戏 — 虚拟现实?｜来自互联网巨头们的降维打击",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.8,
+      "id": "youtube-R_efH9lWbH0#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "云游戏对游戏产业的颠覆"
+    },
+    {
+      "end_seconds": 5.799,
+      "id": "youtube-R_efH9lWbH0#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.8,
+      "text": "可以直接类比在线视频播放"
+    },
+    {
+      "end_seconds": 8.359,
+      "id": "youtube-R_efH9lWbH0#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.799,
+      "text": "对这种传统视频播放的颠覆"
+    },
+    {
+      "end_seconds": 10.839,
+      "id": "youtube-R_efH9lWbH0#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.359,
+      "text": "刚刚描述的未来不是痴人说梦"
+    },
+    {
+      "end_seconds": 12.519,
+      "id": "youtube-R_efH9lWbH0#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.839,
+      "text": "而是一个正在发生的事情"
+    },
+    {
+      "end_seconds": 17.839,
+      "id": "youtube-R_efH9lWbH0#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.759,
+      "text": "大家好 这期视频的标题"
+    },
+    {
+      "end_seconds": 19.08,
+      "id": "youtube-R_efH9lWbH0#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.839,
+      "text": "可能显得有点劲爆"
+    },
+    {
+      "end_seconds": 21.039,
+      "id": "youtube-R_efH9lWbH0#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.08,
+      "text": "但是就像我之前的视频一样"
+    },
+    {
+      "end_seconds": 23.48,
+      "id": "youtube-R_efH9lWbH0#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.039,
+      "text": "我希望标题是内容的如实反馈"
+    },
+    {
+      "end_seconds": 24.519,
+      "id": "youtube-R_efH9lWbH0#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.48,
+      "text": "这期也不例外"
+    },
+    {
+      "end_seconds": 25.6,
+      "id": "youtube-R_efH9lWbH0#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.519,
+      "text": "那为什么这么劲爆呢"
+    },
+    {
+      "end_seconds": 27.16,
+      "id": "youtube-R_efH9lWbH0#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.6,
+      "text": "我跟大家用一个例子说一下吧"
+    },
+    {
+      "end_seconds": 29.359,
+      "id": "youtube-R_efH9lWbH0#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.16,
+      "text": "就是想象一下三年之后"
+    },
+    {
+      "end_seconds": 31.6,
+      "id": "youtube-R_efH9lWbH0#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.519,
+      "text": "你谷歌或者苹果的旗舰机"
+    },
+    {
+      "end_seconds": 34.359,
+      "id": "youtube-R_efH9lWbH0#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.6,
+      "text": "它的重量和厚度只有现在的一半"
+    },
+    {
+      "end_seconds": 36.32,
+      "id": "youtube-R_efH9lWbH0#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.359,
+      "text": "但是性能丝毫不减"
+    },
+    {
+      "end_seconds": 37.679,
+      "id": "youtube-R_efH9lWbH0#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.32,
+      "text": "续航可能还更多"
+    },
+    {
+      "end_seconds": 38.92,
+      "id": "youtube-R_efH9lWbH0#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.679,
+      "text": "这个不是白日作梦"
+    },
+    {
+      "end_seconds": 40.28,
+      "id": "youtube-R_efH9lWbH0#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.92,
+      "text": "其实给大家解释一下"
+    },
+    {
+      "end_seconds": 41.439,
+      "id": "youtube-R_efH9lWbH0#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.28,
+      "text": "背后的原理就很简单"
+    },
+    {
+      "end_seconds": 43.039,
+      "id": "youtube-R_efH9lWbH0#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.439,
+      "text": "因为你手机的硬件成本"
+    },
+    {
+      "end_seconds": 44.28,
+      "id": "youtube-R_efH9lWbH0#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.039,
+      "text": "包括你的功耗"
+    },
+    {
+      "end_seconds": 47.399,
+      "id": "youtube-R_efH9lWbH0#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.28,
+      "text": "绝大多数都消耗在了计算和存储上"
+    },
+    {
+      "end_seconds": 50.159,
+      "id": "youtube-R_efH9lWbH0#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.399,
+      "text": "如果你能把这个计算和存储放到云上"
+    },
+    {
+      "end_seconds": 52.2,
+      "id": "youtube-R_efH9lWbH0#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.159,
+      "text": "最后只是通过这个Stream"
+    },
+    {
+      "end_seconds": 53.48,
+      "id": "youtube-R_efH9lWbH0#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.2,
+      "text": "给你一个页面的话"
+    },
+    {
+      "end_seconds": 54.159,
+      "id": "youtube-R_efH9lWbH0#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.48,
+      "text": "就可以做到"
+    },
+    {
+      "end_seconds": 55.519,
+      "id": "youtube-R_efH9lWbH0#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.159,
+      "text": "那就和我们接下来"
+    },
+    {
+      "end_seconds": 57.2,
+      "id": "youtube-R_efH9lWbH0#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.519,
+      "text": "要给大家介绍的这个产品"
+    },
+    {
+      "end_seconds": 58.159,
+      "id": "youtube-R_efH9lWbH0#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.2,
+      "text": "非常有关系了"
+    },
+    {
+      "end_seconds": 59.639,
+      "id": "youtube-R_efH9lWbH0#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.199,
+      "text": "这个产品就是谷歌"
+    },
+    {
+      "end_seconds": 61.799,
+      "id": "youtube-R_efH9lWbH0#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.639,
+      "text": "去年刚刚推出的Stadia"
+    },
+    {
+      "end_seconds": 76.079,
+      "id": "youtube-R_efH9lWbH0#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.12,
+      "text": "接下来我们的视频"
+    },
+    {
+      "end_seconds": 78.64,
+      "id": "youtube-R_efH9lWbH0#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.079,
+      "text": "会首先介绍一下Stadia是什么东西"
+    },
+    {
+      "end_seconds": 80.679,
+      "id": "youtube-R_efH9lWbH0#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.0,
+      "text": "第二是给大家看一下"
+    },
+    {
+      "end_seconds": 83.439,
+      "id": "youtube-R_efH9lWbH0#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.679,
+      "text": "我们使用Stadia的亲身体验"
+    },
+    {
+      "end_seconds": 86.159,
+      "id": "youtube-R_efH9lWbH0#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 83.679,
+      "text": "第三呢就是根据这个体验"
+    },
+    {
+      "end_seconds": 88.56,
+      "id": "youtube-R_efH9lWbH0#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 86.28,
+      "text": "我们来详细的阐述一下"
+    },
+    {
+      "end_seconds": 91.159,
+      "id": "youtube-R_efH9lWbH0#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.56,
+      "text": "云游戏平台为什么会改变"
+    },
+    {
+      "end_seconds": 93.879,
+      "id": "youtube-R_efH9lWbH0#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.159,
+      "text": "整个移动设备的未来"
+    },
+    {
+      "end_seconds": 96.2,
+      "id": "youtube-R_efH9lWbH0#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.879,
+      "text": "希望把这三点都讲清楚了以后"
+    },
+    {
+      "end_seconds": 98.399,
+      "id": "youtube-R_efH9lWbH0#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.2,
+      "text": "大家就知道我刚刚描述的未来"
+    },
+    {
+      "end_seconds": 99.64,
+      "id": "youtube-R_efH9lWbH0#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 98.399,
+      "text": "不是痴人说梦"
+    },
+    {
+      "end_seconds": 101.319,
+      "id": "youtube-R_efH9lWbH0#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.64,
+      "text": "而是一个正在发生的事情"
+    },
+    {
+      "end_seconds": 107.319,
+      "id": "youtube-R_efH9lWbH0#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 104.759,
+      "text": "这位是来自谷歌的戴维同学"
+    },
+    {
+      "end_seconds": 108.0,
+      "id": "youtube-R_efH9lWbH0#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.319,
+      "text": "戴维同学"
+    },
+    {
+      "end_seconds": 109.92,
+      "id": "youtube-R_efH9lWbH0#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.0,
+      "text": "你可不可以给大家做一下自我介绍"
+    },
+    {
+      "end_seconds": 111.359,
+      "id": "youtube-R_efH9lWbH0#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.64,
+      "text": "大家好"
+    },
+    {
+      "end_seconds": 112.479,
+      "id": "youtube-R_efH9lWbH0#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.359,
+      "text": "我的名字叫戴维"
+    },
+    {
+      "end_seconds": 114.239,
+      "id": "youtube-R_efH9lWbH0#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.479,
+      "text": "我是一位软件工程师"
+    },
+    {
+      "end_seconds": 117.439,
+      "id": "youtube-R_efH9lWbH0#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 114.319,
+      "text": "平时我对科技行业的各种最新的产品"
+    },
+    {
+      "end_seconds": 120.039,
+      "id": "youtube-R_efH9lWbH0#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.439,
+      "text": "和技术都有非常大的兴趣"
+    },
+    {
+      "end_seconds": 123.359,
+      "id": "youtube-R_efH9lWbH0#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 120.28,
+      "text": "今天我就请戴维同学来我们频道"
+    },
+    {
+      "end_seconds": 125.119,
+      "id": "youtube-R_efH9lWbH0#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.359,
+      "text": "帮我们做两件事情"
+    },
+    {
+      "end_seconds": 127.64,
+      "id": "youtube-R_efH9lWbH0#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.119,
+      "text": "第一个是帮我们讲解一下云游戏的原理"
+    },
+    {
+      "end_seconds": 129.96,
+      "id": "youtube-R_efH9lWbH0#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.64,
+      "text": "第二个我们想讨论一下"
+    },
+    {
+      "end_seconds": 132.639,
+      "id": "youtube-R_efH9lWbH0#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 129.96,
+      "text": "云游戏这个技术商业成熟了以后"
+    },
+    {
+      "end_seconds": 133.799,
+      "id": "youtube-R_efH9lWbH0#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.639,
+      "text": "它对游戏产业"
+    },
+    {
+      "end_seconds": 136.28,
+      "id": "youtube-R_efH9lWbH0#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 133.799,
+      "text": "甚至其他行业都会产生什么样的颠覆"
+    },
+    {
+      "end_seconds": 138.359,
+      "id": "youtube-R_efH9lWbH0#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.879,
+      "text": "那就请戴维同学"
+    },
+    {
+      "end_seconds": 140.199,
+      "id": "youtube-R_efH9lWbH0#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 138.359,
+      "text": "你来开始跟我们讲一下云吃鸡"
+    },
+    {
+      "end_seconds": 141.4,
+      "id": "youtube-R_efH9lWbH0#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.199,
+      "text": "到底是怎么回事"
+    },
+    {
+      "end_seconds": 144.52,
+      "id": "youtube-R_efH9lWbH0#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 142.2,
+      "text": "首先要理解云吃鸡"
+    },
+    {
+      "end_seconds": 145.56,
+      "id": "youtube-R_efH9lWbH0#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.52,
+      "text": "其实很简单"
+    },
+    {
+      "end_seconds": 148.24,
+      "id": "youtube-R_efH9lWbH0#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.56,
+      "text": "我们首先来理解一下什么是云视频"
+    },
+    {
+      "end_seconds": 151.24,
+      "id": "youtube-R_efH9lWbH0#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.0,
+      "text": "我相信在过去的5到10年"
+    },
+    {
+      "end_seconds": 154.8,
+      "id": "youtube-R_efH9lWbH0#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.24,
+      "text": "大部分人都已经从本地视频文件播放"
+    },
+    {
+      "end_seconds": 156.56,
+      "id": "youtube-R_efH9lWbH0#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.8,
+      "text": "换到了在线视频播放"
+    },
+    {
+      "end_seconds": 158.2,
+      "id": "youtube-R_efH9lWbH0#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 156.56,
+      "text": "什么YouTube Netflix这样的"
+    },
+    {
+      "end_seconds": 158.8,
+      "id": "youtube-R_efH9lWbH0#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.2,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 161.319,
+      "id": "youtube-R_efH9lWbH0#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.8,
+      "text": "那么所谓本地视频播放"
+    },
+    {
+      "end_seconds": 163.28,
+      "id": "youtube-R_efH9lWbH0#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.319,
+      "text": "就是首先你有本地这个视频文件"
+    },
+    {
+      "end_seconds": 165.28,
+      "id": "youtube-R_efH9lWbH0#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.28,
+      "text": "然后你进行运行"
+    },
+    {
+      "end_seconds": 167.759,
+      "id": "youtube-R_efH9lWbH0#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 165.28,
+      "text": "你的CPU GPU会解码这个视频"
+    },
+    {
+      "end_seconds": 169.8,
+      "id": "youtube-R_efH9lWbH0#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.759,
+      "text": "最终会生成一个视频流"
+    },
+    {
+      "end_seconds": 171.92,
+      "id": "youtube-R_efH9lWbH0#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 169.84,
+      "text": "然后播放在你的播放器里面"
+    },
+    {
+      "end_seconds": 174.0,
+      "id": "youtube-R_efH9lWbH0#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 171.92,
+      "text": "然后再到用户的屏幕上"
+    },
+    {
+      "end_seconds": 176.719,
+      "id": "youtube-R_efH9lWbH0#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 174.0,
+      "text": "而随着网络的不断的增长"
+    },
+    {
+      "end_seconds": 177.92,
+      "id": "youtube-R_efH9lWbH0#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 176.719,
+      "text": "网络的质量越来越好"
+    },
+    {
+      "end_seconds": 180.08,
+      "id": "youtube-R_efH9lWbH0#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.92,
+      "text": "那么我们就可以通过在线视频的方式"
+    },
+    {
+      "end_seconds": 183.16,
+      "id": "youtube-R_efH9lWbH0#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.08,
+      "text": "直接接收由远端渲染好的视频流"
+    },
+    {
+      "end_seconds": 184.32,
+      "id": "youtube-R_efH9lWbH0#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.16,
+      "text": "到你的本机"
+    },
+    {
+      "end_seconds": 185.719,
+      "id": "youtube-R_efH9lWbH0#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.32,
+      "text": "这样你打开你的网页"
+    },
+    {
+      "end_seconds": 186.36,
+      "id": "youtube-R_efH9lWbH0#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 185.719,
+      "text": "打开你的APP"
+    },
+    {
+      "end_seconds": 187.48,
+      "id": "youtube-R_efH9lWbH0#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.36,
+      "text": "你就可以直接看视频"
+    },
+    {
+      "end_seconds": 188.6,
+      "id": "youtube-R_efH9lWbH0#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 187.48,
+      "text": "而不需要再下载了"
+    },
+    {
+      "end_seconds": 191.08,
+      "id": "youtube-R_efH9lWbH0#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.6,
+      "text": "所以是视频的储存"
+    },
+    {
+      "end_seconds": 191.76,
+      "id": "youtube-R_efH9lWbH0#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 191.08,
+      "text": "解码"
+    },
+    {
+      "end_seconds": 193.4,
+      "id": "youtube-R_efH9lWbH0#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 191.76,
+      "text": "全都是在云端"
+    },
+    {
+      "end_seconds": 194.28,
+      "id": "youtube-R_efH9lWbH0#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.4,
+      "text": "视频流给我以后"
+    },
+    {
+      "end_seconds": 197.6,
+      "id": "youtube-R_efH9lWbH0#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 194.28,
+      "text": "我的浏览器可以起到一个播放器的功能"
+    },
+    {
+      "end_seconds": 199.76,
+      "id": "youtube-R_efH9lWbH0#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.6,
+      "text": "最后我们就可以看到一样的东西"
+    },
+    {
+      "end_seconds": 200.439,
+      "id": "youtube-R_efH9lWbH0#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 200.079,
+      "text": "就是这样"
+    },
+    {
+      "end_seconds": 201.519,
+      "id": "youtube-R_efH9lWbH0#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 200.439,
+      "text": "那么在这个基础之上"
+    },
+    {
+      "end_seconds": 203.679,
+      "id": "youtube-R_efH9lWbH0#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.519,
+      "text": "我们来思考一下云游戏到底是什么"
+    },
+    {
+      "end_seconds": 207.959,
+      "id": "youtube-R_efH9lWbH0#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 205.519,
+      "text": "我们打开Stadia最直观的体验"
+    },
+    {
+      "end_seconds": 210.399,
+      "id": "youtube-R_efH9lWbH0#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 207.959,
+      "text": "就是Stadia特别特别的快"
+    },
+    {
+      "end_seconds": 213.319,
+      "id": "youtube-R_efH9lWbH0#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 210.399,
+      "text": "打开Chrome直接就可以开始玩"
+    },
+    {
+      "end_seconds": 216.039,
+      "id": "youtube-R_efH9lWbH0#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.319,
+      "text": "而且你上来就有很多很多游戏可以选择"
+    },
+    {
+      "end_seconds": 217.039,
+      "id": "youtube-R_efH9lWbH0#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.039,
+      "text": "不需要下载"
+    },
+    {
+      "end_seconds": 219.479,
+      "id": "youtube-R_efH9lWbH0#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 217.039,
+      "text": "打开任何一个游戏直接就能上手"
+    },
+    {
+      "end_seconds": 222.239,
+      "id": "youtube-R_efH9lWbH0#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.479,
+      "text": "比电脑的加载速度还要快很多"
+    },
+    {
+      "end_seconds": 223.599,
+      "id": "youtube-R_efH9lWbH0#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.239,
+      "text": "更厉害的是"
+    },
+    {
+      "end_seconds": 224.479,
+      "id": "youtube-R_efH9lWbH0#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.599,
+      "text": "下面这个视频"
+    },
+    {
+      "end_seconds": 226.399,
+      "id": "youtube-R_efH9lWbH0#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 224.479,
+      "text": "下面这个画面是我们用手机"
+    },
+    {
+      "end_seconds": 229.039,
+      "id": "youtube-R_efH9lWbH0#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 226.399,
+      "text": "就是用Google的一个手机在玩Stadia"
+    },
+    {
+      "end_seconds": 231.679,
+      "id": "youtube-R_efH9lWbH0#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.039,
+      "text": "不管是什么样的设备"
+    },
+    {
+      "end_seconds": 235.479,
+      "id": "youtube-R_efH9lWbH0#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 231.679,
+      "text": "只要你有个屏幕就可以获得和最新的电脑"
+    },
+    {
+      "end_seconds": 238.359,
+      "id": "youtube-R_efH9lWbH0#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 235.479,
+      "text": "有一样的游戏画面和一样流畅的游戏体验"
+    },
+    {
+      "end_seconds": 250.84,
+      "id": "youtube-R_efH9lWbH0#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 248.199,
+      "text": "当我们要运行一款游戏的时候"
+    },
+    {
+      "end_seconds": 254.199,
+      "id": "youtube-R_efH9lWbH0#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 250.84,
+      "text": "它其实也是有非常类似的流程"
+    },
+    {
+      "end_seconds": 255.959,
+      "id": "youtube-R_efH9lWbH0#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 254.199,
+      "text": "你有本地的游戏代码"
+    },
+    {
+      "end_seconds": 257.839,
+      "id": "youtube-R_efH9lWbH0#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 255.959,
+      "text": "你的电脑通过CPU GPU这样"
+    },
+    {
+      "end_seconds": 259.279,
+      "id": "youtube-R_efH9lWbH0#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 257.959,
+      "text": "开始运行这个游戏"
+    },
+    {
+      "end_seconds": 261.199,
+      "id": "youtube-R_efH9lWbH0#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.279,
+      "text": "然后它接收你的游戏指令"
+    },
+    {
+      "end_seconds": 263.119,
+      "id": "youtube-R_efH9lWbH0#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.199,
+      "text": "你键盘往前走鼠标往各种动"
+    },
+    {
+      "end_seconds": 268.679,
+      "id": "youtube-R_efH9lWbH0#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 263.119,
+      "text": "它依次来渲染在这个指令下的新的画面"
+    },
+    {
+      "end_seconds": 271.919,
+      "id": "youtube-R_efH9lWbH0#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 268.679,
+      "text": "生成视频流再播放到你的屏幕上"
+    },
+    {
+      "end_seconds": 273.519,
+      "id": "youtube-R_efH9lWbH0#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.919,
+      "text": "那么所谓的云游戏"
+    },
+    {
+      "end_seconds": 277.559,
+      "id": "youtube-R_efH9lWbH0#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 273.519,
+      "text": "其实就是把前面的游戏运行的部分"
+    },
+    {
+      "end_seconds": 278.959,
+      "id": "youtube-R_efH9lWbH0#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 277.559,
+      "text": "和生成视频流的部分"
+    },
+    {
+      "end_seconds": 280.479,
+      "id": "youtube-R_efH9lWbH0#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 278.959,
+      "text": "完全的搬到了云端"
+    },
+    {
+      "end_seconds": 283.719,
+      "id": "youtube-R_efH9lWbH0#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 280.479,
+      "text": "而你的用户的各种鼠标键盘指令"
+    },
+    {
+      "end_seconds": 285.759,
+      "id": "youtube-R_efH9lWbH0#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 283.719,
+      "text": "也是直接发给了云端的服务器"
+    },
+    {
+      "end_seconds": 288.68,
+      "id": "youtube-R_efH9lWbH0#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.8,
+      "text": "它根据你的指令而生成下一个画面"
+    },
+    {
+      "end_seconds": 289.68,
+      "id": "youtube-R_efH9lWbH0#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 288.68,
+      "text": "马上返回给你"
+    },
+    {
+      "end_seconds": 318.36,
+      "id": "youtube-R_efH9lWbH0#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 315.759,
+      "text": "那这个云游戏的原理我们知道了"
+    },
+    {
+      "end_seconds": 321.159,
+      "id": "youtube-R_efH9lWbH0#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 318.36,
+      "text": "那你觉得它会给游戏产业"
+    },
+    {
+      "end_seconds": 322.439,
+      "id": "youtube-R_efH9lWbH0#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 321.159,
+      "text": "带来什么样的颠覆"
+    },
+    {
+      "end_seconds": 325.039,
+      "id": "youtube-R_efH9lWbH0#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.439,
+      "text": "云游戏对游戏产业的颠覆"
+    },
+    {
+      "end_seconds": 328.199,
+      "id": "youtube-R_efH9lWbH0#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 325.039,
+      "text": "可以直接类比在线视频播放"
+    },
+    {
+      "end_seconds": 331.0,
+      "id": "youtube-R_efH9lWbH0#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.199,
+      "text": "对这种传统视频播放的颠覆"
+    },
+    {
+      "end_seconds": 332.399,
+      "id": "youtube-R_efH9lWbH0#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 331.0,
+      "text": "甚至更甚于此"
+    },
+    {
+      "end_seconds": 334.0,
+      "id": "youtube-R_efH9lWbH0#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 332.399,
+      "text": "为什么这么说呢"
+    },
+    {
+      "end_seconds": 335.879,
+      "id": "youtube-R_efH9lWbH0#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 334.0,
+      "text": "就不仅在未来"
+    },
+    {
+      "end_seconds": 339.519,
+      "id": "youtube-R_efH9lWbH0#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 335.879,
+      "text": "我们可以完全解放本地的游戏计算"
+    },
+    {
+      "end_seconds": 340.959,
+      "id": "youtube-R_efH9lWbH0#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 339.519,
+      "text": "到云游戏的游戏"
+    },
+    {
+      "end_seconds": 341.039,
+      "id": "youtube-R_efH9lWbH0#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 340.959,
+      "text": "我们可以完全解放本地的游戏计算"
+    },
+    {
+      "end_seconds": 342.439,
+      "id": "youtube-R_efH9lWbH0#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 341.039,
+      "text": "到云游戏的游戏"
+    },
+    {
+      "end_seconds": 342.879,
+      "id": "youtube-R_efH9lWbH0#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 342.439,
+      "text": "我们可以完全解放本地的游戏计算"
+    },
+    {
+      "end_seconds": 344.439,
+      "id": "youtube-R_efH9lWbH0#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 342.879,
+      "text": "到云游戏的游戏"
+    },
+    {
+      "end_seconds": 346.319,
+      "id": "youtube-R_efH9lWbH0#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 344.48,
+      "text": "游戏计算到云端"
+    },
+    {
+      "end_seconds": 347.56,
+      "id": "youtube-R_efH9lWbH0#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 346.319,
+      "text": "而且"
+    },
+    {
+      "end_seconds": 350.68,
+      "id": "youtube-R_efH9lWbH0#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 347.56,
+      "text": "随着这个产业链的逐渐完整"
+    },
+    {
+      "end_seconds": 353.48,
+      "id": "youtube-R_efH9lWbH0#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 350.68,
+      "text": "游戏的开发模式也可以完全改变"
+    },
+    {
+      "end_seconds": 354.24,
+      "id": "youtube-R_efH9lWbH0#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 353.48,
+      "text": "为什么这么说"
+    },
+    {
+      "end_seconds": 355.12,
+      "id": "youtube-R_efH9lWbH0#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.24,
+      "text": "简单说就是"
+    },
+    {
+      "end_seconds": 357.68,
+      "id": "youtube-R_efH9lWbH0#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 355.12,
+      "text": "当我们现在运行一个游戏的时候"
+    },
+    {
+      "end_seconds": 359.639,
+      "id": "youtube-R_efH9lWbH0#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 357.68,
+      "text": "从开发者的角度来讲"
+    },
+    {
+      "end_seconds": 362.48,
+      "id": "youtube-R_efH9lWbH0#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 359.639,
+      "text": "他需要考虑的是你本机的运算力"
+    },
+    {
+      "end_seconds": 363.0,
+      "id": "youtube-R_efH9lWbH0#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 362.48,
+      "text": "换句话说"
+    },
+    {
+      "end_seconds": 365.72,
+      "id": "youtube-R_efH9lWbH0#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.0,
+      "text": "我不可能做一个需要十张显卡"
+    },
+    {
+      "end_seconds": 367.0,
+      "id": "youtube-R_efH9lWbH0#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 365.72,
+      "text": "一起渲染的游戏"
+    },
+    {
+      "end_seconds": 369.12,
+      "id": "youtube-R_efH9lWbH0#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 367.0,
+      "text": "因为没有人有能力去跑这个游戏"
+    },
+    {
+      "end_seconds": 370.439,
+      "id": "youtube-R_efH9lWbH0#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 369.12,
+      "text": "随着未来"
+    },
+    {
+      "end_seconds": 372.6,
+      "id": "youtube-R_efH9lWbH0#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 370.439,
+      "text": "Everything is on the cloud"
+    },
+    {
+      "end_seconds": 374.16,
+      "id": "youtube-R_efH9lWbH0#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 372.68,
+      "text": "那么我们完全可以做出"
+    },
+    {
+      "end_seconds": 375.36,
+      "id": "youtube-R_efH9lWbH0#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 374.16,
+      "text": "需要一百张显卡"
+    },
+    {
+      "end_seconds": 376.32,
+      "id": "youtube-R_efH9lWbH0#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 375.36,
+      "text": "一千张显卡"
+    },
+    {
+      "end_seconds": 378.08,
+      "id": "youtube-R_efH9lWbH0#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 376.32,
+      "text": "才可以渲染的非常真实"
+    },
+    {
+      "end_seconds": 380.439,
+      "id": "youtube-R_efH9lWbH0#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 378.08,
+      "text": "非常宏大的游戏"
+    },
+    {
+      "end_seconds": 383.0,
+      "id": "youtube-R_efH9lWbH0#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 380.439,
+      "text": "然后直接通过云游戏的方式"
+    },
+    {
+      "end_seconds": 384.68,
+      "id": "youtube-R_efH9lWbH0#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 383.0,
+      "text": "投给用户就行了"
+    },
+    {
+      "end_seconds": 388.2,
+      "id": "youtube-R_efH9lWbH0#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.68,
+      "text": "那么游戏的内容和游戏的模式"
+    },
+    {
+      "end_seconds": 391.6,
+      "id": "youtube-R_efH9lWbH0#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 388.2,
+      "text": "就可以完完全全的得到一次进化"
+    },
+    {
+      "end_seconds": 392.84,
+      "id": "youtube-R_efH9lWbH0#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 391.6,
+      "text": "这个东西很有意思"
+    },
+    {
+      "end_seconds": 394.28,
+      "id": "youtube-R_efH9lWbH0#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 392.84,
+      "text": "因为我之前想的"
+    },
+    {
+      "end_seconds": 396.439,
+      "id": "youtube-R_efH9lWbH0#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 394.28,
+      "text": "都是从商业模式来想的"
+    },
+    {
+      "end_seconds": 397.68,
+      "id": "youtube-R_efH9lWbH0#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 396.439,
+      "text": "就像你刚刚说的"
+    },
+    {
+      "end_seconds": 399.96,
+      "id": "youtube-R_efH9lWbH0#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 397.68,
+      "text": "这个在线和这个在线视频"
+    },
+    {
+      "end_seconds": 401.12,
+      "id": "youtube-R_efH9lWbH0#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 399.96,
+      "text": "和本机视频的区别"
+    },
+    {
+      "end_seconds": 402.439,
+      "id": "youtube-R_efH9lWbH0#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 401.12,
+      "text": "用户更方便了"
+    },
+    {
+      "end_seconds": 403.719,
+      "id": "youtube-R_efH9lWbH0#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 402.439,
+      "text": "然后用户体验更好了"
+    },
+    {
+      "end_seconds": 405.079,
+      "id": "youtube-R_efH9lWbH0#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 403.719,
+      "text": "我们也在视频里看到了"
+    },
+    {
+      "end_seconds": 406.36,
+      "id": "youtube-R_efH9lWbH0#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 405.079,
+      "text": "用户体验非常好"
+    },
+    {
+      "end_seconds": 407.839,
+      "id": "youtube-R_efH9lWbH0#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 406.36,
+      "text": "他们可能就会更喜欢"
+    },
+    {
+      "end_seconds": 409.719,
+      "id": "youtube-R_efH9lWbH0#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 407.839,
+      "text": "使用这种在线的情况"
+    },
+    {
+      "end_seconds": 411.92,
+      "id": "youtube-R_efH9lWbH0#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 409.719,
+      "text": "这个运营商可能会这样"
+    },
+    {
+      "end_seconds": 413.36,
+      "id": "youtube-R_efH9lWbH0#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 411.92,
+      "text": "从一个一个游戏卖"
+    },
+    {
+      "end_seconds": 414.319,
+      "id": "youtube-R_efH9lWbH0#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.36,
+      "text": "变成了"
+    },
+    {
+      "end_seconds": 416.24,
+      "id": "youtube-R_efH9lWbH0#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 414.319,
+      "text": "变成用一个一个service来卖"
+    },
+    {
+      "end_seconds": 419.159,
+      "id": "youtube-R_efH9lWbH0#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 416.24,
+      "text": "用通过收月费的方式去卖游戏"
+    },
+    {
+      "end_seconds": 421.319,
+      "id": "youtube-R_efH9lWbH0#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 419.159,
+      "text": "可能也会更大层面上"
+    },
+    {
+      "end_seconds": 422.959,
+      "id": "youtube-R_efH9lWbH0#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 421.319,
+      "text": "增加游戏的普及"
+    },
+    {
+      "end_seconds": 424.8,
+      "id": "youtube-R_efH9lWbH0#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 422.959,
+      "text": "因为你原来游戏硬件成本"
+    },
+    {
+      "end_seconds": 426.399,
+      "id": "youtube-R_efH9lWbH0#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.8,
+      "text": "是一个非常大的门槛"
+    },
+    {
+      "end_seconds": 427.319,
+      "id": "youtube-R_efH9lWbH0#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 426.399,
+      "text": "但是现在这个门槛"
+    },
+    {
+      "end_seconds": 428.92,
+      "id": "youtube-R_efH9lWbH0#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.319,
+      "text": "直接就降到了几乎为零"
+    },
+    {
+      "end_seconds": 431.56,
+      "id": "youtube-R_efH9lWbH0#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 428.92,
+      "text": "所以说这个市场会变大很多"
+    },
+    {
+      "end_seconds": 432.8,
+      "id": "youtube-R_efH9lWbH0#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 431.56,
+      "text": "但是你的这个视角"
+    },
+    {
+      "end_seconds": 435.28,
+      "id": "youtube-R_efH9lWbH0#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.8,
+      "text": "是一个可能大家都很难想到的视角"
+    },
+    {
+      "end_seconds": 436.36,
+      "id": "youtube-R_efH9lWbH0#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 435.28,
+      "text": "我不知道"
+    },
+    {
+      "end_seconds": 438.36,
+      "id": "youtube-R_efH9lWbH0#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 436.36,
+      "text": "Stadia的那些人有没有想到"
+    },
+    {
+      "end_seconds": 440.72,
+      "id": "youtube-R_efH9lWbH0#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 438.36,
+      "text": "就是他从开发的角度来说"
+    },
+    {
+      "end_seconds": 443.48,
+      "id": "youtube-R_efH9lWbH0#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 440.72,
+      "text": "因为游戏开发和这个硬件门槛"
+    },
+    {
+      "end_seconds": 445.199,
+      "id": "youtube-R_efH9lWbH0#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 443.48,
+      "text": "本身就是一个trade off"
+    },
+    {
+      "end_seconds": 446.36,
+      "id": "youtube-R_efH9lWbH0#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 445.199,
+      "text": "那当你门槛"
+    },
+    {
+      "end_seconds": 448.12,
+      "id": "youtube-R_efH9lWbH0#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 446.36,
+      "text": "当你所有的游戏"
+    },
+    {
+      "end_seconds": 449.68,
+      "id": "youtube-R_efH9lWbH0#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 448.12,
+      "text": "所有的设备"
+    },
+    {
+      "end_seconds": 451.759,
+      "id": "youtube-R_efH9lWbH0#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 449.68,
+      "text": "都可以玩特别特别"
+    },
+    {
+      "end_seconds": 454.12,
+      "id": "youtube-R_efH9lWbH0#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.759,
+      "text": "需要吃算力的这个"
+    },
+    {
+      "end_seconds": 455.0,
+      "id": "youtube-R_efH9lWbH0#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 454.12,
+      "text": "游戏的情况下"
+    },
+    {
+      "end_seconds": 456.16,
+      "id": "youtube-R_efH9lWbH0#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.0,
+      "text": "游戏的整个开发"
+    },
+    {
+      "end_seconds": 458.519,
+      "id": "youtube-R_efH9lWbH0#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 456.16,
+      "text": "都会带来一个反应和叠化"
+    },
+    {
+      "end_seconds": 459.879,
+      "id": "youtube-R_efH9lWbH0#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 458.519,
+      "text": "对"
+    },
+    {
+      "end_seconds": 460.92,
+      "id": "youtube-R_efH9lWbH0#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 459.879,
+      "text": "你说到这个问题呢"
+    },
+    {
+      "end_seconds": 462.439,
+      "id": "youtube-R_efH9lWbH0#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 460.92,
+      "text": "我们又可以回到之前关于"
+    },
+    {
+      "end_seconds": 464.319,
+      "id": "youtube-R_efH9lWbH0#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 462.439,
+      "text": "视频流的这个概念"
+    },
+    {
+      "end_seconds": 468.439,
+      "id": "youtube-R_efH9lWbH0#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 464.319,
+      "text": "我相信大家现在你想看到4K"
+    },
+    {
+      "end_seconds": 470.84,
+      "id": "youtube-R_efH9lWbH0#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 468.439,
+      "text": "或者甚至8K这样超高清的视频"
+    },
+    {
+      "end_seconds": 472.12,
+      "id": "youtube-R_efH9lWbH0#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 470.84,
+      "text": "是很容易这件事情"
+    },
+    {
+      "end_seconds": 472.48,
+      "id": "youtube-R_efH9lWbH0#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 472.12,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 473.4,
+      "id": "youtube-R_efH9lWbH0#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 472.48,
+      "text": "你只要网够好"
+    },
+    {
+      "end_seconds": 475.24,
+      "id": "youtube-R_efH9lWbH0#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 473.4,
+      "text": "点开你的电脑就可以看"
+    },
+    {
+      "end_seconds": 477.319,
+      "id": "youtube-R_efH9lWbH0#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 475.24,
+      "text": "但是在10年或者5年之前"
+    },
+    {
+      "end_seconds": 479.52,
+      "id": "youtube-R_efH9lWbH0#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 477.319,
+      "text": "要干这件事情是很难的"
+    },
+    {
+      "end_seconds": 483.28,
+      "id": "youtube-R_efH9lWbH0#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 479.52,
+      "text": "因为要一个4K或者8K的视频文件"
+    },
+    {
+      "end_seconds": 486.04,
+      "id": "youtube-R_efH9lWbH0#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 483.28,
+      "text": "首先这个文件的size会非常大"
+    },
+    {
+      "end_seconds": 489.04,
+      "id": "youtube-R_efH9lWbH0#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 486.04,
+      "text": "其次就很多电脑都没有办法"
+    },
+    {
+      "end_seconds": 491.879,
+      "id": "youtube-R_efH9lWbH0#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 489.04,
+      "text": "在本地进行渲染这么大的视频"
+    },
+    {
+      "end_seconds": 492.879,
+      "id": "youtube-R_efH9lWbH0#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 491.879,
+      "text": "关键没有设备"
+    },
+    {
+      "end_seconds": 493.2,
+      "id": "youtube-R_efH9lWbH0#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 492.879,
+      "text": "对"
+    },
+    {
+      "end_seconds": 494.72,
+      "id": "youtube-R_efH9lWbH0#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 493.2,
+      "text": "你也没有这样的设备"
+    },
+    {
+      "end_seconds": 497.04,
+      "id": "youtube-R_efH9lWbH0#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 494.72,
+      "text": "那么现在你可以在一个"
+    },
+    {
+      "end_seconds": 498.28,
+      "id": "youtube-R_efH9lWbH0#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 497.04,
+      "text": "手机上也好"
+    },
+    {
+      "end_seconds": 499.16,
+      "id": "youtube-R_efH9lWbH0#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.28,
+      "text": "电视上也好"
+    },
+    {
+      "end_seconds": 501.6,
+      "id": "youtube-R_efH9lWbH0#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.16,
+      "text": "你就可以看4K或者8K的视频"
+    },
+    {
+      "end_seconds": 503.72,
+      "id": "youtube-R_efH9lWbH0#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.6,
+      "text": "那么同理来讲"
+    },
+    {
+      "end_seconds": 504.68,
+      "id": "youtube-R_efH9lWbH0#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 503.72,
+      "text": "游戏"
+    },
+    {
+      "end_seconds": 507.92,
+      "id": "youtube-R_efH9lWbH0#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 504.68,
+      "text": "你现在就像只能运行一个1080"
+    },
+    {
+      "end_seconds": 510.32,
+      "id": "youtube-R_efH9lWbH0#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 507.92,
+      "text": "清晰度的视频在你电脑上"
+    },
+    {
+      "end_seconds": 511.92,
+      "id": "youtube-R_efH9lWbH0#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 510.32,
+      "text": "那么随着未来"
+    },
+    {
+      "end_seconds": 514.44,
+      "id": "youtube-R_efH9lWbH0#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.92,
+      "text": "很复杂很高清的游戏"
+    },
+    {
+      "end_seconds": 516.36,
+      "id": "youtube-R_efH9lWbH0#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 514.44,
+      "text": "完完全全可以在你的手机上"
+    },
+    {
+      "end_seconds": 520.2,
+      "id": "youtube-R_efH9lWbH0#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 516.399,
+      "text": "用户就可以直接在手机上玩到"
+    },
+    {
+      "end_seconds": 522.879,
+      "id": "youtube-R_efH9lWbH0#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 520.2,
+      "text": "像4K8K这样很高清很复杂的"
+    },
+    {
+      "end_seconds": 524.68,
+      "id": "youtube-R_efH9lWbH0#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 522.879,
+      "text": "很宏大的游戏"
+    },
+    {
+      "end_seconds": 526.6,
+      "id": "youtube-R_efH9lWbH0#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 524.68,
+      "text": "非常值得期待了"
+    },
+    {
+      "end_seconds": 527.68,
+      "id": "youtube-R_efH9lWbH0#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 526.6,
+      "text": "这个云游戏"
+    },
+    {
+      "end_seconds": 531.36,
+      "id": "youtube-R_efH9lWbH0#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.68,
+      "text": "它其实不光是对游戏行业会有颠覆"
+    },
+    {
+      "end_seconds": 534.279,
+      "id": "youtube-R_efH9lWbH0#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.36,
+      "text": "它可能对其他的行业也会有一个意义"
+    },
+    {
+      "end_seconds": 535.159,
+      "id": "youtube-R_efH9lWbH0#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 534.279,
+      "text": "很深远的颠覆"
+    },
+    {
+      "end_seconds": 536.36,
+      "id": "youtube-R_efH9lWbH0#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 535.159,
+      "text": "甚至我们做了一个猜想"
+    },
+    {
+      "end_seconds": 539.12,
+      "id": "youtube-R_efH9lWbH0#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 536.36,
+      "text": "就是苹果它不是最近要用自家的"
+    },
+    {
+      "end_seconds": 541.279,
+      "id": "youtube-R_efH9lWbH0#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 539.12,
+      "text": "显示处理器构架吗"
+    },
+    {
+      "end_seconds": 542.12,
+      "id": "youtube-R_efH9lWbH0#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 541.279,
+      "text": "不兼容怎么办"
+    },
+    {
+      "end_seconds": 543.32,
+      "id": "youtube-R_efH9lWbH0#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 542.12,
+      "text": "可能不兼容就无所谓了"
+    },
+    {
+      "end_seconds": 545.56,
+      "id": "youtube-R_efH9lWbH0#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.32,
+      "text": "因为它的整个操作系统都可以这个stream"
+    },
+    {
+      "end_seconds": 546.879,
+      "id": "youtube-R_efH9lWbH0#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.599,
+      "text": "我们来看云游戏"
+    },
+    {
+      "end_seconds": 551.039,
+      "id": "youtube-R_efH9lWbH0#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 546.879,
+      "text": "其实就是在一个超低延迟下的高速交互型视频"
+    },
+    {
+      "end_seconds": 552.0,
+      "id": "youtube-R_efH9lWbH0#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 551.039,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 554.0,
+      "id": "youtube-R_efH9lWbH0#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 552.0,
+      "text": "那么因此很多"
+    },
+    {
+      "end_seconds": 557.879,
+      "id": "youtube-R_efH9lWbH0#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.599,
+      "text": "平时你能够运用到的东西"
+    },
+    {
+      "end_seconds": 560.0,
+      "id": "youtube-R_efH9lWbH0#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.879,
+      "text": "完全可以通过这种方式进行操作"
+    },
+    {
+      "end_seconds": 563.439,
+      "id": "youtube-R_efH9lWbH0#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 560.0,
+      "text": "比如说我是一个开汽车的人"
+    },
+    {
+      "end_seconds": 567.839,
+      "id": "youtube-R_efH9lWbH0#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 563.439,
+      "text": "那么我的汽车和我周围看到的画面"
+    },
+    {
+      "end_seconds": 571.279,
+      "id": "youtube-R_efH9lWbH0#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 567.839,
+      "text": "完完全全可以通过视频的方式传输到我家"
+    },
+    {
+      "end_seconds": 574.559,
+      "id": "youtube-R_efH9lWbH0#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.279,
+      "text": "那么我在家里面就可以看到我的车开到哪里"
+    },
+    {
+      "end_seconds": 576.399,
+      "id": "youtube-R_efH9lWbH0#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 574.559,
+      "text": "我在家里面操作一个方向盘"
+    },
+    {
+      "end_seconds": 578.679,
+      "id": "youtube-R_efH9lWbH0#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 576.399,
+      "text": "我就可以把这个车开得满世界都是"
+    },
+    {
+      "end_seconds": 581.239,
+      "id": "youtube-R_efH9lWbH0#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.679,
+      "text": "因为只要网络没有问题"
+    },
+    {
+      "end_seconds": 586.759,
+      "id": "youtube-R_efH9lWbH0#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 581.239,
+      "text": "那么我做出的一切反应都能够在我这辆远程的车上进行实时的反馈"
+    },
+    {
+      "end_seconds": 587.159,
+      "id": "youtube-R_efH9lWbH0#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 586.759,
+      "text": "对"
+    },
+    {
+      "end_seconds": 591.439,
+      "id": "youtube-R_efH9lWbH0#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 587.159,
+      "text": "因为其实我们游戏对延迟的要求算是最高的东西之一了"
+    },
+    {
+      "end_seconds": 594.479,
+      "id": "youtube-R_efH9lWbH0#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.439,
+      "text": "就是大家打游戏的时候一点点的延迟都很计较"
+    },
+    {
+      "end_seconds": 597.199,
+      "id": "youtube-R_efH9lWbH0#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 594.479,
+      "text": "但是如果你游戏这个应用场景能满足的话"
+    },
+    {
+      "end_seconds": 601.0,
+      "id": "youtube-R_efH9lWbH0#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 597.199,
+      "text": "世界上绝大多数你需要用电脑的应用场景都可以满足"
+    },
+    {
+      "end_seconds": 603.719,
+      "id": "youtube-R_efH9lWbH0#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 601.0,
+      "text": "对事实上根据我的了解"
+    },
+    {
+      "end_seconds": 607.2,
+      "id": "youtube-R_efH9lWbH0#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.72,
+      "text": "现在一些工业类的机械操作呀"
+    },
+    {
+      "end_seconds": 609.6,
+      "id": "youtube-R_efH9lWbH0#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 607.2,
+      "text": "或者远程的比如说"
+    },
+    {
+      "end_seconds": 613.44,
+      "id": "youtube-R_efH9lWbH0#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 609.6,
+      "text": "探海呀这些的逐渐都开始从"
+    },
+    {
+      "end_seconds": 618.2,
+      "id": "youtube-R_efH9lWbH0#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 613.44,
+      "text": "人去实体操作这个东西变到了一个远程的视频交互性的操作"
+    },
+    {
+      "end_seconds": 623.44,
+      "id": "youtube-R_efH9lWbH0#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 618.2,
+      "text": "那么其实这个本身和这个游戏玩耍基本上是一模一样的一种感觉"
+    },
+    {
+      "end_seconds": 626.279,
+      "id": "youtube-R_efH9lWbH0#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 623.44,
+      "text": "所以可以预见的未来"
+    },
+    {
+      "end_seconds": 627.68,
+      "id": "youtube-R_efH9lWbH0#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 626.279,
+      "text": "游戏我们就不用再说了"
+    },
+    {
+      "end_seconds": 629.84,
+      "id": "youtube-R_efH9lWbH0#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 627.68,
+      "text": "大家明白有多多大的变革"
+    },
+    {
+      "end_seconds": 634.48,
+      "id": "youtube-R_efH9lWbH0#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 629.84,
+      "text": "那么各行各业这种需要人到场的操作方式"
+    },
+    {
+      "end_seconds": 638.44,
+      "id": "youtube-R_efH9lWbH0#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 634.48,
+      "text": "都完全可以通过流媒体的方式进行远程操作"
+    },
+    {
+      "end_seconds": 643.2,
+      "id": "youtube-R_efH9lWbH0#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 638.44,
+      "text": "只要我们能够很好的解决安全和法律问题的话"
+    },
+    {
+      "end_seconds": 645.12,
+      "id": "youtube-R_efH9lWbH0#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 643.2,
+      "text": "我相信在未来吧"
+    },
+    {
+      "end_seconds": 646.16,
+      "id": "youtube-R_efH9lWbH0#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 645.12,
+      "text": "5到10年之内"
+    },
+    {
+      "end_seconds": 650.72,
+      "id": "youtube-R_efH9lWbH0#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 646.16,
+      "text": "我们一定看到很多的行业会因为因此而发生巨大的变革"
+    },
+    {
+      "end_seconds": 653.44,
+      "id": "youtube-R_efH9lWbH0#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 650.72,
+      "text": "好的那稍稍我们总结一下的话"
+    },
+    {
+      "end_seconds": 656.4,
+      "id": "youtube-R_efH9lWbH0#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 653.44,
+      "text": "就是他对游戏行业本身会带来一个很大的变革"
+    },
+    {
+      "end_seconds": 658.519,
+      "id": "youtube-R_efH9lWbH0#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 656.4,
+      "text": "而且不不光是生意模式"
+    },
+    {
+      "end_seconds": 662.12,
+      "id": "youtube-R_efH9lWbH0#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 658.559,
+      "text": "而是整个内容生产都会有巨大的变革"
+    },
+    {
+      "end_seconds": 666.12,
+      "id": "youtube-R_efH9lWbH0#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 662.12,
+      "text": "说不定可能未来电影可能就都是有交互的了"
+    },
+    {
+      "end_seconds": 667.679,
+      "id": "youtube-R_efH9lWbH0#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 666.12,
+      "text": "也是一些低交互高交互"
+    },
+    {
+      "end_seconds": 672.279,
+      "id": "youtube-R_efH9lWbH0#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 667.679,
+      "text": "但是娱乐可能更多的就会向游戏这个倾斜"
+    },
+    {
+      "end_seconds": 675.879,
+      "id": "youtube-R_efH9lWbH0#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 672.279,
+      "text": "第二呢是之前我们可能提到在这里没说"
+    },
+    {
+      "end_seconds": 680.679,
+      "id": "youtube-R_efH9lWbH0#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 675.879,
+      "text": "但是我开头有说的就是当你游戏这个使用场景被满足之后"
+    },
+    {
+      "end_seconds": 684.439,
+      "id": "youtube-R_efH9lWbH0#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 680.679,
+      "text": "那你操作系统的其他的使用场景都可以被满足"
+    },
+    {
+      "end_seconds": 687.079,
+      "id": "youtube-R_efH9lWbH0#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 684.439,
+      "text": "那未来可能就会出现你整个操作系统"
+    },
+    {
+      "end_seconds": 689.16,
+      "id": "youtube-R_efH9lWbH0#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 687.08,
+      "text": "或者你整个设备都是stream的"
+    },
+    {
+      "end_seconds": 693.32,
+      "id": "youtube-R_efH9lWbH0#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 689.16,
+      "text": "那你就不需要你就节省掉了你的CPU和储存"
+    },
+    {
+      "end_seconds": 695.759,
+      "id": "youtube-R_efH9lWbH0#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.32,
+      "text": "然后你就可以超级续航"
+    },
+    {
+      "end_seconds": 700.12,
+      "id": "youtube-R_efH9lWbH0#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 695.759,
+      "text": "又能用一个手机去调用世界上最大的算力"
+    },
+    {
+      "end_seconds": 702.12,
+      "id": "youtube-R_efH9lWbH0#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 700.12,
+      "text": "去为你一个小小的手机服务"
+    },
+    {
+      "end_seconds": 705.72,
+      "id": "youtube-R_efH9lWbH0#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 702.12,
+      "text": "对这绝对是未来一定会发生的事情"
+    },
+    {
+      "end_seconds": 712.04,
+      "id": "youtube-R_efH9lWbH0#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 705.72,
+      "text": "这种我觉得如果说我们之前经历的这种所谓的云计算是1.0的话"
+    },
+    {
+      "end_seconds": 714.36,
+      "id": "youtube-R_efH9lWbH0#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 712.04,
+      "text": "那可能这就是未来的2.0"
+    },
+    {
+      "end_seconds": 717.159,
+      "id": "youtube-R_efH9lWbH0#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 714.36,
+      "text": "所有事情都在云端进行计算"
+    },
+    {
+      "end_seconds": 718.279,
+      "id": "youtube-R_efH9lWbH0#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 717.159,
+      "text": "及时渲染"
+    },
+    {
+      "end_seconds": 720.68,
+      "id": "youtube-R_efH9lWbH0#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 718.279,
+      "text": "然后以streaming的方式到你的终端"
+    },
+    {
+      "end_seconds": 722.039,
+      "id": "youtube-R_efH9lWbH0#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 720.68,
+      "text": "stream这个视频流"
+    },
+    {
+      "end_seconds": 722.919,
+      "id": "youtube-R_efH9lWbH0#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 722.039,
+      "text": "对视频流"
+    },
+    {
+      "end_seconds": 723.879,
+      "id": "youtube-R_efH9lWbH0#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 722.919,
+      "text": "对"
+    },
+    {
+      "end_seconds": 728.12,
+      "id": "youtube-R_efH9lWbH0#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 723.879,
+      "text": "第三就是它会解锁很多其他行业的应用场景"
+    },
+    {
+      "end_seconds": 731.96,
+      "id": "youtube-R_efH9lWbH0#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 728.12,
+      "text": "让这些需要人去现场交互的东西"
+    },
+    {
+      "end_seconds": 735.0,
+      "id": "youtube-R_efH9lWbH0#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 731.96,
+      "text": "可能就是变成了一个在家打游戏的这种感觉"
+    },
+    {
+      "end_seconds": 736.68,
+      "id": "youtube-R_efH9lWbH0#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 735.0,
+      "text": "对非常正确"
+    },
+    {
+      "end_seconds": 739.08,
+      "id": "youtube-R_efH9lWbH0#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 736.68,
+      "text": "其实我觉得因为我跟戴维同学聊的时候"
+    },
+    {
+      "end_seconds": 741.399,
+      "id": "youtube-R_efH9lWbH0#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 739.08,
+      "text": "就是他讲了很多技术细节"
+    },
+    {
+      "end_seconds": 743.159,
+      "id": "youtube-R_efH9lWbH0#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 741.399,
+      "text": "包括我们刚刚说的这些事情"
+    },
+    {
+      "end_seconds": 745.0,
+      "id": "youtube-R_efH9lWbH0#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 743.48,
+      "text": "大家听起来好像很科幻"
+    },
+    {
+      "end_seconds": 747.799,
+      "id": "youtube-R_efH9lWbH0#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.0,
+      "text": "但是在我们看来就是技术已经成熟了"
+    },
+    {
+      "end_seconds": 749.559,
+      "id": "youtube-R_efH9lWbH0#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 747.799,
+      "text": "而且就是已经有人在做了"
+    },
+    {
+      "end_seconds": 751.959,
+      "id": "youtube-R_efH9lWbH0#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 749.559,
+      "text": "甚至我们去做了一些这个行业调研"
+    },
+    {
+      "end_seconds": 754.919,
+      "id": "youtube-R_efH9lWbH0#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 751.959,
+      "text": "就是看到已经有startup在做这些事情了"
+    },
+    {
+      "end_seconds": 756.519,
+      "id": "youtube-R_efH9lWbH0#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 754.919,
+      "text": "那如果大家感兴趣的话"
+    },
+    {
+      "end_seconds": 759.48,
+      "id": "youtube-R_efH9lWbH0#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 756.519,
+      "text": "我们可能也会进一步进行一些更深度的分享"
+    },
+    {
+      "end_seconds": 762.36,
+      "id": "youtube-R_efH9lWbH0#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 759.48,
+      "text": "因为这个事确实是我们看到的"
+    },
+    {
+      "end_seconds": 767.319,
+      "id": "youtube-R_efH9lWbH0#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 762.36,
+      "text": "未来几年里边最令人激动人心的技术之一了"
+    },
+    {
+      "end_seconds": 768.6,
+      "id": "youtube-R_efH9lWbH0#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 767.319,
+      "text": "是的"
+    },
+    {
+      "end_seconds": 769.319,
+      "id": "youtube-R_efH9lWbH0#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 768.6,
+      "text": "多谢"
+    },
+    {
+      "end_seconds": 770.12,
+      "id": "youtube-R_efH9lWbH0#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 769.319,
+      "text": "谢谢大家"
+    },
+    {
+      "end_seconds": 771.48,
+      "id": "youtube-R_efH9lWbH0#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 770.12,
+      "text": "谢谢四老板"
+    },
+    {
+      "end_seconds": 772.439,
+      "id": "youtube-R_efH9lWbH0#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 771.48,
+      "text": "拜拜"
+    }
+  ],
+  "video_id": "R_efH9lWbH0",
+  "yuzheng_stance_weight": "not-evidence"
+}

@@ -1,0 +1,2474 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-pimbKzfM9DY",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2021-04-02T16:51:48Z",
+  "participant_aliases": [
+    "Ya Ge",
+    "鸭哥"
+  ],
+  "participant_entity_ids": [
+    "guest:ya-ge"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "鸭哥",
+  "public_verified_at": "2026-10-11T02:01:10.025412+00:00",
+  "published_at": "2021-04-02",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "372b988faf42c89edcbd82d418f8008d19ad8cc1184031dcb9a9220af180fae3",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "832114dfc63f2a0494992f67920eaf0a54a157d717b07891e7f204c02fcb341c",
+    "root_receipt_sha256": "0bbd79db936c7eeca9d36ea31127df345312b494817e2d5cd39187e162c5b352",
+    "unresolved_count": 5
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=pimbKzfM9DY",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=pimbKzfM9DY",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "Deep learning大佬客串讲座 — 如何科学喷DL",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 3.0,
+      "id": "youtube-pimbKzfM9DY#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "其实一直以来我都是一个Deep Learning大喷子"
+    },
+    {
+      "end_seconds": 6.0,
+      "id": "youtube-pimbKzfM9DY#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.0,
+      "text": "搞了一段时间Deep Learning之后有很多私货"
+    },
+    {
+      "end_seconds": 7.0,
+      "id": "youtube-pimbKzfM9DY#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.0,
+      "text": "想要夹带一下"
+    },
+    {
+      "end_seconds": 9.0,
+      "id": "youtube-pimbKzfM9DY#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.0,
+      "text": "所以就做了这样一个slides"
+    },
+    {
+      "end_seconds": 11.0,
+      "id": "youtube-pimbKzfM9DY#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.0,
+      "text": "整个东西会比较长"
+    },
+    {
+      "end_seconds": 12.0,
+      "id": "youtube-pimbKzfM9DY#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.0,
+      "text": "大约是一小时左右"
+    },
+    {
+      "end_seconds": 14.0,
+      "id": "youtube-pimbKzfM9DY#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.0,
+      "text": "但这次先发一个预览版"
+    },
+    {
+      "end_seconds": 18.0,
+      "id": "youtube-pimbKzfM9DY#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.0,
+      "text": "用十分钟的时间我们简单的看一下Deep Learning的历史"
+    },
+    {
+      "end_seconds": 19.0,
+      "id": "youtube-pimbKzfM9DY#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.0,
+      "text": "它为什么会work"
+    },
+    {
+      "end_seconds": 21.0,
+      "id": "youtube-pimbKzfM9DY#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.0,
+      "text": "以及为什么大家这么喜欢它"
+    },
+    {
+      "end_seconds": 25.0,
+      "id": "youtube-pimbKzfM9DY#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.0,
+      "text": "注意这并不是一个非常严谨的"
+    },
+    {
+      "end_seconds": 28.0,
+      "id": "youtube-pimbKzfM9DY#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.0,
+      "text": "说technical overview"
+    },
+    {
+      "end_seconds": 31.0,
+      "id": "youtube-pimbKzfM9DY#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.0,
+      "text": "而会是一个以广度优先的"
+    },
+    {
+      "end_seconds": 36.0,
+      "id": "youtube-pimbKzfM9DY#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.0,
+      "text": "更加注重直觉的构建的Deep Learning私货"
+    },
+    {
+      "end_seconds": 40.0,
+      "id": "youtube-pimbKzfM9DY#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.0,
+      "text": "注意我里面会有很多个人的见解"
+    },
+    {
+      "end_seconds": 44.0,
+      "id": "youtube-pimbKzfM9DY#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.0,
+      "text": "因为想要把一些比较强烈的观点表达出来"
+    },
+    {
+      "end_seconds": 46.0,
+      "id": "youtube-pimbKzfM9DY#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.0,
+      "text": "所以批判性的看法"
+    },
+    {
+      "end_seconds": 49.0,
+      "id": "youtube-pimbKzfM9DY#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.0,
+      "text": "那么首先看一下在Deep Learning之前"
+    },
+    {
+      "end_seconds": 53.0,
+      "id": "youtube-pimbKzfM9DY#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.0,
+      "text": "大家搞Machine Learning一般是分成几块"
+    },
+    {
+      "end_seconds": 54.0,
+      "id": "youtube-pimbKzfM9DY#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.0,
+      "text": "有做feature的"
+    },
+    {
+      "end_seconds": 55.0,
+      "id": "youtube-pimbKzfM9DY#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.0,
+      "text": "有做aggregation"
+    },
+    {
+      "end_seconds": 56.0,
+      "id": "youtube-pimbKzfM9DY#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.0,
+      "text": "比如说pooling的"
+    },
+    {
+      "end_seconds": 57.0,
+      "id": "youtube-pimbKzfM9DY#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.0,
+      "text": "有做最后的model"
+    },
+    {
+      "end_seconds": 58.0,
+      "id": "youtube-pimbKzfM9DY#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.0,
+      "text": "比如说svm的"
+    },
+    {
+      "end_seconds": 61.0,
+      "id": "youtube-pimbKzfM9DY#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.0,
+      "text": "这样搞虽然分工比较好"
+    },
+    {
+      "end_seconds": 64.0,
+      "id": "youtube-pimbKzfM9DY#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.0,
+      "text": "但是互助投互不了定"
+    },
+    {
+      "end_seconds": 68.0,
+      "id": "youtube-pimbKzfM9DY#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.0,
+      "text": "大家做feature的未必是为了做model来优化"
+    },
+    {
+      "end_seconds": 69.0,
+      "id": "youtube-pimbKzfM9DY#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.0,
+      "text": "各自为政"
+    },
+    {
+      "end_seconds": 70.0,
+      "id": "youtube-pimbKzfM9DY#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.0,
+      "text": "效果不是特别好"
+    },
+    {
+      "end_seconds": 73.0,
+      "id": "youtube-pimbKzfM9DY#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.0,
+      "text": "但也不是说12年Deep Learning火了以后"
+    },
+    {
+      "end_seconds": 74.0,
+      "id": "youtube-pimbKzfM9DY#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.0,
+      "text": "突然就出了一个东西"
+    },
+    {
+      "end_seconds": 75.0,
+      "id": "youtube-pimbKzfM9DY#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.0,
+      "text": "把所有东西组到一块"
+    },
+    {
+      "end_seconds": 76.0,
+      "id": "youtube-pimbKzfM9DY#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.0,
+      "text": "它就work了"
+    },
+    {
+      "end_seconds": 78.0,
+      "id": "youtube-pimbKzfM9DY#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.0,
+      "text": "其实历史比这个复杂很多"
+    },
+    {
+      "end_seconds": 80.0,
+      "id": "youtube-pimbKzfM9DY#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.0,
+      "text": "不过我们说到Deep Learning很多"
+    },
+    {
+      "end_seconds": 82.0,
+      "id": "youtube-pimbKzfM9DY#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.0,
+      "text": "耳熟能详的术语"
+    },
+    {
+      "end_seconds": 83.0,
+      "id": "youtube-pimbKzfM9DY#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.0,
+      "text": "比如说perceptron"
+    },
+    {
+      "end_seconds": 84.0,
+      "id": "youtube-pimbKzfM9DY#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 83.0,
+      "text": "multi-layer"
+    },
+    {
+      "end_seconds": 85.0,
+      "id": "youtube-pimbKzfM9DY#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.0,
+      "text": "neural network"
+    },
+    {
+      "end_seconds": 87.0,
+      "id": "youtube-pimbKzfM9DY#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.0,
+      "text": "甚至是PyTorch的"
+    },
+    {
+      "end_seconds": 88.0,
+      "id": "youtube-pimbKzfM9DY#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.0,
+      "text": "TensorFlow之类"
+    },
+    {
+      "end_seconds": 90.0,
+      "id": "youtube-pimbKzfM9DY#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.0,
+      "text": "现在Deep Learning工具箱的独门绝活"
+    },
+    {
+      "end_seconds": 93.0,
+      "id": "youtube-pimbKzfM9DY#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 90.0,
+      "text": "symbolic auto differentiation等等"
+    },
+    {
+      "end_seconds": 96.0,
+      "id": "youtube-pimbKzfM9DY#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.0,
+      "text": "其实他们在1950几年1960几年都已经出来了"
+    },
+    {
+      "end_seconds": 98.0,
+      "id": "youtube-pimbKzfM9DY#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.0,
+      "text": "只是因为各种原因"
+    },
+    {
+      "end_seconds": 101.0,
+      "id": "youtube-pimbKzfM9DY#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 98.0,
+      "text": "大家一直没有什么办法能够train超过四层"
+    },
+    {
+      "end_seconds": 104.0,
+      "id": "youtube-pimbKzfM9DY#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.0,
+      "text": "或者三四层的neural network"
+    },
+    {
+      "end_seconds": 105.0,
+      "id": "youtube-pimbKzfM9DY#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 104.0,
+      "text": "一搞就overfit"
+    },
+    {
+      "end_seconds": 106.0,
+      "id": "youtube-pimbKzfM9DY#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.0,
+      "text": "这是为什么Deep Learning"
+    },
+    {
+      "end_seconds": 107.0,
+      "id": "youtube-pimbKzfM9DY#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 106.0,
+      "text": "在90年以后"
+    },
+    {
+      "end_seconds": 110.0,
+      "id": "youtube-pimbKzfM9DY#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.0,
+      "text": "我想95年以后就迎来了一个低谷"
+    },
+    {
+      "end_seconds": 113.0,
+      "id": "youtube-pimbKzfM9DY#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.0,
+      "text": "直到2012年搞了一个"
+    },
+    {
+      "end_seconds": 115.0,
+      "id": "youtube-pimbKzfM9DY#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.0,
+      "text": "ImageNet的比赛"
+    },
+    {
+      "end_seconds": 117.0,
+      "id": "youtube-pimbKzfM9DY#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.0,
+      "text": "出了一个叫AlexNet的neural network"
+    },
+    {
+      "end_seconds": 119.0,
+      "id": "youtube-pimbKzfM9DY#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.0,
+      "text": "它基本上就是以前的Deep Learning"
+    },
+    {
+      "end_seconds": 122.0,
+      "id": "youtube-pimbKzfM9DY#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.0,
+      "text": "但是把之前所有的流行的算法"
+    },
+    {
+      "end_seconds": 124.0,
+      "id": "youtube-pimbKzfM9DY#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 122.0,
+      "text": "全都按在地上爆锤"
+    },
+    {
+      "end_seconds": 126.0,
+      "id": "youtube-pimbKzfM9DY#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 124.0,
+      "text": "比如说你就可以看见它这里"
+    },
+    {
+      "end_seconds": 130.0,
+      "id": "youtube-pimbKzfM9DY#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 126.0,
+      "text": "Evory比之前的流行算法都低了8个点"
+    },
+    {
+      "end_seconds": 131.0,
+      "id": "youtube-pimbKzfM9DY#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 130.0,
+      "text": "大家一看"
+    },
+    {
+      "end_seconds": 133.0,
+      "id": "youtube-pimbKzfM9DY#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.0,
+      "text": "你一下把Neural Network"
+    },
+    {
+      "end_seconds": 135.0,
+      "id": "youtube-pimbKzfM9DY#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 133.0,
+      "text": "从比如说两三层一样搞到了8层"
+    },
+    {
+      "end_seconds": 136.0,
+      "id": "youtube-pimbKzfM9DY#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.0,
+      "text": "非常deep"
+    },
+    {
+      "end_seconds": 137.0,
+      "id": "youtube-pimbKzfM9DY#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.0,
+      "text": "Deep Learning"
+    },
+    {
+      "end_seconds": 138.0,
+      "id": "youtube-pimbKzfM9DY#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.0,
+      "text": "牛逼牛逼"
+    },
+    {
+      "end_seconds": 139.0,
+      "id": "youtube-pimbKzfM9DY#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 138.0,
+      "text": "就吸引了很多注意力"
+    },
+    {
+      "end_seconds": 141.0,
+      "id": "youtube-pimbKzfM9DY#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 139.0,
+      "text": "当然Deep Learning名字的来源并不是这里"
+    },
+    {
+      "end_seconds": 143.0,
+      "id": "youtube-pimbKzfM9DY#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 141.0,
+      "text": "这个我们以后再说"
+    },
+    {
+      "end_seconds": 146.0,
+      "id": "youtube-pimbKzfM9DY#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 143.0,
+      "text": "那这个AlexNet它为啥突然就work了呢"
+    },
+    {
+      "end_seconds": 148.0,
+      "id": "youtube-pimbKzfM9DY#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 146.0,
+      "text": "从技术上来说主要是两个原因"
+    },
+    {
+      "end_seconds": 149.0,
+      "id": "youtube-pimbKzfM9DY#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 148.0,
+      "text": "一个是它用了dropout"
+    },
+    {
+      "end_seconds": 151.0,
+      "id": "youtube-pimbKzfM9DY#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.0,
+      "text": "把overfitting这个问题解决了"
+    },
+    {
+      "end_seconds": 153.0,
+      "id": "youtube-pimbKzfM9DY#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.0,
+      "text": "但我觉得dropout从后来的历史来看"
+    },
+    {
+      "end_seconds": 156.0,
+      "id": "youtube-pimbKzfM9DY#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.0,
+      "text": "也不是最好的能解决overfitting的方法"
+    },
+    {
+      "end_seconds": 158.0,
+      "id": "youtube-pimbKzfM9DY#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 156.0,
+      "text": "它可能更重要的一个原因"
+    },
+    {
+      "end_seconds": 159.0,
+      "id": "youtube-pimbKzfM9DY#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.0,
+      "text": "非常核心的原因"
+    },
+    {
+      "end_seconds": 161.0,
+      "id": "youtube-pimbKzfM9DY#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 159.0,
+      "text": "是说它解决了gradient vanishing这个问题"
+    },
+    {
+      "end_seconds": 162.0,
+      "id": "youtube-pimbKzfM9DY#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.0,
+      "text": "那啥叫gradient vanishing呢"
+    },
+    {
+      "end_seconds": 164.0,
+      "id": "youtube-pimbKzfM9DY#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 162.0,
+      "text": "任何一个Machine Learning的算法"
+    },
+    {
+      "end_seconds": 166.0,
+      "id": "youtube-pimbKzfM9DY#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 164.0,
+      "text": "比如讲你用gradient decision来解"
+    },
+    {
+      "end_seconds": 168.0,
+      "id": "youtube-pimbKzfM9DY#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 166.0,
+      "text": "它干的事情就是有一个目标函数"
+    },
+    {
+      "end_seconds": 172.0,
+      "id": "youtube-pimbKzfM9DY#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 169.0,
+      "text": "然后这个算法就在目标函数的某一个点上"
+    },
+    {
+      "end_seconds": 175.0,
+      "id": "youtube-pimbKzfM9DY#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 172.0,
+      "text": "比如讲这个曲面就是这个目标函数的形状"
+    },
+    {
+      "end_seconds": 176.0,
+      "id": "youtube-pimbKzfM9DY#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.0,
+      "text": "在这个点上面呢"
+    },
+    {
+      "end_seconds": 179.0,
+      "id": "youtube-pimbKzfM9DY#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 176.0,
+      "text": "它的目标是要走到这个曲面的谷底"
+    },
+    {
+      "end_seconds": 181.0,
+      "id": "youtube-pimbKzfM9DY#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.0,
+      "text": "也就是最小化这个目标函数"
+    },
+    {
+      "end_seconds": 182.0,
+      "id": "youtube-pimbKzfM9DY#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 181.0,
+      "text": "或者是loss function"
+    },
+    {
+      "end_seconds": 184.0,
+      "id": "youtube-pimbKzfM9DY#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 182.0,
+      "text": "那它怎么去做这一点呢"
+    },
+    {
+      "end_seconds": 187.0,
+      "id": "youtube-pimbKzfM9DY#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.0,
+      "text": "它会先从这个点出发向周围看一圈"
+    },
+    {
+      "end_seconds": 189.0,
+      "id": "youtube-pimbKzfM9DY#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 187.0,
+      "text": "然后找到最陡峭的那个方向"
+    },
+    {
+      "end_seconds": 190.0,
+      "id": "youtube-pimbKzfM9DY#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 189.0,
+      "text": "向那边跨一小步"
+    },
+    {
+      "end_seconds": 192.0,
+      "id": "youtube-pimbKzfM9DY#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 190.0,
+      "text": "然后重复这个过程"
+    },
+    {
+      "end_seconds": 193.0,
+      "id": "youtube-pimbKzfM9DY#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 192.0,
+      "text": "再向周围看一圈"
+    },
+    {
+      "end_seconds": 196.0,
+      "id": "youtube-pimbKzfM9DY#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.0,
+      "text": "再朝最陡峭的方向走一小步"
+    },
+    {
+      "end_seconds": 198.0,
+      "id": "youtube-pimbKzfM9DY#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 196.0,
+      "text": "直到走到谷底"
+    },
+    {
+      "end_seconds": 200.0,
+      "id": "youtube-pimbKzfM9DY#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 198.0,
+      "text": "在这样的一个形状"
+    },
+    {
+      "end_seconds": 201.0,
+      "id": "youtube-pimbKzfM9DY#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 200.0,
+      "text": "比如泡面的形状上面"
+    },
+    {
+      "end_seconds": 203.0,
+      "id": "youtube-pimbKzfM9DY#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.0,
+      "text": "看上去还是比较简单的"
+    },
+    {
+      "end_seconds": 205.0,
+      "id": "youtube-pimbKzfM9DY#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 203.0,
+      "text": "哪个方向最陡峭比较容易判断出来"
+    },
+    {
+      "end_seconds": 207.0,
+      "id": "youtube-pimbKzfM9DY#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 205.0,
+      "text": "但是比如讲像YouTube这样"
+    },
+    {
+      "end_seconds": 209.0,
+      "id": "youtube-pimbKzfM9DY#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 207.0,
+      "text": "Deep Learning里面经常用到的"
+    },
+    {
+      "end_seconds": 211.0,
+      "id": "youtube-pimbKzfM9DY#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.0,
+      "text": "Activation Function叫Sigmoid"
+    },
+    {
+      "end_seconds": 212.0,
+      "id": "youtube-pimbKzfM9DY#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.0,
+      "text": "在这边呢"
+    },
+    {
+      "end_seconds": 213.0,
+      "id": "youtube-pimbKzfM9DY#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 212.0,
+      "text": "如果X在比较大的情况下"
+    },
+    {
+      "end_seconds": 214.0,
+      "id": "youtube-pimbKzfM9DY#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.0,
+      "text": "比如说8啊10啊"
+    },
+    {
+      "end_seconds": 216.0,
+      "id": "youtube-pimbKzfM9DY#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.0,
+      "text": "它gradient就是0了"
+    },
+    {
+      "end_seconds": 219.0,
+      "id": "youtube-pimbKzfM9DY#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.0,
+      "text": "那么如果对Deep Learning有一些初步的了解"
+    },
+    {
+      "end_seconds": 220.0,
+      "id": "youtube-pimbKzfM9DY#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.0,
+      "text": "知道back propagation啊"
+    },
+    {
+      "end_seconds": 222.0,
+      "id": "youtube-pimbKzfM9DY#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.0,
+      "text": "链式法则啊之类的就知道"
+    },
+    {
+      "end_seconds": 223.0,
+      "id": "youtube-pimbKzfM9DY#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.0,
+      "text": "那么一层它的gradient接近0"
+    },
+    {
+      "end_seconds": 224.0,
+      "id": "youtube-pimbKzfM9DY#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.0,
+      "text": "很多层乘起来"
+    },
+    {
+      "end_seconds": 226.0,
+      "id": "youtube-pimbKzfM9DY#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 224.0,
+      "text": "它gradient基本上就是0了"
+    },
+    {
+      "end_seconds": 228.0,
+      "id": "youtube-pimbKzfM9DY#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 226.0,
+      "text": "所以在训练的时候"
+    },
+    {
+      "end_seconds": 230.0,
+      "id": "youtube-pimbKzfM9DY#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 228.0,
+      "text": "整个训练过程基本上就停滞了"
+    },
+    {
+      "end_seconds": 232.0,
+      "id": "youtube-pimbKzfM9DY#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 230.0,
+      "text": "这也是为什么之前train出来的原因之一"
+    },
+    {
+      "end_seconds": 236.0,
+      "id": "youtube-pimbKzfM9DY#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 232.0,
+      "text": "当然gradient vanishing还有很多其他的解释"
+    },
+    {
+      "end_seconds": 238.0,
+      "id": "youtube-pimbKzfM9DY#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 236.0,
+      "text": "这个我们到完整版再说"
+    },
+    {
+      "end_seconds": 240.0,
+      "id": "youtube-pimbKzfM9DY#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.0,
+      "text": "AlexNet他是怎么解决这个问题的呢"
+    },
+    {
+      "end_seconds": 242.0,
+      "id": "youtube-pimbKzfM9DY#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 240.0,
+      "text": "他把Sigmoid换成了ReLU"
+    },
+    {
+      "end_seconds": 245.0,
+      "id": "youtube-pimbKzfM9DY#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 242.0,
+      "text": "那么可以看一下它这个形状"
+    },
+    {
+      "end_seconds": 247.0,
+      "id": "youtube-pimbKzfM9DY#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 245.0,
+      "text": "就解决了gradient vanishing的问题"
+    },
+    {
+      "end_seconds": 249.0,
+      "id": "youtube-pimbKzfM9DY#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.0,
+      "text": "因为它没有像之前的那样的形状"
+    },
+    {
+      "end_seconds": 251.0,
+      "id": "youtube-pimbKzfM9DY#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.0,
+      "text": "具体为什么可以自己想一想"
+    },
+    {
+      "end_seconds": 253.0,
+      "id": "youtube-pimbKzfM9DY#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 251.0,
+      "text": "这是非常重要的一点"
+    },
+    {
+      "end_seconds": 257.0,
+      "id": "youtube-pimbKzfM9DY#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 253.0,
+      "text": "因为在很多相对独立的Deep Learning的work中间"
+    },
+    {
+      "end_seconds": 260.0,
+      "id": "youtube-pimbKzfM9DY#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 257.0,
+      "text": "大家用各自不同的方法都解决了这个问题"
+    },
+    {
+      "end_seconds": 261.0,
+      "id": "youtube-pimbKzfM9DY#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 260.0,
+      "text": "只要你解决了这个问题"
+    },
+    {
+      "end_seconds": 262.0,
+      "id": "youtube-pimbKzfM9DY#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.0,
+      "text": "效果就会特别好"
+    },
+    {
+      "end_seconds": 265.0,
+      "id": "youtube-pimbKzfM9DY#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 262.0,
+      "text": "有时候AlexNet把它堆到了8层"
+    },
+    {
+      "end_seconds": 269.0,
+      "id": "youtube-pimbKzfM9DY#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 265.0,
+      "text": "接下来ResNet用ResidueBlock把它堆到了100层"
+    },
+    {
+      "end_seconds": 270.0,
+      "id": "youtube-pimbKzfM9DY#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.0,
+      "text": "后面堆到了1000层"
+    },
+    {
+      "end_seconds": 271.0,
+      "id": "youtube-pimbKzfM9DY#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 270.0,
+      "text": "效果特别好"
+    },
+    {
+      "end_seconds": 275.0,
+      "id": "youtube-pimbKzfM9DY#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.0,
+      "text": "甚至在时序分析NLP领域的LSTM"
+    },
+    {
+      "end_seconds": 277.0,
+      "id": "youtube-pimbKzfM9DY#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.0,
+      "text": "97年的时候也是"
+    },
+    {
+      "end_seconds": 278.0,
+      "id": "youtube-pimbKzfM9DY#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 277.0,
+      "text": "从RNA一路走过来"
+    },
+    {
+      "end_seconds": 282.0,
+      "id": "youtube-pimbKzfM9DY#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 278.0,
+      "text": "也用类似的方法实现了这样gradient vanishing"
+    },
+    {
+      "end_seconds": 286.0,
+      "id": "youtube-pimbKzfM9DY#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.0,
+      "text": "或者RNA还有个gradient explosion之类的解决"
+    },
+    {
+      "end_seconds": 288.0,
+      "id": "youtube-pimbKzfM9DY#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 286.0,
+      "text": "也都实现了比较好的效果"
+    },
+    {
+      "end_seconds": 290.0,
+      "id": "youtube-pimbKzfM9DY#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 288.0,
+      "text": "所以我个人认为gradient vanishing"
+    },
+    {
+      "end_seconds": 293.0,
+      "id": "youtube-pimbKzfM9DY#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 290.0,
+      "text": "是Deep Learning为什么work的一个重要的因素"
+    },
+    {
+      "end_seconds": 295.0,
+      "id": "youtube-pimbKzfM9DY#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.0,
+      "text": "此外还有两个因素"
+    },
+    {
+      "end_seconds": 299.0,
+      "id": "youtube-pimbKzfM9DY#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 295.0,
+      "text": "一个是我们终于有了大规模的人工标注的数据"
+    },
+    {
+      "end_seconds": 303.0,
+      "id": "youtube-pimbKzfM9DY#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 299.0,
+      "text": "比如说以前CALTEC 101大家做都做9000张图"
+    },
+    {
+      "end_seconds": 304.0,
+      "id": "youtube-pimbKzfM9DY#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 303.0,
+      "text": "觉得挺大了"
+    },
+    {
+      "end_seconds": 307.0,
+      "id": "youtube-pimbKzfM9DY#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 304.0,
+      "text": "到李飞飞他们组12年左右"
+    },
+    {
+      "end_seconds": 308.0,
+      "id": "youtube-pimbKzfM9DY#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 307.0,
+      "text": "11年左右"
+    },
+    {
+      "end_seconds": 312.0,
+      "id": "youtube-pimbKzfM9DY#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 308.0,
+      "text": "11年左右弄出来一个200万张图的ImageNet"
+    },
+    {
+      "end_seconds": 313.0,
+      "id": "youtube-pimbKzfM9DY#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 312.0,
+      "text": "因为有这么多图"
+    },
+    {
+      "end_seconds": 316.0,
+      "id": "youtube-pimbKzfM9DY#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 313.0,
+      "text": "所以Neural Network才不合适"
+    },
+    {
+      "end_seconds": 317.0,
+      "id": "youtube-pimbKzfM9DY#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.0,
+      "text": "还有一个重要的一点"
+    },
+    {
+      "end_seconds": 319.0,
+      "id": "youtube-pimbKzfM9DY#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 317.0,
+      "text": "是大家终于知道用GPU来train了"
+    },
+    {
+      "end_seconds": 322.0,
+      "id": "youtube-pimbKzfM9DY#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 319.0,
+      "text": "其实这件事情并不是那么直观"
+    },
+    {
+      "end_seconds": 324.0,
+      "id": "youtube-pimbKzfM9DY#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.0,
+      "text": "现在CUDA很方便"
+    },
+    {
+      "end_seconds": 327.0,
+      "id": "youtube-pimbKzfM9DY#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.0,
+      "text": "但当时CUDA还是1.0"
+    },
+    {
+      "end_seconds": 329.0,
+      "id": "youtube-pimbKzfM9DY#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 327.0,
+      "text": "在说我主要用来做天气预报"
+    },
+    {
+      "end_seconds": 330.0,
+      "id": "youtube-pimbKzfM9DY#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 329.0,
+      "text": "这样的情况下"
+    },
+    {
+      "end_seconds": 332.0,
+      "id": "youtube-pimbKzfM9DY#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 330.0,
+      "text": "能够意识到Deep Learning"
+    },
+    {
+      "end_seconds": 334.0,
+      "id": "youtube-pimbKzfM9DY#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 332.0,
+      "text": "Deep Neural Network能够用GPU来并行train"
+    },
+    {
+      "end_seconds": 336.0,
+      "id": "youtube-pimbKzfM9DY#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 334.0,
+      "text": "是一件很不容易的事情"
+    },
+    {
+      "end_seconds": 339.0,
+      "id": "youtube-pimbKzfM9DY#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.0,
+      "text": "甚至AlexNet那篇文章一半的篇幅都在讲怎么去干这件事"
+    },
+    {
+      "end_seconds": 342.0,
+      "id": "youtube-pimbKzfM9DY#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 339.0,
+      "text": "这是非常有开拓性的实验"
+    },
+    {
+      "end_seconds": 346.0,
+      "id": "youtube-pimbKzfM9DY#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.0,
+      "text": "那啥时候适合用Deep Learning"
+    },
+    {
+      "end_seconds": 347.0,
+      "id": "youtube-pimbKzfM9DY#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 346.0,
+      "text": "我觉得主要有两个"
+    },
+    {
+      "end_seconds": 350.0,
+      "id": "youtube-pimbKzfM9DY#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 347.0,
+      "text": "一个是当你有很多数据的时候"
+    },
+    {
+      "end_seconds": 351.0,
+      "id": "youtube-pimbKzfM9DY#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 350.0,
+      "text": "但其实也有一些例外"
+    },
+    {
+      "end_seconds": 355.0,
+      "id": "youtube-pimbKzfM9DY#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 351.0,
+      "text": "比如说Transfer Learning就可以允许你用比较小的数据"
+    },
+    {
+      "end_seconds": 358.0,
+      "id": "youtube-pimbKzfM9DY#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 355.0,
+      "text": "生几十张图就能train一个相对靠谱的模型出来"
+    },
+    {
+      "end_seconds": 361.0,
+      "id": "youtube-pimbKzfM9DY#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 359.0,
+      "text": "同时也有一些其他的例外"
+    },
+    {
+      "end_seconds": 363.0,
+      "id": "youtube-pimbKzfM9DY#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 361.0,
+      "text": "比如说你可以生成一些数据"
+    },
+    {
+      "end_seconds": 365.0,
+      "id": "youtube-pimbKzfM9DY#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.0,
+      "text": "或者是像AlphaGo一样"
+    },
+    {
+      "end_seconds": 367.0,
+      "id": "youtube-pimbKzfM9DY#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 365.0,
+      "text": "或者是这数据哪怕非常noisy"
+    },
+    {
+      "end_seconds": 368.0,
+      "id": "youtube-pimbKzfM9DY#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 367.0,
+      "text": "没有人工标注也可以"
+    },
+    {
+      "end_seconds": 374.0,
+      "id": "youtube-pimbKzfM9DY#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.0,
+      "text": "Facebook之前在Instagram上train了一个非常noisy的数据"
+    },
+    {
+      "end_seconds": 376.0,
+      "id": "youtube-pimbKzfM9DY#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 374.0,
+      "text": "train了一个毛老校伙也特别好"
+    },
+    {
+      "end_seconds": 380.0,
+      "id": "youtube-pimbKzfM9DY#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 377.0,
+      "text": "此外还有一个要求是这个数据最好是规整的"
+    },
+    {
+      "end_seconds": 382.0,
+      "id": "youtube-pimbKzfM9DY#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 380.0,
+      "text": "比如说图像的像素是网格"
+    },
+    {
+      "end_seconds": 384.0,
+      "id": "youtube-pimbKzfM9DY#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 382.0,
+      "text": "或者文本语音"
+    },
+    {
+      "end_seconds": 386.0,
+      "id": "youtube-pimbKzfM9DY#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.0,
+      "text": "它本身是一个线性的序列"
+    },
+    {
+      "end_seconds": 387.0,
+      "id": "youtube-pimbKzfM9DY#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 386.0,
+      "text": "这就比较好"
+    },
+    {
+      "end_seconds": 388.0,
+      "id": "youtube-pimbKzfM9DY#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 387.0,
+      "text": "像图不是不能做"
+    },
+    {
+      "end_seconds": 390.0,
+      "id": "youtube-pimbKzfM9DY#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 388.0,
+      "text": "而是就需要更多的处理"
+    },
+    {
+      "end_seconds": 393.0,
+      "id": "youtube-pimbKzfM9DY#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 390.0,
+      "text": "相对来说就不是那么适合用Deep Learning来做"
+    },
+    {
+      "end_seconds": 397.0,
+      "id": "youtube-pimbKzfM9DY#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 393.0,
+      "text": "那啥时候Deep Learning就不适合用来解决这个问题呢"
+    },
+    {
+      "end_seconds": 400.0,
+      "id": "youtube-pimbKzfM9DY#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 397.0,
+      "text": "除了说你没有很多数据或者数据不规整以外"
+    },
+    {
+      "end_seconds": 403.0,
+      "id": "youtube-pimbKzfM9DY#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 400.0,
+      "text": "还有一个是你需要很多interpretability的时候"
+    },
+    {
+      "end_seconds": 408.0,
+      "id": "youtube-pimbKzfM9DY#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 403.0,
+      "text": "或者你需要一个随机性特别小特别可靠"
+    },
+    {
+      "end_seconds": 410.0,
+      "id": "youtube-pimbKzfM9DY#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 408.0,
+      "text": "或者是你没有多少资源"
+    },
+    {
+      "end_seconds": 413.0,
+      "id": "youtube-pimbKzfM9DY#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.0,
+      "text": "计算资源或者是电力来做inference的时候"
+    },
+    {
+      "end_seconds": 414.0,
+      "id": "youtube-pimbKzfM9DY#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.0,
+      "text": "就不是特别适合"
+    },
+    {
+      "end_seconds": 418.0,
+      "id": "youtube-pimbKzfM9DY#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 415.0,
+      "text": "为什么人们就这么喜欢Deep Learning"
+    },
+    {
+      "end_seconds": 419.0,
+      "id": "youtube-pimbKzfM9DY#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 418.0,
+      "text": "它突然就这么火呢"
+    },
+    {
+      "end_seconds": 422.0,
+      "id": "youtube-pimbKzfM9DY#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 419.0,
+      "text": "我觉得不是因为它的performance是最好的"
+    },
+    {
+      "end_seconds": 425.0,
+      "id": "youtube-pimbKzfM9DY#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 422.0,
+      "text": "这是因为任何时间总有个performance最好的算法"
+    },
+    {
+      "end_seconds": 428.0,
+      "id": "youtube-pimbKzfM9DY#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 425.0,
+      "text": "那为啥到Deep Learning时间它突然就引爆了呢"
+    },
+    {
+      "end_seconds": 432.0,
+      "id": "youtube-pimbKzfM9DY#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 429.0,
+      "text": "也不是因为说Deep Learning就解决了一些问题"
+    },
+    {
+      "end_seconds": 434.0,
+      "id": "youtube-pimbKzfM9DY#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.0,
+      "text": "它是强人工智能要来了"
+    },
+    {
+      "end_seconds": 435.0,
+      "id": "youtube-pimbKzfM9DY#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 434.0,
+      "text": "好像也不是"
+    },
+    {
+      "end_seconds": 438.0,
+      "id": "youtube-pimbKzfM9DY#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 436.0,
+      "text": "我的答案是"
+    },
+    {
+      "end_seconds": 441.0,
+      "id": "youtube-pimbKzfM9DY#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 438.0,
+      "text": "它到目前为止还没有出现饱和这个情况"
+    },
+    {
+      "end_seconds": 444.0,
+      "id": "youtube-pimbKzfM9DY#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 441.0,
+      "text": "我偷了一个图来解释这个观点"
+    },
+    {
+      "end_seconds": 445.0,
+      "id": "youtube-pimbKzfM9DY#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 444.0,
+      "text": "啥叫饱和呢"
+    },
+    {
+      "end_seconds": 447.0,
+      "id": "youtube-pimbKzfM9DY#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 445.0,
+      "text": "就以前的Deep Learning算法"
+    },
+    {
+      "end_seconds": 449.0,
+      "id": "youtube-pimbKzfM9DY#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 447.0,
+      "text": "它像这条红线一样"
+    },
+    {
+      "end_seconds": 450.0,
+      "id": "youtube-pimbKzfM9DY#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 449.0,
+      "text": "搞了一段时间"
+    },
+    {
+      "end_seconds": 452.0,
+      "id": "youtube-pimbKzfM9DY#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 450.0,
+      "text": "即使你给它扔更多的数据"
+    },
+    {
+      "end_seconds": 455.0,
+      "id": "youtube-pimbKzfM9DY#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 452.0,
+      "text": "你用更多的算力"
+    },
+    {
+      "end_seconds": 457.0,
+      "id": "youtube-pimbKzfM9DY#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.0,
+      "text": "更复杂的模型"
+    },
+    {
+      "end_seconds": 459.0,
+      "id": "youtube-pimbKzfM9DY#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 457.0,
+      "text": "它performance也可能又涨不上去了"
+    },
+    {
+      "end_seconds": 460.0,
+      "id": "youtube-pimbKzfM9DY#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 459.0,
+      "text": "这就叫saturation"
+    },
+    {
+      "end_seconds": 464.0,
+      "id": "youtube-pimbKzfM9DY#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.0,
+      "text": "Deep Learning到目前为止至少是人有多大胆地有多大产"
+    },
+    {
+      "end_seconds": 466.0,
+      "id": "youtube-pimbKzfM9DY#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 464.0,
+      "text": "你只要有足够的钱来标数据"
+    },
+    {
+      "end_seconds": 470.0,
+      "id": "youtube-pimbKzfM9DY#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 466.0,
+      "text": "有足够的机器来支撑更复杂的算法"
+    },
+    {
+      "end_seconds": 471.0,
+      "id": "youtube-pimbKzfM9DY#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 470.0,
+      "text": "更大的模型"
+    },
+    {
+      "end_seconds": 473.0,
+      "id": "youtube-pimbKzfM9DY#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 471.0,
+      "text": "你就能拿到更好的performance"
+    },
+    {
+      "end_seconds": 475.0,
+      "id": "youtube-pimbKzfM9DY#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 474.0,
+      "text": "所以这个东西"
+    },
+    {
+      "end_seconds": 476.0,
+      "id": "youtube-pimbKzfM9DY#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 475.0,
+      "text": "大公司特别喜欢"
+    },
+    {
+      "end_seconds": 478.0,
+      "id": "youtube-pimbKzfM9DY#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 476.0,
+      "text": "因为它把这个东西"
+    },
+    {
+      "end_seconds": 479.0,
+      "id": "youtube-pimbKzfM9DY#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 478.0,
+      "text": "特别喜欢"
+    },
+    {
+      "end_seconds": 481.0,
+      "id": "youtube-pimbKzfM9DY#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 479.0,
+      "text": "因为它把技术上人才上的竞争"
+    },
+    {
+      "end_seconds": 483.0,
+      "id": "youtube-pimbKzfM9DY#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 481.0,
+      "text": "直接变成了钱上面的竞争"
+    },
+    {
+      "end_seconds": 486.0,
+      "id": "youtube-pimbKzfM9DY#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 483.0,
+      "text": "只要你加三倍的服务器"
+    },
+    {
+      "end_seconds": 489.0,
+      "id": "youtube-pimbKzfM9DY#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 486.0,
+      "text": "我就能拿到更好的product"
+    },
+    {
+      "end_seconds": 491.0,
+      "id": "youtube-pimbKzfM9DY#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 489.0,
+      "text": "这是非常简单的"
+    },
+    {
+      "end_seconds": 492.0,
+      "id": "youtube-pimbKzfM9DY#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 491.0,
+      "text": "他们非常喜欢的"
+    },
+    {
+      "end_seconds": 494.0,
+      "id": "youtube-pimbKzfM9DY#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 492.0,
+      "text": "所以这是一个悖论"
+    },
+    {
+      "end_seconds": 497.0,
+      "id": "youtube-pimbKzfM9DY#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 494.0,
+      "text": "就是Deep Learning它门槛又在变低又在变高"
+    },
+    {
+      "end_seconds": 498.0,
+      "id": "youtube-pimbKzfM9DY#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 497.0,
+      "text": "说变低吧"
+    },
+    {
+      "end_seconds": 499.0,
+      "id": "youtube-pimbKzfM9DY#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.0,
+      "text": "是因为你看"
+    },
+    {
+      "end_seconds": 501.0,
+      "id": "youtube-pimbKzfM9DY#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.0,
+      "text": "高中生都可以train一个model出来"
+    },
+    {
+      "end_seconds": 502.0,
+      "id": "youtube-pimbKzfM9DY#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.0,
+      "text": "说AI model"
+    },
+    {
+      "end_seconds": 504.0,
+      "id": "youtube-pimbKzfM9DY#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 502.0,
+      "text": "同时也不需要做feature engineering"
+    },
+    {
+      "end_seconds": 507.0,
+      "id": "youtube-pimbKzfM9DY#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 505.0,
+      "text": "可能不太需要domain knowledge"
+    },
+    {
+      "end_seconds": 508.0,
+      "id": "youtube-pimbKzfM9DY#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 507.0,
+      "text": "有些时候"
+    },
+    {
+      "end_seconds": 510.0,
+      "id": "youtube-pimbKzfM9DY#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 508.0,
+      "text": "同时它又门槛又在变高"
+    },
+    {
+      "end_seconds": 512.0,
+      "id": "youtube-pimbKzfM9DY#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 510.0,
+      "text": "因为你要是真想把它做成产品"
+    },
+    {
+      "end_seconds": 515.0,
+      "id": "youtube-pimbKzfM9DY#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 512.0,
+      "text": "你需要很多钱去训练"
+    },
+    {
+      "end_seconds": 517.0,
+      "id": "youtube-pimbKzfM9DY#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 515.0,
+      "text": "或者是标数据等等"
+    },
+    {
+      "end_seconds": 519.0,
+      "id": "youtube-pimbKzfM9DY#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 517.0,
+      "text": "所以这玩意还挺矛盾的"
+    },
+    {
+      "end_seconds": 521.0,
+      "id": "youtube-pimbKzfM9DY#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 519.0,
+      "text": "在正式版里面"
+    },
+    {
+      "end_seconds": 524.0,
+      "id": "youtube-pimbKzfM9DY#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 521.0,
+      "text": "我会继续介绍一些Deep Learning相关的模型"
+    },
+    {
+      "end_seconds": 526.0,
+      "id": "youtube-pimbKzfM9DY#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 524.0,
+      "text": "不一定是模型"
+    },
+    {
+      "end_seconds": 527.0,
+      "id": "youtube-pimbKzfM9DY#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 526.0,
+      "text": "可能是一些思路"
+    },
+    {
+      "end_seconds": 529.0,
+      "id": "youtube-pimbKzfM9DY#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.0,
+      "text": "比如说transfer learning"
+    },
+    {
+      "end_seconds": 531.0,
+      "id": "youtube-pimbKzfM9DY#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.0,
+      "text": "representation learning"
+    },
+    {
+      "end_seconds": 533.0,
+      "id": "youtube-pimbKzfM9DY#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.0,
+      "text": "generative model"
+    },
+    {
+      "end_seconds": 536.0,
+      "id": "youtube-pimbKzfM9DY#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 533.0,
+      "text": "像Adversarial Attack"
+    },
+    {
+      "end_seconds": 538.0,
+      "id": "youtube-pimbKzfM9DY#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 536.0,
+      "text": "RN LSTM transformer"
+    },
+    {
+      "end_seconds": 539.0,
+      "id": "youtube-pimbKzfM9DY#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 538.0,
+      "text": "这些东西"
+    },
+    {
+      "end_seconds": 541.0,
+      "id": "youtube-pimbKzfM9DY#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 539.0,
+      "text": "new architecture search"
+    },
+    {
+      "end_seconds": 544.0,
+      "id": "youtube-pimbKzfM9DY#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 542.0,
+      "text": "这次时间不够"
+    },
+    {
+      "end_seconds": 545.0,
+      "id": "youtube-pimbKzfM9DY#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 544.0,
+      "text": "就暂时先这样"
+    },
+    {
+      "end_seconds": 547.0,
+      "id": "youtube-pimbKzfM9DY#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.0,
+      "text": "总结一下刚才说了啥"
+    },
+    {
+      "end_seconds": 550.0,
+      "id": "youtube-pimbKzfM9DY#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.0,
+      "text": "Deep Learning为什么12年左右突然work呢"
+    },
+    {
+      "end_seconds": 553.0,
+      "id": "youtube-pimbKzfM9DY#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 550.0,
+      "text": "我觉得主要是因为有GPU的算力"
+    },
+    {
+      "end_seconds": 555.0,
+      "id": "youtube-pimbKzfM9DY#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 553.0,
+      "text": "有大规模的数据集"
+    },
+    {
+      "end_seconds": 557.0,
+      "id": "youtube-pimbKzfM9DY#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.0,
+      "text": "以及解决了gradient vanishing的问题"
+    },
+    {
+      "end_seconds": 559.0,
+      "id": "youtube-pimbKzfM9DY#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.0,
+      "text": "啥时候用Deep Learning好呢"
+    },
+    {
+      "end_seconds": 562.0,
+      "id": "youtube-pimbKzfM9DY#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 559.0,
+      "text": "在有大规模的数据和规整数据结构的情况下"
+    },
+    {
+      "end_seconds": 563.0,
+      "id": "youtube-pimbKzfM9DY#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 562.0,
+      "text": "为什么大家"
+    },
+    {
+      "end_seconds": 565.0,
+      "id": "youtube-pimbKzfM9DY#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 563.0,
+      "text": "尤其是大公司喜欢Deep Learning的数据"
+    },
+    {
+      "end_seconds": 568.0,
+      "id": "youtube-pimbKzfM9DY#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 565.0,
+      "text": "是因为到目前为止还没有看到它饱和的迹象"
+    },
+    {
+      "end_seconds": 569.0,
+      "id": "youtube-pimbKzfM9DY#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 568.0,
+      "text": "好"
+    },
+    {
+      "end_seconds": 571.0,
+      "id": "youtube-pimbKzfM9DY#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 569.0,
+      "text": "今天就到这吧"
+    },
+    {
+      "end_seconds": 573.0,
+      "id": "youtube-pimbKzfM9DY#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.0,
+      "text": "我回头会把这个slides放出来"
+    },
+    {
+      "end_seconds": 574.0,
+      "id": "youtube-pimbKzfM9DY#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 573.0,
+      "text": "里面"
+    },
+    {
+      "end_seconds": 575.0,
+      "id": "youtube-pimbKzfM9DY#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 574.0,
+      "text": "后面有reference"
+    },
+    {
+      "end_seconds": 578.0,
+      "id": "youtube-pimbKzfM9DY#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 575.0,
+      "text": "感兴趣的话可以读一下里面具体的paper"
+    },
+    {
+      "end_seconds": 580.0,
+      "id": "youtube-pimbKzfM9DY#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.0,
+      "text": "等到正式版的时候"
+    },
+    {
+      "end_seconds": 582.0,
+      "id": "youtube-pimbKzfM9DY#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 580.0,
+      "text": "我再看做另外一个视频出来吧"
+    }
+  ],
+  "video_id": "pimbKzfM9DY",
+  "yuzheng_stance_weight": "not-evidence"
+}

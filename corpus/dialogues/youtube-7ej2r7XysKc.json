@@ -1,0 +1,1339 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-7ej2r7XysKc",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-02-14T15:32:17Z",
+  "participant_aliases": [
+    "Shuchao Bi"
+  ],
+  "participant_entity_ids": [
+    "guest:shuchao-bi"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Shuchao Bi",
+  "public_verified_at": "2026-10-11T01:52:32.295519+00:00",
+  "published_at": "2025-02-14",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "2aedb83dbf3d67b97234ec76077d84542ad15a9beeb068aeeefdbae69a9a2e6e",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "2b0fbaa66ccfce76bbc723ef3f64bc96146738a5adce7e4d734b76c7150c9c9a",
+    "root_receipt_sha256": "daed09d1f060543bd8a6e3ece6507fc0238dad6118524f4c5c47977572943bd2",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=7ej2r7XysKc",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=7ej2r7XysKc",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "Shuchao BI: 创立YouTube Shorts的故事，如何预测科技趋势，在大厂创新的领导力 | 对话 Shuchao 1/3",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 18.582,
+      "id": "youtube-7ej2r7XysKc#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "没有经济基础是没办法谈科研的。新的卖家、新的供给方，上面找不到成功的话，这个生态很快就枯萎了。这个也好，这个也好，这个也对，这个也对。那你要选一个而不选另一个，这个时候你是怎么做这个策略？任何科技的产生都有它不好的地方，但我们不能只盯着它不好的地方。这四点理由，我们觉得短视频一定会是未来。有的 being territorial 的人。"
+    },
+    {
+      "end_seconds": 39.162,
+      "id": "youtube-7ej2r7XysKc#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.582,
+      "text": "就会过来侵占你的 scope，你会怎么处理呢？Shorts 现在做成功了，作为这里边的元老，你选择离开的原因是什么？人的魔鬼卫生证身份证，树超，欢迎你。嗯，我给大家准备了两句话的介绍，就第一，你是创办了 YouTube Shorts 的人；第二呢，就是前几天 OpenAI 十二个发布里边，你的团队占了五个，有一点噱头感觉。"
+    },
+    {
+      "end_seconds": 54.562,
+      "id": "youtube-7ej2r7XysKc#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.162,
+      "text": "就有点可能有点高调，对，肯定有噱头。然后，如果你不说噱头的话，大家就没有兴趣去了解后面说的东西了。好的，我就想把这两个正好拆成两个话题去聊，因为这两个话题都挺大的。第一个就是 YouTube Shorts，啊。"
+    },
+    {
+      "end_seconds": 82.742,
+      "id": "youtube-7ej2r7XysKc#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.562,
+      "text": "我们当时是在 Clubhouse 上，就是听说了你这个故事嘛。当时简单听了一下，那个时候你就是非常这个 bullish on shorts。然后当时我其实那个时候我在 Meta 嘛，然后 Meta 我内部已经听到很多讨论了，就大家觉得 TikTok 是个非常大的竞争，然后觉得 TikTok 非常厉害。Instagram Reels 是过一段时间才 launch 的，但是在那之前有一个好像是 Lasso，对，Lasso 加拉丁美洲，然后做的不成功，后来又做 Reels，就是 Facebook 已经非常重视了。"
+    },
+    {
+      "end_seconds": 103.794,
+      "id": "youtube-7ej2r7XysKc#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.742,
+      "text": "但是从你的当时的那个话听起来呢，Google没有形成一个 consensus，就是 Google 在你做的时候，就是他不觉得这个 Shorts 对他的现现有生态是一个很大的威胁，或者它是一个非常大的未来。这是我的 impression 啊。所以说，这让我想到了，我刚刚介绍了你说你 founded YouTube Shorts，或者说 co-initiate YouTube Shorts。"
+    },
+    {
+      "end_seconds": 115.501,
+      "id": "youtube-7ej2r7XysKc#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.794,
+      "text": "很多人就会觉得啊，你运气真好，你是站在了这个风口上，然后你踩中了一个很很幸运的大舞台。但是我听你一开始的故事和看你的朋友圈。"
+    },
+    {
+      "end_seconds": 135.208,
+      "id": "youtube-7ej2r7XysKc#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.501,
+      "text": "觉得这其实是一个非常艰辛和一个在硅谷内部非共识的一件事情，是靠你自己把它往前推，呃，Shorts才走到了今天这一步。我不知道这个感觉对不对？呃，我可以稍微介绍一下Shorts是呃怎么起来的，其实挺偶然的。我不知道从什么时候开始说起了，有些说故事就长了，我们就说Shorts吧，之前。"
+    },
+    {
+      "end_seconds": 156.536,
+      "id": "youtube-7ej2r7XysKc#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.208,
+      "text": "可能等会儿再说。我到YouTube之后，让我负责的一个产品叫YouTube Stories，我团队是负责Discovery和Infrastructure。其实我去呃YouTube挺偶然的，因为我对YouTube的呃几个高层比较比较信任，其实也没有聊特别多，说具体要做什么，然后就给了我这么一个肉。过去的第二周，我记得很清楚，跟我的一个团队成员，我们俩在一个。"
+    },
+    {
+      "end_seconds": 182.962,
+      "id": "youtube-7ej2r7XysKc#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 156.536,
+      "text": "小黑屋里面一个一个会议室里面待了一下午，我把所有的那个产品的数据看了一遍。Stories就是和呃 Instagram Story 和 Snapchat Story 类似的产品。然后我后来发现啊，这个产品的 YouTube 的天花板实在是太低了，因为它是一个搜索产品，它的 Supply 和 Demand 是严重失衡的，在 YouTube 的这样的 ecosystem 下面。然后当时我就，是 Demand 太高，Supply 太低？呃，没有 Demand 也没有 Supply。"
+    },
+    {
+      "end_seconds": 199.682,
+      "id": "youtube-7ej2r7XysKc#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 182.962,
+      "text": "对，然后，然后当时是人为人为的创造了一些地脉，所以我觉得哦，当时我们最大的问题是要创建这种permanent content，而不是这种stories阅后即焚的内容。然后，因为阅后即焚内容是没有，它只有很强的社交平台才能做起来。"
+    },
+    {
+      "end_seconds": 222.812,
+      "id": "youtube-7ej2r7XysKc#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 199.682,
+      "text": "呃，因为它的这个内容是不积累的。后来我就比较系统地研究了一下中国和美国的视频的发展历史，就视频平台的发展历史，就很有意思。当时我还写了写了一篇公众号，一九年的时候，就是在对比中美两国视频发展、视频平台为什么这么发展呢？就是有这么几个趋势。第一个趋势就是这个创作的门槛越来越低，从呃电影。"
+    },
+    {
+      "end_seconds": 238.324,
+      "id": "youtube-7ej2r7XysKc#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.812,
+      "text": "呃，电视剧到这个长视频平台，到短视频平台，它的创作门槛是越来越低的。你是要一个大导演才能做电影之前，呃，慢慢的你你是一个比较小规模的制作一个电视剧也可以可以做了。呃，两千零五零六年开始。"
+    },
+    {
+      "end_seconds": 267.734,
+      "id": "youtube-7ej2r7XysKc#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.324,
+      "text": "呃，在美国，其实主要是美国练成了，你只要有一个那个专业的这个摄像机和视视频编辑的这个能力，也可以做了。其实两千零五、零六、零七年这些时候，中国也有很多类似YouTube的这个网站，优酷啊、土豆这些。其实这些本质意义上都做的，呃，在UGC上面都做失败了。他们后来都转向了做电影、电视啊，做IP这些。最本质的原因，我我当时得出来的就是。"
+    },
+    {
+      "end_seconds": 295.372,
+      "id": "youtube-7ej2r7XysKc#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.734,
+      "text": "学习研究得出来的结论是说，当时中国是不存在创作者生态的，因为创作门槛太高。就是零五零六年的中国是没有多少人有专业的摄像机和专业的视频编辑软件能力的。在桌面端，编辑软件确实对。确实，我当时想这个东西对美国适不适用，但是后来想，美国起码大家都有编辑软件，而且就是它的这个视频整个的生态已经很久了，所以说相应的人才总是有的。但中国确实这方面还是很少。"
+    },
+    {
+      "end_seconds": 315.612,
+      "id": "youtube-7ej2r7XysKc#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 295.372,
+      "text": "我说一个很很好玩的例子吧，就是我不知道你你知不知道后舍男孩，就中国的第一代网红。不知道，我上研究生的时候，还大学的时候，他们就特别火，他们就lip sync后街男孩的歌。他们当时拍的那个视频质量是极差的，也不是剪辑出来的，就是一气呵成。后来就特别有意思的故事是什么呢？"
+    },
+    {
+      "end_seconds": 330.46,
+      "id": "youtube-7ej2r7XysKc#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 315.612,
+      "text": "我们当时把这其中一部分研究，我同时会说其他的几个理由。接着说这个历史，就为什么短视频首先这个发生在中国呢？这个大面积起来，就是因为就 U T C 的视频创作和消费没有被满足这种需求。"
+    },
+    {
+      "end_seconds": 345.839,
+      "id": "youtube-7ej2r7XysKc#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 330.46,
+      "text": "因为中国的长视频平台没有用起CG故事，就是很自然的呢。我要等到这个创作门槛下降的时候才会起来。那什么时候创作门槛下降了呢？手机，就每个人都有一个很好的摄像头，每个人都有很好的视频编辑，在这个。"
+    },
+    {
+      "end_seconds": 368.391,
+      "id": "youtube-7ej2r7XysKc#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 345.839,
+      "text": "手机上的能力了，那好，那 U G C 一下就起来了，快手站在了这样这样一个位置上面。快手其实以前做 GIF，其实也是一个特别好的 idea，是。然后，但是后来就短视频突然突然就起来了，我觉得这是历史的这个必然，尤其是快手的快手增长是在中国的四 G unlimited plan 出来之后，就大家不停的可以可以低成本的刷手机了，就是在这个时间节点。"
+    },
+    {
+      "end_seconds": 379.852,
+      "id": "youtube-7ej2r7XysKc#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.391,
+      "text": "卡得特别好。单看某件事情都是偶然，那这也是历史的必然。这个市场肯定要有有个产品去满足。当时特别有意思，你可以看《后舍男孩》的这个创作根本就不专业。"
+    },
+    {
+      "end_seconds": 387.244,
+      "id": "youtube-7ej2r7XysKc#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.852,
+      "text": "相对于YouTube的视频，YouTube这个博主的标配是专业的摄像机，当时加一个专业的视频编辑软件嘛。"
+    },
+    {
+      "end_seconds": 413.062,
+      "id": "youtube-7ej2r7XysKc#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 387.244,
+      "text": "然后那时候零五零六零七年那时候中国是没有的。后来就这个一故事特别有意思呢。我们当时给呃当时YouTube CEO Susan那个今年其实去世了，他特别好的一个CEO，看这个就是中国视频平台发展历史的时候，Susan说：“哦，我记得这两个男孩，为什么呢？他们lip sync的一个歌曲叫《I Want It That Way》，是后舍男孩的歌，是YouTube上面第一个超过一百万有机播放量的视频。”"
+    },
+    {
+      "end_seconds": 434.212,
+      "id": "youtube-7ej2r7XysKc#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.062,
+      "text": "而且当时对 Google 收购 YouTube 产生了很大的影响，就是这是一个故事的闭环，就特别有意思。当时中国我忘了是广州美院还是哪哪哪有两个大学生，这个影响了 Google 收购 YouTube，因为大家觉得哦这就是创作的创作的未来。而且特别好玩的另外一点就历史的闭环呢，这两个人也是从 Lip Sync 开始的。"
+    },
+    {
+      "end_seconds": 463.81,
+      "id": "youtube-7ej2r7XysKc#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 434.212,
+      "text": "TikTok之前的前身就是也是从lip sync开始，其实lip sync是一个非常这个viral的东西，对，非常viral的东西。嗯，然后这是从第一个，就是从创作的角度来讲，我们觉得大势是创作门槛越来越低，短视频平台肯定会起来。就短视频的另外一个意思，你可以理解成是手机创作的视频，在最开始的时候。第二个呢，我们就谈到从消费趋势上来讲，很多长视频平台的这个时长跟可能Facebook的时长这种feed。"
+    },
+    {
+      "end_seconds": 480.409,
+      "id": "youtube-7ej2r7XysKc#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 463.81,
+      "text": "产品的时长是总时长是差不多的，但他们的广告的营收可能只有在同样的时间下只有Facebook的三分之一到五分之一，因为Facebook是一个就这种feed流产品和社交产品，它更多是一个用户可以每天打开十几次、几十次的产品。"
+    },
+    {
+      "end_seconds": 509.302,
+      "id": "youtube-7ej2r7XysKc#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 480.409,
+      "text": "然后长视频平台呢，大家可能就打开个两三次一天。然后有一个不恰当的比喻，就是这个长视频平台更多的是一个呃正餐，叫大家吃早饭、中饭、晚饭，对吧？这个短视频呢，应该是零食。你看一天吃几十次零食，你让QQ视频的老大去说抖音是主食啊？抖音是主食。呃，我们回到刚才说这个，你提到这这一个观点啊，因为当时也有很多反对的声音，我可以可以讲一下，我我个人觉得是什么样一个。"
+    },
+    {
+      "end_seconds": 525.044,
+      "id": "youtube-7ej2r7XysKc#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 509.302,
+      "text": "什么立场了？所以我们觉得这样的消费模式会更好，然后它也是一个更能够让用户得到满足的产品。我这儿先埋一个点啊，你一会儿说你的，然后我就，但是我先埋一个，以防我忘了，就是站在那个一九年、二零年的节点。"
+    },
+    {
+      "end_seconds": 533.638,
+      "id": "youtube-7ej2r7XysKc#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.044,
+      "text": "你会看到国内和美国的讨论，国内抖音已经起来了嘛，然后大家已经开始研究快手和抖音的生态，然后已经有比较共识的认知。"
+    },
+    {
+      "end_seconds": 556.762,
+      "id": "youtube-7ej2r7XysKc#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 533.638,
+      "text": "你跟国内的一个大厂PM去聊抖音和快手是怎么回事，他们都能跟你说这个东西为什么牛逼。但是在美国，你看你要从头去做，你要去出这个文章，就是你作为一个engineer的leader，对吧？他不是这个YouTube的CEO去做这件事儿，CEO去做这件事儿，也不是一个PM去做这件事儿，而是你，就是你的这个认知在当时的YouTube里边内部是非常领先的，这就让我。"
+    },
+    {
+      "end_seconds": 583.272,
+      "id": "youtube-7ej2r7XysKc#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 556.762,
+      "text": "在想就是这个背后是怎么回事儿，以及为什么一会儿要讲的 leadership principle 嘛，就是为什么你作为一个 engineer manager，你会去想这些 strategy 的东西。不过我们先把这个问题放下，我们先继续你的这一条。我可以简短说一下，其实每个公司文化不太一样。Google 是一个 engineer 追问的公司，就是一个好的 engineer engineer 的肯定是要是一个好的产品经理和这个好的 program manager。其实每个公司的这个。"
+    },
+    {
+      "end_seconds": 598.061,
+      "id": "youtube-7ej2r7XysKc#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 583.272,
+      "text": "这个调性可能不太一样，比如说有些 research line，它是 research 驱动的公司，就 research 这边的话语权要高很多。我们回到刚才的刚才的故事，就是第一个，我们觉得短视频肯定是未来，就是从创作门槛越来越低的历史趋势来看；第二个呢，是它是一个更好的消费模式。"
+    },
+    {
+      "end_seconds": 616.618,
+      "id": "youtube-7ej2r7XysKc#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 598.061,
+      "text": "从消费端来看，然后第三个呢，是它变现效率极高。就刚才我们说到，它其实更像是一个呃 social network 里面的 fee。嗯，然后它的变现效率，即使不加上国呃国内的玩法，这套直播和卖货，它也这个比这个长视频的变现效率高，它三到五倍，加上直播和卖货，可能就是五到七倍了。"
+    },
+    {
+      "end_seconds": 629.599,
+      "id": "youtube-7ej2r7XysKc#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 616.618,
+      "text": "甚至更高，对吧？就是现在是这样的吗？就是我觉得我我自己作为创作者，在 YouTube Shorts 里面得到的分成很少。就是如果我们抛去商单啊，你说的应该是广告的效率。然后现在是这样的吗？因为因为。"
+    },
+    {
+      "end_seconds": 642.004,
+      "id": "youtube-7ej2r7XysKc#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 629.599,
+      "text": "TikTok的这个变现效率比Instagram还差很远。我觉得在海外可能不如国内那么夸张，但是你相对同一个小时，呃，你对比这个长的视频和短的视频。"
+    },
+    {
+      "end_seconds": 652.924,
+      "id": "youtube-7ej2r7XysKc#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 642.004,
+      "text": "这个短的视频的变现效率要高很多很多，因为你在长视频里面放广告是非常不自然的。比如说，在用户想点开的时候，你插几个广告，或者在中间插几个广告，对用户的打扰度非常高。"
+    },
+    {
+      "end_seconds": 681.602,
+      "id": "youtube-7ej2r7XysKc#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 652.924,
+      "text": "那短视频呢，其实更像这个 feed，更像这个 social 的这种 feed。你其实每一个都有一个很自然的断点，你这个划过去不会感觉到你你非常的受打扰。然后，呃，第三个我觉得就是短视频是未来的一个一个原因，是因为其实变现，不管是在前沿的研究，其实到最后都都要有一个好的变现机器，它才能维持你长期的投入。就甚至这一波大模型一样，就是一定要有一个很好的就是。"
+    },
+    {
+      "end_seconds": 703.28,
+      "id": "youtube-7ej2r7XysKc#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 681.602,
+      "text": "大家靠信仰可以支撑几年、几十年的研究，但是你看历史上过去几千年人类历史上的很多研究都是在极其富裕的情况下产生的，你就没有经济基础是没办法谈谈科研的。然后第四个呢，我们觉得短视频是未来的一个原因，是从生态的角度来讲，短视频可以造就一个基尼系数更低的生态。"
+    },
+    {
+      "end_seconds": 721.243,
+      "id": "youtube-7ej2r7XysKc#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 703.28,
+      "text": "呃，为什么呢？因为它创作门槛的持续下降，使得越来越多的人可以成为创造者。历史的角度来看，和互联网产品，比如说雅虎和谷歌的本质区别是什么？是谷歌的分发更长尾。然后大家一直觉得长尾不重要，其实不是的。雅虎是把你最常用的，比如一百个网站放在那边导航。"
+    },
+    {
+      "end_seconds": 749.448,
+      "id": "youtube-7ej2r7XysKc#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 721.243,
+      "text": "但谷歌可以把后面这个几亿个网站帮你帮你弄出来，这个场这个力量是巨大的。它的基尼系数要远低于雅虎。然后你再从中长视频到短视频，它的基尼系数也在降低。那基尼系数越低，不管是从社会学还是从这个互联网生态，它的产品的活力是越高的。就你就像小红书为什么成功？小红书是一个基尼系数极低的一个产品生态，这是非常非常好的，而不是说这个一两个网红或前十名网红，它它 dominate。"
+    },
+    {
+      "end_seconds": 764.539,
+      "id": "youtube-7ej2r7XysKc#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 749.448,
+      "text": "这个整个的流量，那其实对于平台来说是非常非常不好的。我们当时在做电商的时候也是这种感觉，就是你激励系数高了以后，就是几个大头，然后这个生态就死掉了。呃，新的卖家、新的供给方在这上面找不到成功的话，这个生态很快就枯萎了。"
+    },
+    {
+      "end_seconds": 781.153,
+      "id": "youtube-7ej2r7XysKc#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 764.539,
+      "text": "一定要不断的有新鲜血液。回到刚才你说的，就就是这这是四点理由，我们觉得短视频一定会是未来。我我还带了YouTube一些人，我们去上海待了一周，其实做了用户调研，采访了抖音的十六个创作者，当时就四个比较大的，八个中间的，四个比较小的。"
+    },
+    {
+      "end_seconds": 796.825,
+      "id": "youtube-7ej2r7XysKc#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 781.153,
+      "text": "然后当时还挺挺有意思的，就在那个梅龙镇广场，以前经常去的那个大使馆的那栋楼，对，我们在那个大使馆的楼上，还是楼上几层，我们请了一个第三方公司嘛，就很有意思，他们就是这种调研的时候是一个单面玻璃，就跟审讯室是类似的。"
+    },
+    {
+      "end_seconds": 813.266,
+      "id": "youtube-7ej2r7XysKc#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 796.825,
+      "text": "然后那边有个翻译，他其实也不知道是谁在问他问题，各种，其实挺好玩的一次调研经历。回来给大家出的报告，就是大家都极为震惊，中国的短视频已经已经发展得这么的领先了，就是创作者生态来说。你提了一点特别有意思，你说谁的哪哪个人说说抖音是猪市？"
+    },
+    {
+      "end_seconds": 829.708,
+      "id": "youtube-7ej2r7XysKc#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 813.266,
+      "text": "对吧？立场特立，立场对吧？他的立场，我觉得我们提出这个想法，就很多人 challenge 我，就是他问的问题是：树超，Are you building something good for the society or for the human mankind？我我其实很难回答这个问题，但是我举了几这么几个例子。第一个例子呢是说。"
+    },
+    {
+      "end_seconds": 844.222,
+      "id": "youtube-7ej2r7XysKc#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 829.708,
+      "text": "呃，我觉得这个短视频里面有很多很好的内容，包括很多数学证明（mathical visual proof），很多IT的Physics Lab有一个物理实验的频道，特别好看。然后也有很多平常看不到的，也比如长视频看不到的内容。"
+    },
+    {
+      "end_seconds": 869.361,
+      "id": "youtube-7ej2r7XysKc#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 844.222,
+      "text": "现在的话，平均每人一天可能消费五到十个长视频，但可能消费五百个短视频。然后，这五百短视频使得你的你的视野可以非常非常的广。比如说，有一段时间我特别沉迷于这种工厂里面的这种机械是怎么工作的，比如说你的旅行箱是怎么制作的，你一般是看不到的，只有说那里面的工人拿手机拍到了。你不会看一个长视频，然后这样使得你的这个你的人生阅历会变得很很丰富。其实我觉得它有它。"
+    },
+    {
+      "end_seconds": 883.666,
+      "id": "youtube-7ej2r7XysKc#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 869.361,
+      "text": "好处的地方，当然，这些人challenge它的原因是说，哦，它会使人的这种attention span变短，那就是可能是不是会对人类社会变成不好的影响？我觉得也不一定，因为我我们这代人是伴随着游戏机长大的。"
+    },
+    {
+      "end_seconds": 905.027,
+      "id": "youtube-7ej2r7XysKc#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 883.666,
+      "text": "那我父母这代人就老觉得，哦，你们这代人打游戏浪费了太多的时间了，就是垮掉的一代。但其实也没有，我觉得我对社会的贡献也挺大的。长大之后，所以我觉得保持一个 open mind 的心态很重要，就是在趋势面前一定要 yes 倾势，而不是老是挑它。任何科技的产生都有它不好的地方，但我们不能只盯着它不好的地方。"
+    },
+    {
+      "end_seconds": 917.115,
+      "id": "youtube-7ej2r7XysKc#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 905.027,
+      "text": "嗯，我就是要多说一些啊，提供一些想讨论，因为我知道观众他这里就会有很多问号，或者说很多这个带着自己情绪的。嗯，我自己作为一个经济，我我自己是一个 econ PhD 嘛。"
+    },
+    {
+      "end_seconds": 937.971,
+      "id": "youtube-7ej2r7XysKc#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 917.115,
+      "text": "然后，精细他一般是喜欢这种，就是negative和positive的这个说法，就是我们不带judgment。大家嘴上说我要学习，但是刷的都是小姐姐视频，那你应该给大家小姐姐视频，而不是去给大家嘴上说的那个学习学习的东西。但是我可能更关注的视角是，我们有一派人。"
+    },
+    {
+      "end_seconds": 951.259,
+      "id": "youtube-7ej2r7XysKc#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 937.971,
+      "text": "Effective accelerator吧，就是这种降临派，他是就觉得就对嘛，就是技术来了以后，你应该去拥抱技术，然后你在这里边呃去阻挡它。首先，你凭什么阻挡它？你凭什么觉得这个是好的，那个是坏的？就是你也没有一个上帝视角。"
+    },
+    {
+      "end_seconds": 969.414,
+      "id": "youtube-7ej2r7XysKc#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 951.259,
+      "text": "你也不能去替其他人做决定。既然别人已经用他们的行为做了决定，以后你应该尊重大家的决定。这个是我的想法，但是这个想法并不是一个 popular 的想法，因为这个世界上大家喜欢别人来替我做决定，或者起码我可以 blame 别人 for the consequence of my own choices。"
+    },
+    {
+      "end_seconds": 983.94,
+      "id": "youtube-7ej2r7XysKc#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 969.414,
+      "text": "所以说，就会有人去说你不应该给其他人这些 content，然后另外的一些人就是说，对平台不应该给我这些 content，虽然我天天刷的都是这些 content。那这个在你推行这个 initiative 的时候，会是一个非常大的阻力。"
+    },
+    {
+      "end_seconds": 1008.781,
+      "id": "youtube-7ej2r7XysKc#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 983.94,
+      "text": "因为越是身居高位的人，我觉得，或者说越是 voice 大，就这种人的声音，你没有办法去反驳他们，他们说的是对的，但是你很难反驳他们。那你除了去有一些就是 positive 的方面以外，你当时还遇到了什么样的阻力，和你是怎么样去处理这些阻力的？我觉得我们一是就质疑的阻力，说这件事情到底对社会是不是好事情，对吧？"
+    },
+    {
+      "end_seconds": 1021.895,
+      "id": "youtube-7ej2r7XysKc#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1008.781,
+      "text": "然后第二个呢，是说，比如说当时我们遇到的最大的一个困难是冷启动。我们是二零年的一月份还是二月份上线的？就在疫情前两三周就上线之后，两三周就疫情了，在家工作了。"
+    },
+    {
+      "end_seconds": 1036.214,
+      "id": "youtube-7ej2r7XysKc#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1021.895,
+      "text": "然后其实很神奇的一个体验。我们前四五个月的这个产品质量是极差的。然后那个时候每一周我会把用户给我们的反馈都看一遍，因为那时候用户少，就自己看着看得过来的，不需要有人拿模型去处理。"
+    },
+    {
+      "end_seconds": 1063.534,
+      "id": "youtube-7ej2r7XysKc#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1036.214,
+      "text": "然后有一个人说，呃，usual all engineers working this product就是产品的质量坏到这种程度，为什么呢？因为没有需求，也没有供给。本质原因是没有好的供给。所以我们大概花了四五个月的时间去 figure out 怎么去冷启动。有很多的时候，就是在产品很差的情况下，你的压力也很大，就是阻力也很大。那当时我的谈判的技巧就是给我们一定的时间，比如给我一年的时间，我们能做到什么程度？如果我们做不到什么程度，我们愿意去放弃这样一个程。"
+    },
+    {
+      "end_seconds": 1071.562,
+      "id": "youtube-7ej2r7XysKc#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1063.534,
+      "text": "所以这一年的时间，其实就是给了我们很多一年的这个 exploration。谈判的对象是谁？这是个多高层级的人。"
+    },
+    {
+      "end_seconds": 1098.903,
+      "id": "youtube-7ej2r7XysKc#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1071.562,
+      "text": "呃，这个可能就不太，不太说了吧。可能在 Google 待了，比如说二十年、二十五年这样的人。我问这个问题的原因是 YouTube Shorts，因为我可能在 Meta，我知道这件事情在 Meta 的优先级有多高，所以说我会以为它是一个整个 Google 或者 YouTube 战略级的东西，只许成功不许失败。所谓这个意思就是说，我这件事儿一定是要做的，只不过换不同的团队来做，这个团队做不好，换一个团队，但是总是是一刀做成的。"
+    },
+    {
+      "end_seconds": 1115.767,
+      "id": "youtube-7ej2r7XysKc#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1098.903,
+      "text": "嗯，但是这种情况也不一定能完全能做成。比如说腾讯想做短视频，就一直没有做成。可是听起来你当时是 Google 或者 YouTube 在这上面的唯一的一个 bet，且如果说你的这个东西没有做起来的话，YouTube Shorts 可能就不存在了，是这样吗？"
+    },
+    {
+      "end_seconds": 1131.338,
+      "id": "youtube-7ej2r7XysKc#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1115.767,
+      "text": "Shorts是我们initiated出来的，就当时从story开始，我们觉得story的产品必须要pivot，否则会就天花板太低了。嗯，然后没有自上而下的这样一些bad或者任何地方，好难这样做。"
+    },
+    {
+      "end_seconds": 1160.652,
+      "id": "youtube-7ej2r7XysKc#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1131.338,
+      "text": "就是自下而上的去达成一个战略产品这件事情，那你是怎么样子？就是它这个有另外一个问题，另外一个问题就是说，它在整个公司的战略角度上来说是非常非常重要的。你在 Linky 上也提到了，就是这个 P 柴，它在 Early News Report。当你们做成了以后，那就是之后的事情。就是做成了以后，所有的人都会上传，这就是另外一个问题。就是我也经历过这样的事情，就是嗯，你在最需要大家帮助的时候，没有人帮你；你在最需要大家帮助的时候，大家都来挑战你。"
+    },
+    {
+      "end_seconds": 1175.409,
+      "id": "youtube-7ej2r7XysKc#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1160.652,
+      "text": "但是你一做成了以后，所有人都说哇，然后全都过来report是你的这个成就。那你在最需要帮助的那个时候是怎么样子挺过来的？然后你又是怎么能把它一路捅到那么高，把它赶上？"
+    },
+    {
+      "end_seconds": 1190.442,
+      "id": "youtube-7ej2r7XysKc#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1175.409,
+      "text": "我觉得可能不是特别 fair，是说没人帮助我。其实有特别特别多多人的帮助我，只是说也有很多人去质疑这件事情。我们刚才只说了质疑的一部分，那其实有特别多 YouTube 的，包括 CEO 是非常支持这些项目。"
+    },
+    {
+      "end_seconds": 1214.713,
+      "id": "youtube-7ej2r7XysKc#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1190.442,
+      "text": "但是有经常会有人challenge，有人反对，说这样这样不好，或这样做不成，这样不是一个好的方向。刚开始做一九年底到二一年，把也就是前两年，那你觉得顺利吗？我觉得还行，就是我们第一就是团队还不错，我们招人招了很厉害的人，然后慢慢的把这个产品做起来。当时招人标准还挺高的，即使Google内部的transfer。"
+    },
+    {
+      "end_seconds": 1226.796,
+      "id": "youtube-7ej2r7XysKc#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1214.713,
+      "text": "我大概面试五到二十个人才招一个，所以你可以想象我们团队的这个平均水平可能是Google的at least top ten percent。嗯，而且我招人的时候很很看重的一点是，他是不是有同样的vision。"
+    },
+    {
+      "end_seconds": 1244.712,
+      "id": "youtube-7ej2r7XysKc#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1226.796,
+      "text": "就是他们觉得，是不是短视频一定会是未来，而且是一个对社会有益的未来？他不管再厉害的，他认认同这样一个一个vision，他才可能把这件事情做好。是，就是mission driven的能量要比其他的都重要。对对对，你说的这个厉害的团队是推荐方面的团队的。"
+    },
+    {
+      "end_seconds": 1264.553,
+      "id": "youtube-7ej2r7XysKc#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1244.712,
+      "text": "呃，推荐搜索视频理解啊，这些把一个短视频产品做起来背后的技术，产品本身就是这个 YouTube Shorts 到底是一个什么样的形态出现在 Feed，然后你怎么样去 Prompt 创作者去上传，呃 Shorts，你怎么样做 Communication，然后你怎么样子去运营这样一个就是 Supply Demand 的 Balance 吧。"
+    },
+    {
+      "end_seconds": 1276.416,
+      "id": "youtube-7ej2r7XysKc#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1264.553,
+      "text": "这些东西是你们用工程的方式解决的，还是也有对应的这种产品团队去专门解决这个问题？大部分是一块儿解决吧，包括什么样的入口，我们最开始。"
+    },
+    {
+      "end_seconds": 1301.279,
+      "id": "youtube-7ej2r7XysKc#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1276.416,
+      "text": "从一九年开始，我们想要的一个入口是给我们一个 tap，嗯，但是这件事情可能持续了一年半，可能两年之后，我们才得到了一个 tap。最开始的入口就是在这个主页上面，偶尔会有你可以点进去去消费，没有一个特别 deterministic 的入口。当时我们做成了之后，产品到一定的量级了，才拿到了一个特别 deterministic 的入口。另外一点，我想说明的一个可能就是，刚才我们太过于强调，有一些反对的声音，但其实。"
+    },
+    {
+      "end_seconds": 1323.607,
+      "id": "youtube-7ej2r7XysKc#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1301.279,
+      "text": "在这个过程中，我们得到了大部分人的帮助，包括 YouTube 内部，包括 YouTube 外，我们跟那个 Google Brain 合作的非常非常多，那边非常多的团队给我们了很大的帮助，包括怎么去做视频的理解，怎么去做推荐的模型。其实最终 Convert 的结果，我把它叫做第四代推荐系统，其实跟大模型非常非常的像，有一个类似于 Pretrain 的阶段。"
+    },
+    {
+      "end_seconds": 1331.67,
+      "id": "youtube-7ej2r7XysKc#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1323.607,
+      "text": "然后有一个类似于RL的阶段去做探索，就我当时大概给推荐系统分了一个这个几代，然后我觉得我们把它当成是第四代。"
+    },
+    {
+      "end_seconds": 1351.982,
+      "id": "youtube-7ej2r7XysKc#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1331.67,
+      "text": "这个double click嘛，你来讲一下这四代分别是什么，它们特征是什么？我看我能不能记清楚啊。第一代呢，我们觉得是基于内容的推荐，呃，就把各种内容打标，哦，这个是action movie，这个是romance，这个是什么，对吧？通过这个clarity filtering，通过矩阵分解啊，就帮你推荐这个类似的这个电影或。"
+    },
+    {
+      "end_seconds": 1363.435,
+      "id": "youtube-7ej2r7XysKc#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1351.982,
+      "text": "泰克和人都不交叉推荐啊。呃，对对对，我第一个可能是还是纯基于内容，第二可能就是刚才我们说的机器学习了，有一些，对对对对，metric completion或这些。"
+    },
+    {
+      "end_seconds": 1389.245,
+      "id": "youtube-7ej2r7XysKc#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1363.435,
+      "text": "然后第三代是基于深度学习的，就是把里面分成很多很多步，然后用深度学习去预测各种的这个指标。我把它分代的标准是每代它的这个服务的平台，你可以想象成，其实Netflix这种平台的或者电影平台，最开始其实是一个单边平台，就是它的供应是固定的，它只有说怎么去拿着固定的供应去去做分发，对吧？慢慢的，你就可以想象长视频平台，那可能是一个一点一边平。"
+    },
+    {
+      "end_seconds": 1410.468,
+      "id": "youtube-7ej2r7XysKc#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1389.245,
+      "text": "其实并没有那么多人创作，也当然要比电影还要多很多量级的，因为YouTube创作者还是要要比这个导演个数要多很多很多很多很多的。或者比如说叫成一点五边的这种平台，第三类呢是短视频平台，我们可能把它叫成更多可能一点八边这种平台，对吧？然后社交平台呢，可能就是一点九边或者真的是双边平。"
+    },
+    {
+      "end_seconds": 1439.107,
+      "id": "youtube-7ej2r7XysKc#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1410.468,
+      "text": "绝大部分人既是创作者又是消费者。从刚才我们的分类呢，就是第一类推荐系统是适合于，比如最开始的那种电影和电视的推荐。后来呢，有了比较强大的这个机器学习这种引擎之后呢，可能是第二代。然后深度学习从二零一三、一四、一五年开始在广泛的应用到推荐、搜索、广告里面之后的，我觉得这是第三代。嗯，然后第四代就是真正的用到一些类似于就L M类似的人工智能的这样一个系统了。"
+    },
+    {
+      "end_seconds": 1453.556,
+      "id": "youtube-7ej2r7XysKc#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1439.107,
+      "text": "可不可以再展开说一下 L L A 四的这句话的意思是什么？你可以想象成 L M 的两个核心点，就是一个是 pretrain，一个是呃 R L。在推荐系统里面，我们觉得 pretrain 就是一个 memorization 的，或者是。"
+    },
+    {
+      "end_seconds": 1470.004,
+      "id": "youtube-7ej2r7XysKc#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1453.556,
+      "text": "mostly memorization 的一个过程，就是把你的行为数据都记下来，或者是大家的行为数据都记在一块儿，然后看看里面的 generalization。然后 RL 那部分呢，我们就更多是探索，不能说你喜欢看小姐姐视频就只给你推荐小姐姐视频，而是要探索不同的路径，让你的 reward 变得更高。"
+    },
+    {
+      "end_seconds": 1497.048,
+      "id": "youtube-7ej2r7XysKc#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1470.004,
+      "text": "这件事情目前啊，在 YouTube 的推荐上做的极其生硬。就是我其实不是很喜欢 YouTube 的推荐算法，会甚至在固定的位置给我专门推荐我一直看的东西和就是几百个 views 的这种东西，然后试图探索。就是我觉得这步做的很生硬。Versus，如果你在抖音啊、 Facebook、 Instagram 这样推荐，就是那个东西，哪怕小红书的推荐，感觉更 native 一些，就没有那么的生硬。"
+    },
+    {
+      "end_seconds": 1510.851,
+      "id": "youtube-7ej2r7XysKc#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1497.048,
+      "text": "所以我在想，就是这样的一个推荐的代际划分。我再说一个背景知识啊，就是我当时离开Facebook之前，我的一个mentor是Facebook Ads，就是比较深的做research加data的人。"
+    },
+    {
+      "end_seconds": 1540.143,
+      "id": "youtube-7ej2r7XysKc#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1510.851,
+      "text": "嗯，然后他说，那个时候是二零二一年初，就是 Facebook 内部，尤其做 Ads 的这些 Research 比较厉害的人，他们看到了抖音的模型 TikTok 的模型比 Facebook 模型大十到一百倍。我们现在虽然说大模型，但是那个时候他说的不是 Large Language Models，而是就纯粹是从模型的 Size 的角度来说。然后他们会觉得抖音的推荐能力其实比 Facebook Ads 的这些推荐能力要强。他是从这个模型的大小或者这个参数量去思考这个问题的。"
+    },
+    {
+      "end_seconds": 1553.562,
+      "id": "youtube-7ej2r7XysKc#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1540.143,
+      "text": "然后你刚刚呢？一个是从适用的平台和他的这个感觉推荐的范式吧，就是他怎么样子去得到信息来。然后我在想，就是如果我们从推荐的这个问题本身出发的话，"
+    },
+    {
+      "end_seconds": 1565.631,
+      "id": "youtube-7ej2r7XysKc#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1553.562,
+      "text": "它怎么划分？其实这两个非常的相关，可以想象成内容推荐参数量是极少的，Clarity Futing 类似经典的一些算法，它参数量慢慢的变大，到深度学习，它的参数量就变得很大很大。"
+    },
+    {
+      "end_seconds": 1587.656,
+      "id": "youtube-7ej2r7XysKc#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1565.631,
+      "text": "现一代的这个，可能大家还在探索，处在第四代当中，就怎么把这个模型做大。因为大语言模型之所以可以把模型做大，是因为我们发现了一些结构，使得它真的是就是能够，你给我喂多少数据，我都能学。嗯，伊利亚先生说，All the model just want to learn，你把数据给它，喂给它，它就能学。推荐里面很大的问题呢，它的。"
+    },
+    {
+      "end_seconds": 1605.282,
+      "id": "youtube-7ej2r7XysKc#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1587.656,
+      "text": "Tokenization 是非常难的，呃，比如说你用 VDID，但是我们每天的 VDID 都在变，不像语言，就是说大家 token 是固定的。当然，每年也会新词出来，但是这些相对于这个既有的知识来说是极其微小的。但是你看，抖音上面可能每天火的内容都不一样。"
+    },
+    {
+      "end_seconds": 1631.658,
+      "id": "youtube-7ej2r7XysKc#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1605.282,
+      "text": "是，刚才就是 Visual 的 Tokenization 很难，这是一个非常本质的观察。然后我一想，确实是很难。我们第二轮讲你在 OpenAI 的工作，我猜也会聊到这里边。我们到时候在那儿再 Deep Dive 一下。嗯，然后我这儿的一个直觉是产品上的直觉吧，就是抖音它的人的介入的程度很深，而且这些介入的人很懂，他们是真的天天就是在那儿做这个运营，所以说一定程度上把算法的很多东西给弥补了。"
+    },
+    {
+      "end_seconds": 1652.162,
+      "id": "youtube-7ej2r7XysKc#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1631.658,
+      "text": "而YouTube的这个运营策略，人定下来的这些规则，可能很大程度上限制了他的这个推荐。但是，这是国内公司和海外公司很大的不一样。国内公司是非常愿意，而且很懂运营的；海外公司几乎不太多运营。但是这个strategy在我看来真的是，哎，很难受，让我。"
+    },
+    {
+      "end_seconds": 1658.807,
+      "id": "youtube-7ej2r7XysKc#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1652.162,
+      "text": "但是就是说，你可以观察到，就很厉害的人也会 overfit，就过拟合他过去的成。"
+    },
+    {
+      "end_seconds": 1682.888,
+      "id": "youtube-7ej2r7XysKc#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1658.807,
+      "text": "比如说，我们做一些新的事情，会有人提出来不同的观点。我觉得这些都是好的观点，但是他很多时候是过拟合了他过去的成功。就比如说，有人跟我提过，在 Meta 一七年、一八年开始，因为 Meta 很多高层是中国人，跟 Zuckerberg 提过说，抖音那个产品非常非常的厉害，你应该看一下。然后当时 Zuckerberg 的回答是说：“哦，呃，这不就是我们 Feed 的全屏版吗？”"
+    },
+    {
+      "end_seconds": 1699.969,
+      "id": "youtube-7ej2r7XysKc#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1682.888,
+      "text": "就他不把它当成一个创新，而是说自己做了本质创新。他们只是说，哎，这个 tiny amount innovation 可以改，对吧？对。就三体里面说的一句话，特别的，我知道好玩。这个渺小不是生存的障碍，傲慢才是。想要长久的成功，必须要保持一个非常开放的。"
+    },
+    {
+      "end_seconds": 1715.383,
+      "id": "youtube-7ej2r7XysKc#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1699.969,
+      "text": "心态叫 open-minded，要理解这个社会的这个进步和别人的这个创新。我们正好这个地方，我觉得就非常好的转到我们这个问题的下一部分，就是你的 leadership principle，或者说是 philosophy，可不可以给大家介绍一下？很多东西在你说起来啊。"
+    },
+    {
+      "end_seconds": 1744.542,
+      "id": "youtube-7ej2r7XysKc#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1715.383,
+      "text": "轻描淡写一点，但是我觉得换一个人去做同样的事情未必能成功，所以说这就是厉害的人经常感觉不到自己的厉害。但是你起码可以介绍一下你是怎么思考这些问题的。上写的东西大家自己来评判就好。这我觉得把团队也好，产品也好，增长的过程中学到了很多lesson，就有些是别人教的，比较厉害的人或者比较崇拜的人教我的，有些是可能自己犯过错之后学到的。我们有一个小圈子叫Bay Area Data List，就是做。"
+    },
+    {
+      "end_seconds": 1758.538,
+      "id": "youtube-7ej2r7XysKc#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1744.542,
+      "text": "数据啊，人工智能的这样一些大公司的一些leader，我们每个季度会聚一下。呃，当时我在分享一些，就一些leader是principal，是那个世军，把他很好的形象的成了这个人的这种各种body器官。"
+    },
+    {
+      "end_seconds": 1777.485,
+      "id": "youtube-7ej2r7XysKc#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1758.538,
+      "text": "对对对，我就拿这样一个 framework 跟大家说，我觉得也比较容易记。我觉得一个比较好的 leader 要具备下面几个特质：第一是 vision，就在他所属的行业，不管是技术也好，产品也好用，就要看得非常远，然后看得非常深。这就好比这个一个人要一双非常好好用的眼睛。呃，第二个呢？"
+    },
+    {
+      "end_seconds": 1802.023,
+      "id": "youtube-7ej2r7XysKc#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1777.485,
+      "text": "是要有清楚的 strategy。光看到远处什么还不足够，你要知道怎么去从现在去走到你要看到的远方，对吧？第三点呢，是要有很好的 execution。其实很多创业公司或者大公司一样，他们的 vision 和 strategy 可能差不了特别多，但是就 execute 好不好决定了事情的成败。对比到人，他有有一双非常 capable 的这个 hands。"
+    },
+    {
+      "end_seconds": 1823.196,
+      "id": "youtube-7ej2r7XysKc#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1802.023,
+      "text": "第四点呢，是要有一个 empathy，就是要带领团队也好，要把产品做好也好，一定要理解别人是怎么想的，一定要经常站在用户的角度，站在团队成员的角度去考虑问题，而不是说自己想怎么样。这就是对比到人要一颗非常好的心。第五个是他一定要 take risk，就是对比到人呢要有 guts。"
+    },
+    {
+      "end_seconds": 1838.619,
+      "id": "youtube-7ej2r7XysKc#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1823.196,
+      "text": "承担任何风险是不能够这个做很好的创新的。第，我都忘了第几个，第七个还是第六个了？呃，第七个了。对，呃，我个人非常看重的一点，可能有点 controversial，我觉得沟通能力非常的重要。这个为什么？"
+    },
+    {
+      "end_seconds": 1860.708,
+      "id": "youtube-7ej2r7XysKc#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1838.619,
+      "text": "我招人的时候把它放在很重要的位置，但是可能有些人觉得这个人只要就是很聪明，能够做事情，可能也就够了。但是我其实把沟通能力放在非常非常重要的位置。沟通能力不只是说你要会说，你首先要能听懂别人在说什么，然后做出相应的这这对对。在我的这个比喻里面，它就是有嘴巴和耳朵。我我稍稍吃惊一下哈，就是。"
+    },
+    {
+      "end_seconds": 1890.312,
+      "id": "youtube-7ej2r7XysKc#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1860.708,
+      "text": "我认识的所有的 leadership，他们都沟通放在一个非常非常重要的位置上。基本上大家都会强调两件事情，就是第一，你要是一个就是 smart，然后 good with people。 good with people 在很多地方都是非常非常重要的。倒有点吃惊，就是到现在会有人觉得这个东西不重要。我不是觉得有人不重要，而是我觉得看放在什么高度。我甚至拒绝过候选人，就是各方面都很强，但是我就沟通下来非常的不顺畅。就为什么沟通非常重要呢？当然。"
+    },
+    {
+      "end_seconds": 1908.572,
+      "id": "youtube-7ej2r7XysKc#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1890.312,
+      "text": "可能有了AI之后不一样，每个人成为一个super hero，其实不需要沟通。但是我们现在的阶段就是需要团队协作，你的沟通成本是随着团队的人数成平方上升的，所以沟通效率很大程度上决定了一个团队的工作效率。对，我们刚刚说了七个器官，还有吧？"
+    },
+    {
+      "end_seconds": 1935.362,
+      "id": "youtube-7ej2r7XysKc#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1908.572,
+      "text": "还有一个 self reflection，啊，你在看，你在你在作弊，我做过笔记的，对的，呃，啊，对对对，呃，还有一个就是特别好的 leader 应该很多都具备的一个特质是，他经常会反思自己做的事情。中国有一句古话叫“一日三省吾身”嘛，就是说晚上睡觉之前会想，要今天我哪些东西做得好，哪些东西做得不好，就是产品上面也好，对人事上面也好啊，就跟大模型一样，你要不停地反思才能够进步。这可能第八点。"
+    },
+    {
+      "end_seconds": 1953.11,
+      "id": "youtube-7ej2r7XysKc#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1935.362,
+      "text": "对这几点我觉得都挺好，我也会把你的就是那个每点的链接发给大家，然后大家如果想看的话可以看。但是这又带来另外一个问题，就是大家会说你要求的是一个六边形战士，然后这个世界上不存在六边形战士，或者说我当然知道要在这几个方面都要做好。"
+    },
+    {
+      "end_seconds": 1980.309,
+      "id": "youtube-7ej2r7XysKc#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1953.11,
+      "text": "但是我也不可能在每个方面都做得最好或者怎样。嗯，那可不可以再请你说一下，就是一些关于 trade off 的东西，在这个 leadership 里边，你觉得什么东西最重要，和什么东西它在你面临选择的时候能帮助你去做更好的 trade off？所谓面临选择，就是这个也好，这个也好，这个也对，这个也对。那你要选一个而不选另一个，这个时候你是怎么做决策的？我先 push back 你的问题一下，然后我会回答你的问题。"
+    },
+    {
+      "end_seconds": 1989.104,
+      "id": "youtube-7ej2r7XysKc#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1980.309,
+      "text": "呃，我觉得成年人什么都要不做选择，最主要的是你要认清自己哪方面强，然后你要招到人去弥补你的不强，所以你的leadership bench。"
+    },
+    {
+      "end_seconds": 2005.32,
+      "id": "youtube-7ej2r7XysKc#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1989.104,
+      "text": "一定要全面。你做一个 leader 最重要的是招到一个 leadership bench，一群人帮你去管理这整个团队。那你知道自己哪里强，哪里不强，你也要招到你不强的那方面的人才来来弥补你。我觉得这个有点侧面回答你的问题了。那正面回答你的问题呢？我觉得。"
+    },
+    {
+      "end_seconds": 2025.152,
+      "id": "youtube-7ej2r7XysKc#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2005.32,
+      "text": "呃，认知是最重要的。就作为一个leader来说，因为认知决定了你会把精力放在哪里。就第一点，就vision是最重要的。就是如果你大方向搞错了，再努力，你沟通能力再强，你再怎么样，其实就很难。我就是在问一个问题啊，就是跟那个硅谷系老师聊的时候，就讲，应该是一八年还是一九年劈柴。"
+    },
+    {
+      "end_seconds": 2051.812,
+      "id": "youtube-7ej2r7XysKc#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2025.152,
+      "text": "在Google的大会上就说，从今以后呢，Google是一家AI company。当时还是有点controversial的这些话，因为那个时候大家可能热点还是在mobile上。就是他那个时候已经说的是AI company，但是在今天，感觉Google以它的资源，不光是钱、卡，还有人的资源和它产品的资源来说，它在AI上感觉它的速度是很慢的，或者大家都对它是不够满意的。"
+    },
+    {
+      "end_seconds": 2070.54,
+      "id": "youtube-7ej2r7XysKc#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2051.812,
+      "text": "它的大模型也不是就是 state of art，它的这个产品上的 integration 也很慢，做得很一般。你作为一个前 Google，可能跟你问你这个话不太合适。是，本来想问你觉得问题出在哪里？在一个领导者有 vision 的情况下，他应该注意什么的？我觉得有几点啊。第一点呢，有 vision 肯定要比没 vision 强。"
+    },
+    {
+      "end_seconds": 2091.702,
+      "id": "youtube-7ej2r7XysKc#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2070.54,
+      "text": "就如果当时 Google 没有说我是一个 AI company，就不想做 AI，那其实现在以你的标准来说，可能要差很多很多，对吧？然后第二点呢，我现在依然觉得 Google 手里的牌是最好的。 Google 是唯一一家公司，是从底层芯片到 Infer 到算法到应用，这一个是世界上唯一一家公司，它整个链条可以做全局优化的公司。"
+    },
+    {
+      "end_seconds": 2112.512,
+      "id": "youtube-7ej2r7XysKc#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2091.702,
+      "text": "任何一家公司都没有。现在他手里的牌依然非常的好，这也跟他 AI first 有关。然后第二点呢，就是就是说认知其实是有颗粒度的。比如说，哦，我们熬业 AI，那怎么熬业 AI？怎么就是一个执行一下？就是我们刚才说的 strategy 和 execution，这也是 on top of mission 非常重要的东西。你选一个，肯定选 mission，因为你 execution 再好。"
+    },
+    {
+      "end_seconds": 2133.072,
+      "id": "youtube-7ej2r7XysKc#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2112.512,
+      "text": "你没有好的vision也是在做布朗运动，这是修身的东西，修身养性。就是我作为一个什么样的人，我才是一个好的leader。可是很多同学关注的是法家的东西，就是我做什么，我怎么样子成为那个leader，或者说我作为一个leader了以后，我应该有什么样的术去做，在这方面可不可以分享一些？"
+    },
+    {
+      "end_seconds": 2150.312,
+      "id": "youtube-7ej2r7XysKc#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2133.072,
+      "text": "我举个例子，我之前采访呃，Richard，他讲了几个非常可执行的东西，就是他觉得你华人在硅谷想要做好的话，有几个事情应该做好，一个是 take initiative，一个是 share credits，一个是 network，有没有这些咱们身上的一些想法？"
+    },
+    {
+      "end_seconds": 2175.774,
+      "id": "youtube-7ej2r7XysKc#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2150.312,
+      "text": "我觉得我非常同意刚才你说的这几点。比如说，第一点，一定要非常的 proactive，就是一定要自己去主动的做很多的事情。第二点呢，是觉得一个人要不停的去扩大他的信任圈，就要更多的人 build trust。我觉得这样是他的路会越走越宽的。Bill 分享过一个很好的 trust 公式，就是 trust 等于 credibility plus reliability plus intimacy。"
+    },
+    {
+      "end_seconds": 2188.872,
+      "id": "youtube-7ej2r7XysKc#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2175.774,
+      "text": "然后整个括号 divided by this self orientation，什么意思呢？就是你的 trust 是根据你的专业领域的这个 credibility，对能力和你的靠谱程度。"
+    },
+    {
+      "end_seconds": 2213.47,
+      "id": "youtube-7ej2r7XysKc#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2188.872,
+      "text": "你的关系的远近程度，这个三个相加除以你这个人是不是经常会考虑问题的时候是考虑大家还是考虑自己？其实很重要的一点，我我跟我团队成员非常强调的一点一直就是有一个词叫 territorial，就是领地意识太强。我觉得这是一个非常不好的现象，尤其是有很多人可能分不清 territorial versus ownership，就有人觉得把这个。"
+    },
+    {
+      "end_seconds": 2243.398,
+      "id": "youtube-7ej2r7XysKc#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2213.47,
+      "text": "主人公精神当成了领地意识其实是不一样的。我给你举个简单的例子啊，比如说那里有一块地，就比如说有一亩地，然后 ownership 的意思就是说，那地是我的，大家可以随便耕，就产出来的庄稼大家平分的嘛，或者大家享用的，对吧？然后 territorial 的意思就是说，哦，这块地的庄稼只能我种，别人都不能种。体现在公司里面，比如说你站在 CEO 的角度来讲，你会提拔什么样的人？那 CEO 要对谁负责？对董事会和股东负责。股东想要什么？想要公司变得更好。"
+    },
+    {
+      "end_seconds": 2267.841,
+      "id": "youtube-7ej2r7XysKc#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2243.398,
+      "text": "CEO的目的就是要满足这些需求。那好，那我是CEO，我会提拔什么样的人？那这个人是为公司着想的，而不是老是想这件事情对我的这个利益有多。当然，即使说你 longer term，你说要对我有益，就是你长期贪婪，短期你也要哦什么对公司有益，我要做公司有益的事情，你你才能达到你的长期贪婪。所以这是一个非常重要的一点，就是一定要不停的 build trust。"
+    },
+    {
+      "end_seconds": 2288.645,
+      "id": "youtube-7ej2r7XysKc#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2267.841,
+      "text": "那里面, BitPass里面有各种陷阱，比如说Being territorial is one of the trap.我是非常赞同不应该 territorial，然后我是非常同意大家 race to the top的。嗯，但是我在我的职业生涯中也吃过类似的亏，就是当我非常愿意跟大家合作，然后什么东西都 share的话。"
+    },
+    {
+      "end_seconds": 2306.862,
+      "id": "youtube-7ej2r7XysKc#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2288.645,
+      "text": "有的 being territorial 的人就会过来侵占你的 scope，把你的成果据为己有。然后我当时的处理方式，可能那个时候还很不成熟，就是如果说你来侵占的话，那我第一我会有一个比较大的反应，让你知道这件事情是踩到我的底线的。"
+    },
+    {
+      "end_seconds": 2331.194,
+      "id": "youtube-7ej2r7XysKc#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2306.862,
+      "text": "第二呢，就是我会 less collaborative，就是我不是跟你做，但是我事后回想这个事情为什么不好，它其实是降低了整个事情的天花板的。当我把这件事情有了这样一个反应，且我在这上面投入的资源变少了，它本来能往前走到一百分，最后就走了六十分。那我就拿这个具体的例子吧，问一下你会怎么处理呢？就刚才你说的这个事情挺。"
+    },
+    {
+      "end_seconds": 2344.772,
+      "id": "youtube-7ej2r7XysKc#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2331.194,
+      "text": "常见的就是，如果对方不太好怎么办？我的处理方式，我觉得不一定是最好的。也有人给过feedback说，不是最好的处理方式，是看这个人的可取代程度有多高。就如果这个人不可取代，那没办法，你只能。"
+    },
+    {
+      "end_seconds": 2356.411,
+      "id": "youtube-7ej2r7XysKc#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2344.772,
+      "text": "想办法跟他 work together. 不管是多沟通也好，还是建立某种形式的信任，然后大家有一个契约也好。如果这个人的可取代程度很高，就不一定要跟他合作。呃，我的处理方式就是 get rid of this person."
+    },
+    {
+      "end_seconds": 2369.61,
+      "id": "youtube-7ej2r7XysKc#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2356.411,
+      "text": "Or get rid of the person from my work life.我的处理方式是，这个人在这件事情上的可替代程度还好，但是这件事本身的可替代程度还是有的。就是我这件事情，我可以选择去做一百分和六十分。"
+    },
+    {
+      "end_seconds": 2389.099,
+      "id": "youtube-7ej2r7XysKc#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2369.61,
+      "text": "我在想，就是如果做一百分，肯定对我很有好处，呃，但是我选择去把它做到六十分，也未必是个好事儿。对，如果做事情的话，我觉得还是要事情要做好是最重要的。对，就是我觉得事情不做好，不是一个特别好的方向。但是就 fool me once is your fault，对吧？ fool me twice is my fault。"
+    },
+    {
+      "end_seconds": 2415.441,
+      "id": "youtube-7ej2r7XysKc#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2389.099,
+      "text": "我想reflect一下的话，我觉得还是自己这个ownership不够彻底，我对事情的ownership不够彻底，所以说这可能也是一个需要改进的地方。Leadership这方面，你还有什么想分享的东西？你觉得想让大家就是be aware of，比如说你之前犯的错也好啊，或者你觉得一些很厉害的人给过你的很好的建议，你觉得很想分享给大家的。犯的错，我觉得有一个很好的对对于团队的整个的了解非常的重要。"
+    },
+    {
+      "end_seconds": 2429.558,
+      "id": "youtube-7ej2r7XysKc#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2415.441,
+      "text": "一定要知道大家想要什么，就是我觉得这是可能硅谷这边的公司和国内公司或其他一些传统的企业不一样的地方。是硅谷这边的leader，他一般要求对两两个party负责，第一件事情对公司负责。"
+    },
+    {
+      "end_seconds": 2456.852,
+      "id": "youtube-7ej2r7XysKc#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2429.558,
+      "text": "把公司做好，产品做好，对吧？第一件事情是对团队成员负责，帮助团队人学习成长。其实很多其他公司，就非硅谷科技公司，可能没有第二条，就是说大家是一个契约，你我给你钱，你把工作做好，对吧？所以了解自己的团队非常非常的重要。我甚至以前犯过错误，去我以为会 reward 一些团队成员，但是可能这不是他们想要的。我的社区就有人说他要被 promote principal，他怎么样才可以不被 promote？他现在好苦恼，他不想被 promote。"
+    },
+    {
+      "end_seconds": 2475.6,
+      "id": "youtube-7ej2r7XysKc#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2456.852,
+      "text": "那leadership principle这个聊到这里，嗯，最后一个问题啊，关于shorts，shorts现在做成功了，然后它会是公司长期以来非常重要的地方，就是你的这块田终于长成了一个非常肥沃的田，那你怎么舍得say goodbye呢？就是你作为这里边的元老，你在这里边的工作会非常的爽，然后你会不断的。"
+    },
+    {
+      "end_seconds": 2491.844,
+      "id": "youtube-7ej2r7XysKc#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2475.6,
+      "text": "收获它的果实，那你这个时候你选择离开的原因是什么？这是一个非常曲折的一个决定，就来来回回，可能有有一段的时间。其实我最舍不得的可能是团队吧，然后毕竟是一手从零打造的一个团队，而战斗力非常强。"
+    },
+    {
+      "end_seconds": 2504.312,
+      "id": "youtube-7ej2r7XysKc#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2491.844,
+      "text": "大家的互信也非常非常的强。我离开的最主要原因，我觉得可能是我的学习曲线平了。我也大概知道怎么去从零到一 build 一个产品，不管是从产品上、技术上，还是商业上。"
+    },
+    {
+      "end_seconds": 2520.37,
+      "id": "youtube-7ej2r7XysKc#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2504.312,
+      "text": "然后从零到一去 scale 一个比较大的团队。我之前的那个工作可能有三分之一是在 research，三分之二是在做产品相关的东西。这一波 AI 的兴起呢，使得我看到了很多，我觉得更大的趋势。我想更多的去学习。"
+    },
+    {
+      "end_seconds": 2534.216,
+      "id": "youtube-7ej2r7XysKc#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2520.37,
+      "text": "然后把我的学习曲线再陡起来，比如说可能是三分之二的research，三分之一的产品，或者是更多的到research里面去做。我觉得这可能是促使我离开shorts的最大的一个内因。那我再问一个更抽象一点的问题。"
+    },
+    {
+      "end_seconds": 2545.293,
+      "id": "youtube-7ej2r7XysKc#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2534.216,
+      "text": "就是motivates你的是什么？因为我们在约这个访谈的时候，你也提到过，你现在一一周工作是八十个小时。对很多人来说，他们奋斗的目的是为了不工作、少工作。"
+    },
+    {
+      "end_seconds": 2573.351,
+      "id": "youtube-7ej2r7XysKc#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2545.293,
+      "text": "然后也有很多人，他们哪怕是拿到成果的人啊，他们会觉得自己应该在年轻的时候多打拼，然后得到了成果之后呢，应该更多的去享受生活。当然，每个人的 motivation 不一样，所以说我就想问一下， motivate 你，然后你一直想要一个陡峭的学习曲线背后的 motivation 和你在中间得到正反馈吧，大概是什么样子的？这个问题非常的好。其实现在人工智能里面没有解决的最大一个问题是，应该给人工智能什么样的 reward？"
+    },
+    {
+      "end_seconds": 2588.648,
+      "id": "youtube-7ej2r7XysKc#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2573.351,
+      "text": "就是它的目的是什么？这就是一个非常深的哲学问题。我刚好跟这个我以前的一个 mentor 前两天讨论过这个问题。这个人的 motivation 是什么？你觉得人的 reward 是什么？伊利亚讲课嘛，他就是说，机器想要学习，agents 会 reward itself。"
+    },
+    {
+      "end_seconds": 2611.385,
+      "id": "youtube-7ej2r7XysKc#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2588.648,
+      "text": "但是，人其实确实只有一个东西是本质的，就是 existence 和 non-existence。剩下的所有东西都是 corollary。在那之后，就是 existence 和 non-existence 之后，我觉得有一个 default path，就是我们社会学校会 train 大家去 reward 一个东西，然后这个东西一般是跟 external 相关的，就比如说你的 status 的这些东西。"
+    },
+    {
+      "end_seconds": 2639.833,
+      "id": "youtube-7ej2r7XysKc#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2611.385,
+      "text": "但是如果说你超越了这个游戏，绝大多数人其实不超越这个游戏。超越这个游戏以后，每个人的答案就不一样了。我觉得这也是人比较有意思的点，就是这个问题没有答案。这其实纳瓦尔说的，纳瓦尔在应该是乔·罗根的这个播客上说的，就是人的存在的意义是什么？如果这个问题有答案的话，所有的人都可以照着那个意义去 optimize，然后都可以在这个维度上分出高下。之所以人的生命是有意义的，就是因为这个问题没有答案。我有一个比较 practical 的答案。"
+    },
+    {
+      "end_seconds": 2665.761,
+      "id": "youtube-7ej2r7XysKc#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2639.833,
+      "text": "从进化论的角度来讲，人的意义就是 maximize 自己基因存在的时间。嗯，从基因的角度上是这样的。对，因为从进化的角度来讲，想要优化后代的这个物种，全都灭绝了。如果他不想要 reproduce，那这个物种就没有后代，它就灭绝了嘛。所以，就是自然选择剩下来的人，或者剩下来的物种，都是有繁衍的这个目标的。"
+    },
+    {
+      "end_seconds": 2694.171,
+      "id": "youtube-7ej2r7XysKc#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2665.761,
+      "text": "我我最近处在一个质疑进化论这个假说的阶段，所以说我可能不会拿它来指导我的哲学思考。另外一点呢，就是刚才说的这个学习曲线，其实人的一生也是一个 exploration 和 exploitation 的过程，就是一个 RL 的过程。我觉得进化论也会奖励那些做更多的 exploration 的人，就是 taking risk of learning new things，或者是 practice new things。我发现学新东西会给人带来快感。"
+    },
+    {
+      "end_seconds": 2711.899,
+      "id": "youtube-7ej2r7XysKc#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2694.171,
+      "text": "反正我就觉得很爽，很多时候觉得我实践到了，更新了我的认知，那我感觉我就非常的爽。你从更偏这个生物学的角度来讲，机器学习里面的RL或者的exploration跟这个物种的智能是非常正相关的。据说这个小鸡是两周之后就完全成熟了。"
+    },
+    {
+      "end_seconds": 2719.736,
+      "id": "youtube-7ej2r7XysKc#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2711.899,
+      "text": "所以鸡是特别傻的，但是乌鸦可能要好几个月或者一两年，所以乌鸦是要比鸡聪明很多很多的。然后你再看人。"
+    },
+    {
+      "end_seconds": 2744.831,
+      "id": "youtube-7ej2r7XysKc#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2719.736,
+      "text": "人是可能要十八年才成熟，对吧？或者是更多年，所以人的智能是非常非常高的，就是因为他经历了那么长时间的探索期。Childhood就是人类的探索期吗？叛逆其实是一个非常好的事情，因为没有叛逆，人类是不会进步的。我觉得就是从哲学角度来讲，我不知道为什么可能学习给很多人，或者说我们从小受的教育也好，或者基因里面building也好，你刚才的那个鸡乌鸦人，你要再说。"
+    },
+    {
+      "end_seconds": 2757.811,
+      "id": "youtube-7ej2r7XysKc#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2744.831,
+      "text": "A.I.吗？A.I.的学习时间很久，所以它呃，对，这是这也是为什么我觉得R.L.对于A.I.是非常非常critical，Prediction大概率是不够能够达到所谓的A.S.I.或者说能够达到一些。"
+    }
+  ],
+  "video_id": "7ej2r7XysKc",
+  "yuzheng_stance_weight": "not-evidence"
+}

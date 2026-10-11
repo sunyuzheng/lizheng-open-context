@@ -1,0 +1,417 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-CUvzoZKdFBk",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2023-09-28T01:00:05Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T01:53:32.924896+00:00",
+  "published_at": "2023-09-28",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "d42917f0f5af5b5e6511a03a1753c3fbfec504df0a36ed7e541322364a714f97",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "246a8bc3041eee47ea1a562bd500f1913404f46c6823a78929c4e95c221bbace",
+    "root_receipt_sha256": "9e3b5d97b6fd5be20649f5b45604a7e0200d4465ea0b7ae32c95139c10bbde95",
+    "unresolved_count": 2
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=CUvzoZKdFBk",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=CUvzoZKdFBk",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "如何成熟面对新挑战？Meta Staff Eng的经验",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.48,
+      "id": "youtube-CUvzoZKdFBk#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "你怎么看一个 problem space"
+    },
+    {
+      "end_seconds": 4.176,
+      "id": "youtube-CUvzoZKdFBk#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.48,
+      "text": "一个是 matured 就是说你要"
+    },
+    {
+      "end_seconds": 6.84,
+      "id": "youtube-CUvzoZKdFBk#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.292,
+      "text": "accept 这件事情就是说为什么最好的"
+    },
+    {
+      "end_seconds": 9.047,
+      "id": "youtube-CUvzoZKdFBk#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.84,
+      "text": "事情一定落到你头上就不要期待有一个好的"
+    },
+    {
+      "end_seconds": 10.545,
+      "id": "youtube-CUvzoZKdFBk#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.14,
+      "text": "opportunity hand it"
+    },
+    {
+      "end_seconds": 11.479,
+      "id": "youtube-CUvzoZKdFBk#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.6,
+      "text": "to you on silver"
+    },
+    {
+      "end_seconds": 13.0,
+      "id": "youtube-CUvzoZKdFBk#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.534,
+      "text": "platter 这个是大家应该有的"
+    },
+    {
+      "end_seconds": 16.72,
+      "id": "youtube-CUvzoZKdFBk#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.12,
+      "text": "mindset 对就是有那么多的就是这么"
+    },
+    {
+      "end_seconds": 21.269,
+      "id": "youtube-CUvzoZKdFBk#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.72,
+      "text": "优秀的人对吧然后有那么多已经就是对这个"
+    },
+    {
+      "end_seconds": 25.08,
+      "id": "youtube-CUvzoZKdFBk#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.419,
+      "text": "problem 这么熟悉的人然后还有那么"
+    },
+    {
+      "end_seconds": 25.6,
+      "id": "youtube-CUvzoZKdFBk#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.08,
+      "text": "多人"
+    },
+    {
+      "end_seconds": 26.999,
+      "id": "youtube-CUvzoZKdFBk#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.6,
+      "text": "他们已经 on track to"
+    },
+    {
+      "end_seconds": 28.706,
+      "id": "youtube-CUvzoZKdFBk#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.086,
+      "text": "next level 他们需要这种更更"
+    },
+    {
+      "end_seconds": 30.56,
+      "id": "youtube-CUvzoZKdFBk#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.794,
+      "text": "strong 的 sponsorship"
+    },
+    {
+      "end_seconds": 32.599,
+      "id": "youtube-CUvzoZKdFBk#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.56,
+      "text": "还有人已经 prove 了他们的"
+    },
+    {
+      "end_seconds": 36.359,
+      "id": "youtube-CUvzoZKdFBk#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.726,
+      "text": "ability 才来所以就是有这么多这个"
+    },
+    {
+      "end_seconds": 40.212,
+      "id": "youtube-CUvzoZKdFBk#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.359,
+      "text": "排在你前面的对不一定是排段但是有这么多"
+    },
+    {
+      "end_seconds": 44.013,
+      "id": "youtube-CUvzoZKdFBk#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.212,
+      "text": "就是优秀的同事为什么就是你一定会是最"
+    },
+    {
+      "end_seconds": 47.28,
+      "id": "youtube-CUvzoZKdFBk#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.168,
+      "text": "prioritized 的那个 area"
+    },
+    {
+      "end_seconds": 50.471,
+      "id": "youtube-CUvzoZKdFBk#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.28,
+      "text": "所以我觉得这个是一个成熟度然后第二个"
+    },
+    {
+      "end_seconds": 52.787,
+      "id": "youtube-CUvzoZKdFBk#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.471,
+      "text": "的话就是一个 confidence 就是"
+    },
+    {
+      "end_seconds": 53.4,
+      "id": "youtube-CUvzoZKdFBk#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.787,
+      "text": "一个信心"
+    },
+    {
+      "end_seconds": 56.48,
+      "id": "youtube-CUvzoZKdFBk#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.4,
+      "text": "你拿到一个东西你有没有信心"
+    },
+    {
+      "end_seconds": 60.29,
+      "id": "youtube-CUvzoZKdFBk#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.359,
+      "text": "你有没有这个底气包括我自己就是经常对一个"
+    },
+    {
+      "end_seconds": 63.326,
+      "id": "youtube-CUvzoZKdFBk#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.29,
+      "text": "不了解的 area 其实是没有那么多信心"
+    },
+    {
+      "end_seconds": 66.479,
+      "id": "youtube-CUvzoZKdFBk#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.326,
+      "text": "的哪怕他真的有很多东西可以做你还是会害怕"
+    },
+    {
+      "end_seconds": 70.858,
+      "id": "youtube-CUvzoZKdFBk#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.479,
+      "text": "因为你不了解他你所以你没有信心你觉得这个"
+    },
+    {
+      "end_seconds": 75.259,
+      "id": "youtube-CUvzoZKdFBk#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.858,
+      "text": "东西是个烂瓜这个其实跟做那个就是不良资产"
+    },
+    {
+      "end_seconds": 80.239,
+      "id": "youtube-CUvzoZKdFBk#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.259,
+      "text": "是一样的道理哈哈哈哈老本行就是一个资产"
+    },
+    {
+      "end_seconds": 85.0,
+      "id": "youtube-CUvzoZKdFBk#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.239,
+      "text": "所有人都觉得是这么点钱如果他们不觉得是"
+    },
+    {
+      "end_seconds": 88.213,
+      "id": "youtube-CUvzoZKdFBk#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.0,
+      "text": "这么便宜他也不会卖给你但你拿过来以后经过"
+    },
+    {
+      "end_seconds": 91.799,
+      "id": "youtube-CUvzoZKdFBk#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.213,
+      "text": "你的运营你可以把它增值为什么别人就不行"
+    },
+    {
+      "end_seconds": 95.733,
+      "id": "youtube-CUvzoZKdFBk#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.799,
+      "text": "这个信心是源自于你对他的理解所以当你害怕"
+    },
+    {
+      "end_seconds": 96.319,
+      "id": "youtube-CUvzoZKdFBk#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.733,
+      "text": "的时候"
+    },
+    {
+      "end_seconds": 99.159,
+      "id": "youtube-CUvzoZKdFBk#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.319,
+      "text": "或者你觉得这个东西不好或做不了的时候"
+    },
+    {
+      "end_seconds": 102.059,
+      "id": "youtube-CUvzoZKdFBk#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.159,
+      "text": "第一件事情是 dive down 真的去"
+    },
+    {
+      "end_seconds": 105.64,
+      "id": "youtube-CUvzoZKdFBk#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.059,
+      "text": "了解这个 area 这个会给你很多信心"
+    },
+    {
+      "end_seconds": 107.48,
+      "id": "youtube-CUvzoZKdFBk#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.64,
+      "text": "然后给你 expertise 当你真的"
+    },
+    {
+      "end_seconds": 111.008,
+      "id": "youtube-CUvzoZKdFBk#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.48,
+      "text": "了解这个 area 的时候你去看待他你就"
+    },
+    {
+      "end_seconds": 113.2,
+      "id": "youtube-CUvzoZKdFBk#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.008,
+      "text": "跟别人不一样了你就 insight 了"
+    },
+    {
+      "end_seconds": 115.439,
+      "id": "youtube-CUvzoZKdFBk#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.2,
+      "text": "然后再去做这个 judgment"
+    }
+  ],
+  "video_id": "CUvzoZKdFBk",
+  "yuzheng_stance_weight": "not-evidence"
+}

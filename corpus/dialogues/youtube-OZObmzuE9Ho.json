@@ -1,0 +1,6028 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-OZObmzuE9Ho",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2024-04-17T21:53:03Z",
+  "participant_aliases": [
+    "liiisaishere"
+  ],
+  "participant_entity_ids": [
+    "guest:liiisaishere"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "liiisaishere",
+  "public_verified_at": "2026-10-11T01:55:51.071565+00:00",
+  "published_at": "2024-04-17",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "f7e38a40be91794cfe289bd165cc60983690a8c155f071ec518c5b782533f5ac",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "3367401ea5a8b927759582bb6a6f9db52ac32ec6e8e33bb8c0c9695fe2ea4251",
+    "root_receipt_sha256": "5862828253e2458e07904c264bd1641e3def51c9f57e6c15d8fabf6919f01fd4",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=OZObmzuE9Ho",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=OZObmzuE9Ho",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "为自己而办的婚礼长啥样？｜备婚经验1/3",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 1.166,
+      "id": "youtube-OZObmzuE9Ho#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.166,
+      "text": "婚礼是人生大事"
+    },
+    {
+      "end_seconds": 3.066,
+      "id": "youtube-OZObmzuE9Ho#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1.166,
+      "text": "但是很少有同学的婚礼可以办的"
+    },
+    {
+      "end_seconds": 3.833,
+      "id": "youtube-OZObmzuE9Ho#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.066,
+      "text": "尽如人意"
+    },
+    {
+      "end_seconds": 5.366,
+      "id": "youtube-OZObmzuE9Ho#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.833,
+      "text": "很多同学都觉得自己的婚礼"
+    },
+    {
+      "end_seconds": 6.633,
+      "id": "youtube-OZObmzuE9Ho#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.366,
+      "text": "并不是为自己而办"
+    },
+    {
+      "end_seconds": 9.466,
+      "id": "youtube-OZObmzuE9Ho#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.633,
+      "text": "是为长辈甚至为摄影师去办的啊"
+    },
+    {
+      "end_seconds": 11.366,
+      "id": "youtube-OZObmzuE9Ho#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.466,
+      "text": "来宾大多数是自己不认识"
+    },
+    {
+      "end_seconds": 13.566,
+      "id": "youtube-OZObmzuE9Ho#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.366,
+      "text": "而且一天到晚都是在被安排流程"
+    },
+    {
+      "end_seconds": 14.566,
+      "id": "youtube-OZObmzuE9Ho#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.566,
+      "text": "拍这拍那"
+    },
+    {
+      "end_seconds": 15.6,
+      "id": "youtube-OZObmzuE9Ho#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.566,
+      "text": "最后钱花了很多"
+    },
+    {
+      "end_seconds": 17.233,
+      "id": "youtube-OZObmzuE9Ho#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.6,
+      "text": "但是除了留下来一堆"
+    },
+    {
+      "end_seconds": 18.933,
+      "id": "youtube-OZObmzuE9Ho#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.233,
+      "text": "看似富丽堂皇的照片"
+    },
+    {
+      "end_seconds": 20.8,
+      "id": "youtube-OZObmzuE9Ho#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.966,
+      "text": "可是对于婚礼当天的那个回忆"
+    },
+    {
+      "end_seconds": 22.566,
+      "id": "youtube-OZObmzuE9Ho#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.8,
+      "text": "可能并不一定是快乐的"
+    },
+    {
+      "end_seconds": 23.4,
+      "id": "youtube-OZObmzuE9Ho#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.566,
+      "text": "更重要的是"
+    },
+    {
+      "end_seconds": 25.766,
+      "id": "youtube-OZObmzuE9Ho#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.4,
+      "text": "婚礼本身其实是婚姻的一个预演"
+    },
+    {
+      "end_seconds": 27.866,
+      "id": "youtube-OZObmzuE9Ho#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.766,
+      "text": "尤其是这是一个你们的小家庭"
+    },
+    {
+      "end_seconds": 29.466,
+      "id": "youtube-OZObmzuE9Ho#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.866,
+      "text": "和双方父母在很"
+    },
+    {
+      "end_seconds": 32.333,
+      "id": "youtube-OZObmzuE9Ho#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.466,
+      "text": "多沟通上的一个模式的预演"
+    },
+    {
+      "end_seconds": 33.2,
+      "id": "youtube-OZObmzuE9Ho#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.366,
+      "text": "如果在这个时候"
+    },
+    {
+      "end_seconds": 33.933,
+      "id": "youtube-OZObmzuE9Ho#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.2,
+      "text": "没有建立起一个"
+    },
+    {
+      "end_seconds": 35.133,
+      "id": "youtube-OZObmzuE9Ho#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.933,
+      "text": "很好的交流模式的话"
+    },
+    {
+      "end_seconds": 36.833,
+      "id": "youtube-OZObmzuE9Ho#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.133,
+      "text": "那很多矛盾可能会在婚姻中"
+    },
+    {
+      "end_seconds": 37.766,
+      "id": "youtube-OZObmzuE9Ho#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.833,
+      "text": "慢慢激发"
+    },
+    {
+      "end_seconds": 40.133,
+      "id": "youtube-OZObmzuE9Ho#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.766,
+      "text": "造成更大的问题啊"
+    },
+    {
+      "end_seconds": 43.633,
+      "id": "youtube-OZObmzuE9Ho#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.133,
+      "text": "我和我老婆在一开始的时候就决定"
+    },
+    {
+      "end_seconds": 45.633,
+      "id": "youtube-OZObmzuE9Ho#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.633,
+      "text": "不要去办一场套路的婚礼"
+    },
+    {
+      "end_seconds": 46.633,
+      "id": "youtube-OZObmzuE9Ho#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.633,
+      "text": "所以说整个婚礼"
+    },
+    {
+      "end_seconds": 48.633,
+      "id": "youtube-OZObmzuE9Ho#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.633,
+      "text": "全球的想法都是我们自己安排"
+    },
+    {
+      "end_seconds": 51.266,
+      "id": "youtube-OZObmzuE9Ho#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.633,
+      "text": "按照自己的喜好去做的"
+    },
+    {
+      "end_seconds": 53.466,
+      "id": "youtube-OZObmzuE9Ho#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.266,
+      "text": "最后的效果也是非常的好"
+    },
+    {
+      "end_seconds": 55.433,
+      "id": "youtube-OZObmzuE9Ho#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.466,
+      "text": "我之前上传过我们的婚礼视频"
+    },
+    {
+      "end_seconds": 56.2,
+      "id": "youtube-OZObmzuE9Ho#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.433,
+      "text": "大家也能看出来"
+    },
+    {
+      "end_seconds": 57.533,
+      "id": "youtube-OZObmzuE9Ho#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.2,
+      "text": "这个婚礼是一个很真诚"
+    },
+    {
+      "end_seconds": 58.933,
+      "id": "youtube-OZObmzuE9Ho#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.533,
+      "text": "而且很幸福啊"
+    },
+    {
+      "end_seconds": 60.666,
+      "id": "youtube-OZObmzuE9Ho#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.933,
+      "text": "来宾们也都非常开心的一个婚礼"
+    },
+    {
+      "end_seconds": 63.633,
+      "id": "youtube-OZObmzuE9Ho#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.666,
+      "text": "我们也留下了非常愉快的回忆啊"
+    },
+    {
+      "end_seconds": 65.0,
+      "id": "youtube-OZObmzuE9Ho#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.633,
+      "text": "可是我们的婚礼是在美国办的"
+    },
+    {
+      "end_seconds": 66.366,
+      "id": "youtube-OZObmzuE9Ho#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.0,
+      "text": "所以说可能对国内的情况"
+    },
+    {
+      "end_seconds": 67.166,
+      "id": "youtube-OZObmzuE9Ho#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.366,
+      "text": "不一定特别有"
+    },
+    {
+      "end_seconds": 67.933,
+      "id": "youtube-OZObmzuE9Ho#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.166,
+      "text": "借鉴意义所以说"
+    },
+    {
+      "end_seconds": 68.633,
+      "id": "youtube-OZObmzuE9Ho#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.933,
+      "text": "我请了一位"
+    },
+    {
+      "end_seconds": 70.466,
+      "id": "youtube-OZObmzuE9Ho#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.633,
+      "text": "在国内成功的办了一个这样"
+    },
+    {
+      "end_seconds": 71.633,
+      "id": "youtube-OZObmzuE9Ho#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.466,
+      "text": "反套路婚礼的"
+    },
+    {
+      "end_seconds": 72.266,
+      "id": "youtube-OZObmzuE9Ho#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.633,
+      "text": "朋友"
+    },
+    {
+      "end_seconds": 74.433,
+      "id": "youtube-OZObmzuE9Ho#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.266,
+      "text": "来给大家介绍一下国内的经验"
+    },
+    {
+      "end_seconds": 74.966,
+      "id": "youtube-OZObmzuE9Ho#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.433,
+      "text": "这期视频"
+    },
+    {
+      "end_seconds": 77.166,
+      "id": "youtube-OZObmzuE9Ho#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.966,
+      "text": "我就采访了我的老婆和这个朋友"
+    },
+    {
+      "end_seconds": 78.166,
+      "id": "youtube-OZObmzuE9Ho#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.166,
+      "text": "录了3期视频"
+    },
+    {
+      "end_seconds": 79.2,
+      "id": "youtube-OZObmzuE9Ho#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.533,
+      "text": "第一期视频"
+    },
+    {
+      "end_seconds": 81.266,
+      "id": "youtube-OZObmzuE9Ho#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.2,
+      "text": "我们介绍了一下这两个反套路婚礼"
+    },
+    {
+      "end_seconds": 83.466,
+      "id": "youtube-OZObmzuE9Ho#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.333,
+      "text": "大概的样子和流程"
+    },
+    {
+      "end_seconds": 85.4,
+      "id": "youtube-OZObmzuE9Ho#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 83.466,
+      "text": "大家不一定需要按照这个模板去来"
+    },
+    {
+      "end_seconds": 85.8,
+      "id": "youtube-OZObmzuE9Ho#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.4,
+      "text": "但是大家"
+    },
+    {
+      "end_seconds": 86.366,
+      "id": "youtube-OZObmzuE9Ho#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.8,
+      "text": "起码知道了"
+    },
+    {
+      "end_seconds": 87.333,
+      "id": "youtube-OZObmzuE9Ho#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 86.366,
+      "text": "一个反套路婚礼"
+    },
+    {
+      "end_seconds": 87.6,
+      "id": "youtube-OZObmzuE9Ho#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.333,
+      "text": "和"
+    },
+    {
+      "end_seconds": 89.433,
+      "id": "youtube-OZObmzuE9Ho#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.6,
+      "text": "一个套路婚礼到底是有什么不一样"
+    },
+    {
+      "end_seconds": 91.7,
+      "id": "youtube-OZObmzuE9Ho#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.666,
+      "text": "第二期也是最重要的一期"
+    },
+    {
+      "end_seconds": 93.866,
+      "id": "youtube-OZObmzuE9Ho#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.766,
+      "text": "是做这个反套路婚礼"
+    },
+    {
+      "end_seconds": 96.533,
+      "id": "youtube-OZObmzuE9Ho#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.866,
+      "text": "背后的一些心态和思维模式"
+    },
+    {
+      "end_seconds": 97.766,
+      "id": "youtube-OZObmzuE9Ho#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.533,
+      "text": "你们之间怎么沟通"
+    },
+    {
+      "end_seconds": 99.133,
+      "id": "youtube-OZObmzuE9Ho#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.766,
+      "text": "你们跟家长怎么沟通"
+    },
+    {
+      "end_seconds": 101.033,
+      "id": "youtube-OZObmzuE9Ho#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.133,
+      "text": "如何利用这样一场婚礼"
+    },
+    {
+      "end_seconds": 102.533,
+      "id": "youtube-OZObmzuE9Ho#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.033,
+      "text": "去建立铺垫"
+    },
+    {
+      "end_seconds": 103.6,
+      "id": "youtube-OZObmzuE9Ho#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.533,
+      "text": "你们未来婚姻"
+    },
+    {
+      "end_seconds": 105.533,
+      "id": "youtube-OZObmzuE9Ho#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.6,
+      "text": "中更好的一个沟通方式"
+    },
+    {
+      "end_seconds": 107.233,
+      "id": "youtube-OZObmzuE9Ho#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.533,
+      "text": "从而为你自己未来的婚姻"
+    },
+    {
+      "end_seconds": 108.566,
+      "id": "youtube-OZObmzuE9Ho#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.233,
+      "text": "打下一个更好的"
+    },
+    {
+      "end_seconds": 109.766,
+      "id": "youtube-OZObmzuE9Ho#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.566,
+      "text": "基础第三部分"
+    },
+    {
+      "end_seconds": 112.733,
+      "id": "youtube-OZObmzuE9Ho#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.766,
+      "text": "我们会介绍一下具体的实际操作"
+    },
+    {
+      "end_seconds": 113.333,
+      "id": "youtube-OZObmzuE9Ho#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.733,
+      "text": "就比如说"
+    },
+    {
+      "end_seconds": 115.166,
+      "id": "youtube-OZObmzuE9Ho#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.333,
+      "text": "你应该怎么样子去请四大金刚"
+    },
+    {
+      "end_seconds": 116.066,
+      "id": "youtube-OZObmzuE9Ho#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.166,
+      "text": "在哪里要花钱"
+    },
+    {
+      "end_seconds": 117.333,
+      "id": "youtube-OZObmzuE9Ho#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.066,
+      "text": "大概要花什么钱"
+    },
+    {
+      "end_seconds": 118.966,
+      "id": "youtube-OZObmzuE9Ho#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.333,
+      "text": "提前多长时间去准备"
+    },
+    {
+      "end_seconds": 119.566,
+      "id": "youtube-OZObmzuE9Ho#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.966,
+      "text": "怎么样子"
+    },
+    {
+      "end_seconds": 121.066,
+      "id": "youtube-OZObmzuE9Ho#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.566,
+      "text": "在一个时间比较短的情况下"
+    },
+    {
+      "end_seconds": 121.966,
+      "id": "youtube-OZObmzuE9Ho#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.066,
+      "text": "把这些东西做好"
+    },
+    {
+      "end_seconds": 123.066,
+      "id": "youtube-OZObmzuE9Ho#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.966,
+      "text": "而且让自己不太累"
+    },
+    {
+      "end_seconds": 124.333,
+      "id": "youtube-OZObmzuE9Ho#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.066,
+      "text": "比如说像我那个朋友"
+    },
+    {
+      "end_seconds": 125.5,
+      "id": "youtube-OZObmzuE9Ho#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 124.333,
+      "text": "他们是两个月的时候"
+    },
+    {
+      "end_seconds": 126.8,
+      "id": "youtube-OZObmzuE9Ho#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.8,
+      "text": "就是提前两个月"
+    },
+    {
+      "end_seconds": 128.8,
+      "id": "youtube-OZObmzuE9Ho#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 126.8,
+      "text": "才临时决定要去做这个婚礼的"
+    },
+    {
+      "end_seconds": 130.766,
+      "id": "youtube-OZObmzuE9Ho#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.8,
+      "text": "哪怕在这么紧的时间线下"
+    },
+    {
+      "end_seconds": 132.766,
+      "id": "youtube-OZObmzuE9Ho#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 130.766,
+      "text": "很多东西也都是自己亲手做的"
+    },
+    {
+      "end_seconds": 134.833,
+      "id": "youtube-OZObmzuE9Ho#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.766,
+      "text": "包括啊定制的礼物啊等等"
+    },
+    {
+      "end_seconds": 137.0,
+      "id": "youtube-OZObmzuE9Ho#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.833,
+      "text": "那准备这么多东西时间这么短"
+    },
+    {
+      "end_seconds": 137.533,
+      "id": "youtube-OZObmzuE9Ho#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.0,
+      "text": "最后的效果"
+    },
+    {
+      "end_seconds": 138.333,
+      "id": "youtube-OZObmzuE9Ho#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.533,
+      "text": "又很好"
+    },
+    {
+      "end_seconds": 140.4,
+      "id": "youtube-OZObmzuE9Ho#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 138.366,
+      "text": "这里也可以跟大家详细介绍一下"
+    },
+    {
+      "end_seconds": 142.2,
+      "id": "youtube-OZObmzuE9Ho#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.4,
+      "text": "在备婚过程中的一些经验"
+    },
+    {
+      "end_seconds": 143.833,
+      "id": "youtube-OZObmzuE9Ho#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 142.2,
+      "text": "什么是重要的什么是不重要的"
+    },
+    {
+      "end_seconds": 145.366,
+      "id": "youtube-OZObmzuE9Ho#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 143.833,
+      "text": "帮助大家可以更好地"
+    },
+    {
+      "end_seconds": 146.333,
+      "id": "youtube-OZObmzuE9Ho#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.366,
+      "text": "更游刃有余地"
+    },
+    {
+      "end_seconds": 148.033,
+      "id": "youtube-OZObmzuE9Ho#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 146.333,
+      "text": "去准备一场自己喜欢的婚礼"
+    },
+    {
+      "end_seconds": 149.633,
+      "id": "youtube-OZObmzuE9Ho#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 148.033,
+      "text": "那话不多说我们正式开始"
+    },
+    {
+      "end_seconds": 150.4,
+      "id": "youtube-OZObmzuE9Ho#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.666,
+      "text": "哈喽两位"
+    },
+    {
+      "end_seconds": 152.333,
+      "id": "youtube-OZObmzuE9Ho#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.4,
+      "text": "欢迎来到课代表立正的频道"
+    },
+    {
+      "end_seconds": 153.8,
+      "id": "youtube-OZObmzuE9Ho#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 152.333,
+      "text": "要不要做一下自我介绍"
+    },
+    {
+      "end_seconds": 155.866,
+      "id": "youtube-OZObmzuE9Ho#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.866,
+      "text": "我是课代表立正的老婆"
+    },
+    {
+      "end_seconds": 157.466,
+      "id": "youtube-OZObmzuE9Ho#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 155.866,
+      "text": "大家好我是Lisa"
+    },
+    {
+      "end_seconds": 160.566,
+      "id": "youtube-OZObmzuE9Ho#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.766,
+      "text": "好的今天我们的频道的话题是"
+    },
+    {
+      "end_seconds": 161.833,
+      "id": "youtube-OZObmzuE9Ho#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.566,
+      "text": "如何准备一场"
+    },
+    {
+      "end_seconds": 163.266,
+      "id": "youtube-OZObmzuE9Ho#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 162.0,
+      "text": "反套路婚礼"
+    },
+    {
+      "end_seconds": 164.833,
+      "id": "youtube-OZObmzuE9Ho#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.266,
+      "text": "套路是最简单的"
+    },
+    {
+      "end_seconds": 167.1,
+      "id": "youtube-OZObmzuE9Ho#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 164.866,
+      "text": "有一些固定的流程"
+    },
+    {
+      "end_seconds": 167.8,
+      "id": "youtube-OZObmzuE9Ho#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.2,
+      "text": "我们"
+    },
+    {
+      "end_seconds": 169.766,
+      "id": "youtube-OZObmzuE9Ho#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.8,
+      "text": "其实后来就有一个朋友跟我们讲"
+    },
+    {
+      "end_seconds": 170.833,
+      "id": "youtube-OZObmzuE9Ho#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 169.766,
+      "text": "其实你去想象"
+    },
+    {
+      "end_seconds": 172.466,
+      "id": "youtube-OZObmzuE9Ho#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 170.833,
+      "text": "所有的流程都是fill the day"
+    },
+    {
+      "end_seconds": 174.6,
+      "id": "youtube-OZObmzuE9Ho#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 172.466,
+      "text": "因为真正你的婚礼"
+    },
+    {
+      "end_seconds": 176.6,
+      "id": "youtube-OZObmzuE9Ho#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 174.666,
+      "text": "关于你就是在一个"
+    },
+    {
+      "end_seconds": 177.5,
+      "id": "youtube-OZObmzuE9Ho#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 176.766,
+      "text": "套路婚礼里边"
+    },
+    {
+      "end_seconds": 179.566,
+      "id": "youtube-OZObmzuE9Ho#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.5,
+      "text": "关于你的时间是很少的"
+    },
+    {
+      "end_seconds": 180.566,
+      "id": "youtube-OZObmzuE9Ho#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.566,
+      "text": "安排那么多环节"
+    },
+    {
+      "end_seconds": 182.4,
+      "id": "youtube-OZObmzuE9Ho#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.566,
+      "text": "都是为了让这一天显得非常热闹"
+    },
+    {
+      "end_seconds": 183.666,
+      "id": "youtube-OZObmzuE9Ho#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 182.4,
+      "text": "非常eventful"
+    },
+    {
+      "end_seconds": 186.6,
+      "id": "youtube-OZObmzuE9Ho#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.366,
+      "text": "接亲啊然后过来啊"
+    },
+    {
+      "end_seconds": 188.7,
+      "id": "youtube-OZObmzuE9Ho#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.6,
+      "text": "拍照啊然后讲话呀"
+    },
+    {
+      "end_seconds": 191.133,
+      "id": "youtube-OZObmzuE9Ho#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.7,
+      "text": "司仪爸妈讲话吃饭"
+    },
+    {
+      "end_seconds": 192.4,
+      "id": "youtube-OZObmzuE9Ho#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 191.166,
+      "text": "做各种各样的游戏"
+    },
+    {
+      "end_seconds": 193.866,
+      "id": "youtube-OZObmzuE9Ho#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 192.4,
+      "text": "还有抽奖环节等等"
+    },
+    {
+      "end_seconds": 195.966,
+      "id": "youtube-OZObmzuE9Ho#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.9,
+      "text": "但是像我之前"
+    },
+    {
+      "end_seconds": 197.3,
+      "id": "youtube-OZObmzuE9Ho#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 195.966,
+      "text": "就是一个不知道自己"
+    },
+    {
+      "end_seconds": 198.733,
+      "id": "youtube-OZObmzuE9Ho#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.3,
+      "text": "的婚姻有多么重要的人"
+    },
+    {
+      "end_seconds": 201.8,
+      "id": "youtube-OZObmzuE9Ho#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 198.9,
+      "text": "在老婆大人的enlightenment之下"
+    },
+    {
+      "end_seconds": 203.6,
+      "id": "youtube-OZObmzuE9Ho#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 202.033,
+      "text": "你不用叫我老婆大人"
+    },
+    {
+      "end_seconds": 206.166,
+      "id": "youtube-OZObmzuE9Ho#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 203.7,
+      "text": "啊在我老婆的enlightenment之下"
+    },
+    {
+      "end_seconds": 208.4,
+      "id": "youtube-OZObmzuE9Ho#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 206.366,
+      "text": "知道的婚礼是多重要的"
+    },
+    {
+      "end_seconds": 209.366,
+      "id": "youtube-OZObmzuE9Ho#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 208.4,
+      "text": "所以说也知道了"
+    },
+    {
+      "end_seconds": 211.1,
+      "id": "youtube-OZObmzuE9Ho#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.366,
+      "text": "就是如果想要做一个"
+    },
+    {
+      "end_seconds": 212.2,
+      "id": "youtube-OZObmzuE9Ho#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.1,
+      "text": "啊不那么套路婚礼"
+    },
+    {
+      "end_seconds": 214.366,
+      "id": "youtube-OZObmzuE9Ho#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 212.2,
+      "text": "其实是有很多东西要想的"
+    },
+    {
+      "end_seconds": 216.7,
+      "id": "youtube-OZObmzuE9Ho#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.366,
+      "text": "这里边就请两位刚刚"
+    },
+    {
+      "end_seconds": 219.5,
+      "id": "youtube-OZObmzuE9Ho#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.7,
+      "text": "啊办过很成功的反套路婚礼的人"
+    },
+    {
+      "end_seconds": 220.733,
+      "id": "youtube-OZObmzuE9Ho#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.5,
+      "text": "来给我们介绍一下经验吧"
+    },
+    {
+      "end_seconds": 222.3,
+      "id": "youtube-OZObmzuE9Ho#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.8,
+      "text": "Lisa是在国内办的"
+    },
+    {
+      "end_seconds": 224.2,
+      "id": "youtube-OZObmzuE9Ho#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.366,
+      "text": "就是其实"
+    },
+    {
+      "end_seconds": 226.966,
+      "id": "youtube-OZObmzuE9Ho#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 224.566,
+      "text": "我们办婚礼是一个非常突然的决定"
+    },
+    {
+      "end_seconds": 230.066,
+      "id": "youtube-OZObmzuE9Ho#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 227.2,
+      "text": "因为要回国然后觉得时间很紧迫"
+    },
+    {
+      "end_seconds": 232.633,
+      "id": "youtube-OZObmzuE9Ho#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 230.066,
+      "text": "说不如就趁这个机会把婚礼办了"
+    },
+    {
+      "end_seconds": 235.166,
+      "id": "youtube-OZObmzuE9Ho#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 232.633,
+      "text": "所以后来就决定说在临"
+    },
+    {
+      "end_seconds": 236.633,
+      "id": "youtube-OZObmzuE9Ho#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 235.4,
+      "text": "回国两个月前"
+    },
+    {
+      "end_seconds": 238.233,
+      "id": "youtube-OZObmzuE9Ho#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 236.633,
+      "text": "开始了这个准备工作"
+    },
+    {
+      "end_seconds": 241.133,
+      "id": "youtube-OZObmzuE9Ho#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.233,
+      "text": "所以在西雅图就是异地备婚"
+    },
+    {
+      "end_seconds": 243.5,
+      "id": "youtube-OZObmzuE9Ho#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 241.233,
+      "text": "然后9月份参加的国内的婚礼"
+    },
+    {
+      "end_seconds": 245.7,
+      "id": "youtube-OZObmzuE9Ho#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 243.5,
+      "text": "在北京是在一个什么样的地方"
+    },
+    {
+      "end_seconds": 250.066,
+      "id": "youtube-OZObmzuE9Ho#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.166,
+      "text": "我们的婚礼其实很小型就是"
+    },
+    {
+      "end_seconds": 252.7,
+      "id": "youtube-OZObmzuE9Ho#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 250.4,
+      "text": "啊算下来大概50人左右"
+    },
+    {
+      "end_seconds": 256.366,
+      "id": "youtube-OZObmzuE9Ho#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 252.7,
+      "text": "就是只有最close的friends和family这样"
+    },
+    {
+      "end_seconds": 257.833,
+      "id": "youtube-OZObmzuE9Ho#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 256.366,
+      "text": "然后还有一些朋友"
+    },
+    {
+      "end_seconds": 259.7,
+      "id": "youtube-OZObmzuE9Ho#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 257.833,
+      "text": "因为在别的国家不能来"
+    },
+    {
+      "end_seconds": 261.2,
+      "id": "youtube-OZObmzuE9Ho#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.7,
+      "text": "所以也拍了视频"
+    },
+    {
+      "end_seconds": 261.8,
+      "id": "youtube-OZObmzuE9Ho#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.2,
+      "text": "但是"
+    },
+    {
+      "end_seconds": 264.366,
+      "id": "youtube-OZObmzuE9Ho#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.8,
+      "text": "规模整个来说是一个非常非常小的"
+    },
+    {
+      "end_seconds": 266.766,
+      "id": "youtube-OZObmzuE9Ho#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 264.366,
+      "text": "啊然后地点的选择上啊"
+    },
+    {
+      "end_seconds": 270.066,
+      "id": "youtube-OZObmzuE9Ho#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 266.766,
+      "text": "选了一个室外室内都有的一个"
+    },
+    {
+      "end_seconds": 271.8,
+      "id": "youtube-OZObmzuE9Ho#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 270.2,
+      "text": "茶院的感觉的地方"
+    },
+    {
+      "end_seconds": 273.633,
+      "id": "youtube-OZObmzuE9Ho#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.866,
+      "text": "一般人不太会想到去个茶室"
+    },
+    {
+      "end_seconds": 274.233,
+      "id": "youtube-OZObmzuE9Ho#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 273.633,
+      "text": "办婚礼吧"
+    },
+    {
+      "end_seconds": 277.933,
+      "id": "youtube-OZObmzuE9Ho#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 274.433,
+      "text": "其实一开始我有找到过很多啊"
+    },
+    {
+      "end_seconds": 280.3,
+      "id": "youtube-OZObmzuE9Ho#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 278.033,
+      "text": "我自己比较喜欢的婚礼风格"
+    },
+    {
+      "end_seconds": 282.1,
+      "id": "youtube-OZObmzuE9Ho#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 280.3,
+      "text": "然后但他们有一些不在北京"
+    },
+    {
+      "end_seconds": 284.466,
+      "id": "youtube-OZObmzuE9Ho#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.366,
+      "text": "所以我就从北京有限的范围内"
+    },
+    {
+      "end_seconds": 285.633,
+      "id": "youtube-OZObmzuE9Ho#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 284.466,
+      "text": "去缩小到"
+    },
+    {
+      "end_seconds": 287.7,
+      "id": "youtube-OZObmzuE9Ho#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.633,
+      "text": "符合我自己喜好的"
+    },
+    {
+      "end_seconds": 289.966,
+      "id": "youtube-OZObmzuE9Ho#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 287.7,
+      "text": "比如说我的喜好就是希望自然"
+    },
+    {
+      "end_seconds": 291.566,
+      "id": "youtube-OZObmzuE9Ho#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 289.966,
+      "text": "但你知道北京是一个城市"
+    },
+    {
+      "end_seconds": 293.833,
+      "id": "youtube-OZObmzuE9Ho#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 291.566,
+      "text": "其实自然的没有那么多啊"
+    },
+    {
+      "end_seconds": 296.033,
+      "id": "youtube-OZObmzuE9Ho#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.833,
+      "text": "所以这一下就缩小了很多范围"
+    },
+    {
+      "end_seconds": 298.9,
+      "id": "youtube-OZObmzuE9Ho#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 296.033,
+      "text": "比如说酒店室内的那就都pass掉了"
+    },
+    {
+      "end_seconds": 300.9,
+      "id": "youtube-OZObmzuE9Ho#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 298.966,
+      "text": "那接下来就是一些室外的"
+    },
+    {
+      "end_seconds": 304.066,
+      "id": "youtube-OZObmzuE9Ho#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 300.9,
+      "text": "那室外场地啊可能"
+    },
+    {
+      "end_seconds": 307.3,
+      "id": "youtube-OZObmzuE9Ho#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 304.433,
+      "text": "然后我老公的要求是要吃的好"
+    },
+    {
+      "end_seconds": 309.8,
+      "id": "youtube-OZObmzuE9Ho#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 307.3,
+      "text": "那可能有一些像美术馆这种啊"
+    },
+    {
+      "end_seconds": 310.833,
+      "id": "youtube-OZObmzuE9Ho#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 309.8,
+      "text": "就是catering"
+    },
+    {
+      "end_seconds": 311.833,
+      "id": "youtube-OZObmzuE9Ho#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 310.833,
+      "text": "他们不是自己"
+    },
+    {
+      "end_seconds": 314.0,
+      "id": "youtube-OZObmzuE9Ho#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 311.833,
+      "text": "或者是自己的并没有很完善的地方"
+    },
+    {
+      "end_seconds": 315.166,
+      "id": "youtube-OZObmzuE9Ho#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 314.0,
+      "text": "可能又被pass掉了"
+    },
+    {
+      "end_seconds": 316.866,
+      "id": "youtube-OZObmzuE9Ho#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 315.166,
+      "text": "所以我们可能选择的就是类似"
+    },
+    {
+      "end_seconds": 318.033,
+      "id": "youtube-OZObmzuE9Ho#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.866,
+      "text": "像餐厅这种地方"
+    },
+    {
+      "end_seconds": 320.266,
+      "id": "youtube-OZObmzuE9Ho#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 318.033,
+      "text": "就是吃的有保障啊"
+    },
+    {
+      "end_seconds": 322.8,
+      "id": "youtube-OZObmzuE9Ho#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 320.266,
+      "text": "同时场地又比较自然生态"
+    },
+    {
+      "end_seconds": 325.366,
+      "id": "youtube-OZObmzuE9Ho#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.8,
+      "text": "然后刚好北京有这么一个茶室"
+    },
+    {
+      "end_seconds": 326.533,
+      "id": "youtube-OZObmzuE9Ho#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 325.366,
+      "text": "它其实非常的漂亮"
+    },
+    {
+      "end_seconds": 328.8,
+      "id": "youtube-OZObmzuE9Ho#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.633,
+      "text": "就是有孔雀有鸽子"
+    },
+    {
+      "end_seconds": 331.466,
+      "id": "youtube-OZObmzuE9Ho#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.8,
+      "text": "然后有喷泉有柳树"
+    },
+    {
+      "end_seconds": 334.4,
+      "id": "youtube-OZObmzuE9Ho#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 331.466,
+      "text": "就是我从图片上就是一眼相中就是"
+    },
+    {
+      "end_seconds": 336.5,
+      "id": "youtube-OZObmzuE9Ho#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 334.4,
+      "text": "一见钟情这个场地"
+    },
+    {
+      "end_seconds": 338.666,
+      "id": "youtube-OZObmzuE9Ho#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.566,
+      "text": "所以后来就在"
+    },
+    {
+      "end_seconds": 341.966,
+      "id": "youtube-OZObmzuE9Ho#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 338.866,
+      "text": "对比了其他几个类似的场馆之后"
+    },
+    {
+      "end_seconds": 343.666,
+      "id": "youtube-OZObmzuE9Ho#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 341.966,
+      "text": "也询问了档期之后"
+    },
+    {
+      "end_seconds": 345.033,
+      "id": "youtube-OZObmzuE9Ho#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.666,
+      "text": "就是非常幸运的"
+    },
+    {
+      "end_seconds": 347.0,
+      "id": "youtube-OZObmzuE9Ho#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 345.033,
+      "text": "这个这个场地刚好还有档期"
+    },
+    {
+      "end_seconds": 348.233,
+      "id": "youtube-OZObmzuE9Ho#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 347.0,
+      "text": "于是我们就敲定了"
+    },
+    {
+      "end_seconds": 349.9,
+      "id": "youtube-OZObmzuE9Ho#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 348.266,
+      "text": "你在国内办和传统婚礼"
+    },
+    {
+      "end_seconds": 351.833,
+      "id": "youtube-OZObmzuE9Ho#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 349.966,
+      "text": "传统套路婚礼相比的话少了什么"
+    },
+    {
+      "end_seconds": 352.433,
+      "id": "youtube-OZObmzuE9Ho#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 351.833,
+      "text": "多了什么"
+    },
+    {
+      "end_seconds": 353.766,
+      "id": "youtube-OZObmzuE9Ho#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.433,
+      "text": "OK啊"
+    },
+    {
+      "end_seconds": 358.233,
+      "id": "youtube-OZObmzuE9Ho#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.633,
+      "text": "就我们而言我们因为是晚宴嘛"
+    },
+    {
+      "end_seconds": 361.666,
+      "id": "youtube-OZObmzuE9Ho#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 358.233,
+      "text": "相当于是从下午开始宾客才来"
+    },
+    {
+      "end_seconds": 365.366,
+      "id": "youtube-OZObmzuE9Ho#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 361.666,
+      "text": "所以我们婚礼一天当天是中午"
+    },
+    {
+      "end_seconds": 370.033,
+      "id": "youtube-OZObmzuE9Ho#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 365.766,
+      "text": "先去北京的那种瓦片咖啡"
+    },
+    {
+      "end_seconds": 371.266,
+      "id": "youtube-OZObmzuE9Ho#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 370.033,
+      "text": "跟摄影师吃"
+    },
+    {
+      "end_seconds": 373.833,
+      "id": "youtube-OZObmzuE9Ho#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.633,
+      "text": "是简单的聊了聊见了个面"
+    },
+    {
+      "end_seconds": 376.133,
+      "id": "youtube-OZObmzuE9Ho#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 373.833,
+      "text": "然后我在那把我的誓言抄完了"
+    },
+    {
+      "end_seconds": 377.233,
+      "id": "youtube-OZObmzuE9Ho#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 376.2,
+      "text": "哈哈哈"
+    },
+    {
+      "end_seconds": 380.866,
+      "id": "youtube-OZObmzuE9Ho#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 377.233,
+      "text": "然后就是中午大概坐到一两点然后"
+    },
+    {
+      "end_seconds": 382.633,
+      "id": "youtube-OZObmzuE9Ho#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 380.9,
+      "text": "我们可能就去场地"
+    },
+    {
+      "end_seconds": 384.666,
+      "id": "youtube-OZObmzuE9Ho#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 382.633,
+      "text": "然后点了个外卖肯德基"
+    },
+    {
+      "end_seconds": 385.766,
+      "id": "youtube-OZObmzuE9Ho#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.666,
+      "text": "吃了个老北京鸡肉卷"
+    },
+    {
+      "end_seconds": 387.133,
+      "id": "youtube-OZObmzuE9Ho#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 385.966,
+      "text": "这有点太细节了是吧"
+    },
+    {
+      "end_seconds": 389.366,
+      "id": "youtube-OZObmzuE9Ho#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 387.4,
+      "text": "哎这些都是很好的memory你知道吗"
+    },
+    {
+      "end_seconds": 390.866,
+      "id": "youtube-OZObmzuE9Ho#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 389.366,
+      "text": "就很有意思对"
+    },
+    {
+      "end_seconds": 393.0,
+      "id": "youtube-OZObmzuE9Ho#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 391.0,
+      "text": "然后后来就开始流程"
+    },
+    {
+      "end_seconds": 394.966,
+      "id": "youtube-OZObmzuE9Ho#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 393.0,
+      "text": "然后我们先是啊穿着"
+    },
+    {
+      "end_seconds": 397.8,
+      "id": "youtube-OZObmzuE9Ho#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 395.166,
+      "text": "自己一开始简单的服装拍了拍照片"
+    },
+    {
+      "end_seconds": 399.033,
+      "id": "youtube-OZObmzuE9Ho#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 397.8,
+      "text": "就是适应一下场地"
+    },
+    {
+      "end_seconds": 400.733,
+      "id": "youtube-OZObmzuE9Ho#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 399.033,
+      "text": "和摄影师的一个沟通"
+    },
+    {
+      "end_seconds": 403.466,
+      "id": "youtube-OZObmzuE9Ho#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 401.0,
+      "text": "因为我们其实当天是第一次见面"
+    },
+    {
+      "end_seconds": 404.966,
+      "id": "youtube-OZObmzuE9Ho#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 403.466,
+      "text": "因为也是异地的缘故"
+    },
+    {
+      "end_seconds": 407.3,
+      "id": "youtube-OZObmzuE9Ho#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 404.966,
+      "text": "所以我们是第一天就是互相"
+    },
+    {
+      "end_seconds": 410.1,
+      "id": "youtube-OZObmzuE9Ho#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 407.433,
+      "text": "熟悉一下了解一下 接下来的"
+    },
+    {
+      "end_seconds": 412.633,
+      "id": "youtube-OZObmzuE9Ho#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.1,
+      "text": "拍摄的基调这种感觉"
+    },
+    {
+      "end_seconds": 415.6,
+      "id": "youtube-OZObmzuE9Ho#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 412.633,
+      "text": "然后接下来就进入了 父母敬茶"
+    },
+    {
+      "end_seconds": 417.766,
+      "id": "youtube-OZObmzuE9Ho#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 415.8,
+      "text": "这个是我们保留的传统环节"
+    },
+    {
+      "end_seconds": 418.8,
+      "id": "youtube-OZObmzuE9Ho#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 417.766,
+      "text": "因为我觉得"
+    },
+    {
+      "end_seconds": 421.733,
+      "id": "youtube-OZObmzuE9Ho#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 418.9,
+      "text": "啊平时跟父母接触也不是很多"
+    },
+    {
+      "end_seconds": 423.733,
+      "id": "youtube-OZObmzuE9Ho#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 421.833,
+      "text": "难得的机会可以"
+    },
+    {
+      "end_seconds": 424.833,
+      "id": "youtube-OZObmzuE9Ho#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 423.866,
+      "text": "改口呀"
+    },
+    {
+      "end_seconds": 427.0,
+      "id": "youtube-OZObmzuE9Ho#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.833,
+      "text": "敬茶呀还是对我来说蛮重要的"
+    },
+    {
+      "end_seconds": 428.566,
+      "id": "youtube-OZObmzuE9Ho#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.0,
+      "text": "所以保留了这个环节"
+    },
+    {
+      "end_seconds": 430.6,
+      "id": "youtube-OZObmzuE9Ho#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 428.566,
+      "text": "紧接着就是"
+    },
+    {
+      "end_seconds": 432.1,
+      "id": "youtube-OZObmzuE9Ho#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 430.8,
+      "text": "其实就是主仪式了"
+    },
+    {
+      "end_seconds": 433.5,
+      "id": "youtube-OZObmzuE9Ho#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.1,
+      "text": "因为我们时间很紧"
+    },
+    {
+      "end_seconds": 436.1,
+      "id": "youtube-OZObmzuE9Ho#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 433.5,
+      "text": "然后我们都没有就是像接"
+    },
+    {
+      "end_seconds": 437.566,
+      "id": "youtube-OZObmzuE9Ho#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 436.1,
+      "text": "就是什么迎宾"
+    },
+    {
+      "end_seconds": 439.7,
+      "id": "youtube-OZObmzuE9Ho#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 437.566,
+      "text": "这样的都没有这个环节就直接"
+    },
+    {
+      "end_seconds": 441.866,
+      "id": "youtube-OZObmzuE9Ho#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 439.7,
+      "text": "啊接下来就是宾客来"
+    },
+    {
+      "end_seconds": 444.766,
+      "id": "youtube-OZObmzuE9Ho#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 441.866,
+      "text": "他们可以自由的在外面喝喝小酒"
+    },
+    {
+      "end_seconds": 446.6,
+      "id": "youtube-OZObmzuE9Ho#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 444.766,
+      "text": "聊聊天然后"
+    },
+    {
+      "end_seconds": 448.5,
+      "id": "youtube-OZObmzuE9Ho#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 446.833,
+      "text": "我们我自己就在屋里"
+    },
+    {
+      "end_seconds": 450.1,
+      "id": "youtube-OZObmzuE9Ho#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 448.5,
+      "text": "就准备换主纱了"
+    },
+    {
+      "end_seconds": 451.9,
+      "id": "youtube-OZObmzuE9Ho#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 450.233,
+      "text": "然后这个之间好像"
+    },
+    {
+      "end_seconds": 454.933,
+      "id": "youtube-OZObmzuE9Ho#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.9,
+      "text": "换主纱之后我们先是有个first look"
+    },
+    {
+      "end_seconds": 456.633,
+      "id": "youtube-OZObmzuE9Ho#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.166,
+      "text": "我也是相当于比较"
+    },
+    {
+      "end_seconds": 458.066,
+      "id": "youtube-OZObmzuE9Ho#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 456.633,
+      "text": "private的一个environment"
+    },
+    {
+      "end_seconds": 460.033,
+      "id": "youtube-OZObmzuE9Ho#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 458.066,
+      "text": "因为我不太希望家人朋友都在"
+    },
+    {
+      "end_seconds": 461.666,
+      "id": "youtube-OZObmzuE9Ho#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 460.033,
+      "text": "但是我们是open space"
+    },
+    {
+      "end_seconds": 463.266,
+      "id": "youtube-OZObmzuE9Ho#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.833,
+      "text": "就是他们只是离我们远一点"
+    },
+    {
+      "end_seconds": 464.433,
+      "id": "youtube-OZObmzuE9Ho#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 463.266,
+      "text": "他们不能在我旁边"
+    },
+    {
+      "end_seconds": 466.833,
+      "id": "youtube-OZObmzuE9Ho#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 464.433,
+      "text": "但是可能还是在室外的场所"
+    },
+    {
+      "end_seconds": 469.266,
+      "id": "youtube-OZObmzuE9Ho#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 466.833,
+      "text": "然后这个之后就直接进入仪式了"
+    },
+    {
+      "end_seconds": 471.666,
+      "id": "youtube-OZObmzuE9Ho#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 469.266,
+      "text": "然后仪式完了我们就是"
+    },
+    {
+      "end_seconds": 473.8,
+      "id": "youtube-OZObmzuE9Ho#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 471.666,
+      "text": "进到室内去吃晚宴因为"
+    },
+    {
+      "end_seconds": 476.133,
+      "id": "youtube-OZObmzuE9Ho#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 473.8,
+      "text": "我们的主仪式是在室外的"
+    },
+    {
+      "end_seconds": 478.7,
+      "id": "youtube-OZObmzuE9Ho#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 476.133,
+      "text": "是在那个茶室的池塘边上"
+    },
+    {
+      "end_seconds": 480.733,
+      "id": "youtube-OZObmzuE9Ho#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 478.833,
+      "text": "然后"
+    },
+    {
+      "end_seconds": 483.3,
+      "id": "youtube-OZObmzuE9Ho#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 481.333,
+      "text": "接下来就是晚宴"
+    },
+    {
+      "end_seconds": 487.2,
+      "id": "youtube-OZObmzuE9Ho#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 485.266,
+      "text": "主仪式是"
+    },
+    {
+      "end_seconds": 489.366,
+      "id": "youtube-OZObmzuE9Ho#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 487.2,
+      "text": "比较简单的吧"
+    },
+    {
+      "end_seconds": 493.6,
+      "id": "youtube-OZObmzuE9Ho#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 489.366,
+      "text": "就是啊两个人大概有致辞"
+    },
+    {
+      "end_seconds": 496.8,
+      "id": "youtube-OZObmzuE9Ho#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 494.033,
+      "text": "双方致辞完了还有就是"
+    },
+    {
+      "end_seconds": 498.433,
+      "id": "youtube-OZObmzuE9Ho#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 496.8,
+      "text": "他有好朋友的发言"
+    },
+    {
+      "end_seconds": 499.733,
+      "id": "youtube-OZObmzuE9Ho#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.433,
+      "text": "其实这个环节"
+    },
+    {
+      "end_seconds": 501.9,
+      "id": "youtube-OZObmzuE9Ho#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.733,
+      "text": "我一开始包括父母的发言其实好"
+    },
+    {
+      "end_seconds": 503.266,
+      "id": "youtube-OZObmzuE9Ho#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.9,
+      "text": "朋友发言我一开始真的没有想到"
+    },
+    {
+      "end_seconds": 505.2,
+      "id": "youtube-OZObmzuE9Ho#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 503.433,
+      "text": "还挺精彩的就是"
+    },
+    {
+      "end_seconds": 508.966,
+      "id": "youtube-OZObmzuE9Ho#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 505.766,
+      "text": "长篇大概1,000多字就他的一个"
+    },
+    {
+      "end_seconds": 512.3,
+      "id": "youtube-OZObmzuE9Ho#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 509.266,
+      "text": "好朋友就是写的文章让我其实也"
+    },
+    {
+      "end_seconds": 513.566,
+      "id": "youtube-OZObmzuE9Ho#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 512.4,
+      "text": "通过别人的视角"
+    },
+    {
+      "end_seconds": 514.266,
+      "id": "youtube-OZObmzuE9Ho#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 513.566,
+      "text": "看了一下"
+    },
+    {
+      "end_seconds": 516.8,
+      "id": "youtube-OZObmzuE9Ho#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 514.266,
+      "text": "我们的感情在别人的心里的样子"
+    },
+    {
+      "end_seconds": 518.466,
+      "id": "youtube-OZObmzuE9Ho#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 516.8,
+      "text": "我觉得还蛮有意思的"
+    },
+    {
+      "end_seconds": 520.566,
+      "id": "youtube-OZObmzuE9Ho#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 518.466,
+      "text": "然后还有父母简单的发言"
+    },
+    {
+      "end_seconds": 523.0,
+      "id": "youtube-OZObmzuE9Ho#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 520.666,
+      "text": "然后手捧花的传递"
+    },
+    {
+      "end_seconds": 524.966,
+      "id": "youtube-OZObmzuE9Ho#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 523.0,
+      "text": "因为我就是相当于给了我的好朋友"
+    },
+    {
+      "end_seconds": 526.3,
+      "id": "youtube-OZObmzuE9Ho#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 524.966,
+      "text": "也是我的主持"
+    },
+    {
+      "end_seconds": 527.6,
+      "id": "youtube-OZObmzuE9Ho#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 526.433,
+      "text": "然后接下来其实就没有了"
+    },
+    {
+      "end_seconds": 528.566,
+      "id": "youtube-OZObmzuE9Ho#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.6,
+      "text": "我们这边没有任何"
+    },
+    {
+      "end_seconds": 529.666,
+      "id": "youtube-OZObmzuE9Ho#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 528.566,
+      "text": "其他的复杂的环节"
+    },
+    {
+      "end_seconds": 532.133,
+      "id": "youtube-OZObmzuE9Ho#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.666,
+      "text": "这个环节整个流程不超过半个小时"
+    },
+    {
+      "end_seconds": 534.8,
+      "id": "youtube-OZObmzuE9Ho#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 532.2,
+      "text": "对然后"
+    },
+    {
+      "end_seconds": 537.966,
+      "id": "youtube-OZObmzuE9Ho#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 534.8,
+      "text": "现场以后就回到晚宴区准备吃饭"
+    },
+    {
+      "end_seconds": 538.433,
+      "id": "youtube-OZObmzuE9Ho#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 537.966,
+      "text": "然后"
+    },
+    {
+      "end_seconds": 540.666,
+      "id": "youtube-OZObmzuE9Ho#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 538.433,
+      "text": "其实整个吃饭的环节也非常轻松"
+    },
+    {
+      "end_seconds": 541.833,
+      "id": "youtube-OZObmzuE9Ho#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 540.666,
+      "text": "因为都是很close friend"
+    },
+    {
+      "end_seconds": 543.766,
+      "id": "youtube-OZObmzuE9Ho#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 541.833,
+      "text": "这就是为什么我们想要跟"
+    },
+    {
+      "end_seconds": 545.9,
+      "id": "youtube-OZObmzuE9Ho#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.8,
+      "text": "啊亲近的朋友和家人我"
+    },
+    {
+      "end_seconds": 548.833,
+      "id": "youtube-OZObmzuE9Ho#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.966,
+      "text": "我也是不太习惯说我的婚礼上"
+    },
+    {
+      "end_seconds": 549.966,
+      "id": "youtube-OZObmzuE9Ho#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 548.833,
+      "text": "我要去"
+    },
+    {
+      "end_seconds": 552.866,
+      "id": "youtube-OZObmzuE9Ho#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 549.966,
+      "text": "跟很多我完全不认识的人寒暄"
+    },
+    {
+      "end_seconds": 555.033,
+      "id": "youtube-OZObmzuE9Ho#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 553.0,
+      "text": "所以我就相当于那个环节上"
+    },
+    {
+      "end_seconds": 556.1,
+      "id": "youtube-OZObmzuE9Ho#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.033,
+      "text": "我们是长桌"
+    },
+    {
+      "end_seconds": 557.033,
+      "id": "youtube-OZObmzuE9Ho#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 556.266,
+      "text": "传统的"
+    },
+    {
+      "end_seconds": 558.966,
+      "id": "youtube-OZObmzuE9Ho#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.033,
+      "text": "中式婚礼可能大家都是圆桌"
+    },
+    {
+      "end_seconds": 560.466,
+      "id": "youtube-OZObmzuE9Ho#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 559.166,
+      "text": "我们就摈弃的这个"
+    },
+    {
+      "end_seconds": 562.033,
+      "id": "youtube-OZObmzuE9Ho#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 560.466,
+      "text": "然后采用了长桌式"
+    },
+    {
+      "end_seconds": 564.333,
+      "id": "youtube-OZObmzuE9Ho#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 562.033,
+      "text": "然后两边各两条长桌"
+    },
+    {
+      "end_seconds": 565.6,
+      "id": "youtube-OZObmzuE9Ho#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 564.4,
+      "text": "敬酒也非常简单"
+    },
+    {
+      "end_seconds": 567.866,
+      "id": "youtube-OZObmzuE9Ho#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 565.6,
+      "text": "就是大家一群人一起敬一下"
+    },
+    {
+      "end_seconds": 570.7,
+      "id": "youtube-OZObmzuE9Ho#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 567.866,
+      "text": "然后去每个group可能是初中同学"
+    },
+    {
+      "end_seconds": 571.566,
+      "id": "youtube-OZObmzuE9Ho#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 570.7,
+      "text": "高中同学"
+    },
+    {
+      "end_seconds": 573.966,
+      "id": "youtube-OZObmzuE9Ho#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.566,
+      "text": "大家就是碰个杯聊聊天就很自由"
+    },
+    {
+      "end_seconds": 576.833,
+      "id": "youtube-OZObmzuE9Ho#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 574.1,
+      "text": "没有一种说我一定要这个要做什么"
+    },
+    {
+      "end_seconds": 577.866,
+      "id": "youtube-OZObmzuE9Ho#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 576.833,
+      "text": "然后要再说点什么"
+    },
+    {
+      "end_seconds": 580.1,
+      "id": "youtube-OZObmzuE9Ho#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 577.966,
+      "text": "什么的这些都没有"
+    },
+    {
+      "end_seconds": 581.866,
+      "id": "youtube-OZObmzuE9Ho#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 580.1,
+      "text": "然后最后最后"
+    },
+    {
+      "end_seconds": 583.266,
+      "id": "youtube-OZObmzuE9Ho#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 581.866,
+      "text": "啊晚宴过后"
+    },
+    {
+      "end_seconds": 585.7,
+      "id": "youtube-OZObmzuE9Ho#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 583.266,
+      "text": "因为我们没有什么跳舞啊"
+    },
+    {
+      "end_seconds": 586.866,
+      "id": "youtube-OZObmzuE9Ho#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 585.7,
+      "text": "其他的游戏"
+    },
+    {
+      "end_seconds": 589.966,
+      "id": "youtube-OZObmzuE9Ho#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 586.866,
+      "text": "就是直接是放了个冷烟花"
+    },
+    {
+      "end_seconds": 591.833,
+      "id": "youtube-OZObmzuE9Ho#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 589.966,
+      "text": "国内没有办法放那种大的烟花"
+    },
+    {
+      "end_seconds": 592.866,
+      "id": "youtube-OZObmzuE9Ho#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.833,
+      "text": "所以就是那种"
+    },
+    {
+      "end_seconds": 594.266,
+      "id": "youtube-OZObmzuE9Ho#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.066,
+      "text": "仙女棒这样子的"
+    },
+    {
+      "end_seconds": 595.766,
+      "id": "youtube-OZObmzuE9Ho#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 594.266,
+      "text": "这是我很喜欢的一个环节"
+    },
+    {
+      "end_seconds": 597.9,
+      "id": "youtube-OZObmzuE9Ho#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 595.766,
+      "text": "所以是我加进来的我觉得很浪漫"
+    },
+    {
+      "end_seconds": 601.233,
+      "id": "youtube-OZObmzuE9Ho#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 598.2,
+      "text": "就是对然后还有就是放了个水灯"
+    },
+    {
+      "end_seconds": 603.4,
+      "id": "youtube-OZObmzuE9Ho#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 601.233,
+      "text": "因为像国内呃"
+    },
+    {
+      "end_seconds": 605.133,
+      "id": "youtube-OZObmzuE9Ho#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.8,
+      "text": "是在水上的孔明灯吗"
+    },
+    {
+      "end_seconds": 608.3,
+      "id": "youtube-OZObmzuE9Ho#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 605.2,
+      "text": "对对对类似那种因为我觉得"
+    },
+    {
+      "end_seconds": 610.233,
+      "id": "youtube-OZObmzuE9Ho#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 608.3,
+      "text": "好不容易有个池塘然后这个这个"
+    },
+    {
+      "end_seconds": 610.866,
+      "id": "youtube-OZObmzuE9Ho#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 610.266,
+      "text": "呃就是你"
+    },
+    {
+      "end_seconds": 614.0,
+      "id": "youtube-OZObmzuE9Ho#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 610.866,
+      "text": "你相当于让朋友和自己写一些祝福"
+    },
+    {
+      "end_seconds": 614.633,
+      "id": "youtube-OZObmzuE9Ho#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 614.0,
+      "text": "其实这是王子洲"
+    },
+    {
+      "end_seconds": 616.233,
+      "id": "youtube-OZObmzuE9Ho#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 614.633,
+      "text": "没有很喜欢的环节"
+    },
+    {
+      "end_seconds": 618.333,
+      "id": "youtube-OZObmzuE9Ho#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 616.5,
+      "text": "谁会参与呢 我说"
+    },
+    {
+      "end_seconds": 619.566,
+      "id": "youtube-OZObmzuE9Ho#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 618.466,
+      "text": "我愿意哈哈"
+    },
+    {
+      "end_seconds": 621.8,
+      "id": "youtube-OZObmzuE9Ho#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 619.6,
+      "text": "哈但是ends up我觉得还不错"
+    },
+    {
+      "end_seconds": 624.2,
+      "id": "youtube-OZObmzuE9Ho#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 621.8,
+      "text": "就大家也都有写一些祝愿呀"
+    },
+    {
+      "end_seconds": 628.233,
+      "id": "youtube-OZObmzuE9Ho#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 624.566,
+      "text": "然后就是代表这个礼程的"
+    },
+    {
+      "end_seconds": 630.033,
+      "id": "youtube-OZObmzuE9Ho#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 628.233,
+      "text": "圆满结束 是这样的一天"
+    },
+    {
+      "end_seconds": 630.8,
+      "id": "youtube-OZObmzuE9Ho#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 630.266,
+      "text": "你这个哇"
+    },
+    {
+      "end_seconds": 633.266,
+      "id": "youtube-OZObmzuE9Ho#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 630.8,
+      "text": "这个我觉得在国内应该真的相当少见"
+    },
+    {
+      "end_seconds": 635.366,
+      "id": "youtube-OZObmzuE9Ho#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 633.266,
+      "text": "就是非常的怎么说"
+    },
+    {
+      "end_seconds": 637.866,
+      "id": "youtube-OZObmzuE9Ho#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 635.866,
+      "text": "轻松 人淡如菊"
+    },
+    {
+      "end_seconds": 638.833,
+      "id": "youtube-OZObmzuE9Ho#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 637.966,
+      "text": "哈哈哈"
+    },
+    {
+      "end_seconds": 640.9,
+      "id": "youtube-OZObmzuE9Ho#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 638.833,
+      "text": "但是其实时间确实跟你们说的一样"
+    },
+    {
+      "end_seconds": 641.9,
+      "id": "youtube-OZObmzuE9Ho#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 640.9,
+      "text": "还是很紧凑的"
+    },
+    {
+      "end_seconds": 643.966,
+      "id": "youtube-OZObmzuE9Ho#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 641.9,
+      "text": "就是从开始到结束"
+    },
+    {
+      "end_seconds": 646.1,
+      "id": "youtube-OZObmzuE9Ho#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 643.966,
+      "text": "对就半天你要把这些东西都完成"
+    },
+    {
+      "end_seconds": 649.0,
+      "id": "youtube-OZObmzuE9Ho#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 646.233,
+      "text": "还是比我想象的累一点"
+    },
+    {
+      "end_seconds": 652.333,
+      "id": "youtube-OZObmzuE9Ho#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 649.1,
+      "text": "我们是有可能看课代表频道的"
+    },
+    {
+      "end_seconds": 653.433,
+      "id": "youtube-OZObmzuE9Ho#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 652.366,
+      "text": "一些小伙伴也知道就是"
+    },
+    {
+      "end_seconds": 655.766,
+      "id": "youtube-OZObmzuE9Ho#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 653.666,
+      "text": "代表之前回国了两年"
+    },
+    {
+      "end_seconds": 657.6,
+      "id": "youtube-OZObmzuE9Ho#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 655.766,
+      "text": "然后这段时间我们是异地的"
+    },
+    {
+      "end_seconds": 659.566,
+      "id": "youtube-OZObmzuE9Ho#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 657.633,
+      "text": "所以我们决定结婚的时候"
+    },
+    {
+      "end_seconds": 662.066,
+      "id": "youtube-OZObmzuE9Ho#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 659.566,
+      "text": "课代表也还是在深圳"
+    },
+    {
+      "end_seconds": 664.5,
+      "id": "youtube-OZObmzuE9Ho#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 662.266,
+      "text": "然后那个时候是"
+    },
+    {
+      "end_seconds": 666.466,
+      "id": "youtube-OZObmzuE9Ho#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 664.5,
+      "text": "啊我们先是决定一起"
+    },
+    {
+      "end_seconds": 669.0,
+      "id": "youtube-OZObmzuE9Ho#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 666.466,
+      "text": "决定的是还是想在美国这边办婚礼"
+    },
+    {
+      "end_seconds": 670.8,
+      "id": "youtube-OZObmzuE9Ho#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 669.0,
+      "text": "然后希望"
+    },
+    {
+      "end_seconds": 672.566,
+      "id": "youtube-OZObmzuE9Ho#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 670.8,
+      "text": "国内可以过来的亲戚"
+    },
+    {
+      "end_seconds": 674.266,
+      "id": "youtube-OZObmzuE9Ho#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 672.566,
+      "text": "可以来西雅图看望我们"
+    },
+    {
+      "end_seconds": 675.866,
+      "id": "youtube-OZObmzuE9Ho#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 674.266,
+      "text": "国内家长会希望是那种"
+    },
+    {
+      "end_seconds": 677.266,
+      "id": "youtube-OZObmzuE9Ho#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 676.466,
+      "text": "豪华一点"
+    },
+    {
+      "end_seconds": 678.1,
+      "id": "youtube-OZObmzuE9Ho#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 677.3,
+      "text": "对"
+    },
+    {
+      "end_seconds": 679.033,
+      "id": "youtube-OZObmzuE9Ho#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 678.266,
+      "text": "但是我们选的"
+    },
+    {
+      "end_seconds": 681.0,
+      "id": "youtube-OZObmzuE9Ho#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 679.033,
+      "text": "就是场地不是那种豪华酒店的风格"
+    },
+    {
+      "end_seconds": 683.0,
+      "id": "youtube-OZObmzuE9Ho#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 681.0,
+      "text": "而是那种"
+    },
+    {
+      "end_seconds": 685.0,
+      "id": "youtube-OZObmzuE9Ho#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 683.0,
+      "text": "首先离西雅图开车要两个小时"
+    },
+    {
+      "end_seconds": 686.8,
+      "id": "youtube-OZObmzuE9Ho#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 685.0,
+      "text": "德国小镇有点那种牧场"
+    },
+    {
+      "end_seconds": 688.233,
+      "id": "youtube-OZObmzuE9Ho#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 686.933,
+      "text": "森林牧场"
+    },
+    {
+      "end_seconds": 690.066,
+      "id": "youtube-OZObmzuE9Ho#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 688.233,
+      "text": "然后中间有木屋的风格"
+    },
+    {
+      "end_seconds": 691.466,
+      "id": "youtube-OZObmzuE9Ho#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 690.133,
+      "text": "which其实就是我一直以来"
+    },
+    {
+      "end_seconds": 693.3,
+      "id": "youtube-OZObmzuE9Ho#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 691.5,
+      "text": "我一直以来的审美"
+    },
+    {
+      "end_seconds": 695.533,
+      "id": "youtube-OZObmzuE9Ho#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.3,
+      "text": "我就是知道我是喜欢那种"
+    },
+    {
+      "end_seconds": 698.6,
+      "id": "youtube-OZObmzuE9Ho#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 695.7,
+      "text": "我一直说这种REI的风格"
+    },
+    {
+      "end_seconds": 700.766,
+      "id": "youtube-OZObmzuE9Ho#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 699.0,
+      "text": "就是"
+    },
+    {
+      "end_seconds": 702.933,
+      "id": "youtube-OZObmzuE9Ho#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 700.766,
+      "text": "自然然后里面有木屋"
+    },
+    {
+      "end_seconds": 705.166,
+      "id": "youtube-OZObmzuE9Ho#cue-372",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 702.933,
+      "text": "然后还一定得让我带狗"
+    },
+    {
+      "end_seconds": 707.4,
+      "id": "youtube-OZObmzuE9Ho#cue-373",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 705.166,
+      "text": "就是这几个是硬性的条件"
+    },
+    {
+      "end_seconds": 709.2,
+      "id": "youtube-OZObmzuE9Ho#cue-374",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 707.5,
+      "text": "我们的流程我们是"
+    },
+    {
+      "end_seconds": 711.266,
+      "id": "youtube-OZObmzuE9Ho#cue-375",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 709.2,
+      "text": "场地我们倒是包了一整天的"
+    },
+    {
+      "end_seconds": 714.433,
+      "id": "youtube-OZObmzuE9Ho#cue-376",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 711.266,
+      "text": "不过宾客来是 5点"
+    },
+    {
+      "end_seconds": 716.7,
+      "id": "youtube-OZObmzuE9Ho#cue-377",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 714.433,
+      "text": "宾客在场是5点到10点"
+    },
+    {
+      "end_seconds": 717.966,
+      "id": "youtube-OZObmzuE9Ho#cue-378",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 716.766,
+      "text": "然后宾客啊"
+    },
+    {
+      "end_seconds": 719.333,
+      "id": "youtube-OZObmzuE9Ho#cue-379",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 717.966,
+      "text": "来之前我们"
+    },
+    {
+      "end_seconds": 722.433,
+      "id": "youtube-OZObmzuE9Ho#cue-380",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 719.333,
+      "text": "上午就是10点11点起床"
+    },
+    {
+      "end_seconds": 726.966,
+      "id": "youtube-OZObmzuE9Ho#cue-381",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 722.766,
+      "text": "然后打扮然后下午摄影各种"
+    },
+    {
+      "end_seconds": 728.933,
+      "id": "youtube-OZObmzuE9Ho#cue-382",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 727.1,
+      "text": "摄影师摄像师就来了"
+    },
+    {
+      "end_seconds": 733.133,
+      "id": "youtube-OZObmzuE9Ho#cue-383",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 728.966,
+      "text": "啊先是溜到一个小溪边拍了"
+    },
+    {
+      "end_seconds": 734.433,
+      "id": "youtube-OZObmzuE9Ho#cue-384",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 733.233,
+      "text": "我们的first look"
+    },
+    {
+      "end_seconds": 737.033,
+      "id": "youtube-OZObmzuE9Ho#cue-385",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 734.666,
+      "text": "回来之后去敬茶礼"
+    },
+    {
+      "end_seconds": 738.533,
+      "id": "youtube-OZObmzuE9Ho#cue-386",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 737.033,
+      "text": "我觉得这就是这个环节"
+    },
+    {
+      "end_seconds": 740.433,
+      "id": "youtube-OZObmzuE9Ho#cue-387",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 738.533,
+      "text": "是让我们这个婚礼有了一些比较"
+    },
+    {
+      "end_seconds": 741.566,
+      "id": "youtube-OZObmzuE9Ho#cue-388",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 740.433,
+      "text": "中西结合的感觉"
+    },
+    {
+      "end_seconds": 743.1,
+      "id": "youtube-OZObmzuE9Ho#cue-389",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 741.633,
+      "text": "我觉得就是"
+    },
+    {
+      "end_seconds": 744.9,
+      "id": "youtube-OZObmzuE9Ho#cue-390",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 743.2,
+      "text": "不是说传统的都要摈弃"
+    },
+    {
+      "end_seconds": 745.966,
+      "id": "youtube-OZObmzuE9Ho#cue-391",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 744.9,
+      "text": "或者仪式都要摈弃"
+    },
+    {
+      "end_seconds": 747.633,
+      "id": "youtube-OZObmzuE9Ho#cue-392",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.966,
+      "text": "然后我觉得他其实是个仪式"
+    },
+    {
+      "end_seconds": 748.733,
+      "id": "youtube-OZObmzuE9Ho#cue-393",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 747.633,
+      "text": "然后这个仪式"
+    },
+    {
+      "end_seconds": 750.7,
+      "id": "youtube-OZObmzuE9Ho#cue-394",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 748.833,
+      "text": "代表的就是我们这个家庭"
+    },
+    {
+      "end_seconds": 752.366,
+      "id": "youtube-OZObmzuE9Ho#cue-395",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 750.7,
+      "text": "就是我们新组建的这个家庭"
+    },
+    {
+      "end_seconds": 754.0,
+      "id": "youtube-OZObmzuE9Ho#cue-396",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 752.366,
+      "text": "和两边的家庭的一个接纳"
+    },
+    {
+      "end_seconds": 755.533,
+      "id": "youtube-OZObmzuE9Ho#cue-397",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 754.0,
+      "text": "或者说是这样一个connection"
+    },
+    {
+      "end_seconds": 758.4,
+      "id": "youtube-OZObmzuE9Ho#cue-398",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 755.766,
+      "text": "他用了一个中式的一个仪式去"
+    },
+    {
+      "end_seconds": 761.2,
+      "id": "youtube-OZObmzuE9Ho#cue-399",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 758.4,
+      "text": "替我们传达一些平时"
+    },
+    {
+      "end_seconds": 762.433,
+      "id": "youtube-OZObmzuE9Ho#cue-400",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 761.2,
+      "text": "我们不会说的东西"
+    },
+    {
+      "end_seconds": 765.466,
+      "id": "youtube-OZObmzuE9Ho#cue-401",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 762.566,
+      "text": "然后敬茶礼结束之后"
+    },
+    {
+      "end_seconds": 767.733,
+      "id": "youtube-OZObmzuE9Ho#cue-402",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 765.766,
+      "text": "各种拍照"
+    },
+    {
+      "end_seconds": 769.133,
+      "id": "youtube-OZObmzuE9Ho#cue-403",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 767.733,
+      "text": "不过那时候还没有宾客"
+    },
+    {
+      "end_seconds": 770.1,
+      "id": "youtube-OZObmzuE9Ho#cue-404",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 769.133,
+      "text": "然后接着就是"
+    },
+    {
+      "end_seconds": 771.4,
+      "id": "youtube-OZObmzuE9Ho#cue-405",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 770.233,
+      "text": "5点多钟"
+    },
+    {
+      "end_seconds": 773.566,
+      "id": "youtube-OZObmzuE9Ho#cue-406",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 771.4,
+      "text": "surprisingly大家 可能也不surprising"
+    },
+    {
+      "end_seconds": 775.533,
+      "id": "youtube-OZObmzuE9Ho#cue-407",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 773.566,
+      "text": "就我宾客来的还蛮准时的"
+    },
+    {
+      "end_seconds": 777.4,
+      "id": "youtube-OZObmzuE9Ho#cue-408",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 775.533,
+      "text": "对 总是秋天的时候"
+    },
+    {
+      "end_seconds": 779.8,
+      "id": "youtube-OZObmzuE9Ho#cue-409",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 777.566,
+      "text": "都是local friends"
+    },
+    {
+      "end_seconds": 782.6,
+      "id": "youtube-OZObmzuE9Ho#cue-410",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 780.2,
+      "text": "或者飞过来的话对是他们前天晚上"
+    },
+    {
+      "end_seconds": 784.9,
+      "id": "youtube-OZObmzuE9Ho#cue-411",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 783.7,
+      "text": "前天晚上和当天"
+    },
+    {
+      "end_seconds": 786.633,
+      "id": "youtube-OZObmzuE9Ho#cue-412",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 784.9,
+      "text": "所以说他们前天晚上已经入住了"
+    },
+    {
+      "end_seconds": 787.166,
+      "id": "youtube-OZObmzuE9Ho#cue-413",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 786.766,
+      "text": "对因为"
+    },
+    {
+      "end_seconds": 788.166,
+      "id": "youtube-OZObmzuE9Ho#cue-414",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 787.166,
+      "text": "那就是离西雅图"
+    },
+    {
+      "end_seconds": 789.733,
+      "id": "youtube-OZObmzuE9Ho#cue-415",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 788.166,
+      "text": "确实开车要两个小时"
+    },
+    {
+      "end_seconds": 790.333,
+      "id": "youtube-OZObmzuE9Ho#cue-416",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 789.733,
+      "text": "如果当天"
+    },
+    {
+      "end_seconds": 793.133,
+      "id": "youtube-OZObmzuE9Ho#cue-417",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 790.333,
+      "text": "我想大家过去还是比较麻烦啊"
+    },
+    {
+      "end_seconds": 795.8,
+      "id": "youtube-OZObmzuE9Ho#cue-418",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 793.133,
+      "text": "所以啊对我们的主仪式"
+    },
+    {
+      "end_seconds": 798.266,
+      "id": "youtube-OZObmzuE9Ho#cue-419",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 795.8,
+      "text": "就是很经典的西式"
+    },
+    {
+      "end_seconds": 800.166,
+      "id": "youtube-OZObmzuE9Ho#cue-420",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 798.266,
+      "text": "就没什么区别啊"
+    },
+    {
+      "end_seconds": 801.266,
+      "id": "youtube-OZObmzuE9Ho#cue-421",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 800.166,
+      "text": "怎样的西式"
+    },
+    {
+      "end_seconds": 804.766,
+      "id": "youtube-OZObmzuE9Ho#cue-422",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 801.266,
+      "text": "西式的就是啊我我爸牵着我进来"
+    },
+    {
+      "end_seconds": 807.333,
+      "id": "youtube-OZObmzuE9Ho#cue-423",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 804.766,
+      "text": "先是伴娘伴郎都在外面等着"
+    },
+    {
+      "end_seconds": 809.5,
+      "id": "youtube-OZObmzuE9Ho#cue-424",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 807.333,
+      "text": "然后他是最早在那里等着的"
+    },
+    {
+      "end_seconds": 812.233,
+      "id": "youtube-OZObmzuE9Ho#cue-425",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 809.5,
+      "text": "和officiant就是证婚人"
+    },
+    {
+      "end_seconds": 814.966,
+      "id": "youtube-OZObmzuE9Ho#cue-426",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 812.3,
+      "text": "然后接着伴娘伴郎挨个挽手出现"
+    },
+    {
+      "end_seconds": 816.0,
+      "id": "youtube-OZObmzuE9Ho#cue-427",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 814.966,
+      "text": "随着音乐"
+    },
+    {
+      "end_seconds": 819.966,
+      "id": "youtube-OZObmzuE9Ho#cue-428",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 816.133,
+      "text": "接着我爸牵着我进场"
+    },
+    {
+      "end_seconds": 822.266,
+      "id": "youtube-OZObmzuE9Ho#cue-429",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 819.966,
+      "text": "然后我们自己写的誓词给对方"
+    },
+    {
+      "end_seconds": 823.533,
+      "id": "youtube-OZObmzuE9Ho#cue-430",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 822.666,
+      "text": "然后他还特别"
+    },
+    {
+      "end_seconds": 824.433,
+      "id": "youtube-OZObmzuE9Ho#cue-431",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 823.666,
+      "text": "引以"
+    },
+    {
+      "end_seconds": 826.766,
+      "id": "youtube-OZObmzuE9Ho#cue-432",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 824.433,
+      "text": "就是应该的他非常引以为傲"
+    },
+    {
+      "end_seconds": 828.166,
+      "id": "youtube-OZObmzuE9Ho#cue-433",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 826.766,
+      "text": "哈哈还经常"
+    },
+    {
+      "end_seconds": 830.8,
+      "id": "youtube-OZObmzuE9Ho#cue-434",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 828.466,
+      "text": "you know 就是回去"
+    },
+    {
+      "end_seconds": 832.733,
+      "id": "youtube-OZObmzuE9Ho#cue-435",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 830.8,
+      "text": "你有没有当时被他impress到"
+    },
+    {
+      "end_seconds": 833.033,
+      "id": "youtube-OZObmzuE9Ho#cue-436",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 832.733,
+      "text": "有啊"
+    },
+    {
+      "end_seconds": 835.233,
+      "id": "youtube-OZObmzuE9Ho#cue-437",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 833.133,
+      "text": "我一向被他的写作这个impress到"
+    },
+    {
+      "end_seconds": 836.6,
+      "id": "youtube-OZObmzuE9Ho#cue-438",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 835.233,
+      "text": "因为我们异国"
+    },
+    {
+      "end_seconds": 837.233,
+      "id": "youtube-OZObmzuE9Ho#cue-439",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 836.6,
+      "text": "我肯定哭"
+    },
+    {
+      "end_seconds": 839.933,
+      "id": "youtube-OZObmzuE9Ho#cue-440",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 837.233,
+      "text": "我一向会对他的这个写作哭的"
+    },
+    {
+      "end_seconds": 841.033,
+      "id": "youtube-OZObmzuE9Ho#cue-441",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 839.933,
+      "text": "哈哈哈哈"
+    },
+    {
+      "end_seconds": 843.033,
+      "id": "youtube-OZObmzuE9Ho#cue-442",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 841.133,
+      "text": "因为我们异国期间"
+    },
+    {
+      "end_seconds": 844.833,
+      "id": "youtube-OZObmzuE9Ho#cue-443",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 843.033,
+      "text": "每周都会互相写邮件了"
+    },
+    {
+      "end_seconds": 847.1,
+      "id": "youtube-OZObmzuE9Ho#cue-444",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 844.833,
+      "text": "所以呢就是呃"
+    },
+    {
+      "end_seconds": 849.366,
+      "id": "youtube-OZObmzuE9Ho#cue-445",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 847.133,
+      "text": "当天我们给对方写一封信"
+    },
+    {
+      "end_seconds": 851.3,
+      "id": "youtube-OZObmzuE9Ho#cue-446",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 849.366,
+      "text": "也算是这个传统的延续"
+    },
+    {
+      "end_seconds": 853.033,
+      "id": "youtube-OZObmzuE9Ho#cue-447",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 851.433,
+      "text": "然后就也"
+    },
+    {
+      "end_seconds": 856.033,
+      "id": "youtube-OZObmzuE9Ho#cue-448",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 853.433,
+      "text": "也感动了"
+    },
+    {
+      "end_seconds": 857.9,
+      "id": "youtube-OZObmzuE9Ho#cue-449",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 856.033,
+      "text": "感动万千少男少女"
+    },
+    {
+      "end_seconds": 859.666,
+      "id": "youtube-OZObmzuE9Ho#cue-450",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 858.233,
+      "text": "然后我觉得"
+    },
+    {
+      "end_seconds": 863.3,
+      "id": "youtube-OZObmzuE9Ho#cue-451",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 859.866,
+      "text": "誓言这个真的挺重要的 对啊然后"
+    },
+    {
+      "end_seconds": 864.966,
+      "id": "youtube-OZObmzuE9Ho#cue-452",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 863.4,
+      "text": "我们那个婚礼"
+    },
+    {
+      "end_seconds": 866.566,
+      "id": "youtube-OZObmzuE9Ho#cue-453",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 865.2,
+      "text": "的这个婚戒"
+    },
+    {
+      "end_seconds": 868.833,
+      "id": "youtube-OZObmzuE9Ho#cue-454",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 866.566,
+      "text": "是我们家的狗狗啊"
+    },
+    {
+      "end_seconds": 869.733,
+      "id": "youtube-OZObmzuE9Ho#cue-455",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 868.833,
+      "text": "一只哈士奇"
+    },
+    {
+      "end_seconds": 871.633,
+      "id": "youtube-OZObmzuE9Ho#cue-456",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 869.833,
+      "text": "然后还有一只啊不是我们家"
+    },
+    {
+      "end_seconds": 873.266,
+      "id": "youtube-OZObmzuE9Ho#cue-457",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 871.633,
+      "text": "但是我真的特别特别特别喜欢的"
+    },
+    {
+      "end_seconds": 874.366,
+      "id": "youtube-OZObmzuE9Ho#cue-458",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 873.266,
+      "text": "也是哈士奇"
+    },
+    {
+      "end_seconds": 876.4,
+      "id": "youtube-OZObmzuE9Ho#cue-459",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 874.633,
+      "text": "然后他们每个人挂着一个"
+    },
+    {
+      "end_seconds": 877.166,
+      "id": "youtube-OZObmzuE9Ho#cue-460",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 876.4,
+      "text": "一只戒指上来"
+    },
+    {
+      "end_seconds": 879.5,
+      "id": "youtube-OZObmzuE9Ho#cue-461",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 877.166,
+      "text": "当然场面还是有点混乱的是"
+    },
+    {
+      "end_seconds": 880.733,
+      "id": "youtube-OZObmzuE9Ho#cue-462",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 879.566,
+      "text": "哈哈哈但非常可爱"
+    },
+    {
+      "end_seconds": 884.033,
+      "id": "youtube-OZObmzuE9Ho#cue-463",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 880.733,
+      "text": "哈士奇已经很棒了哈哈哈哈"
+    },
+    {
+      "end_seconds": 887.933,
+      "id": "youtube-OZObmzuE9Ho#cue-464",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 884.466,
+      "text": "对就啊结束了之后啊"
+    },
+    {
+      "end_seconds": 891.466,
+      "id": "youtube-OZObmzuE9Ho#cue-465",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 888.366,
+      "text": "啊对发言然后我爸就双方家长发言"
+    },
+    {
+      "end_seconds": 894.433,
+      "id": "youtube-OZObmzuE9Ho#cue-466",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 891.466,
+      "text": "不过都没有很长哎大家都还挺"
+    },
+    {
+      "end_seconds": 896.666,
+      "id": "youtube-OZObmzuE9Ho#cue-467",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 895.0,
+      "text": "也没有很长"
+    },
+    {
+      "end_seconds": 899.033,
+      "id": "youtube-OZObmzuE9Ho#cue-468",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 896.666,
+      "text": "大家的发言就是都还就我感觉这"
+    },
+    {
+      "end_seconds": 902.766,
+      "id": "youtube-OZObmzuE9Ho#cue-469",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 899.366,
+      "text": "short and sweet就是两三分钟左右"
+    },
+    {
+      "end_seconds": 906.3,
+      "id": "youtube-OZObmzuE9Ho#cue-470",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 902.866,
+      "text": "嗯差不多结束各种拍照"
+    },
+    {
+      "end_seconds": 908.6,
+      "id": "youtube-OZObmzuE9Ho#cue-471",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 906.333,
+      "text": "接下来我就"
+    },
+    {
+      "end_seconds": 909.833,
+      "id": "youtube-OZObmzuE9Ho#cue-472",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 908.6,
+      "text": "是那个cocktail hour"
+    },
+    {
+      "end_seconds": 910.766,
+      "id": "youtube-OZObmzuE9Ho#cue-473",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 909.833,
+      "text": "这边就是"
+    },
+    {
+      "end_seconds": 913.433,
+      "id": "youtube-OZObmzuE9Ho#cue-474",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 911.4,
+      "text": "我也不知道是不是翻译成鸡尾酒"
+    },
+    {
+      "end_seconds": 916.633,
+      "id": "youtube-OZObmzuE9Ho#cue-475",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 913.433,
+      "text": "对应该有一些appetizers吧一些小食"
+    },
+    {
+      "end_seconds": 918.433,
+      "id": "youtube-OZObmzuE9Ho#cue-476",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 916.666,
+      "text": "然后有些酒什么的"
+    },
+    {
+      "end_seconds": 920.933,
+      "id": "youtube-OZObmzuE9Ho#cue-477",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 918.433,
+      "text": "然后狗狗们在外面就陪大家玩"
+    },
+    {
+      "end_seconds": 921.7,
+      "id": "youtube-OZObmzuE9Ho#cue-478",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 920.933,
+      "text": "但是我那个时候是"
+    },
+    {
+      "end_seconds": 926.7,
+      "id": "youtube-OZObmzuE9Ho#cue-479",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 921.733,
+      "text": "消失了啊对换衣服啊接下来我们"
+    },
+    {
+      "end_seconds": 929.166,
+      "id": "youtube-OZObmzuE9Ho#cue-480",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 927.333,
+      "text": "就是差不多一个多小时吧"
+    },
+    {
+      "end_seconds": 929.766,
+      "id": "youtube-OZObmzuE9Ho#cue-481",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 929.166,
+      "text": "之后"
+    },
+    {
+      "end_seconds": 932.2,
+      "id": "youtube-OZObmzuE9Ho#cue-482",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 929.766,
+      "text": "我们俩就是突然出现"
+    },
+    {
+      "end_seconds": 935.333,
+      "id": "youtube-OZObmzuE9Ho#cue-483",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 932.666,
+      "text": "first dance"
+    },
+    {
+      "end_seconds": 937.433,
+      "id": "youtube-OZObmzuE9Ho#cue-484",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 935.633,
+      "text": "我们练了"
+    },
+    {
+      "end_seconds": 939.833,
+      "id": "youtube-OZObmzuE9Ho#cue-485",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 937.8,
+      "text": "晚饭前当然你也可以选择"
+    },
+    {
+      "end_seconds": 941.2,
+      "id": "youtube-OZObmzuE9Ho#cue-486",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 939.833,
+      "text": "是在什么时候跳啊"
+    },
+    {
+      "end_seconds": 942.0,
+      "id": "youtube-OZObmzuE9Ho#cue-487",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 941.2,
+      "text": "然后有的时候"
+    },
+    {
+      "end_seconds": 944.766,
+      "id": "youtube-OZObmzuE9Ho#cue-488",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 942.0,
+      "text": "有些人的first dance是和爸爸跳的"
+    },
+    {
+      "end_seconds": 946.8,
+      "id": "youtube-OZObmzuE9Ho#cue-489",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 944.766,
+      "text": "和家人跳的而不见得是跟对方跳"
+    },
+    {
+      "end_seconds": 949.366,
+      "id": "youtube-OZObmzuE9Ho#cue-490",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 946.866,
+      "text": "有些人甚至可能会安排更多支舞"
+    },
+    {
+      "end_seconds": 951.166,
+      "id": "youtube-OZObmzuE9Ho#cue-491",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 949.733,
+      "text": "啊但是我心想"
+    },
+    {
+      "end_seconds": 952.4,
+      "id": "youtube-OZObmzuE9Ho#cue-492",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 951.2,
+      "text": "我爸妈还是算了"
+    },
+    {
+      "end_seconds": 954.533,
+      "id": "youtube-OZObmzuE9Ho#cue-493",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 952.4,
+      "text": "哈哈哈就是"
+    },
+    {
+      "end_seconds": 956.833,
+      "id": "youtube-OZObmzuE9Ho#cue-494",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 954.533,
+      "text": "我们俩练起来其实都挺够呛的"
+    },
+    {
+      "end_seconds": 960.966,
+      "id": "youtube-OZObmzuE9Ho#cue-495",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 958.666,
+      "text": "我们是没有请老师"
+    },
+    {
+      "end_seconds": 962.5,
+      "id": "youtube-OZObmzuE9Ho#cue-496",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 960.966,
+      "text": "我们是看视频"
+    },
+    {
+      "end_seconds": 963.966,
+      "id": "youtube-OZObmzuE9Ho#cue-497",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 962.533,
+      "text": "嗯买了一个视频学习"
+    },
+    {
+      "end_seconds": 965.366,
+      "id": "youtube-OZObmzuE9Ho#cue-498",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 964.033,
+      "text": "买了一个视频"
+    },
+    {
+      "end_seconds": 966.2,
+      "id": "youtube-OZObmzuE9Ho#cue-499",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 965.8,
+      "text": "对"
+    },
+    {
+      "end_seconds": 967.6,
+      "id": "youtube-OZObmzuE9Ho#cue-500",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 966.233,
+      "text": "王子洲拒绝了我这个提议"
+    },
+    {
+      "end_seconds": 969.033,
+      "id": "youtube-OZObmzuE9Ho#cue-501",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 967.6,
+      "text": "所以我们没有这个环节"
+    },
+    {
+      "end_seconds": 972.7,
+      "id": "youtube-OZObmzuE9Ho#cue-502",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 970.133,
+      "text": "对你们本来的事就挺多的然后我们"
+    },
+    {
+      "end_seconds": 975.833,
+      "id": "youtube-OZObmzuE9Ho#cue-503",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 972.933,
+      "text": "我们当时确实就是可能就一周然后"
+    },
+    {
+      "end_seconds": 979.633,
+      "id": "youtube-OZObmzuE9Ho#cue-504",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 975.933,
+      "text": "嗯还挺花时间的但真的练可能也还"
+    },
+    {
+      "end_seconds": 982.466,
+      "id": "youtube-OZObmzuE9Ho#cue-505",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 979.766,
+      "text": "什么舞 华尔兹"
+    },
+    {
+      "end_seconds": 985.2,
+      "id": "youtube-OZObmzuE9Ho#cue-506",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 983.066,
+      "text": "就本来我一开始想挑战什么"
+    },
+    {
+      "end_seconds": 987.366,
+      "id": "youtube-OZObmzuE9Ho#cue-507",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 985.2,
+      "text": "Tango Tango可难练"
+    },
+    {
+      "end_seconds": 989.0,
+      "id": "youtube-OZObmzuE9Ho#cue-508",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 987.466,
+      "text": "几步还是反正"
+    },
+    {
+      "end_seconds": 990.633,
+      "id": "youtube-OZObmzuE9Ho#cue-509",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 989.0,
+      "text": "但是我幻想这个对"
+    },
+    {
+      "end_seconds": 993.333,
+      "id": "youtube-OZObmzuE9Ho#cue-510",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 990.633,
+      "text": "这个技巧要求好像有点太高了"
+    },
+    {
+      "end_seconds": 993.933,
+      "id": "youtube-OZObmzuE9Ho#cue-511",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 993.333,
+      "text": "然后还"
+    },
+    {
+      "end_seconds": 995.966,
+      "id": "youtube-OZObmzuE9Ho#cue-512",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 993.933,
+      "text": "有就是对那个衣服也有要求"
+    },
+    {
+      "end_seconds": 998.533,
+      "id": "youtube-OZObmzuE9Ho#cue-513",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 996.333,
+      "text": "然后后来我买了个衣服就是"
+    },
+    {
+      "end_seconds": 1000.766,
+      "id": "youtube-OZObmzuE9Ho#cue-514",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 998.766,
+      "text": "就是因为我觉得他太好看了就是"
+    },
+    {
+      "end_seconds": 1002.366,
+      "id": "youtube-OZObmzuE9Ho#cue-515",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1000.766,
+      "text": "但是他因为他是及地的"
+    },
+    {
+      "end_seconds": 1003.366,
+      "id": "youtube-OZObmzuE9Ho#cue-516",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1002.366,
+      "text": "更没有办法跳tango"
+    },
+    {
+      "end_seconds": 1004.833,
+      "id": "youtube-OZObmzuE9Ho#cue-517",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1003.566,
+      "text": "就只能跳华尔兹"
+    },
+    {
+      "end_seconds": 1008.033,
+      "id": "youtube-OZObmzuE9Ho#cue-518",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1004.933,
+      "text": "跳华尔兹就没办法穿高跟鞋跳"
+    },
+    {
+      "end_seconds": 1009.266,
+      "id": "youtube-OZObmzuE9Ho#cue-519",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1008.033,
+      "text": "就是因为他太长了"
+    },
+    {
+      "end_seconds": 1011.066,
+      "id": "youtube-OZObmzuE9Ho#cue-520",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1009.266,
+      "text": "后来就是穿着运动鞋的"
+    },
+    {
+      "end_seconds": 1015.866,
+      "id": "youtube-OZObmzuE9Ho#cue-521",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1011.266,
+      "text": "总之就还挺艰难的anyways"
+    },
+    {
+      "end_seconds": 1018.433,
+      "id": "youtube-OZObmzuE9Ho#cue-522",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1017.133,
+      "text": "first dance之后"
+    },
+    {
+      "end_seconds": 1021.566,
+      "id": "youtube-OZObmzuE9Ho#cue-523",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1018.466,
+      "text": "切蛋糕接下来大家都坐下来上饭"
+    },
+    {
+      "end_seconds": 1023.133,
+      "id": "youtube-OZObmzuE9Ho#cue-524",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1021.566,
+      "text": "哎饭还挺好吃的"
+    },
+    {
+      "end_seconds": 1026.966,
+      "id": "youtube-OZObmzuE9Ho#cue-525",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1023.2,
+      "text": "然后就"
+    },
+    {
+      "end_seconds": 1028.6,
+      "id": "youtube-OZObmzuE9Ho#cue-526",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1026.966,
+      "text": "对刚上饭的时候"
+    },
+    {
+      "end_seconds": 1030.733,
+      "id": "youtube-OZObmzuE9Ho#cue-527",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1028.6,
+      "text": "我们溜出去时 那个正好是sunset hour"
+    },
+    {
+      "end_seconds": 1031.766,
+      "id": "youtube-OZObmzuE9Ho#cue-528",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1030.733,
+      "text": "然后这边的摄影师"
+    },
+    {
+      "end_seconds": 1035.433,
+      "id": "youtube-OZObmzuE9Ho#cue-529",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1031.833,
+      "text": "是就是要抓住那个黄金一刻"
+    },
+    {
+      "end_seconds": 1036.933,
+      "id": "youtube-OZObmzuE9Ho#cue-530",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1035.833,
+      "text": "对golden hour"
+    },
+    {
+      "end_seconds": 1038.933,
+      "id": "youtube-OZObmzuE9Ho#cue-531",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1036.933,
+      "text": "然后拍照片"
+    },
+    {
+      "end_seconds": 1041.033,
+      "id": "youtube-OZObmzuE9Ho#cue-532",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1039.0,
+      "text": "啊然后今天我们回来就是啊"
+    },
+    {
+      "end_seconds": 1043.733,
+      "id": "youtube-OZObmzuE9Ho#cue-533",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1041.033,
+      "text": "发言各种"
+    },
+    {
+      "end_seconds": 1044.933,
+      "id": "youtube-OZObmzuE9Ho#cue-534",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1044.066,
+      "text": "他那边有两个朋友"
+    },
+    {
+      "end_seconds": 1046.2,
+      "id": "youtube-OZObmzuE9Ho#cue-535",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1044.933,
+      "text": "我这边两个朋友发言"
+    },
+    {
+      "end_seconds": 1047.066,
+      "id": "youtube-OZObmzuE9Ho#cue-536",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1046.266,
+      "text": "然后也都"
+    },
+    {
+      "end_seconds": 1048.766,
+      "id": "youtube-OZObmzuE9Ho#cue-537",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1047.066,
+      "text": "非常精彩我觉得"
+    },
+    {
+      "end_seconds": 1050.433,
+      "id": "youtube-OZObmzuE9Ho#cue-538",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1048.766,
+      "text": "然后我爸妈后来也说"
+    },
+    {
+      "end_seconds": 1052.533,
+      "id": "youtube-OZObmzuE9Ho#cue-539",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1050.533,
+      "text": "怎么每个人的发言都这么有水平"
+    },
+    {
+      "end_seconds": 1056.1,
+      "id": "youtube-OZObmzuE9Ho#cue-540",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1053.333,
+      "text": "对接下来我们"
+    },
+    {
+      "end_seconds": 1059.133,
+      "id": "youtube-OZObmzuE9Ho#cue-541",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1056.133,
+      "text": "我们就是基本上大家就闲聊"
+    },
+    {
+      "end_seconds": 1061.033,
+      "id": "youtube-OZObmzuE9Ho#cue-542",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1059.2,
+      "text": "然后我们那个DJ里面开始那个"
+    },
+    {
+      "end_seconds": 1062.3,
+      "id": "youtube-OZObmzuE9Ho#cue-543",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1061.033,
+      "text": "after party就开始了"
+    },
+    {
+      "end_seconds": 1063.333,
+      "id": "youtube-OZObmzuE9Ho#cue-544",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1062.466,
+      "text": "就先开始"
+    },
+    {
+      "end_seconds": 1065.633,
+      "id": "youtube-OZObmzuE9Ho#cue-545",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1063.333,
+      "text": "是那种就是比较劲爆一点的歌舞"
+    },
+    {
+      "end_seconds": 1066.333,
+      "id": "youtube-OZObmzuE9Ho#cue-546",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1065.633,
+      "text": "然后我有一个"
+    },
+    {
+      "end_seconds": 1068.333,
+      "id": "youtube-OZObmzuE9Ho#cue-547",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1066.366,
+      "text": "我们的场地的安排"
+    },
+    {
+      "end_seconds": 1069.0,
+      "id": "youtube-OZObmzuE9Ho#cue-548",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1068.433,
+      "text": "啊我们"
+    },
+    {
+      "end_seconds": 1072.866,
+      "id": "youtube-OZObmzuE9Ho#cue-549",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1069.033,
+      "text": "我们的桌子的安排是相当于是一个"
+    },
+    {
+      "end_seconds": 1074.733,
+      "id": "youtube-OZObmzuE9Ho#cue-550",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1073.0,
+      "text": "长方形的就都"
+    },
+    {
+      "end_seconds": 1077.033,
+      "id": "youtube-OZObmzuE9Ho#cue-551",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1074.833,
+      "text": "有四个大长桌OK啊"
+    },
+    {
+      "end_seconds": 1079.366,
+      "id": "youtube-OZObmzuE9Ho#cue-552",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1077.033,
+      "text": "然后长桌中对圈起来"
+    },
+    {
+      "end_seconds": 1081.433,
+      "id": "youtube-OZObmzuE9Ho#cue-553",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1079.366,
+      "text": "然后中间是两个"
+    },
+    {
+      "end_seconds": 1083.433,
+      "id": "youtube-OZObmzuE9Ho#cue-554",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1081.466,
+      "text": "重要亲戚"
+    },
+    {
+      "end_seconds": 1086.733,
+      "id": "youtube-OZObmzuE9Ho#cue-555",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1083.433,
+      "text": "的圆桌然后他也包在中间"
+    },
+    {
+      "end_seconds": 1087.533,
+      "id": "youtube-OZObmzuE9Ho#cue-556",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1086.733,
+      "text": "然后他"
+    },
+    {
+      "end_seconds": 1089.966,
+      "id": "youtube-OZObmzuE9Ho#cue-557",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1087.533,
+      "text": "就是在安排谁和谁坐在一起的时候"
+    },
+    {
+      "end_seconds": 1091.2,
+      "id": "youtube-OZObmzuE9Ho#cue-558",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1089.966,
+      "text": "就非常开心"
+    },
+    {
+      "end_seconds": 1093.6,
+      "id": "youtube-OZObmzuE9Ho#cue-559",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1091.333,
+      "text": "这个其实也是个技术活"
+    },
+    {
+      "end_seconds": 1094.5,
+      "id": "youtube-OZObmzuE9Ho#cue-560",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1093.6,
+      "text": "你要考虑"
+    },
+    {
+      "end_seconds": 1096.466,
+      "id": "youtube-OZObmzuE9Ho#cue-561",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1094.633,
+      "text": "他们的人物关系"
+    },
+    {
+      "end_seconds": 1098.866,
+      "id": "youtube-OZObmzuE9Ho#cue-562",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1096.466,
+      "text": "和他跟他是不是能聊到一起对"
+    },
+    {
+      "end_seconds": 1099.466,
+      "id": "youtube-OZObmzuE9Ho#cue-563",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1098.933,
+      "text": "这确实是"
+    },
+    {
+      "end_seconds": 1100.9,
+      "id": "youtube-OZObmzuE9Ho#cue-564",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1099.466,
+      "text": "个技术活对"
+    },
+    {
+      "end_seconds": 1104.933,
+      "id": "youtube-OZObmzuE9Ho#cue-565",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1101.533,
+      "text": "对然后我们的那个舞池是"
+    },
+    {
+      "end_seconds": 1106.4,
+      "id": "youtube-OZObmzuE9Ho#cue-566",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1105.133,
+      "text": "啊隔着中间"
+    },
+    {
+      "end_seconds": 1109.266,
+      "id": "youtube-OZObmzuE9Ho#cue-567",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1106.4,
+      "text": "隔着一个壁炉就是相当于这右边"
+    },
+    {
+      "end_seconds": 1110.566,
+      "id": "youtube-OZObmzuE9Ho#cue-568",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1109.266,
+      "text": "是吃饭的地方"
+    },
+    {
+      "end_seconds": 1112.966,
+      "id": "youtube-OZObmzuE9Ho#cue-569",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1110.566,
+      "text": "然后隔着一面墙然后后面是"
+    },
+    {
+      "end_seconds": 1114.466,
+      "id": "youtube-OZObmzuE9Ho#cue-570",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1113.0,
+      "text": "啊就是那边"
+    },
+    {
+      "end_seconds": 1117.033,
+      "id": "youtube-OZObmzuE9Ho#cue-571",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1114.933,
+      "text": "一个舞池好像酒水在那边吧"
+    },
+    {
+      "end_seconds": 1118.933,
+      "id": "youtube-OZObmzuE9Ho#cue-572",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1117.133,
+      "text": "对啊我们的"
+    },
+    {
+      "end_seconds": 1121.166,
+      "id": "youtube-OZObmzuE9Ho#cue-573",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1118.933,
+      "text": "我们的DJ就是一个local的一个DJ"
+    },
+    {
+      "end_seconds": 1122.733,
+      "id": "youtube-OZObmzuE9Ho#cue-574",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1121.266,
+      "text": "然后呃"
+    },
+    {
+      "end_seconds": 1123.333,
+      "id": "youtube-OZObmzuE9Ho#cue-575",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1122.733,
+      "text": "放音乐"
+    },
+    {
+      "end_seconds": 1125.233,
+      "id": "youtube-OZObmzuE9Ho#cue-576",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1123.333,
+      "text": "我觉得他的音乐品味"
+    },
+    {
+      "end_seconds": 1128.766,
+      "id": "youtube-OZObmzuE9Ho#cue-577",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1125.233,
+      "text": "也谈不上很高雅吧 但是还是把氛围给炒起来了"
+    },
+    {
+      "end_seconds": 1130.766,
+      "id": "youtube-OZObmzuE9Ho#cue-578",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1128.766,
+      "text": "就是是气氛的那种的感觉"
+    },
+    {
+      "end_seconds": 1132.233,
+      "id": "youtube-OZObmzuE9Ho#cue-579",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1130.766,
+      "text": "然后我有一个比较"
+    },
+    {
+      "end_seconds": 1134.333,
+      "id": "youtube-OZObmzuE9Ho#cue-580",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1132.233,
+      "text": "社牛的一个我大学的同学然后"
+    },
+    {
+      "end_seconds": 1136.933,
+      "id": "youtube-OZObmzuE9Ho#cue-581",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1134.566,
+      "text": "然后她就是教大家跳舞嗯"
+    },
+    {
+      "end_seconds": 1137.5,
+      "id": "youtube-OZObmzuE9Ho#cue-582",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1136.933,
+      "text": "就是她在"
+    },
+    {
+      "end_seconds": 1139.2,
+      "id": "youtube-OZObmzuE9Ho#cue-583",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1137.8,
+      "text": "前面领舞然后大家就跟着跳然后"
+    },
+    {
+      "end_seconds": 1140.366,
+      "id": "youtube-OZObmzuE9Ho#cue-584",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1139.2,
+      "text": "气氛一下就嗨了"
+    },
+    {
+      "end_seconds": 1142.266,
+      "id": "youtube-OZObmzuE9Ho#cue-585",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1140.366,
+      "text": "好需要这种E的朋友就非常"
+    },
+    {
+      "end_seconds": 1143.766,
+      "id": "youtube-OZObmzuE9Ho#cue-586",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1142.266,
+      "text": "outgoing的朋友来带动气氛"
+    },
+    {
+      "end_seconds": 1144.733,
+      "id": "youtube-OZObmzuE9Ho#cue-587",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1143.966,
+      "text": "对然后"
+    },
+    {
+      "end_seconds": 1146.466,
+      "id": "youtube-OZObmzuE9Ho#cue-588",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1144.733,
+      "text": "其实我发现这E的朋友不需要多"
+    },
+    {
+      "end_seconds": 1149.3,
+      "id": "youtube-OZObmzuE9Ho#cue-589",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1146.466,
+      "text": "其实只要一个两个就行了哈哈"
+    },
+    {
+      "end_seconds": 1152.233,
+      "id": "youtube-OZObmzuE9Ho#cue-590",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1149.533,
+      "text": "是一个很能E的人然后就是"
+    },
+    {
+      "end_seconds": 1154.066,
+      "id": "youtube-OZObmzuE9Ho#cue-591",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1152.366,
+      "text": "啊氛围炒起来之后"
+    },
+    {
+      "end_seconds": 1154.866,
+      "id": "youtube-OZObmzuE9Ho#cue-592",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1154.066,
+      "text": "很多人就"
+    },
+    {
+      "end_seconds": 1156.8,
+      "id": "youtube-OZObmzuE9Ho#cue-593",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1154.866,
+      "text": "就莫名其妙的就是也都加进去"
+    },
+    {
+      "end_seconds": 1157.333,
+      "id": "youtube-OZObmzuE9Ho#cue-594",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1156.8,
+      "text": "我甚至是"
+    },
+    {
+      "end_seconds": 1157.8,
+      "id": "youtube-OZObmzuE9Ho#cue-595",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1157.333,
+      "text": "就他一些"
+    },
+    {
+      "end_seconds": 1159.833,
+      "id": "youtube-OZObmzuE9Ho#cue-596",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1157.8,
+      "text": "感觉看起来也不太会动的一些朋友"
+    },
+    {
+      "end_seconds": 1161.1,
+      "id": "youtube-OZObmzuE9Ho#cue-597",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1159.833,
+      "text": "也也哇"
+    },
+    {
+      "end_seconds": 1163.433,
+      "id": "youtube-OZObmzuE9Ho#cue-598",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1161.566,
+      "text": "然后就甚至我们的一些"
+    },
+    {
+      "end_seconds": 1165.533,
+      "id": "youtube-OZObmzuE9Ho#cue-599",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1163.433,
+      "text": "就是比较上年纪的亲戚"
+    },
+    {
+      "end_seconds": 1167.266,
+      "id": "youtube-OZObmzuE9Ho#cue-600",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1165.533,
+      "text": "他们也愿意加入"
+    },
+    {
+      "end_seconds": 1168.833,
+      "id": "youtube-OZObmzuE9Ho#cue-601",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1167.266,
+      "text": "然后氛围就很好"
+    },
+    {
+      "end_seconds": 1170.233,
+      "id": "youtube-OZObmzuE9Ho#cue-602",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1168.833,
+      "text": "然后再到后面"
+    },
+    {
+      "end_seconds": 1172.166,
+      "id": "youtube-OZObmzuE9Ho#cue-603",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1170.233,
+      "text": "大家都跳得差不多累了我们就换成了"
+    },
+    {
+      "end_seconds": 1174.4,
+      "id": "youtube-OZObmzuE9Ho#cue-604",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1172.166,
+      "text": "KTV那个然后也可以再跟那个"
+    },
+    {
+      "end_seconds": 1176.4,
+      "id": "youtube-OZObmzuE9Ho#cue-605",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1174.633,
+      "text": "啊DJ去点歌然后"
+    },
+    {
+      "end_seconds": 1179.033,
+      "id": "youtube-OZObmzuE9Ho#cue-606",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1176.4,
+      "text": "大家想唱歌的唱歌想聊天的聊天"
+    },
+    {
+      "end_seconds": 1180.6,
+      "id": "youtube-OZObmzuE9Ho#cue-607",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1179.033,
+      "text": "然后有的人可能想休息"
+    },
+    {
+      "end_seconds": 1182.033,
+      "id": "youtube-OZObmzuE9Ho#cue-608",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1180.6,
+      "text": "回去睡睡觉我们就"
+    },
+    {
+      "end_seconds": 1183.433,
+      "id": "youtube-OZObmzuE9Ho#cue-609",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1182.033,
+      "text": "就很chill的这个"
+    },
+    {
+      "end_seconds": 1185.333,
+      "id": "youtube-OZObmzuE9Ho#cue-610",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1183.433,
+      "text": "十点前就散场了"
+    },
+    {
+      "end_seconds": 1187.866,
+      "id": "youtube-OZObmzuE9Ho#cue-611",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1185.4,
+      "text": "最后大家因为我们那个住宿"
+    },
+    {
+      "end_seconds": 1189.466,
+      "id": "youtube-OZObmzuE9Ho#cue-612",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1187.866,
+      "text": "我觉得也挺有意思"
+    },
+    {
+      "end_seconds": 1192.233,
+      "id": "youtube-OZObmzuE9Ho#cue-613",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1189.8,
+      "text": "他就是我们是因为我们"
+    },
+    {
+      "end_seconds": 1195.166,
+      "id": "youtube-OZObmzuE9Ho#cue-614",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1192.233,
+      "text": "相当于是好几个木屋"
+    },
+    {
+      "end_seconds": 1196.133,
+      "id": "youtube-OZObmzuE9Ho#cue-615",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1195.166,
+      "text": "80个人左右"
+    },
+    {
+      "end_seconds": 1198.766,
+      "id": "youtube-OZObmzuE9Ho#cue-616",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1196.133,
+      "text": "然后有一个是有狗的房子"
+    },
+    {
+      "end_seconds": 1200.466,
+      "id": "youtube-OZObmzuE9Ho#cue-617",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1199.333,
+      "text": "然后有一个party house"
+    },
+    {
+      "end_seconds": 1201.866,
+      "id": "youtube-OZObmzuE9Ho#cue-618",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1200.466,
+      "text": "就是年轻人"
+    },
+    {
+      "end_seconds": 1203.533,
+      "id": "youtube-OZObmzuE9Ho#cue-619",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1201.966,
+      "text": "然后最后那party house真的"
+    },
+    {
+      "end_seconds": 1204.533,
+      "id": "youtube-OZObmzuE9Ho#cue-620",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1203.533,
+      "text": "after party到很晚"
+    },
+    {
+      "end_seconds": 1205.933,
+      "id": "youtube-OZObmzuE9Ho#cue-621",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1204.533,
+      "text": "然后各种我不知道干嘛的"
+    },
+    {
+      "end_seconds": 1209.533,
+      "id": "youtube-OZObmzuE9Ho#cue-622",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1207.8,
+      "text": "就是喝酒啊还是干嘛的"
+    },
+    {
+      "end_seconds": 1210.633,
+      "id": "youtube-OZObmzuE9Ho#cue-623",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1209.633,
+      "text": "吵的挺晚的"
+    },
+    {
+      "end_seconds": 1212.466,
+      "id": "youtube-OZObmzuE9Ho#cue-624",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1210.633,
+      "text": "然后还有一个是有娃的"
+    },
+    {
+      "end_seconds": 1215.366,
+      "id": "youtube-OZObmzuE9Ho#cue-625",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1212.566,
+      "text": "有娃的house"
+    },
+    {
+      "end_seconds": 1216.0,
+      "id": "youtube-OZObmzuE9Ho#cue-626",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1215.366,
+      "text": "然后还有一个"
+    },
+    {
+      "end_seconds": 1217.366,
+      "id": "youtube-OZObmzuE9Ho#cue-627",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1216.0,
+      "text": "是我们给"
+    },
+    {
+      "end_seconds": 1218.666,
+      "id": "youtube-OZObmzuE9Ho#cue-628",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1217.366,
+      "text": "家人就set aside的"
+    },
+    {
+      "end_seconds": 1220.133,
+      "id": "youtube-OZObmzuE9Ho#cue-629",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1218.666,
+      "text": "一个单独的house"
+    },
+    {
+      "end_seconds": 1223.466,
+      "id": "youtube-OZObmzuE9Ho#cue-630",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1220.333,
+      "text": "嗯然后还有一个就是spare house嗯"
+    },
+    {
+      "end_seconds": 1224.666,
+      "id": "youtube-OZObmzuE9Ho#cue-631",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1224.433,
+      "text": "对"
+    },
+    {
+      "end_seconds": 1227.133,
+      "id": "youtube-OZObmzuE9Ho#cue-632",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1224.666,
+      "text": "我觉得最后大家的体验还挺不错的"
+    },
+    {
+      "end_seconds": 1230.0,
+      "id": "youtube-OZObmzuE9Ho#cue-633",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1227.233,
+      "text": "就是用自己的真诚去接待的宾客们"
+    },
+    {
+      "end_seconds": 1231.166,
+      "id": "youtube-OZObmzuE9Ho#cue-634",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1230.0,
+      "text": "就是想方设法给他们"
+    },
+    {
+      "end_seconds": 1232.566,
+      "id": "youtube-OZObmzuE9Ho#cue-635",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1231.166,
+      "text": "安排比较好的体验"
+    },
+    {
+      "end_seconds": 1234.266,
+      "id": "youtube-OZObmzuE9Ho#cue-636",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1232.6,
+      "text": "他们自己就会玩的挺开心的"
+    },
+    {
+      "end_seconds": 1235.033,
+      "id": "youtube-OZObmzuE9Ho#cue-637",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1234.266,
+      "text": "也确实很舒服"
+    },
+    {
+      "end_seconds": 1237.533,
+      "id": "youtube-OZObmzuE9Ho#cue-638",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1235.033,
+      "text": "大家enjoy当下是最重要的事情"
+    },
+    {
+      "end_seconds": 1239.633,
+      "id": "youtube-OZObmzuE9Ho#cue-639",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1237.533,
+      "text": "反而不是说什么留下blahblah"
+    },
+    {
+      "end_seconds": 1240.433,
+      "id": "youtube-OZObmzuE9Ho#cue-640",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1239.633,
+      "text": "是的是的"
+    },
+    {
+      "end_seconds": 1243.166,
+      "id": "youtube-OZObmzuE9Ho#cue-641",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1241.533,
+      "text": "能跟朋友家有这么个回忆"
+    },
+    {
+      "end_seconds": 1244.2,
+      "id": "youtube-OZObmzuE9Ho#cue-642",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1243.166,
+      "text": "真的很难得"
+    },
+    {
+      "end_seconds": 1246.166,
+      "id": "youtube-OZObmzuE9Ho#cue-643",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1244.2,
+      "text": "因为确实有很多朋友是像你们"
+    },
+    {
+      "end_seconds": 1248.0,
+      "id": "youtube-OZObmzuE9Ho#cue-644",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1246.166,
+      "text": "可能也是远道而来"
+    },
+    {
+      "end_seconds": 1249.566,
+      "id": "youtube-OZObmzuE9Ho#cue-645",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1248.0,
+      "text": "甚至是从别的国家呀"
+    },
+    {
+      "end_seconds": 1252.1,
+      "id": "youtube-OZObmzuE9Ho#cue-646",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1249.566,
+      "text": "这样子多难得大家能聚在一起"
+    },
+    {
+      "end_seconds": 1254.1,
+      "id": "youtube-OZObmzuE9Ho#cue-647",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1252.566,
+      "text": "具体的细节我们可以聊"
+    },
+    {
+      "end_seconds": 1255.166,
+      "id": "youtube-OZObmzuE9Ho#cue-648",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1254.1,
+      "text": "我觉得要分两个"
+    },
+    {
+      "end_seconds": 1257.566,
+      "id": "youtube-OZObmzuE9Ho#cue-649",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1255.166,
+      "text": "一个是关于婚礼的mindset"
+    },
+    {
+      "end_seconds": 1258.766,
+      "id": "youtube-OZObmzuE9Ho#cue-650",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1257.566,
+      "text": "我觉得其实很重要"
+    },
+    {
+      "end_seconds": 1261.833,
+      "id": "youtube-OZObmzuE9Ho#cue-651",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1258.766,
+      "text": "另外一个就是准备的一些技术细节"
+    },
+    {
+      "end_seconds": 1263.233,
+      "id": "youtube-OZObmzuE9Ho#cue-652",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1261.833,
+      "text": "这个可以分开讲"
+    },
+    {
+      "end_seconds": 1264.633,
+      "id": "youtube-OZObmzuE9Ho#cue-653",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1263.3,
+      "text": "为什么老公一开始"
+    },
+    {
+      "end_seconds": 1266.066,
+      "id": "youtube-OZObmzuE9Ho#cue-654",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1264.633,
+      "text": "觉得婚礼是不重要的"
+    },
+    {
+      "end_seconds": 1268.166,
+      "id": "youtube-OZObmzuE9Ho#cue-655",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1266.233,
+      "text": "其实是有一些差别的不喜庆"
+    },
+    {
+      "end_seconds": 1269.933,
+      "id": "youtube-OZObmzuE9Ho#cue-656",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1268.166,
+      "text": "但是哎你说的太对了对"
+    },
+    {
+      "end_seconds": 1272.633,
+      "id": "youtube-OZObmzuE9Ho#cue-657",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1269.933,
+      "text": "比如说为什么婚礼没有红色元素啊"
+    },
+    {
+      "end_seconds": 1274.533,
+      "id": "youtube-OZObmzuE9Ho#cue-658",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1272.633,
+      "text": "说哇老婆婚礼好好玩啊"
+    },
+    {
+      "end_seconds": 1276.566,
+      "id": "youtube-OZObmzuE9Ho#cue-659",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1274.533,
+      "text": "感觉还要再 你没有说还要再办一场"
+    },
+    {
+      "end_seconds": 1278.233,
+      "id": "youtube-OZObmzuE9Ho#cue-660",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1276.566,
+      "text": "但是我现在"
+    },
+    {
+      "end_seconds": 1280.033,
+      "id": "youtube-OZObmzuE9Ho#cue-661",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1278.333,
+      "text": "我就是要搞清楚自己的重要"
+    },
+    {
+      "end_seconds": 1280.666,
+      "id": "youtube-OZObmzuE9Ho#cue-662",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1280.233,
+      "text": "不然的话"
+    },
+    {
+      "end_seconds": 1281.733,
+      "id": "youtube-OZObmzuE9Ho#cue-663",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1280.733,
+      "text": "家里人的控制"
+    },
+    {
+      "end_seconds": 1283.6,
+      "id": "youtube-OZObmzuE9Ho#cue-664",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1281.733,
+      "text": "其实可以往下无限延伸"
+    }
+  ],
+  "video_id": "OZObmzuE9Ho",
+  "yuzheng_stance_weight": "not-evidence"
+}

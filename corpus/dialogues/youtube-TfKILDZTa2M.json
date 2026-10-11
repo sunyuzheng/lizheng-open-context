@@ -1,0 +1,435 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-TfKILDZTa2M",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-12-03T03:47:17+00:00",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T01:56:43.346957+00:00",
+  "published_at": "2025-12-03",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "2c33945809b4f70b6500443d04e260af84ce5fb1ef5ac11bc483d8930fc86724",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "73064cf232a6a6e91951923acbecd3cf2f82314e3bc3c73d9d534b58e2c949ae",
+    "root_receipt_sha256": "f14087e65726b6f837f73846dad15b258907a5b3143df22e352d5ca170c23b17",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=TfKILDZTa2M",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=TfKILDZTa2M",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "2015年AWS爆发，华尔街为何选择无视？",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 1.566,
+      "id": "youtube-TfKILDZTa2M#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.1,
+      "text": "dot com那个burst"
+    },
+    {
+      "end_seconds": 2.0,
+      "id": "youtube-TfKILDZTa2M#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1.566,
+      "text": "过去了"
+    },
+    {
+      "end_seconds": 3.033,
+      "id": "youtube-TfKILDZTa2M#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.0,
+      "text": "将近15年了"
+    },
+    {
+      "end_seconds": 3.833,
+      "id": "youtube-TfKILDZTa2M#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.033,
+      "text": "那时候我去"
+    },
+    {
+      "end_seconds": 5.2,
+      "id": "youtube-TfKILDZTa2M#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.833,
+      "text": "Amazon的re:Invent"
+    },
+    {
+      "end_seconds": 6.933,
+      "id": "youtube-TfKILDZTa2M#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.2,
+      "text": "它一年一度的开发者大会"
+    },
+    {
+      "end_seconds": 8.333,
+      "id": "youtube-TfKILDZTa2M#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.0,
+      "text": "这是2015年啊"
+    },
+    {
+      "end_seconds": 10.9,
+      "id": "youtube-TfKILDZTa2M#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.333,
+      "text": "呵呵然后那时候云计算已经起来了"
+    },
+    {
+      "end_seconds": 13.5,
+      "id": "youtube-TfKILDZTa2M#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.9,
+      "text": "而且已经是有非常令人激动人心的"
+    },
+    {
+      "end_seconds": 14.566,
+      "id": "youtube-TfKILDZTa2M#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.5,
+      "text": "一些use case"
+    },
+    {
+      "end_seconds": 15.833,
+      "id": "youtube-TfKILDZTa2M#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.566,
+      "text": "然后我参加re:Invent"
+    },
+    {
+      "end_seconds": 19.566,
+      "id": "youtube-TfKILDZTa2M#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.833,
+      "text": "然后这个Andy Jassy就是AWS当时候的CEO"
+    },
+    {
+      "end_seconds": 20.9,
+      "id": "youtube-TfKILDZTa2M#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.566,
+      "text": "现在是Amazon的CEO"
+    },
+    {
+      "end_seconds": 22.9,
+      "id": "youtube-TfKILDZTa2M#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.9,
+      "text": "他在上面讲了很多的案例对吧"
+    },
+    {
+      "end_seconds": 25.766,
+      "id": "youtube-TfKILDZTa2M#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.9,
+      "text": "都是财富500财富100的公司"
+    },
+    {
+      "end_seconds": 26.833,
+      "id": "youtube-TfKILDZTa2M#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.766,
+      "text": "怎么用云"
+    },
+    {
+      "end_seconds": 28.833,
+      "id": "youtube-TfKILDZTa2M#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.833,
+      "text": "然后怎么个去把旧的"
+    },
+    {
+      "end_seconds": 30.433,
+      "id": "youtube-TfKILDZTa2M#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.833,
+      "text": "包括Oracle这样的"
+    },
+    {
+      "end_seconds": 32.633,
+      "id": "youtube-TfKILDZTa2M#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.433,
+      "text": "以前认为不可替代的技术都替代掉"
+    },
+    {
+      "end_seconds": 34.3,
+      "id": "youtube-TfKILDZTa2M#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.633,
+      "text": "你听了以后你就觉得哇"
+    },
+    {
+      "end_seconds": 36.166,
+      "id": "youtube-TfKILDZTa2M#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.3,
+      "text": "他说的都是真的应该他\n不会(骗人)"
+    },
+    {
+      "end_seconds": 38.3,
+      "id": "youtube-TfKILDZTa2M#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.166,
+      "text": "但如果你真的是take at face value"
+    },
+    {
+      "end_seconds": 39.3,
+      "id": "youtube-TfKILDZTa2M#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.3,
+      "text": "everything he said"
+    },
+    {
+      "end_seconds": 40.5,
+      "id": "youtube-TfKILDZTa2M#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.3,
+      "text": "就是把他都认为真的"
+    },
+    {
+      "end_seconds": 41.8,
+      "id": "youtube-TfKILDZTa2M#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.5,
+      "text": "这个公司太伟大了"
+    },
+    {
+      "end_seconds": 42.633,
+      "id": "youtube-TfKILDZTa2M#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.8,
+      "text": "太了不起了"
+    },
+    {
+      "end_seconds": 44.166,
+      "id": "youtube-TfKILDZTa2M#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.633,
+      "text": "对吧就是2015年"
+    },
+    {
+      "end_seconds": 45.5,
+      "id": "youtube-TfKILDZTa2M#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.4,
+      "text": "然后我旁边的那个"
+    },
+    {
+      "end_seconds": 47.6,
+      "id": "youtube-TfKILDZTa2M#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.5,
+      "text": "是一个华尔街的一个分析师"
+    },
+    {
+      "end_seconds": 48.5,
+      "id": "youtube-TfKILDZTa2M#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.6,
+      "text": "然后我就问她"
+    },
+    {
+      "end_seconds": 50.533,
+      "id": "youtube-TfKILDZTa2M#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.5,
+      "text": "我说哇this is amazing right"
+    },
+    {
+      "end_seconds": 51.733,
+      "id": "youtube-TfKILDZTa2M#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.533,
+      "text": "这个太exciting了"
+    },
+    {
+      "end_seconds": 53.333,
+      "id": "youtube-TfKILDZTa2M#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.733,
+      "text": "你知道她跟我说什么吗"
+    },
+    {
+      "end_seconds": 55.466,
+      "id": "youtube-TfKILDZTa2M#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.4,
+      "text": "她说这个再怎么样"
+    },
+    {
+      "end_seconds": 56.233,
+      "id": "youtube-TfKILDZTa2M#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.466,
+      "text": "还是"
+    },
+    {
+      "end_seconds": 58.933,
+      "id": "youtube-TfKILDZTa2M#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.233,
+      "text": "整个Amazon 8% 的revenue（总营收）都不到"
+    },
+    {
+      "end_seconds": 60.4,
+      "id": "youtube-TfKILDZTa2M#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.0,
+      "text": "she just shrugged off, right"
+    },
+    {
+      "end_seconds": 62.3,
+      "id": "youtube-TfKILDZTa2M#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.4,
+      "text": "this is eight percent of revenue"
+    },
+    {
+      "end_seconds": 64.5,
+      "id": "youtube-TfKILDZTa2M#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.3,
+      "text": "less than eight percent revenue actually"
+    },
+    {
+      "end_seconds": 65.766,
+      "id": "youtube-TfKILDZTa2M#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.5,
+      "text": "所以说对他来说"
+    },
+    {
+      "end_seconds": 67.9,
+      "id": "youtube-TfKILDZTa2M#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.766,
+      "text": "你在上面台上再怎么excited"
+    },
+    {
+      "end_seconds": 68.9,
+      "id": "youtube-TfKILDZTa2M#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.9,
+      "text": "再怎么样"
+    },
+    {
+      "end_seconds": 69.933,
+      "id": "youtube-TfKILDZTa2M#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.9,
+      "text": "it's nothing"
+    }
+  ],
+  "video_id": "TfKILDZTa2M",
+  "yuzheng_stance_weight": "not-evidence"
+}

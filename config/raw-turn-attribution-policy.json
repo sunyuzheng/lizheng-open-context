@@ -1,0 +1,346 @@
+{
+  "full_precision_certified": false,
+  "human_audio_review": false,
+  "method": "source-text-and-self-identification",
+  "records": [
+    {
+      "cue_count": 847,
+      "original_source_sha256": "79691fc0084da2f510a2b900096cb3e84929fdc37726f4ce7d8a7bc2330adcf4",
+      "review_basis": "Author subtitle opening cues1–48 read with self-identification at cue14 and adjacent interviewer/guest exchange. Cue7 and cues49 onward remain unresolved. Questions and reported attitudes are not endorsement; no human audio review.",
+      "units": [
+        {
+          "content_sha256": "e01ebb5586bdccd14cf7097615c0af1080894ba3da2db0aa60c23ae845d1d0b1",
+          "id": "youtube-hNkglVeOLKk#cue-1",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "75e894bc5c7c167f55ec0aa956dffa9f648e4c06e0817b9d916c03c1d417a886",
+          "id": "youtube-hNkglVeOLKk#cue-2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "691a4fdc787d1b200deb4e2564723b657814830a05e43d8df14ed3ef5b62ac60",
+          "id": "youtube-hNkglVeOLKk#cue-3",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "e4dda15de065e6b6fb76663fdc36950c19e19aba80cadb982c297a1f3eac0b77",
+          "id": "youtube-hNkglVeOLKk#cue-4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "2f09fa89cd83d8e443aeda3895c26e31d4139b8618f7634829dfe3c2b9fbaefd",
+          "id": "youtube-hNkglVeOLKk#cue-5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "b3b2ad48c1d0fcd0981e9fada9c30d1853d01ae04d83b4b758c9559f2fb23d8a",
+          "id": "youtube-hNkglVeOLKk#cue-6",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "content_sha256": "826c9a92cad938954b02c9d1fe5cfb747f0a78cab3298627de894693ed0050ea",
+          "id": "youtube-hNkglVeOLKk#cue-8",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "acknowledgement"
+        },
+        {
+          "content_sha256": "171e35f969226b9f77bd359934e6ed6c7a13bf90a0c9c644199e900538718d33",
+          "id": "youtube-hNkglVeOLKk#cue-9",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "acknowledgement"
+        },
+        {
+          "content_sha256": "99ebe15b19928583e0c7d8b0d77fbe3633184cef10a02e879c37fe594436ec2b",
+          "id": "youtube-hNkglVeOLKk#cue-10",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "joke"
+        },
+        {
+          "content_sha256": "e40609e6a0de37afe463e3b711065a4c34dbb9dae2bf57cdd64a7d90067a337c",
+          "id": "youtube-hNkglVeOLKk#cue-11",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "joke"
+        },
+        {
+          "content_sha256": "c2e447764147a77f9e0ad06c4986ea96e02ab31c04aadf8022678a6ed350bde7",
+          "id": "youtube-hNkglVeOLKk#cue-12",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "joke"
+        },
+        {
+          "content_sha256": "1e4ecb5850ba2a26b71f2ae9f42c80a2f3c239ca163d6d1c15c6c0da76ab77eb",
+          "id": "youtube-hNkglVeOLKk#cue-13",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "4a8146564bed9b7c08c1099ef37d0fd2108f6d3c4ac2c685faf5c88b9de1456a",
+          "id": "youtube-hNkglVeOLKk#cue-14",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "e0480e969ed2e2f190a63878151e5b5762f551053e098ebb4b540afb59f29f82",
+          "id": "youtube-hNkglVeOLKk#cue-15",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "1b87927c72269572469cfda8abfcaa5b309baac2046a363a2b870db9ad69a573",
+          "id": "youtube-hNkglVeOLKk#cue-16",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "ef60e9252637798c59ba634abee29d2f629f1688eb2b0a2c5472a5e6b73020c7",
+          "id": "youtube-hNkglVeOLKk#cue-17",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "e516708991a4db6381bda581b83a5090911b0e3ed37000e4680c3530be130b39",
+          "id": "youtube-hNkglVeOLKk#cue-18",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "6da84a08b1095f2d7aa2efa7e5abc4e2a025adaf7f96a0ae9b31ac70a0ae3ee0",
+          "id": "youtube-hNkglVeOLKk#cue-19",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "27cbb2b3c8a4834de0ec92ea6bb086e91b7ed4cec373e074956a8a99715c46b6",
+          "id": "youtube-hNkglVeOLKk#cue-20",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "562170f85790bd275d0a95ad7e7a0660f2dd67de61a2663690016da18ad06c22",
+          "id": "youtube-hNkglVeOLKk#cue-21",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "e0a44bf60e2d59e06b011a5773ecaec18048fa628cd6d319b68e7ad507757d75",
+          "id": "youtube-hNkglVeOLKk#cue-22",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "51dfc011996095282b7f5b0a810ac2da98cb827b6a47df5e340448fb320d1b0f",
+          "id": "youtube-hNkglVeOLKk#cue-23",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "70e2107bbc4bf119881ab3a4d26133ce7aca68caa7bba0c055e55dfb7c47d20a",
+          "id": "youtube-hNkglVeOLKk#cue-24",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "9aa3db4316dbf204679173aa5ef337240bb718f67797d710ff7688efb766d3c7",
+          "id": "youtube-hNkglVeOLKk#cue-25",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "d85050792a413c898a1457905b3862eeb220b9c1d2bb45990699f4102232bdb8",
+          "id": "youtube-hNkglVeOLKk#cue-26",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "introduction"
+        },
+        {
+          "content_sha256": "1d537491644b64ae1af99878e3709d79deb282279846591d5795040b99512ac2",
+          "id": "youtube-hNkglVeOLKk#cue-27",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "content_sha256": "e6b872bc26574be196e8218f2522058efb625fc6a4345b470f820263bb2c5abc",
+          "id": "youtube-hNkglVeOLKk#cue-28",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "content_sha256": "fef7b2ccf82ffe4ab484b528804e49e02bdb37af8add7673e5e7b35081ac52ef",
+          "id": "youtube-hNkglVeOLKk#cue-29",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "content_sha256": "8ea00885cf2cca667206aafe5de68e8fe59b351e48bcf35dbb4fdccd3c8ce2ef",
+          "id": "youtube-hNkglVeOLKk#cue-30",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "content_sha256": "d810f463b275ea141e6817b5b769beb4c57686cc8a76ff70baa12a956c935877",
+          "id": "youtube-hNkglVeOLKk#cue-31",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "content_sha256": "747fe2b5cef8e387a4c9c31f8cf3c59a7e071e0eb659db17d8c63e1b7b2539ce",
+          "id": "youtube-hNkglVeOLKk#cue-32",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "content_sha256": "098a1100b31440882560e37a840a45bc74aa821504cd4bb4f8abd092aaa1abce",
+          "id": "youtube-hNkglVeOLKk#cue-33",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "content_sha256": "ce000268e0711ed8968e6ced633bdc91a63f56a73c512c43f4893d041e7d1ba8",
+          "id": "youtube-hNkglVeOLKk#cue-34",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "acknowledgement"
+        },
+        {
+          "content_sha256": "674a59aa5dfc7e58430912637266239f622e020d95fb4cc0063d66a4c1d0689d",
+          "id": "youtube-hNkglVeOLKk#cue-35",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "statement"
+        },
+        {
+          "content_sha256": "0e26e8998f3f0f6de61974758ae3d38f49e9e8a380832ee3a38cb7ab248cf907",
+          "id": "youtube-hNkglVeOLKk#cue-36",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "statement"
+        },
+        {
+          "content_sha256": "2c51fd12b9291bbbde2b4488073f53cf473769a4639937c51330b3954b48318f",
+          "id": "youtube-hNkglVeOLKk#cue-37",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "statement"
+        },
+        {
+          "content_sha256": "55c1b216261d2acac464932ac514cf237ad6fb8a1a7decea072272469633703f",
+          "id": "youtube-hNkglVeOLKk#cue-38",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "statement"
+        },
+        {
+          "content_sha256": "01aa1af4bee611b74097e48b0a4ae1852e39fb9d43af92ceec70ef0b3590ec4e",
+          "id": "youtube-hNkglVeOLKk#cue-39",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "statement"
+        },
+        {
+          "content_sha256": "f6fd0bfd65cada6e663048142e10ddc4d5df2bb72353cf400d716b868081a275",
+          "id": "youtube-hNkglVeOLKk#cue-40",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "content_sha256": "ca27f93fed2a90fbdb49845c0d2bfe4362657324f4eac1046ee8e90513b6ac83",
+          "id": "youtube-hNkglVeOLKk#cue-41",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "content_sha256": "94b1f2b6d2b7e111ffc0ce08dbdde4829a07ff87c895b35d855f2d0bdff4a8ee",
+          "id": "youtube-hNkglVeOLKk#cue-42",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "statement"
+        },
+        {
+          "content_sha256": "741ec2e8236ada7b15efcc4734d55a03db4920ab91b2b18b75f39c5d90d419a1",
+          "id": "youtube-hNkglVeOLKk#cue-43",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "statement"
+        },
+        {
+          "content_sha256": "d7682af49b8a7b5b0863482415df596c1e1d4437b20496a6886ab77cac43ce4c",
+          "id": "youtube-hNkglVeOLKk#cue-44",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "statement"
+        },
+        {
+          "content_sha256": "e4e54be3772f3fc250bc21209fd20800780565243a9ed46e5309fc0acb60c614",
+          "id": "youtube-hNkglVeOLKk#cue-45",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "reported-other"
+        },
+        {
+          "content_sha256": "73270ca58bcb13f1977f3fbb26d66da2c2b66da1e066ba2f4aed54ff96b471b3",
+          "id": "youtube-hNkglVeOLKk#cue-46",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "reported-other"
+        },
+        {
+          "content_sha256": "ceb453e632330c8d9c5abf63bb8601c9f9d029ea050a24686957224e3fbf7ff5",
+          "id": "youtube-hNkglVeOLKk#cue-47",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "reported-other"
+        },
+        {
+          "content_sha256": "087479bede6ec8e1181a815e641ce50dc95737454a6d95151c3e850575bddc1c",
+          "id": "youtube-hNkglVeOLKk#cue-48",
+          "speaker_id": "guest:lu-wei",
+          "speaker_name": "卢蔚（Cooper）",
+          "speech_act": "reported-other"
+        }
+      ],
+      "unknown_units_sha256": "1b2246f570d42e2a65541065c36cfee75eb19fe0eecc14c9dcc8e0a17c08b9d9",
+      "video_id": "hNkglVeOLKk"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,386 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-vbKppX43_cs",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-06-05T23:01:06+00:00",
+  "participant_aliases": [
+    "Fan Deng",
+    "樊登"
+  ],
+  "participant_entity_ids": [
+    "guest:fan-deng"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "樊登",
+  "public_verified_at": "2026-10-11T02:02:12.942537+00:00",
+  "published_at": "2025-06-05",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "8d32d6241dac9c3bb76e6eafd68fabaadabbb3526b8961c4e31b7388f8fdb15a",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "bb2710ee6a2f6dd0e481c972ab98d04abca35a24383fa814797f1c4531342217",
+    "root_receipt_sha256": "9d4738fe54a836ffc6bbd0c9690ef01cd37da97e20021c0f4faf4b8aeed430ea",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=vbKppX43_cs",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=vbKppX43_cs",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "人生的意义不靠找而靠做｜樊登",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 8.3,
+      "id": "youtube-vbKppX43_cs#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.7,
+      "text": "就是你能沉浸在一件事当中"
+    },
+    {
+      "end_seconds": 9.733,
+      "id": "youtube-vbKppX43_cs#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.3,
+      "text": "而不是judge自己"
+    },
+    {
+      "end_seconds": 11.6,
+      "id": "youtube-vbKppX43_cs#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.733,
+      "text": "是不是沉浸在一件事当中"
+    },
+    {
+      "end_seconds": 12.633,
+      "id": "youtube-vbKppX43_cs#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.7,
+      "text": "这是很有意思"
+    },
+    {
+      "end_seconds": 16.0,
+      "id": "youtube-vbKppX43_cs#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.733,
+      "text": "就比如说你在麦当劳打工炸薯条"
+    },
+    {
+      "end_seconds": 17.166,
+      "id": "youtube-vbKppX43_cs#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.0,
+      "text": "然后如果你在内心当中"
+    },
+    {
+      "end_seconds": 18.3,
+      "id": "youtube-vbKppX43_cs#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.166,
+      "text": "不断有一个声音说"
+    },
+    {
+      "end_seconds": 19.6,
+      "id": "youtube-vbKppX43_cs#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.3,
+      "text": "失败真失败"
+    },
+    {
+      "end_seconds": 20.7,
+      "id": "youtube-vbKppX43_cs#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.733,
+      "text": "你看我多惨"
+    },
+    {
+      "end_seconds": 22.1,
+      "id": "youtube-vbKppX43_cs#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.7,
+      "text": "对吧就出来打工干这个"
+    },
+    {
+      "end_seconds": 23.4,
+      "id": "youtube-vbKppX43_cs#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.1,
+      "text": "一个小时挣那么点钱"
+    },
+    {
+      "end_seconds": 26.4,
+      "id": "youtube-vbKppX43_cs#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.533,
+      "text": "那你就不会成为一个好的打工者"
+    },
+    {
+      "end_seconds": 28.466,
+      "id": "youtube-vbKppX43_cs#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.4,
+      "text": "但是如果你能够在炸薯条的时候"
+    },
+    {
+      "end_seconds": 30.6,
+      "id": "youtube-vbKppX43_cs#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.6,
+      "text": "都很认真炸那个薯条"
+    },
+    {
+      "end_seconds": 31.6,
+      "id": "youtube-vbKppX43_cs#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.6,
+      "text": "都很开心"
+    },
+    {
+      "end_seconds": 33.6,
+      "id": "youtube-vbKppX43_cs#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.6,
+      "text": "都看到客户的笑脸"
+    },
+    {
+      "end_seconds": 34.8,
+      "id": "youtube-vbKppX43_cs#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.6,
+      "text": "感受到有意义"
+    },
+    {
+      "end_seconds": 36.933,
+      "id": "youtube-vbKppX43_cs#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.933,
+      "text": "那你肯定不是一个一般的炸薯条的人"
+    },
+    {
+      "end_seconds": 38.566,
+      "id": "youtube-vbKppX43_cs#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.933,
+      "text": "所以不跟事有关"
+    },
+    {
+      "end_seconds": 39.066,
+      "id": "youtube-vbKppX43_cs#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.566,
+      "text": "不是说"
+    },
+    {
+      "end_seconds": 42.166,
+      "id": "youtube-vbKppX43_cs#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.766,
+      "text": "找不到我就一直找"
+    },
+    {
+      "end_seconds": 43.366,
+      "id": "youtube-vbKppX43_cs#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.2,
+      "text": "我就持续的找"
+    },
+    {
+      "end_seconds": 44.6,
+      "id": "youtube-vbKppX43_cs#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.4,
+      "text": "那你这辈子也找不到"
+    },
+    {
+      "end_seconds": 46.833,
+      "id": "youtube-vbKppX43_cs#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.733,
+      "text": "因为你一直在一个找的状态"
+    },
+    {
+      "end_seconds": 53.3,
+      "id": "youtube-vbKppX43_cs#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.133,
+      "text": "这是很重要的"
+    },
+    {
+      "end_seconds": 55.366,
+      "id": "youtube-vbKppX43_cs#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.366,
+      "text": "你比如说你出门坐火车"
+    },
+    {
+      "end_seconds": 56.1,
+      "id": "youtube-vbKppX43_cs#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.366,
+      "text": "诶"
+    },
+    {
+      "end_seconds": 56.8,
+      "id": "youtube-vbKppX43_cs#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.1,
+      "text": "很不靠谱"
+    },
+    {
+      "end_seconds": 58.866,
+      "id": "youtube-vbKppX43_cs#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.8,
+      "text": "周围全是一些你不喜欢的人"
+    },
+    {
+      "end_seconds": 60.333,
+      "id": "youtube-vbKppX43_cs#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.866,
+      "text": "乱七八糟的围着你在那"
+    },
+    {
+      "end_seconds": 60.8,
+      "id": "youtube-vbKppX43_cs#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.366,
+      "text": "我相信"
+    },
+    {
+      "end_seconds": 63.0,
+      "id": "youtube-vbKppX43_cs#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.8,
+      "text": "绝大多数人都会想逃离这个场景"
+    },
+    {
+      "end_seconds": 65.1,
+      "id": "youtube-vbKppX43_cs#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.066,
+      "text": "这时候你的人生就在逐渐的流逝"
+    },
+    {
+      "end_seconds": 68.466,
+      "id": "youtube-vbKppX43_cs#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.3,
+      "text": "你就失去了这一天美好的生活"
+    },
+    {
+      "end_seconds": 71.5,
+      "id": "youtube-vbKppX43_cs#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.466,
+      "text": "但如果你能够跟着这些人一块去体验"
+    },
+    {
+      "end_seconds": 72.766,
+      "id": "youtube-vbKppX43_cs#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.5,
+      "text": "那这一天也蛮有意思的"
+    },
+    {
+      "end_seconds": 74.2,
+      "id": "youtube-vbKppX43_cs#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.766,
+      "text": "可能以后一辈子都不会这样"
+    }
+  ],
+  "video_id": "vbKppX43_cs",
+  "yuzheng_stance_weight": "not-evidence"
+}

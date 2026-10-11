@@ -1,0 +1,395 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-ACfLoZ92B-g",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2023-12-30T02:30:07Z",
+  "participant_aliases": [
+    "Howie Xu",
+    "硅谷徐老师（Howie Xu）"
+  ],
+  "participant_entity_ids": [
+    "guest:howie-xu"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "硅谷徐老师（Howie Xu）",
+  "public_verified_at": "2026-10-11T01:52:57.914515+00:00",
+  "published_at": "2023-12-30",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "f61e59e6cd78a9b261f718aff709c57609183a33e32e91b7fcec7b1c08182a2c",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "f61e59e6cd78a9b261f718aff709c57609183a33e32e91b7fcec7b1c08182a2c",
+    "root_receipt_sha256": "f6833eceffa31c75244832e49fd551be2f3237d0a3fcaa1f6b75d4d672d7d2be",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=ACfLoZ92B-g",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=ACfLoZ92B-g",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "大厂打工，需要尽早意识到的真相",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 3.586,
+      "id": "youtube-ACfLoZ92B-g#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "程序员和数据我想尤其提这两个行业去帮大家"
+    },
+    {
+      "end_seconds": 6.421,
+      "id": "youtube-ACfLoZ92B-g#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.586,
+      "text": "问一下会受到什么样的影响长期来看我们的"
+    },
+    {
+      "end_seconds": 9.375,
+      "id": "youtube-ACfLoZ92B-g#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.421,
+      "text": "工作是不是就会被取代因为短期大家说可以"
+    },
+    {
+      "end_seconds": 12.68,
+      "id": "youtube-ACfLoZ92B-g#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.375,
+      "text": "提高效率提高效率长期的效果就是那就不需要"
+    },
+    {
+      "end_seconds": 15.324,
+      "id": "youtube-ACfLoZ92B-g#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.68,
+      "text": "招这么多人了那会不会最后所有的公司都变得"
+    },
+    {
+      "end_seconds": 18.507,
+      "id": "youtube-ACfLoZ92B-g#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.324,
+      "text": "很小然后大家就没有工作了我跟谷歌的一个"
+    },
+    {
+      "end_seconds": 22.167,
+      "id": "youtube-ACfLoZ92B-g#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.507,
+      "text": "高管讨论过这个问题我觉得他说的一句话我是"
+    },
+    {
+      "end_seconds": 25.12,
+      "id": "youtube-ACfLoZ92B-g#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.167,
+      "text": "非常认同的只有可能 50%的人失去工作"
+    },
+    {
+      "end_seconds": 29.39,
+      "id": "youtube-ACfLoZ92B-g#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.12,
+      "text": "但是这跟 AI 没关系当然了这件事情是不"
+    },
+    {
+      "end_seconds": 34.28,
+      "id": "youtube-ACfLoZ92B-g#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.39,
+      "text": "均匀的有些人他今天做的事情"
+    },
+    {
+      "end_seconds": 38.827,
+      "id": "youtube-ACfLoZ92B-g#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.28,
+      "text": "你上次教我的一个是什么搬砖搬砖你是怎么"
+    },
+    {
+      "end_seconds": 42.215,
+      "id": "youtube-ACfLoZ92B-g#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.827,
+      "text": "解释搬砖的就是把一个砖从这搬到这儿然后"
+    },
+    {
+      "end_seconds": 45.184,
+      "id": "youtube-ACfLoZ92B-g#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.215,
+      "text": "落实到这个程序员的工作上的话就是你在"
+    },
+    {
+      "end_seconds": 46.987,
+      "id": "youtube-ACfLoZ92B-g#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.269,
+      "text": "Stack Overflow 上看到一个"
+    },
+    {
+      "end_seconds": 49.799,
+      "id": "youtube-ACfLoZ92B-g#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.987,
+      "text": "答案然后把它搬到你的代码库里边改一改对"
+    },
+    {
+      "end_seconds": 53.082,
+      "id": "youtube-ACfLoZ92B-g#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.799,
+      "text": "类似这种工作我觉得那完全是如果你每天做的"
+    },
+    {
+      "end_seconds": 56.898,
+      "id": "youtube-ACfLoZ92B-g#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.082,
+      "text": "事情都是这样的工作我觉得确实是完全有可能"
+    },
+    {
+      "end_seconds": 59.48,
+      "id": "youtube-ACfLoZ92B-g#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.898,
+      "text": "要被取代今天 AI 肯定已经比他做的好了"
+    },
+    {
+      "end_seconds": 63.397,
+      "id": "youtube-ACfLoZ92B-g#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.92,
+      "text": "我真的见过很多这样的程序员早就应该被"
+    },
+    {
+      "end_seconds": 67.8,
+      "id": "youtube-ACfLoZ92B-g#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.58,
+      "text": "AI 取代了对所以说刚才我的一个高管朋友"
+    },
+    {
+      "end_seconds": 70.8,
+      "id": "youtube-ACfLoZ92B-g#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.8,
+      "text": "他说一个公司有可能在不管是今后 12 个"
+    },
+    {
+      "end_seconds": 75.105,
+      "id": "youtube-ACfLoZ92B-g#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.8,
+      "text": "月今后三年减掉 50%的人但他不觉得这跟"
+    },
+    {
+      "end_seconds": 79.044,
+      "id": "youtube-ACfLoZ92B-g#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.274,
+      "text": "AI 有关而是跟自己公司最最基本的商业"
+    },
+    {
+      "end_seconds": 82.879,
+      "id": "youtube-ACfLoZ92B-g#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.044,
+      "text": "逻辑有关当这个公司不再是一个印钞机的时候"
+    },
+    {
+      "end_seconds": 87.359,
+      "id": "youtube-ACfLoZ92B-g#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.879,
+      "text": "就出来了之前会招这么多人是因为有"
+    },
+    {
+      "end_seconds": 89.01,
+      "id": "youtube-ACfLoZ92B-g#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.459,
+      "text": "cheap capital 然后"
+    },
+    {
+      "end_seconds": 91.64,
+      "id": "youtube-ACfLoZ92B-g#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.135,
+      "text": "cheap capital 导致前景很好"
+    },
+    {
+      "end_seconds": 93.04,
+      "id": "youtube-ACfLoZ92B-g#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.64,
+      "text": "而且每一层的管理层都有"
+    },
+    {
+      "end_seconds": 95.203,
+      "id": "youtube-ACfLoZ92B-g#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.167,
+      "text": "incentive 去 over"
+    },
+    {
+      "end_seconds": 96.66,
+      "id": "youtube-ACfLoZ92B-g#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.33,
+      "text": "hire 因为去 Empire"
+    },
+    {
+      "end_seconds": 99.066,
+      "id": "youtube-ACfLoZ92B-g#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.742,
+      "text": "building 这样是他们升职的最好"
+    },
+    {
+      "end_seconds": 102.709,
+      "id": "youtube-ACfLoZ92B-g#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.066,
+      "text": "渠道所以一定会多招的尤其是在大厂大家要"
+    },
+    {
+      "end_seconds": 105.989,
+      "id": "youtube-ACfLoZ92B-g#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.709,
+      "text": "意识到的一个问题是绝大多数的大厂它能招"
+    },
+    {
+      "end_seconds": 109.939,
+      "id": "youtube-ACfLoZ92B-g#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.989,
+      "text": "几万个人甚至十几万人或者怎么样是因为它有"
+    },
+    {
+      "end_seconds": 115.479,
+      "id": "youtube-ACfLoZ92B-g#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.939,
+      "text": "能力去付这点钱对不是说它是真正有这个需求"
+    },
+    {
+      "end_seconds": 120.512,
+      "id": "youtube-ACfLoZ92B-g#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.479,
+      "text": "我觉得这件事情是一个多数人没有去意识到的"
+    },
+    {
+      "end_seconds": 122.929,
+      "id": "youtube-ACfLoZ92B-g#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 120.512,
+      "text": "问题或者大家意识到的大家不要想因为就会"
+    },
+    {
+      "end_seconds": 125.639,
+      "id": "youtube-ACfLoZ92B-g#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.072,
+      "text": "question 自己然后就很痛苦"
+    }
+  ],
+  "video_id": "ACfLoZ92B-g",
+  "yuzheng_stance_weight": "not-evidence"
+}

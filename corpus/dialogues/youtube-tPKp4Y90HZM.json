@@ -1,0 +1,97 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-tPKp4Y90HZM",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2023-11-04T22:41:09Z",
+  "participant_aliases": [
+    "Leon"
+  ],
+  "participant_entity_ids": [
+    "guest:leon"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Leon",
+  "public_verified_at": "2026-10-11T02:01:40.712603+00:00",
+  "published_at": "2023-11-04",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "799c5e3c7337b7f504c56ca235d0aa5d6658b7bc24fc4c8e3a3308cb4477d9ff",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "799c5e3c7337b7f504c56ca235d0aa5d6658b7bc24fc4c8e3a3308cb4477d9ff",
+    "root_receipt_sha256": "d47cbd084ed43b495fb7de1fe5379522c0e33020932241b9b7ca0f218cac6de0",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=tPKp4Y90HZM",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=tPKp4Y90HZM",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "和Leon聊天，正好天降大雨，画面很不错",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.0,
+      "id": "youtube-tPKp4Y90HZM#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "你看,你看外面"
+    },
+    {
+      "end_seconds": 8.32,
+      "id": "youtube-tPKp4Y90HZM#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.28,
+      "text": "能看到吗哇,真的是啊"
+    },
+    {
+      "end_seconds": 12.24,
+      "id": "youtube-tPKp4Y90HZM#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.2,
+      "text": "没想到啊"
+    },
+    {
+      "end_seconds": 16.64,
+      "id": "youtube-tPKp4Y90HZM#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.28,
+      "text": "突然一下子画面很棒诶那确实"
+    },
+    {
+      "end_seconds": 18.719,
+      "id": "youtube-tPKp4Y90HZM#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.76,
+      "text": "画面挺好的"
+    }
+  ],
+  "video_id": "tPKp4Y90HZM",
+  "yuzheng_stance_weight": "not-evidence"
+}

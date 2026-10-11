@@ -14,7 +14,9 @@ from pathlib import Path
 from urllib.parse import unquote
 
 import build_index
+from dialogue_policy import validate_dialogues
 import rights
+import search as source_search
 from rights import REFERENCE_USE, RETAINED
 
 
@@ -756,6 +758,11 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     excerpt_catalog_path = ROOT / "catalog" / "conversation-excerpts.jsonl"
     excerpt_rows = read_jsonl(excerpt_catalog_path) if excerpt_catalog_path.is_file() else []
     public_conversations = validate_values_conversations(video_rows, excerpt_rows, values_policy, member_ids, errors)
+    dialogue_stats = validate_dialogues(ROOT, member_ids, errors)
+    try:
+        source_search.validate_published_sections(ROOT)
+    except (OSError, ValueError, TypeError, KeyError) as exc:
+        errors.append(f"published section layers: {exc}")
 
     for row in kb_rows:
         if row.get("full_text_included") and not authorized_publisher_text(row):
@@ -905,6 +912,7 @@ def validate_rights(errors: list[str]) -> dict[str, int]:
     ], errors)
 
     return {
+        **dialogue_stats,
         "community_posts_catalog": len(community_post_rows),
         "community_posts_full_text": sum(
             bool(row.get("full_text_included")) for row in community_post_rows
@@ -963,7 +971,8 @@ def build_manifest(stats: dict[str, int], license_map: dict[str, tuple[str, str]
             "community_comments_full_text": "first-party comments on included Yuzheng-authored posts, from discussion spaces with at least 80 effective characters; member mentions, contact data, sensitive/private context, third-party leading quotations, and all inline links removed",
             "knowledge_bank_full_text": "first-party Knowledge Bank posts point to the unified community-post corpus; other authors remain metadata-only",
             "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
-            "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact maintainer-authorized member-video-policy snapshot and the six public conversations in config/values-conversations-policy.json; mixed/unresolved speech is under the Lizheng Reference Use License, guests keep the rights in their own words, and it cannot independently establish Yuzheng's stance",
+            "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact member-video-policy and six values-conversations-policy snapshots; new structured public dialogues require the exact public-dialogue-policy snapshot; mixed/unresolved speech is under the Lizheng Reference Use License, guests keep their own rights, and it cannot independently establish Yuzheng's stance",
+            "dialogue_layers": "faithful timed transcripts and reviewed quotations are raw; AI headings, annotations and synthesis are derived and never independently establish speech or endorsement; participant metadata does not assign unresolved turns",
             "conversation_excerpts": "Yuzheng's own turns in the twelve conversations that shaped his values (问道, 赵智沉, 王路, Leon), reviewed speaker by speaker on 2026-10-04; every quotation must match its included transcript verbatim at the stated moment; headings and context lines are AI-written; excerpts from member videos are under the Lizheng Reference Use License, from public videos CC BY 4.0",
             "member_videos": "open transcript text, members-only original videos; exact IDs and transcript hashes in config/member-video-policy.json; YouTube membership is distinct from Ask's Superlinear Founding quota",
             "book": "author-owned complete framework reference and chapter map; no publisher-formatted assets",

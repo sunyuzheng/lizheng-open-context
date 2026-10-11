@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "purpose": "separate-published-source-from-editorial-derivation",
+  "records": [
+    {
+      "path": "corpus/community-posts/20260222-liujia-29936372.md",
+      "source_id": "circle-29936372",
+      "source_sha256": "ef0ef15fa04932e13d3c471bcb5026fa52c8b4a49c5619a01aace2b6e9eb580b",
+      "layer": "derived",
+      "start_marker": "## 以下是Claude的总结",
+      "writer": "AI",
+      "content_origin": "ai-synthesis",
+      "generation_method": "source-declared-ai-written",
+      "classification_basis": "原发布者明确写明以下是AI对访谈的总结，并以“以下是Claude的总结”划定起点；起点之前的原发布文字单独保留。"
+    },
+    {
+      "path": "corpus/community-posts/20260519-wanglu-32762081.md",
+      "source_id": "circle-32762081",
+      "source_sha256": "3360b03dbbe7d4eb9fd729a0a97dc650d539c7ff454a8b4ab79caa0d9b6f85d5",
+      "layer": "derived",
+      "whole_body": true,
+      "writer": "整理者（未确认）",
+      "content_origin": "published-editorial-adaptation",
+      "generation_method": "source-declared-editorial-adaptation",
+      "classification_basis": "原文明确说明引文经过口语和ASR顺读整理，全文基于访谈transcript；这是已发表的访谈整理稿，未确认具体整理者，不将其当作逐字发言或假定为AI撰写。"
+    },
+    {
+      "path": "corpus/community-posts/20260225-evomap-30042709.md",
+      "source_id": "circle-30042709",
+      "source_sha256": "79e52151cc1eb20937b359aa932d4c0a57deff67d1c578c7e6cca23893e6619c",
+      "layer": "derived",
+      "start_marker": "### TLDR",
+      "classification_basis": "原发布者在总结末尾明确写明以上是Claude对对话的总结，正文另有课代表插注；该范围按含AI总结与发布者插注的混合整理处理，不确认逐段写作者。后记保留原发布文字。",
+      "end_marker": "以上是Claude对对话的总结，下面是",
+      "writer": "AI与原发布者（逐段归属未核）",
+      "content_origin": "ai-synthesis-of-mixed-sources",
+      "generation_method": "source-declared-ai-with-editorial-notes"
+    },
+    {
+      "path": "corpus/community-posts/20260131-benchmark-singularity-ai-29212614.md",
+      "source_id": "circle-29212614",
+      "source_sha256": "7a8c5fc4a1e0a56bf04e71e1ea950b3729f2b9c6311d20ef0c6dceffb6ddc66a",
+      "layer": "derived",
+      "start_marker": "## 0. 对话背景：这不是“科普”，更像“战地报告”",
+      "classification_basis": "原发布者明确声明以下是ChatGPT对对话的总结；总结从第0节起，视频介绍之前截止。保留前言及后记，不引入尚待剪辑的原始录制。",
+      "end_marker": "视频：当AI学会提问后，就可以真正自我进化了。",
+      "writer": "AI",
+      "content_origin": "ai-synthesis",
+      "generation_method": "source-declared-ai-written"
+    },
+    {
+      "path": "corpus/community-posts/20260307-dejue-30402836.md",
+      "source_id": "circle-30402836",
+      "source_sha256": "d125cb2884dad75690043293338f974b86aa65558aa423fadda40c670dd92cc8",
+      "layer": "derived",
+      "start_marker": "这是一场关于生命本质的对话。格桑泽仁教授是\"得觉\"体系的创始人，他将中国传统文化中的心学智慧、藏传文化的修行经验、现代心理学的工具，以及对量子物理学的哲学性反思，融合成一套独特的生命认知框架。这场对话从\"认知\"二字的拆解开始，一路深入到信念的本质、意义的真相、觉的境界，最后以一段现场催眠体验收尾——整个过程本身，就是一次从\"知\"到\"识\"、从\"二\"到\"一\"的活生生的演示。",
+      "classification_basis": "原发布者在前言说明使用Claude总结，并在末尾标出以上是Claude的总结；该明确范围进入派生层，前言及后记保留原发布文字。",
+      "end_marker": "以上是Claude的总结，昨天发布的ChatGPT 5.4，效果很不错，但是这对话对它来说太长了。我分了上下两部分，聊天记录在这里：",
+      "writer": "AI",
+      "content_origin": "ai-synthesis",
+      "generation_method": "source-declared-ai-written"
+    },
+    {
+      "path": "corpus/community-posts/20260604-up-33308766.md",
+      "source_id": "circle-33308766",
+      "source_sha256": "1837f4e6a038d73a0f16c3d10744cdec51b5b8000df75aa718b05d4c722d693b",
+      "layer": "derived",
+      "start_marker": "这是我和斯斯、梓泉三个人聊了两个半小时的一场对话。斯斯是「给女孩的商业第一课」的主播，梓泉是她的合伙人，也是「小声比比」的创始人。他们俩一个擅长提问，一个擅长拆解，我是那个被拆的人。",
+      "classification_basis": "原发布者在前言明确写明视频发在会员频道，AI总结发在这里；之后的完整脉络属于已发表AI总结，其中第一人称不构成原始发言。保留前言，不扩大会员原视频的收录权限。",
+      "writer": "AI",
+      "content_origin": "ai-synthesis",
+      "generation_method": "source-declared-ai-written"
+    }
+  ]
+}

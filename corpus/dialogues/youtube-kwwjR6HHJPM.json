@@ -1,0 +1,858 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-kwwjR6HHJPM",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-03-23T17:59:48Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T02:07:08.615200+00:00",
+  "published_at": "2025-03-23",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "cd39645a7d6e0dda94efc6e5a8ec98c2b4f8f35694bd6f48c6780d9ef347bb86",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "d315259b8a88ee0d9f90a1eaa6612fdc1d8f004179db3f5bf983e2b4bd71f459",
+    "root_receipt_sha256": "c336f4282c6726e15239646df547f6c31428d09815776905090a6983e3fe93c9",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=kwwjR6HHJPM",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=kwwjR6HHJPM",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "MCP深度剖析｜AI概念这么多，如何判断是否值得关注？",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 19.807,
+      "id": "youtube-kwwjR6HHJPM#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "最近我们注意到MCP和MCP Server这个概念非常的火。我们在教AI课程的第八期，然后就有很多同学开始问这方面的问题。然后我也注意到网上对MCP和MCP Server有非常多的讨论，比如说GitHub上Awesome MCP Servers这个repo，它已经有一万多颗星，收集了好多好多各种分类的MCP Server。"
+    },
+    {
+      "end_seconds": 34.034,
+      "id": "youtube-kwwjR6HHJPM#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.807,
+      "text": "在这里边，我们也发现了一个非常令人担忧的现象，就是对 M C P 的、对 M C P 概念的过度炒作。其实，在这两年真 A I 的发展里边，我们看到了这样的现象一次又一次重复的发生，就是有一个。"
+    },
+    {
+      "end_seconds": 52.671,
+      "id": "youtube-kwwjR6HHJPM#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.034,
+      "text": "有一个概念出来了，自媒体上去讲解一番，在这个过程中其实是炒作为目的，而不是真正的讲解目的。那最后听的人浪费时间不说，更重要的是你就没有办法形成一个对AI有效的认知。我们在课程里边就不断的听到学生们听到了这个热词，然后希望让我们讲解。"
+    },
+    {
+      "end_seconds": 77.776,
+      "id": "youtube-kwwjR6HHJPM#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.671,
+      "text": "而且我们还要专门从第一性原理去剖析，为什么我们不讲RAG，为什么我们不讲各种AI agents的框架，比如说LangGraph AutoGen、smolagents等等。那今天我们又要强调，为什么我们不深入讲解MCP？但是先来之前，我们就需要认识到MCP到底是什么东西，它达成什么目的，和为什么在当下它并不是达成这个目的最有效或者最值值得学习的东西。"
+    },
+    {
+      "end_seconds": 94.448,
+      "id": "youtube-kwwjR6HHJPM#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.776,
+      "text": "那希望这期视频不光可以帮助你把 MCP 给讲透，而且能讲清楚 MCP 所要达成的效果，也就是调高效的调用工具这件事情应该怎么做，以及帮助你建立一些第一性原理思考的习惯。第一个，我们先来讲一下 MCP 是什么。"
+    },
+    {
+      "end_seconds": 116.558,
+      "id": "youtube-kwwjR6HHJPM#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.448,
+      "text": "其实 MCP 并不是一个新概念。我们在去年十二月份的课程里边，我们专门去做了二 AI 在二零二四年的五次迭代。那第四次迭代，我们就完全是用 MCP 和 MCP Server 去实现的。在这里边，我可以放一个简短的 clip，然后你感兴趣的话，可以去看那场直播的全程回放。第二个要素，还记得第一个要素是使用工具的能力，第二个要素是多步决策能力。"
+    },
+    {
+      "end_seconds": 140.855,
+      "id": "youtube-kwwjR6HHJPM#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.558,
+      "text": "也就是说，以前 Open Web UI，你可以说它是踢一脚动一下，每个回合只能用一次工具。但现在它是走一步看一步，在这里它有使用六种工具的能力，它包括啊建一个新的表、描述一个表、列出所有的表、去做一个可读或者可写的 SQL Query 等等等等。我们在后台已经把 Claude Desktop 和我们的 SQLite 也接起来了，在这里呢，我们就可以直接问它说：“你给我介绍一下。”"
+    },
+    {
+      "end_seconds": 160.288,
+      "id": "youtube-kwwjR6HHJPM#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.855,
+      "text": "SQLite 数据库，然后是你手头的 SQLite 数据库，要不然他给我介绍 SQLite 数据库是啥玩意儿。然后呢，他就说让我先查看一下数据库中表的结构，他就想要说，哎，我想看一看。这里呢，为了安全考虑，按 Anthropic 要求，我们每次至少在每一轮新的聊天里面都需要手动去批准。我们现在就批准了，批准完了以后，我们可以看见他先执行了一个东西。"
+    },
+    {
+      "end_seconds": 187.336,
+      "id": "youtube-kwwjR6HHJPM#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.288,
+      "text": "列出了所有的表，但是他没有停下来，他根据这执行这个工具的结果，去执行其他的任务，说describe第一个表，describe第二个表，把每个表都过了一遍，接下来根据这些信息回答我们的问题啊，才有五个表，第一个表daily matrix包含什么什么什么列，有什么信息等等，而且还发现哦，这个数据库的设计采用了新型模型等等，这就非常方便，有没有？省了我们大量的时间，在OpenAI里面，如果我们单纯的一步一步引导他做这些的话，我怎么着也得五六个不同的prompt。"
+    },
+    {
+      "end_seconds": 204.274,
+      "id": "youtube-kwwjR6HHJPM#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 187.336,
+      "text": "所以，这个是它的第一个优势。其实它有更更大的优势，就是当你有两个工具的时候，它能创造的价值，通过组合创造的价值，要远远大于二乘以你有一个工具。那比如说，我这里就直接跟他说：“啊，你帮我看一下十二月九号到十二月十五号的核心指标可视化出来。”"
+    },
+    {
+      "end_seconds": 220.808,
+      "id": "youtube-kwwjR6HHJPM#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 204.274,
+      "text": "就一步，我不用跟他说，你先帮我写 SQL query 怎么着怎么着，帮去束缚他怎么做。我们现在其实只是这个要求更多的是你去做什么，而不是像 Open Web UI 里面说你去怎么做。你看他干的事情非常有意思，他先写了一个 SQL query 出来，跑了一下，哎，发现跑挂了。"
+    },
+    {
+      "end_seconds": 238.193,
+      "id": "youtube-kwwjR6HHJPM#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.808,
+      "text": "然后他说：“抱歉，让我修改查询语句，不需要我们人工介入，直接改了，而且成功了。成功完了以后呢，又写了一个可视化的一样的HTML，让我们能够可视化。这个就极大的拓展了我们，不仅简化了我们的工作流程，而且极大拓展了我们的分析深度。比如说，他一把就把这些东西拿过来。”"
+    },
+    {
+      "end_seconds": 267.619,
+      "id": "youtube-kwwjR6HHJPM#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.193,
+      "text": "而且确实，这些销售指标趋势也发现，哎，这是为啥有一个尖峰呢？下面我们就可以再进一步问他，你帮我比较一下十二月十二号和十二月十三号的销售情况。你看我们现在讲的话是越来越模糊了，已经从以前对 ChatGPT 说话的时候要一步一步讲的非常清楚，变成从 how 逐渐变成了 what。那么他就去做了一个详细的对比可视化，他写了一个还蛮复杂的 SQL query，去用了一大堆东西，然后得到了一个相当全面的可视化，新老客户指标对比，各渠道收入对比，跟基于这些。"
+    },
+    {
+      "end_seconds": 282.785,
+      "id": "youtube-kwwjR6HHJPM#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.619,
+      "text": "啊，最基础的可视化以及它给我们提供的 insights，我们就可以做相当好的分析了。那到这里，我们基本上已经把它的高度，或者不仅是方便的程度，还是完成工作的质量，还是我们认知如何使用 AI 的抽象程度，都提到了一个相相当高的高度。"
+    },
+    {
+      "end_seconds": 300.917,
+      "id": "youtube-kwwjR6HHJPM#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.785,
+      "text": "当然，这个直播在YouTube上有，在B站上不知道因为什么原因被封了，所以说B站同学可以通过这个链接直接去下载那期直播的回放和我们的课件以及工具包。看了这期视频，相信你对MCP能达成什么效果就有了一定的初步理解。MCP的全称是Model Context Protocol。"
+    },
+    {
+      "end_seconds": 318.448,
+      "id": "youtube-kwwjR6HHJPM#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 300.917,
+      "text": "它就是一个协议，那这个协议就是告诉大语言模型应该去怎么样子使用不同的工具。MCP想达成了理想情况就是，你给了大模型一个MCP，它通过读这个protocol就可以去非常有效高效的调用对应的工具。"
+    },
+    {
+      "end_seconds": 330.111,
+      "id": "youtube-kwwjR6HHJPM#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 318.448,
+      "text": "那这个概念并不新颖。OpenAI在二零二三年初的时候，我们大家都记得GPTs和GPT Store，它底层也有它自己的协议，就是ChatGPT Plugin。"
+    },
+    {
+      "end_seconds": 349.263,
+      "id": "youtube-kwwjR6HHJPM#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 330.111,
+      "text": "它是用JSON的方式把这个协议告诉ChatGPT，然后ChatGPT就可以去调用相应的工具了。那在那之后也有不同的方式实现，比如说LangChain就是一个协议，那Pydantic也是一个协议，这些协议都有各自的好处和各自的坏处。MCP在这里边是一个挺不错的协议。"
+    },
+    {
+      "end_seconds": 367.626,
+      "id": "youtube-kwwjR6HHJPM#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 349.263,
+      "text": "第一，他知道自己该做什么，不做什么。比如说，LangChain，他把所有的抽象全都给打包这里边了，试图做的东西太多，反而让整个框架变得特别的不好用。那Anthropic，它只定义怎么使用工具，它不会把多步推理、计划等等高阶能力放进来，所以说就让它变得比较有效。"
+    },
+    {
+      "end_seconds": 393.316,
+      "id": "youtube-kwwjR6HHJPM#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 367.626,
+      "text": "而像 ChatGPT Plugin，它虽然简洁，但是它是高度针对 ChatGPT 的。而 MCP 一开始就是 Anthropic 推出来面向整个生态的，不打算独家占有，所以说它的兼容性也会比较好。那讲清楚 MCP 是什么，接下来我们讲一下为什么我们不推荐去花很多时间学习 MCP，或者去 build 自己的 MCP Server。那要讲这一点，就要先想一下我们去使用 AI Agent。"
+    },
+    {
+      "end_seconds": 407.328,
+      "id": "youtube-kwwjR6HHJPM#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 393.316,
+      "text": "我们让一个大语言模型去使用工具。我们背后的目的不是说为了使用AI而去使用AI，我们背后的目的不是说为了赶上这次AI的热潮，而是要使用AI有效地解决我们的问题。"
+    },
+    {
+      "end_seconds": 421.941,
+      "id": "youtube-kwwjR6HHJPM#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 407.328,
+      "text": "那在这个过程中，AI去使用工具，现在AI agents已经有很好的方法了，那就是你其实用一段话去描述给AI怎么样子去使用这个工具，给它足够的context。"
+    },
+    {
+      "end_seconds": 440.396,
+      "id": "youtube-kwwjR6HHJPM#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 421.941,
+      "text": "那其实AI，尤其是agentic AI，已经能非常好的调用这些工具了。而且在这个过程中，你出现什么问题的话，你也可以随时的去修改你那段prompt，或者给它更多的context，给它更多的数据，去帮助它学习使用、用好这些工具，达成你想要的目的。"
+    },
+    {
+      "end_seconds": 457.668,
+      "id": "youtube-kwwjR6HHJPM#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 440.396,
+      "text": "那 MCP 理论上听起来啊是做这件事情的高效方式，你不需要告诉 AI 怎么样去去使用，你直接调用一个 MCP Server 就行了。但是在实际的过程中，我们会发现有很多个问题。第一个，MCP 太新，很多工具对它的支持是非常有限的和非常 buggy 的。"
+    },
+    {
+      "end_seconds": 469.472,
+      "id": "youtube-kwwjR6HHJPM#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 457.668,
+      "text": "那你在这个过程中会花很多时间去 debug，而且这个 debug 的过程不是你自己可控的，就是有的时候就是这个工具的限制，就是比如说 Cursor 对 MCP 支持它本身的限制。"
+    },
+    {
+      "end_seconds": 487.94,
+      "id": "youtube-kwwjR6HHJPM#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 469.472,
+      "text": "那你到了这里边，你会花了很多时间debug，结果发现你找不到一个solution。versus你直接用文字去给这个LLM描述的话，你最后总是可以把它debug成功的。那第二点，你需要去花时间学习适应这个protocol和学学习适用这个protocol的使用方式。"
+    },
+    {
+      "end_seconds": 505.658,
+      "id": "youtube-kwwjR6HHJPM#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 487.94,
+      "text": "它其实是一个不灵活的方法，而且你要接受它对于这个使用方式的诸多假设，那其实，在一定程度上限制了你对工具的应用。第三个也是现在非常大的一个anti pattern，就是我们大家在使用AI build的过程中啊，因为AI这些东西太fascinating。"
+    },
+    {
+      "end_seconds": 530.28,
+      "id": "youtube-kwwjR6HHJPM#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 505.658,
+      "text": "太新了，然后大家都在讨论，所以说我们不自觉的就会被带去把注意力花在怎么样子去使用这些工具上，而不是花在怎么样子解决问题上。你可能在 build 一个 m m c m c p server 只是为了帮助你调用一个工具，结果到最后你把百分之九十的时间花在怎么样子去学习使用这个 m p c m c p server，而不是真的花在解决这个问题上。那这样就是一个本末倒置的行为。"
+    },
+    {
+      "end_seconds": 550.141,
+      "id": "youtube-kwwjR6HHJPM#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 530.28,
+      "text": "那基于这三点，就是第一，它其实并不能保证下限；第二，它又严重的限制我们的上限；第三点，它也是一个巨大的distraction。这也就是为什么我们在教课的时候，把更多的注意力花在教同学们怎么样子去用最有效、第一性原理的方式去使用这现有的AI agents。"
+    },
+    {
+      "end_seconds": 578.338,
+      "id": "youtube-kwwjR6HHJPM#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 550.141,
+      "text": "而不是去使用任何的一个 framework，包括 MCP。第三，我们帮大家反思一下，为什么一个明显不好用的东西，大家会一窝蜂的追逐？尤其我们会发现啊，在这里边一窝蜂追逐的同学，很多都是技术能力很强的同学。就是你技术能力越强，你越有可能去掉进这个陷阱。那就是因为 generative AI 是一个 paradigm shift，它是一个范式革新。那在一个范式革新的时候，最 typical 要出最 typical 的问题，就是我们拿着旧方法去学习新问题。"
+    },
+    {
+      "end_seconds": 589.103,
+      "id": "youtube-kwwjR6HHJPM#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.338,
+      "text": "可是，当一个范式方法出现的时候，我们要做的第一步是unlearn以前的那些方法，然后才能有效的去面对这个新的范式。"
+    },
+    {
+      "end_seconds": 595.715,
+      "id": "youtube-kwwjR6HHJPM#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 589.103,
+      "text": "鸭哥在为什么学习AI agents的第一步是忘掉所有框架里边讲的就非常清楚。"
+    },
+    {
+      "end_seconds": 620.913,
+      "id": "youtube-kwwjR6HHJPM#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 595.715,
+      "text": "因为AI agents的这些框架，它都带了很多的假设和它自己的design philosophy。如果你不认同这个假设，你不同意这个design philosophy的话，你就会非常的痛苦。而这些假设和design philosophy很多时候是上一个年代的，所以说这个上一个年代本身就在这个AI agents的范式下就不好用。那你这个时候还要去被迫接受一个不好用的范式，那肯定是严重了限制你自己。"
+    },
+    {
+      "end_seconds": 650.275,
+      "id": "youtube-kwwjR6HHJPM#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 620.913,
+      "text": "而我们通过 framework 去学习本身也是一个旧习惯。那为什么在过去的这个 software 的这个时代，通过 framework 学习是一个高效的方式呢？因为那个时候软件的开发已经非常成熟了，大家所有的 philosophy 和 design pattern 已经 converge 到那么几个 framework，而且用户的习惯也已经形成了。所以说，如果你用这些 framework 去学习和进行开发的话，你会节省很多力气，然后你会发现生态的支持很好，然后你会发现用户也比较习惯。"
+    },
+    {
+      "end_seconds": 674.015,
+      "id": "youtube-kwwjR6HHJPM#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 650.275,
+      "text": "所以说，在那个时候，你上手的有效方式是通过 framework。但是在这个新时代，这些 framework 都是不好用的。然后整个用户也没有一些真正的习惯，而且也没有对应的支持。那这个时候，你要做的就应该是 unlearn，然后再去 learn，而且不要去依赖于上个时代的那些学习方法，而是要用下个时代的学习方法去有效的学习。"
+    },
+    {
+      "end_seconds": 693.973,
+      "id": "youtube-kwwjR6HHJPM#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 674.015,
+      "text": "那视频的最后，我也把鸭哥在我们昨天 Office Hour 给大家讲 MCP 的片段贴出来。如果大家感兴趣的话，可以看一下。那希望这期视频，我和鸭哥就给大家讲清楚了什么是 MCP，为什么不应该使用 MCP，和你在新时代应该怎么样子学习 AI 的一些底层原理。这视频就到这儿，我们下期见，拜拜。"
+    },
+    {
+      "end_seconds": 719.964,
+      "id": "youtube-kwwjR6HHJPM#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.973,
+      "text": "I think we also promised to teach MCP server or talk about that. Yeah, that's a very good question. In order to answer this question, we need to think about like why. Why is there such a thing of MCP? If you do agent development, you also notice that different AIs actually have different interfaces. For example, for OpenAI, they expect some JSON-like language. Probably I can do a live demo here."
+    },
+    {
+      "end_seconds": 745.807,
+      "id": "youtube-kwwjR6HHJPM#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 719.964,
+      "text": "If you go to a platform like OpenAI, there is also something called a playground. In the playground, you can plug in a lot of different things, directly interact with their model. For example, this is GPT-4o. You can just say hello. GPT-4o will say hi there. How can I assist you today? In addition to general text prompt, you could also make it. Let's make it a chat completion API. And there's something called functions. This is."
+    },
+    {
+      "end_seconds": 760.429,
+      "id": "youtube-kwwjR6HHJPM#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.807,
+      "text": "How you specify a tool to OpenAI? It's JSON. It has the name, description, parameters of the tools, so that the the GPT knows how to invoke that. More specifically, ah, we can."
+    },
+    {
+      "end_seconds": 773.539,
+      "id": "youtube-kwwjR6HHJPM#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 760.429,
+      "text": "Okay, examples. Get weather. Okay, for example, we could get it, give it a tool called Get weather, and press save. It's nothing more than get some the weather from a certain location, and then you can ask it."
+    },
+    {
+      "end_seconds": 800.4,
+      "id": "youtube-kwwjR6HHJPM#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 773.539,
+      "text": "What's the weather like in Seattle? Then, the output it produces is it's a special type of of message or or response. Specifically, it's a function call. It's it's the name is get weather. It has two parameters which we described here. It expects to ah we expect to receive two parameters for the tool, which is called location and unit."
+    },
+    {
+      "end_seconds": 816.547,
+      "id": "youtube-kwwjR6HHJPM#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 800.4,
+      "text": "And here, it is specified location as Seattle, WA, and unit as Fahrenheit. Then, what we will do in the real production is we will call some get weather API. But here we'll skip this step and directly say, Seattle is three hundred degrees."
+    },
+    {
+      "end_seconds": 832.388,
+      "id": "youtube-kwwjR6HHJPM#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 816.547,
+      "text": "啊，and submit. So, and then the GenAI will take this and generate some new prompt, some new responses based on that. Ah, temperature three hundred Fahrenheit seems unusually high. Maybe incorrect. Verify the information. So, this is."
+    },
+    {
+      "end_seconds": 842.84,
+      "id": "youtube-kwwjR6HHJPM#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 832.388,
+      "text": "This is essentially how we build a gentle AI. It's that simple. It's nothing more than you give the AI a."
+    },
+    {
+      "end_seconds": 856.437,
+      "id": "youtube-kwwjR6HHJPM#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 842.84,
+      "text": "some some spec of a tool or a set of tools. Then AI decides which tool to call and which which parameter to put in, and then you call the tool for the AI and put back the response."
+    },
+    {
+      "end_seconds": 875.822,
+      "id": "youtube-kwwjR6HHJPM#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 856.437,
+      "text": "Imagine this could be say save some content to a file or run some command, and that's cursor. So this is the the general foundation of how you would build an generative AI. And then the moment you you begin trying to build for different AIs, you will find a problem. Here, this is the the format for."
+    },
+    {
+      "end_seconds": 883.849,
+      "id": "youtube-kwwjR6HHJPM#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 875.822,
+      "text": "OpenAI, Claude has a different format for like Anthropic. Gemini has an entirely different format as well."
+    },
+    {
+      "end_seconds": 908.458,
+      "id": "youtube-kwwjR6HHJPM#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 883.849,
+      "text": "So it's really miserable. It's pretty much like the pre-USB, pre-USB era. You have all the different kind of ports, PS2 port, FireWire port, all different kinds of ports. And it's you need to make for in order to onboard every new AI, you need to make a new port and new abstraction layer. And that's why people are desperate about having something like MCP. It's a protocol, pretty much like a USB."
+    },
+    {
+      "end_seconds": 919.98,
+      "id": "youtube-kwwjR6HHJPM#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 908.458,
+      "text": "for for the the standard, and I want to say that MCP is not the earliest or the best. Um, there are a bunch of efforts even before MCP. OpenAI has something called OpenAI plugin."
+    },
+    {
+      "end_seconds": 943.566,
+      "id": "youtube-kwwjR6HHJPM#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 919.98,
+      "text": "It's a lot like MCP, but it already got killed. It was it was rolled out like two years ago, and we were not really a fan of it because of some limitations. And we also have Pydantic, that that famous Python data library. It used some Python decorator try to encapsulate this abstraction and."
+    },
+    {
+      "end_seconds": 972.75,
+      "id": "youtube-kwwjR6HHJPM#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 943.566,
+      "text": "In the backend, communicate with all different kinds of AIs. We also have some LangChain. LangChain also have its own version of MCP, and Anthropic has MCP. If we step back and think about what would make a library successful in this, we would think about several several criteria. It has to be abstract. That's the major motivation, so that I could implement once, run everywhere. That's important. It shouldn't be over abstract."
+    },
+    {
+      "end_seconds": 991.336,
+      "id": "youtube-kwwjR6HHJPM#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 972.75,
+      "text": "Because if you use LangChain or similar LangGraph, you will know over abstraction is a main pain point. If you want to change something, you need to track it down into like eight hundred different abstract classes and finally make figure out where to make the change. And it needs to have some kind of expressiveness so that."
+    },
+    {
+      "end_seconds": 1018.179,
+      "id": "youtube-kwwjR6HHJPM#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 991.336,
+      "text": "You don't, you have all the major needs captured by the library and don't need to switch to different libraries for different features. And it also needs to have good debuggability. That's very important because in the case that your debugging is usually more time-consuming compared with development. So that's that's the important part. If you really take a look at all the current options around those four dimensions, you will notice that there are no perfect solution."
+    },
+    {
+      "end_seconds": 1029.891,
+      "id": "youtube-kwwjR6HHJPM#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1018.179,
+      "text": "Like Py Pydantic, uh, it's easy to debug. It's nothing more than Python, but it's not very general. It's not very expressive. What if I use Node JS? I don't use Python. What shall I do? And"
+    },
+    {
+      "end_seconds": 1038.794,
+      "id": "youtube-kwwjR6HHJPM#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1029.891,
+      "text": "呃，ChatGPT's plugin is very closed. It it's not open standard that's supported by everyone. That's also its its drawback."
+    },
+    {
+      "end_seconds": 1060.657,
+      "id": "youtube-kwwjR6HHJPM#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1038.794,
+      "text": "MCP is like in the sweet spot. It it's it's not over abstracted. It's somehow abstracted. It's expressive, although sometimes it's a bit more too heavy. Uh, but it doesn't really have too big, too good debuggability. So that's the that's the the location ecosystem of MCP about why and what it is. So."
+    },
+    {
+      "end_seconds": 1076.219,
+      "id": "youtube-kwwjR6HHJPM#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1060.657,
+      "text": "Why MCP succeeded or is succeeding? This is because there is no perfect technical solution yet, and everyone in the market is not perfect. MCP is one of them. But the unique part of MCP is it's backed by an experienced."
+    },
+    {
+      "end_seconds": 1091.782,
+      "id": "youtube-kwwjR6HHJPM#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1076.219,
+      "text": "Um, I would say, company like Anthropic, and so people have confidence that oh, it will have it will be insightful for the future, will be reliable, there will be consistent investment in this project, so."
+    },
+    {
+      "end_seconds": 1110.282,
+      "id": "youtube-kwwjR6HHJPM#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1091.782,
+      "text": "People are more confident on that, and they're gradually getting some competitive advantage in this market. That's that's basically it. But MCP is nothing more than a protocol. When we talk about MCP, it's pretty much like, uh, it's it's it doesn't really have anything to do with the features. So when we"
+    },
+    {
+      "end_seconds": 1133.444,
+      "id": "youtube-kwwjR6HHJPM#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1110.282,
+      "text": "When we talk about adding some new features to Cursor, it could be done by natural language actually. So here, how we add this search engine to Cursor is we ask Cursor to write this hundred line command line utility for DuckDuckGo API is a Python program, and then in Cursor's prompt, we just teach it using natural language about how to use this tool. For example."
+    },
+    {
+      "end_seconds": 1149.4,
+      "id": "youtube-kwwjR6HHJPM#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1133.444,
+      "text": "啊，I think it should be here. Search engine, you could use this to feel to search the web. And this is a command line, and this is the example output. It's it's nothing more than this. So compared with MCP, this kind of development is, as you can see here, is much more."
+    },
+    {
+      "end_seconds": 1165.724,
+      "id": "youtube-kwwjR6HHJPM#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1149.4,
+      "text": "Efficient is very agile because for MCP you need to set up the client, set up the, set up the the server. You need to hook them up using some certain protocol, and you need to, using some SDK. For example, it's very heavy duty. This is."
+    },
+    {
+      "end_seconds": 1176.094,
+      "id": "youtube-kwwjR6HHJPM#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1165.724,
+      "text": "This is factor one. Factor two is it's also very hard to debug. In the case that oh my search engine has some issues, it crashes. It's nothing more than a Python script. Cursor would easily"
+    },
+    {
+      "end_seconds": 1192.025,
+      "id": "youtube-kwwjR6HHJPM#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1176.095,
+      "text": "do the job for me, do the trick for me to bug it out. But MCP is also it's it's microservice, pretty much like microservice. It has server and a separate client. You need have visibility on both sides and communicating using some some uh JSON RPC."
+    },
+    {
+      "end_seconds": 1208.245,
+      "id": "youtube-kwwjR6HHJPM#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1192.024,
+      "text": "very heavy, and even with the inspector, MCP does provide an inspector for for the ease of debugging. Even with it, it's still ah sometimes a nightmare to debug. Anyone with like microservice debugging experience will easily understand that. So essentially, my take on MCP is."
+    },
+    {
+      "end_seconds": 1221.489,
+      "id": "youtube-kwwjR6HHJPM#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1208.245,
+      "text": "MCP is is good for um distribution. For example, in Cursor, if you want to use some MCP, you can add it here. It's just one liner. Then you get access to some certain tools."
+    },
+    {
+      "end_seconds": 1250.715,
+      "id": "youtube-kwwjR6HHJPM#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1221.489,
+      "text": "But it's not good for development. And here, our approach using natural language and Python scripts are good for fast iteration. You probe the MVP, you figure out customer really like it. But it's it's bad for distribution because you need to ask the users to download this, download that, put it on certain location is troublesome. So my suggestion for cursor specific is MCP development is agent development is, you get the"
+    },
+    {
+      "end_seconds": 1276.191,
+      "id": "youtube-kwwjR6HHJPM#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1250.715,
+      "text": "You use this kind of command line with natural language to fast iterate. And after you figure out, oh, this is good, I want distribute it. Then use MCP to distribute it. That's my suggestion for cursor specific. And for MCP per se, it has nothing to do with the actual features. It's just the one potential way, ah, to or a protocol to ease the distribution. That's my take."
+    },
+    {
+      "end_seconds": 1288.095,
+      "id": "youtube-kwwjR6HHJPM#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1276.191,
+      "text": "Alright, and let's take a look at the questions. AI soft skills, reasoning tools, hard skills, reading, GitHub knowledge, memory, information. Hmm."
+    },
+    {
+      "end_seconds": 1312.014,
+      "id": "youtube-kwwjR6HHJPM#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1288.095,
+      "text": "Yeah, I think YZ already replied that we also had a quite in-depth discussion on our GenAI course, which everyone has free access to. MCP is the API spec; you need to build our own function. Exactly, yes, it's nothing but an API spec. You still need to build our own functions. It's based on JSON RPC. That's pretty similar with JSON RPC. You can use"
+    },
+    {
+      "end_seconds": 1335.491,
+      "id": "youtube-kwwjR6HHJPM#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1312.014,
+      "text": "JSON-RPC as the protocol, but you still need do the heavy lifting to implement the core function. Any MCP platform has reliable MCP ready to use. There are so when we talk about MCP, we need distinguish between MCP server and MCP client. The so-called MCP server is and it's pretty much like an agent. You could connect to it. It's like a server on the internet. You could"
+    },
+    {
+      "end_seconds": 1361.023,
+      "id": "youtube-kwwjR6HHJPM#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1335.491,
+      "text": "You could treat it as an API server. Then you connect to it, ask it questions, send it out requests. Then it's able to give you the responses. This is called MCP server. There's also something called MCP client. It's like Claude Desktop. That's an MCP client. Cursor. That's an MCP client. So for MCP client, my general recommendation is Claude Desktop. It has. It seems to have the best support. Cursor."
+    },
+    {
+      "end_seconds": 1368.149,
+      "id": "youtube-kwwjR6HHJPM#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1361.023,
+      "text": "According to my experience, it doesn't support MCP too well. Actually, if you take a look at their release release log."
+    },
+    {
+      "end_seconds": 1394.057,
+      "id": "youtube-kwwjR6HHJPM#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1368.149,
+      "text": "They had a lot of bug fixes about MCP, and I often got all the weird bugs around MCP cursor here and there. So I don't recommend cursor at least its current version for a reliable MCP platform or MCP client. And for the MCP server, there is something called awesome MCP servers. You can take a look at this GitHub. It's it's nothing more than a markdown file. Feel free to check it out. There, this um."
+    },
+    {
+      "end_seconds": 1403.94,
+      "id": "youtube-kwwjR6HHJPM#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1394.057,
+      "text": "a set of all the different MCP resources, not necessarily very good ones, but hopefully that will be inspiring for you."
+    },
+    {
+      "end_seconds": 1417.725,
+      "id": "youtube-kwwjR6HHJPM#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1403.94,
+      "text": "I think might be a good place to talk about why we don't teach any specific framework for agentic framework. Ah, yes, it it might be a the principle behind it."
+    },
+    {
+      "end_seconds": 1435.531,
+      "id": "youtube-kwwjR6HHJPM#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1417.725,
+      "text": "Yes, actually, we we don't talk about a lot of things. We actually just explain that why we didn't talk about teach about MCP because it's there are a lot of uncertainties and it has nothing to do with the core functionality. And we also didn't talk about RAG, RAG, retrieval augmented generation."
+    },
+    {
+      "end_seconds": 1455.504,
+      "id": "youtube-kwwjR6HHJPM#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1435.531,
+      "text": "The reason is it it's like short term solution. As long as we have better long context AI, which is happening, and agentic AI, which fundamentally changes the fixed workflow, we don't need that. We also don't teach about specific framework of agentic AI. For example, AutoGen or smolagents."
+    },
+    {
+      "end_seconds": 1467.866,
+      "id": "youtube-kwwjR6HHJPM#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1455.504,
+      "text": "although it gets asked a lot by our students and there's a reason for that there are the reason is we are in a specific specific like"
+    },
+    {
+      "end_seconds": 1480.507,
+      "id": "youtube-kwwjR6HHJPM#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1467.866,
+      "text": "呃，time of the agentic AI that is developing too fast. When we talk about adopting some framework, we are we are not only using a set of utility functions, we are trying to adopt its own perspectives."
+    },
+    {
+      "end_seconds": 1503.571,
+      "id": "youtube-kwwjR6HHJPM#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1480.507,
+      "text": "Let's take several examples. For AutoGen from Microsoft, it's a very classical multi-agent framework for building agentic AI. But the problem of that is it basically formulates everything the agents, the interaction between agents as asynchronous message-based communication. That's a big assumption. So you you need to have like a pub sub, that kind of framework."
+    },
+    {
+      "end_seconds": 1525.376,
+      "id": "youtube-kwwjR6HHJPM#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1503.571,
+      "text": "If you really like this kind of framework, like you you share this perspective, you believe in this formulation, you will use it very happily. But if you don't like it, it will be very miserable. You will need to have a lot of heavy customization on the library to make it work. Similarly, smolagents from Hugging Face assumes that every single agent is a coding agent."
+    },
+    {
+      "end_seconds": 1551.347,
+      "id": "youtube-kwwjR6HHJPM#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1525.376,
+      "text": "If you like it, you believe in it, you will be happy. If you don't believe in it, you will be miserable. And LangChain LangGraph assumes that everything, like the interaction between agents, could be formulated as a graph. And obviously, it's not true. That's the reason why they invented something like dynamic graph, conditional edge, a lot of patches. So if you like this theory point, you again, you will be happy."
+    },
+    {
+      "end_seconds": 1572.068,
+      "id": "youtube-kwwjR6HHJPM#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1551.347,
+      "text": "If you don't like it, you will be miserable. So when we use some framework or library, it's more than adopting their functions. It's like adopting their perspective on the future of agentic AI. And now, because agentic AI is is developing so fast, it's totally possible that tomorrow there will be a recognition revolution."
+    },
+    {
+      "end_seconds": 1593.702,
+      "id": "youtube-kwwjR6HHJPM#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1572.068,
+      "text": "And we need to shift to another perspective of generative AI. That's totally possible. In the case that you make two big commitment to a certain perspective, it will be very hard for you to change everything and onboard another platform. Think about if you previously use smolagents and you try to onboard onboard I don't know Lang LangGraph, how troublesome that is. And"
+    },
+    {
+      "end_seconds": 1622.556,
+      "id": "youtube-kwwjR6HHJPM#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1593.702,
+      "text": "So at least in this stage, I think it's more important to keep our flexibility. Compared with oh having that the small improvement on the development productivity, especially considering AI assisted development is so popular for now, having a certain level of library functions probably is not that beneficial for you. That's the the inherent logic of why we didn't teach of this. Probably in a few years we can we can teach so, but now it's not good timing."
+    },
+    {
+      "end_seconds": 1648.123,
+      "id": "youtube-kwwjR6HHJPM#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1622.556,
+      "text": "And I I want to call out the unlearn, right? In the first session, we talk about the paradigm shift. It's not because paradigm shift is cool, but there are certain challenges in paradigm shift, especially for people who have developed experiences, to unlearn, right? To remove, like, what do you think is the best practices? Like going to a framework is a typical."
+    },
+    {
+      "end_seconds": 1659.14,
+      "id": "youtube-kwwjR6HHJPM#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1648.123,
+      "text": "Kind of best practice when you were learning the last generation programming or development, and you naturally assume that is the best way to learn generative AI."
+    },
+    {
+      "end_seconds": 1680.657,
+      "id": "youtube-kwwjR6HHJPM#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1659.14,
+      "text": "You have to challenge that assumption and rather go back to the first principles and think about why you learned framework in the first place. Does that still apply in the age of AI? We are giving you the answer by saying, you know, it doesn't matter. But that is our opinion. So develop your own opinion and apply your own critical critical thinking."
+    },
+    {
+      "end_seconds": 1710.475,
+      "id": "youtube-kwwjR6HHJPM#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1680.657,
+      "text": "And yeah, but I I do want to call that we have to unlearn a lot of things. Yan summarized this as being flexible, but I think the the unlearn comes before that because Yan already unlearned a lot of things. He has the habit of thinking from the first principle, but most of us do not. So we have to remember that we have to you know challenge the best practices. Yeah, that's a good call. I really like the unlearn perspective."
+    }
+  ],
+  "video_id": "kwwjR6HHJPM",
+  "yuzheng_stance_weight": "not-evidence"
+}

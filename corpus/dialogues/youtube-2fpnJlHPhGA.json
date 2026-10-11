@@ -1,0 +1,3391 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-2fpnJlHPhGA",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2024-03-08T18:00:04Z",
+  "participant_aliases": [
+    "Kevin Chen"
+  ],
+  "participant_entity_ids": [
+    "guest:kevin-chen"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Kevin Chen",
+  "public_verified_at": "2026-10-11T01:51:36.640658+00:00",
+  "published_at": "2024-03-08",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "8ef9abcf3725434477ee6171ce66987b3edaf0785263fab2da548abfb32fdf5b",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "bcef9c30f50685e666c4e88ef4eaacd3ee805c807fbe40ec71c14ceaa4abd400",
+    "root_receipt_sha256": "2b6cf7e04bbcf8fef631f050cfce9771d948729a65d88aeaf0e25842dae6c7bf",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=2fpnJlHPhGA",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=2fpnJlHPhGA",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "看懂人类顶尖科研，才能理解科学的局限｜Kevin教授_2/3",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.52,
+      "id": "youtube-2fpnJlHPhGA#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "100多年前Rolls-Royce坐车的时候"
+    },
+    {
+      "end_seconds": 3.64,
+      "id": "youtube-2fpnJlHPhGA#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.52,
+      "text": "他们好像就有个statement"
+    },
+    {
+      "end_seconds": 6.919,
+      "id": "youtube-2fpnJlHPhGA#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.64,
+      "text": "就用电机驱动汽车是最好的驱动方式"
+    },
+    {
+      "end_seconds": 9.48,
+      "id": "youtube-2fpnJlHPhGA#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.24,
+      "text": "我能看到的是我不可能expect"
+    },
+    {
+      "end_seconds": 11.919,
+      "id": "youtube-2fpnJlHPhGA#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.48,
+      "text": "每年他电池的功率都提高50%"
+    },
+    {
+      "end_seconds": 13.64,
+      "id": "youtube-2fpnJlHPhGA#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.919,
+      "text": "尤其是理论的物理学家"
+    },
+    {
+      "end_seconds": 15.48,
+      "id": "youtube-2fpnJlHPhGA#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.839,
+      "text": "他们研究到最后"
+    },
+    {
+      "end_seconds": 19.32,
+      "id": "youtube-2fpnJlHPhGA#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.48,
+      "text": "他们就觉得说这个世界好像被设计太精妙了"
+    },
+    {
+      "end_seconds": 20.0,
+      "id": "youtube-2fpnJlHPhGA#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.32,
+      "text": "对太精妙了"
+    },
+    {
+      "end_seconds": 25.0,
+      "id": "youtube-2fpnJlHPhGA#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.0,
+      "text": "对就是精妙到他们不觉得所有东西都是by probability or by chance"
+    },
+    {
+      "end_seconds": 29.32,
+      "id": "youtube-2fpnJlHPhGA#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.28,
+      "text": "然后所以说很多人说什么科学的尽头是信仰"
+    },
+    {
+      "end_seconds": 30.16,
+      "id": "youtube-2fpnJlHPhGA#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.359,
+      "text": "或者是宗教"
+    },
+    {
+      "end_seconds": 31.8,
+      "id": "youtube-2fpnJlHPhGA#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.16,
+      "text": "我可以理解他们的argument"
+    },
+    {
+      "end_seconds": 36.28,
+      "id": "youtube-2fpnJlHPhGA#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.8,
+      "text": "其实科学技术的发展从来都不是一个线性的"
+    },
+    {
+      "end_seconds": 38.0,
+      "id": "youtube-2fpnJlHPhGA#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.28,
+      "text": "可能有的时候有一个帐"
+    },
+    {
+      "end_seconds": 40.48,
+      "id": "youtube-2fpnJlHPhGA#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.359,
+      "text": "然后很久之后都没有任何的进展"
+    },
+    {
+      "end_seconds": 41.92,
+      "id": "youtube-2fpnJlHPhGA#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.48,
+      "text": "然后过一段时间又有一个帐"
+    },
+    {
+      "end_seconds": 45.439,
+      "id": "youtube-2fpnJlHPhGA#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.159,
+      "text": "像他的重量尺度"
+    },
+    {
+      "end_seconds": 48.92,
+      "id": "youtube-2fpnJlHPhGA#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.439,
+      "text": "扑翼的频率都和蜜蜂差不多的"
+    },
+    {
+      "end_seconds": 50.879,
+      "id": "youtube-2fpnJlHPhGA#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.92,
+      "text": "这是刚才那个烤出来的翅膀"
+    },
+    {
+      "end_seconds": 52.28,
+      "id": "youtube-2fpnJlHPhGA#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.879,
+      "text": "刚才做出来的什么"
+    },
+    {
+      "end_seconds": 53.48,
+      "id": "youtube-2fpnJlHPhGA#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.439,
+      "text": "你可以拿手按一下"
+    },
+    {
+      "end_seconds": 54.96,
+      "id": "youtube-2fpnJlHPhGA#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.48,
+      "text": "这个是驱动器"
+    },
+    {
+      "end_seconds": 55.719,
+      "id": "youtube-2fpnJlHPhGA#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.96,
+      "text": "这个是旧的了"
+    },
+    {
+      "end_seconds": 56.64,
+      "id": "youtube-2fpnJlHPhGA#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.719,
+      "text": "就是我们退役的"
+    },
+    {
+      "end_seconds": 57.519,
+      "id": "youtube-2fpnJlHPhGA#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.84,
+      "text": "它是软的"
+    },
+    {
+      "end_seconds": 60.16,
+      "id": "youtube-2fpnJlHPhGA#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.6,
+      "text": "它的感觉就跟肌肉很相似"
+    },
+    {
+      "end_seconds": 60.44,
+      "id": "youtube-2fpnJlHPhGA#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.16,
+      "text": "对"
+    },
+    {
+      "end_seconds": 62.359,
+      "id": "youtube-2fpnJlHPhGA#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.44,
+      "text": "所以我们管叫artificial soft muscles"
+    },
+    {
+      "end_seconds": 64.64,
+      "id": "youtube-2fpnJlHPhGA#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.359,
+      "text": "就是软体的人工肌肉"
+    },
+    {
+      "end_seconds": 67.92,
+      "id": "youtube-2fpnJlHPhGA#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.64,
+      "text": "然后一会儿可以给你看一些video"
+    },
+    {
+      "end_seconds": 69.28,
+      "id": "youtube-2fpnJlHPhGA#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.92,
+      "text": "就是它actuate的时候"
+    },
+    {
+      "end_seconds": 73.8,
+      "id": "youtube-2fpnJlHPhGA#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.28,
+      "text": "它收缩和伸长的频率等等"
+    },
+    {
+      "end_seconds": 78.359,
+      "id": "youtube-2fpnJlHPhGA#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.8,
+      "text": "我们都希望它可以做到跟自然中肌肉的performance一样"
+    },
+    {
+      "end_seconds": 80.079,
+      "id": "youtube-2fpnJlHPhGA#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.84,
+      "text": "然后这是一方面"
+    },
+    {
+      "end_seconds": 85.439,
+      "id": "youtube-2fpnJlHPhGA#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.079,
+      "text": "另一方面假如说我们把它装到这种机器人里"
+    },
+    {
+      "end_seconds": 86.56,
+      "id": "youtube-2fpnJlHPhGA#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.519,
+      "text": "我们要稍微小心"
+    },
+    {
+      "end_seconds": 87.599,
+      "id": "youtube-2fpnJlHPhGA#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 86.56,
+      "text": "这个电线比较细"
+    },
+    {
+      "end_seconds": 89.079,
+      "id": "youtube-2fpnJlHPhGA#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.599,
+      "text": "对"
+    },
+    {
+      "end_seconds": 90.159,
+      "id": "youtube-2fpnJlHPhGA#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.079,
+      "text": "这都是电线"
+    },
+    {
+      "end_seconds": 90.599,
+      "id": "youtube-2fpnJlHPhGA#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 90.159,
+      "text": "对"
+    },
+    {
+      "end_seconds": 93.399,
+      "id": "youtube-2fpnJlHPhGA#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.0,
+      "text": "然后假如说"
+    },
+    {
+      "end_seconds": 95.12,
+      "id": "youtube-2fpnJlHPhGA#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.519,
+      "text": "碰一下"
+    },
+    {
+      "end_seconds": 99.719,
+      "id": "youtube-2fpnJlHPhGA#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.759,
+      "text": "然后假如说像这种"
+    },
+    {
+      "end_seconds": 103.479,
+      "id": "youtube-2fpnJlHPhGA#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.719,
+      "text": "就是一个人工肌肉drive一对翅膀"
+    },
+    {
+      "end_seconds": 105.959,
+      "id": "youtube-2fpnJlHPhGA#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.719,
+      "text": "然后中间还有一些复杂的transmission"
+    },
+    {
+      "end_seconds": 107.719,
+      "id": "youtube-2fpnJlHPhGA#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.959,
+      "text": "airframe等等这些东西"
+    },
+    {
+      "end_seconds": 109.599,
+      "id": "youtube-2fpnJlHPhGA#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.959,
+      "text": "其实很像一个车"
+    },
+    {
+      "end_seconds": 110.84,
+      "id": "youtube-2fpnJlHPhGA#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.599,
+      "text": "然后就是轮子"
+    },
+    {
+      "end_seconds": 111.84,
+      "id": "youtube-2fpnJlHPhGA#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.84,
+      "text": "这是发动机"
+    },
+    {
+      "end_seconds": 113.28,
+      "id": "youtube-2fpnJlHPhGA#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.84,
+      "text": "如果你看机器人的话"
+    },
+    {
+      "end_seconds": 115.039,
+      "id": "youtube-2fpnJlHPhGA#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.28,
+      "text": "其实那几个部件都差不多"
+    },
+    {
+      "end_seconds": 117.76,
+      "id": "youtube-2fpnJlHPhGA#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.04,
+      "text": "假如说我们做过很多不同的翅膀"
+    },
+    {
+      "end_seconds": 120.6,
+      "id": "youtube-2fpnJlHPhGA#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.76,
+      "text": "然后这些翅膀可能看着形状都差不多"
+    },
+    {
+      "end_seconds": 121.56,
+      "id": "youtube-2fpnJlHPhGA#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 120.6,
+      "text": "大小有一些不一样"
+    },
+    {
+      "end_seconds": 124.16,
+      "id": "youtube-2fpnJlHPhGA#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.56,
+      "text": "但其实它们气动力学的performance会差很远"
+    },
+    {
+      "end_seconds": 125.0,
+      "id": "youtube-2fpnJlHPhGA#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 124.16,
+      "text": "这个能碰吗"
+    },
+    {
+      "end_seconds": 126.24,
+      "id": "youtube-2fpnJlHPhGA#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.48,
+      "text": "这个最好别碰"
+    },
+    {
+      "end_seconds": 127.84,
+      "id": "youtube-2fpnJlHPhGA#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 126.24,
+      "text": "这个太薄了"
+    },
+    {
+      "end_seconds": 129.8,
+      "id": "youtube-2fpnJlHPhGA#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.84,
+      "text": "而且因为差那么小"
+    },
+    {
+      "end_seconds": 130.4,
+      "id": "youtube-2fpnJlHPhGA#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 129.8,
+      "text": "对"
+    },
+    {
+      "end_seconds": 131.599,
+      "id": "youtube-2fpnJlHPhGA#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 130.76,
+      "text": "我想举这个例子"
+    },
+    {
+      "end_seconds": 132.879,
+      "id": "youtube-2fpnJlHPhGA#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.599,
+      "text": "假如说你看这个机器人"
+    },
+    {
+      "end_seconds": 134.56,
+      "id": "youtube-2fpnJlHPhGA#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.879,
+      "text": "咱们先说它什么地方比较难"
+    },
+    {
+      "end_seconds": 137.599,
+      "id": "youtube-2fpnJlHPhGA#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.56,
+      "text": "什么地方比较impressive"
+    },
+    {
+      "end_seconds": 140.759,
+      "id": "youtube-2fpnJlHPhGA#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.599,
+      "text": "compared to现在能飞的quadrotors"
+    },
+    {
+      "end_seconds": 144.92,
+      "id": "youtube-2fpnJlHPhGA#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.759,
+      "text": "如果我现在去市面上买一个能飞的四权一级人"
+    },
+    {
+      "end_seconds": 146.399,
+      "id": "youtube-2fpnJlHPhGA#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.919,
+      "text": "它飞的特别好了已经"
+    },
+    {
+      "end_seconds": 149.119,
+      "id": "youtube-2fpnJlHPhGA#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 146.399,
+      "text": "因为最近这些年不管是fly controller"
+    },
+    {
+      "end_seconds": 149.799,
+      "id": "youtube-2fpnJlHPhGA#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.119,
+      "text": "sensor"
+    },
+    {
+      "end_seconds": 151.56,
+      "id": "youtube-2fpnJlHPhGA#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.799,
+      "text": "actuator都做得非常好"
+    },
+    {
+      "end_seconds": 153.159,
+      "id": "youtube-2fpnJlHPhGA#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.56,
+      "text": "但是它就是重量非常大"
+    },
+    {
+      "end_seconds": 154.0,
+      "id": "youtube-2fpnJlHPhGA#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.159,
+      "text": "它可能"
+    },
+    {
+      "end_seconds": 154.959,
+      "id": "youtube-2fpnJlHPhGA#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.0,
+      "text": "我说重量非常大"
+    },
+    {
+      "end_seconds": 158.159,
+      "id": "youtube-2fpnJlHPhGA#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.959,
+      "text": "可能就是20克级的机器人"
+    },
+    {
+      "end_seconds": 160.319,
+      "id": "youtube-2fpnJlHPhGA#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.159,
+      "text": "最小最小要20克左右"
+    },
+    {
+      "end_seconds": 161.359,
+      "id": "youtube-2fpnJlHPhGA#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.319,
+      "text": "那像这个机器人"
+    },
+    {
+      "end_seconds": 162.879,
+      "id": "youtube-2fpnJlHPhGA#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.359,
+      "text": "你现在假设说的这个"
+    },
+    {
+      "end_seconds": 164.679,
+      "id": "youtube-2fpnJlHPhGA#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 162.879,
+      "text": "它大约是200毫克"
+    },
+    {
+      "end_seconds": 165.719,
+      "id": "youtube-2fpnJlHPhGA#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 164.679,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 166.439,
+      "id": "youtube-2fpnJlHPhGA#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 165.719,
+      "text": "它就可能"
+    },
+    {
+      "end_seconds": 168.439,
+      "id": "youtube-2fpnJlHPhGA#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 166.439,
+      "text": "它看起来没怎么轻"
+    },
+    {
+      "end_seconds": 169.279,
+      "id": "youtube-2fpnJlHPhGA#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.439,
+      "text": "它看起来没怎么轻"
+    },
+    {
+      "end_seconds": 171.679,
+      "id": "youtube-2fpnJlHPhGA#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 169.279,
+      "text": "但是它所有材料都是非常"
+    },
+    {
+      "end_seconds": 173.519,
+      "id": "youtube-2fpnJlHPhGA#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 171.679,
+      "text": "那我能再把它拿一下"
+    },
+    {
+      "end_seconds": 175.36,
+      "id": "youtube-2fpnJlHPhGA#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.64,
+      "text": "你可以把这个放手上"
+    },
+    {
+      "end_seconds": 176.4,
+      "id": "youtube-2fpnJlHPhGA#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.36,
+      "text": "其实就是"
+    },
+    {
+      "end_seconds": 177.84,
+      "id": "youtube-2fpnJlHPhGA#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 176.4,
+      "text": "能感觉到重量吗"
+    },
+    {
+      "end_seconds": 179.92,
+      "id": "youtube-2fpnJlHPhGA#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.84,
+      "text": "这个大约是"
+    },
+    {
+      "end_seconds": 181.6,
+      "id": "youtube-2fpnJlHPhGA#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.92,
+      "text": "这一个本身"
+    },
+    {
+      "end_seconds": 183.12,
+      "id": "youtube-2fpnJlHPhGA#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 181.6,
+      "text": "就是这个机器人的二分之"
+    },
+    {
+      "end_seconds": 185.56,
+      "id": "youtube-2fpnJlHPhGA#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.12,
+      "text": "所以这个东西大约是100毫克左右"
+    },
+    {
+      "end_seconds": 186.0,
+      "id": "youtube-2fpnJlHPhGA#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 185.56,
+      "text": "好"
+    },
+    {
+      "end_seconds": 186.36,
+      "id": "youtube-2fpnJlHPhGA#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.0,
+      "text": "对"
+    },
+    {
+      "end_seconds": 188.36,
+      "id": "youtube-2fpnJlHPhGA#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.36,
+      "text": "所以就是"
+    },
+    {
+      "end_seconds": 188.84,
+      "id": "youtube-2fpnJlHPhGA#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.36,
+      "text": "神奇"
+    },
+    {
+      "end_seconds": 192.12,
+      "id": "youtube-2fpnJlHPhGA#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.84,
+      "text": "就是它看着觉得起码有这么几克的样子"
+    },
+    {
+      "end_seconds": 193.24,
+      "id": "youtube-2fpnJlHPhGA#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 192.12,
+      "text": "但是细节"
+    },
+    {
+      "end_seconds": 194.8,
+      "id": "youtube-2fpnJlHPhGA#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.24,
+      "text": "因为所有东西都是碳纤维"
+    },
+    {
+      "end_seconds": 197.24,
+      "id": "youtube-2fpnJlHPhGA#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 194.8,
+      "text": "然后包括它的所有薄膜材料都特别的薄"
+    },
+    {
+      "end_seconds": 199.68,
+      "id": "youtube-2fpnJlHPhGA#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.24,
+      "text": "把一个东西做到尺度比较小的时候"
+    },
+    {
+      "end_seconds": 201.52,
+      "id": "youtube-2fpnJlHPhGA#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 199.68,
+      "text": "我们说它的inertial property"
+    },
+    {
+      "end_seconds": 203.24,
+      "id": "youtube-2fpnJlHPhGA#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.52,
+      "text": "inertial effect就很小了"
+    },
+    {
+      "end_seconds": 204.48,
+      "id": "youtube-2fpnJlHPhGA#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 203.24,
+      "text": "所以它碰撞的时候"
+    },
+    {
+      "end_seconds": 206.52,
+      "id": "youtube-2fpnJlHPhGA#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 204.48,
+      "text": "它不需要结构上强度很大"
+    },
+    {
+      "end_seconds": 208.48,
+      "id": "youtube-2fpnJlHPhGA#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 206.52,
+      "text": "因为它inertial property本来就很小"
+    },
+    {
+      "end_seconds": 209.8,
+      "id": "youtube-2fpnJlHPhGA#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 208.48,
+      "text": "然后如果你看一个蜜蜂"
+    },
+    {
+      "end_seconds": 211.439,
+      "id": "youtube-2fpnJlHPhGA#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.8,
+      "text": "蜜蜂大约是200毫克左右"
+    },
+    {
+      "end_seconds": 212.24,
+      "id": "youtube-2fpnJlHPhGA#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.439,
+      "text": "对"
+    },
+    {
+      "end_seconds": 213.6,
+      "id": "youtube-2fpnJlHPhGA#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 212.24,
+      "text": "所以并不容易想象那么重"
+    },
+    {
+      "end_seconds": 213.92,
+      "id": "youtube-2fpnJlHPhGA#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.6,
+      "text": "对"
+    },
+    {
+      "end_seconds": 215.96,
+      "id": "youtube-2fpnJlHPhGA#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.92,
+      "text": "我也以为蜜蜂就看起来胖胖的"
+    },
+    {
+      "end_seconds": 217.24,
+      "id": "youtube-2fpnJlHPhGA#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 215.96,
+      "text": "而且它撞的上去挺疼的"
+    },
+    {
+      "end_seconds": 218.76,
+      "id": "youtube-2fpnJlHPhGA#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 217.24,
+      "text": "你能感受到它撞的重量"
+    },
+    {
+      "end_seconds": 221.28,
+      "id": "youtube-2fpnJlHPhGA#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 218.76,
+      "text": "那是因为它速度快"
+    },
+    {
+      "end_seconds": 223.56,
+      "id": "youtube-2fpnJlHPhGA#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 221.28,
+      "text": "因为你撞的时候是动的"
+    },
+    {
+      "end_seconds": 224.4,
+      "id": "youtube-2fpnJlHPhGA#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.56,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 226.439,
+      "id": "youtube-2fpnJlHPhGA#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 224.4,
+      "text": "所以说它重量很轻"
+    },
+    {
+      "end_seconds": 227.64,
+      "id": "youtube-2fpnJlHPhGA#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 226.439,
+      "text": "然后"
+    },
+    {
+      "end_seconds": 231.08,
+      "id": "youtube-2fpnJlHPhGA#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 227.64,
+      "text": "那么如果说再说一点偏技术的"
+    },
+    {
+      "end_seconds": 232.08,
+      "id": "youtube-2fpnJlHPhGA#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 231.08,
+      "text": "如果你做一个四旋翼"
+    },
+    {
+      "end_seconds": 233.84,
+      "id": "youtube-2fpnJlHPhGA#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 232.08,
+      "text": "它电机本做小是"
+    },
+    {
+      "end_seconds": 236.4,
+      "id": "youtube-2fpnJlHPhGA#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 233.84,
+      "text": "是有物理是有理论限制的"
+    },
+    {
+      "end_seconds": 237.96,
+      "id": "youtube-2fpnJlHPhGA#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 236.4,
+      "text": "所以这时候你一定要"
+    },
+    {
+      "end_seconds": 240.16,
+      "id": "youtube-2fpnJlHPhGA#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.96,
+      "text": "探索新的驱动器的方式"
+    },
+    {
+      "end_seconds": 240.92,
+      "id": "youtube-2fpnJlHPhGA#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 240.16,
+      "text": "这个就是驱动器"
+    },
+    {
+      "end_seconds": 242.36,
+      "id": "youtube-2fpnJlHPhGA#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 240.92,
+      "text": "那么这个就是驱动器"
+    },
+    {
+      "end_seconds": 244.28,
+      "id": "youtube-2fpnJlHPhGA#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 242.36,
+      "text": "这个叫软体驱动器"
+    },
+    {
+      "end_seconds": 244.56,
+      "id": "youtube-2fpnJlHPhGA#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 244.28,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 246.56,
+      "id": "youtube-2fpnJlHPhGA#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 244.56,
+      "text": "它叫Dynamic Elastomer Accelerator"
+    },
+    {
+      "end_seconds": 247.8,
+      "id": "youtube-2fpnJlHPhGA#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 246.56,
+      "text": "我觉得中文可能叫"
+    },
+    {
+      "end_seconds": 249.64,
+      "id": "youtube-2fpnJlHPhGA#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.8,
+      "text": "介电弹性体驱动器"
+    },
+    {
+      "end_seconds": 250.88,
+      "id": "youtube-2fpnJlHPhGA#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.64,
+      "text": "看上去我只要给个电压"
+    },
+    {
+      "end_seconds": 253.4,
+      "id": "youtube-2fpnJlHPhGA#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 250.88,
+      "text": "这个东西就会不停的收缩"
+    },
+    {
+      "end_seconds": 255.16,
+      "id": "youtube-2fpnJlHPhGA#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 253.4,
+      "text": "这就是其中的一个原理"
+    },
+    {
+      "end_seconds": 257.16,
+      "id": "youtube-2fpnJlHPhGA#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 255.16,
+      "text": "就是说你会发现"
+    },
+    {
+      "end_seconds": 259.759,
+      "id": "youtube-2fpnJlHPhGA#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 257.16,
+      "text": "在大一点尺度下的发动机"
+    },
+    {
+      "end_seconds": 262.92,
+      "id": "youtube-2fpnJlHPhGA#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.759,
+      "text": "都是通过电和磁"
+    },
+    {
+      "end_seconds": 265.319,
+      "id": "youtube-2fpnJlHPhGA#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 262.92,
+      "text": "是电场和磁场都很重要"
+    },
+    {
+      "end_seconds": 267.759,
+      "id": "youtube-2fpnJlHPhGA#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 265.319,
+      "text": "但小一点尺度的都是纯电场"
+    },
+    {
+      "end_seconds": 268.759,
+      "id": "youtube-2fpnJlHPhGA#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.759,
+      "text": "像这个就是"
+    },
+    {
+      "end_seconds": 270.319,
+      "id": "youtube-2fpnJlHPhGA#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 268.759,
+      "text": "只是我们叫Electro-Static"
+    },
+    {
+      "end_seconds": 271.279,
+      "id": "youtube-2fpnJlHPhGA#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 270.319,
+      "text": "而没有磁场"
+    },
+    {
+      "end_seconds": 273.0,
+      "id": "youtube-2fpnJlHPhGA#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.279,
+      "text": "但是这边纯电"
+    },
+    {
+      "end_seconds": 275.039,
+      "id": "youtube-2fpnJlHPhGA#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 273.0,
+      "text": "可是我们你要回到蜜蜂的话"
+    },
+    {
+      "end_seconds": 276.48,
+      "id": "youtube-2fpnJlHPhGA#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.039,
+      "text": "蜜蜂也不是用电的"
+    },
+    {
+      "end_seconds": 278.48,
+      "id": "youtube-2fpnJlHPhGA#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 276.48,
+      "text": "蜜蜂是用生物"
+    },
+    {
+      "end_seconds": 279.039,
+      "id": "youtube-2fpnJlHPhGA#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 278.48,
+      "text": "Exactly"
+    },
+    {
+      "end_seconds": 280.959,
+      "id": "youtube-2fpnJlHPhGA#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 279.039,
+      "text": "然后这就回到了最基本的问题"
+    },
+    {
+      "end_seconds": 283.68,
+      "id": "youtube-2fpnJlHPhGA#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 280.959,
+      "text": "就是说咱们做这些比较基础的科研"
+    },
+    {
+      "end_seconds": 285.12,
+      "id": "youtube-2fpnJlHPhGA#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 283.68,
+      "text": "你要想最基本的问题"
+    },
+    {
+      "end_seconds": 286.36,
+      "id": "youtube-2fpnJlHPhGA#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.12,
+      "text": "这个可能跟蜜蜂差不多"
+    },
+    {
+      "end_seconds": 287.959,
+      "id": "youtube-2fpnJlHPhGA#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 286.36,
+      "text": "就是我觉得它速度"
+    },
+    {
+      "end_seconds": 289.199,
+      "id": "youtube-2fpnJlHPhGA#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 287.959,
+      "text": "而折腾都差不多"
+    },
+    {
+      "end_seconds": 290.36,
+      "id": "youtube-2fpnJlHPhGA#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 289.199,
+      "text": "但唯一我们做不到的是"
+    },
+    {
+      "end_seconds": 291.959,
+      "id": "youtube-2fpnJlHPhGA#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 290.36,
+      "text": "我们要背一个电线"
+    },
+    {
+      "end_seconds": 293.159,
+      "id": "youtube-2fpnJlHPhGA#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 291.959,
+      "text": "我们连电池都放不上"
+    },
+    {
+      "end_seconds": 295.439,
+      "id": "youtube-2fpnJlHPhGA#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.159,
+      "text": "这是我们最大的基础的 barrier"
+    },
+    {
+      "end_seconds": 297.159,
+      "id": "youtube-2fpnJlHPhGA#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 295.439,
+      "text": "但是如果你看蜜蜂为什么"
+    },
+    {
+      "end_seconds": 297.8,
+      "id": "youtube-2fpnJlHPhGA#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 297.159,
+      "text": "它就可以"
+    },
+    {
+      "end_seconds": 298.079,
+      "id": "youtube-2fpnJlHPhGA#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 297.8,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 298.8,
+      "id": "youtube-2fpnJlHPhGA#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 298.079,
+      "text": "飞得很好"
+    },
+    {
+      "end_seconds": 301.519,
+      "id": "youtube-2fpnJlHPhGA#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 298.8,
+      "text": "这就是化学能和电能储能方式的"
+    },
+    {
+      "end_seconds": 304.199,
+      "id": "youtube-2fpnJlHPhGA#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.519,
+      "text": "极大的理论上的差距"
+    },
+    {
+      "end_seconds": 306.039,
+      "id": "youtube-2fpnJlHPhGA#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 304.199,
+      "text": "就是在汽油里边能储存的能量的"
+    },
+    {
+      "end_seconds": 308.12,
+      "id": "youtube-2fpnJlHPhGA#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 306.039,
+      "text": "density其实比电池要高很多"
+    },
+    {
+      "end_seconds": 308.519,
+      "id": "youtube-2fpnJlHPhGA#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 308.12,
+      "text": "对"
+    },
+    {
+      "end_seconds": 310.519,
+      "id": "youtube-2fpnJlHPhGA#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 308.519,
+      "text": "所以就是100多年前"
+    },
+    {
+      "end_seconds": 311.959,
+      "id": "youtube-2fpnJlHPhGA#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 310.519,
+      "text": "Roastrise做车的时候"
+    },
+    {
+      "end_seconds": 313.079,
+      "id": "youtube-2fpnJlHPhGA#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 311.959,
+      "text": "他们好像就有一个statement"
+    },
+    {
+      "end_seconds": 314.959,
+      "id": "youtube-2fpnJlHPhGA#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 313.079,
+      "text": "就用电机驱动汽车"
+    },
+    {
+      "end_seconds": 317.199,
+      "id": "youtube-2fpnJlHPhGA#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 314.959,
+      "text": "是最好的驱动方式"
+    },
+    {
+      "end_seconds": 319.12,
+      "id": "youtube-2fpnJlHPhGA#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 317.199,
+      "text": "这是他们100多年前一个statement"
+    },
+    {
+      "end_seconds": 324.439,
+      "id": "youtube-2fpnJlHPhGA#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 319.92,
+      "text": "但是他们没有储存电能的好的方法"
+    },
+    {
+      "end_seconds": 326.199,
+      "id": "youtube-2fpnJlHPhGA#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.439,
+      "text": "这个工程上的问题"
+    },
+    {
+      "end_seconds": 328.68,
+      "id": "youtube-2fpnJlHPhGA#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.199,
+      "text": "汽油的energy density"
+    },
+    {
+      "end_seconds": 330.8,
+      "id": "youtube-2fpnJlHPhGA#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.68,
+      "text": "远远要高于"
+    },
+    {
+      "end_seconds": 333.48,
+      "id": "youtube-2fpnJlHPhGA#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 330.8,
+      "text": "而且是order of magnitude higher than batteries"
+    },
+    {
+      "end_seconds": 334.04,
+      "id": "youtube-2fpnJlHPhGA#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 333.48,
+      "text": "这样说的话"
+    },
+    {
+      "end_seconds": 336.199,
+      "id": "youtube-2fpnJlHPhGA#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 334.04,
+      "text": "我们人类的储能为什么如此高效"
+    },
+    {
+      "end_seconds": 337.72,
+      "id": "youtube-2fpnJlHPhGA#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.199,
+      "text": "或者就是蜜蜂的储能"
+    },
+    {
+      "end_seconds": 338.56,
+      "id": "youtube-2fpnJlHPhGA#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 337.72,
+      "text": "为什么如此高效"
+    },
+    {
+      "end_seconds": 339.519,
+      "id": "youtube-2fpnJlHPhGA#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 338.56,
+      "text": "你到底有没有可能"
+    },
+    {
+      "end_seconds": 343.04,
+      "id": "youtube-2fpnJlHPhGA#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 339.519,
+      "text": "你来创造一个发电机去"
+    },
+    {
+      "end_seconds": 344.92,
+      "id": "youtube-2fpnJlHPhGA#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.04,
+      "text": "利用化学能"
+    },
+    {
+      "end_seconds": 345.56,
+      "id": "youtube-2fpnJlHPhGA#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 344.92,
+      "text": "利用这个"
+    },
+    {
+      "end_seconds": 346.84,
+      "id": "youtube-2fpnJlHPhGA#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 345.56,
+      "text": "这个问题很好"
+    },
+    {
+      "end_seconds": 348.239,
+      "id": "youtube-2fpnJlHPhGA#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 346.879,
+      "text": "我不认为"
+    },
+    {
+      "end_seconds": 349.439,
+      "id": "youtube-2fpnJlHPhGA#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 348.239,
+      "text": "battery会有一个"
+    },
+    {
+      "end_seconds": 351.519,
+      "id": "youtube-2fpnJlHPhGA#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 349.439,
+      "text": "order of magnitude improvement"
+    },
+    {
+      "end_seconds": 352.279,
+      "id": "youtube-2fpnJlHPhGA#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 351.519,
+      "text": "in the short term"
+    },
+    {
+      "end_seconds": 353.679,
+      "id": "youtube-2fpnJlHPhGA#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.279,
+      "text": "用现在的方式肯定不会"
+    },
+    {
+      "end_seconds": 355.679,
+      "id": "youtube-2fpnJlHPhGA#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 353.679,
+      "text": "而且如果你看现在讲"
+    },
+    {
+      "end_seconds": 356.839,
+      "id": "youtube-2fpnJlHPhGA#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 355.679,
+      "text": "说最好的学术机"
+    },
+    {
+      "end_seconds": 359.799,
+      "id": "youtube-2fpnJlHPhGA#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 356.839,
+      "text": "看下电池它的能量密度怎么提高"
+    },
+    {
+      "end_seconds": 361.56,
+      "id": "youtube-2fpnJlHPhGA#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 359.799,
+      "text": "但一般能量密度"
+    },
+    {
+      "end_seconds": 363.159,
+      "id": "youtube-2fpnJlHPhGA#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 361.56,
+      "text": "它能提高几个percent"
+    },
+    {
+      "end_seconds": 364.679,
+      "id": "youtube-2fpnJlHPhGA#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.159,
+      "text": "它就可以发最好的期刊了"
+    },
+    {
+      "end_seconds": 364.959,
+      "id": "youtube-2fpnJlHPhGA#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 364.679,
+      "text": "是"
+    },
+    {
+      "end_seconds": 367.159,
+      "id": "youtube-2fpnJlHPhGA#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 364.959,
+      "text": "所以说至少作为一个outsider"
+    },
+    {
+      "end_seconds": 368.239,
+      "id": "youtube-2fpnJlHPhGA#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 367.159,
+      "text": "我能看到的是"
+    },
+    {
+      "end_seconds": 369.439,
+      "id": "youtube-2fpnJlHPhGA#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.239,
+      "text": "我不可能expect"
+    },
+    {
+      "end_seconds": 371.839,
+      "id": "youtube-2fpnJlHPhGA#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 369.439,
+      "text": "每年它电池的功率密度提高50%"
+    },
+    {
+      "end_seconds": 375.879,
+      "id": "youtube-2fpnJlHPhGA#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.839,
+      "text": "你做这些会对进化论产生质疑吗"
+    },
+    {
+      "end_seconds": 378.199,
+      "id": "youtube-2fpnJlHPhGA#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 375.879,
+      "text": "因为就是太难了"
+    },
+    {
+      "end_seconds": 378.639,
+      "id": "youtube-2fpnJlHPhGA#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 378.199,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 381.24,
+      "id": "youtube-2fpnJlHPhGA#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.839,
+      "text": "对进化论产生质疑"
+    },
+    {
+      "end_seconds": 382.36,
+      "id": "youtube-2fpnJlHPhGA#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.24,
+      "text": "我觉得"
+    },
+    {
+      "end_seconds": 384.24,
+      "id": "youtube-2fpnJlHPhGA#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 382.36,
+      "text": "我的感觉是"
+    },
+    {
+      "end_seconds": 385.759,
+      "id": "youtube-2fpnJlHPhGA#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.24,
+      "text": "进化论它能解释"
+    },
+    {
+      "end_seconds": 386.719,
+      "id": "youtube-2fpnJlHPhGA#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 385.759,
+      "text": "它是一个hypothesis"
+    },
+    {
+      "end_seconds": 388.199,
+      "id": "youtube-2fpnJlHPhGA#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 386.719,
+      "text": "但是首先"
+    },
+    {
+      "end_seconds": 390.0,
+      "id": "youtube-2fpnJlHPhGA#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 388.199,
+      "text": "第一它只是一个hypothesis"
+    },
+    {
+      "end_seconds": 391.439,
+      "id": "youtube-2fpnJlHPhGA#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 390.0,
+      "text": "第二就是这个hypothesis"
+    },
+    {
+      "end_seconds": 392.48,
+      "id": "youtube-2fpnJlHPhGA#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 391.439,
+      "text": "在解释现实的时候"
+    },
+    {
+      "end_seconds": 394.879,
+      "id": "youtube-2fpnJlHPhGA#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 392.48,
+      "text": "我现在觉得有很多太hand-waving的东西了"
+    },
+    {
+      "end_seconds": 396.24,
+      "id": "youtube-2fpnJlHPhGA#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 394.879,
+      "text": "就比如说像你刚刚说的"
+    },
+    {
+      "end_seconds": 399.079,
+      "id": "youtube-2fpnJlHPhGA#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 396.24,
+      "text": "制造一个肌肉纤维如此之难"
+    },
+    {
+      "end_seconds": 403.04,
+      "id": "youtube-2fpnJlHPhGA#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 399.079,
+      "text": "在人类看似科技很发达情况下"
+    },
+    {
+      "end_seconds": 404.04,
+      "id": "youtube-2fpnJlHPhGA#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 403.04,
+      "text": "然后他就说"
+    },
+    {
+      "end_seconds": 405.6,
+      "id": "youtube-2fpnJlHPhGA#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 404.04,
+      "text": "经过几亿年的变迁"
+    },
+    {
+      "end_seconds": 407.6,
+      "id": "youtube-2fpnJlHPhGA#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 405.6,
+      "text": "或者几百年变迁"
+    },
+    {
+      "end_seconds": 409.64,
+      "id": "youtube-2fpnJlHPhGA#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 407.6,
+      "text": "还有一些hand-waving的东西"
+    },
+    {
+      "end_seconds": 411.2,
+      "id": "youtube-2fpnJlHPhGA#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 409.64,
+      "text": "比如说猴子和人"
+    },
+    {
+      "end_seconds": 412.24,
+      "id": "youtube-2fpnJlHPhGA#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 411.2,
+      "text": "但是猴子和人之间"
+    },
+    {
+      "end_seconds": 413.84,
+      "id": "youtube-2fpnJlHPhGA#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 412.24,
+      "text": "为什么没有其他的东西"
+    },
+    {
+      "end_seconds": 415.36,
+      "id": "youtube-2fpnJlHPhGA#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.84,
+      "text": "不管是进化论也好"
+    },
+    {
+      "end_seconds": 417.36,
+      "id": "youtube-2fpnJlHPhGA#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 415.36,
+      "text": "或者别的很多理论也好"
+    },
+    {
+      "end_seconds": 420.96,
+      "id": "youtube-2fpnJlHPhGA#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 417.36,
+      "text": "它只是试图去概括一些"
+    },
+    {
+      "end_seconds": 423.08,
+      "id": "youtube-2fpnJlHPhGA#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 420.96,
+      "text": "被我们所观测到的trend"
+    },
+    {
+      "end_seconds": 423.879,
+      "id": "youtube-2fpnJlHPhGA#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 423.08,
+      "text": "那么这个时候"
+    },
+    {
+      "end_seconds": 425.2,
+      "id": "youtube-2fpnJlHPhGA#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 423.879,
+      "text": "我觉得我们应该常常"
+    },
+    {
+      "end_seconds": 426.48,
+      "id": "youtube-2fpnJlHPhGA#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 425.2,
+      "text": "在大多数情况下"
+    },
+    {
+      "end_seconds": 429.08,
+      "id": "youtube-2fpnJlHPhGA#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 426.48,
+      "text": "进化论还是work的"
+    },
+    {
+      "end_seconds": 430.12,
+      "id": "youtube-2fpnJlHPhGA#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 429.08,
+      "text": "我觉得就像你说的"
+    },
+    {
+      "end_seconds": 431.32,
+      "id": "youtube-2fpnJlHPhGA#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 430.12,
+      "text": "咱聊一点更虚的问题"
+    },
+    {
+      "end_seconds": 432.64,
+      "id": "youtube-2fpnJlHPhGA#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 431.32,
+      "text": "我觉得是"
+    },
+    {
+      "end_seconds": 435.519,
+      "id": "youtube-2fpnJlHPhGA#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 433.599,
+      "text": "确实有很多physicist"
+    },
+    {
+      "end_seconds": 437.8,
+      "id": "youtube-2fpnJlHPhGA#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 435.519,
+      "text": "尤其是理论的物理学家"
+    },
+    {
+      "end_seconds": 439.439,
+      "id": "youtube-2fpnJlHPhGA#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 437.8,
+      "text": "他们研究到最后"
+    },
+    {
+      "end_seconds": 441.12,
+      "id": "youtube-2fpnJlHPhGA#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 439.439,
+      "text": "他们就觉得说"
+    },
+    {
+      "end_seconds": 444.24,
+      "id": "youtube-2fpnJlHPhGA#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 441.12,
+      "text": "这个世界好像被设计得太精妙了"
+    },
+    {
+      "end_seconds": 445.24,
+      "id": "youtube-2fpnJlHPhGA#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 444.24,
+      "text": "对太精妙了"
+    },
+    {
+      "end_seconds": 447.479,
+      "id": "youtube-2fpnJlHPhGA#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 445.24,
+      "text": "就是精妙到他们不觉得"
+    },
+    {
+      "end_seconds": 449.12,
+      "id": "youtube-2fpnJlHPhGA#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 447.479,
+      "text": "所有东西都是by probability"
+    },
+    {
+      "end_seconds": 450.199,
+      "id": "youtube-2fpnJlHPhGA#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 449.12,
+      "text": "or by chance"
+    },
+    {
+      "end_seconds": 452.68,
+      "id": "youtube-2fpnJlHPhGA#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 450.199,
+      "text": "然后所以说很多人说什么"
+    },
+    {
+      "end_seconds": 455.319,
+      "id": "youtube-2fpnJlHPhGA#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 452.68,
+      "text": "科学的尽头是信仰或者宗教"
+    },
+    {
+      "end_seconds": 456.639,
+      "id": "youtube-2fpnJlHPhGA#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.319,
+      "text": "可以理解他们的argument"
+    },
+    {
+      "end_seconds": 456.879,
+      "id": "youtube-2fpnJlHPhGA#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 456.639,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 458.12,
+      "id": "youtube-2fpnJlHPhGA#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 456.879,
+      "text": "但是还是这句话到最后"
+    },
+    {
+      "end_seconds": 460.719,
+      "id": "youtube-2fpnJlHPhGA#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 458.12,
+      "text": "还是不能被证实是真的"
+    },
+    {
+      "end_seconds": 461.279,
+      "id": "youtube-2fpnJlHPhGA#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 460.719,
+      "text": "还是"
+    },
+    {
+      "end_seconds": 462.239,
+      "id": "youtube-2fpnJlHPhGA#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.279,
+      "text": "作为一个engineer"
+    },
+    {
+      "end_seconds": 463.639,
+      "id": "youtube-2fpnJlHPhGA#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 462.239,
+      "text": "你不需要关心这些东西"
+    },
+    {
+      "end_seconds": 465.039,
+      "id": "youtube-2fpnJlHPhGA#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 463.639,
+      "text": "那么作为一个engineer"
+    },
+    {
+      "end_seconds": 467.879,
+      "id": "youtube-2fpnJlHPhGA#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 465.039,
+      "text": "我觉得我们可以说的是"
+    },
+    {
+      "end_seconds": 472.199,
+      "id": "youtube-2fpnJlHPhGA#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 469.959,
+      "text": "尽管我花了如此长的时间"
+    },
+    {
+      "end_seconds": 473.879,
+      "id": "youtube-2fpnJlHPhGA#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 472.199,
+      "text": "和精力在做这个事"
+    },
+    {
+      "end_seconds": 475.839,
+      "id": "youtube-2fpnJlHPhGA#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 473.879,
+      "text": "每次看到一个蜜蜂"
+    },
+    {
+      "end_seconds": 477.119,
+      "id": "youtube-2fpnJlHPhGA#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 475.839,
+      "text": "或者一个苍蝇"
+    },
+    {
+      "end_seconds": 478.119,
+      "id": "youtube-2fpnJlHPhGA#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 477.119,
+      "text": "苍蝇蜜蜇飞过的时候"
+    },
+    {
+      "end_seconds": 479.039,
+      "id": "youtube-2fpnJlHPhGA#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 478.119,
+      "text": "你就觉得你可能"
+    },
+    {
+      "end_seconds": 480.839,
+      "id": "youtube-2fpnJlHPhGA#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 479.039,
+      "text": "就是中期一个career做的东西"
+    },
+    {
+      "end_seconds": 484.759,
+      "id": "youtube-2fpnJlHPhGA#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 480.839,
+      "text": "都比这些东西要差很多"
+    },
+    {
+      "end_seconds": 485.839,
+      "id": "youtube-2fpnJlHPhGA#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 484.759,
+      "text": "但是我觉得"
+    },
+    {
+      "end_seconds": 486.719,
+      "id": "youtube-2fpnJlHPhGA#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 485.839,
+      "text": "我们可以理解"
+    },
+    {
+      "end_seconds": 488.119,
+      "id": "youtube-2fpnJlHPhGA#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 486.719,
+      "text": "这样我来跟你说的"
+    },
+    {
+      "end_seconds": 490.679,
+      "id": "youtube-2fpnJlHPhGA#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 489.159,
+      "text": "我们所operate的尺度"
+    },
+    {
+      "end_seconds": 492.16,
+      "id": "youtube-2fpnJlHPhGA#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 490.68,
+      "text": "就完全不一样"
+    },
+    {
+      "end_seconds": 495.56,
+      "id": "youtube-2fpnJlHPhGA#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 492.16,
+      "text": "我觉得我们的加工能力"
+    },
+    {
+      "end_seconds": 497.16,
+      "id": "youtube-2fpnJlHPhGA#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.56,
+      "text": "和一个细胞"
+    },
+    {
+      "end_seconds": 499.759,
+      "id": "youtube-2fpnJlHPhGA#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 497.16,
+      "text": "它的尺度就不一样"
+    },
+    {
+      "end_seconds": 501.68,
+      "id": "youtube-2fpnJlHPhGA#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.759,
+      "text": "所以我觉得我们有巨大的"
+    },
+    {
+      "end_seconds": 503.56,
+      "id": "youtube-2fpnJlHPhGA#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.68,
+      "text": "technological gap"
+    },
+    {
+      "end_seconds": 506.28,
+      "id": "youtube-2fpnJlHPhGA#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 503.56,
+      "text": "这个并不是让我怀疑说"
+    },
+    {
+      "end_seconds": 507.519,
+      "id": "youtube-2fpnJlHPhGA#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 506.28,
+      "text": "相对论是不是真实的"
+    },
+    {
+      "end_seconds": 508.519,
+      "id": "youtube-2fpnJlHPhGA#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 507.519,
+      "text": "这么一个时候"
+    },
+    {
+      "end_seconds": 509.519,
+      "id": "youtube-2fpnJlHPhGA#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 508.519,
+      "text": "也许我们就还需要"
+    },
+    {
+      "end_seconds": 510.72,
+      "id": "youtube-2fpnJlHPhGA#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 509.519,
+      "text": "several hundred of years"
+    },
+    {
+      "end_seconds": 511.8,
+      "id": "youtube-2fpnJlHPhGA#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 510.72,
+      "text": "才能达到这个"
+    },
+    {
+      "end_seconds": 513.0,
+      "id": "youtube-2fpnJlHPhGA#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.8,
+      "text": "或者thousand of years"
+    },
+    {
+      "end_seconds": 514.399,
+      "id": "youtube-2fpnJlHPhGA#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 513.0,
+      "text": "我只能跟你介绍一下"
+    },
+    {
+      "end_seconds": 515.879,
+      "id": "youtube-2fpnJlHPhGA#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 514.399,
+      "text": "我一个朋友的假说"
+    },
+    {
+      "end_seconds": 517.24,
+      "id": "youtube-2fpnJlHPhGA#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 515.879,
+      "text": "这是腾讯的一个"
+    },
+    {
+      "end_seconds": 519.44,
+      "id": "youtube-2fpnJlHPhGA#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 517.24,
+      "text": "作为营销的老板"
+    },
+    {
+      "end_seconds": 522.04,
+      "id": "youtube-2fpnJlHPhGA#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 520.0,
+      "text": "人类有高等电子科技"
+    },
+    {
+      "end_seconds": 523.24,
+      "id": "youtube-2fpnJlHPhGA#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 522.04,
+      "text": "然后我们的造物主"
+    },
+    {
+      "end_seconds": 524.6,
+      "id": "youtube-2fpnJlHPhGA#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 523.24,
+      "text": "其实有高等生物科技"
+    },
+    {
+      "end_seconds": 525.28,
+      "id": "youtube-2fpnJlHPhGA#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 524.6,
+      "text": "我们的造物主"
+    },
+    {
+      "end_seconds": 527.04,
+      "id": "youtube-2fpnJlHPhGA#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.28,
+      "text": "其实也就是普通的"
+    },
+    {
+      "end_seconds": 528.2,
+      "id": "youtube-2fpnJlHPhGA#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.04,
+      "text": "它不是那种神"
+    },
+    {
+      "end_seconds": 529.56,
+      "id": "youtube-2fpnJlHPhGA#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 528.2,
+      "text": "它只是能制造"
+    },
+    {
+      "end_seconds": 531.36,
+      "id": "youtube-2fpnJlHPhGA#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.56,
+      "text": "但是它的高等生物科技"
+    },
+    {
+      "end_seconds": 532.48,
+      "id": "youtube-2fpnJlHPhGA#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.36,
+      "text": "体现体现在什么呢"
+    },
+    {
+      "end_seconds": 534.04,
+      "id": "youtube-2fpnJlHPhGA#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 532.48,
+      "text": "就是它可以编码DNA"
+    },
+    {
+      "end_seconds": 535.0,
+      "id": "youtube-2fpnJlHPhGA#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 534.04,
+      "text": "它通过编码DNA"
+    },
+    {
+      "end_seconds": 537.08,
+      "id": "youtube-2fpnJlHPhGA#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 535.0,
+      "text": "就可以得到它想要的东西"
+    },
+    {
+      "end_seconds": 538.32,
+      "id": "youtube-2fpnJlHPhGA#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 537.08,
+      "text": "也不是很夸张"
+    },
+    {
+      "end_seconds": 540.08,
+      "id": "youtube-2fpnJlHPhGA#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 538.32,
+      "text": "就像我们做电子设备一样"
+    },
+    {
+      "end_seconds": 541.52,
+      "id": "youtube-2fpnJlHPhGA#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 540.08,
+      "text": "对 比如说眼睛"
+    },
+    {
+      "end_seconds": 541.96,
+      "id": "youtube-2fpnJlHPhGA#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 541.52,
+      "text": "它一看"
+    },
+    {
+      "end_seconds": 543.04,
+      "id": "youtube-2fpnJlHPhGA#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 541.96,
+      "text": "眼睛这个东西很好用"
+    },
+    {
+      "end_seconds": 544.16,
+      "id": "youtube-2fpnJlHPhGA#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.04,
+      "text": "然后就是design一下"
+    },
+    {
+      "end_seconds": 545.48,
+      "id": "youtube-2fpnJlHPhGA#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 544.16,
+      "text": "放到很多物种上"
+    },
+    {
+      "end_seconds": 547.16,
+      "id": "youtube-2fpnJlHPhGA#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.48,
+      "text": "然后人类攻击力"
+    },
+    {
+      "end_seconds": 549.24,
+      "id": "youtube-2fpnJlHPhGA#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.16,
+      "text": "防御力速度都不行"
+    },
+    {
+      "end_seconds": 551.279,
+      "id": "youtube-2fpnJlHPhGA#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 549.24,
+      "text": "但是它说给它加点大脑"
+    },
+    {
+      "end_seconds": 551.84,
+      "id": "youtube-2fpnJlHPhGA#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 551.279,
+      "text": "给它加点大脑"
+    },
+    {
+      "end_seconds": 552.759,
+      "id": "youtube-2fpnJlHPhGA#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 551.84,
+      "text": "突然发现这个东西"
+    },
+    {
+      "end_seconds": 553.639,
+      "id": "youtube-2fpnJlHPhGA#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 552.759,
+      "text": "all right很高"
+    },
+    {
+      "end_seconds": 555.039,
+      "id": "youtube-2fpnJlHPhGA#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 553.639,
+      "text": "大概是这种感觉"
+    },
+    {
+      "end_seconds": 555.799,
+      "id": "youtube-2fpnJlHPhGA#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.039,
+      "text": "然后其实人类"
+    },
+    {
+      "end_seconds": 557.48,
+      "id": "youtube-2fpnJlHPhGA#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.799,
+      "text": "真的就是在生物科技上"
+    },
+    {
+      "end_seconds": 558.48,
+      "id": "youtube-2fpnJlHPhGA#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.48,
+      "text": "极度落后"
+    },
+    {
+      "end_seconds": 560.0,
+      "id": "youtube-2fpnJlHPhGA#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 558.48,
+      "text": "如果我们没有自愈能力的话"
+    },
+    {
+      "end_seconds": 561.12,
+      "id": "youtube-2fpnJlHPhGA#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 560.0,
+      "text": "我们连手术都没法做"
+    },
+    {
+      "end_seconds": 562.08,
+      "id": "youtube-2fpnJlHPhGA#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 561.12,
+      "text": "其实我们科学"
+    },
+    {
+      "end_seconds": 563.759,
+      "id": "youtube-2fpnJlHPhGA#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 562.08,
+      "text": "就是我们医学就啥都没有"
+    },
+    {
+      "end_seconds": 564.68,
+      "id": "youtube-2fpnJlHPhGA#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 563.759,
+      "text": "照过去一百年"
+    },
+    {
+      "end_seconds": 566.399,
+      "id": "youtube-2fpnJlHPhGA#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 564.68,
+      "text": "我们知道了什么是DNA"
+    },
+    {
+      "end_seconds": 569.12,
+      "id": "youtube-2fpnJlHPhGA#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 566.399,
+      "text": "确实我觉得DNA的发现"
+    },
+    {
+      "end_seconds": 570.72,
+      "id": "youtube-2fpnJlHPhGA#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 569.12,
+      "text": "确实是一个非常大的"
+    },
+    {
+      "end_seconds": 571.799,
+      "id": "youtube-2fpnJlHPhGA#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 570.72,
+      "text": "就是生物上的breakthrough"
+    },
+    {
+      "end_seconds": 573.12,
+      "id": "youtube-2fpnJlHPhGA#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.799,
+      "text": "其实我觉得任何领域"
+    },
+    {
+      "end_seconds": 575.24,
+      "id": "youtube-2fpnJlHPhGA#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 573.12,
+      "text": "不管是生物还是像电磁"
+    },
+    {
+      "end_seconds": 576.519,
+      "id": "youtube-2fpnJlHPhGA#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 575.24,
+      "text": "或者是科学科技"
+    },
+    {
+      "end_seconds": 578.72,
+      "id": "youtube-2fpnJlHPhGA#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 576.519,
+      "text": "其实科技和技术的发展"
+    },
+    {
+      "end_seconds": 581.56,
+      "id": "youtube-2fpnJlHPhGA#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.72,
+      "text": "从来都不是一个线性的"
+    },
+    {
+      "end_seconds": 584.24,
+      "id": "youtube-2fpnJlHPhGA#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 581.56,
+      "text": "都是被连续的"
+    },
+    {
+      "end_seconds": 586.36,
+      "id": "youtube-2fpnJlHPhGA#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 584.24,
+      "text": "可能有的时候有一个仗"
+    },
+    {
+      "end_seconds": 587.32,
+      "id": "youtube-2fpnJlHPhGA#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 586.36,
+      "text": "然后很久之后"
+    },
+    {
+      "end_seconds": 588.48,
+      "id": "youtube-2fpnJlHPhGA#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 587.32,
+      "text": "都没有任何的进展"
+    },
+    {
+      "end_seconds": 589.16,
+      "id": "youtube-2fpnJlHPhGA#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 588.48,
+      "text": "然后过一段时间"
+    },
+    {
+      "end_seconds": 590.08,
+      "id": "youtube-2fpnJlHPhGA#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 589.16,
+      "text": "又有一个仗"
+    },
+    {
+      "end_seconds": 590.92,
+      "id": "youtube-2fpnJlHPhGA#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 590.08,
+      "text": "有人打个比方"
+    },
+    {
+      "end_seconds": 592.84,
+      "id": "youtube-2fpnJlHPhGA#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 590.92,
+      "text": "我们的大脑就像一个运动场"
+    },
+    {
+      "end_seconds": 594.44,
+      "id": "youtube-2fpnJlHPhGA#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 592.84,
+      "text": "然后研究大脑的人"
+    },
+    {
+      "end_seconds": 596.24,
+      "id": "youtube-2fpnJlHPhGA#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 594.44,
+      "text": "就像运动场和停车场的人"
+    },
+    {
+      "end_seconds": 598.32,
+      "id": "youtube-2fpnJlHPhGA#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 596.24,
+      "text": "然后听到了里边在欢呼"
+    },
+    {
+      "end_seconds": 599.639,
+      "id": "youtube-2fpnJlHPhGA#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 598.32,
+      "text": "可能进球的"
+    },
+    {
+      "end_seconds": 601.44,
+      "id": "youtube-2fpnJlHPhGA#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 599.639,
+      "text": "但是其实有可能是打起来"
+    },
+    {
+      "end_seconds": 607.16,
+      "id": "youtube-2fpnJlHPhGA#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.279,
+      "text": "那现在物理学的particle physics"
+    },
+    {
+      "end_seconds": 607.68,
+      "id": "youtube-2fpnJlHPhGA#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 607.16,
+      "text": "也是一样"
+    },
+    {
+      "end_seconds": 609.039,
+      "id": "youtube-2fpnJlHPhGA#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 607.679,
+      "text": "我觉得那个NDA的这个听法"
+    },
+    {
+      "end_seconds": 611.279,
+      "id": "youtube-2fpnJlHPhGA#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 609.039,
+      "text": "就是说我们收了一块钟表"
+    },
+    {
+      "end_seconds": 613.319,
+      "id": "youtube-2fpnJlHPhGA#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 611.279,
+      "text": "我们想知道这个钟表是怎么work的"
+    },
+    {
+      "end_seconds": 614.159,
+      "id": "youtube-2fpnJlHPhGA#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 613.319,
+      "text": "但是我们唯一的方法"
+    },
+    {
+      "end_seconds": 615.799,
+      "id": "youtube-2fpnJlHPhGA#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 614.159,
+      "text": "就是把他们加速smash在一起"
+    },
+    {
+      "end_seconds": 616.319,
+      "id": "youtube-2fpnJlHPhGA#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 615.799,
+      "text": "看以后"
+    },
+    {
+      "end_seconds": 617.199,
+      "id": "youtube-2fpnJlHPhGA#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 616.319,
+      "text": "看他们smash之后"
+    },
+    {
+      "end_seconds": 618.159,
+      "id": "youtube-2fpnJlHPhGA#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 617.199,
+      "text": "喷出来什么东西"
+    },
+    {
+      "end_seconds": 619.519,
+      "id": "youtube-2fpnJlHPhGA#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 618.159,
+      "text": "然后再去reason about"
+    },
+    {
+      "end_seconds": 622.399,
+      "id": "youtube-2fpnJlHPhGA#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 619.519,
+      "text": "里面到底是什么parts 对吧"
+    },
+    {
+      "end_seconds": 623.919,
+      "id": "youtube-2fpnJlHPhGA#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 622.399,
+      "text": "可能我是相对optimistic"
+    },
+    {
+      "end_seconds": 625.279,
+      "id": "youtube-2fpnJlHPhGA#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 623.919,
+      "text": "我觉得还有很多breakthrough"
+    },
+    {
+      "end_seconds": 627.359,
+      "id": "youtube-2fpnJlHPhGA#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 625.279,
+      "text": "可以被我们去发现"
+    },
+    {
+      "end_seconds": 628.559,
+      "id": "youtube-2fpnJlHPhGA#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 627.359,
+      "text": "很多breakthrough"
+    },
+    {
+      "end_seconds": 629.919,
+      "id": "youtube-2fpnJlHPhGA#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 628.559,
+      "text": "可以被我们去发现"
+    },
+    {
+      "end_seconds": 631.599,
+      "id": "youtube-2fpnJlHPhGA#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 629.919,
+      "text": "我只想知道我们到底"
+    },
+    {
+      "end_seconds": 633.0,
+      "id": "youtube-2fpnJlHPhGA#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 631.599,
+      "text": "发展到了多少"
+    },
+    {
+      "end_seconds": 634.559,
+      "id": "youtube-2fpnJlHPhGA#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 633.0,
+      "text": "可是这个世界的所有的"
+    },
+    {
+      "end_seconds": 636.319,
+      "id": "youtube-2fpnJlHPhGA#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 634.559,
+      "text": "我们需要知道的物理知识"
+    },
+    {
+      "end_seconds": 637.319,
+      "id": "youtube-2fpnJlHPhGA#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 636.319,
+      "text": "是100%"
+    },
+    {
+      "end_seconds": 638.8,
+      "id": "youtube-2fpnJlHPhGA#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 637.36,
+      "text": "可能我们现在知道的30%"
+    },
+    {
+      "end_seconds": 639.879,
+      "id": "youtube-2fpnJlHPhGA#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 638.8,
+      "text": "可能知道70%"
+    },
+    {
+      "end_seconds": 642.0,
+      "id": "youtube-2fpnJlHPhGA#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 640.52,
+      "text": "我觉得可能1%都没有"
+    },
+    {
+      "end_seconds": 644.16,
+      "id": "youtube-2fpnJlHPhGA#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 642.0,
+      "text": "为什么觉得是30%呢"
+    },
+    {
+      "end_seconds": 645.36,
+      "id": "youtube-2fpnJlHPhGA#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 644.16,
+      "text": "我觉得任何的已知"
+    },
+    {
+      "end_seconds": 648.8,
+      "id": "youtube-2fpnJlHPhGA#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 645.36,
+      "text": "都是very little part of the已知"
+    },
+    {
+      "end_seconds": 650.28,
+      "id": "youtube-2fpnJlHPhGA#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 648.8,
+      "text": "你的想法是1%都没有"
+    }
+  ],
+  "video_id": "2fpnJlHPhGA",
+  "yuzheng_stance_weight": "not-evidence"
+}

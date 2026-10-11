@@ -1,0 +1,790 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-uw04oIWdzTo",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2022-12-29T23:00:06Z",
+  "participant_aliases": [
+    "Timothy Chan"
+  ],
+  "participant_entity_ids": [
+    "guest:timothy-chan"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Timothy Chan",
+  "public_verified_at": "2026-10-11T02:01:55.872715+00:00",
+  "published_at": "2022-12-29",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "b9fe248d29ced23fbdd78c796720547db26bf326dd65d8f022a4834c9f5a62d2",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "fcee27da9de040735eb34f8bbfe925d5840c90f08d13ba11c4b0568a9169052f",
+    "root_receipt_sha256": "b99b2fd28bb574a26d8af0d236abe5a95c84f24981ee7e73cd9f6f66acbdd695",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=uw04oIWdzTo",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=uw04oIWdzTo",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "Do startups really need Data Scientists?",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 11.876,
+      "id": "youtube-uw04oIWdzTo#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "Hi, I don't remember my English opening. Hi, folks, welcome back to my channel. Today, I'm as ecstatic interviewing Tim."
+    },
+    {
+      "end_seconds": 27.876,
+      "id": "youtube-uw04oIWdzTo#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.876,
+      "text": "Tim is the actually Tim, why don't you give a hi? I lead data science at Statsig. I've been with the company from the very start in February of two thousand and twenty-one. So prior to this, I was a data scientist at Facebook. So where I spent"
+    },
+    {
+      "end_seconds": 44.378,
+      "id": "youtube-uw04oIWdzTo#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.876,
+      "text": "I think like five total five years working on Facebook core app in in gaming, and also I worked a little bit in Facebook Reality Labs, so doing some of the more cutting edge metaverse style projects. So I tell people that I've worked on."
+    },
+    {
+      "end_seconds": 53.88,
+      "id": "youtube-uw04oIWdzTo#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.378,
+      "text": "Products that have had as as large as a billion users and as small as just like ten thousand users. Which one is the ten thousand users? That would be like the Facebook Reality Labs, yeah."
+    },
+    {
+      "end_seconds": 76.89,
+      "id": "youtube-uw04oIWdzTo#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.88,
+      "text": "我们正在拥有这么多用户。今天，什么是一亿？所以，那会是像在Facebook游戏，就是你有那么多眼球在游戏内容上，这是我们的机会去抓住它，驱动参与。How is working at the startup？ Yeah， it's been it's been a lot of fun. It's been pretty intense. I think I've got to try. I've got to"
+    },
+    {
+      "end_seconds": 104.392,
+      "id": "youtube-uw04oIWdzTo#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.89,
+      "text": "I've been able to learn a bunch of whole bunch of new skills that I would have never had the opportunity before. So, being the only data person on the team, the only at the beginning, I was the I was the only data person on the team. Is like I had to be more than a data scientist. I had to be also a data engineer. I also had to be a data architect and design that. I also had to be thinking. There was no one else thinking at the time about"
+    },
+    {
+      "end_seconds": 114.402,
+      "id": "youtube-uw04oIWdzTo#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 104.392,
+      "text": "things like marketing or or our business positioning or our strategy, like even those sort of things, sort of I was able to contribute to, and."
+    },
+    {
+      "end_seconds": 137.662,
+      "id": "youtube-uw04oIWdzTo#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 114.402,
+      "text": "At the early start, how many data people do you have today? We now we have three data scientists, and we have a lot of engineers working on the data infrastructure side. Yeah. How do you define engineers working on data infrastructure versus data engineer? Yeah, it's it's actually a blurry line. Yeah. I think it's. I don't think there's actually a really clear definition, and I think there's a"
+    },
+    {
+      "end_seconds": 150.7,
+      "id": "youtube-uw04oIWdzTo#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.662,
+      "text": "That there's a lot of shared responsibilities between the two. Okay, so early on, you were basically a jackal, jackal, chase, and."
+    },
+    {
+      "end_seconds": 160.532,
+      "id": "youtube-uw04oIWdzTo#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.7,
+      "text": "呃，But mainly, as a data scientist, what is our unique value or unique contribution that no one else can replace?"
+    },
+    {
+      "end_seconds": 180.648,
+      "id": "youtube-uw04oIWdzTo#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.532,
+      "text": "Aesthetic, aesthetic, aesthetic. Yeah, I think the way I view is is that because we're selling an analytics tool, we not only are there to engage with other data scientists because other data scientists want to be able to speak with somebody who understands data science. And this is partly they have to."
+    },
+    {
+      "end_seconds": 193.612,
+      "id": "youtube-uw04oIWdzTo#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.648,
+      "text": "believe that we've set up the analytics and the computations correctly, and so we are the ones that we we do that, and we're also the ones that are able to communicate that. So that's like the first thing. The second thing is like we are also the"
+    },
+    {
+      "end_seconds": 218.442,
+      "id": "youtube-uw04oIWdzTo#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.612,
+      "text": "我们 also represent a viewpoint of the customers when building our tool. Both from there's two perspectives. One is like what would a data scientist want to see in the product, but also data scientists are a little bit like almost guardians of like data at their companies and how people use data. And so they have to be able to trust that we are putting a tool in the hands of PMs and engineers, and they and data scientists want to make sure we're doing it."
+    },
+    {
+      "end_seconds": 227.76,
+      "id": "youtube-uw04oIWdzTo#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 218.442,
+      "text": "faithfully in a way that doesn't cause them more work, because there's ways to misinterpret data that could actually cause like people to have wrong insights."
+    },
+    {
+      "end_seconds": 235.908,
+      "id": "youtube-uw04oIWdzTo#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 227.76,
+      "text": "And then, in that point, like data scientists are now struggling to actually squash problems that we've created, instead of us solving problems for them."
+    },
+    {
+      "end_seconds": 250.426,
+      "id": "youtube-uw04oIWdzTo#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 235.908,
+      "text": "I, there's so like I think there are two main follow-up questions from this. One, Statsig's mission or Statsig's differentiator with other A/B testing companies like split."
+    },
+    {
+      "end_seconds": 266.0,
+      "id": "youtube-uw04oIWdzTo#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 250.426,
+      "text": "split splitwise 或 whatever after my after after my sleep with our other competitors is you want to make A B testing easier, uh, that's less complicated or less academically, right, uh."
+    },
+    {
+      "end_seconds": 282.61,
+      "id": "youtube-uw04oIWdzTo#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 266.0,
+      "text": "I feel like that creates some tension between, like giving this to two engineers and they can just run it, versus data scientists want to have a rigorous process and rigorous thinking after, like with the A/B testing."
+    },
+    {
+      "end_seconds": 311.648,
+      "id": "youtube-uw04oIWdzTo#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.61,
+      "text": "那 how do you balance that? And the second question is, in order to convince other data scientists, your customers, data scientists, that we are providing the right tool, you basically have to know more than them, right? Do you feel that to be a necessity? But I think I'll start with like your your first question over, like how do we balance making experimentation accessible, but also being like rigorous? Yeah. And that is that is our"
+    },
+    {
+      "end_seconds": 326.551,
+      "id": "youtube-uw04oIWdzTo#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 311.648,
+      "text": "The biggest challenge we have as a data science team, actually, I think that's the biggest challenge we have as a company in general, because our tool is fairly sophisticated from a stats and analytics perspective, and"
+    },
+    {
+      "end_seconds": 354.491,
+      "id": "youtube-uw04oIWdzTo#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.551,
+      "text": "yet we're trying to put this powerful tool in the hands of people who may not fully understand statistics or may not know the definition of a p-value. I think a lot of what we're building is fueled by the fact that we've seen this work at Facebook or Meta that like you can put a powerful statistical tool in the hands of people who aren't data scientists and and have it really power product development. And so we've tried to capture"
+    },
+    {
+      "end_seconds": 368.752,
+      "id": "youtube-uw04oIWdzTo#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.491,
+      "text": "some of that nicety, but also adding our own flavor on top of that. It is tricky, and it is something that like we we we actively think about. I what we try very hard to is our our principle is that."
+    },
+    {
+      "end_seconds": 394.346,
+      "id": "youtube-uw04oIWdzTo#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.752,
+      "text": "We we will give you a lot of flexibility, but we will try to guide you through UI and design to best practices. So things like making sure that when you are deciding how long to run an experiment for, that there's a power calculator that's readily accessible. Things like if you are going to make an early decision, we actually let you know that, like, hey, it's possible this experiment is not fully powered yet."
+    },
+    {
+      "end_seconds": 405.472,
+      "id": "youtube-uw04oIWdzTo#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 394.346,
+      "text": "just little nudges like that into the UI and design that sort of like guide people where you may not fully understand like the peeking problem and like the nuances of it, but the fact that our UI is sort of like"
+    },
+    {
+      "end_seconds": 428.602,
+      "id": "youtube-uw04oIWdzTo#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 405.472,
+      "text": "sort of like pushing you to run this experiment a little longer than you maybe, or that just to let you know a warning that you are running, making an early decision. These these are just kind of the things that we've tried to build in. From your experience, what kind of knowledge or understanding does it take for someone to use the tool correctly, without the UI nudges?"
+    },
+    {
+      "end_seconds": 438.232,
+      "id": "youtube-uw04oIWdzTo#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 428.602,
+      "text": "Like not knowing the definition of p-value or not understanding the true implications of p-value, like is it okay to"
+    },
+    {
+      "end_seconds": 451.686,
+      "id": "youtube-uw04oIWdzTo#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 438.232,
+      "text": "Yeah, I think this is we we discuss this heavily a lot because like ultimately we are showing frequentist results that are that have p values and confidence intervals, and we know what those mean to statisticians."
+    },
+    {
+      "end_seconds": 475.503,
+      "id": "youtube-uw04oIWdzTo#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.686,
+      "text": "And that might not necessarily be the takeaway that someone who doesn't understand type one and type two errors will take away. But what we do want to give that people know is, like for example, like subtle indicators, like making a result green, signify that this is actually the result you are looking for. That this is, like, you know, we we all know this means it's a low p-value underneath your 95% significance threshold. And while"
+    },
+    {
+      "end_seconds": 498.434,
+      "id": "youtube-uw04oIWdzTo#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 475.503,
+      "text": "While an experimentalist may not actually know that full definition, seeing a green result should give you some confidence that that is actually what you're trying to look for when you're running this. We also do things like making sure that we encourage folks to list out their key metrics up front. That's experimental best practice. How much is the information lost? Yeah. Yeah. So we we do this."
+    },
+    {
+      "end_seconds": 522.654,
+      "id": "youtube-uw04oIWdzTo#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.434,
+      "text": "the the way our UI is designed and probably this is best for a lot of like really technical products is that we actually show you a very simple simplified version of your data where it's very distilled down and there's like very visually you can sort of like instantly get some very key takeaways but what we hope and and this is especially true in experimentation it's a lot of like peeling an onion where like whenever you see initial results"
+    },
+    {
+      "end_seconds": 537.509,
+      "id": "youtube-uw04oIWdzTo#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 522.654,
+      "text": "至少，data people will have like follow up questions immediately. Yeah, and you'll want to drill in on those. And so we actually provide in the UI like very easy ways to go deeper and deeper into more complex things, into more complex statistics. So we don't"
+    },
+    {
+      "end_seconds": 566.463,
+      "id": "youtube-uw04oIWdzTo#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 537.509,
+      "text": "我们没有简化我们的产品。我们简化了最初的版本，但是如果你想要所有的复杂统计和钻取，比如能够看到时间序列或按群组的过滤器，那都是可用的，在那里并且很容易访问。那是一个很好的观点，因为我觉得至少在Facebook或其他公司工作时，当人们看到实验结果时，数据科学家。"
+    },
+    {
+      "end_seconds": 589.127,
+      "id": "youtube-uw04oIWdzTo#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 566.463,
+      "text": "Back to a roadmap post as well. The scientists usually have hypotheses. They want to understand why this result happened, right? Versus a lot of PMs and engineers, they are looking for specific results. They are looking for the green. If they got the green, then good to go. If they don't get the green, they want to what else can I try to make it green? And sometimes they don't have hypotheses behind it."
+    },
+    {
+      "end_seconds": 616.03,
+      "id": "youtube-uw04oIWdzTo#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 589.127,
+      "text": "Yeah, this is one area that we really want to train our customers. It's like you don't want to just look for the green. You want to be able, I call it telling a complete story, that like I that your that whatever results you see should be consistent with the change that you made, and it should be somewhat expected. If you have something very unexpected, you should question that result. And so we try to make sure that that's why we ask for folks to."
+    },
+    {
+      "end_seconds": 628.843,
+      "id": "youtube-uw04oIWdzTo#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 616.03,
+      "text": "put their hypothesis down, what they expect to see, and quote some metrics that they expect to move. Things should be somewhat consistent. You shouldn't just look for green things. Just make that decision. Yeah."
+    },
+    {
+      "end_seconds": 653.846,
+      "id": "youtube-uw04oIWdzTo#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 628.843,
+      "text": "I also feel like when people have hypotheses, they usually overestimate how how often they are right. Like, which you said one third, but in the online control experiment, like one tenth of the hypotheses are as expected. Right, most of the changes they either are insignificant or even like proven to be negative. So people would have"
+    },
+    {
+      "end_seconds": 676.476,
+      "id": "youtube-uw04oIWdzTo#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 653.846,
+      "text": "frustration when when they don't see the green, and sometimes the frustration can be a question about the tools. Like I was right, and your tool is not showing me green, so your tool must be wrong. Yeah, we have this happen all the time. I find that experimentation is like super humbling, not only in like the the number of ideas that you could have that work."
+    },
+    {
+      "end_seconds": 699.496,
+      "id": "youtube-uw04oIWdzTo#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 676.476,
+      "text": "但 also in the magnitude, like very often times, like if if somebody's never done experimentation, they'll say like, oh yeah, this change is so obvious, this is gonna be so good, it's gonna be plus ten percent to revenue, and then they run it, and it may still be good, but it's like plus one percent, and it's just like you have to, I think like everyone who does experimentation sort of like knows how to calibrate downward, it never calibrates upward."
+    },
+    {
+      "end_seconds": 715.849,
+      "id": "youtube-uw04oIWdzTo#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 699.496,
+      "text": "But we also find that some companies also just have a higher batting average. So usually small companies that are working on unoptimized products, usually there's a lot more wins around. But whereas if you're at a big company like Facebook level, the number of good ideas that are out there is far fewer."
+    },
+    {
+      "end_seconds": 733.861,
+      "id": "youtube-uw04oIWdzTo#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 715.849,
+      "text": "所以， yeah， so it's a lot harder to to find those wins. But yeah, it's something we have to temper expectations of our customers. That like, hey, this is like the fact you are seeing a negative result or a neutral result is not a bad thing. Like you actually now are able to measure your impact. It's up to you what you do with it."
+    },
+    {
+      "end_seconds": 759.685,
+      "id": "youtube-uw04oIWdzTo#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 733.861,
+      "text": "I feel like this would be way easier if they like your customer have seen like worked at Facebook for example like seen this work, and it would be way harder if they never ran experiments before, or like crack experiments before. Yeah, like the latter problem is it even solvable? Like, you're 100 correct. I think our biggest challenge is."
+    },
+    {
+      "end_seconds": 779.234,
+      "id": "youtube-uw04oIWdzTo#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 759.685,
+      "text": "Getting people to realize the value of experimentation, I think if people have worked at a company like Facebook or Google or Microsoft, they sort of understand the value of experimentation. But if you're at a but if you've never been exposed to that, and you read things online, I think it's harder to convince you."
+    },
+    {
+      "end_seconds": 795.532,
+      "id": "youtube-uw04oIWdzTo#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 779.234,
+      "text": "That this is a good thing, yeah. But that's our our challenge is like to tell show people how it's done at big companies, medium sized and small companies, and what sort of learnings and how people are using it today, and why and how that's driving product development."
+    },
+    {
+      "end_seconds": 823.227,
+      "id": "youtube-uw04oIWdzTo#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 795.532,
+      "text": "Have you had examples of people not believing it at first, or very skeptical at first, and then over time start to trust it more? We're starting the chip away at that. We've have I don't think we've had somebody who's completely skeptical use our product and be convinced the other way. But we've had people who have been listen. We wanted to try Statsig for just rolling out features, and just the fact they're seeing measurement and data."
+    },
+    {
+      "end_seconds": 850.037,
+      "id": "youtube-uw04oIWdzTo#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 823.227,
+      "text": "Now they're realizing, oh, we can actually start to make decisions on this that they may not have in the past. And so I think just by the way I view it is like we're just shining a flashlight on like what your features are actually doing. It's up to you to take a look. It's up to you to interpret it. It's up to you to make decisions. But I think just showing people, just shining light on these on this data and results, has been pretty powerful so far in getting people to realize."
+    },
+    {
+      "end_seconds": 866.026,
+      "id": "youtube-uw04oIWdzTo#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 850.037,
+      "text": "The value. It is a necessary first step, but like unleashing the power or the full potential, right? I feel like there are several steps. For example, you need to just measure which which one is positive and which one is negative."
+    },
+    {
+      "end_seconds": 876.014,
+      "id": "youtube-uw04oIWdzTo#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 866.026,
+      "text": "But then you need to build hypothesis and understand the product and guide it to a better direction. That's the forward thinking part comes in."
+    },
+    {
+      "end_seconds": 886.505,
+      "id": "youtube-uw04oIWdzTo#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 876.014,
+      "text": "I think we already transitioned into the second question, so let's just just go there. What? How do you feel the, I guess talent density or whatever? Like in order to do."
+    },
+    {
+      "end_seconds": 908.47,
+      "id": "youtube-uw04oIWdzTo#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 886.505,
+      "text": "Especially step two, right? Like realizing the realizing the power of experiments. I feel like this power is step one, and unleashing the power by having hypotheses and having the experiments not only to tell you which one is positive, but also to help you learn your customer better or learn your products better. I feel like this."
+    },
+    {
+      "end_seconds": 926.914,
+      "id": "youtube-uw04oIWdzTo#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 908.47,
+      "text": "That takes talents, right? How do you feel? Yeah, I think the experimentation journey is actually like fairly long. Like when you first start using it, you can operate at one level, but it, but you have to become sort of like practice, and hopefully, like having a reliable tool supports that. But there's definitely many light layers."
+    },
+    {
+      "end_seconds": 939.442,
+      "id": "youtube-uw04oIWdzTo#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 926.914,
+      "text": "你 can get to an experimentation to the point where you're actually comfortable just trying random ideas and being able to just build it quickly and test quickly. I think that to me is where"
+    },
+    {
+      "end_seconds": 969.285,
+      "id": "youtube-uw04oIWdzTo#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 939.442,
+      "text": "Is where what we saw happen at Facebook, and what we think companies can get to eventually. But I think you're right that people have to take small steps in order to get to that point. Yeah. My question is about: Do you see the second step being done at companies or other than these big tech companies, like having hypotheses around the experiments, interpreting the results to understand the product and the people, the customers, instead of just you know this is positive, that is negative, let's move on."
+    },
+    {
+      "end_seconds": 989.907,
+      "id": "youtube-uw04oIWdzTo#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 969.285,
+      "text": "Yeah, I think when we guide people that there, we actually tell people that you should be focusing on metrics that matter to you. You should be focusing on the user experience and the metrics that you see go positive, negative or neutral should be consistent with what you think the user is experiencing. I think we different companies."
+    },
+    {
+      "end_seconds": 1006.767,
+      "id": "youtube-uw04oIWdzTo#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 989.907,
+      "text": "or at different stages, I find that if there is a data scientist on the other side, they can actually use Statsig to guide their teams to how to interpret this, and I think that's usually a faster process. But then we also have found that like purely engineering teams are able to sort of"
+    },
+    {
+      "end_seconds": 1019.863,
+      "id": "youtube-uw04oIWdzTo#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1006.767,
+      "text": "view metrics with a degree of skepticism, and so therefore start actually being able to interpret it properly. But that's a harder. I think it's easier if you have some somebody to guide that, and that's partly the role of a data scientist."
+    },
+    {
+      "end_seconds": 1037.34,
+      "id": "youtube-uw04oIWdzTo#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1019.863,
+      "text": "All right. The my question is about the distribution of data scientists at different stage of companies, right? You said you have a spectrum mixture of different companies. So very early, I guess, Series A, Series B, and then pre-IPO and big IPO companies."
+    },
+    {
+      "end_seconds": 1064.748,
+      "id": "youtube-uw04oIWdzTo#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1037.34,
+      "text": "I don't know if that's the right kind of stages, but the distribution of data scientists. Yeah, I I sort of link this to what I call data maturity, and it's very different. It's there's not really a set formula that like once you hit twenty engineers, you must have your first data scientist. We've seen some companies bring on a data person very early on, and we've seen other companies like not have any data people till they get to be like fairly large. There's not really a set formula."
+    },
+    {
+      "end_seconds": 1081.673,
+      "id": "youtube-uw04oIWdzTo#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1064.748,
+      "text": "I think for me, and and we have to work with all companies all across the spectrum. I think like and so the way I see like sort of the data maturity going is that usually you'll you'll get your first data person that will actually start putting helping your, the you know the real value of a data scientist to me is like."
+    },
+    {
+      "end_seconds": 1096.458,
+      "id": "youtube-uw04oIWdzTo#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1081.673,
+      "text": "Helping the rest of your team uplevel their analytics ability, helping them understand how to interpret data. Like the data scientists themselves can produce insights, but I think the real power is actually educating your team how to use data properly."
+    },
+    {
+      "end_seconds": 1116.536,
+      "id": "youtube-uw04oIWdzTo#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1096.458,
+      "text": "data maturity，就是，like，at the different stages of data maturity，do they only first hire a data engineer or data？I think so. If you go by the book, like I've seen like best practices, that usually you bring in a data engineer first, so they can sort of at least lay down the groundwork that like here's a few data sets and"
+    },
+    {
+      "end_seconds": 1130.598,
+      "id": "youtube-uw04oIWdzTo#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1116.536,
+      "text": "Engineers and PMs can sort of like do some basic queries on there in order to be able to get some value out, and so usually a data scientist comes after. I have seen times where your first data scientist is hired before a data engineer, but their work."
+    },
+    {
+      "end_seconds": 1160.047,
+      "id": "youtube-uw04oIWdzTo#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1130.597,
+      "text": "That they start doing at the beginning is data engineering work. Yeah, I heard this happen a lot at pharmaceutical companies actually. They like the executives want to do deep learning, they want to do AI, so they hire a lot of AI scientists and end up doing data engineering work. Yeah, I think it's one of these things where if you don't have that function at your company, it's hard to that first person you hire is actually hard to know what you're looking for. It's actually how does a person interview?"
+    },
+    {
+      "end_seconds": 1174.148,
+      "id": "youtube-uw04oIWdzTo#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1160.047,
+      "text": "someone in another field and know that they're going to be a fit for the company. It's like it's a little bit tricky. Yeah. Yeah. Then我挺想呃， advice for data scientists who want to try working at a startup."
+    },
+    {
+      "end_seconds": 1200.429,
+      "id": "youtube-uw04oIWdzTo#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1174.148,
+      "text": "Because it's very easy for engineers to jump from a big tech to a startups, but perceived as very hard for data scientists to do so. Like for example, data scientists at big companies, they are used to this nice infrastructure, clean data, and they start to. Yeah, I think it's. So I I would have two pieces of advice. One is just have a very much a startup mentality, where you are prepared to roll up your sleeves."
+    },
+    {
+      "end_seconds": 1221.804,
+      "id": "youtube-uw04oIWdzTo#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1200.429,
+      "text": "And I I tell people like get dirty with the data like there is no data task that is beneath you if you're at a startup so like even just cleaning data removing nulls like just these the basic grunt work like there's no one else to do it you have to do it that is like the first thing is just like that's the startup mentality the second one is just"
+    },
+    {
+      "end_seconds": 1236.985,
+      "id": "youtube-uw04oIWdzTo#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1221.804,
+      "text": "And maybe it's similar, but be prepared to like learn new skills. Be willing to learn new skills. Be be willing to try things that are outside your comfort zone. And so, like for example, one of the things we had to do was learn how to set up a how how to set up Spark."
+    },
+    {
+      "end_seconds": 1259.88,
+      "id": "youtube-uw04oIWdzTo#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1236.985,
+      "text": "as as for our compute, and that is not something which I would have ever thought I would know how to do. Fun fact: back at Amazon, I spent a week setting up setting up Spark to query data from data from other work. Okay, nice. But like I know that task would take a data engineer at most half a day."
+    },
+    {
+      "end_seconds": 1280.21,
+      "id": "youtube-uw04oIWdzTo#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1259.88,
+      "text": "Yeah. Yeah, and but it's it's one of these things where like there it's like and I fully know that somebody else could have done this job faster, but there's nobody else around. Yeah. You are the person, so like you have no choice but to roll up your sleeves and just find a way to do it and learn, and find the quickest way to do it. Like you know you haven't done it well, but it's good enough."
+    },
+    {
+      "end_seconds": 1298.834,
+      "id": "youtube-uw04oIWdzTo#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1280.21,
+      "text": "to move forward. So I guess it doesn't hurt to be more full stack, especially if like for startup, you have to be full stack, kind of. I yeah, I think like so when I joined Statsig, I was not full stack, but I think so. I think my recommendation is just a willingness to learn, or just an"
+    },
+    {
+      "end_seconds": 1308.66,
+      "id": "youtube-uw04oIWdzTo#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1298.834,
+      "text": "can-do attitude, like to to know, like yeah yeah, that's exactly it yeah. So just like find a way to do it."
+    },
+    {
+      "end_seconds": 1329.215,
+      "id": "youtube-uw04oIWdzTo#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1308.66,
+      "text": "And even if it's outside your comfort zone, yeah, yeah. Because you deal with a lot of startups who need data scientists, basically, right? At least they need to to run experiments. Do you think it's going to be a viable path or like growing path for data scientists or to join startup companies?"
+    },
+    {
+      "end_seconds": 1345.77,
+      "id": "youtube-uw04oIWdzTo#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1329.215,
+      "text": "或，者，，，，，，，，，，，，，，，，，"
+    },
+    {
+      "end_seconds": 1371.514,
+      "id": "youtube-uw04oIWdzTo#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1345.77,
+      "text": "when when I was at Facebook and maybe you had the same experience, I and I I had interviewed like hundreds of other data scientists and I would always just as a warm up question just ask them like hey so what how's your current company and why are you looking for a job and more than half the times they would tell me like hey I'm like the only data scientist at a small startup and all I'm doing is crunching confidence intervals yeah and"
+    },
+    {
+      "end_seconds": 1388.24,
+      "id": "youtube-uw04oIWdzTo#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1371.514,
+      "text": "and and and it sucks. and I've been there. I know, like, it's super tedious. It's one of those things where, like, if you mess up one small part of the calculation, you'll get the opposite insight. And so you you have to like triple check, quadruple check these things. It's like it's not really, it's not fun, and it doesn't feel like."
+    },
+    {
+      "end_seconds": 1414.015,
+      "id": "youtube-uw04oIWdzTo#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1388.24,
+      "text": "A company is getting their full value of their data scientists if they have them just crunching confidence intervals. So data scientists don't want to do that job, and the company probably doesn't want their data scientists doing that job. So I think our tool can come in and sort of take that very elementary level of analytics burden off of the data scientists. So now the data scientist is not crunching results; they're now focusing on more important problems, such as designing the experiment, interpreting the experiment."
+    },
+    {
+      "end_seconds": 1427.389,
+      "id": "youtube-uw04oIWdzTo#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1414.015,
+      "text": "Looking for follow-ups, like diving deep into the data and seeing what else other insights there are. I think like those, that's where a data scientist starts bringing a lot more value to their company than just crunching A/B test results."
+    },
+    {
+      "end_seconds": 1448.385,
+      "id": "youtube-uw04oIWdzTo#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1427.389,
+      "text": "So, guys, by making experiments easier and easier to run, right, and increasing the power of data scientists, we can actually have data scientists contributing more to these companies, and hopefully, we can have more data scientists working in these companies as well. Yeah. Yeah. All right. That's it. That's it."
+    },
+    {
+      "end_seconds": 1472.114,
+      "id": "youtube-uw04oIWdzTo#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1448.385,
+      "text": "Okay, thank you, Tim. Oh, awesome. Do you have any other things you want to? Uh, no. Thank you very much. Oh, but also heard Statsig is hiring data scientists. Ah, yes, we're hiring data scientists. I'm hiring. We're we're hiring data scientists and data engineers. And I think as long as we continue to succeed, we will continue to be hiring. Because even if we don't have actually job openings, but the data scientists we're looking for, they're sort of like"
+    },
+    {
+      "end_seconds": 1497.238,
+      "id": "youtube-uw04oIWdzTo#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1472.114,
+      "text": "two skills and they and one is like being able to work with customers directly, so communication skills, being able to translate statistics or complicated experimental concepts in easy plain English, is is a pretty important one. The second one is more on the technical side, so like being able to put ideas and"
+    },
+    {
+      "end_seconds": 1520.337,
+      "id": "youtube-uw04oIWdzTo#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1497.238,
+      "text": "和数据科学 concepts into code. So being able to write in SQL, being able to write in Spark, and so that might be I would call a little bit more of like a statistical engineer or an analytics engineer. Yeah, but those are the sort of two skills, and they're kind of on the opposite side of the spectrum. Applied statistic. Maybe applied statistics. Yeah. But essentially, like we need people who work and work in the code base and ship production code."
+    },
+    {
+      "end_seconds": 1548.816,
+      "id": "youtube-uw04oIWdzTo#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1520.337,
+      "text": "Nice. Yeah. Okay. What about data engineers? Data engineering is something similar. Do do you have any? We don't have any. We're looking. Yeah. I think like data modeling is something we need to bring in. So you asked what the difference is between an engineer that does works with data and a data engineer, and I mentioned there's a lot of overlap. I think one thing that doesn't overlap well is actually data modeling. And I think like data engineers who are really good at data modeling is something we're looking for."
+    },
+    {
+      "end_seconds": 1557.734,
+      "id": "youtube-uw04oIWdzTo#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1548.816,
+      "text": "Alright, okay, thank you. If you are interested, uh, you can find uh, team uh, linking. Yeah, absolutely, please. Alright, thank you, thank you, bye."
+    }
+  ],
+  "video_id": "uw04oIWdzTo",
+  "yuzheng_stance_weight": "not-evidence"
+}

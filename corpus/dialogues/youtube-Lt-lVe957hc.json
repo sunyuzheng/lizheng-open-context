@@ -1,0 +1,2310 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-Lt-lVe957hc",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2026-04-21T23:47:46Z",
+  "participant_aliases": [
+    "Howie Xu",
+    "Jason Hu",
+    "Yangqing Jia",
+    "吴中杰 Jay Wu",
+    "硅谷徐老师（Howie Xu）",
+    "贾扬清"
+  ],
+  "participant_entity_ids": [
+    "guest:howie-xu",
+    "guest:jason-hu-martian",
+    "guest:yangqing-jia",
+    "guest:zhongjie-jay-wu"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "硅谷徐老师（Howie Xu）；Jason Hu；贾扬清；吴中杰 Jay Wu",
+  "public_verified_at": "2026-10-11T01:55:15.196507+00:00",
+  "published_at": "2026-04-21",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "0021c8ace7073fe5975dfda5a7814e9834cb0a980cbaf2cdbd41b502b856a0f1",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "89ea486fdc96741670b96932006a1d166f7ad90423d3d1841ebcc2f7e3c180fc",
+    "root_receipt_sha256": "10c1b2bec49c3144af82295fc6d645da63c74ec9ed72ffcc966caf4c0ce20d7f",
+    "unresolved_count": 4
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=Lt-lVe957hc",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=Lt-lVe957hc",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "GenAI全明星：硅谷徐老师，贾扬清，Martian，吴中杰｜成本、问题、市场、现状、发展｜会员视频转公开",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 17.329,
+      "id": "youtube-Lt-lVe957hc#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "这期会员节目是四月底，我在旧金山主持了一个关于生成式AI的活动。这期活动我们邀请到了硅谷徐老师Howie，邀请到了贾扬清。"
+    },
+    {
+      "end_seconds": 35.943,
+      "id": "youtube-Lt-lVe957hc#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.329,
+      "text": "邀请到了Martian的founding engineer Jason，Opus Clip的CTO和Co-founder Jay，徐老师和贾扬清，大家都应该很熟悉了。Martian是一个Large Language Model Router，它会根据你的任务自动的帮你选择最适合处理这个任务的Large Language Model，无论是从性能、速度还是成本上。"
+    },
+    {
+      "end_seconds": 50.333,
+      "id": "youtube-Lt-lVe957hc#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.943,
+      "text": "Opus Clip应该是整个生成式AI界呃当红炸子鸡的创业公司之一。它是一个把长视频变成短视频的这样一个App，大概花了六个月的时间，就把营收做到了一千五百万美元。"
+    },
+    {
+      "end_seconds": 70.396,
+      "id": "youtube-Lt-lVe957hc#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.333,
+      "text": "如果大家对创业有所了解的话，就知道这是一个非常奇迹般的数字。所以说，我们这次嘉宾的深度是非常资深的，他们的经验来自于投资，来自于过去很长时间的积累，更来自于一线的实践。具体的嘉宾介绍和我问的问题，我就放在这个视频的description里边，大家欢迎去看。"
+    },
+    {
+      "end_seconds": 94.701,
+      "id": "youtube-Lt-lVe957hc#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.396,
+      "text": "我简单说五个我总结的亮点。第一个是嘉宾们对生成式AI呃应用成本的思考，就是它到底是一个超线性增长呢，线性增长还是一个低于线性增长？大家都知道，如果你的成本是超线性增长的话，你是不可持续的。呃，如果你是线性增长的话，基本上你都是在为OpenAI打工。如果你是这个低于线性增长的话，才可以。"
+    },
+    {
+      "end_seconds": 108.171,
+      "id": "youtube-Lt-lVe957hc#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.701,
+      "text": "那嘉宾们就分享了很多他们一线的实践，这里边不光是来自于你在用量上去了以后，你可以谈的各种各样的 deal，其实这反而是你成本优化的一个小部分，更重要的是来自于你整个环节的优化。"
+    },
+    {
+      "end_seconds": 132.39,
+      "id": "youtube-Lt-lVe957hc#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.171,
+      "text": "以及扬清提了一个非常重要的观点，就是supply chain是有这样的一个理论的，就是你的成本的优化会reward planning，就是当你的需求越确定的时候，你的成本就越低。你遵循这一条第一性原理的话，你就会发现，随着AI应用的成熟，你在工程上和在供应链管理上就有很大的降本空间。"
+    },
+    {
+      "end_seconds": 141.769,
+      "id": "youtube-Lt-lVe957hc#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.39,
+      "text": "第二个就是生成式AI和过去的软件工程其实是有一个fundamental difference的，那就是它是一个phase in，phase out。"
+    },
+    {
+      "end_seconds": 166.01,
+      "id": "youtube-Lt-lVe957hc#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 141.769,
+      "text": "呃，扬清说的是 sloppy in, sloppy out，就是它有很强的不确定性，但是这个不确定性也导致我们可以做很多之前的软件所做不到的事情。所以说，怎么样子去运用这一点，是一个很具有挑战，但是有很很有机会的一个领域。具体在边在视频里面有说，想了解的话就直接去看视频就好了。第三个就是它会是一个 centralized 还是 decentralized？"
+    },
+    {
+      "end_seconds": 172.508,
+      "id": "youtube-Lt-lVe957hc#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 166.01,
+      "text": "那这里主要是Howie的理论，大家也表示赞同，就是它其实会是一个钟摆。你如果去看整个。"
+    },
+    {
+      "end_seconds": 197.25,
+      "id": "youtube-Lt-lVe957hc#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 172.508,
+      "text": "Computing history的话，它也是一个钟摆，它会在这个钟摆下不断前进。第四个，想要去做好生成式AI的应用，现在最需要被解决的环节之一就是evaluation。这也说了他们的经验，就是他们如何用AI去evaluate其他AI的，也是一个非常有意思的技术方案。然后大家的总结就是，其实你无论是做生成式AI的应用，还是做其他应用，"
+    },
+    {
+      "end_seconds": 223.463,
+      "id": "youtube-Lt-lVe957hc#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.25,
+      "text": "你的 domain knowledge 最后才是你的护城河。那你对 domain knowledge 的理解，就能让你能更好的去 evaluate AI，从而放大 AI 的效果。最后一个呢，就是在整个对话中不断的提出来，尤其是扬清会不断的 remind 我们，其实我们现在看似遇到的新问题，都是有呃 old solution 的，包括如何用一个概率的方法去解决分布式系统的不确定性。"
+    },
+    {
+      "end_seconds": 252.805,
+      "id": "youtube-Lt-lVe957hc#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.463,
+      "text": "可是这些 old solution 是需要大家去做的，所以说大家与其坐在这里抱怨 G A I 有什么 hallucination 的问题，或者说啊没有办法和我以前的这个生态很好的结合，其实更多的这些是机会，这些是需要大家去解决的。这插播一下，我跟鸭哥的那个 Maven's Course 其实讲的就是这一点，就是我们必须要有一个 builders mindset，我们去解决问题，你才能抓住那些机会。你等着别人解决问题的话，你是抓不住那些机会的。这里就是我的小总结。"
+    },
+    {
+      "end_seconds": 262.671,
+      "id": "youtube-Lt-lVe957hc#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 252.805,
+      "text": "任何一个总结对原文都是有很强的信息压缩和信息损失的，所以说我非常建议大家直接去听嘉宾到底是怎么说的。"
+    },
+    {
+      "end_seconds": 285.754,
+      "id": "youtube-Lt-lVe957hc#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 262.671,
+      "text": "还有一个抱歉的点就是，我只有前十几分钟录上了，后面我的机器过热没有录上，但是我在主持就没有看到，所以说后面就只有声音没有画面。我们给大家会放一些活动现场的精美照片，但是确实就没有嘉宾这个聊天的对话画面了。好，在这里向大家说一声抱歉，那我们就开始吧。Hey everyone，Hi everyone。"
+    },
+    {
+      "end_seconds": 309.917,
+      "id": "youtube-Lt-lVe957hc#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.754,
+      "text": "We're gonna get started in just a minute or two here. So if you want to grab a drink or a snack and then find a seat, sorry, we're gonna get started in just a minute or two. If you want to find a drink or a snack and then find a seat, that would be awesome. Thank you."
+    },
+    {
+      "end_seconds": 334.481,
+      "id": "youtube-Lt-lVe957hc#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 309.916,
+      "text": "哦，进来了！啊，进来了！进来了！要要，这边让这个来是吧？"
+    },
+    {
+      "end_seconds": 352.014,
+      "id": "youtube-Lt-lVe957hc#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 334.481,
+      "text": "Testing one."
+    },
+    {
+      "end_seconds": 378.791,
+      "id": "youtube-Lt-lVe957hc#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.014,
+      "text": "Testing two. Testing one."
+    },
+    {
+      "end_seconds": 402.148,
+      "id": "youtube-Lt-lVe957hc#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 378.791,
+      "text": "All right. Hello."
+    },
+    {
+      "end_seconds": 421.565,
+      "id": "youtube-Lt-lVe957hc#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 402.148,
+      "text": "Let's check. I think it's check, check, check, check, check, check. Can you hear me? Okay."
+    },
+    {
+      "end_seconds": 433.599,
+      "id": "youtube-Lt-lVe957hc#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 421.565,
+      "text": "Could you check one degree? Yeah. Hello. Hello. Yeah. Nice. All right. Thank you, everyone. Welcome to AB Talk and at social hour."
+    },
+    {
+      "end_seconds": 451.733,
+      "id": "youtube-Lt-lVe957hc#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 433.599,
+      "text": "A lot of people ask me why AB Talks. It is because this event is sponsored by our company, Statsig. Statsig is a modern data platform for pilot development. We offer essential tools such as feature gates, experimentation, and analytics."
+    },
+    {
+      "end_seconds": 476.153,
+      "id": "youtube-Lt-lVe957hc#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.733,
+      "text": "Statsig is hosting this event for the sake of the community, and also because we are we provide services to a lot of AI companies, such as OpenAI, Anthropic, and Character AI. So we want to learn from the AI community about the best practices in product development in the Gen AI era. So that is the house cleaning."
+    },
+    {
+      "end_seconds": 497.738,
+      "id": "youtube-Lt-lVe957hc#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 476.153,
+      "text": "Our team member, Morgan is the event manager there. If you need anything, just go to Morgan. Jesse is our head head of head of recruiting. We are 100% onsite at Bellevue, but if you're interested, we have a lot of position open. And Brock, our yeah, dive relationship."
+    },
+    {
+      "end_seconds": 516.256,
+      "id": "youtube-Lt-lVe957hc#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 497.738,
+      "text": "Yeah. So if you need anything, just find one of us. Let me do a quick intro about our speakers tonight. We are honored to invite Ah Hui, Ah Yangqing, Jason, and Jay here. So I prepared a little bit introduction if you don't know them before."
+    },
+    {
+      "end_seconds": 536.576,
+      "id": "youtube-Lt-lVe957hc#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 516.256,
+      "text": "So first, Howie is a seasoned technology veteran in Silicon Valley, with a career that began by founding VMware's network division, now a multi-billion-dollar revenue business. His diverse experience spans founding startups, holding executive positions at industry-leading companies."
+    },
+    {
+      "end_seconds": 549.594,
+      "id": "youtube-Lt-lVe957hc#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 536.576,
+      "text": "Serving as an entrepreneur in residence at Greylock Partners and mentoring and teaching at prestigious institutions such as Stanford University and leading B two B accelerator Alchemist."
+    },
+    {
+      "end_seconds": 579.164,
+      "id": "youtube-Lt-lVe957hc#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 549.594,
+      "text": "Howie has recently started a YouTube channel. It's called Byte Into Future. Make sure to subscribe now, and he will host some amazing entrepreneurs and do live streaming from the iconic New York New York Stock Exchange floor in just two weeks. So, Byte Into Future. Make sure to subscribe. Next, I'm pleased to introduce Yangqing, the founder and CEO of Lepton AI, one of the top-performing generative AI infrastructure service platforms."
+    },
+    {
+      "end_seconds": 590.228,
+      "id": "youtube-Lt-lVe957hc#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 579.164,
+      "text": "Remarkably, using Lattice infrastructure, Yangqing developed a large language model-based search engine with just 500 lines of code in less than a week."
+    },
+    {
+      "end_seconds": 613.235,
+      "id": "youtube-Lt-lVe957hc#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 590.228,
+      "text": "Which he then open sourced, and I want to add, and sparked sparked a debate with the CEO of Perplexity AI. A very friendly conversation. Friendly conversation. You can check the Twitter thread. Prior to Lepton Yangqing was a vice president at Alibaba and the director of AI infrastructure at Facebook."
+    },
+    {
+      "end_seconds": 630.767,
+      "id": "youtube-Lt-lVe957hc#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 613.235,
+      "text": "There, he created Caffe, Caffe2. Uh, Caffe2, Caffe was actually back in the grad school days, back at Berkeley, cross the, cross the bridge. Oh, nice. And ONNX, among other things, and he collabed the development of PyTorch, which has become the most popular machine learning framework."
+    },
+    {
+      "end_seconds": 641.536,
+      "id": "youtube-Lt-lVe957hc#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 630.767,
+      "text": "Yeah, actually, since we're already making advertisement with you know YouTube channels and hiring things like that, we recently, well, we're an a infra company, so people always wonder what a infra company"
+    },
+    {
+      "end_seconds": 662.11,
+      "id": "youtube-Lt-lVe957hc#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 641.536,
+      "text": "Do and we we we we made a really cute little Chrome extension called Elmo Chat. Elmo as you know Sesame Street Elmo. So if you go to Elmo Chat, you can basically download, install it as Chrome extension. What it does is it summarizes every single web page for you, whether it be news articles, be Hacker News posts."
+    },
+    {
+      "end_seconds": 674.984,
+      "id": "youtube-Lt-lVe957hc#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 662.11,
+      "text": "Twitter discussions, YouTube videos, PDF and things like that. So completely free. This is basically our way of basically introducing something that could be used by users and run completely on the on the Appian platform. So if interested."
+    },
+    {
+      "end_seconds": 693.101,
+      "id": "youtube-Lt-lVe957hc#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 674.984,
+      "text": "Check it out, it's Elmo chat, and yeah, completely free, pretty high quality. And I apologize, my big stupid head covering the screen. No, it's perfect. And I actually was gonna plug in that in my first question because the first question is about product, but great job, thank you. Oh, thanks. Jump the gun."
+    },
+    {
+      "end_seconds": 712.44,
+      "id": "youtube-Lt-lVe957hc#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.101,
+      "text": "And next one, we have Jason. Jason is the founding engineer at Martian. And Martian is a fast-growing LLM router launched last year. If you don't know what a router is, Martian router is about selecting the best AI solution for your tasks."
+    },
+    {
+      "end_seconds": 734.778,
+      "id": "youtube-Lt-lVe957hc#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 712.44,
+      "text": "And is already adopted by developers from over 300 companies, including OpenAI and Amazon. Before Martian, Jason did research at Chicago Human Plus AI Lab and Baidu. He he leads one of the largest AI communities in the Bay Area, Aligns AI, with speakers and community members from OpenAI, NVIDIA, Stanford, and more."
+    },
+    {
+      "end_seconds": 745.381,
+      "id": "youtube-Lt-lVe957hc#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 734.778,
+      "text": "Since we're also doing ads, everyone, please follow our Aligns AI Twitter, A L I G N S . AI, and we constantly hold events in Cal Space, so everyone's welcome."
+    },
+    {
+      "end_seconds": 752.069,
+      "id": "youtube-Lt-lVe957hc#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.38,
+      "text": "对， and the last one, I don't think you even need to do that because the introduction is about your product."
+    },
+    {
+      "end_seconds": 776.321,
+      "id": "youtube-Lt-lVe957hc#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 752.069,
+      "text": "Jay is the co-founder and CTO of Opus Clip. His startup pivoted from a streaming tool to the current AI video clipping product in 2023 and launched in the in June that year. In less than a year, Opus Clip is reaching 15 million annual recurring revenue and is growing fast. So, if you are familiar with startups, you should know how crazy this growth is."
+    },
+    {
+      "end_seconds": 786.872,
+      "id": "youtube-Lt-lVe957hc#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 776.321,
+      "text": "I am a heavy user of Opus Clip myself, and I just found out that that Howie is also one. But I'm a paying member, and I think Howie is still on the feature right now."
+    },
+    {
+      "end_seconds": 809.074,
+      "id": "youtube-Lt-lVe957hc#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 786.872,
+      "text": "Yeah, you know, paying user. Oh, you already paid? Because I started this YouTube channel. Speaking of commercial, make sure you subscribe, because that's also supporting the Opus as well. Nice. Yeah, and before that, Jay was an engineer manager at Airbnb and engineer at LinkedIn with a broad spectrum of engineering practices."
+    },
+    {
+      "end_seconds": 835.085,
+      "id": "youtube-Lt-lVe957hc#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 809.074,
+      "text": "So that's our introduction. As you can see, we invited speakers in the Gen AI space, not only in the product, but also middleware and infra. So today we hope to go to some deep questions. I prepared a list of questions, but even if we just cover one, but cover a lot of perspectives, I think it's still good. We'll leave twenty minutes for audience Q&A as well."
+    },
+    {
+      "end_seconds": 856.617,
+      "id": "youtube-Lt-lVe957hc#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 835.085,
+      "text": "Alright, so I'll just start, and the first question I'll start with Jay, is building GenAI products fundamentally different? So, check check, is it working? Yeah, okay, so yeah, there are definitely things that are different, and some things are."
+    },
+    {
+      "end_seconds": 880.593,
+      "id": "youtube-Lt-lVe957hc#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 856.617,
+      "text": "Thanks. So some of the things are different. Some of the things stay the same. So let me talk about the things that doesn't change. So when you build a product, you still need to understand deeply what the user need. So you can refer to these theorems such as jobs to be done. And of course."
+    },
+    {
+      "end_seconds": 905.274,
+      "id": "youtube-Lt-lVe957hc#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 880.593,
+      "text": "So also like things like design and marketing is still very important. When people talk about Gen AI applications, you might think that we need a line of input like Chat GPT and you don't need the design. That's pretty much wrong. At least in my product, we still build a relatively good, beautiful product that is easy to use."
+    },
+    {
+      "end_seconds": 919.269,
+      "id": "youtube-Lt-lVe957hc#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 905.274,
+      "text": "And also, marketing is important. We had a growth that was pretty good because we built relationship with different influencers during the previous not so successful product. When we launch this product."
+    },
+    {
+      "end_seconds": 938.998,
+      "id": "youtube-Lt-lVe957hc#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 919.269,
+      "text": "people that we knew were so excited that they decided to talk about our product for free, because it makes them cool and they they really love the product. But if you don't know these people, well, you don't you're not so ready about marketing, then you might be a follower. A similar product might just be."
+    },
+    {
+      "end_seconds": 956.124,
+      "id": "youtube-Lt-lVe957hc#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 938.998,
+      "text": "a leader position in the market, and you may not have these free traffic. So, of course, there are things that are different. For example, user tolerance is typically higher compared to more."
+    },
+    {
+      "end_seconds": 973.378,
+      "id": "youtube-Lt-lVe957hc#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 956.124,
+      "text": "incumbent spaces, people know that it's a AI product and they know that it's very new. that the technical aspect could be different and challenging. So people are so excited that it gives them a lot of productivity, but at the same time, they are okay with some of the bugs."
+    },
+    {
+      "end_seconds": 996.818,
+      "id": "youtube-Lt-lVe957hc#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 973.378,
+      "text": "And also, cost can be a lot of a concern. So we started by having five x more, even ten x more cost per processing power we provide to the user in the beginning. And we tried really hard to bring it down so that we can reach cash positive. Otherwise, we just be working for OpenAI basically."
+    },
+    {
+      "end_seconds": 1006.829,
+      "id": "youtube-Lt-lVe957hc#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 996.818,
+      "text": "And at the same times, we I can see a lot of our competitors. They were not having the mass scale effect."
+    },
+    {
+      "end_seconds": 1021.882,
+      "id": "youtube-Lt-lVe957hc#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1006.829,
+      "text": "Which economy of scale? So they could be really suffer from higher cost. And in the long term, a much higher cost efficiency can be really important for your product. So."
+    },
+    {
+      "end_seconds": 1032.935,
+      "id": "youtube-Lt-lVe957hc#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1021.882,
+      "text": "something that is very different is prompt engineering becomes a thing and it's quite new and has some implications."
+    },
+    {
+      "end_seconds": 1053.278,
+      "id": "youtube-Lt-lVe957hc#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1032.935,
+      "text": "呃，during your collaboration because before you might have a bunch of research engineers, uh, they they are AI engineers, they train the model and they finish everything. But during the prompt engineering era, you probably don't need uh many hardcore AI engineers, but you need people who can write prompts."
+    },
+    {
+      "end_seconds": 1067.148,
+      "id": "youtube-Lt-lVe957hc#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1053.278,
+      "text": "And these people could be product managers or product operation people. They need to work in joint with your AI engineer, so to write prompts, tune the prompts, and make things work."
+    },
+    {
+      "end_seconds": 1076.27,
+      "id": "youtube-Lt-lVe957hc#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1067.148,
+      "text": "So that's pretty much, I think, answer from me. Nice. We can do freestyle, or we can do around, maybe count clockwise."
+    },
+    {
+      "end_seconds": 1094.567,
+      "id": "youtube-Lt-lVe957hc#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1076.27,
+      "text": "Sure, I think it's very, very different from the last generation of the software, both on the enterprise software and then consumer software. Let me talk a little bit more on the enterprise software, which I know a lot."
+    },
+    {
+      "end_seconds": 1110.256,
+      "id": "youtube-Lt-lVe957hc#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1094.567,
+      "text": "So if you think about enterprise software, preciseness, correctness is very important, and the predictability, reproducibility is very important. And there's no reproducibility with, uh, GenAI application. Now."
+    },
+    {
+      "end_seconds": 1122.653,
+      "id": "youtube-Lt-lVe957hc#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1110.256,
+      "text": "Some use cases like you know text to SQL generating a you know table generating the result, you cannot be wrong even one out of many times, let alone you know one out of hundred times, which is"
+    },
+    {
+      "end_seconds": 1149.741,
+      "id": "youtube-Lt-lVe957hc#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1122.653,
+      "text": "You're already pretty good if you are right 99 out of the 100 times. So you have to rethink about how do you do it right. It's not the end of the world because what you're doing, what you're going to do is actually you limit the input space, output space, and somehow figure out a way so that the result is actually a lot more predictable, way more than you know OpenAI APIs allow you to do. So you have to re rethink about it. That's sort of under under just the software side design."
+    },
+    {
+      "end_seconds": 1178.959,
+      "id": "youtube-Lt-lVe957hc#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1149.741,
+      "text": "And then, you know, we all know that QA is another aspect, an important aspect of the software. And the QA thing is totally different. Like, especially if this is text-based, like what is correct, what is not correct, who's going to label it for you? Who's going to tell you this is correct? In the in the traditional software, you sort of do a happy path, and then you figure out some corner case, right? You know, extremely large number, you know, extremely low number, zero, minus, you know, whatever."
+    },
+    {
+      "end_seconds": 1195.83,
+      "id": "youtube-Lt-lVe957hc#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1178.959,
+      "text": "So you kind of know that if if this this software is right for five and six and eight, you know that if input is ten and eleven, it's likely correct. But you need to figure out whether when it's zero, input zero or minus one or you know infinite large number, whether that's still correct."
+    },
+    {
+      "end_seconds": 1208.934,
+      "id": "youtube-Lt-lVe957hc#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1195.83,
+      "text": "But in the in the in the generative way, it's unclear to me if I change, you know, add one character, maybe the output is totally different for one reason or another, right? So so it's a lot less predictable. So it actually adds."
+    },
+    {
+      "end_seconds": 1237.613,
+      "id": "youtube-Lt-lVe957hc#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1208.934,
+      "text": "I think we as industry need to rethink about how to do human QA. What does that What does that mean to do QA in the enterprise software? So I'm just giving you a few examples. So one of the reasons you see that you know there are not enough of the enterprise general application being in production is because you know the kind of the issues I was talking about. In December 2023, there was an article from CNBC."
+    },
+    {
+      "end_seconds": 1262.352,
+      "id": "youtube-Lt-lVe957hc#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1237.613,
+      "text": "You can search it. It's basically the title of the article is \"2023 is a year that you know hefty, hefty profits for Nvidia, and then lofty experiments for the rest.\" Which captured pretty accurately what was going on in 2023. I'm pretty sure that 2024 is going to be a lot, well, somewhat better. Whether it's a lot better or not, we'll see."
+    },
+    {
+      "end_seconds": 1275.056,
+      "id": "youtube-Lt-lVe957hc#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1262.352,
+      "text": "And if if you think about why it's sort of so many lofty experiments, but a lot less production, it has to do with the software nature is very different."
+    },
+    {
+      "end_seconds": 1296.079,
+      "id": "youtube-Lt-lVe957hc#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1275.056,
+      "text": "So, so that's just that, right? And then, of course, you know, I'm not necessarily the expert in the consumer software. I think there is something very similar in that. It's very different. Now, for the consumer software, there's one thing that potentially you have advantages, like the kind of things that."
+    },
+    {
+      "end_seconds": 1318.557,
+      "id": "youtube-Lt-lVe957hc#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1296.079,
+      "text": "Jay is doing right, you know. You generate, you know, basically, I give you a video, you generate some clips. But there's no correct answer, right? It could be, you know, one and a half minute, it could be one one minute. So you have more leeway, you know, to sort of make sure that customers or the clients or myself, I'm actually a customer, right? You know, even if you give me one minute or a minute and a half."
+    },
+    {
+      "end_seconds": 1347.29,
+      "id": "youtube-Lt-lVe957hc#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1318.557,
+      "text": "That's fine, right? So, so you have some leeway. You, you, there's more tolerance. I think Jay mentioned it. But that doesn't mean that the that does not mean the problem is much easier. For instance, right? Just because I care a little bit less whether the end result should be one minute and a half and one minute, but ultimately there's still a satisfaction, right? So if the one minute and a half video always, you know."
+    },
+    {
+      "end_seconds": 1372.777,
+      "id": "youtube-Lt-lVe957hc#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1347.29,
+      "text": "Below my expectation, it's still going to be, it's still not, you know, you know. If if that's the case, I wouldn't use the software, right? You know, I feel like above my expectation, I use it. But how do you make sure your software is actually reach that above that threshold, and then predictably get to that state? It's actually not easy. Your feedback loop is a little bit fuzzy in terms of what is correct, what is not correct."
+    },
+    {
+      "end_seconds": 1383.473,
+      "id": "youtube-Lt-lVe957hc#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1372.777,
+      "text": "So overall, my feeling is the software is very, very different in generative AI, you know, era than the previous generation."
+    },
+    {
+      "end_seconds": 1407.638,
+      "id": "youtube-Lt-lVe957hc#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1383.473,
+      "text": "Thank you. And one thing I pick up from the answer is, seems like generative AI is a paradigm shift. And for a paradigm shift, it's fundamentally new. Then maybe the old way of doing things cannot be just continued. You have to think about the new way. Which we can deep dive in my question number three. But before that, thank you. Yeah, I think Hao actually made a really good summarization already. But"
+    },
+    {
+      "end_seconds": 1421.799,
+      "id": "youtube-Lt-lVe957hc#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1407.638,
+      "text": "Let me describe it in a mathematical way. I think it's going to be different, mainly because the way of interaction is different. In the old days, computer science is all about going from the sloppy input."
+    },
+    {
+      "end_seconds": 1437.094,
+      "id": "youtube-Lt-lVe957hc#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1421.799,
+      "text": "Our abstract needs and things like that, very quickly into a logical world, whether it be a piece of code, some sort of JSON, some sort of APIs and things like that. Right? We have very sloppy input, and then very fixed output."
+    },
+    {
+      "end_seconds": 1449.329,
+      "id": "youtube-Lt-lVe957hc#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1437.094,
+      "text": "And now suddenly, this whole thing just changed. With ChatGPT, you find that this AI has become a black box and some sort of really sloppy, random output, right? I mean, for human action, it's fine, but"
+    },
+    {
+      "end_seconds": 1470.117,
+      "id": "youtube-Lt-lVe957hc#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1449.329,
+      "text": "It just, you know, like how do you actually connect ChatGPT output to like a database query, right? So as a result, I think basically two things started emerging, which wasn't, you know, like wasn't some important stuff back in the days where we all worked with APIs and computers talked to each other. One is basically we started building applications on top of the sloppy input, sloppy output kind of situation."
+    },
+    {
+      "end_seconds": 1487.02,
+      "id": "youtube-Lt-lVe957hc#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1470.117,
+      "text": "Right, there's all kinds of AIGC companies. There are chatbots. There are, you know, like say, well, even search becomes kind of sloppy because you just search for something that gives you an answer. It doesn't really give you fixed results or things like that, fixed pages. It just gives you sloppy answer, which, which even isn't."
+    },
+    {
+      "end_seconds": 1515.403,
+      "id": "youtube-Lt-lVe957hc#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1487.02,
+      "text": "Isn't like completely correct. So that's basically user experience starts changing. We see quite a lot of really awesome product managers actually utilizing those kind of tools to create new experiences, new um like new new functionalities and things like that. Because our world, when we interact with this world, we are so comfortable with sloppiness. And that's basically one thing. The other thing, the second thing, is basically we are starting actually only starting."
+    },
+    {
+      "end_seconds": 1524.465,
+      "id": "youtube-Lt-lVe957hc#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1515.403,
+      "text": "To basically solidify the old way, but using AI technology, we still want to go from a sloppy world, sloppy inputs."
+    },
+    {
+      "end_seconds": 1545.214,
+      "id": "youtube-Lt-lVe957hc#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1524.465,
+      "text": "to a fixed logical world, like code generation is one, right? And you might have heard about, you know, like say language to SQL, which is another one. And there's a lot of other examples. And that's why we see a lot of work starting to actually kind of put in shackles on, on put put put put in handcuffs on the large language models."
+    },
+    {
+      "end_seconds": 1558.213,
+      "id": "youtube-Lt-lVe957hc#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1545.214,
+      "text": "We have JSON output. We have function call and things like that. At the very bottom, we're we're defending the old model, which is a sloppy input and a fixed output, a fixed logical world, because that is still."
+    },
+    {
+      "end_seconds": 1578.204,
+      "id": "youtube-Lt-lVe957hc#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1558.213,
+      "text": "hugely important. So I think you know, like basically the first one is completely new sloppy inputs to with sloppy output enabled by AI G C N L L M S, and the second one is basically since we want to take these kind of new technology into the existing work pipelines, and there's quite a lot of peripheral tools and functionality and things like that that needs to be done. I think these are the two different parts."
+    },
+    {
+      "end_seconds": 1590.974,
+      "id": "youtube-Lt-lVe957hc#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1578.204,
+      "text": "Nice. This reminds me of a podcast we did with Jason, and I used the word \"fuzzy\" input, fuzzy output. Is that the industry standard? It's kind of equivalent, basically. Oh, I made it up, so it's not standard for sure. Cool."
+    },
+    {
+      "end_seconds": 1610.803,
+      "id": "youtube-Lt-lVe957hc#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1590.974,
+      "text": "Yeah, just yeah. I think Yangqing's point is very, very interesting. And we're seeing different modalities modalities in the like how LLM computation interact with traditional computation, right? On one hand, we have you know traditional software which is totally deterministic. We have you know JSON formatted output which try to make LLMs more deterministic."
+    },
+    {
+      "end_seconds": 1633.702,
+      "id": "youtube-Lt-lVe957hc#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1610.803,
+      "text": "We have something more like you know DSP, which is a project led by Stanford NLP people, which is to try to replicate this PyTorch architecture, but the underlying computation is all you know based on text, based on LM. And we have the most fuzzy ones, right? Like just like ChatGPT, most creative. I think it's very interesting to see what kind of those modes of computation would prevail in what kind of scenarios."
+    },
+    {
+      "end_seconds": 1649.444,
+      "id": "youtube-Lt-lVe957hc#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1633.702,
+      "text": "Um and some other points I would like to bring. So I think the difference between AI software and traditional software. The first is the differentiating marginal cost. I think in traditional software, like the usage increase, the cost."
+    },
+    {
+      "end_seconds": 1671.937,
+      "id": "youtube-Lt-lVe957hc#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1649.444,
+      "text": "is a sublinear function of usage, right? Like, I can buy a one hundred dollar server, and it can serve. I serve one hundred people, it's the same cost. A thousand people is the same cost. A ten thousand maybe the same cost. So it's like maybe more a little bit more expensive, but not that much. But for LM, like I call one time G D four, it can be a ten cent, two times twenty cents. The linear function."
+    },
+    {
+      "end_seconds": 1685.657,
+      "id": "youtube-Lt-lVe957hc#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1671.937,
+      "text": "So actually, we are working with many application clients, and they are much, much more cost sensitive than um they are with let's say AWS or traditional cloud software, because it's the marginal cost of using AI is so, so high."
+    },
+    {
+      "end_seconds": 1706.098,
+      "id": "youtube-Lt-lVe957hc#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1685.657,
+      "text": "嗯，and another thing I would like to mention is, um, I think when you think about to what extent AI applications can have network effect as enjoyed by traditional, um, let's say social media, right? Because, let's say in Google or Facebook, um, their recommendation engine, um, can be better and better if more people are using it, if there's more data on the platform."
+    },
+    {
+      "end_seconds": 1719.111,
+      "id": "youtube-Lt-lVe957hc#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1706.098,
+      "text": "However, for someone using OpenAI API, it's very hard for you to use your own data to improve the performance of the AI API you're calling, right? So, what would be the mode in the long term for AI application companies?"
+    },
+    {
+      "end_seconds": 1731.675,
+      "id": "youtube-Lt-lVe957hc#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1719.111,
+      "text": "I think this is a task that every application company to figure out. I want to double click on the cost thing because, yeah, the linear relationship is."
+    },
+    {
+      "end_seconds": 1755.202,
+      "id": "youtube-Lt-lVe957hc#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1731.675,
+      "text": "worrisome, and I heard Jay, you mentioned the economy of scale. So you must have done something to reduce the cost to maybe try to bend the curve to sublinear. And Yangqing, you are an infra company, so must you know have a lot of experiences in optimizing. So any insights on how to get the cost to sublinear relationship?"
+    },
+    {
+      "end_seconds": 1776.023,
+      "id": "youtube-Lt-lVe957hc#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1755.202,
+      "text": "So from from our usage, the way to look at building the infra or optimizing the cost is like basically the same as the company Tesla. So they started out by building a car that sells for five hundred fifty thousand dollars Model S."
+    },
+    {
+      "end_seconds": 1802.904,
+      "id": "youtube-Lt-lVe957hc#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1776.023,
+      "text": "I think it's more than that. It's a hundred thousand, and then you start to build. They start to build Model Three, which is a relatively high. They start to sell the dual motor version, and then they start to sell a more basic version and drive the cost down. So it's not that they are giving worse and worse cars or or simpler cars, but they also during their production, they optimize all of their techniques."
+    },
+    {
+      "end_seconds": 1811.68,
+      "id": "youtube-Lt-lVe957hc#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1802.904,
+      "text": "Optimize their supply chain, and the cost goes down. So it's the same as when you build a AIGC related product."
+    },
+    {
+      "end_seconds": 1821.808,
+      "id": "youtube-Lt-lVe957hc#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1811.68,
+      "text": "In the beginning, you may you may have a very expensive cost structure. Your usage is low, and OpenAI don't give you discounts."
+    },
+    {
+      "end_seconds": 1850.58,
+      "id": "youtube-Lt-lVe957hc#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1821.808,
+      "text": "And the more you use it, you start to get good deals from vendors such as OpenAI. You get counter offers from Google Gemini, and you also start to optimize your clusters. Ah, you optimize the usage of your GPUs, and all these things come up together. You can project maybe a eighty percent saving on your costs overall. So, ah, you need to project your pricing, ah, to be, ah."
+    },
+    {
+      "end_seconds": 1868.165,
+      "id": "youtube-Lt-lVe957hc#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1850.58,
+      "text": "to to so that after you have a saving of eighty percent, you make a reasonable profit. So in the beginning, then you probably are operating at loss. But as as long as you put engineering effort into optimization, you will get you will get much better ah costs."
+    },
+    {
+      "end_seconds": 1880.782,
+      "id": "youtube-Lt-lVe957hc#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1868.165,
+      "text": "Can I ask a question? So for the eighty percent cost reduction, what are the percentage that's from negotiating with AI providers like OpenAI? What's the percentage that's from negotiating with traditional like AWS or GCP?"
+    },
+    {
+      "end_seconds": 1907.501,
+      "id": "youtube-Lt-lVe957hc#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1880.782,
+      "text": "So OpenAI has this product called provisioned throughput, which basically you commit to a certain number of tokens per minute for three months or one month. They give you a discount on the on on on the cost, which is roughly it depends on how much, but can range from five percent to up to fifty percent."
+    },
+    {
+      "end_seconds": 1933.294,
+      "id": "youtube-Lt-lVe957hc#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1907.501,
+      "text": "And traditional cloud providers, they usually offer. If you are using on-demand like-ish instances, they typically can can go down by seventy percent. If you are using these super cheap on-spot instances, you probably still can squeeze an extra twenty percent out if you sign up on some of their commitment program."
+    },
+    {
+      "end_seconds": 1942.719,
+      "id": "youtube-Lt-lVe957hc#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1933.294,
+      "text": "So, and then on top of that, you have cost cluster optimizations. You have algorithm optimizations. In my case."
+    },
+    {
+      "end_seconds": 1959.843,
+      "id": "youtube-Lt-lVe957hc#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1942.719,
+      "text": "I hired a superstar in audio video engineering, and he wrote a code to replace my gigantic FFmpeg code, and saved sixty to eighty percent during the the rendering pipeline. So, they are all huge savings."
+    },
+    {
+      "end_seconds": 1972.3,
+      "id": "youtube-Lt-lVe957hc#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1959.843,
+      "text": "I have to do a plug-in here. OpusClip also recently sent with Statsig to be our enterprise user, so use Statsig extensively. Does A/B testing help?"
+    },
+    {
+      "end_seconds": 1983.765,
+      "id": "youtube-Lt-lVe957hc#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1972.3,
+      "text": "I'm actually prepared to answer that during the Q&A part. Yeah, yeah, I can give more detailed answer when we talk about that. Let's move to the Q&A. Yeah, okay."
+    },
+    {
+      "end_seconds": 2003.377,
+      "id": "youtube-Lt-lVe957hc#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1983.765,
+      "text": "I'm actually not particularly worried about cost. The reason is simple: supply chain is all from, and there's all kinds of existing knowledge that does it. And we're actually chatting just now, right, about this. There's one simple rule in supply chain that applies in AI as well, which is."
+    },
+    {
+      "end_seconds": 2027.515,
+      "id": "youtube-Lt-lVe957hc#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2003.377,
+      "text": "Predictability is rewarded with a lower price. Right now, let me take all those kind of crazy gigapositions, no CUDA kernels and things like that. Those are crazy. Let me just throw it out. Right, let's make coffee an example. Right, you walk into Starbucks, you want to get a latte. Randomly, right? What do you get? Five dollars, right? Or sometimes that, about that price. Now."
+    },
+    {
+      "end_seconds": 2047.311,
+      "id": "youtube-Lt-lVe957hc#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2027.515,
+      "text": "In other cases, you walk into Starbucks and it's like, I want a hundred cups of latte right now. What will happen? Five dollars. Do the same price, and but you'll suffer, and the bartender or whatever that person is called, they will suffer as well, because you have to wait for a long time for that a hundred cups to come, right?"
+    },
+    {
+      "end_seconds": 2067.749,
+      "id": "youtube-Lt-lVe957hc#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2047.311,
+      "text": "But if you tell Starbucks for the next whole year, every day in the morning, I'm basically running the company with a hundred people. I'm going every morning at nine a.m. I'm going to ask in for a hundred cups coffee delivered to my front to my front desk. What price you you will get in? You will get in a very good discount."
+    },
+    {
+      "end_seconds": 2086.086,
+      "id": "youtube-Lt-lVe957hc#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2067.749,
+      "text": "And delivery time is good, right? Because you are actually doing a very good predictability in supply chain. This whole thing happens all the time. And then, you know, like basically for retail, the price is always higher. And then if you go to Costco or basically if you have bulk purchases things like that, at a predictable rate, you'll get a discount."
+    },
+    {
+      "end_seconds": 2110.686,
+      "id": "youtube-Lt-lVe957hc#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2086.086,
+      "text": "Today, a lot of these AI applications are just starting, and basically we're just the on-demand, the the the the the Starbucks purchase concentration, right? Or in some cases, because people are not really predicting their usage, then sometimes there's a hundred cup Starbucks concentration, which makes everyone's life miserable. But I mean, like like you just mentioned, right? As we are seeing a more mature"
+    },
+    {
+      "end_seconds": 2131.536,
+      "id": "youtube-Lt-lVe957hc#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2110.686,
+      "text": "adoption of the technology, adoption of the product, then as as we are having more regular traffic, then the conventional wisdom of supply chain just kicks in, and I think prices are going to be significantly dropping down. And then plugging in one unpaid advertisement from Martian, right? So what Martian does is a very simple logic. Correct me if I'm wrong."
+    },
+    {
+      "end_seconds": 2156.187,
+      "id": "youtube-Lt-lVe957hc#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2131.536,
+      "text": "There's all kinds of retail traffic. People who are spuriously using all those like like APIs and things like that. Martian's like, what, guys? Just don't go to individual places. Just come to me, right? And then Martian did exactly one thing, which is they converted retail traffic into bulk purchase, which gives us a better predictability in the supply chain."
+    },
+    {
+      "end_seconds": 2176.284,
+      "id": "youtube-Lt-lVe957hc#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2156.186,
+      "text": "And so we, Lepton AI, for example, we are both providers, right? But both providers of APIs. And then basically, if people come in and basically say, like, just they want to do retail, then of course there's a price. But if, let's say, hopefully down the road, Martian, I'm actually starting to talk about contracts. If Martian basically says, hey, I have this predictable traffic, right? Could you give me a discount?"
+    },
+    {
+      "end_seconds": 2182.862,
+      "id": "youtube-Lt-lVe957hc#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2176.284,
+      "text": "You know Marriott down the road actually gives Booking. dot com ten percent commission because."
+    },
+    {
+      "end_seconds": 2206.674,
+      "id": "youtube-Lt-lVe957hc#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2182.862,
+      "text": "They, I could get traffic, and they are doing predictability, right? All those kind of things start kicking in, and made for for all kind of industries. We've already made supply chain extremely efficient. We're just not there yet, application-wise and infra-wise for AI. But it's not a very difficult thing. I think it's a, it's something that will happen and is happening, right? And and I think that's why I don't really worry about cost."
+    },
+    {
+      "end_seconds": 2219.452,
+      "id": "youtube-Lt-lVe957hc#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2206.674,
+      "text": "嗯，just to add a point to Yangqing, I think yes. Um, aggregating retail demand is one big value problem we have. Um, but we have another smart routing logic that also does the cost reduction logic."
+    },
+    {
+      "end_seconds": 2228.096,
+      "id": "youtube-Lt-lVe957hc#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2219.452,
+      "text": "Right, so let's say we are building like a math GPT. So 90% of the math problems asked on the app is very simple, right? Can be answered by GPT 4.5."
+    },
+    {
+      "end_seconds": 2250.174,
+      "id": "youtube-Lt-lVe957hc#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2228.096,
+      "text": "And ten percent are very hard. You must use GPT four to answer it. And to ensure user experience, people usually just use GPT four to do to serve every client, which is very very expensive, right? GPT four is thirty times more expensive than GPT three point five Turbo. So what we do is that for each new prompt, we automatically recognize whether it's a hard problem or easy problem."
+    },
+    {
+      "end_seconds": 2260.564,
+      "id": "youtube-Lt-lVe957hc#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2250.174,
+      "text": "For easy problem, we go to GPT three point five turbo. For hard problems, we go to GPT four. And due to the thirty x cost difference, so we can like save like eighty five percent of the cost."
+    },
+    {
+      "end_seconds": 2274.586,
+      "id": "youtube-Lt-lVe957hc#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2260.564,
+      "text": "So that's another way, Martian can also help with cost reduction. But yeah, retail traffic aggregation is definitely one of that. Yeah, I would like to echo that mainly because these kind of things happen in conventional supply chain as well. If we want to, if we are a little bit sick."
+    },
+    {
+      "end_seconds": 2301.926,
+      "id": "youtube-Lt-lVe957hc#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2274.586,
+      "text": "You don't go to specialist in, like, say, like, say, Stanford Hospital immediately, right? Because those are terribly expensive for the doctor and for us as well. But family doctor, family doctor is what? What are they doing? They are doing initial analysis like Martian does, plus routing. They route you to specialists if needed, or they basically say, well, take a pill like aspirin and be done with it, right? Those kind of things are like, like, like conventional wisdom in supply chains, and they are actually like doing really well in AI as well."
+    },
+    {
+      "end_seconds": 2324.874,
+      "id": "youtube-Lt-lVe957hc#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2301.926,
+      "text": "Nice, I like the analogy because we just had the conversation with Holly before the this panel that we often see history repeat itself. Yeah, and actually it's time to move on to the next topic about history repeating itself. And I would like to start with Holly. Is generative AI going to be centralized or decentralized?"
+    },
+    {
+      "end_seconds": 2350.264,
+      "id": "youtube-Lt-lVe957hc#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2324.874,
+      "text": "Because, like we've mentioned, PC actually started with IBM being centralized, and then became decentralized. Then cloud is becoming centralized. How do you see general it's gonna be? Yeah, I think the you know the context just a little bit more was about in general computation history in the last fifty, sixty years, we went from IBM mainframe."
+    },
+    {
+      "end_seconds": 2368.072,
+      "id": "youtube-Lt-lVe957hc#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2350.264,
+      "text": "to PC, you know, client-server, and then to the cloud. In many ways, it's a, you know, a pendulum swing from centralization, centralized architecture to distributed, and then back to centralized in the cloud days. You know, when when IBM, you know, in the IBM mainframe days."
+    },
+    {
+      "end_seconds": 2377.13,
+      "id": "youtube-Lt-lVe957hc#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2368.072,
+      "text": "Um and then Bill Gates said in the seminars that we wanted to, I wanted to bring PC to every house, and then you know IBM guys, you know, laughed at him."
+    },
+    {
+      "end_seconds": 2398.364,
+      "id": "youtube-Lt-lVe957hc#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2377.13,
+      "text": "So, but what happened, you know, 56 year later is essentially we went back to that mainframe. We have three mainframes, you know, AWS, Azure, and then GCP. So we essentially went back. So it's unclear who's going to laugh at the at the latest. But but I think what what we discussed was it's going to be a pendulum back and forth."
+    },
+    {
+      "end_seconds": 2410.656,
+      "id": "youtube-Lt-lVe957hc#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2398.364,
+      "text": "Coming back to the Gen AI, you know, the this is a debate for a while. That is that, well, what's the model, right? Is that if you ask Sam Altman, his his argument is, look, you know."
+    },
+    {
+      "end_seconds": 2428.574,
+      "id": "youtube-Lt-lVe957hc#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2410.656,
+      "text": "You guys don't need to fool around. Just you know, use OpenAI, OpenAI API, do some fine tuning, prompt prompt engineering, be done with it. There's no reason for you to have your own model, because whatever our model is going to be, a lot more capable, a lot better, anyways."
+    },
+    {
+      "end_seconds": 2445.782,
+      "id": "youtube-Lt-lVe957hc#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2428.574,
+      "text": "I think that's you know in many cases that's probably true, but you know in many other cases that's going to be completely untrue, right? Because you know there's no way I'm going to for some customer there's no way I'm going to give you the data. So for that reason, I I need to have my own model and then."
+    },
+    {
+      "end_seconds": 2464.799,
+      "id": "youtube-Lt-lVe957hc#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2445.782,
+      "text": "But in the context of the history repeats itself, I feel like you know, opening eyes like the the membrane, right? You know, there will be, you know, it will be distributed, you know, but it will be back and forth, you know. What happens every time the his when history repeats itself is always, where's the innovation bottleneck? That's real, that's the real gist."
+    },
+    {
+      "end_seconds": 2479.616,
+      "id": "youtube-Lt-lVe957hc#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2464.799,
+      "text": "So think about why IBM mainframe, you know, went to the PC architecture, right? That's because there's not much interesting going on with IBM. It's the boring, you know, you you usability is so so horrible. So people wanted to have my own way of doing things."
+    },
+    {
+      "end_seconds": 2507.45,
+      "id": "youtube-Lt-lVe957hc#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2479.616,
+      "text": "So a lot more innovations, but then you know too much innovation. That's a management hell. And then we went back to the centralized. So I think you know, as as soon as you know someone is dominating, monopolizing things, it's a human nature. It's it's you know innovation will happen, popped up somewhere else, right? So so my view is there will be there will be a lot of the model running on the edge or on the equivalent of the mobile or the PC end."
+    },
+    {
+      "end_seconds": 2528.716,
+      "id": "youtube-Lt-lVe957hc#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2507.45,
+      "text": "That's just because you know, OpenAI is not going to allow so many different use cases, so many different features, and then it will enable that. But but at some point we will realize why do we manage so many models? I mean it's crazy. So we will go back to the centralized model. So so that's the context Yu Jing and I were discussing."
+    },
+    {
+      "end_seconds": 2553.73,
+      "id": "youtube-Lt-lVe957hc#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2528.716,
+      "text": "you know if you if he he was asking you know is that a centralized I think you know we are in the centralized model predominantly, but we are kind of a you know we are going to enable the a lot more decentralized distributed models, but at some point right you know it doesn't make sense for each of us to develop our own model so it will go back you know equivalent to a cloud days it will come but it's not there, so we are more moving towards the other direction side."
+    },
+    {
+      "end_seconds": 2561.284,
+      "id": "youtube-Lt-lVe957hc#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2553.73,
+      "text": "It will take a few years for us to realize that's that doesn't make any sense, but that will be a few years from now."
+    },
+    {
+      "end_seconds": 2586.952,
+      "id": "youtube-Lt-lVe957hc#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2561.284,
+      "text": "Yeah, in terms of centralization and decentralization, I'll probably skip the technology part for another day and and and basically give you like one example. I think centralization and decentralization could also be discussed on a different different dimension. So let's say search, right? Every day we do search and things like that. What is a search engine you use?"
+    },
+    {
+      "end_seconds": 2614.624,
+      "id": "youtube-Lt-lVe957hc#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2586.952,
+      "text": "There's a word, right? Google becomes a word. Everyone, I hope, I hope, I mean, statistics show that 97 or something like 95% of people, when they're doing search, they use Google, right? Okay, now let me ask you an alternative question, and you probably realize that, huh? So you're doing work, right? During our work, we have documentations, we have all kinds of different kind of things. What search engine do you use for that?"
+    },
+    {
+      "end_seconds": 2641.072,
+      "id": "youtube-Lt-lVe957hc#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2614.624,
+      "text": "I would probably say more than half of us are saying, well, it's probably not Google, right? Because Google doesn't have it. If I use Notion, I use Notion has a search, right? If I use Quip, which is, God forbid, that's such an old thing, Quip has a search, although it's bad, right? I mean, every everything has a search, and maybe some of your companies do have a search yourself, right? And there are some suppliers like Elastic and other platforms that are MongoDB that are providing search as well."
+    },
+    {
+      "end_seconds": 2653.112,
+      "id": "youtube-Lt-lVe957hc#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2641.072,
+      "text": "So very quickly, we find that in the one end, or what we call the To C world, it's very centralized. It's search, it's Google, right? And in the To B world, when we're actually dealing with business,"
+    },
+    {
+      "end_seconds": 2660.193,
+      "id": "youtube-Lt-lVe957hc#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2653.112,
+      "text": "It's massively decentralized. We actually don't really have the Google of enterprise search. We have a lot of enterprise search solutions."
+    },
+    {
+      "end_seconds": 2687.27,
+      "id": "youtube-Lt-lVe957hc#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2660.193,
+      "text": "And I kind of feel that AI, well, let's say chat bar, right? It's going to be similar. In the to see world, for me as a consumer, I'm kind of lazy. I don't really want to shop around for multiple choices and things like that. People said ChatGPT is good, yeah. I'll pay twenty dollars for a month, which is five cups of Starbucks coffee, which is not too much, right? And and I just happily use it. And that's why we're seeing a really big convergence onto ChatGPT for us to basically just like do to see conversation bots."
+    },
+    {
+      "end_seconds": 2713.902,
+      "id": "youtube-Lt-lVe957hc#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2687.27,
+      "text": "In the enterprise world today, things are already happening. There's a huge fight. There's a huge fight between ChatGPT or GPT-4 and the cloud, and you know, Google's all kinds of different kind of like solutions. And I my belief is there's only going to be much more, much much more players in this world. Not only these kind of providers, but also models, applications, you know, sometimes capabilities built in house from the enterprises themselves."
+    },
+    {
+      "end_seconds": 2739.034,
+      "id": "youtube-Lt-lVe957hc#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2713.902,
+      "text": "Right, so in the To B world, things are going to be massively decentralised. Now, plug in a little bit of our explanation. What we see is basically we see that the To B world is going to be decentralised, and as a result, people won't be needing tools, right? When every company is actually doing their websites and things like that, well, database, BI and those kind of things become thin, and then data data work Snowflake, right? All those kind of companies start emerging."
+    },
+    {
+      "end_seconds": 2752.062,
+      "id": "youtube-Lt-lVe957hc#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2739.034,
+      "text": "What about AI? There's got to be some sort of company that does it, and just just throw away all those kind of details. We strive to be that company, to help the decentralized to be world. Yeah, that's the answer. Nice, thank you."
+    },
+    {
+      "end_seconds": 2780.718,
+      "id": "youtube-Lt-lVe957hc#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2752.062,
+      "text": "I think um the previous two speakers have great really great answers. I want to offer the answer from a slightly different perspective. I think from the first principles point of view, right? What determines the end state of an industry is basically only one thing. That is the economy of scale of that business. So why would you know social media and search engine, the two of the biggest industries, are extremely monopolized? Like Google, the only player, like Facebook, the only player. Why? Because that business has huge economy of scale."
+    },
+    {
+      "end_seconds": 2797.84,
+      "id": "youtube-Lt-lVe957hc#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2780.718,
+      "text": "Because the more the more user use Google, the better Google search engine is. I was talking to some early team leader at working on Microsoft Bing, right? He described to the desperation, like they they put much more resource into you know search engine trying to catch up working."
+    },
+    {
+      "end_seconds": 2814.702,
+      "id": "youtube-Lt-lVe957hc#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2797.84,
+      "text": "或者724，但 they still are not able to catch up to Google. Right? Google and if you don't mind me chiming in on this one, there's a technical reason behind that. Do you know what is the biggest signal for Google to rank the the the the search results?"
+    },
+    {
+      "end_seconds": 2839.012,
+      "id": "youtube-Lt-lVe957hc#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2814.702,
+      "text": "About five years ago, or like when just believe was what Google Google Brain was proudly saying, Google Brain deep learning is supporting Google search. They said in their post, you can actually search for it. They said AI or deep learning has become the third largest signal, the third important, most important signal to rank search. They never talk about what is the biggest one."
+    },
+    {
+      "end_seconds": 2858.374,
+      "id": "youtube-Lt-lVe957hc#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2839.012,
+      "text": "And the biggest one turned out to be human feedbacks. If I search for something and I click something, then it means that other people are more likely to think that that one is important. And because Google is occupying more than 90% of the traffic, no one else is able to compete with it. Because, I mean."
+    },
+    {
+      "end_seconds": 2883.772,
+      "id": "youtube-Lt-lVe957hc#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2858.374,
+      "text": "Why do I think that search result is good? Because the other people think it's good. It's natural. It doesn't even have anything to do with AI. So that's what you mean by benefit of scale. That's exactly the case. That's a classic definition of e-colling of scale or network effect, right? And similar with, you know, Facebook with WeChat with all those social media. And now the question is, to what extent does foundation model LM has this e-colling of scale?"
+    },
+    {
+      "end_seconds": 2899.114,
+      "id": "youtube-Lt-lVe957hc#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2883.772,
+      "text": "I have to admit, like about one year ago, when I first see ChatGPT, I was so scared that you know OpenAI can be a company that literally take ninety-five percent of world GPT GDP, right? Because it seems to be a business with huge economic scale."
+    },
+    {
+      "end_seconds": 2917.073,
+      "id": "youtube-Lt-lVe957hc#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2899.114,
+      "text": "That you put more data, more compute into one model, and this one model can solve every problem in the world. What's a business with bigger economy scale? But gradually, when I you know dig more into the industry and you know train model myself and serve more clients, I discovered it's actually not the case. I think."
+    },
+    {
+      "end_seconds": 2933.771,
+      "id": "youtube-Lt-lVe957hc#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2917.073,
+      "text": "I think people are discovering more and more new ways of training model that are way more efficient, and those new techniques are, you know, because they are like inspiration based, right? It's not possible for OpenAI to monopolize those new ideas. I think one very good example is Llama three."
+    },
+    {
+      "end_seconds": 2950.564,
+      "id": "youtube-Lt-lVe957hc#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2933.771,
+      "text": "I'm sure many of the audience right here have heard about it. We have benchmarked Llama Llama 3 8 billion internally, and it's very good. It's way better than many previous models, which was much larger parameter size, and it's very efficient, right? And it's not being produced by OpenAI."
+    },
+    {
+      "end_seconds": 2959.638,
+      "id": "youtube-Lt-lVe957hc#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2950.564,
+      "text": "And I think at any any time point, um, the model, the amount of resource you put into training a model is actually"
+    },
+    {
+      "end_seconds": 2988.434,
+      "id": "youtube-Lt-lVe957hc#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2959.638,
+      "text": "not, uh, the economy scale is not that big, right? I put one billion into training a model, versus I put two billion dollars to train a model. The second one is not two times smarter, right? It's like a declining marginal return in putting more compute and resource. So I think this is one of the fundamental reasons why I think OpenAI is not going to take over the world, because this business does not have that huge of economy scale. And another reason I think OpenAI is not going to take over the world is"
+    },
+    {
+      "end_seconds": 3004.914,
+      "id": "youtube-Lt-lVe957hc#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2988.434,
+      "text": "AGI will not be built by. AGI requires context and specific knowledge to be useful in specific scenarios. And we can think of the smartest model in the world as some genius college graduate like Einstein in his eighteen years old."
+    },
+    {
+      "end_seconds": 3026.81,
+      "id": "youtube-Lt-lVe957hc#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3004.914,
+      "text": "It's he's very smart. He can pick up things very quickly, but he's not useful to, I say, work at Google, work at Martian, right? We have so many internal contacts, internal rules, internal, um, subtle, you know, like interpersonal thing management, everything. Like that needs some onboarding process, and it's not possible for OpenAI to get acquire that part of the knowledge."
+    },
+    {
+      "end_seconds": 3039.394,
+      "id": "youtube-Lt-lVe957hc#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3026.81,
+      "text": "So there needs to be, you know, third-party SaaS, third-party, you know, whether to B or to C, to modify the general-purpose intelligence into domain-specific intelligence that's actually doing the economically useful work."
+    },
+    {
+      "end_seconds": 3064.979,
+      "id": "youtube-Lt-lVe957hc#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3039.394,
+      "text": "And there's a very good paper written by you know Berkeley people and you know Databricks co-founders called you know compound AI systems, right? That's exactly a thesis. The best results are not delivered by the latest cutting edge, the most the smartest foundation model, but rather the compound AI systems that you know agents, RAG, you know chain of thought and other applications that build on top of those."
+    },
+    {
+      "end_seconds": 3073.566,
+      "id": "youtube-Lt-lVe957hc#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3064.979,
+      "text": "That's how we achieve real AGI, and that process will be decentralized in in essence. Yeah."
+    },
+    {
+      "end_seconds": 3093.223,
+      "id": "youtube-Lt-lVe957hc#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3073.566,
+      "text": "Well, it's a long discussion, so I'll keep it short. So, um, it's a related thought about decentralization, which is when you are building a startup, people or theses will ask you, how are, what's your moat, and how how about these big guys will defeat you."
+    },
+    {
+      "end_seconds": 3121.853,
+      "id": "youtube-Lt-lVe957hc#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3093.223,
+      "text": "These large model companies, they will be so powerful that your your application is is not going to be useful. This is especially true when Jasper basically died after ChatGPT came out. The thing is, I think when you talk about decentralization, I agree with Jason's topic, which is domain knowledge or context is very important. It could be your"
+    },
+    {
+      "end_seconds": 3138.752,
+      "id": "youtube-Lt-lVe957hc#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3121.853,
+      "text": "Kind of your mode, at least for you to survive for a while. For example, in our company, how to clip a good video is getting more and more becoming of our mode. And these domain knowledge, they not they don't appear very apparently on the internet."
+    },
+    {
+      "end_seconds": 3145.882,
+      "id": "youtube-Lt-lVe957hc#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3138.752,
+      "text": "And they come up with deep knowledge when you build your product. When you interact with your customers, you get your feedback."
+    },
+    {
+      "end_seconds": 3171.901,
+      "id": "youtube-Lt-lVe957hc#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3145.882,
+      "text": "呃，a lot from A/B testing， and so， yes， yes， I I I we use extensively， we use Statsig extensively for A/B testing， so these data become very valuable to your company， and when you time to have higher moat， so there is no golden moat you can have， you start you keep building moat and people's"
+    },
+    {
+      "end_seconds": 3186.996,
+      "id": "youtube-Lt-lVe957hc#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3171.901,
+      "text": "Eventually, if you if you lie down and and rest and rest, then then not you will soon be out competed. So yes, so the domain knowledge is a great thing for you to survive as a startup."
+    },
+    {
+      "end_seconds": 3204.99,
+      "id": "youtube-Lt-lVe957hc#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3186.996,
+      "text": "Thank you for the mentioning. I do think A/B testing is about measurement and learning, and that will become our mode. Time flies very fast when we talk about deep technical topics. We are already over time because we want to save some time for audience as well. Actually, prepare six questions. We just got."
+    },
+    {
+      "end_seconds": 3226.919,
+      "id": "youtube-Lt-lVe957hc#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3204.99,
+      "text": "Two, the rest of the questions are what are the challenges, what what is the TAM, the total addressable market of AI, and what role will proprietary data play, and which companies are well positioned to get this proprietary data, and how like is there any effective tricks in doing AI? But I guess."
+    },
+    {
+      "end_seconds": 3238.386,
+      "id": "youtube-Lt-lVe957hc#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3226.919,
+      "text": "Because we don't have time, yeah. We can save that for other days. If you can interview the guest on our social media, subscribe to Statsig if you're interested in this kind of topics."
+    },
+    {
+      "end_seconds": 3250.717,
+      "id": "youtube-Lt-lVe957hc#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3238.386,
+      "text": "And then also Byte the Future, B Y T E the future. Do it now. Yeah, we are going to open to the audience for Q and A. Just raise a hand if you are."
+    },
+    {
+      "end_seconds": 3264.216,
+      "id": "youtube-Lt-lVe957hc#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3250.717,
+      "text": "Thank you for all the speakers' amazing discussion. Um."
+    },
+    {
+      "end_seconds": 3288.211,
+      "id": "youtube-Lt-lVe957hc#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3264.216,
+      "text": "I can start with a very non-technical question. So, in one of呃课代表's video, how do you foresee or forecast the AI wave before it hits the shore? So, I'm looking for advice or tools or resources for normal like tech workers like me, not to foresee, but how to keep most updated to in this AI environment. Thank you."
+    },
+    {
+      "end_seconds": 3318.188,
+      "id": "youtube-Lt-lVe957hc#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3288.211,
+      "text": "Thought I just give the answer already. I think, I think on the more serious side, that's a very good question. I think this is something Yu Zheng and I actually talked offline and online quite a bit. That there is so much noise. I think this is one of the interesting angles. I've actually been thinking about this for quite a few years in the recent past. That did the internet help us?"
+    },
+    {
+      "end_seconds": 3345.058,
+      "id": "youtube-Lt-lVe957hc#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3318.188,
+      "text": "to acquire new knowledge,s or good knowledge,s or or or not. In the first ten years or so, the answer to me was obvious, right? You know, it's so easy to to get knowledge. Google gave me access to everything and anything on the planet. In the last few years, I'm not sure about that. I think when I say I'm not sure, I'm not saying myself or you, Juno. I'm just saying that in general, the population, did we improve?"
+    },
+    {
+      "end_seconds": 3360.034,
+      "id": "youtube-Lt-lVe957hc#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3345.058,
+      "text": "our the the the signal to ratio, signal to noise ratio or not. It's not very clear to me. So the actionable thing for everyone here, including myself, is we need to be sensitive about."
+    },
+    {
+      "end_seconds": 3380.01,
+      "id": "youtube-Lt-lVe957hc#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3360.034,
+      "text": "How to, where to acquire the knowledge, and how to spend time, and then how to think about this, right? So one thing, you know, could be controversial. So every time I do an interview or not, towards the end of the questions, always often about which book do you read, you know, want to recommend."
+    },
+    {
+      "end_seconds": 3396.165,
+      "id": "youtube-Lt-lVe957hc#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3380.01,
+      "text": "And as if, and also, there's also implied theory that the more books you read, it the better. I'm not sure about that. I feel like, you know, today, I feel like I'd rather read a good book three times rather than read three books."
+    },
+    {
+      "end_seconds": 3422.047,
+      "id": "youtube-Lt-lVe957hc#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3396.165,
+      "text": "It's like a training data, right? You know, is that a lot of data, the more the better, or you have high quality data? I think Llama Three has taught, you know, I mean not just Llama Three, but you know, Llama Three taught taught us again that the high quality data makes a lot of difference. So I will close with one thing that Yuqing and I discussed in a podcast, another podcast, the video interview."
+    },
+    {
+      "end_seconds": 3432.438,
+      "id": "youtube-Lt-lVe957hc#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3422.047,
+      "text": "before that, whenever he's doing a program, I'm doing a program. I almost feel like I wanted to do something so that people can listen to ten times."
+    },
+    {
+      "end_seconds": 3452.752,
+      "id": "youtube-Lt-lVe957hc#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3432.438,
+      "text": "And I still feel like they are learning. I think that's probably, you know, the bar is very high. I don't know I can do get to that point. But that's almost the bar I wanted to get to. And I almost feel like when when we acquire knowledge, you know, on the internet, that's that's something we should be thoughtful about it. Not just the more the merrier. That's that's one thing I've been thinking in the last few years."
+    },
+    {
+      "end_seconds": 3461.823,
+      "id": "youtube-Lt-lVe957hc#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3452.752,
+      "text": "You know, in some ways, internet allow us to acquire knowledge too fast, too easy. Is that really good thing? So that's a that's a question for all of us to think about."
+    },
+    {
+      "end_seconds": 3482.977,
+      "id": "youtube-Lt-lVe957hc#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3461.823,
+      "text": "But that's a very good question. I'd like to basically provide some sort like practical answers. So, Twitter for really cool technologies and a little bit of drama like GOT or you know Downton Abbey or How I Met Your Mother kind of style. Hacker News for cool technology and nerdy discussions or things like that."
+    },
+    {
+      "end_seconds": 3504.512,
+      "id": "youtube-Lt-lVe957hc#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3482.977,
+      "text": "LinkedIn for serious business opportunities and stuff like that, and then of course, you know, really awesome podcasts like these guys, right? I think that's basically like what I do for like collecting information because there's just like so much information flying around. And then, well, if you find some articles too long, then pull up Elmo Chat and you can just like do summarization. But normally, those websites are actually providing a good coverage."
+    },
+    {
+      "end_seconds": 3513.151,
+      "id": "youtube-Lt-lVe957hc#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3504.512,
+      "text": "The reason is, I think people and platform co-evolve, and you know, for Twitter, you just can't post some serious business stuff, but LinkedIn, people are always, you know."
+    },
+    {
+      "end_seconds": 3523.844,
+      "id": "youtube-Lt-lVe957hc#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3513.151,
+      "text": "dressing up, polished, and then publish it, right? So, so, so, so those kind of platforms naturally gives you different angles and and help you filter through a bunch of information already."
+    },
+    {
+      "end_seconds": 3548.367,
+      "id": "youtube-Lt-lVe957hc#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3523.844,
+      "text": "But since you mentioned the Twitter, Andrej Karpathy actually made a tweet a few months back, maybe two months ago. He said something like a tweet is very much like downloading the file executable on the internet. It's unclear that's a malware or not. That's that's the very point I was trying to make. But that but Yangqing said is right in the sense that what sort of what kind of information, reasonably popular on which website."
+    },
+    {
+      "end_seconds": 3558.96,
+      "id": "youtube-Lt-lVe957hc#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3548.367,
+      "text": "But my early point is more like, you know, when you acquire the knowledge, you need to be careful, right? You know, is that a executable? You know, you download from internet to think about it."
+    },
+    {
+      "end_seconds": 3584.425,
+      "id": "youtube-Lt-lVe957hc#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3558.96,
+      "text": "I mean, you have to be outrageous on Twitter to be popular, and that's why Twitter is like full of outrageous. I mean, there's one very famous search company CEO who appears to be a big D, but you know he's popular, right? So that's why, I mean, every platform has has biases. I do, I do too. So yeah, right. And and and I think how we Gary nicely pointed out that like we should undo the biases while we are actually consuming those information."
+    },
+    {
+      "end_seconds": 3602.538,
+      "id": "youtube-Lt-lVe957hc#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3584.425,
+      "text": "Sorry for the comment about that CEO. Don't tell him. Nice, honest question. Yeah. Uh, first of all, I wanna thank you for all for sharing your expertise and wisdom with us today. Um, and second, um, I think at this"
+    },
+    {
+      "end_seconds": 3612.279,
+      "id": "youtube-Lt-lVe957hc#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3602.538,
+      "text": "Time like all the companies are trying to find how they can use Gen AI to empower the business to like."
+    },
+    {
+      "end_seconds": 3636.241,
+      "id": "youtube-Lt-lVe957hc#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3612.279,
+      "text": "stay relevant in that game. So I wanna the setting is like this: you have a company, you have a few pretty good use cases that could leverage LLM, and there's actually like proof of concept, but there's still some gap to really bring that to like real business value. And you're trying to build a team like more horizontally to empower those products."
+    },
+    {
+      "end_seconds": 3658.507,
+      "id": "youtube-Lt-lVe957hc#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3636.241,
+      "text": "And since AI is so different from like traditional ML infrastructure, I'm curious to like learn like what do you think is the key components and considerations you think you must get right to make that happen. So I think we mentioned like evaluation, monitoring, cost. Yeah, I just wanna hear more about that."
+    },
+    {
+      "end_seconds": 3674.16,
+      "id": "youtube-Lt-lVe957hc#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3658.507,
+      "text": "Maybe I can start because I build product that is so. So we don't have very deep AI in terms of training large models using tens of thousands of GPUs."
+    },
+    {
+      "end_seconds": 3683.514,
+      "id": "youtube-Lt-lVe957hc#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3674.16,
+      "text": "But we still use AI to to build a useful product. So it's important to understand the real needs of your users."
+    },
+    {
+      "end_seconds": 3705.932,
+      "id": "youtube-Lt-lVe957hc#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3683.514,
+      "text": "And then harness the power of AI for that. I think if you don't understand why, what, what problems or what pain, ah, pain points your customer have, it's it's basically trying to find a nail using a a flashy new powerful hammer, which you don't really make any impact."
+    },
+    {
+      "end_seconds": 3716.772,
+      "id": "youtube-Lt-lVe957hc#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3705.932,
+      "text": "So finding and and as a lot of people here are technical background, it's even more important for you to learn about."
+    },
+    {
+      "end_seconds": 3726.634,
+      "id": "youtube-Lt-lVe957hc#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3716.772,
+      "text": "the product sense and to read books like Innovators Dilemma, Jobs to Be Done, that kind of ah business knowledge."
+    },
+    {
+      "end_seconds": 3748.583,
+      "id": "youtube-Lt-lVe957hc#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3726.634,
+      "text": "And it will be really essential for technical people to understand customers and find opportunities for building a product. Then AI comes into hand to you as a new technology to build a shiny new hammer. And the important thing is find the the the nails that hasn't been hit by other old bad hammers."
+    },
+    {
+      "end_seconds": 3772.589,
+      "id": "youtube-Lt-lVe957hc#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3748.583,
+      "text": "To add upon Jay's answer, I think from a more practical standpoint, evaluation is probably the first and foremost, the most important thing in building like AI use cases, right? Because we are collaborating with many application side companies, I see so many companies they don't even understand how do they evaluate their AI use case, and then just jump directly into trying all those fancy techniques."
+    },
+    {
+      "end_seconds": 3795.544,
+      "id": "youtube-Lt-lVe957hc#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3772.589,
+      "text": "I think, and in evaluation in the Gen AI age is very, very difficult, right? Like basically, it's how it's how we evaluate humans is similar to how we evaluate LLMs, right? But we need a consistent, robust metric to see whether we are improving our performance or you know deteriorating our performance to to to build upon from the starting point. I think."
+    },
+    {
+      "end_seconds": 3822.158,
+      "id": "youtube-Lt-lVe957hc#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3795.544,
+      "text": "Let people realize the importance of evaluation. Then, you know, what should be ultimately the case? Do you Do you have any tools or vendors you would recommend? You feel like this company doing some of the evaluation much better, provide the evaluation solution much better. I think it is a framework. What I think evaluation is a very long, you know, pipeline, right? I think."
+    },
+    {
+      "end_seconds": 3832.364,
+      "id": "youtube-Lt-lVe957hc#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3822.158,
+      "text": "Static is one component. Clearly, that's a very good tool. Anything else, you know, on this, you know, in this pipeline? I'm just curious, what do you see?"
+    },
+    {
+      "end_seconds": 3854.669,
+      "id": "youtube-Lt-lVe957hc#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3832.364,
+      "text": "Yeah, there's no simple answer due to the innate complexity of LMs. But so I think the ways of evaluation range from more, you know, static to more dynamic ones. On the most static side, we have evaluation benchmarks like MMALU, which is literally to let LMs do multiple choice questions. Right? Those are very straightforward, very easy to evaluate."
+    },
+    {
+      "end_seconds": 3880.738,
+      "id": "youtube-Lt-lVe957hc#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3854.669,
+      "text": "And study more complex and more nuanced. We have things like GSM8K, where we ask LM to solve math problems. But the solution for math problems sometimes is not a single number where you can parse and query. It's like a whole reasoning process. So we need some other humans or other AI systems to evaluate that. And similar, we have like how do we evaluate the code generation ability of LM into actually execute the codes."
+    },
+    {
+      "end_seconds": 3890.013,
+      "id": "youtube-Lt-lVe957hc#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3880.738,
+      "text": "Right, I think the most new one scenario is like how do we evaluate ChatGPT, or how do we evaluate general chatbot, similar to how do we evaluate a human, right?"
+    },
+    {
+      "end_seconds": 3908.889,
+      "id": "youtube-Lt-lVe957hc#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3890.013,
+      "text": "So at Martian, we have an entire suite of toolings as framework to to do those kind of complex evaluation. That's based on a combination of the human annotation, machine-assisted annotation, and purely automated evaluation. So that's a fairly complex topic."
+    },
+    {
+      "end_seconds": 3934.859,
+      "id": "youtube-Lt-lVe957hc#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3908.889,
+      "text": "We we do have a extensive need and experience in handling fuzzy output, so it's very interesting that or intuitive for us to use AI to evaluate AI. So what we do is, so we outpace our competitors in terms of the clips generate, the quality of the clips, how interesting are they?"
+    },
+    {
+      "end_seconds": 3952.49,
+      "id": "youtube-Lt-lVe957hc#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3934.86,
+      "text": "So it's not because we have really magical prompts. We use GPT three point five, which is a pretty stupid model, and it's it's it's cheap. It's almost like ninety five percent off based on GPT four. So the way we do is."
+    },
+    {
+      "end_seconds": 3973.248,
+      "id": "youtube-Lt-lVe957hc#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3952.49,
+      "text": "We have many prompts that try to clip a video. That's just not one, but at least four. So they have different ways to do it, and they try different. They try really hard. And every video, we probably have like a hundred clips candidates. And how do we pick the best? Is we use another set of prompts."
+    },
+    {
+      "end_seconds": 3986.281,
+      "id": "youtube-Lt-lVe957hc#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3973.248,
+      "text": "This set of prompt is evaluating the quality of these clips with multiple dimensions. For example, are they interesting? Is it a story? Does it start with a very intriguing hook?"
+    },
+    {
+      "end_seconds": 4013.564,
+      "id": "youtube-Lt-lVe957hc#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3986.281,
+      "text": "That they have defect like sudden ending, is it the sponsor message? These kind of uh uh scoring, and we give these scoring a combination, and I'm finally combine them into a final score, and then we rank the candidates. We only pick the twenty percent. So in any industrial process, for example, if you are working on a farm, you have a lot of"
+    },
+    {
+      "end_seconds": 4038.945,
+      "id": "youtube-Lt-lVe957hc#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4013.564,
+      "text": "produce like strawberries. When you sell it, you sell the good ones to Safeway, and then you throw away some of the bad ones and the mediocre ones. You probably send to a a worse uh tier groceries. So it's the same. When when you are building a product, you want to try your you want your system try harder, and you want to get the good ones. And one way to do it is using AI to evaluate."
+    },
+    {
+      "end_seconds": 4052.359,
+      "id": "youtube-Lt-lVe957hc#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4038.945,
+      "text": "Well, there is a a caveat there though. Some AIs don't catch the trick. So I have a example on my Twitter, which is at J of Opus. You, that's my only interesting post I have."
+    },
+    {
+      "end_seconds": 4073.515,
+      "id": "youtube-Lt-lVe957hc#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4052.359,
+      "text": "is it's an AIG generated image of some craftsman, and the the person's head and the neck are obviously disconnected. You can you can you can see from the video, you can see from the image. But I asked this image with ChatGPT, with GPT four, with Gemini, with"
+    },
+    {
+      "end_seconds": 4103.379,
+      "id": "youtube-Lt-lVe957hc#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4073.515,
+      "text": "anthropic， and all of them say, oh, it's it's a very okay, it's a very okay image. Ah, it makes very much sense. Nothing is weird. And even after you prompt them, is there something wrong with their head and their neck? And the the AI will say it's very normal. So you you can a hundred percent rely on this, but it's helpful framework to try harder and then evaluate using AI and then um and then get the best results."
+    },
+    {
+      "end_seconds": 4114.958,
+      "id": "youtube-Lt-lVe957hc#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4103.379,
+      "text": "Nice. I like I love keep hearing those answers, but unfortunately, time is the limited resource here. We have one last question. So, um, thank you for offering this this opportunity. Uh."
+    },
+    {
+      "end_seconds": 4141.271,
+      "id": "youtube-Lt-lVe957hc#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4114.958,
+      "text": "When I think, my question is a little bit technical. I think many audience with technical background might be interested in. The thing is, I'm recently doing a research with professor and his collaborate team in AWS on the reliability and observability for machine learning system. And this, my question is kind related to how we is sharing about QA part. You know, the QA part. So"
+    },
+    {
+      "end_seconds": 4161.586,
+      "id": "youtube-Lt-lVe957hc#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4141.271,
+      "text": "呃，for example, now we know that in order to train a model, efficiency, we have trained in the distribute strategies, like using the tensor parallelism or pipeline parallelism. But this will has will have a backfire, which"
+    },
+    {
+      "end_seconds": 4174.527,
+      "id": "youtube-Lt-lVe957hc#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4161.586,
+      "text": "Like given a fixed input, like a fixed data and fixed parameter or fixed weight of the model, but with using this distributed strategy, the output of the model will be."
+    },
+    {
+      "end_seconds": 4200.042,
+      "id": "youtube-Lt-lVe957hc#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4174.527,
+      "text": "huge difference, and it's hard for the developers to debug within a few days. And we now heard many complaints from Amazon's developers. They said we cannot locate this failure because you know the numeric difference will accumulate. But during this process, there is no such a very efficient way to discover it. So my question is about"
+    },
+    {
+      "end_seconds": 4216.445,
+      "id": "youtube-Lt-lVe957hc#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4200.042,
+      "text": "How to improve the reliability and observability, especially in distributed system training? Yeah, thank you so much. Yeah, oh man, I have so much to say. Well, yeah, I'm already starting to to rant basically. First of all, this is not a new problem."
+    },
+    {
+      "end_seconds": 4232.067,
+      "id": "youtube-Lt-lVe957hc#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4216.445,
+      "text": "Starting from the nineteen seventy s, there's the scientific computation or HPC world that already knows that when you are actually doing numerical computation, things are just not possible to reproduce, right? Yeah, that's right. And I think right now, basically, I mean, the AI community are a little bit"
+    },
+    {
+      "end_seconds": 4260.806,
+      "id": "youtube-Lt-lVe957hc#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4232.067,
+      "text": "Me included are a little bit of a spoiled child, and they're not willing to look at existing solutions for that. There's one existing solution, which is numerical stability, right? If you add four float numbers together, if you do one, two, three, four, or four, three, two, one, things are different. And but you can statistically measure the stability, which is a very important thing in numerical computation, right? If you do exponent of something, then you want to make sure that that something is not outrageously large. If you do exp"
+    },
+    {
+      "end_seconds": 4268.168,
+      "id": "youtube-Lt-lVe957hc#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4260.807,
+      "text": "62， you're gonna be boom anyway, right? So all those kind of things are actually already there. So I would basically argue that."
+    },
+    {
+      "end_seconds": 4292.616,
+      "id": "youtube-Lt-lVe957hc#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4268.168,
+      "text": "The solutions there, we just need to basically employ numerical stability into it. That's one part. The second thing that you mentioned is basically about about about interpretability, right? Yeah. That's also something that's really kind of like outrageously academic, I would say. Yeah. People don't care about interpretability. And let me give you one example, right? Okay. So we're all computer vision or things like that. Explain to me."
+    },
+    {
+      "end_seconds": 4319.836,
+      "id": "youtube-Lt-lVe957hc#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4292.616,
+      "text": "What a cat is, in pixels, right? We're forcing computers to basically say we need to have an interpretable computer vision system that classifies a cat. And I was like, well, interpret our own brain. They'll basically say, ah, yeah, a cat has, you know, like pointy ears. I was like, well, what is pointy, right? What is an ear? There are something that is naturally"
+    },
+    {
+      "end_seconds": 4349.112,
+      "id": "youtube-Lt-lVe957hc#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4319.836,
+      "text": "complex and like uninterpretable, and I think that's just fine in many cases. And I mean, if you think about it, you're driving the car back home today, right? Now we don't know if that car is, you know, like might break down or not, right? Maybe there's just a fatigue in the in the middle and it breaks down, right? There are things that are not interpretable. It's just you know, like as long as we have a more statistically safe way to put things in a safe box."
+    },
+    {
+      "end_seconds": 4366.283,
+      "id": "youtube-Lt-lVe957hc#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4349.112,
+      "text": "Then it's fine, and I think this is kind of like one fundamental. Looping back to the very first question: What is changing in the era of AI versus not AI? AI is naturally just statistical. It's not like if you call a function, does a define API a fixed input, fixed output? No longer. This world has changed."
+    },
+    {
+      "end_seconds": 4379.967,
+      "id": "youtube-Lt-lVe957hc#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4366.283,
+      "text": "And we just need to accept it, and then build security fences around those kinds of things, so that statistically, or basically after these bounds, things are working properly. Okay, thank you so much. Sorry, sounds like I ran you too much."
+    },
+    {
+      "end_seconds": 4388.732,
+      "id": "youtube-Lt-lVe957hc#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4379.967,
+      "text": "Oh no! I think with that is a very nice ending, and I like the land. That the world is changed has changed. We just need to accept it."
+    },
+    {
+      "end_seconds": 4410.043,
+      "id": "youtube-Lt-lVe957hc#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4388.732,
+      "text": "啊，所以我们有房间到九点，PM，啊， feel free to network social after the talk。 With that， let's give it up for our speakers. All right， thank you everyone. Thank you. Thank you."
+    },
+    {
+      "end_seconds": 4425.104,
+      "id": "youtube-Lt-lVe957hc#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4410.043,
+      "text": "哎，你那个，你那个，你那个，你那个，你那个，你那个，"
+    },
+    {
+      "end_seconds": 4445.348,
+      "id": "youtube-Lt-lVe957hc#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4425.104,
+      "text": "有没有玩？"
+    },
+    {
+      "end_seconds": 4460.864,
+      "id": "youtube-Lt-lVe957hc#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4445.348,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 4477.93,
+      "id": "youtube-Lt-lVe957hc#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4460.864,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 4502.01,
+      "id": "youtube-Lt-lVe957hc#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4477.93,
+      "text": "哎呀，我这腿疼得不行了。"
+    },
+    {
+      "end_seconds": 4523.659,
+      "id": "youtube-Lt-lVe957hc#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4502.01,
+      "text": "这个加一，这个加一。"
+    },
+    {
+      "end_seconds": 4543.188,
+      "id": "youtube-Lt-lVe957hc#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4523.659,
+      "text": "哎，哎，哎，哎，哎，哎，哎，哎，哎，哎，"
+    },
+    {
+      "end_seconds": 4551.812,
+      "id": "youtube-Lt-lVe957hc#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4543.188,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 4576.307,
+      "id": "youtube-Lt-lVe957hc#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4551.812,
+      "text": "二十七，二十七，二十七，二十七，二十七，二十七，二十七"
+    },
+    {
+      "end_seconds": 4594.402,
+      "id": "youtube-Lt-lVe957hc#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4576.307,
+      "text": "哈哈哈哈！哈哈哈哈！哈哈哈哈！哈哈哈哈！哈哈哈哈！哈哈哈哈！哈哈哈哈！哈哈哈哈！哈哈哈哈！哈哈哈哈！"
+    },
+    {
+      "end_seconds": 4615.092,
+      "id": "youtube-Lt-lVe957hc#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4594.402,
+      "text": "哈哈哈哈哈哈！哈哈哈哈哈哈！"
+    },
+    {
+      "end_seconds": 4629.101,
+      "id": "youtube-Lt-lVe957hc#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4615.092,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 4642.896,
+      "id": "youtube-Lt-lVe957hc#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4629.101,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 4666.691,
+      "id": "youtube-Lt-lVe957hc#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4642.896,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 4684.37,
+      "id": "youtube-Lt-lVe957hc#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4666.691,
+      "text": "这个是。"
+    }
+  ],
+  "video_id": "Lt-lVe957hc",
+  "yuzheng_stance_weight": "not-evidence"
+}

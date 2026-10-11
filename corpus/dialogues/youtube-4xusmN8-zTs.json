@@ -1,0 +1,3792 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-4xusmN8-zTs",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2021-09-18T01:14:06Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T02:06:30.106985+00:00",
+  "published_at": "2021-09-18",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "2c81031bd7573c97ef4097851998bcce0a0e8a542b27c51c00c8ca7389d2036e",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "3b3b85f6bc23021a6a1ac511a5c83e0e3f3d6d8f18e2b6e53ce9a83f42e92374",
+    "root_receipt_sha256": "05b17dd106f4ec367c4424485c265995825aaf4208c4ab026e58d4558c36767a",
+    "unresolved_count": 2
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=4xusmN8-zTs",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=4xusmN8-zTs",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "画柱状图凭啥拿百万年薪？｜DS的产品理解和PM有什么不一样？｜课代表聊数据第10期",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.0,
+      "id": "youtube-4xusmN8-zTs#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "大家好,歡迎回到課代表立正"
+    },
+    {
+      "end_seconds": 3.32,
+      "id": "youtube-4xusmN8-zTs#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.0,
+      "text": "我是你們的課代表"
+    },
+    {
+      "end_seconds": 5.52,
+      "id": "youtube-4xusmN8-zTs#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.32,
+      "text": "這期是我的出力不討好的"
+    },
+    {
+      "end_seconds": 8.0,
+      "id": "youtube-4xusmN8-zTs#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.52,
+      "text": "課代表聊數據的大概第十期吧"
+    },
+    {
+      "end_seconds": 10.0,
+      "id": "youtube-4xusmN8-zTs#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.0,
+      "text": "在這期視頻裡邊我想講一下"
+    },
+    {
+      "end_seconds": 12.0,
+      "id": "youtube-4xusmN8-zTs#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.0,
+      "text": "數據分析的價值是什麼"
+    },
+    {
+      "end_seconds": 14.72,
+      "id": "youtube-4xusmN8-zTs#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.0,
+      "text": "就是我在這個課代表聊數據的第一期"
+    },
+    {
+      "end_seconds": 17.0,
+      "id": "youtube-4xusmN8-zTs#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.72,
+      "text": "有講大概三個分支嘛"
+    },
+    {
+      "end_seconds": 18.64,
+      "id": "youtube-4xusmN8-zTs#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.0,
+      "text": "數據科學的三個分支就是"
+    },
+    {
+      "end_seconds": 20.48,
+      "id": "youtube-4xusmN8-zTs#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.64,
+      "text": "這個數據工程、數據分析"
+    },
+    {
+      "end_seconds": 22.0,
+      "id": "youtube-4xusmN8-zTs#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.48,
+      "text": "和所謂的數據科學"
+    },
+    {
+      "end_seconds": 24.0,
+      "id": "youtube-4xusmN8-zTs#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.0,
+      "text": "其實很多時候是算法"
+    },
+    {
+      "end_seconds": 25.44,
+      "id": "youtube-4xusmN8-zTs#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.0,
+      "text": "或者說做模型,對吧"
+    },
+    {
+      "end_seconds": 27.44,
+      "id": "youtube-4xusmN8-zTs#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.44,
+      "text": "然後我也吐槽了很多算法和模型"
+    },
+    {
+      "end_seconds": 29.44,
+      "id": "youtube-4xusmN8-zTs#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.44,
+      "text": "用的不靠譜的地方"
+    },
+    {
+      "end_seconds": 31.44,
+      "id": "youtube-4xusmN8-zTs#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.44,
+      "text": "然後也吐槽了很多靠譜的地方"
+    },
+    {
+      "end_seconds": 33.439,
+      "id": "youtube-4xusmN8-zTs#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.44,
+      "text": "回頭我可能還會再出一期視頻"
+    },
+    {
+      "end_seconds": 35.439,
+      "id": "youtube-4xusmN8-zTs#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.439,
+      "text": "去講互聯網的生意模式"
+    },
+    {
+      "end_seconds": 37.439,
+      "id": "youtube-4xusmN8-zTs#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.439,
+      "text": "就是它這個算法在其中"
+    },
+    {
+      "end_seconds": 39.439,
+      "id": "youtube-4xusmN8-zTs#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.439,
+      "text": "到底起到了什麼樣的作用"
+    },
+    {
+      "end_seconds": 41.439,
+      "id": "youtube-4xusmN8-zTs#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.439,
+      "text": "數據分析這一塊"
+    },
+    {
+      "end_seconds": 43.439,
+      "id": "youtube-4xusmN8-zTs#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.439,
+      "text": "其實大家有很多困惑"
+    },
+    {
+      "end_seconds": 45.439,
+      "id": "youtube-4xusmN8-zTs#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.439,
+      "text": "大家去總結模型"
+    },
+    {
+      "end_seconds": 47.439,
+      "id": "youtube-4xusmN8-zTs#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.439,
+      "text": "到底可以幹什麼,大家可以總結得很好"
+    },
+    {
+      "end_seconds": 49.439,
+      "id": "youtube-4xusmN8-zTs#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.439,
+      "text": "但是大家在總結數據分析可以幹什麼的時候"
+    },
+    {
+      "end_seconds": 51.439,
+      "id": "youtube-4xusmN8-zTs#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.439,
+      "text": "很多時候就說,我的工作是做"
+    },
+    {
+      "end_seconds": 53.439,
+      "id": "youtube-4xusmN8-zTs#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.439,
+      "text": "dashboard,我的工作是做"
+    },
+    {
+      "end_seconds": 55.439,
+      "id": "youtube-4xusmN8-zTs#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.439,
+      "text": "pipeline,我的工作是"
+    },
+    {
+      "end_seconds": 57.439,
+      "id": "youtube-4xusmN8-zTs#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.439,
+      "text": "提供分析,然後給PMM看"
+    },
+    {
+      "end_seconds": 59.439,
+      "id": "youtube-4xusmN8-zTs#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.439,
+      "text": "就是說我的工作是做AB testing"
+    },
+    {
+      "end_seconds": 61.439,
+      "id": "youtube-4xusmN8-zTs#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.439,
+      "text": "但是你真的說"
+    },
+    {
+      "end_seconds": 63.439,
+      "id": "youtube-4xusmN8-zTs#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.439,
+      "text": "一個非常高level"
+    },
+    {
+      "end_seconds": 65.439,
+      "id": "youtube-4xusmN8-zTs#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.439,
+      "text": "或者overarching的這個"
+    },
+    {
+      "end_seconds": 67.439,
+      "id": "youtube-4xusmN8-zTs#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.439,
+      "text": "說我們所有數據分析"
+    },
+    {
+      "end_seconds": 69.439,
+      "id": "youtube-4xusmN8-zTs#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.439,
+      "text": "它的工作的價值是什麼"
+    },
+    {
+      "end_seconds": 71.439,
+      "id": "youtube-4xusmN8-zTs#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.439,
+      "text": "我們的這些工作到底"
+    },
+    {
+      "end_seconds": 73.439,
+      "id": "youtube-4xusmN8-zTs#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.439,
+      "text": "我做dashboard,做pipeline,給PMM看"
+    },
+    {
+      "end_seconds": 75.439,
+      "id": "youtube-4xusmN8-zTs#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.439,
+      "text": "或者說我自己去怎麼樣"
+    },
+    {
+      "end_seconds": 77.439,
+      "id": "youtube-4xusmN8-zTs#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.439,
+      "text": "它的價值是什麼,它到底是為了幹嘛"
+    },
+    {
+      "end_seconds": 79.439,
+      "id": "youtube-4xusmN8-zTs#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.439,
+      "text": "我覺得這個是我在Facebook一個"
+    },
+    {
+      "end_seconds": 81.439,
+      "id": "youtube-4xusmN8-zTs#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.439,
+      "text": "特別深刻的體會"
+    },
+    {
+      "end_seconds": 83.439,
+      "id": "youtube-4xusmN8-zTs#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.439,
+      "text": "那我就在這分享一下"
+    },
+    {
+      "end_seconds": 85.439,
+      "id": "youtube-4xusmN8-zTs#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 83.439,
+      "text": "其實這個視頻它的主旨也是來自Facebook"
+    },
+    {
+      "end_seconds": 87.439,
+      "id": "youtube-4xusmN8-zTs#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.439,
+      "text": "就是Facebook的一門課"
+    },
+    {
+      "end_seconds": 89.439,
+      "id": "youtube-4xusmN8-zTs#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.439,
+      "text": "那門課的名字叫Better Decisions"
+    },
+    {
+      "end_seconds": 91.439,
+      "id": "youtube-4xusmN8-zTs#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.439,
+      "text": "就是更好的做決策"
+    },
+    {
+      "end_seconds": 93.439,
+      "id": "youtube-4xusmN8-zTs#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.439,
+      "text": "我覺得,對,這就是我們數據分析"
+    },
+    {
+      "end_seconds": 95.439,
+      "id": "youtube-4xusmN8-zTs#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.439,
+      "text": "來提供的價值"
+    },
+    {
+      "end_seconds": 97.439,
+      "id": "youtube-4xusmN8-zTs#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.439,
+      "text": "就是可以幫助大家更好的去做決策"
+    },
+    {
+      "end_seconds": 99.439,
+      "id": "youtube-4xusmN8-zTs#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.439,
+      "text": "其實決策在生活中無處不在"
+    },
+    {
+      "end_seconds": 101.439,
+      "id": "youtube-4xusmN8-zTs#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.439,
+      "text": "就是我吃哪種口味的冰淇淋"
+    },
+    {
+      "end_seconds": 103.439,
+      "id": "youtube-4xusmN8-zTs#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.439,
+      "text": "我打車還是騎車去上班"
+    },
+    {
+      "end_seconds": 105.439,
+      "id": "youtube-4xusmN8-zTs#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.439,
+      "text": "我住什麼樣的房子"
+    },
+    {
+      "end_seconds": 107.439,
+      "id": "youtube-4xusmN8-zTs#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.439,
+      "text": "我今天中午吃辣的還是吃不辣的"
+    },
+    {
+      "end_seconds": 109.439,
+      "id": "youtube-4xusmN8-zTs#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.439,
+      "text": "就無數個決策"
+    },
+    {
+      "end_seconds": 111.439,
+      "id": "youtube-4xusmN8-zTs#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.439,
+      "text": "那它對你的生活有短期長期的影響"
+    },
+    {
+      "end_seconds": 113.439,
+      "id": "youtube-4xusmN8-zTs#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.439,
+      "text": "在公司裡邊"
+    },
+    {
+      "end_seconds": 115.439,
+      "id": "youtube-4xusmN8-zTs#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.439,
+      "text": "在一個business裡邊就更重要了"
+    },
+    {
+      "end_seconds": 117.439,
+      "id": "youtube-4xusmN8-zTs#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.439,
+      "text": "你的所有的這些決策"
+    },
+    {
+      "end_seconds": 119.439,
+      "id": "youtube-4xusmN8-zTs#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.439,
+      "text": "或小或大吧"
+    },
+    {
+      "end_seconds": 121.439,
+      "id": "youtube-4xusmN8-zTs#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.439,
+      "text": "它都是會有一個compounding effect"
+    },
+    {
+      "end_seconds": 123.439,
+      "id": "youtube-4xusmN8-zTs#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.439,
+      "text": "一個公司的決策做得好"
+    },
+    {
+      "end_seconds": 125.439,
+      "id": "youtube-4xusmN8-zTs#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.439,
+      "text": "比如說我要不要做電動車"
+    },
+    {
+      "end_seconds": 127.439,
+      "id": "youtube-4xusmN8-zTs#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.439,
+      "text": "比如說我應不應該去進入這個市場"
+    },
+    {
+      "end_seconds": 129.439,
+      "id": "youtube-4xusmN8-zTs#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.439,
+      "text": "比如說我的UI"
+    },
+    {
+      "end_seconds": 131.439,
+      "id": "youtube-4xusmN8-zTs#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 129.439,
+      "text": "到底應該怎麼設計"
+    },
+    {
+      "end_seconds": 133.439,
+      "id": "youtube-4xusmN8-zTs#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.439,
+      "text": "它各種各樣的決策積累起來"
+    },
+    {
+      "end_seconds": 135.439,
+      "id": "youtube-4xusmN8-zTs#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 133.439,
+      "text": "就會讓這個公司走得更遠"
+    },
+    {
+      "end_seconds": 137.439,
+      "id": "youtube-4xusmN8-zTs#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.439,
+      "text": "產品做得更好"
+    },
+    {
+      "end_seconds": 139.439,
+      "id": "youtube-4xusmN8-zTs#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.439,
+      "text": "或者說是發展得更快"
+    },
+    {
+      "end_seconds": 141.439,
+      "id": "youtube-4xusmN8-zTs#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 139.439,
+      "text": "你要提高公司的決策能力"
+    },
+    {
+      "end_seconds": 143.439,
+      "id": "youtube-4xusmN8-zTs#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 141.439,
+      "text": "這是非常非常重要的"
+    },
+    {
+      "end_seconds": 145.439,
+      "id": "youtube-4xusmN8-zTs#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 143.439,
+      "text": "數據分析項目的數據科學家"
+    },
+    {
+      "end_seconds": 147.439,
+      "id": "youtube-4xusmN8-zTs#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.439,
+      "text": "確實能提供這個能力"
+    },
+    {
+      "end_seconds": 149.439,
+      "id": "youtube-4xusmN8-zTs#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.439,
+      "text": "那我們就從頭開始說吧"
+    },
+    {
+      "end_seconds": 151.439,
+      "id": "youtube-4xusmN8-zTs#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.439,
+      "text": "我們先說一下"
+    },
+    {
+      "end_seconds": 153.439,
+      "id": "youtube-4xusmN8-zTs#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.439,
+      "text": "我覺得決策的這個"
+    },
+    {
+      "end_seconds": 155.439,
+      "id": "youtube-4xusmN8-zTs#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.439,
+      "text": "步驟它的框架是什麼樣子"
+    },
+    {
+      "end_seconds": 157.439,
+      "id": "youtube-4xusmN8-zTs#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 155.439,
+      "text": "也不是我覺得"
+    },
+    {
+      "end_seconds": 159.439,
+      "id": "youtube-4xusmN8-zTs#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.439,
+      "text": "就是那門課裡邊覺得的"
+    },
+    {
+      "end_seconds": 161.439,
+      "id": "youtube-4xusmN8-zTs#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 159.439,
+      "text": "我們先說一下大家總結的"
+    },
+    {
+      "end_seconds": 163.439,
+      "id": "youtube-4xusmN8-zTs#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.439,
+      "text": "你這個所謂的決策"
+    },
+    {
+      "end_seconds": 165.439,
+      "id": "youtube-4xusmN8-zTs#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.439,
+      "text": "它的框架和數據科學"
+    },
+    {
+      "end_seconds": 167.439,
+      "id": "youtube-4xusmN8-zTs#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 165.439,
+      "text": "在這裡邊起到的作用是什麼"
+    },
+    {
+      "end_seconds": 169.439,
+      "id": "youtube-4xusmN8-zTs#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.439,
+      "text": "我覺得決策的框架"
+    },
+    {
+      "end_seconds": 171.439,
+      "id": "youtube-4xusmN8-zTs#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 169.439,
+      "text": "首先要做好兩件事"
+    },
+    {
+      "end_seconds": 173.439,
+      "id": "youtube-4xusmN8-zTs#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 171.439,
+      "text": "第一你要定義好"
+    },
+    {
+      "end_seconds": 175.439,
+      "id": "youtube-4xusmN8-zTs#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.439,
+      "text": "我們的目標是什麼"
+    },
+    {
+      "end_seconds": 177.439,
+      "id": "youtube-4xusmN8-zTs#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.439,
+      "text": "第二你要定義好我們為了達成這個目標"
+    },
+    {
+      "end_seconds": 179.439,
+      "id": "youtube-4xusmN8-zTs#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.439,
+      "text": "我們的strategy是什麼"
+    },
+    {
+      "end_seconds": 181.439,
+      "id": "youtube-4xusmN8-zTs#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.439,
+      "text": "第三步我們是定義好"
+    },
+    {
+      "end_seconds": 183.439,
+      "id": "youtube-4xusmN8-zTs#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 181.439,
+      "text": "我們用什麼樣的數據去measure"
+    },
+    {
+      "end_seconds": 185.439,
+      "id": "youtube-4xusmN8-zTs#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.439,
+      "text": "你的strategy"
+    },
+    {
+      "end_seconds": 187.439,
+      "id": "youtube-4xusmN8-zTs#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 185.439,
+      "text": "這一步很重要"
+    },
+    {
+      "end_seconds": 189.439,
+      "id": "youtube-4xusmN8-zTs#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 187.439,
+      "text": "你measured是你的strategy"
+    },
+    {
+      "end_seconds": 191.439,
+      "id": "youtube-4xusmN8-zTs#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 189.439,
+      "text": "但是你measured不是你的goal"
+    },
+    {
+      "end_seconds": 193.439,
+      "id": "youtube-4xusmN8-zTs#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 191.439,
+      "text": "什麼意思呢"
+    },
+    {
+      "end_seconds": 195.439,
+      "id": "youtube-4xusmN8-zTs#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.439,
+      "text": "而且這其實挺反直覺的"
+    },
+    {
+      "end_seconds": 197.439,
+      "id": "youtube-4xusmN8-zTs#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 195.439,
+      "text": "你想我們說"
+    },
+    {
+      "end_seconds": 199.439,
+      "id": "youtube-4xusmN8-zTs#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.439,
+      "text": "我們的engagement"
+    },
+    {
+      "end_seconds": 201.439,
+      "id": "youtube-4xusmN8-zTs#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 199.439,
+      "text": "或者說我們的revenue"
+    },
+    {
+      "end_seconds": 203.439,
+      "id": "youtube-4xusmN8-zTs#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.439,
+      "text": "到最後其實全都是大家聽起來好像是一個goal"
+    },
+    {
+      "end_seconds": 205.439,
+      "id": "youtube-4xusmN8-zTs#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 203.439,
+      "text": "但是不是的"
+    },
+    {
+      "end_seconds": 207.439,
+      "id": "youtube-4xusmN8-zTs#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 205.439,
+      "text": "其實這些都是measure我們的strategy"
+    },
+    {
+      "end_seconds": 209.439,
+      "id": "youtube-4xusmN8-zTs#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 207.439,
+      "text": "我們的goal是什麼呢"
+    },
+    {
+      "end_seconds": 211.439,
+      "id": "youtube-4xusmN8-zTs#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.439,
+      "text": "我覺得好的goal一定是"
+    },
+    {
+      "end_seconds": 213.439,
+      "id": "youtube-4xusmN8-zTs#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.439,
+      "text": "我們能創造什麼樣的價值"
+    },
+    {
+      "end_seconds": 215.439,
+      "id": "youtube-4xusmN8-zTs#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.439,
+      "text": "比如說假設我是快手吧"
+    },
+    {
+      "end_seconds": 217.439,
+      "id": "youtube-4xusmN8-zTs#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 215.439,
+      "text": "我的goal應該是我應該可以讓"
+    },
+    {
+      "end_seconds": 219.439,
+      "id": "youtube-4xusmN8-zTs#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 217.439,
+      "text": "這個內容生產者"
+    },
+    {
+      "end_seconds": 221.439,
+      "id": "youtube-4xusmN8-zTs#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.439,
+      "text": "更容易的生產視頻"
+    },
+    {
+      "end_seconds": 223.439,
+      "id": "youtube-4xusmN8-zTs#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 221.439,
+      "text": "且他的視頻被更多的人看到"
+    },
+    {
+      "end_seconds": 225.439,
+      "id": "youtube-4xusmN8-zTs#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.439,
+      "text": "我的這個在消費端的話"
+    },
+    {
+      "end_seconds": 227.439,
+      "id": "youtube-4xusmN8-zTs#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 225.439,
+      "text": "我可以讓用戶更好的"
+    },
+    {
+      "end_seconds": 229.439,
+      "id": "youtube-4xusmN8-zTs#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 227.439,
+      "text": "去發現有意思的視頻"
+    },
+    {
+      "end_seconds": 231.439,
+      "id": "youtube-4xusmN8-zTs#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.439,
+      "text": "然後給他們帶來快樂"
+    },
+    {
+      "end_seconds": 233.439,
+      "id": "youtube-4xusmN8-zTs#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 231.439,
+      "text": "可能這是我的最後的目標"
+    },
+    {
+      "end_seconds": 235.439,
+      "id": "youtube-4xusmN8-zTs#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 233.439,
+      "text": "我的strategy在這裡面是"
+    },
+    {
+      "end_seconds": 237.439,
+      "id": "youtube-4xusmN8-zTs#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 235.439,
+      "text": "我要增加視頻的生產速度"
+    },
+    {
+      "end_seconds": 239.439,
+      "id": "youtube-4xusmN8-zTs#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.439,
+      "text": "我要增加視頻的產出量"
+    },
+    {
+      "end_seconds": 241.439,
+      "id": "youtube-4xusmN8-zTs#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 239.439,
+      "text": "在消費端那邊"
+    },
+    {
+      "end_seconds": 243.439,
+      "id": "youtube-4xusmN8-zTs#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 241.439,
+      "text": "可能是我要用一些東西"
+    },
+    {
+      "end_seconds": 245.439,
+      "id": "youtube-4xusmN8-zTs#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 243.439,
+      "text": "去增加大家手藝"
+    },
+    {
+      "end_seconds": 247.439,
+      "id": "youtube-4xusmN8-zTs#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 245.439,
+      "text": "你的感興趣程度"
+    },
+    {
+      "end_seconds": 249.439,
+      "id": "youtube-4xusmN8-zTs#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.439,
+      "text": "這個時候strategy可能就是"
+    },
+    {
+      "end_seconds": 251.439,
+      "id": "youtube-4xusmN8-zTs#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.439,
+      "text": "它的點擊率"
+    },
+    {
+      "end_seconds": 253.439,
+      "id": "youtube-4xusmN8-zTs#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 251.439,
+      "text": "就是它的點擊率要高"
+    },
+    {
+      "end_seconds": 255.439,
+      "id": "youtube-4xusmN8-zTs#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 253.439,
+      "text": "然後我可以用數據點擊率去measure"
+    },
+    {
+      "end_seconds": 257.439,
+      "id": "youtube-4xusmN8-zTs#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 255.439,
+      "text": "我的這個戰略"
+    },
+    {
+      "end_seconds": 259.439,
+      "id": "youtube-4xusmN8-zTs#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 257.439,
+      "text": "第二步就是說消費者"
+    },
+    {
+      "end_seconds": 261.439,
+      "id": "youtube-4xusmN8-zTs#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.439,
+      "text": "來到了這個app"
+    },
+    {
+      "end_seconds": 263.439,
+      "id": "youtube-4xusmN8-zTs#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.439,
+      "text": "他要盡快的發現他的視頻"
+    },
+    {
+      "end_seconds": 265.439,
+      "id": "youtube-4xusmN8-zTs#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 263.439,
+      "text": "盡快的發現他感興趣的視頻"
+    },
+    {
+      "end_seconds": 267.439,
+      "id": "youtube-4xusmN8-zTs#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 265.439,
+      "text": "這件事情就可以用首屏的點擊率來看了"
+    },
+    {
+      "end_seconds": 269.439,
+      "id": "youtube-4xusmN8-zTs#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.439,
+      "text": "或者說是他比如說"
+    },
+    {
+      "end_seconds": 271.439,
+      "id": "youtube-4xusmN8-zTs#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.439,
+      "text": "在首頁會停留多久"
+    },
+    {
+      "end_seconds": 273.439,
+      "id": "youtube-4xusmN8-zTs#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.439,
+      "text": "他看了幾個視頻"
+    },
+    {
+      "end_seconds": 275.439,
+      "id": "youtube-4xusmN8-zTs#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 273.439,
+      "text": "他總共看了多長時間的視頻等等"
+    },
+    {
+      "end_seconds": 277.439,
+      "id": "youtube-4xusmN8-zTs#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.439,
+      "text": "總之就是我們的數據去measure的是這個"
+    },
+    {
+      "end_seconds": 279.439,
+      "id": "youtube-4xusmN8-zTs#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 277.439,
+      "text": "但是我們的數據不是去"
+    },
+    {
+      "end_seconds": 281.439,
+      "id": "youtube-4xusmN8-zTs#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 279.439,
+      "text": "為了measure那個goal的"
+    },
+    {
+      "end_seconds": 283.439,
+      "id": "youtube-4xusmN8-zTs#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 281.439,
+      "text": "方式或者去決定用哪一個strategy更好"
+    },
+    {
+      "end_seconds": 285.439,
+      "id": "youtube-4xusmN8-zTs#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 283.439,
+      "text": "總之有點繞"
+    },
+    {
+      "end_seconds": 287.439,
+      "id": "youtube-4xusmN8-zTs#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.439,
+      "text": "但是我希望就是"
+    },
+    {
+      "end_seconds": 289.439,
+      "id": "youtube-4xusmN8-zTs#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 287.439,
+      "text": "如果大家在大廠工作過"
+    },
+    {
+      "end_seconds": 291.439,
+      "id": "youtube-4xusmN8-zTs#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 289.439,
+      "text": "或者說有一些實踐的經歷的話"
+    },
+    {
+      "end_seconds": 293.439,
+      "id": "youtube-4xusmN8-zTs#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 291.439,
+      "text": "大家可以去用自己的經歷去驗證一下"
+    },
+    {
+      "end_seconds": 295.439,
+      "id": "youtube-4xusmN8-zTs#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.439,
+      "text": "這件事情"
+    },
+    {
+      "end_seconds": 297.439,
+      "id": "youtube-4xusmN8-zTs#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 295.439,
+      "text": "如果你的數據measure的是你的progress to goal的話"
+    },
+    {
+      "end_seconds": 299.439,
+      "id": "youtube-4xusmN8-zTs#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 297.439,
+      "text": "這個數據是不好的"
+    },
+    {
+      "end_seconds": 301.439,
+      "id": "youtube-4xusmN8-zTs#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 299.439,
+      "text": "或者說你的goal是不好的"
+    },
+    {
+      "end_seconds": 303.439,
+      "id": "youtube-4xusmN8-zTs#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.439,
+      "text": "你一定要分清楚"
+    },
+    {
+      "end_seconds": 305.439,
+      "id": "youtube-4xusmN8-zTs#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 303.439,
+      "text": "說了一大堆看似廢話的東西"
+    },
+    {
+      "end_seconds": 307.439,
+      "id": "youtube-4xusmN8-zTs#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 305.439,
+      "text": "但是我覺得這件事情真的很重要"
+    },
+    {
+      "end_seconds": 309.439,
+      "id": "youtube-4xusmN8-zTs#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 307.439,
+      "text": "那用數據去measure"
+    },
+    {
+      "end_seconds": 311.439,
+      "id": "youtube-4xusmN8-zTs#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 309.439,
+      "text": "那用數據measure progress to strategy"
+    },
+    {
+      "end_seconds": 313.439,
+      "id": "youtube-4xusmN8-zTs#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 311.439,
+      "text": "它的好處是什麼"
+    },
+    {
+      "end_seconds": 315.439,
+      "id": "youtube-4xusmN8-zTs#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 313.439,
+      "text": "我覺得它其實就是讓這件事情"
+    },
+    {
+      "end_seconds": 317.439,
+      "id": "youtube-4xusmN8-zTs#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 315.439,
+      "text": "變得客觀和科學"
+    },
+    {
+      "end_seconds": 319.439,
+      "id": "youtube-4xusmN8-zTs#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 317.439,
+      "text": "所以它可以讓好的idea勝出"
+    },
+    {
+      "end_seconds": 321.439,
+      "id": "youtube-4xusmN8-zTs#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 319.439,
+      "text": "而不是職級勝出"
+    },
+    {
+      "end_seconds": 323.439,
+      "id": "youtube-4xusmN8-zTs#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 321.439,
+      "text": "就是我的想法是對的"
+    },
+    {
+      "end_seconds": 325.439,
+      "id": "youtube-4xusmN8-zTs#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 323.439,
+      "text": "那我就可以贏"
+    },
+    {
+      "end_seconds": 327.439,
+      "id": "youtube-4xusmN8-zTs#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 325.439,
+      "text": "而不是說我的職級比你高"
+    },
+    {
+      "end_seconds": 329.439,
+      "id": "youtube-4xusmN8-zTs#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 327.439,
+      "text": "我就可以贏"
+    },
+    {
+      "end_seconds": 331.439,
+      "id": "youtube-4xusmN8-zTs#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 329.439,
+      "text": "而且這個是一個認知的PK"
+    },
+    {
+      "end_seconds": 333.439,
+      "id": "youtube-4xusmN8-zTs#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 331.439,
+      "text": "而不是一個scoped PK"
+    },
+    {
+      "end_seconds": 335.439,
+      "id": "youtube-4xusmN8-zTs#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 333.439,
+      "text": "就是我如果對消費者的"
+    },
+    {
+      "end_seconds": 337.439,
+      "id": "youtube-4xusmN8-zTs#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 335.439,
+      "text": "這個洞察力"
+    },
+    {
+      "end_seconds": 339.439,
+      "id": "youtube-4xusmN8-zTs#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 337.439,
+      "text": "比一個PM高的話"
+    },
+    {
+      "end_seconds": 341.439,
+      "id": "youtube-4xusmN8-zTs#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 339.439,
+      "text": "那我應該站出來說"
+    },
+    {
+      "end_seconds": 343.439,
+      "id": "youtube-4xusmN8-zTs#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 341.439,
+      "text": "我覺得消費者他的想法是這樣子的"
+    },
+    {
+      "end_seconds": 345.439,
+      "id": "youtube-4xusmN8-zTs#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.439,
+      "text": "不是說只有PM"
+    },
+    {
+      "end_seconds": 347.439,
+      "id": "youtube-4xusmN8-zTs#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 345.439,
+      "text": "才可以說產品"
+    },
+    {
+      "end_seconds": 349.439,
+      "id": "youtube-4xusmN8-zTs#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 347.439,
+      "text": "去搞一堆價值觀"
+    },
+    {
+      "end_seconds": 351.439,
+      "id": "youtube-4xusmN8-zTs#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 349.439,
+      "text": "也不是只有數據科學家"
+    },
+    {
+      "end_seconds": 353.439,
+      "id": "youtube-4xusmN8-zTs#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 351.439,
+      "text": "才可以說數據"
+    },
+    {
+      "end_seconds": 355.439,
+      "id": "youtube-4xusmN8-zTs#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 353.439,
+      "text": "如果一個PM覺得這個數據"
+    },
+    {
+      "end_seconds": 357.439,
+      "id": "youtube-4xusmN8-zTs#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 355.439,
+      "text": "他覺得我看錯了"
+    },
+    {
+      "end_seconds": 359.439,
+      "id": "youtube-4xusmN8-zTs#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 357.439,
+      "text": "他覺得我應該去看其他的方式"
+    },
+    {
+      "end_seconds": 361.439,
+      "id": "youtube-4xusmN8-zTs#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 359.439,
+      "text": "那我們也應該去就這個idea"
+    },
+    {
+      "end_seconds": 363.439,
+      "id": "youtube-4xusmN8-zTs#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 361.439,
+      "text": "本身去進行一個PK"
+    },
+    {
+      "end_seconds": 365.439,
+      "id": "youtube-4xusmN8-zTs#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.439,
+      "text": "而不是我去跟那個PM說"
+    },
+    {
+      "end_seconds": 367.439,
+      "id": "youtube-4xusmN8-zTs#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 365.439,
+      "text": "我去看啥數據"
+    },
+    {
+      "end_seconds": 369.439,
+      "id": "youtube-4xusmN8-zTs#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 367.439,
+      "text": "PM也可以看數據的"
+    },
+    {
+      "end_seconds": 371.439,
+      "id": "youtube-4xusmN8-zTs#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 369.439,
+      "text": "其實最後導致的呢"
+    },
+    {
+      "end_seconds": 373.439,
+      "id": "youtube-4xusmN8-zTs#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.439,
+      "text": "就是我們是基於一個原理進行的PK"
+    },
+    {
+      "end_seconds": 375.439,
+      "id": "youtube-4xusmN8-zTs#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 373.439,
+      "text": "而不是基於role進行的PK"
+    },
+    {
+      "end_seconds": 377.439,
+      "id": "youtube-4xusmN8-zTs#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 375.439,
+      "text": "就是說應該是我們所有的人"
+    },
+    {
+      "end_seconds": 379.439,
+      "id": "youtube-4xusmN8-zTs#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 377.439,
+      "text": "不管是數據科學家"
+    },
+    {
+      "end_seconds": 381.439,
+      "id": "youtube-4xusmN8-zTs#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.439,
+      "text": "PM,engineer,designer"
+    },
+    {
+      "end_seconds": 383.439,
+      "id": "youtube-4xusmN8-zTs#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.439,
+      "text": "各方面也好"
+    },
+    {
+      "end_seconds": 385.439,
+      "id": "youtube-4xusmN8-zTs#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 383.439,
+      "text": "我們應該是互相可以說服的"
+    },
+    {
+      "end_seconds": 387.439,
+      "id": "youtube-4xusmN8-zTs#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 385.439,
+      "text": "不應該是因為我的角色不同"
+    },
+    {
+      "end_seconds": 389.439,
+      "id": "youtube-4xusmN8-zTs#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 387.439,
+      "text": "我的結論就不同"
+    },
+    {
+      "end_seconds": 391.439,
+      "id": "youtube-4xusmN8-zTs#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 389.439,
+      "text": "我們最後應該是得到一個結論"
+    },
+    {
+      "end_seconds": 393.439,
+      "id": "youtube-4xusmN8-zTs#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 391.439,
+      "text": "或者說我們起碼知道我們的結論不一樣的話"
+    },
+    {
+      "end_seconds": 395.439,
+      "id": "youtube-4xusmN8-zTs#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 393.439,
+      "text": "我覺得這裡邊就是你的理性能力"
+    },
+    {
+      "end_seconds": 397.439,
+      "id": "youtube-4xusmN8-zTs#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 395.439,
+      "text": "科學分析問題的能力"
+    },
+    {
+      "end_seconds": 399.439,
+      "id": "youtube-4xusmN8-zTs#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 397.439,
+      "text": "和表達能力,組織能力,理解能力"
+    },
+    {
+      "end_seconds": 401.439,
+      "id": "youtube-4xusmN8-zTs#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 399.439,
+      "text": "什麼都很重要"
+    },
+    {
+      "end_seconds": 403.439,
+      "id": "youtube-4xusmN8-zTs#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 401.439,
+      "text": "但是如果說大家的能力"
+    },
+    {
+      "end_seconds": 405.439,
+      "id": "youtube-4xusmN8-zTs#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 403.439,
+      "text": "都到了一個比較好的程度的話"
+    },
+    {
+      "end_seconds": 407.439,
+      "id": "youtube-4xusmN8-zTs#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 405.439,
+      "text": "大家一定能就這個事情的本身"
+    },
+    {
+      "end_seconds": 409.439,
+      "id": "youtube-4xusmN8-zTs#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 407.439,
+      "text": "有一個認知"
+    },
+    {
+      "end_seconds": 411.439,
+      "id": "youtube-4xusmN8-zTs#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 409.439,
+      "text": "如果我們認知不一致的話"
+    },
+    {
+      "end_seconds": 413.439,
+      "id": "youtube-4xusmN8-zTs#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 411.439,
+      "text": "我們也知道為什麼不一致"
+    },
+    {
+      "end_seconds": 415.439,
+      "id": "youtube-4xusmN8-zTs#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.439,
+      "text": "說到這裡的話,我再挖一個坑"
+    },
+    {
+      "end_seconds": 417.439,
+      "id": "youtube-4xusmN8-zTs#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 415.439,
+      "text": "我挖兩個坑吧"
+    },
+    {
+      "end_seconds": 419.439,
+      "id": "youtube-4xusmN8-zTs#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 417.439,
+      "text": "一個坑是我覺得什麼是好的PM"
+    },
+    {
+      "end_seconds": 421.439,
+      "id": "youtube-4xusmN8-zTs#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 419.439,
+      "text": "和看似好但是不好的PM"
+    },
+    {
+      "end_seconds": 423.439,
+      "id": "youtube-4xusmN8-zTs#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 421.439,
+      "text": "我覺得好的PM和看似好但是不好的PM的區別是什麼"
+    },
+    {
+      "end_seconds": 425.439,
+      "id": "youtube-4xusmN8-zTs#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 423.439,
+      "text": "我覺得好的PM和看似好但是不好的PM的區別是什麼"
+    },
+    {
+      "end_seconds": 427.439,
+      "id": "youtube-4xusmN8-zTs#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 425.439,
+      "text": "我覺得好的PM和看似好但是不好的PM的區別是什麼"
+    },
+    {
+      "end_seconds": 429.439,
+      "id": "youtube-4xusmN8-zTs#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.439,
+      "text": "劇透一下,我覺得好的PM"
+    },
+    {
+      "end_seconds": 431.439,
+      "id": "youtube-4xusmN8-zTs#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 429.439,
+      "text": "他應該是注重customer value的"
+    },
+    {
+      "end_seconds": 433.439,
+      "id": "youtube-4xusmN8-zTs#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 431.439,
+      "text": "他應該是注重customer value的"
+    },
+    {
+      "end_seconds": 435.439,
+      "id": "youtube-4xusmN8-zTs#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 433.439,
+      "text": "他是注重business邏輯的"
+    },
+    {
+      "end_seconds": 437.439,
+      "id": "youtube-4xusmN8-zTs#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 435.439,
+      "text": "但是他沒有特別"
+    },
+    {
+      "end_seconds": 439.439,
+      "id": "youtube-4xusmN8-zTs#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 437.439,
+      "text": "把自己的邏輯根植於customer value"
+    },
+    {
+      "end_seconds": 441.439,
+      "id": "youtube-4xusmN8-zTs#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 439.439,
+      "text": "把自己的邏輯根植於customer value"
+    },
+    {
+      "end_seconds": 443.439,
+      "id": "youtube-4xusmN8-zTs#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 441.439,
+      "text": "這個回頭再講吧"
+    },
+    {
+      "end_seconds": 445.439,
+      "id": "youtube-4xusmN8-zTs#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 443.439,
+      "text": "第二個坑就是"
+    },
+    {
+      "end_seconds": 447.439,
+      "id": "youtube-4xusmN8-zTs#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 445.439,
+      "text": "我覺得職場的三能力"
+    },
+    {
+      "end_seconds": 449.439,
+      "id": "youtube-4xusmN8-zTs#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 447.439,
+      "text": "可能是三個視頻"
+    },
+    {
+      "end_seconds": 451.439,
+      "id": "youtube-4xusmN8-zTs#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 449.439,
+      "text": "理解能力、思考能力和執行能力"
+    },
+    {
+      "end_seconds": 453.439,
+      "id": "youtube-4xusmN8-zTs#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.439,
+      "text": "但是大家很多時候"
+    },
+    {
+      "end_seconds": 455.439,
+      "id": "youtube-4xusmN8-zTs#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 453.439,
+      "text": "是關注了三"
+    },
+    {
+      "end_seconds": 457.439,
+      "id": "youtube-4xusmN8-zTs#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.439,
+      "text": "稍稍關注了二,可是理解能力關注的不夠"
+    },
+    {
+      "end_seconds": 459.439,
+      "id": "youtube-4xusmN8-zTs#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 457.439,
+      "text": "所以說我想重點把理解能力"
+    },
+    {
+      "end_seconds": 461.439,
+      "id": "youtube-4xusmN8-zTs#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 459.439,
+      "text": "到底是什麼事"
+    },
+    {
+      "end_seconds": 463.439,
+      "id": "youtube-4xusmN8-zTs#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.439,
+      "text": "為什麼它重要,給大家講一講"
+    },
+    {
+      "end_seconds": 465.439,
+      "id": "youtube-4xusmN8-zTs#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 463.439,
+      "text": "那好,就是把剛才的東西"
+    },
+    {
+      "end_seconds": 467.439,
+      "id": "youtube-4xusmN8-zTs#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 465.439,
+      "text": "稍稍總結一下的話"
+    },
+    {
+      "end_seconds": 469.439,
+      "id": "youtube-4xusmN8-zTs#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 467.439,
+      "text": "第一個就是我們要定義好我們的goal"
+    },
+    {
+      "end_seconds": 471.439,
+      "id": "youtube-4xusmN8-zTs#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 469.439,
+      "text": "就是我們為什麼要做這件事情"
+    },
+    {
+      "end_seconds": 473.439,
+      "id": "youtube-4xusmN8-zTs#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 471.439,
+      "text": "為什麼做這件事情是一件更有意義的事情"
+    },
+    {
+      "end_seconds": 475.439,
+      "id": "youtube-4xusmN8-zTs#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 473.439,
+      "text": "那第二件就是做什麼"
+    },
+    {
+      "end_seconds": 477.439,
+      "id": "youtube-4xusmN8-zTs#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 475.439,
+      "text": "尤其是先做什麼後做什麼"
+    },
+    {
+      "end_seconds": 479.439,
+      "id": "youtube-4xusmN8-zTs#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 477.439,
+      "text": "就是我們要做什麼才能達到我們的目的"
+    },
+    {
+      "end_seconds": 481.439,
+      "id": "youtube-4xusmN8-zTs#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 479.439,
+      "text": "對吧"
+    },
+    {
+      "end_seconds": 483.439,
+      "id": "youtube-4xusmN8-zTs#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 481.439,
+      "text": "第三個就是怎麼做"
+    },
+    {
+      "end_seconds": 485.439,
+      "id": "youtube-4xusmN8-zTs#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 483.439,
+      "text": "這裡面也是strategy的一部分"
+    },
+    {
+      "end_seconds": 487.439,
+      "id": "youtube-4xusmN8-zTs#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 485.439,
+      "text": "最後是我們"
+    },
+    {
+      "end_seconds": 489.439,
+      "id": "youtube-4xusmN8-zTs#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 487.439,
+      "text": "怎麼樣去建立一個框架"
+    },
+    {
+      "end_seconds": 491.439,
+      "id": "youtube-4xusmN8-zTs#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 489.439,
+      "text": "確定我們確實是在做這些事情"
+    },
+    {
+      "end_seconds": 493.439,
+      "id": "youtube-4xusmN8-zTs#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 491.439,
+      "text": "好的,以上這些東西"
+    },
+    {
+      "end_seconds": 495.439,
+      "id": "youtube-4xusmN8-zTs#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 493.439,
+      "text": "說的稍微有點抽象"
+    },
+    {
+      "end_seconds": 497.439,
+      "id": "youtube-4xusmN8-zTs#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.439,
+      "text": "但是我覺得這是我自己"
+    },
+    {
+      "end_seconds": 499.439,
+      "id": "youtube-4xusmN8-zTs#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 497.439,
+      "text": "學到總結並指引我的"
+    },
+    {
+      "end_seconds": 501.439,
+      "id": "youtube-4xusmN8-zTs#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.439,
+      "text": "關於一個DS career的大道理"
+    },
+    {
+      "end_seconds": 503.439,
+      "id": "youtube-4xusmN8-zTs#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.439,
+      "text": "什麼是大道理"
+    },
+    {
+      "end_seconds": 505.439,
+      "id": "youtube-4xusmN8-zTs#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 503.439,
+      "text": "這個大道理可能就很抽象"
+    },
+    {
+      "end_seconds": 507.439,
+      "id": "youtube-4xusmN8-zTs#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 505.439,
+      "text": "但是我一直想著這件事情"
+    },
+    {
+      "end_seconds": 509.439,
+      "id": "youtube-4xusmN8-zTs#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 507.439,
+      "text": "我的職業我覺得就不會走丟"
+    },
+    {
+      "end_seconds": 511.439,
+      "id": "youtube-4xusmN8-zTs#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 509.439,
+      "text": "就是我不會說"
+    },
+    {
+      "end_seconds": 513.44,
+      "id": "youtube-4xusmN8-zTs#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.439,
+      "text": "我要去增加我的"
+    },
+    {
+      "end_seconds": 515.44,
+      "id": "youtube-4xusmN8-zTs#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 513.44,
+      "text": "技術能力"
+    },
+    {
+      "end_seconds": 517.44,
+      "id": "youtube-4xusmN8-zTs#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 515.44,
+      "text": "因為技術能力"
+    },
+    {
+      "end_seconds": 519.44,
+      "id": "youtube-4xusmN8-zTs#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 517.44,
+      "text": "在市場上可以賣得更好"
+    },
+    {
+      "end_seconds": 521.44,
+      "id": "youtube-4xusmN8-zTs#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 519.44,
+      "text": "我會想,如果我可以為我"
+    },
+    {
+      "end_seconds": 523.44,
+      "id": "youtube-4xusmN8-zTs#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 521.44,
+      "text": "做better decision"
+    },
+    {
+      "end_seconds": 525.44,
+      "id": "youtube-4xusmN8-zTs#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 523.44,
+      "text": "這個核心價值去服務的話"
+    },
+    {
+      "end_seconds": 527.44,
+      "id": "youtube-4xusmN8-zTs#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.44,
+      "text": "如果我這個時候發現我需要去增加我的技術能力"
+    },
+    {
+      "end_seconds": 529.44,
+      "id": "youtube-4xusmN8-zTs#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.44,
+      "text": "我就去增加我的技術能力"
+    },
+    {
+      "end_seconds": 531.44,
+      "id": "youtube-4xusmN8-zTs#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.44,
+      "text": "但是一切都是為了去更好的"
+    },
+    {
+      "end_seconds": 533.44,
+      "id": "youtube-4xusmN8-zTs#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.44,
+      "text": "決策這件事情而服務的"
+    },
+    {
+      "end_seconds": 535.44,
+      "id": "youtube-4xusmN8-zTs#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 533.44,
+      "text": "那好,話說回來"
+    },
+    {
+      "end_seconds": 537.44,
+      "id": "youtube-4xusmN8-zTs#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 535.44,
+      "text": "大家聽到了嗎?"
+    },
+    {
+      "end_seconds": 539.44,
+      "id": "youtube-4xusmN8-zTs#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 537.44,
+      "text": "我們是要做更好的決策"
+    },
+    {
+      "end_seconds": 541.44,
+      "id": "youtube-4xusmN8-zTs#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 539.44,
+      "text": "這裡面其實每個人"
+    },
+    {
+      "end_seconds": 543.44,
+      "id": "youtube-4xusmN8-zTs#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 541.44,
+      "text": "每個role"
+    },
+    {
+      "end_seconds": 545.44,
+      "id": "youtube-4xusmN8-zTs#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.44,
+      "text": "Engineer, PM, Leadership,"
+    },
+    {
+      "end_seconds": 547.44,
+      "id": "youtube-4xusmN8-zTs#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.44,
+      "text": "DS, Designer什麼的"
+    },
+    {
+      "end_seconds": 549.44,
+      "id": "youtube-4xusmN8-zTs#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.44,
+      "text": "都可以為這個Goal服務"
+    },
+    {
+      "end_seconds": 551.44,
+      "id": "youtube-4xusmN8-zTs#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 549.44,
+      "text": "而且這其實是大家的一個common goal"
+    },
+    {
+      "end_seconds": 553.44,
+      "id": "youtube-4xusmN8-zTs#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 551.44,
+      "text": "那DS這裡面"
+    },
+    {
+      "end_seconds": 555.44,
+      "id": "youtube-4xusmN8-zTs#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 553.44,
+      "text": "我們的優勢是什麼?"
+    },
+    {
+      "end_seconds": 557.44,
+      "id": "youtube-4xusmN8-zTs#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.44,
+      "text": "我總結出來了四個比較大的優勢"
+    },
+    {
+      "end_seconds": 559.44,
+      "id": "youtube-4xusmN8-zTs#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.44,
+      "text": "如果我們到時候需要的話"
+    },
+    {
+      "end_seconds": 561.44,
+      "id": "youtube-4xusmN8-zTs#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 559.44,
+      "text": "也可以拆開來單獨講"
+    },
+    {
+      "end_seconds": 563.44,
+      "id": "youtube-4xusmN8-zTs#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 561.44,
+      "text": "並且判定Product Market Fit"
+    },
+    {
+      "end_seconds": 565.44,
+      "id": "youtube-4xusmN8-zTs#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 563.44,
+      "text": "看你的產品是不是真的找到了"
+    },
+    {
+      "end_seconds": 567.44,
+      "id": "youtube-4xusmN8-zTs#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 565.44,
+      "text": "它的價值"
+    },
+    {
+      "end_seconds": 569.44,
+      "id": "youtube-4xusmN8-zTs#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 567.44,
+      "text": "消費者是不是真的因為你的產品"
+    },
+    {
+      "end_seconds": 571.44,
+      "id": "youtube-4xusmN8-zTs#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 569.44,
+      "text": "對他們有價值而使用你"
+    },
+    {
+      "end_seconds": 573.44,
+      "id": "youtube-4xusmN8-zTs#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.44,
+      "text": "而不是說我未來上來領個紅包來"
+    },
+    {
+      "end_seconds": 575.44,
+      "id": "youtube-4xusmN8-zTs#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 573.44,
+      "text": "使用你,你相信我"
+    },
+    {
+      "end_seconds": 577.44,
+      "id": "youtube-4xusmN8-zTs#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 575.44,
+      "text": "吐槽Google Pay的那一集"
+    },
+    {
+      "end_seconds": 579.44,
+      "id": "youtube-4xusmN8-zTs#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 577.44,
+      "text": "那就是一個我覺得很典型的"
+    },
+    {
+      "end_seconds": 581.44,
+      "id": "youtube-4xusmN8-zTs#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 579.44,
+      "text": "如果有一個好的DS,他會跟這個"
+    },
+    {
+      "end_seconds": 583.44,
+      "id": "youtube-4xusmN8-zTs#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 581.44,
+      "text": "Whoever有這個想法的人說"
+    },
+    {
+      "end_seconds": 585.44,
+      "id": "youtube-4xusmN8-zTs#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 583.44,
+      "text": "你這個產品沒有Product Market Fit"
+    },
+    {
+      "end_seconds": 587.44,
+      "id": "youtube-4xusmN8-zTs#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 585.44,
+      "text": "所以說你在這個時候不應該直接發紅包"
+    },
+    {
+      "end_seconds": 589.44,
+      "id": "youtube-4xusmN8-zTs#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 587.44,
+      "text": "但是他們unfortunately發了"
+    },
+    {
+      "end_seconds": 591.44,
+      "id": "youtube-4xusmN8-zTs#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 589.44,
+      "text": "大家也看到了最後的結果"
+    },
+    {
+      "end_seconds": 593.44,
+      "id": "youtube-4xusmN8-zTs#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.44,
+      "text": "就是沒有效果,然後大家沒有人在用"
+    },
+    {
+      "end_seconds": 595.44,
+      "id": "youtube-4xusmN8-zTs#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.44,
+      "text": "就是Product Market Fit沒有找好"
+    },
+    {
+      "end_seconds": 597.44,
+      "id": "youtube-4xusmN8-zTs#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 595.44,
+      "text": "這個是DS一個很重要的能力"
+    },
+    {
+      "end_seconds": 599.44,
+      "id": "youtube-4xusmN8-zTs#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 597.44,
+      "text": "那第二個呢,就是在你有"
+    },
+    {
+      "end_seconds": 601.44,
+      "id": "youtube-4xusmN8-zTs#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 599.44,
+      "text": "Product Market Fit的時候"
+    },
+    {
+      "end_seconds": 603.44,
+      "id": "youtube-4xusmN8-zTs#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 601.44,
+      "text": "你要找到合適的growth level"
+    },
+    {
+      "end_seconds": 605.44,
+      "id": "youtube-4xusmN8-zTs#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.44,
+      "text": "就是你要找到怎麼樣去"
+    },
+    {
+      "end_seconds": 607.44,
+      "id": "youtube-4xusmN8-zTs#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 605.44,
+      "text": "增長我的這個產品"
+    },
+    {
+      "end_seconds": 609.44,
+      "id": "youtube-4xusmN8-zTs#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 607.44,
+      "text": "其實很多時候產品"
+    },
+    {
+      "end_seconds": 611.44,
+      "id": "youtube-4xusmN8-zTs#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 609.44,
+      "text": "都是有一個two sided market"
+    },
+    {
+      "end_seconds": 613.44,
+      "id": "youtube-4xusmN8-zTs#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 611.44,
+      "text": "或者說它有一個關鍵的"
+    },
+    {
+      "end_seconds": 615.44,
+      "id": "youtube-4xusmN8-zTs#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 613.44,
+      "text": "blocker,比如說"
+    },
+    {
+      "end_seconds": 617.44,
+      "id": "youtube-4xusmN8-zTs#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 615.44,
+      "text": "你一個電商吧,假設你是一個"
+    },
+    {
+      "end_seconds": 619.44,
+      "id": "youtube-4xusmN8-zTs#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 617.44,
+      "text": "你有一個產品,然後你要去賣"
+    },
+    {
+      "end_seconds": 621.44,
+      "id": "youtube-4xusmN8-zTs#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 619.44,
+      "text": "你可能發現有的人願意來你這買"
+    },
+    {
+      "end_seconds": 623.44,
+      "id": "youtube-4xusmN8-zTs#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 621.44,
+      "text": "但是你可能不知道你"
+    },
+    {
+      "end_seconds": 625.44,
+      "id": "youtube-4xusmN8-zTs#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 623.44,
+      "text": "下一個增長點在哪,你這個時候數據"
+    },
+    {
+      "end_seconds": 627.44,
+      "id": "youtube-4xusmN8-zTs#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 625.44,
+      "text": "可以告訴你下一個增長點在哪"
+    },
+    {
+      "end_seconds": 629.44,
+      "id": "youtube-4xusmN8-zTs#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 627.44,
+      "text": "然後你可能發現你的購物體驗不夠完善"
+    },
+    {
+      "end_seconds": 631.44,
+      "id": "youtube-4xusmN8-zTs#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 629.44,
+      "text": "那數據,尤其是一個"
+    },
+    {
+      "end_seconds": 633.44,
+      "id": "youtube-4xusmN8-zTs#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 631.44,
+      "text": "很有經驗的人,他會"
+    },
+    {
+      "end_seconds": 635.44,
+      "id": "youtube-4xusmN8-zTs#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 633.44,
+      "text": "很有industry domain knowledge的人,他會告訴你"
+    },
+    {
+      "end_seconds": 637.44,
+      "id": "youtube-4xusmN8-zTs#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 635.44,
+      "text": "你這一步他的drop off"
+    },
+    {
+      "end_seconds": 639.44,
+      "id": "youtube-4xusmN8-zTs#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 637.44,
+      "text": "可能比你的競對"
+    },
+    {
+      "end_seconds": 641.44,
+      "id": "youtube-4xusmN8-zTs#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 639.44,
+      "text": "要高很多"
+    },
+    {
+      "end_seconds": 643.44,
+      "id": "youtube-4xusmN8-zTs#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 641.44,
+      "text": "你可能是這一步出的問題,我們去"
+    },
+    {
+      "end_seconds": 645.44,
+      "id": "youtube-4xusmN8-zTs#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 643.44,
+      "text": "想一些想法,然後去把你這一步"
+    },
+    {
+      "end_seconds": 647.44,
+      "id": "youtube-4xusmN8-zTs#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 645.44,
+      "text": "去優化一些,總之呢"
+    },
+    {
+      "end_seconds": 649.44,
+      "id": "youtube-4xusmN8-zTs#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.44,
+      "text": "就是在你找到Paramarket Fit之後"
+    },
+    {
+      "end_seconds": 651.44,
+      "id": "youtube-4xusmN8-zTs#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 649.44,
+      "text": "一個數據科學家"
+    },
+    {
+      "end_seconds": 653.44,
+      "id": "youtube-4xusmN8-zTs#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 651.44,
+      "text": "他應該是有各種各樣的"
+    },
+    {
+      "end_seconds": 655.44,
+      "id": "youtube-4xusmN8-zTs#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 653.44,
+      "text": "工具可以幫你做好增長的"
+    },
+    {
+      "end_seconds": 657.44,
+      "id": "youtube-4xusmN8-zTs#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 655.44,
+      "text": "就是你找到增長的機會,並且"
+    },
+    {
+      "end_seconds": 659.44,
+      "id": "youtube-4xusmN8-zTs#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 657.44,
+      "text": "把增長這個事給做起來"
+    },
+    {
+      "end_seconds": 661.44,
+      "id": "youtube-4xusmN8-zTs#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 659.44,
+      "text": "那第三件事情,也是我們的日常"
+    },
+    {
+      "end_seconds": 663.44,
+      "id": "youtube-4xusmN8-zTs#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 661.44,
+      "text": "工作之一吧,就是"
+    },
+    {
+      "end_seconds": 665.44,
+      "id": "youtube-4xusmN8-zTs#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 663.44,
+      "text": "你有這麼多事情需要做,但是你的"
+    },
+    {
+      "end_seconds": 667.44,
+      "id": "youtube-4xusmN8-zTs#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 665.44,
+      "text": "資源是有限的,那DS可以"
+    },
+    {
+      "end_seconds": 669.44,
+      "id": "youtube-4xusmN8-zTs#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 667.44,
+      "text": "幫你判斷優先級,判斷優先級的方法"
+    },
+    {
+      "end_seconds": 671.44,
+      "id": "youtube-4xusmN8-zTs#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 669.44,
+      "text": "就是我們可以用數據"
+    },
+    {
+      "end_seconds": 673.44,
+      "id": "youtube-4xusmN8-zTs#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 671.44,
+      "text": "去看一下這件事情的"
+    },
+    {
+      "end_seconds": 675.44,
+      "id": "youtube-4xusmN8-zTs#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 673.44,
+      "text": "total addressable market"
+    },
+    {
+      "end_seconds": 677.44,
+      "id": "youtube-4xusmN8-zTs#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 675.44,
+      "text": "他的機會到底有多大"
+    },
+    {
+      "end_seconds": 679.44,
+      "id": "youtube-4xusmN8-zTs#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 677.44,
+      "text": "這個時候我們也會聽,比如說engineer"
+    },
+    {
+      "end_seconds": 681.44,
+      "id": "youtube-4xusmN8-zTs#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 679.44,
+      "text": "說這件事情做起來有多難"
+    },
+    {
+      "end_seconds": 683.44,
+      "id": "youtube-4xusmN8-zTs#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 681.44,
+      "text": "然後我們也會聽其他人的意見"
+    },
+    {
+      "end_seconds": 685.44,
+      "id": "youtube-4xusmN8-zTs#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 683.44,
+      "text": "他是不是我們考慮他的長期"
+    },
+    {
+      "end_seconds": 687.44,
+      "id": "youtube-4xusmN8-zTs#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 685.44,
+      "text": "效果,是不是有數據之外"
+    },
+    {
+      "end_seconds": 689.44,
+      "id": "youtube-4xusmN8-zTs#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 687.44,
+      "text": "我們沒有辦法measure的東西,但是總之呢"
+    },
+    {
+      "end_seconds": 691.44,
+      "id": "youtube-4xusmN8-zTs#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 689.44,
+      "text": "我們也可以,就是一個好的數據科學家"
+    },
+    {
+      "end_seconds": 693.44,
+      "id": "youtube-4xusmN8-zTs#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 691.44,
+      "text": "他一定不是只立足於他能看到"
+    },
+    {
+      "end_seconds": 695.44,
+      "id": "youtube-4xusmN8-zTs#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.44,
+      "text": "一點點數據的,但是能綜合各方面"
+    },
+    {
+      "end_seconds": 697.44,
+      "id": "youtube-4xusmN8-zTs#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 695.44,
+      "text": "的意見之後,把事情排一個優先級"
+    },
+    {
+      "end_seconds": 699.44,
+      "id": "youtube-4xusmN8-zTs#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 697.44,
+      "text": "然後先做哪件,後做哪一件"
+    },
+    {
+      "end_seconds": 701.44,
+      "id": "youtube-4xusmN8-zTs#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 699.44,
+      "text": "這是第三件事,第四件事情"
+    },
+    {
+      "end_seconds": 703.44,
+      "id": "youtube-4xusmN8-zTs#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 701.44,
+      "text": "就是在很關鍵的角色上,幫助大家做一個取捨"
+    },
+    {
+      "end_seconds": 705.44,
+      "id": "youtube-4xusmN8-zTs#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 703.44,
+      "text": "如果說這個事情肯定都是好的"
+    },
+    {
+      "end_seconds": 707.44,
+      "id": "youtube-4xusmN8-zTs#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 705.44,
+      "text": "或是都是壞的,那就不需要我們了"
+    },
+    {
+      "end_seconds": 709.44,
+      "id": "youtube-4xusmN8-zTs#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 707.44,
+      "text": "大家全好的去做,全壞的就不做"
+    },
+    {
+      "end_seconds": 711.44,
+      "id": "youtube-4xusmN8-zTs#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 709.44,
+      "text": "很多時候你是要做一些非常艱難的選擇的"
+    },
+    {
+      "end_seconds": 713.44,
+      "id": "youtube-4xusmN8-zTs#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 711.44,
+      "text": "就是你可能有一些短期的影響"
+    },
+    {
+      "end_seconds": 715.44,
+      "id": "youtube-4xusmN8-zTs#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 713.44,
+      "text": "但是短期的不好的影響"
+    },
+    {
+      "end_seconds": 717.44,
+      "id": "youtube-4xusmN8-zTs#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 715.44,
+      "text": "但是長期是好的"
+    },
+    {
+      "end_seconds": 719.44,
+      "id": "youtube-4xusmN8-zTs#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 717.44,
+      "text": "有的時候你會有長期的這個不好的影響"
+    },
+    {
+      "end_seconds": 721.44,
+      "id": "youtube-4xusmN8-zTs#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 719.44,
+      "text": "但是短期是好的"
+    },
+    {
+      "end_seconds": 723.44,
+      "id": "youtube-4xusmN8-zTs#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 721.44,
+      "text": "或者說你對一些用戶好"
+    },
+    {
+      "end_seconds": 725.44,
+      "id": "youtube-4xusmN8-zTs#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 723.44,
+      "text": "對一些用戶不好"
+    },
+    {
+      "end_seconds": 727.44,
+      "id": "youtube-4xusmN8-zTs#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 725.44,
+      "text": "那這個時候,如果說"
+    },
+    {
+      "end_seconds": 729.44,
+      "id": "youtube-4xusmN8-zTs#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 727.44,
+      "text": "是一個好的DS,他能"
+    },
+    {
+      "end_seconds": 731.44,
+      "id": "youtube-4xusmN8-zTs#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 729.44,
+      "text": "他能在心中有一個對於你這個"
+    },
+    {
+      "end_seconds": 733.44,
+      "id": "youtube-4xusmN8-zTs#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 731.44,
+      "text": "business model的一個原模型"
+    },
+    {
+      "end_seconds": 735.44,
+      "id": "youtube-4xusmN8-zTs#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 733.44,
+      "text": "他就會知道你這些不同的"
+    },
+    {
+      "end_seconds": 737.44,
+      "id": "youtube-4xusmN8-zTs#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 735.44,
+      "text": "parameter,或者說是input"
+    },
+    {
+      "end_seconds": 739.44,
+      "id": "youtube-4xusmN8-zTs#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 737.44,
+      "text": "最後會導致你的這個output"
+    },
+    {
+      "end_seconds": 741.44,
+      "id": "youtube-4xusmN8-zTs#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 739.44,
+      "text": "有什麼變化"
+    },
+    {
+      "end_seconds": 743.44,
+      "id": "youtube-4xusmN8-zTs#cue-372",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 741.44,
+      "text": "當然這個模型很難是一個完美的"
+    },
+    {
+      "end_seconds": 745.44,
+      "id": "youtube-4xusmN8-zTs#cue-373",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 743.44,
+      "text": "模型,或者說就世界上不存在"
+    },
+    {
+      "end_seconds": 747.44,
+      "id": "youtube-4xusmN8-zTs#cue-374",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.44,
+      "text": "這樣一個完美的模型,但是一個好的DS"
+    },
+    {
+      "end_seconds": 749.44,
+      "id": "youtube-4xusmN8-zTs#cue-375",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 747.44,
+      "text": "他應該是對你的產品"
+    },
+    {
+      "end_seconds": 751.44,
+      "id": "youtube-4xusmN8-zTs#cue-376",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 749.44,
+      "text": "有認知的,他會知道"
+    },
+    {
+      "end_seconds": 753.44,
+      "id": "youtube-4xusmN8-zTs#cue-377",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 751.44,
+      "text": "如果我今天造成了一些"
+    },
+    {
+      "end_seconds": 755.44,
+      "id": "youtube-4xusmN8-zTs#cue-378",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 753.44,
+      "text": "不好的customer體驗,但是增加了"
+    },
+    {
+      "end_seconds": 757.44,
+      "id": "youtube-4xusmN8-zTs#cue-379",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 755.44,
+      "text": "我的銷量,那接下來"
+    },
+    {
+      "end_seconds": 759.44,
+      "id": "youtube-4xusmN8-zTs#cue-380",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 757.44,
+      "text": "他大概會產生什麼樣的不好的效果"
+    },
+    {
+      "end_seconds": 761.44,
+      "id": "youtube-4xusmN8-zTs#cue-381",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 759.44,
+      "text": "這也是我有一些視頻,就是這個經濟學"
+    },
+    {
+      "end_seconds": 763.44,
+      "id": "youtube-4xusmN8-zTs#cue-382",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 761.44,
+      "text": "給我帶來了啟發,你要關注"
+    },
+    {
+      "end_seconds": 765.44,
+      "id": "youtube-4xusmN8-zTs#cue-383",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 763.44,
+      "text": "Equilibrium,你要關注均衡"
+    },
+    {
+      "end_seconds": 767.44,
+      "id": "youtube-4xusmN8-zTs#cue-384",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 765.44,
+      "text": "你要關注second order effect"
+    },
+    {
+      "end_seconds": 769.44,
+      "id": "youtube-4xusmN8-zTs#cue-385",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 767.44,
+      "text": "就是你要關注這個"
+    },
+    {
+      "end_seconds": 771.44,
+      "id": "youtube-4xusmN8-zTs#cue-386",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 769.44,
+      "text": "你一個決定做出了以後,其他的人會怎麼反應"
+    },
+    {
+      "end_seconds": 773.44,
+      "id": "youtube-4xusmN8-zTs#cue-387",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 771.44,
+      "text": "對吧,這也是其中之一"
+    },
+    {
+      "end_seconds": 775.44,
+      "id": "youtube-4xusmN8-zTs#cue-388",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 773.44,
+      "text": "你不是只看到短期,你能看到一個"
+    },
+    {
+      "end_seconds": 777.44,
+      "id": "youtube-4xusmN8-zTs#cue-389",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 775.44,
+      "text": "bigger picture,我覺得很多"
+    },
+    {
+      "end_seconds": 779.44,
+      "id": "youtube-4xusmN8-zTs#cue-390",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 777.44,
+      "text": "好的DS都是有這個能力,並且能在"
+    },
+    {
+      "end_seconds": 781.44,
+      "id": "youtube-4xusmN8-zTs#cue-391",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 779.44,
+      "text": "這個能力之上,幫助"
+    },
+    {
+      "end_seconds": 783.44,
+      "id": "youtube-4xusmN8-zTs#cue-392",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 781.44,
+      "text": "一個企業做出一些很重要的取捨"
+    },
+    {
+      "end_seconds": 785.44,
+      "id": "youtube-4xusmN8-zTs#cue-393",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 783.44,
+      "text": "好的,那這些視頻就到這"
+    },
+    {
+      "end_seconds": 787.44,
+      "id": "youtube-4xusmN8-zTs#cue-394",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 785.44,
+      "text": "如果我自己給自己稍微總結一下的話"
+    },
+    {
+      "end_seconds": 789.44,
+      "id": "youtube-4xusmN8-zTs#cue-395",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 787.44,
+      "text": "就講了"
+    },
+    {
+      "end_seconds": 791.44,
+      "id": "youtube-4xusmN8-zTs#cue-396",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 789.44,
+      "text": "DS的核心價值在什麼"
+    },
+    {
+      "end_seconds": 793.44,
+      "id": "youtube-4xusmN8-zTs#cue-397",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 791.44,
+      "text": "在於better decisions,幫助大家做出更好的決策"
+    },
+    {
+      "end_seconds": 795.44,
+      "id": "youtube-4xusmN8-zTs#cue-398",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 793.44,
+      "text": "那怎麼樣去做出"
+    },
+    {
+      "end_seconds": 797.44,
+      "id": "youtube-4xusmN8-zTs#cue-399",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 795.44,
+      "text": "更好的決策,或者做決策的步驟"
+    },
+    {
+      "end_seconds": 799.44,
+      "id": "youtube-4xusmN8-zTs#cue-400",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 797.44,
+      "text": "是什麼,你要先定goal,然後"
+    },
+    {
+      "end_seconds": 801.44,
+      "id": "youtube-4xusmN8-zTs#cue-401",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 799.44,
+      "text": "再定strategy,然後再定你的measurement"
+    },
+    {
+      "end_seconds": 803.44,
+      "id": "youtube-4xusmN8-zTs#cue-402",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 801.44,
+      "text": "那之後再去做execution"
+    },
+    {
+      "end_seconds": 805.44,
+      "id": "youtube-4xusmN8-zTs#cue-403",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 803.44,
+      "text": "那DS在這裡邊"
+    },
+    {
+      "end_seconds": 807.44,
+      "id": "youtube-4xusmN8-zTs#cue-404",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 805.44,
+      "text": "我們的核心可以做的"
+    },
+    {
+      "end_seconds": 809.44,
+      "id": "youtube-4xusmN8-zTs#cue-405",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 807.44,
+      "text": "事情是什麼呢,第一找"
+    },
+    {
+      "end_seconds": 811.44,
+      "id": "youtube-4xusmN8-zTs#cue-406",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 809.44,
+      "text": "product market fit,第二找growth level"
+    },
+    {
+      "end_seconds": 813.44,
+      "id": "youtube-4xusmN8-zTs#cue-407",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 811.44,
+      "text": "第三找total addressable market"
+    },
+    {
+      "end_seconds": 815.44,
+      "id": "youtube-4xusmN8-zTs#cue-408",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 813.44,
+      "text": "然後排priorities,第四"
+    },
+    {
+      "end_seconds": 817.44,
+      "id": "youtube-4xusmN8-zTs#cue-409",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 815.44,
+      "text": "做關鍵的取捨"
+    },
+    {
+      "end_seconds": 819.44,
+      "id": "youtube-4xusmN8-zTs#cue-410",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 817.44,
+      "text": "那每一個話題都可以單獨展開"
+    },
+    {
+      "end_seconds": 821.44,
+      "id": "youtube-4xusmN8-zTs#cue-411",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 819.44,
+      "text": "那下一期吧"
+    },
+    {
+      "end_seconds": 823.44,
+      "id": "youtube-4xusmN8-zTs#cue-412",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 821.44,
+      "text": "我就用我在Facebook的一些例子"
+    },
+    {
+      "end_seconds": 825.44,
+      "id": "youtube-4xusmN8-zTs#cue-413",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 823.44,
+      "text": "來給大家提供一些具體的"
+    },
+    {
+      "end_seconds": 827.44,
+      "id": "youtube-4xusmN8-zTs#cue-414",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 825.44,
+      "text": "這種更直觀一點的感受"
+    },
+    {
+      "end_seconds": 829.44,
+      "id": "youtube-4xusmN8-zTs#cue-415",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 827.44,
+      "text": "好的,這期視頻我們就到這裡"
+    },
+    {
+      "end_seconds": 831.44,
+      "id": "youtube-4xusmN8-zTs#cue-416",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 829.44,
+      "text": "大家下期再見,拜拜"
+    }
+  ],
+  "video_id": "4xusmN8-zTs",
+  "yuzheng_stance_weight": "not-evidence"
+}

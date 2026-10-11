@@ -1,0 +1,3104 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-fPollnUVitg",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-05-23T01:20:40Z",
+  "participant_aliases": [
+    "Tu Wang",
+    "土汪"
+  ],
+  "participant_entity_ids": [
+    "guest:tu-wang"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "土汪",
+  "public_verified_at": "2026-10-11T01:59:09.861700+00:00",
+  "published_at": "2025-05-23",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "38caede94624236b1956bbe9cc57ac3dd8fe7fd6449c7455f9d6bdfe3e60cfb9",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "ddc112808d71d573ad90504ea440ba9688f3f6986e7514afef3fa6852723ab71",
+    "root_receipt_sha256": "d66ac72a2f2d48e87cd026eff18b494d6623a664e0ffc695ba44ef325e64b6fa",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=fPollnUVitg",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=fPollnUVitg",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "Meta Tech Lead: 怎样提高自己的“身价”？",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 22.133,
+      "id": "youtube-fPollnUVitg#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.1,
+      "text": "好土汪"
+    },
+    {
+      "end_seconds": 23.933,
+      "id": "youtube-fPollnUVitg#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.233,
+      "text": "（你好～）要不要跟大家介绍一下"
+    },
+    {
+      "end_seconds": 24.366,
+      "id": "youtube-fPollnUVitg#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.933,
+      "text": "hey hello"
+    },
+    {
+      "end_seconds": 25.166,
+      "id": "youtube-fPollnUVitg#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.366,
+      "text": "大家好我是土汪"
+    },
+    {
+      "end_seconds": 27.633,
+      "id": "youtube-fPollnUVitg#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.433,
+      "text": "怎么说我是北美的一个程序员"
+    },
+    {
+      "end_seconds": 28.866,
+      "id": "youtube-fPollnUVitg#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.633,
+      "text": "然后跟课代表"
+    },
+    {
+      "end_seconds": 30.933,
+      "id": "youtube-fPollnUVitg#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.866,
+      "text": "是在他的Academy（社区）里面认识的"
+    },
+    {
+      "end_seconds": 31.533,
+      "id": "youtube-fPollnUVitg#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.933,
+      "text": "大家好"
+    },
+    {
+      "end_seconds": 32.333,
+      "id": "youtube-fPollnUVitg#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.533,
+      "text": "介绍好谦虚啊"
+    },
+    {
+      "end_seconds": 33.266,
+      "id": "youtube-fPollnUVitg#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.333,
+      "text": "工作多久了"
+    },
+    {
+      "end_seconds": 35.633,
+      "id": "youtube-fPollnUVitg#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.366,
+      "text": "工作十年了"
+    },
+    {
+      "end_seconds": 36.666,
+      "id": "youtube-fPollnUVitg#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.666,
+      "text": "十...哎"
+    },
+    {
+      "end_seconds": 37.566,
+      "id": "youtube-fPollnUVitg#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.666,
+      "text": "十年十一年了"
+    },
+    {
+      "end_seconds": 38.966,
+      "id": "youtube-fPollnUVitg#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.566,
+      "text": "我是14年毕业的"
+    },
+    {
+      "end_seconds": 39.866,
+      "id": "youtube-fPollnUVitg#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.966,
+      "text": "然后呃"
+    },
+    {
+      "end_seconds": 41.066,
+      "id": "youtube-fPollnUVitg#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.866,
+      "text": "到现在就11年了吧"
+    },
+    {
+      "end_seconds": 41.866,
+      "id": "youtube-fPollnUVitg#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.133,
+      "text": "先亚马逊"
+    },
+    {
+      "end_seconds": 43.6,
+      "id": "youtube-fPollnUVitg#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.866,
+      "text": "再Meta之前有吗"
+    },
+    {
+      "end_seconds": 45.833,
+      "id": "youtube-fPollnUVitg#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.7,
+      "text": "对一开始我在一个比较老的企业"
+    },
+    {
+      "end_seconds": 46.766,
+      "id": "youtube-fPollnUVitg#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.833,
+      "text": "叫施耐德电气"
+    },
+    {
+      "end_seconds": 50.833,
+      "id": "youtube-fPollnUVitg#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.766,
+      "text": "哦哇～然后后来在Amazon是4年"
+    },
+    {
+      "end_seconds": 53.866,
+      "id": "youtube-fPollnUVitg#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.833,
+      "text": "然后到Meta就一直到现在大概5年了"
+    },
+    {
+      "end_seconds": 55.3,
+      "id": "youtube-fPollnUVitg#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.866,
+      "text": "你现在在Meta是个Tech lead"
+    },
+    {
+      "end_seconds": 57.1,
+      "id": "youtube-fPollnUVitg#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.6,
+      "text": "对Tech lead"
+    },
+    {
+      "end_seconds": 58.933,
+      "id": "youtube-fPollnUVitg#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.2,
+      "text": "然后我们组大概十几个人"
+    },
+    {
+      "end_seconds": 59.666,
+      "id": "youtube-fPollnUVitg#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.933,
+      "text": "我旁边的组"
+    },
+    {
+      "end_seconds": 61.333,
+      "id": "youtube-fPollnUVitg#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.666,
+      "text": "我带一个组大概六七个人"
+    },
+    {
+      "end_seconds": 62.2,
+      "id": "youtube-fPollnUVitg#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.9,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 65.3,
+      "id": "youtube-fPollnUVitg#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.2,
+      "text": "然后你在我的这个Academy小课堂里面"
+    },
+    {
+      "end_seconds": 67.0,
+      "id": "youtube-fPollnUVitg#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.3,
+      "text": "有一个Manager的讲座"
+    },
+    {
+      "end_seconds": 68.2,
+      "id": "youtube-fPollnUVitg#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.0,
+      "text": "然后你来讲了"
+    },
+    {
+      "end_seconds": 69.933,
+      "id": "youtube-fPollnUVitg#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.233,
+      "text": "对我跟你们交流觉得挺开心的"
+    },
+    {
+      "end_seconds": 71.833,
+      "id": "youtube-fPollnUVitg#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.933,
+      "text": "就是看到其他的Manager mindset （管理者思维）"
+    },
+    {
+      "end_seconds": 74.066,
+      "id": "youtube-fPollnUVitg#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.133,
+      "text": "嗯大家如果感兴趣"
+    },
+    {
+      "end_seconds": 75.9,
+      "id": "youtube-fPollnUVitg#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.066,
+      "text": "就是关于工作这方面的话"
+    },
+    {
+      "end_seconds": 77.333,
+      "id": "youtube-fPollnUVitg#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.9,
+      "text": "可以看一下那个视频"
+    },
+    {
+      "end_seconds": 78.266,
+      "id": "youtube-fPollnUVitg#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.333,
+      "text": "就是土汪"
+    },
+    {
+      "end_seconds": 82.233,
+      "id": "youtube-fPollnUVitg#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.266,
+      "text": "介绍了他很多管理技巧和管理哲学"
+    },
+    {
+      "end_seconds": 83.966,
+      "id": "youtube-fPollnUVitg#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.3,
+      "text": "那我们今天聊是聊你"
+    },
+    {
+      "end_seconds": 85.433,
+      "id": "youtube-fPollnUVitg#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.033,
+      "text": "你跟我讲了一个事情挺有意思的"
+    },
+    {
+      "end_seconds": 88.466,
+      "id": "youtube-fPollnUVitg#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.433,
+      "text": "就是你19年的时候有一个Midlife Crisis（中年危机）"
+    },
+    {
+      "end_seconds": 90.4,
+      "id": "youtube-fPollnUVitg#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.466,
+      "text": "然后你做了视频"
+    },
+    {
+      "end_seconds": 91.766,
+      "id": "youtube-fPollnUVitg#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 90.7,
+      "text": "你其实也有很多装备"
+    },
+    {
+      "end_seconds": 94.133,
+      "id": "youtube-fPollnUVitg#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.766,
+      "text": "包括我家现在很多装备是你推荐的"
+    },
+    {
+      "end_seconds": 96.366,
+      "id": "youtube-fPollnUVitg#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.4,
+      "text": "对这也是一个很高级的装备"
+    },
+    {
+      "end_seconds": 97.766,
+      "id": "youtube-fPollnUVitg#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.366,
+      "text": "然后后来又不做了"
+    },
+    {
+      "end_seconds": 98.866,
+      "id": "youtube-fPollnUVitg#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.766,
+      "text": "然后最近又打算做"
+    },
+    {
+      "end_seconds": 101.833,
+      "id": "youtube-fPollnUVitg#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.2,
+      "text": "那你这次是打算认真做吗"
+    },
+    {
+      "end_seconds": 103.5,
+      "id": "youtube-fPollnUVitg#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.833,
+      "text": "是打算成为一个money income（收入来源）吗"
+    },
+    {
+      "end_seconds": 104.6,
+      "id": "youtube-fPollnUVitg#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.5,
+      "text": "然后你打算做什么呢"
+    },
+    {
+      "end_seconds": 107.0,
+      "id": "youtube-fPollnUVitg#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 104.666,
+      "text": "我想改变一下形式"
+    },
+    {
+      "end_seconds": 110.0,
+      "id": "youtube-fPollnUVitg#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.233,
+      "text": "我过去的形式就是talking head（对着镜头讲话）"
+    },
+    {
+      "end_seconds": 111.6,
+      "id": "youtube-fPollnUVitg#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.0,
+      "text": "基本上是讲自己的东西"
+    },
+    {
+      "end_seconds": 113.233,
+      "id": "youtube-fPollnUVitg#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.6,
+      "text": "然后讲到一定程度"
+    },
+    {
+      "end_seconds": 114.4,
+      "id": "youtube-fPollnUVitg#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.233,
+      "text": "我发现就没有的讲了"
+    },
+    {
+      "end_seconds": 115.933,
+      "id": "youtube-fPollnUVitg#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 114.4,
+      "text": "因为我的context（内容）比较limited（有限）"
+    },
+    {
+      "end_seconds": 117.466,
+      "id": "youtube-fPollnUVitg#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.033,
+      "text": "所以我现在想换一个形式"
+    },
+    {
+      "end_seconds": 119.0,
+      "id": "youtube-fPollnUVitg#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.466,
+      "text": "就比如说采访别人"
+    },
+    {
+      "end_seconds": 121.6,
+      "id": "youtube-fPollnUVitg#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.033,
+      "text": "假设你给别人提供这种职业指导"
+    },
+    {
+      "end_seconds": 124.066,
+      "id": "youtube-fPollnUVitg#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.633,
+      "text": "修改简历interview（面试）的这种服务"
+    },
+    {
+      "end_seconds": 125.2,
+      "id": "youtube-fPollnUVitg#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 124.133,
+      "text": "首先你会考虑吗"
+    },
+    {
+      "end_seconds": 126.366,
+      "id": "youtube-fPollnUVitg#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.2,
+      "text": "第二如果你考虑的话"
+    },
+    {
+      "end_seconds": 127.5,
+      "id": "youtube-fPollnUVitg#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 126.366,
+      "text": "你会收多少钱"
+    },
+    {
+      "end_seconds": 128.133,
+      "id": "youtube-fPollnUVitg#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.6,
+      "text": "时薪"
+    },
+    {
+      "end_seconds": 131.166,
+      "id": "youtube-fPollnUVitg#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.3,
+      "text": "我并没有考虑过这样子做"
+    },
+    {
+      "end_seconds": 133.1,
+      "id": "youtube-fPollnUVitg#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.166,
+      "text": "因为我觉得他不太sustainable（可持续）"
+    },
+    {
+      "end_seconds": 135.433,
+      "id": "youtube-fPollnUVitg#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 133.1,
+      "text": "可能明天我...如果我的身份变了"
+    },
+    {
+      "end_seconds": 137.5,
+      "id": "youtube-fPollnUVitg#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.433,
+      "text": "假如说我不是一个let's say（假如）"
+    },
+    {
+      "end_seconds": 138.8,
+      "id": "youtube-fPollnUVitg#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.5,
+      "text": "我变成了一个manager"
+    },
+    {
+      "end_seconds": 141.366,
+      "id": "youtube-fPollnUVitg#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 138.9,
+      "text": "那我对他的那些technical的interview的skill"
+    },
+    {
+      "end_seconds": 143.3,
+      "id": "youtube-fPollnUVitg#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 141.366,
+      "text": "是不是意义就不大了"
+    },
+    {
+      "end_seconds": 145.3,
+      "id": "youtube-fPollnUVitg#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 143.3,
+      "text": "或者我做了别的工作之类的"
+    },
+    {
+      "end_seconds": 147.666,
+      "id": "youtube-fPollnUVitg#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.3,
+      "text": "可能我的那个人设是比较短的"
+    },
+    {
+      "end_seconds": 147.8,
+      "id": "youtube-fPollnUVitg#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.666,
+      "text": "就是"
+    },
+    {
+      "end_seconds": 150.2,
+      "id": "youtube-fPollnUVitg#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.8,
+      "text": "如果只是用我的software engineer(软件工程师）的这个身份"
+    },
+    {
+      "end_seconds": 151.366,
+      "id": "youtube-fPollnUVitg#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.2,
+      "text": "去做一个YouTube呀"
+    },
+    {
+      "end_seconds": 152.266,
+      "id": "youtube-fPollnUVitg#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.366,
+      "text": "或者Podcast"
+    },
+    {
+      "end_seconds": 153.233,
+      "id": "youtube-fPollnUVitg#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 152.3,
+      "text": "我说的不是说"
+    },
+    {
+      "end_seconds": 156.0,
+      "id": "youtube-fPollnUVitg#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.266,
+      "text": "我建议你的整个channel是怎么样子develop"
+    },
+    {
+      "end_seconds": 156.3,
+      "id": "youtube-fPollnUVitg#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 156.0,
+      "text": "yeah～"
+    },
+    {
+      "end_seconds": 158.4,
+      "id": "youtube-fPollnUVitg#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 156.3,
+      "text": "我只是提了一个thought experiment（思想实验）"
+    },
+    {
+      "end_seconds": 159.433,
+      "id": "youtube-fPollnUVitg#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.4,
+      "text": "这个thought experiment的目的"
+    },
+    {
+      "end_seconds": 161.566,
+      "id": "youtube-fPollnUVitg#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 159.433,
+      "text": "是为了gauge（衡量）你对赚钱的感觉"
+    },
+    {
+      "end_seconds": 164.2,
+      "id": "youtube-fPollnUVitg#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.566,
+      "text": "这个thought experiment就是你会愿意"
+    },
+    {
+      "end_seconds": 166.066,
+      "id": "youtube-fPollnUVitg#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 164.2,
+      "text": "比如说明天有人说土汪"
+    },
+    {
+      "end_seconds": 168.2,
+      "id": "youtube-fPollnUVitg#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 166.066,
+      "text": "我想找你来给我mock interview（模拟面试）也好"
+    },
+    {
+      "end_seconds": 169.8,
+      "id": "youtube-fPollnUVitg#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.2,
+      "text": "或者说是提供一些"
+    },
+    {
+      "end_seconds": 172.9,
+      "id": "youtube-fPollnUVitg#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 169.8,
+      "text": "就是职业发展上的这个consulting session（咨询服务）"
+    },
+    {
+      "end_seconds": 173.5,
+      "id": "youtube-fPollnUVitg#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 172.9,
+      "text": "你会干吗"
+    },
+    {
+      "end_seconds": 174.6,
+      "id": "youtube-fPollnUVitg#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.6,
+      "text": "我觉得我不会干"
+    },
+    {
+      "end_seconds": 178.1,
+      "id": "youtube-fPollnUVitg#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 174.833,
+      "text": "因为这件事情对我没有任何的好处"
+    },
+    {
+      "end_seconds": 179.9,
+      "id": "youtube-fPollnUVitg#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 178.266,
+      "text": "比如说我花半个小时时间"
+    },
+    {
+      "end_seconds": 181.3,
+      "id": "youtube-fPollnUVitg#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.9,
+      "text": "我charge你一些钱"
+    },
+    {
+      "end_seconds": 182.2,
+      "id": "youtube-fPollnUVitg#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 181.5,
+      "text": "I learn nothing（我学不到任何东西）"
+    },
+    {
+      "end_seconds": 185.133,
+      "id": "youtube-fPollnUVitg#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 182.233,
+      "text": "因为我还是会以我个人为单位去做的嘛"
+    },
+    {
+      "end_seconds": 187.266,
+      "id": "youtube-fPollnUVitg#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 185.133,
+      "text": "那我一天能来多少个interview session"
+    },
+    {
+      "end_seconds": 188.266,
+      "id": "youtube-fPollnUVitg#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 187.266,
+      "text": "我还是在打工"
+    },
+    {
+      "end_seconds": 192.233,
+      "id": "youtube-fPollnUVitg#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.633,
+      "text": "这个可能（对我来说）ROI没有那么高"
+    },
+    {
+      "end_seconds": 193.366,
+      "id": "youtube-fPollnUVitg#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 192.566,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 195.033,
+      "id": "youtube-fPollnUVitg#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.866,
+      "text": "非常make sense"
+    },
+    {
+      "end_seconds": 197.033,
+      "id": "youtube-fPollnUVitg#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 195.266,
+      "text": "假设你明天突然没工作了"
+    },
+    {
+      "end_seconds": 199.833,
+      "id": "youtube-fPollnUVitg#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.5,
+      "text": "（yeah～I will do anything）然后你需要这个钱的话"
+    },
+    {
+      "end_seconds": 201.033,
+      "id": "youtube-fPollnUVitg#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 199.833,
+      "text": "那当然什么都会去做"
+    },
+    {
+      "end_seconds": 203.6,
+      "id": "youtube-fPollnUVitg#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.166,
+      "text": "前提是一个我已经有一个稳定的收入"
+    },
+    {
+      "end_seconds": 206.166,
+      "id": "youtube-fPollnUVitg#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 203.6,
+      "text": "然后我不会去invest into individual（投入到一对一）这种"
+    },
+    {
+      "end_seconds": 206.966,
+      "id": "youtube-fPollnUVitg#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 206.166,
+      "text": "是是是"
+    },
+    {
+      "end_seconds": 208.433,
+      "id": "youtube-fPollnUVitg#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 207.033,
+      "text": "你的回答很好"
+    },
+    {
+      "end_seconds": 208.966,
+      "id": "youtube-fPollnUVitg#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 208.5,
+      "text": "确实"
+    },
+    {
+      "end_seconds": 210.233,
+      "id": "youtube-fPollnUVitg#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.0,
+      "text": "我不觉得做那件事情"
+    },
+    {
+      "end_seconds": 212.433,
+      "id": "youtube-fPollnUVitg#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 210.233,
+      "text": "对大多数有正式工作的人"
+    },
+    {
+      "end_seconds": 214.6,
+      "id": "youtube-fPollnUVitg#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 212.566,
+      "text": "在financially是make sense的"
+    },
+    {
+      "end_seconds": 216.066,
+      "id": "youtube-fPollnUVitg#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.6,
+      "text": "因为他是需要花时间"
+    },
+    {
+      "end_seconds": 218.233,
+      "id": "youtube-fPollnUVitg#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.066,
+      "text": "对但是我们就remove这个factor（排除这个因素）"
+    },
+    {
+      "end_seconds": 219.3,
+      "id": "youtube-fPollnUVitg#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 218.366,
+      "text": "我们继续去想"
+    },
+    {
+      "end_seconds": 221.166,
+      "id": "youtube-fPollnUVitg#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.3,
+      "text": "赚钱这件事本身对你的想法"
+    },
+    {
+      "end_seconds": 224.4,
+      "id": "youtube-fPollnUVitg#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 221.2,
+      "text": "那你觉得就假设你需要这个收入"
+    },
+    {
+      "end_seconds": 226.3,
+      "id": "youtube-fPollnUVitg#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 224.4,
+      "text": "你希望最大化你在这方面的收入"
+    },
+    {
+      "end_seconds": 228.7,
+      "id": "youtube-fPollnUVitg#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 226.766,
+      "text": "你希望想方设法的有更多的客户"
+    },
+    {
+      "end_seconds": 231.033,
+      "id": "youtube-fPollnUVitg#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 228.7,
+      "text": "然后给你更高的单价啊"
+    },
+    {
+      "end_seconds": 233.833,
+      "id": "youtube-fPollnUVitg#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 231.033,
+      "text": "对吧假设你就需要做好这件事情"
+    },
+    {
+      "end_seconds": 235.066,
+      "id": "youtube-fPollnUVitg#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 233.833,
+      "text": "那你会...（make sense）OK"
+    },
+    {
+      "end_seconds": 236.2,
+      "id": "youtube-fPollnUVitg#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 235.066,
+      "text": "你首先你会做"
+    },
+    {
+      "end_seconds": 237.1,
+      "id": "youtube-fPollnUVitg#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 236.2,
+      "text": "对 这make sense"
+    },
+    {
+      "end_seconds": 238.3,
+      "id": "youtube-fPollnUVitg#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.1,
+      "text": "那你会charge多少钱"
+    },
+    {
+      "end_seconds": 239.1,
+      "id": "youtube-fPollnUVitg#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.3,
+      "text": "1小时"
+    },
+    {
+      "end_seconds": 240.133,
+      "id": "youtube-fPollnUVitg#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 239.166,
+      "text": "一小时"
+    },
+    {
+      "end_seconds": 241.2,
+      "id": "youtube-fPollnUVitg#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 240.633,
+      "text": "你的目标是"
+    },
+    {
+      "end_seconds": 243.5,
+      "id": "youtube-fPollnUVitg#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 241.2,
+      "text": "为了maximize（最大化）你的这方面的revenue（收入）"
+    },
+    {
+      "end_seconds": 244.633,
+      "id": "youtube-fPollnUVitg#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 243.5,
+      "text": "yeah～yeah～"
+    },
+    {
+      "end_seconds": 245.966,
+      "id": "youtube-fPollnUVitg#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 244.633,
+      "text": "如果你去一个therapy（心理治疗）的话"
+    },
+    {
+      "end_seconds": 246.633,
+      "id": "youtube-fPollnUVitg#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 245.966,
+      "text": "一个小时是"
+    },
+    {
+      "end_seconds": 248.033,
+      "id": "youtube-fPollnUVitg#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 246.633,
+      "text": "比如说两三百块钱"
+    },
+    {
+      "end_seconds": 249.666,
+      "id": "youtube-fPollnUVitg#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 248.266,
+      "text": "cutting from that（跟那个比的话）"
+    },
+    {
+      "end_seconds": 251.166,
+      "id": "youtube-fPollnUVitg#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.766,
+      "text": "may you这么complex（复杂）"
+    },
+    {
+      "end_seconds": 253.233,
+      "id": "youtube-fPollnUVitg#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 251.166,
+      "text": "那做一个interview也许100块钱let's say（假如）"
+    },
+    {
+      "end_seconds": 255.266,
+      "id": "youtube-fPollnUVitg#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 253.766,
+      "text": "一小时100 100 yeah～"
+    },
+    {
+      "end_seconds": 257.5,
+      "id": "youtube-fPollnUVitg#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 256.033,
+      "text": "很便宜（很便宜是吧）"
+    },
+    {
+      "end_seconds": 259.233,
+      "id": "youtube-fPollnUVitg#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 257.5,
+      "text": "太便宜了（太便宜了）"
+    },
+    {
+      "end_seconds": 260.366,
+      "id": "youtube-fPollnUVitg#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.233,
+      "text": "一般的市价是多少"
+    },
+    {
+      "end_seconds": 261.266,
+      "id": "youtube-fPollnUVitg#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 260.366,
+      "text": "其实我没有概念"
+    },
+    {
+      "end_seconds": 262.933,
+      "id": "youtube-fPollnUVitg#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.366,
+      "text": "这里我解释一下有意思的话题是"
+    },
+    {
+      "end_seconds": 264.366,
+      "id": "youtube-fPollnUVitg#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 262.933,
+      "text": "你怎么样子给自己定价"
+    },
+    {
+      "end_seconds": 266.966,
+      "id": "youtube-fPollnUVitg#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 264.933,
+      "text": "就是你定价的benchmark（基准）是什么"
+    },
+    {
+      "end_seconds": 267.866,
+      "id": "youtube-fPollnUVitg#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.066,
+      "text": "ah～ I see"
+    },
+    {
+      "end_seconds": 269.8,
+      "id": "youtube-fPollnUVitg#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 268.133,
+      "text": "首先你的定价的方式是对的"
+    },
+    {
+      "end_seconds": 272.033,
+      "id": "youtube-fPollnUVitg#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.8,
+      "text": "就是你是按照市场定价的对吧"
+    },
+    {
+      "end_seconds": 272.6,
+      "id": "youtube-fPollnUVitg#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 272.033,
+      "text": "就是市场上"
+    },
+    {
+      "end_seconds": 275.666,
+      "id": "youtube-fPollnUVitg#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 272.6,
+      "text": "大家可能愿意为你这个东西付费的价格是多少"
+    },
+    {
+      "end_seconds": 276.766,
+      "id": "youtube-fPollnUVitg#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.666,
+      "text": "然后100块钱"
+    },
+    {
+      "end_seconds": 277.8,
+      "id": "youtube-fPollnUVitg#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 276.766,
+      "text": "我觉得是make sense的"
+    },
+    {
+      "end_seconds": 279.766,
+      "id": "youtube-fPollnUVitg#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 278.066,
+      "text": "100到200都make sense的（yeah～）"
+    },
+    {
+      "end_seconds": 281.066,
+      "id": "youtube-fPollnUVitg#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 279.766,
+      "text": "但是背后还有一个问题"
+    },
+    {
+      "end_seconds": 283.033,
+      "id": "youtube-fPollnUVitg#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 281.066,
+      "text": "就是你对你这方面的价值"
+    },
+    {
+      "end_seconds": 285.566,
+      "id": "youtube-fPollnUVitg#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 283.033,
+      "text": "就是你觉得你给学生提供了多少的价值"
+    },
+    {
+      "end_seconds": 286.2,
+      "id": "youtube-fPollnUVitg#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.666,
+      "text": "假设你觉得"
+    },
+    {
+      "end_seconds": 288.533,
+      "id": "youtube-fPollnUVitg#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 286.2,
+      "text": "我一个小时能给你提供1万块钱价值"
+    },
+    {
+      "end_seconds": 290.666,
+      "id": "youtube-fPollnUVitg#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 288.533,
+      "text": "（嗯哼～）你可能敢于定到1,000块"
+    },
+    {
+      "end_seconds": 291.6,
+      "id": "youtube-fPollnUVitg#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 290.8,
+      "text": "I see your point（我明白你的意思了）"
+    },
+    {
+      "end_seconds": 293.733,
+      "id": "youtube-fPollnUVitg#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 292.333,
+      "text": "但是从100做到1,000"
+    },
+    {
+      "end_seconds": 295.366,
+      "id": "youtube-fPollnUVitg#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.733,
+      "text": "它是需要一个craft（技巧）"
+    },
+    {
+      "end_seconds": 298.033,
+      "id": "youtube-fPollnUVitg#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 295.366,
+      "text": "就是定100很简单定100你只要符合这个市场"
+    },
+    {
+      "end_seconds": 299.266,
+      "id": "youtube-fPollnUVitg#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 298.033,
+      "text": "然后你把你的招牌打出去"
+    },
+    {
+      "end_seconds": 300.066,
+      "id": "youtube-fPollnUVitg#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 299.266,
+      "text": "就会有人来"
+    },
+    {
+      "end_seconds": 301.6,
+      "id": "youtube-fPollnUVitg#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 300.4,
+      "text": "但定到1,000就很难"
+    },
+    {
+      "end_seconds": 304.066,
+      "id": "youtube-fPollnUVitg#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.8,
+      "text": "这是我觉得赚钱有意思的地方"
+    },
+    {
+      "end_seconds": 305.966,
+      "id": "youtube-fPollnUVitg#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 304.066,
+      "text": "就是怎么样子把你从100定到1,000"
+    },
+    {
+      "end_seconds": 307.166,
+      "id": "youtube-fPollnUVitg#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 306.133,
+      "text": "我懂你意思"
+    },
+    {
+      "end_seconds": 310.6,
+      "id": "youtube-fPollnUVitg#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 307.333,
+      "text": "可能在你要给他这一个小时的value"
+    },
+    {
+      "end_seconds": 312.666,
+      "id": "youtube-fPollnUVitg#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 310.6,
+      "text": "然后你要怎么样让他有1千块钱的"
+    },
+    {
+      "end_seconds": 314.033,
+      "id": "youtube-fPollnUVitg#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 312.666,
+      "text": "或者broader value（更大的价值）"
+    },
+    {
+      "end_seconds": 315.366,
+      "id": "youtube-fPollnUVitg#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 314.033,
+      "text": "肯定是要1万块钱的value"
+    },
+    {
+      "end_seconds": 316.166,
+      "id": "youtube-fPollnUVitg#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 315.366,
+      "text": "对一万块钱的value"
+    },
+    {
+      "end_seconds": 318.8,
+      "id": "youtube-fPollnUVitg#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.166,
+      "text": "然后你要make it as um worth it（让它值得）"
+    },
+    {
+      "end_seconds": 320.633,
+      "id": "youtube-fPollnUVitg#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 318.833,
+      "text": "然后花很多时间去准备这个东西"
+    },
+    {
+      "end_seconds": 321.433,
+      "id": "youtube-fPollnUVitg#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 320.633,
+      "text": "或者..."
+    },
+    {
+      "end_seconds": 322.6,
+      "id": "youtube-fPollnUVitg#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.133,
+      "text": "no？"
+    },
+    {
+      "end_seconds": 323.666,
+      "id": "youtube-fPollnUVitg#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.633,
+      "text": "你是怎么去"
+    },
+    {
+      "end_seconds": 324.766,
+      "id": "youtube-fPollnUVitg#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 323.766,
+      "text": "prepare for"
+    },
+    {
+      "end_seconds": 325.8,
+      "id": "youtube-fPollnUVitg#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.8,
+      "text": "就是1,000块钱的课程"
+    },
+    {
+      "end_seconds": 326.466,
+      "id": "youtube-fPollnUVitg#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 325.8,
+      "text": "你怎么去"
+    },
+    {
+      "end_seconds": 328.2,
+      "id": "youtube-fPollnUVitg#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.833,
+      "text": "articulate（阐明）它的价值"
+    },
+    {
+      "end_seconds": 329.333,
+      "id": "youtube-fPollnUVitg#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.266,
+      "text": "这是个挺有意思的点"
+    },
+    {
+      "end_seconds": 333.6,
+      "id": "youtube-fPollnUVitg#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 329.4,
+      "text": "假设你能给这个人提高10%的成功率or whatever"
+    },
+    {
+      "end_seconds": 334.733,
+      "id": "youtube-fPollnUVitg#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 333.933,
+      "text": "或者ROI吧"
+    },
+    {
+      "end_seconds": 335.733,
+      "id": "youtube-fPollnUVitg#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 334.733,
+      "text": "就是他来了以后"
+    },
+    {
+      "end_seconds": 337.5,
+      "id": "youtube-fPollnUVitg#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 335.733,
+      "text": "他的水平能提高10%"
+    },
+    {
+      "end_seconds": 339.5,
+      "id": "youtube-fPollnUVitg#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 337.6,
+      "text": "那你怎么样子多收钱呢"
+    },
+    {
+      "end_seconds": 342.033,
+      "id": "youtube-fPollnUVitg#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 339.6,
+      "text": "你是想方设法提高成20%吗"
+    },
+    {
+      "end_seconds": 346.3,
+      "id": "youtube-fPollnUVitg#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 342.266,
+      "text": "还是你找一个他本身的基数大的人"
+    },
+    {
+      "end_seconds": 347.466,
+      "id": "youtube-fPollnUVitg#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 346.5,
+      "text": "I see"
+    },
+    {
+      "end_seconds": 350.9,
+      "id": "youtube-fPollnUVitg#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 348.4,
+      "text": "那其实是有一个target audience（目标受众）的"
+    },
+    {
+      "end_seconds": 354.066,
+      "id": "youtube-fPollnUVitg#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 351.5,
+      "text": "对而且你要能在这个target audience（目标受众 ） 里面"
+    },
+    {
+      "end_seconds": 354.7,
+      "id": "youtube-fPollnUVitg#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.066,
+      "text": "建立信任"
+    },
+    {
+      "end_seconds": 356.766,
+      "id": "youtube-fPollnUVitg#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.766,
+      "text": "对于一个他本身可能是100万"
+    },
+    {
+      "end_seconds": 360.833,
+      "id": "youtube-fPollnUVitg#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 356.766,
+      "text": "对吧然后你能convince他说我能给你提高10%"
+    },
+    {
+      "end_seconds": 362.6,
+      "id": "youtube-fPollnUVitg#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 360.866,
+      "text": "他非常乐意给你付1,000块钱"
+    },
+    {
+      "end_seconds": 363.7,
+      "id": "youtube-fPollnUVitg#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.166,
+      "text": "但一个人"
+    },
+    {
+      "end_seconds": 364.966,
+      "id": "youtube-fPollnUVitg#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.7,
+      "text": "他如果本身是1,000块钱"
+    },
+    {
+      "end_seconds": 365.966,
+      "id": "youtube-fPollnUVitg#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 364.966,
+      "text": "你说我能给你提高10%"
+    },
+    {
+      "end_seconds": 367.066,
+      "id": "youtube-fPollnUVitg#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 365.966,
+      "text": "他不可能给你付1,000的"
+    },
+    {
+      "end_seconds": 367.766,
+      "id": "youtube-fPollnUVitg#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 367.4,
+      "text": "heihei～"
+    },
+    {
+      "end_seconds": 370.9,
+      "id": "youtube-fPollnUVitg#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 367.833,
+      "text": "Is that整个的这个thought experiment吗"
+    },
+    {
+      "end_seconds": 371.4,
+      "id": "youtube-fPollnUVitg#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 370.9,
+      "text": "差不多吧"
+    },
+    {
+      "end_seconds": 373.466,
+      "id": "youtube-fPollnUVitg#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.4,
+      "text": "就是看对赚钱的这个理解"
+    },
+    {
+      "end_seconds": 374.8,
+      "id": "youtube-fPollnUVitg#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 373.5,
+      "text": "对赚钱的看法"
+    },
+    {
+      "end_seconds": 376.866,
+      "id": "youtube-fPollnUVitg#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 375.4,
+      "text": "对这背后有好多东西"
+    },
+    {
+      "end_seconds": 378.6,
+      "id": "youtube-fPollnUVitg#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 376.9,
+      "text": "就这只是赚钱的一个点"
+    },
+    {
+      "end_seconds": 380.3,
+      "id": "youtube-fPollnUVitg#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 378.6,
+      "text": "但这个thought experiment可以看到"
+    },
+    {
+      "end_seconds": 381.966,
+      "id": "youtube-fPollnUVitg#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 380.3,
+      "text": "这背后其实有一个这样的"
+    },
+    {
+      "end_seconds": 383.4,
+      "id": "youtube-fPollnUVitg#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.966,
+      "text": "很大的一个body（体系）在"
+    },
+    {
+      "end_seconds": 384.266,
+      "id": "youtube-fPollnUVitg#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 383.633,
+      "text": "对"
+    },
+    {
+      "end_seconds": 385.833,
+      "id": "youtube-fPollnUVitg#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.266,
+      "text": "就这个东西是挺好玩的"
+    },
+    {
+      "end_seconds": 388.166,
+      "id": "youtube-fPollnUVitg#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 385.833,
+      "text": "就为什么我的频道的兴趣变了"
+    },
+    {
+      "end_seconds": 390.6,
+      "id": "youtube-fPollnUVitg#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 388.233,
+      "text": "我的频道从升职加薪变到了这里"
+    },
+    {
+      "end_seconds": 391.9,
+      "id": "youtube-fPollnUVitg#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 390.633,
+      "text": "因为我觉得这里很好玩"
+    },
+    {
+      "end_seconds": 393.433,
+      "id": "youtube-fPollnUVitg#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 392.2,
+      "text": "就这些东西也是"
+    },
+    {
+      "end_seconds": 394.1,
+      "id": "youtube-fPollnUVitg#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 393.433,
+      "text": "就你看吧"
+    },
+    {
+      "end_seconds": 395.1,
+      "id": "youtube-fPollnUVitg#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 394.266,
+      "text": "你混了这么久了"
+    },
+    {
+      "end_seconds": 395.566,
+      "id": "youtube-fPollnUVitg#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 395.1,
+      "text": "哈哈"
+    },
+    {
+      "end_seconds": 396.866,
+      "id": "youtube-fPollnUVitg#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 395.666,
+      "text": "其实你问我的时候"
+    },
+    {
+      "end_seconds": 398.5,
+      "id": "youtube-fPollnUVitg#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 396.9,
+      "text": "我的回答应该是比较raw（原始）"
+    },
+    {
+      "end_seconds": 401.333,
+      "id": "youtube-fPollnUVitg#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 398.866,
+      "text": "没有特别...对这个raw是最宝贵的"
+    },
+    {
+      "end_seconds": 403.7,
+      "id": "youtube-fPollnUVitg#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 401.333,
+      "text": "对你说这mindset我觉得很make sense"
+    },
+    {
+      "end_seconds": 405.466,
+      "id": "youtube-fPollnUVitg#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 403.7,
+      "text": "因为我是在国内上的学嘛"
+    },
+    {
+      "end_seconds": 407.933,
+      "id": "youtube-fPollnUVitg#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 405.466,
+      "text": "他会把你定义到一个"
+    },
+    {
+      "end_seconds": 409.1,
+      "id": "youtube-fPollnUVitg#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 408.0,
+      "text": "一个set一个path"
+    },
+    {
+      "end_seconds": 410.133,
+      "id": "youtube-fPollnUVitg#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 409.1,
+      "text": "一个工具path"
+    },
+    {
+      "end_seconds": 410.4,
+      "id": "youtube-fPollnUVitg#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.133,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 412.333,
+      "id": "youtube-fPollnUVitg#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.4,
+      "text": "就是说你supposedly to be(理应）"
+    },
+    {
+      "end_seconds": 413.066,
+      "id": "youtube-fPollnUVitg#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 412.366,
+      "text": "在学习里面也好"
+    },
+    {
+      "end_seconds": 413.966,
+      "id": "youtube-fPollnUVitg#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.066,
+      "text": "在工作里面也好"
+    },
+    {
+      "end_seconds": 415.766,
+      "id": "youtube-fPollnUVitg#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.966,
+      "text": "然后有一个ladder（阶梯）你可以去爬"
+    },
+    {
+      "end_seconds": 417.2,
+      "id": "youtube-fPollnUVitg#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 416.2,
+      "text": "如果你爬的好"
+    },
+    {
+      "end_seconds": 418.3,
+      "id": "youtube-fPollnUVitg#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 417.2,
+      "text": "you can be really good"
+    },
+    {
+      "end_seconds": 420.133,
+      "id": "youtube-fPollnUVitg#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 418.6,
+      "text": "然后大家都follow through this（遵循这条路径）"
+    },
+    {
+      "end_seconds": 423.366,
+      "id": "youtube-fPollnUVitg#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 420.533,
+      "text": "我的mindset一定是被定义在这里面的"
+    },
+    {
+      "end_seconds": 424.3,
+      "id": "youtube-fPollnUVitg#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 423.366,
+      "text": "我讲一个例子"
+    },
+    {
+      "end_seconds": 427.2,
+      "id": "youtube-fPollnUVitg#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.3,
+      "text": "就是当时我从西雅图搬走的时候"
+    },
+    {
+      "end_seconds": 430.5,
+      "id": "youtube-fPollnUVitg#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.2,
+      "text": "我把自己的那个小家要变成一个Airbnb"
+    },
+    {
+      "end_seconds": 432.566,
+      "id": "youtube-fPollnUVitg#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 430.566,
+      "text": "它对我来说是一个非常痛苦的事情"
+    },
+    {
+      "end_seconds": 435.7,
+      "id": "youtube-fPollnUVitg#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.733,
+      "text": "因为我没有办法接受这个uncertainty"
+    },
+    {
+      "end_seconds": 437.3,
+      "id": "youtube-fPollnUVitg#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 435.7,
+      "text": "啊就你不知道谁来对吧"
+    },
+    {
+      "end_seconds": 438.766,
+      "id": "youtube-fPollnUVitg#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 437.3,
+      "text": "你不知道你的这个付出"
+    },
+    {
+      "end_seconds": 441.166,
+      "id": "youtube-fPollnUVitg#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 438.766,
+      "text": "跟收入能不能持平啊"
+    },
+    {
+      "end_seconds": 443.9,
+      "id": "youtube-fPollnUVitg#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 441.166,
+      "text": "然后到最后他会不会给你带来很大的"
+    },
+    {
+      "end_seconds": 444.766,
+      "id": "youtube-fPollnUVitg#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 443.9,
+      "text": "毕竟是个房子"
+    },
+    {
+      "end_seconds": 446.533,
+      "id": "youtube-fPollnUVitg#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 444.766,
+      "text": "会不会带来很大的风险"
+    },
+    {
+      "end_seconds": 448.633,
+      "id": "youtube-fPollnUVitg#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 446.833,
+      "text": "我都没有办法 comprehend（理解）"
+    },
+    {
+      "end_seconds": 451.0,
+      "id": "youtube-fPollnUVitg#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 448.633,
+      "text": "但是大概了一两年之后"
+    },
+    {
+      "end_seconds": 452.533,
+      "id": "youtube-fPollnUVitg#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.733,
+      "text": "慢慢习惯了"
+    },
+    {
+      "end_seconds": 453.666,
+      "id": "youtube-fPollnUVitg#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 452.6,
+      "text": "就是那个压力一直都在"
+    },
+    {
+      "end_seconds": 454.5,
+      "id": "youtube-fPollnUVitg#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 453.666,
+      "text": "不是说压力就没了"
+    },
+    {
+      "end_seconds": 455.1,
+      "id": "youtube-fPollnUVitg#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 454.5,
+      "text": "压力一直在"
+    },
+    {
+      "end_seconds": 457.666,
+      "id": "youtube-fPollnUVitg#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.1,
+      "text": "我只是疲软了习惯了"
+    },
+    {
+      "end_seconds": 459.233,
+      "id": "youtube-fPollnUVitg#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 457.666,
+      "text": "最后我的tipping point（转折点）是"
+    },
+    {
+      "end_seconds": 460.866,
+      "id": "youtube-fPollnUVitg#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 459.333,
+      "text": "Covid差不多结束了"
+    },
+    {
+      "end_seconds": 461.9,
+      "id": "youtube-fPollnUVitg#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 460.866,
+      "text": "我重新开始做的时候"
+    },
+    {
+      "end_seconds": 462.9,
+      "id": "youtube-fPollnUVitg#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.9,
+      "text": "回到家里面"
+    },
+    {
+      "end_seconds": 466.6,
+      "id": "youtube-fPollnUVitg#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 462.933,
+      "text": "把这里面我之前就是觉得应该留着的"
+    },
+    {
+      "end_seconds": 468.5,
+      "id": "youtube-fPollnUVitg#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 466.6,
+      "text": "自己的personal东西全部扔掉了"
+    },
+    {
+      "end_seconds": 470.1,
+      "id": "youtube-fPollnUVitg#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 468.5,
+      "text": "把家里完全变成了一个"
+    },
+    {
+      "end_seconds": 472.033,
+      "id": "youtube-fPollnUVitg#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 470.1,
+      "text": "almost like hotel（像酒店）的一个状态之后"
+    },
+    {
+      "end_seconds": 474.133,
+      "id": "youtube-fPollnUVitg#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 472.533,
+      "text": "我就发现那个负担就没了"
+    },
+    {
+      "end_seconds": 476.8,
+      "id": "youtube-fPollnUVitg#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 474.266,
+      "text": "然后我发现其实只是我的attachment（执念）"
+    },
+    {
+      "end_seconds": 477.466,
+      "id": "youtube-fPollnUVitg#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 476.866,
+      "text": "attachment"
+    },
+    {
+      "end_seconds": 478.066,
+      "id": "youtube-fPollnUVitg#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 477.466,
+      "text": "这是一方面"
+    },
+    {
+      "end_seconds": 478.733,
+      "id": "youtube-fPollnUVitg#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 478.066,
+      "text": "另外一方面"
+    },
+    {
+      "end_seconds": 480.933,
+      "id": "youtube-fPollnUVitg#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 478.733,
+      "text": "后来我发现我去了别的城市"
+    },
+    {
+      "end_seconds": 482.6,
+      "id": "youtube-fPollnUVitg#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 480.933,
+      "text": "我要manage（管理）一定要remote（远程）嘛"
+    },
+    {
+      "end_seconds": 484.3,
+      "id": "youtube-fPollnUVitg#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 482.7,
+      "text": "但只要找到信任的人"
+    },
+    {
+      "end_seconds": 486.033,
+      "id": "youtube-fPollnUVitg#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 484.3,
+      "text": "然后找到那种比如说 for example"
+    },
+    {
+      "end_seconds": 487.466,
+      "id": "youtube-fPollnUVitg#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 486.033,
+      "text": "deep clean（深度清洁）的人"
+    },
+    {
+      "end_seconds": 489.8,
+      "id": "youtube-fPollnUVitg#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 487.533,
+      "text": "有些时候花钱"
+    },
+    {
+      "end_seconds": 491.1,
+      "id": "youtube-fPollnUVitg#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 489.8,
+      "text": "或者说那种东西堵了"
+    },
+    {
+      "end_seconds": 492.233,
+      "id": "youtube-fPollnUVitg#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 491.1,
+      "text": "你找人来去做"
+    },
+    {
+      "end_seconds": 493.6,
+      "id": "youtube-fPollnUVitg#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 492.6,
+      "text": "能够remotely（远程地 ）"
+    },
+    {
+      "end_seconds": 495.833,
+      "id": "youtube-fPollnUVitg#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 493.6,
+      "text": "花钱让别人帮你解决的东西"
+    },
+    {
+      "end_seconds": 496.733,
+      "id": "youtube-fPollnUVitg#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.833,
+      "text": "最终都不是事"
+    },
+    {
+      "end_seconds": 497.4,
+      "id": "youtube-fPollnUVitg#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 497.0,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 499.9,
+      "id": "youtube-fPollnUVitg#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 497.4,
+      "text": "然后这个mindset（思维方式） kind of（稍微）把我"
+    },
+    {
+      "end_seconds": 502.7,
+      "id": "youtube-fPollnUVitg#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.9,
+      "text": "就是towards（推向）就是工作之外的一点点"
+    },
+    {
+      "end_seconds": 503.866,
+      "id": "youtube-fPollnUVitg#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 502.7,
+      "text": "你刚刚问我的时候"
+    },
+    {
+      "end_seconds": 504.866,
+      "id": "youtube-fPollnUVitg#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 503.866,
+      "text": "我没有想到那个例子"
+    },
+    {
+      "end_seconds": 506.5,
+      "id": "youtube-fPollnUVitg#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 504.866,
+      "text": "但我其实还是非常raw（原始 ) 的"
+    },
+    {
+      "end_seconds": 509.7,
+      "id": "youtube-fPollnUVitg#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 506.5,
+      "text": "我的mindset mostly（思维定式主要）还是在工作的这个轨迹里面"
+    },
+    {
+      "end_seconds": 510.9,
+      "id": "youtube-fPollnUVitg#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 509.866,
+      "text": "对很难改"
+    },
+    {
+      "end_seconds": 511.666,
+      "id": "youtube-fPollnUVitg#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.0,
+      "text": "对很难改"
+    },
+    {
+      "end_seconds": 514.633,
+      "id": "youtube-fPollnUVitg#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.666,
+      "text": "就unless（除非）我真的不在大厂工作"
+    },
+    {
+      "end_seconds": 515.333,
+      "id": "youtube-fPollnUVitg#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 514.633,
+      "text": "那我的想法"
+    },
+    {
+      "end_seconds": 516.866,
+      "id": "youtube-fPollnUVitg#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 515.333,
+      "text": "可能会有一个dramatic的变化"
+    },
+    {
+      "end_seconds": 518.633,
+      "id": "youtube-fPollnUVitg#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 516.866,
+      "text": "对就是Alex Xu"
+    },
+    {
+      "end_seconds": 520.066,
+      "id": "youtube-fPollnUVitg#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 518.633,
+      "text": "就是system design"
+    },
+    {
+      "end_seconds": 520.733,
+      "id": "youtube-fPollnUVitg#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 520.066,
+      "text": "对...那个"
+    },
+    {
+      "end_seconds": 522.266,
+      "id": "youtube-fPollnUVitg#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 520.9,
+      "text": "他在LinkedIn发很多东西"
+    },
+    {
+      "end_seconds": 523.2,
+      "id": "youtube-fPollnUVitg#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 522.266,
+      "text": "对吧 对对对"
+    },
+    {
+      "end_seconds": 524.033,
+      "id": "youtube-fPollnUVitg#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 523.3,
+      "text": "他来西雅图"
+    },
+    {
+      "end_seconds": 525.266,
+      "id": "youtube-fPollnUVitg#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 524.033,
+      "text": "就当时领航的一个讲座"
+    },
+    {
+      "end_seconds": 525.733,
+      "id": "youtube-fPollnUVitg#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.266,
+      "text": "跟他认识"
+    },
+    {
+      "end_seconds": 527.7,
+      "id": "youtube-fPollnUVitg#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.733,
+      "text": "然后在西雅图的时候跟他见了一面"
+    },
+    {
+      "end_seconds": 528.9,
+      "id": "youtube-fPollnUVitg#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.933,
+      "text": "然后他听我的课"
+    },
+    {
+      "end_seconds": 529.933,
+      "id": "youtube-fPollnUVitg#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 528.9,
+      "text": "卖1,000块钱"
+    },
+    {
+      "end_seconds": 532.266,
+      "id": "youtube-fPollnUVitg#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 530.333,
+      "text": "他第一反应是啥你猜"
+    },
+    {
+      "end_seconds": 534.033,
+      "id": "youtube-fPollnUVitg#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 532.866,
+      "text": "太少了 对"
+    },
+    {
+      "end_seconds": 535.266,
+      "id": "youtube-fPollnUVitg#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 534.633,
+      "text": "太少了"
+    },
+    {
+      "end_seconds": 539.0,
+      "id": "youtube-fPollnUVitg#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 535.3,
+      "text": "包括你跟他对就是给别人value的这个认知"
+    },
+    {
+      "end_seconds": 541.4,
+      "id": "youtube-fPollnUVitg#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 539.0,
+      "text": "应该是有更好的calibration（判断力）"
+    },
+    {
+      "end_seconds": 542.933,
+      "id": "youtube-fPollnUVitg#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 541.866,
+      "text": "对 还是那样"
+    },
+    {
+      "end_seconds": 546.266,
+      "id": "youtube-fPollnUVitg#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 542.933,
+      "text": "就是我相信我只能给大家一个percentage（比例）的提高"
+    },
+    {
+      "end_seconds": 549.133,
+      "id": "youtube-fPollnUVitg#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 546.833,
+      "text": "然后具体这个值多少钱是取决于他的"
+    },
+    {
+      "end_seconds": 550.033,
+      "id": "youtube-fPollnUVitg#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 549.133,
+      "text": "不是取决于我"
+    },
+    {
+      "end_seconds": 551.066,
+      "id": "youtube-fPollnUVitg#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 550.266,
+      "text": "I see I see"
+    },
+    {
+      "end_seconds": 552.3,
+      "id": "youtube-fPollnUVitg#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 551.4,
+      "text": "有了这个想法以后"
+    },
+    {
+      "end_seconds": 554.266,
+      "id": "youtube-fPollnUVitg#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 552.3,
+      "text": "我觉得很多东西都make sense了"
+    },
+    {
+      "end_seconds": 555.9,
+      "id": "youtube-fPollnUVitg#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 554.5,
+      "text": "就是你做业务嘛"
+    },
+    {
+      "end_seconds": 557.233,
+      "id": "youtube-fPollnUVitg#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 556.033,
+      "text": "你能serve（服务）的人是有限的"
+    },
+    {
+      "end_seconds": 558.4,
+      "id": "youtube-fPollnUVitg#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.233,
+      "text": "就比如说consulting（咨询）"
+    },
+    {
+      "end_seconds": 559.933,
+      "id": "youtube-fPollnUVitg#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 558.633,
+      "text": "你能serve 1万个人吗不可能"
+    },
+    {
+      "end_seconds": 562.2,
+      "id": "youtube-fPollnUVitg#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 559.933,
+      "text": "能serve10个人100个人"
+    },
+    {
+      "end_seconds": 565.066,
+      "id": "youtube-fPollnUVitg#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 562.3,
+      "text": "那你怎么去寻找这10个人就非常重要"
+    },
+    {
+      "end_seconds": 567.933,
+      "id": "youtube-fPollnUVitg#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 565.2,
+      "text": "你是把你定义成市场上的一个标品"
+    },
+    {
+      "end_seconds": 570.6,
+      "id": "youtube-fPollnUVitg#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 567.933,
+      "text": "然后去serve任何10个找到你的学生"
+    },
+    {
+      "end_seconds": 573.5,
+      "id": "youtube-fPollnUVitg#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 570.8,
+      "text": "还是你能吸引那些就是真的需要"
+    },
+    {
+      "end_seconds": 574.966,
+      "id": "youtube-fPollnUVitg#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 573.5,
+      "text": "然后真的对（的人）"
+    },
+    {
+      "end_seconds": 578.6,
+      "id": "youtube-fPollnUVitg#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 574.966,
+      "text": "yeah～这个想法听上去都很make sense"
+    },
+    {
+      "end_seconds": 580.466,
+      "id": "youtube-fPollnUVitg#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.6,
+      "text": "对但是我要去跳出来"
+    },
+    {
+      "end_seconds": 582.233,
+      "id": "youtube-fPollnUVitg#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 580.466,
+      "text": "自己去想"
+    },
+    {
+      "end_seconds": 583.333,
+      "id": "youtube-fPollnUVitg#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 582.233,
+      "text": "或者自己去做的时候"
+    },
+    {
+      "end_seconds": 584.533,
+      "id": "youtube-fPollnUVitg#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 583.333,
+      "text": "对我觉得会很难"
+    },
+    {
+      "end_seconds": 586.466,
+      "id": "youtube-fPollnUVitg#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 584.533,
+      "text": "就是sure（当然）可以找一个"
+    },
+    {
+      "end_seconds": 587.466,
+      "id": "youtube-fPollnUVitg#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 586.466,
+      "text": "perfect target audience（完美的目标受众）"
+    },
+    {
+      "end_seconds": 589.5,
+      "id": "youtube-fPollnUVitg#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 587.466,
+      "text": "那我怎么样去找到我那个audience"
+    },
+    {
+      "end_seconds": 591.1,
+      "id": "youtube-fPollnUVitg#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 589.533,
+      "text": "对其实是要花很多时间"
+    },
+    {
+      "end_seconds": 591.333,
+      "id": "youtube-fPollnUVitg#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.1,
+      "text": "对"
+    },
+    {
+      "end_seconds": 592.6,
+      "id": "youtube-fPollnUVitg#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.433,
+      "text": "就道理想通了是一回事"
+    },
+    {
+      "end_seconds": 593.333,
+      "id": "youtube-fPollnUVitg#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 592.6,
+      "text": "内化了是一回事"
+    },
+    {
+      "end_seconds": 594.866,
+      "id": "youtube-fPollnUVitg#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.333,
+      "text": "然后就是真正做的话"
+    },
+    {
+      "end_seconds": 597.033,
+      "id": "youtube-fPollnUVitg#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 594.866,
+      "text": "会发现哦～这才是难点"
+    },
+    {
+      "end_seconds": 599.2,
+      "id": "youtube-fPollnUVitg#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 597.066,
+      "text": "很多技术创业的同学就是"
+    },
+    {
+      "end_seconds": 600.7,
+      "id": "youtube-fPollnUVitg#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 599.2,
+      "text": "第一个坑都是坑在这里了"
+    }
+  ],
+  "video_id": "fPollnUVitg",
+  "yuzheng_stance_weight": "not-evidence"
+}

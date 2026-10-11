@@ -1,0 +1,691 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-bAgalE7P7L0",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2020-02-01T00:03:53Z",
+  "participant_aliases": [
+    "冯老师（品酒课）"
+  ],
+  "participant_entity_ids": [
+    "guest:feng-wine-class"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "冯老师（品酒课）",
+  "public_verified_at": "2026-10-11T01:58:16.364967+00:00",
+  "published_at": "2020-02-01",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "06fb6a08ca3e54df3137a3bafa92cd006d2062e94548dad485ad2ebc8ba390c3",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "d9614d2dffe22df5fc916e304642dd0184b312a4c8e43c94bc0582ec253d3aaa",
+    "root_receipt_sha256": "2dd0ce5ffbe8e16b99f4790c2523b47151902c3143418e75df9cc8d62e82e288",
+    "unresolved_count": 3
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=bAgalE7P7L0",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=bAgalE7P7L0",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "冯老师品酒课   Pontet Canet 2010   介绍   什么是”生物动力“",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.035,
+      "id": "youtube-bAgalE7P7L0#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "下一款酒叫做 Chateau"
+    },
+    {
+      "end_seconds": 4.845,
+      "id": "youtube-bAgalE7P7L0#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.181,
+      "text": "Pontet-Canet 是来自波尔多,也"
+    },
+    {
+      "end_seconds": 6.841,
+      "id": "youtube-bAgalE7P7L0#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.845,
+      "text": "是波尔多,但是另外一个小区叫做"
+    },
+    {
+      "end_seconds": 9.779,
+      "id": "youtube-bAgalE7P7L0#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.974,
+      "text": "Pauillac Pauillac 在我们刚才喝的"
+    },
+    {
+      "end_seconds": 12.74,
+      "id": "youtube-bAgalE7P7L0#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.943,
+      "text": "Saint-Julien 的上面北部一点"
+    },
+    {
+      "end_seconds": 15.687,
+      "id": "youtube-bAgalE7P7L0#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.74,
+      "text": "Pauillac 也是一个非常有名的产区,就是"
+    },
+    {
+      "end_seconds": 18.844,
+      "id": "youtube-bAgalE7P7L0#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.687,
+      "text": "因为我们大家最熟悉的就是拉菲啊什么的都是"
+    },
+    {
+      "end_seconds": 23.897,
+      "id": "youtube-bAgalE7P7L0#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.844,
+      "text": "波尔多五大庄里面四大庄都是从 Pauillac"
+    },
+    {
+      "end_seconds": 29.082,
+      "id": "youtube-bAgalE7P7L0#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.897,
+      "text": ",三大庄吧,从 Pauillac 来的然后这款"
+    },
+    {
+      "end_seconds": 33.192,
+      "id": "youtube-bAgalE7P7L0#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.082,
+      "text": "酒最特别的点是在于他们做酒的一种工艺叫做"
+    },
+    {
+      "end_seconds": 34.219,
+      "id": "youtube-bAgalE7P7L0#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.192,
+      "text": "生物动力法"
+    },
+    {
+      "end_seconds": 39.303,
+      "id": "youtube-bAgalE7P7L0#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.219,
+      "text": "所谓生物动力法的意思就是说,首先它的所有"
+    },
+    {
+      "end_seconds": 44.388,
+      "id": "youtube-bAgalE7P7L0#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.303,
+      "text": "的葡萄,包括采摘种植,包括酿造过程,首先"
+    },
+    {
+      "end_seconds": 49.269,
+      "id": "youtube-bAgalE7P7L0#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.388,
+      "text": "必须是有机然后在有机的过程中,它要"
+    },
+    {
+      "end_seconds": 55.236,
+      "id": "youtube-bAgalE7P7L0#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.553,
+      "text": "follow 一个在 19 世纪的奥地利"
+    },
+    {
+      "end_seconds": 60.918,
+      "id": "youtube-bAgalE7P7L0#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.236,
+      "text": "生物博士叫做卢道夫,他做了一个相当于一个"
+    },
+    {
+      "end_seconds": 66.462,
+      "id": "youtube-bAgalE7P7L0#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.918,
+      "text": "农历的法则他觉得世界上的任何的植物,包括"
+    },
+    {
+      "end_seconds": 71.685,
+      "id": "youtube-bAgalE7P7L0#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.462,
+      "text": "它们其实都是有月球的这种引力,会给它们"
+    },
+    {
+      "end_seconds": 76.869,
+      "id": "youtube-bAgalE7P7L0#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.685,
+      "text": "带来不同的这种生物内的能量所以说它所有的"
+    },
+    {
+      "end_seconds": 81.464,
+      "id": "youtube-bAgalE7P7L0#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.869,
+      "text": "种植,施肥,包括采摘,必须要按照一个月,"
+    },
+    {
+      "end_seconds": 86.06,
+      "id": "youtube-bAgalE7P7L0#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.464,
+      "text": "首先要按月相来看今天什么时段能做什么事情"
+    },
+    {
+      "end_seconds": 91.347,
+      "id": "youtube-bAgalE7P7L0#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 86.06,
+      "text": "其次,它会把每一天都分成了不同的天,它有"
+    },
+    {
+      "end_seconds": 96.633,
+      "id": "youtube-bAgalE7P7L0#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.347,
+      "text": "一天比如花日,果日,还有那种草日,还有个"
+    },
+    {
+      "end_seconds": 100.693,
+      "id": "youtube-bAgalE7P7L0#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.633,
+      "text": "什么日,叶日就是在每一天只能做的同样事情"
+    },
+    {
+      "end_seconds": 104.226,
+      "id": "youtube-bAgalE7P7L0#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 100.693,
+      "text": ",比如只有花日的时候,或者果日的时候,你"
+    },
+    {
+      "end_seconds": 107.881,
+      "id": "youtube-bAgalE7P7L0#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 104.226,
+      "text": "才能去采葡萄,你才能给它施肥所以它是一个"
+    },
+    {
+      "end_seconds": 111.819,
+      "id": "youtube-bAgalE7P7L0#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.881,
+      "text": ",它相当于一个,对,它相当于一个,像中国"
+    },
+    {
+      "end_seconds": 115.561,
+      "id": "youtube-bAgalE7P7L0#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.819,
+      "text": "的农历,它有很多,黄道吉日,一驾驶,一"
+    },
+    {
+      "end_seconds": 118.663,
+      "id": "youtube-bAgalE7P7L0#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.561,
+      "text": "搬家,必须代码没错,你说不清楚它到底"
+    },
+    {
+      "end_seconds": 121.64,
+      "id": "youtube-bAgalE7P7L0#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.663,
+      "text": "为什么这个东西 works,它当然就是"
+    },
+    {
+      "end_seconds": 124.46,
+      "id": "youtube-bAgalE7P7L0#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.64,
+      "text": "一种,首先是一种经验,首先是一种迷信"
+    },
+    {
+      "end_seconds": 128.555,
+      "id": "youtube-bAgalE7P7L0#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 124.459,
+      "text": "但是无论如何,意味着你作为一个农民,如果"
+    },
+    {
+      "end_seconds": 132.446,
+      "id": "youtube-bAgalE7P7L0#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.555,
+      "text": "你要遵循生物动力法则的话,你必须每天花"
+    },
+    {
+      "end_seconds": 136.383,
+      "id": "youtube-bAgalE7P7L0#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.446,
+      "text": "代码时间在你的葡萄田里因为首先你是有机的"
+    },
+    {
+      "end_seconds": 139.939,
+      "id": "youtube-bAgalE7P7L0#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.383,
+      "text": ",然后其次你有机很多时候你还是可以使用"
+    },
+    {
+      "end_seconds": 143.682,
+      "id": "youtube-bAgalE7P7L0#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 139.939,
+      "text": "少量的农药,少量的那种化学物质,但是生物"
+    },
+    {
+      "end_seconds": 147.515,
+      "id": "youtube-bAgalE7P7L0#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 143.682,
+      "text": "动力法一点农药都不可以甚至有些生物动力法"
+    },
+    {
+      "end_seconds": 151.261,
+      "id": "youtube-bAgalE7P7L0#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.515,
+      "text": "的人他们认为,可能草都不应该拔,枝都不"
+    },
+    {
+      "end_seconds": 154.619,
+      "id": "youtube-bAgalE7P7L0#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.261,
+      "text": "应该修剪,就应该让它自然的膨胀所以"
+    },
+    {
+      "end_seconds": 156.219,
+      "id": "youtube-bAgalE7P7L0#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.819,
+      "text": "Nate 是?"
+    },
+    {
+      "end_seconds": 158.879,
+      "id": "youtube-bAgalE7P7L0#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 156.219,
+      "text": "对,Nate 是,我们说到,刚刚有一个"
+    },
+    {
+      "end_seconds": 161.539,
+      "id": "youtube-bAgalE7P7L0#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.879,
+      "text": "侍酒大师,Nate Ready,他做了"
+    },
+    {
+      "end_seconds": 164.34,
+      "id": "youtube-bAgalE7P7L0#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.539,
+      "text": "一个酒庄,叫做 Hiyu,Hiyu 就是"
+    },
+    {
+      "end_seconds": 167.0,
+      "id": "youtube-bAgalE7P7L0#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 164.34,
+      "text": "一个生物动力法酒庄,就是它不修剪自己的"
+    },
+    {
+      "end_seconds": 167.98,
+      "id": "youtube-bAgalE7P7L0#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.0,
+      "text": "葡萄枝,不拔草"
+    },
+    {
+      "end_seconds": 173.021,
+      "id": "youtube-bAgalE7P7L0#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.939,
+      "text": "这是一种极端,但是总的来说,因为它有很多"
+    },
+    {
+      "end_seconds": 177.102,
+      "id": "youtube-bAgalE7P7L0#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.021,
+      "text": "非常复杂的规矩,使得你一个种植者每天花的"
+    },
+    {
+      "end_seconds": 180.717,
+      "id": "youtube-bAgalE7P7L0#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.102,
+      "text": "大量时间在田地里面所以它会比一些用机械"
+    },
+    {
+      "end_seconds": 184.272,
+      "id": "youtube-bAgalE7P7L0#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.717,
+      "text": "方法或用化学方法的种植者更加关心自己的泡"
+    },
+    {
+      "end_seconds": 186.939,
+      "id": "youtube-bAgalE7P7L0#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.272,
+      "text": "田,也就意味着它最后做出来更好"
+    },
+    {
+      "end_seconds": 191.015,
+      "id": "youtube-bAgalE7P7L0#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 187.9,
+      "text": "最后喝出来的这个酒,用生物动力法做的,"
+    },
+    {
+      "end_seconds": 194.293,
+      "id": "youtube-bAgalE7P7L0#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 191.015,
+      "text": "确实好,至于是生物动力法在起作用,还是说"
+    },
+    {
+      "end_seconds": 197.408,
+      "id": "youtube-bAgalE7P7L0#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 194.293,
+      "text": "因为它足够 care 它的田,这个我们"
+    },
+    {
+      "end_seconds": 201.369,
+      "id": "youtube-bAgalE7P7L0#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.408,
+      "text": "很难讲但是目的到了,它做的酒真的非常好喝"
+    },
+    {
+      "end_seconds": 205.247,
+      "id": "youtube-bAgalE7P7L0#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.369,
+      "text": ",这瓶是让我真的相信生物动力法不是一个"
+    },
+    {
+      "end_seconds": 208.708,
+      "id": "youtube-bAgalE7P7L0#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 205.247,
+      "text": "邪教,而真的是可行的一瓶酒但我喝过 14"
+    },
+    {
+      "end_seconds": 211.015,
+      "id": "youtube-bAgalE7P7L0#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 208.823,
+      "text": "年的这瓶,碰地看的时候,我就震惊了,它"
+    },
+    {
+      "end_seconds": 213.323,
+      "id": "youtube-bAgalE7P7L0#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.015,
+      "text": "比剩下所有 14 年的我喝过的酒都要表现"
+    },
+    {
+      "end_seconds": 213.9,
+      "id": "youtube-bAgalE7P7L0#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.323,
+      "text": "得更加出色"
+    },
+    {
+      "end_seconds": 217.717,
+      "id": "youtube-bAgalE7P7L0#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.86,
+      "text": "这个是一个 10 年的酒,也是 2011"
+    },
+    {
+      "end_seconds": 220.574,
+      "id": "youtube-bAgalE7P7L0#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 217.86,
+      "text": "世纪波尔多两个大年,一个是 09 年和"
+    },
+    {
+      "end_seconds": 223.289,
+      "id": "youtube-bAgalE7P7L0#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.717,
+      "text": "10 年,都是认为是 2011 世纪"
+    },
+    {
+      "end_seconds": 226.003,
+      "id": "youtube-bAgalE7P7L0#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.289,
+      "text": "波尔多最伟大的两个年份它是去年前的一个"
+    },
+    {
+      "end_seconds": 228.86,
+      "id": "youtube-bAgalE7P7L0#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 226.003,
+      "text": "相当高,这瓶酒的话,放个什么 30-40"
+    },
+    {
+      "end_seconds": 230.86,
+      "id": "youtube-bAgalE7P7L0#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.003,
+      "text": "年,再回过来喝都是没问题的"
+    },
+    {
+      "end_seconds": 234.747,
+      "id": "youtube-bAgalE7P7L0#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 231.82,
+      "text": "另外一个,它也是一个 1855 年的列级"
+    },
+    {
+      "end_seconds": 237.674,
+      "id": "youtube-bAgalE7P7L0#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 234.747,
+      "text": "庄,它是一个 5 级庄,但是不要小瞧它是"
+    },
+    {
+      "end_seconds": 240.454,
+      "id": "youtube-bAgalE7P7L0#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.82,
+      "text": "5 级庄,它是一个超 5 级庄,它的"
+    },
+    {
+      "end_seconds": 243.381,
+      "id": "youtube-bAgalE7P7L0#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 240.454,
+      "text": "水准其实可以达到 2 级庄甚至 1 级庄"
+    },
+    {
+      "end_seconds": 247.22,
+      "id": "youtube-bAgalE7P7L0#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 243.381,
+      "text": "的水平所以它的性价比是非常非常高的,所以"
+    },
+    {
+      "end_seconds": 249.82,
+      "id": "youtube-bAgalE7P7L0#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.22,
+      "text": "大家看到碰地看千万不要错过"
+    }
+  ],
+  "video_id": "bAgalE7P7L0",
+  "yuzheng_stance_weight": "not-evidence"
+}

@@ -1,0 +1,287 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube--iLBagRDlUE",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2023-09-27T03:00:00Z",
+  "participant_aliases": [
+    "Chen Zhe",
+    "陈哲"
+  ],
+  "participant_entity_ids": [
+    "guest:chen-zhe"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "陈哲",
+  "public_verified_at": "2026-10-11T02:03:23.127111+00:00",
+  "published_at": "2023-09-27",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "b1175c16ff9153f6c9029dc83aaf27b1f1b8da7e39b24912fc3be336781707e8",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "7d354074cf003fb2943e87b312c5318bee58393768647dd541f6565c42c10251",
+    "root_receipt_sha256": "89396c2305b6419538f59794b10e9891e46408a162935ffe37174f9adfcf24ac",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=-iLBagRDlUE",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=-iLBagRDlUE",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "陈哲：如何培养审美，用机器学习的方法？",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 4.428,
+      "id": "youtube--iLBagRDlUE#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "审美相较于想象力审美是一个可以后天培养的"
+    },
+    {
+      "end_seconds": 6.6,
+      "id": "youtube--iLBagRDlUE#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.428,
+      "text": "东西它就像一个"
+    },
+    {
+      "end_seconds": 11.45,
+      "id": "youtube--iLBagRDlUE#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.4,
+      "text": "我可以拿人工智能去做一个类比虽然说肯定不"
+    },
+    {
+      "end_seconds": 15.11,
+      "id": "youtube--iLBagRDlUE#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.45,
+      "text": "一样我觉得其实很像它有它的对因为人工智能"
+    },
+    {
+      "end_seconds": 16.76,
+      "id": "youtube--iLBagRDlUE#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.11,
+      "text": "就是仿人脑的一种模式"
+    },
+    {
+      "end_seconds": 21.292,
+      "id": "youtube--iLBagRDlUE#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.839,
+      "text": "很笼统的讲法这重要对想说的就是什么就是你"
+    },
+    {
+      "end_seconds": 25.345,
+      "id": "youtube--iLBagRDlUE#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.292,
+      "text": "有一套好的方法进行把它灌输进去很多的科学"
+    },
+    {
+      "end_seconds": 26.08,
+      "id": "youtube--iLBagRDlUE#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.345,
+      "text": "的知识"
+    },
+    {
+      "end_seconds": 33.88,
+      "id": "youtube--iLBagRDlUE#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.44,
+      "text": "符合要求的知识其实审美多多少少都会有成长"
+    },
+    {
+      "end_seconds": 39.433,
+      "id": "youtube--iLBagRDlUE#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.079,
+      "text": "所以其实只要有一个很好的方法就行你要有好"
+    },
+    {
+      "end_seconds": 42.436,
+      "id": "youtube--iLBagRDlUE#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.433,
+      "text": "的数据对有好的数据正确的 label 你"
+    },
+    {
+      "end_seconds": 46.079,
+      "id": "youtube--iLBagRDlUE#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.436,
+      "text": "不能看到一个老法师然后可能没有审美的照片"
+    },
+    {
+      "end_seconds": 48.753,
+      "id": "youtube--iLBagRDlUE#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.079,
+      "text": "因为它的器材好然后我们就觉得它其实拍得很"
+    },
+    {
+      "end_seconds": 51.399,
+      "id": "youtube--iLBagRDlUE#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.753,
+      "text": "好而且这个东西不能跟随你的本能"
+    },
+    {
+      "end_seconds": 55.688,
+      "id": "youtube--iLBagRDlUE#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.679,
+      "text": "我觉得坐下来会说反而不能跟随本能因为我"
+    },
+    {
+      "end_seconds": 60.647,
+      "id": "youtube--iLBagRDlUE#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.688,
+      "text": "以为审美是感情不审美应该是感觉但是当你的"
+    },
+    {
+      "end_seconds": 63.9,
+      "id": "youtube--iLBagRDlUE#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.647,
+      "text": "动作没有到一定程度的时候你可能体会不到你"
+    },
+    {
+      "end_seconds": 67.309,
+      "id": "youtube--iLBagRDlUE#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.9,
+      "text": "需要去 push 自己对这个我觉得还蛮"
+    },
+    {
+      "end_seconds": 71.976,
+      "id": "youtube--iLBagRDlUE#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.309,
+      "text": "重要的好的然后我们刚刚也说到就是在这里边"
+    },
+    {
+      "end_seconds": 74.733,
+      "id": "youtube--iLBagRDlUE#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.976,
+      "text": "好的数据好的 label 很重要可是也很"
+    },
+    {
+      "end_seconds": 77.638,
+      "id": "youtube--iLBagRDlUE#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.733,
+      "text": "重要的就是你有一个好的学习方法就像"
+    },
+    {
+      "end_seconds": 78.617,
+      "id": "youtube--iLBagRDlUE#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.696,
+      "text": "transformer 一样有了"
+    },
+    {
+      "end_seconds": 80.833,
+      "id": "youtube--iLBagRDlUE#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.666,
+      "text": "transformer 你就可以把很多"
+    },
+    {
+      "end_seconds": 84.84,
+      "id": "youtube--iLBagRDlUE#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.833,
+      "text": "海量的知识dump进去但是得到有效的东西"
+    },
+    {
+      "end_seconds": 88.378,
+      "id": "youtube--iLBagRDlUE#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.88,
+      "text": "那你就可以给大家提供一个提高自己审美的"
+    },
+    {
+      "end_seconds": 90.359,
+      "id": "youtube--iLBagRDlUE#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.378,
+      "text": "方法嗯哼可以可以"
+    }
+  ],
+  "video_id": "-iLBagRDlUE",
+  "yuzheng_stance_weight": "not-evidence"
+}

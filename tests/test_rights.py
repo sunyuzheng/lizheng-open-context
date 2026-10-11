@@ -49,6 +49,16 @@ class RightsTests(unittest.TestCase):
         self.assertEqual(sum(info["files"] for info in manifest["licenses"].values()),
                          sum(value is not None for value in licenses.values()) + 1)  # + the manifest itself
 
+    def test_structured_dialogue_retains_participants_rights(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            path = root / "corpus/dialogues/synthetic.json"
+            path.parent.mkdir(parents=True)
+            path.write_text(json.dumps({"license": rights.REFERENCE_USE,
+                "rights_scope": "publisher-authorized-transcript", "speaker_classification": "mixed-or-unresolved",
+                "source_type": "video-transcript"}))
+            self.assertEqual(rights.file_rights("corpus/dialogues/synthetic.json", root), (rights.REFERENCE_USE, rights.SPEAKERS))
+
     def test_reuse_groups_uniform_folders_and_lists_mixed_ones(self):
         mapping = {
             "a/x.md": ("CC-BY-4.0", "Y"), "a/y.md": ("CC-BY-4.0", "Y"),

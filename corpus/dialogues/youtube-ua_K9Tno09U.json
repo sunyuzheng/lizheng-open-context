@@ -1,0 +1,957 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-ua_K9Tno09U",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2024-04-22T19:34:20Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T02:01:54.380310+00:00",
+  "published_at": "2024-04-22",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "015af0c17e8b64f4886d092c22793e3486f92adc11bb14f9741bca92434fac4e",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "b33e14e60d23911caa97fd4403bf0f14d16a23b38f45c9761a0e9e3039cca6db",
+    "root_receipt_sha256": "6bdb0560efb01c17c6c64617bac10ca7c199d3a3fd32eb5d1346cb3862f29baf",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=ua_K9Tno09U",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=ua_K9Tno09U",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "一招让你的ChatGPT变聪明｜context window原理讲解",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 12.575,
+      "id": "youtube-ua_K9Tno09U#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 40.135,
+      "id": "youtube-ua_K9Tno09U#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.575,
+      "text": "Alright, it's four o'clock now. Let's get started. Hi everyone, this is Yan. Welcome to the lightning lesson for the course \"From Users to Builders: AI-Powered Productivity for Tech Roles.\" First, several logistics things here. This is a half an hour Zoom meeting. We will spend like 20 to 25 minutes on the lecture, and then use remaining for the Q&A."
+    },
+    {
+      "end_seconds": 61.626,
+      "id": "youtube-ua_K9Tno09U#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.135,
+      "text": "During the lecture, feel free to put your questions in the Zoom chat window, and then use the emoji reactions to vote for others' questions. We will answer the most popular questions in the end. The meeting is recorded, and you will receive an email from Maven about where to download the recorded video and audio."
+    },
+    {
+      "end_seconds": 72.318,
+      "id": "youtube-ua_K9Tno09U#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.626,
+      "text": "Now let's jump right into the topic. AI is the new buzzword. Everyone is talking about it, and big companies are pouring money in it."
+    },
+    {
+      "end_seconds": 92.586,
+      "id": "youtube-ua_K9Tno09U#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.318,
+      "text": "But if you really use ChatGPT, you may find actually quite often that ChatGPT is dumb, it's lazy, it forgets about things, it didn't do what I ask you to do. So we become upset, sometimes painful and curious. Why is others ChatGPT so smart and so powerful?"
+    },
+    {
+      "end_seconds": 112.104,
+      "id": "youtube-ua_K9Tno09U#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.586,
+      "text": "Well, you are at the right place. This is because we used it wrong, and it's not our fault. To some extent, ChatGPT is flawed in design. This product is designed to support and encourage conversations or chats. It makes sense because that's the most intuitive way of interaction."
+    },
+    {
+      "end_seconds": 122.219,
+      "id": "youtube-ua_K9Tno09U#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.104,
+      "text": "However, this form of product would naturally lead to certain usage that makes Gen AI forget about things, lose track of details, and appear dumb and lazy."
+    },
+    {
+      "end_seconds": 143.927,
+      "id": "youtube-ua_K9Tno09U#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 122.219,
+      "text": "In this lesson, you will learn about a core concept from relevant research that can explain this all. It will help you make sense of the unexpected and undesired behaviors, and naturally leads to a counterintuitive but simple trick. If you use it, you will find the AI to be smarter and help you better on most tasks immediately."
+    },
+    {
+      "end_seconds": 164.768,
+      "id": "youtube-ua_K9Tno09U#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 143.927,
+      "text": "But in order to do that, we we can't treat ChatGPT as a black box anymore. We don't come up with random explanation or try out different tricks and wishing it to work. In this lesson, we will tackle the lazy and forgetful problems of AI systematically, beginning with understanding what is inside ChatGPT."
+    },
+    {
+      "end_seconds": 175.102,
+      "id": "youtube-ua_K9Tno09U#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 164.768,
+      "text": "Note, ChatGPT is still developing very fast. We hope what you learned today will still be relevant in a few years. So we need to go to the research."
+    },
+    {
+      "end_seconds": 200.19,
+      "id": "youtube-ua_K9Tno09U#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.102,
+      "text": "The most relevant research of ChatGPT began about six years ago. It began with a foundation model, and then alignment was added to make it something similar to today's ChatGPT. In order to effectively use this tool, we also need to add proper prompting and a solid understanding of context windows. These four are the most practical and fundamental components of using ChatGPT."
+    },
+    {
+      "end_seconds": 229.38,
+      "id": "youtube-ua_K9Tno09U#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 200.19,
+      "text": "Understanding each component will help us, will make our AI smarter and our work more effective. In the full course, we'll go over each of them, but today we only have about thirty minutes, so we'll still try to do it, but focus on one thing: the context window, because it can help with all of your prompts. It's often overlooked, but it's central to explain and correct a lot of the problems of Gen AI."
+    },
+    {
+      "end_seconds": 238.38,
+      "id": "youtube-ua_K9Tno09U#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.38,
+      "text": "After understanding the concept, we will then introduce a simple but very effective trick to effectively manage the context window."
+    },
+    {
+      "end_seconds": 265.631,
+      "id": "youtube-ua_K9Tno09U#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.38,
+      "text": "You may be familiar with the GPT on the left, which is often the case for people not managing their context window. It gave short answers, not willing to help. But with the same model and even the same prompt, after we used this simple trick, the GPT immediately becomes more willing to help and even smarter. This is the power of context window management. And let's begin the journey by first understanding what is a context window."
+    },
+    {
+      "end_seconds": 284.385,
+      "id": "youtube-ua_K9Tno09U#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 265.631,
+      "text": "Context window is a concept introduced very early in the original GPT paper. It has its meaning derived from the original, along with time, even in OpenAI's own documents. But in this course, a context window is simply what ChatGPT sees when it generates responses."
+    },
+    {
+      "end_seconds": 302.638,
+      "id": "youtube-ua_K9Tno09U#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 284.385,
+      "text": "What does that mean? Let's take a look at its basic example. The simplest way to use ChatGPT is you ask it a question and gives you an answer. In this example, I ask it, \"I have many large files to copy from one computer to another computer. What should I do?\""
+    },
+    {
+      "end_seconds": 326.902,
+      "id": "youtube-ua_K9Tno09U#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 302.638,
+      "text": "This sentence is my question, and is also what ChatGPT sees when generating the response. Therefore, in this example, this sentence is the context window. Again, this is probably ninety percent, but not a hundred percent, the same as the original definition in the paper. But in the context of this course, a context window is what ChatGPT sees when it generates responses."
+    },
+    {
+      "end_seconds": 354.854,
+      "id": "youtube-ua_K9Tno09U#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.902,
+      "text": "We just saw a simplest case of which ask ChatGPT one question. Things begin to get more interesting when ChatGPT generates response and we ask a follow up question. I cannot upload the file to the cloud storage. What are my options? In this case, the the context window will change to the red rectangle. It would include the chat history and latest question."
+    },
+    {
+      "end_seconds": 362.912,
+      "id": "youtube-ua_K9Tno09U#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.854,
+      "text": "This might be a little bit counterintuitive for some people, so let's stop here and make a clarification on a common misconception."
+    },
+    {
+      "end_seconds": 386.97,
+      "id": "youtube-ua_K9Tno09U#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 362.912,
+      "text": "ChatGPT is a good product. It gives people an impression that we're talking with a human, so it's natural for us to imagine, oh, ChatGPT has a memory, storing its understanding of the world, storing our chat history, our requests, and so on. And then it reads my question and tries to answer it by recalling from the memory and reasoning based on information."
+    },
+    {
+      "end_seconds": 399.02,
+      "id": "youtube-ua_K9Tno09U#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 386.97,
+      "text": "In this case, the context window would be the latest, only the latest question, not including the previous conversation. However, this is a natural and common misconception."
+    },
+    {
+      "end_seconds": 427.217,
+      "id": "youtube-ua_K9Tno09U#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 399.02,
+      "text": "OpenAI here uses a clever trick to make ChatGPT appear to have memory. Under the hood, what happened is OpenAI includes the chat history as part of the context window and asks GPT to answer the question based on all the information, including the historical conversations and the latest question. In other words, ChatGPT implements memory by appending chat history to the context window."
+    },
+    {
+      "end_seconds": 449.453,
+      "id": "youtube-ua_K9Tno09U#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.217,
+      "text": "When we ask ChatGPT a new question, what happens is the answer from the last round and the latest question was added to the context window. Nothing else, no memory, no database, no state. So in the example above, the context window would be my first question, ChatGPT's first response, and my second question."
+    },
+    {
+      "end_seconds": 466.314,
+      "id": "youtube-ua_K9Tno09U#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 449.453,
+      "text": "This is a very important clarification. Actually, it immediately causes two problems. The first problem is that the context window is finite. ChatGPT or any GenAI so far can only process a limited number of input."
+    },
+    {
+      "end_seconds": 492.511,
+      "id": "youtube-ua_K9Tno09U#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 466.314,
+      "text": "GPT 3.5 had a limit of 4K tokens, which is about 3,000 words, and gradually expanded to 16K. GPT-4 had a limit of 8K tokens, and gradually expanded to 128K, but still kept a limit of output window of 4K tokens. These context windows appear large, but for certain tasks, they can be quickly consumed and causing issues."
+    },
+    {
+      "end_seconds": 509.743,
+      "id": "youtube-ua_K9Tno09U#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 492.511,
+      "text": "For example, here the user asks ChatGPT to write a Python program with an extra requirement that, for some reason, don't use the library of NumPy. The AI then outputs a Python program which can easily cost hundreds, sometimes a thousand, words of tokens."
+    },
+    {
+      "end_seconds": 531.89,
+      "id": "youtube-ua_K9Tno09U#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 509.744,
+      "text": "Then the user did a few rounds of iterations to ask the AI to add the feature of A and B. Up to this point, the context window may still hold the entire chat history, showing the red rectangle. But assume that it's close to the upper limit of the context window. In this situation, then the user asks, \"Can you also do C in the program?\""
+    },
+    {
+      "end_seconds": 561.726,
+      "id": "youtube-ua_K9Tno09U#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.89,
+      "text": "Then, in order to still fit the context window and focus on the latest and potentially the most important requests, ChatGPT drops the first conversation and moves the context window down to only keep the latest conversations. And this causes a problem: the request of \"I cannot use NumPy\" is now not in the context window anymore, and ChatGPT has no knowledge on that anymore. So it's totally possible that in the latest response, it may begin using NumPy."
+    },
+    {
+      "end_seconds": 578.406,
+      "id": "youtube-ua_K9Tno09U#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 561.726,
+      "text": "And from the user's perspective, ChatGPT fails to satisfy our requirements. It forgets about things. It's not as smart as the beginning of the conversation. This is all caused by the fact that the context window is limited, and it cannot accommodate infinite chat."
+    },
+    {
+      "end_seconds": 605.184,
+      "id": "youtube-ua_K9Tno09U#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.406,
+      "text": "The finite size of the problem of the context window is easy to recognize and mitigate. When the conversation is long and AI appears less smart, we can consider restarting a conversation. But a lot of times, even when the conversation is short, we still feel the AI is lazy and dumb, and that's because of another more subtle but impactful limit."
+    },
+    {
+      "end_seconds": 633.857,
+      "id": "youtube-ua_K9Tno09U#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 605.184,
+      "text": "GPT has difficulties processing long or unorganized content. For these long or unorganized context windows, GPT may miss certain requirements, especially those need attention to the details. In the previous example, even if the entire conversation can fit into the context window, it is still not uncommon that GPT may give a code doing A and C and forget about B."
+    },
+    {
+      "end_seconds": 647.297,
+      "id": "youtube-ua_K9Tno09U#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 633.857,
+      "text": "One way to understand that is we can treat GPT as an intern that have limited intelligence. When it spends the brain power on somewhere, it has to spend less power somewhere else."
+    },
+    {
+      "end_seconds": 669.41,
+      "id": "youtube-ua_K9Tno09U#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.297,
+      "text": "And in this example, because the requirements are scattered everywhere, shown as the green texts, GPT needs to spend actual intelligence on recognizing what are the actual requirements from this long and messy text, and that distracted, so it couldn't spend as much intelligence on the actual problem solving."
+    },
+    {
+      "end_seconds": 693.6,
+      "id": "youtube-ua_K9Tno09U#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 669.41,
+      "text": "And this is just one side of the story. Another potentially even worse side is the majority of the context window is actually bad answers. We were not satisfied with GPT's previous answers, and that's why we further iterate to add new requests. So from the perspective of probably answering the latest question, all the previous answers are useless or even wrong to some extent."
+    },
+    {
+      "end_seconds": 717.86,
+      "id": "youtube-ua_K9Tno09U#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.6,
+      "text": "This again distracts GPT. It needs to figure out that oh, these texts are actually wrong. Where are the problems and how to fix them? As humans, we all know that this is sometimes even harder than getting something from scratch. So overall, it is this scattered around the green prompts and the long distracting red prompts that degrades GPT's intelligence."
+    },
+    {
+      "end_seconds": 740.232,
+      "id": "youtube-ua_K9Tno09U#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 717.86,
+      "text": "Unfortunately, this is even not the end of the story. When we see AI becomes dumb and lazy, what is our first reaction? We chat more, give it more requests, and hope this could correct the problem. But now you understand the context window and its limits. You can see how this is not only not helping, but actually makes things worse."
+    },
+    {
+      "end_seconds": 767.222,
+      "id": "youtube-ua_K9Tno09U#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 740.232,
+      "text": "Because now we have even longer chat histories to put in the context window, which means it's more likely to get cut off and more distracting. The requirements are further scattered around, and the bad previous responses are even longer. That makes everything worse. So it's not self-correctable. In the case of AI becomes dumb or forgetful, following our first reaction of chatting more will make it even worse."
+    },
+    {
+      "end_seconds": 780.42,
+      "id": "youtube-ua_K9Tno09U#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 767.222,
+      "text": "I'll pause here to review what just happened. We now learn from LLM research that the context window is a core concept, deciding how smart ChatGPT may appear and how effective we could use it."
+    },
+    {
+      "end_seconds": 788.979,
+      "id": "youtube-ua_K9Tno09U#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 780.42,
+      "text": "Based on this concept, what previously appears frustrating, upset, and even weird behaviors now suddenly begin to make sense."
+    },
+    {
+      "end_seconds": 809.575,
+      "id": "youtube-ua_K9Tno09U#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 788.979,
+      "text": "When we chat with ChatGPT, it's nothing more than appending our chat history to its context window, and more chat ends up with a messier context window, which will result in a dumb, or forgetful, or lazy AI. Our first reaction is to chat more to correct it, but it simply doesn't work. It's not really our fault."
+    },
+    {
+      "end_seconds": 819.462,
+      "id": "youtube-ua_K9Tno09U#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 809.575,
+      "text": "It's mostly rooted from how ChatGPT is designed. It's designed to encourage us to chat, and that inevitably leads to this situation."
+    },
+    {
+      "end_seconds": 834.504,
+      "id": "youtube-ua_K9Tno09U#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 819.462,
+      "text": "But does that mean that we have to live with it? Not necessarily. Before touching the actual solution, let's detour a little bit to learning to drive for a moment. When we learn about driving, in many cases, our first reaction is actually wrong."
+    },
+    {
+      "end_seconds": 852.172,
+      "id": "youtube-ua_K9Tno09U#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 834.504,
+      "text": "For example, when a tire blows, humans' first reaction is to hit the brake, but it's wrong. The best practice is actually to leave it alone and gradually decelerate. The question is, how can we know what is the best practice, and how can we really do that in real life?"
+    },
+    {
+      "end_seconds": 878.623,
+      "id": "youtube-ua_K9Tno09U#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 852.172,
+      "text": "The answer is simple. Through training, training tells you how a technology works internally, tells you what's the best practice and why, and helps you practice until make it a habit, until you remember it in your muscle memory. And it also applies to ChatGPT. To properly use ChatGPT, we need training too. We need training to correct our first reaction and use good practice to replace it."
+    },
+    {
+      "end_seconds": 887.905,
+      "id": "youtube-ua_K9Tno09U#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 878.623,
+      "text": "And for our specific problem, the solution based on our previous understanding is: we need to manage our context window intentionally."
+    },
+    {
+      "end_seconds": 907.33,
+      "id": "youtube-ua_K9Tno09U#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 887.905,
+      "text": "Instead of blindly accepting ChatGPT's suboptimal design, we should proactively think about what our context window should look like. Is it in the best shape for GPT to work well? If we follow this mindset, it will be easy to come up with a much more effective prompt or context window. For example."
+    },
+    {
+      "end_seconds": 918.783,
+      "id": "youtube-ua_K9Tno09U#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 907.33,
+      "text": "Simply put, all of the requirements in one paragraph with nothing else. Write a Python program to do A, B, and C. I can't, I cannot use NumPy."
+    },
+    {
+      "end_seconds": 933.174,
+      "id": "youtube-ua_K9Tno09U#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 918.783,
+      "text": "But how do we do that? Does that mean that we need to start a new conversation every time when I need to chat? That sounds stupid. Fortunately, we have a hidden feature in the ChatGPT's UI helps us to do this context window management."
+    },
+    {
+      "end_seconds": 950.254,
+      "id": "youtube-ua_K9Tno09U#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 933.174,
+      "text": "And that is this small pencil button below our question. It means edit. We can click it to edit the current prompt, and there will be a button said save and submit. Clicking it will change this prompt in the context window rather than append it to the context window."
+    },
+    {
+      "end_seconds": 968.577,
+      "id": "youtube-ua_K9Tno09U#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 950.254,
+      "text": "Let's take a look at the example here. A side note is we are using GPT 3.5 here because it has a smaller context window and it's easier to trigger those behaviors. GPT 4 has the same issue and benefits from the same trick. It's just not that friendly for this 30-minute-long lightning course."
+    },
+    {
+      "end_seconds": 986.842,
+      "id": "youtube-ua_K9Tno09U#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 968.577,
+      "text": "Come back to the our example. It's following the previous example of copying files from a computer to another. Here, we further ask ChatGPT, \"Oh, I cannot upload the files to the cloud storage. What are my options?\" ChatGPT gives a very short answer without any detailed instructions."
+    },
+    {
+      "end_seconds": 1012.064,
+      "id": "youtube-ua_K9Tno09U#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 986.842,
+      "text": "But if we use the edit trick, note how we change the prompt here. We simply copy-paste the second prompt after the first prompt, making it a complete request. Oh, I want to copy files from computer to another, and I cannot upload the files to the cloud. Then suddenly, ChatGPT becomes more diligent and intelligent. It gives details and specific and organized answers."
+    },
+    {
+      "end_seconds": 1019.203,
+      "id": "youtube-ua_K9Tno09U#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1012.064,
+      "text": "This is a very different behavior from before. And note here, we still use the same model. Even the prompt is the same."
+    },
+    {
+      "end_seconds": 1032.4,
+      "id": "youtube-ua_K9Tno09U#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1019.203,
+      "text": "What was changed is the content of context window. We intentionally make it precise and brief, and this is the core of context window management. We can continue the conversation."
+    },
+    {
+      "end_seconds": 1056.708,
+      "id": "youtube-ua_K9Tno09U#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1032.4,
+      "text": "Back to the chat style. If we further ask ChatGPT following the previous conversations, \"I'm copying files from a Mac to a PC. What shall I do?\" Then ChatGPT gives a bunch of solutions. The third of them is cloud storage. And actually, we literally just said I cannot upload files to the cloud in the immediate previous round. Stupid, right? How to fix it? You tell me."
+    },
+    {
+      "end_seconds": 1086.441,
+      "id": "youtube-ua_K9Tno09U#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1056.708,
+      "text": "Context window management. Instead of relying on ChatGPT to append everything and construct its own context window, we construct it by ourselves. Simply append. I'm copying the files from a Mac to a PC to our previous prompt, and that's it. GPT suddenly becomes smart, just like a different AI. No cloud storage anymore. So let's reflect on this example. Why did it work? What is the internal mechanism so that I can use it somewhere else?"
+    },
+    {
+      "end_seconds": 1108.214,
+      "id": "youtube-ua_K9Tno09U#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1086.441,
+      "text": "In the chat style, we have the asks or requirements scattered everywhere, and GPT needs to spend its intelligence on recognizing and understanding the requirements. But in the edit style, the context is well organized with clear statements on what needs to be done. So GPT could save the intelligence to really focus on solving the problem."
+    },
+    {
+      "end_seconds": 1131.555,
+      "id": "youtube-ua_K9Tno09U#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1108.214,
+      "text": "In the chat style, ChatGPT's imperfect or incorrect answer becomes a major part of the prompt, and that's both a waste and sometimes a distraction of the context window. On the contrary, this is not included in in the editor style, and we have efficient use of the context window. Meanwhile, thanks to the editing feature, we still keep the same ease of use."
+    },
+    {
+      "end_seconds": 1158.868,
+      "id": "youtube-ua_K9Tno09U#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1131.555,
+      "text": "Actually, there's a bonus benefit of the editing style. That is the reusability. When we write prompt to help ChatGPT accomplish some task, the prompt is not only to explain what we expect from it, but more importantly to correct its undesired behaviors. For example, due to some reason, we cannot use NumPy in the company's computer, but ChatGPT likes to solve the problem using this library. So we need to include this requirement in the prompt."
+    },
+    {
+      "end_seconds": 1172.469,
+      "id": "youtube-ua_K9Tno09U#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1158.868,
+      "text": "However, when we use the chat style, it's nearly impossible for us to use the prompt because such kind of correction of unexpected behaviors are scattered all around the place, across many conversations."
+    },
+    {
+      "end_seconds": 1189.373,
+      "id": "youtube-ua_K9Tno09U#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1172.469,
+      "text": "But for the editor-style use, we always have the latest and greatest prompt at hand, summarizing all the requirements and corrections ready to use. This is especially helpful in AI-assisted programming, which we will cover in the full course."
+    },
+    {
+      "end_seconds": 1208.877,
+      "id": "youtube-ua_K9Tno09U#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1189.373,
+      "text": "And what we just experienced is not only a journey to effective use of ChatGPT, but also a great example of training. Before training, we face a lazy, forgetful, and dumb AI. Rely on our first reaction to use it, and blame OpenAI for when we see unexpected behaviors."
+    },
+    {
+      "end_seconds": 1230.731,
+      "id": "youtube-ua_K9Tno09U#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1208.877,
+      "text": "After the training, we understood how it works internally. We made made sense of all those behaviors and learned about the best practices, which is edit, not chat. The training lets us know the best way to use ChatGPT is actually to not chat. And in the full course, we will also help you do exercises to form a habit to make it a muscle memory."
+    },
+    {
+      "end_seconds": 1246.896,
+      "id": "youtube-ua_K9Tno09U#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1230.731,
+      "text": "Overall, the general principle is: for more complicated tools, you need more training. It applied to bikes, cars, planes, and AIs, and you need people who know the ins and outs, and people who know how to teach to train you."
+    },
+    {
+      "end_seconds": 1266.669,
+      "id": "youtube-ua_K9Tno09U#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1246.896,
+      "text": "In the full course, we will also go over different components of ChatGPT and have a comprehensive overview on how to prepare yourself in terms of mindset, knowledge, and practical tricks like edit not chat. We already had the first two cohort sold out, and the current cohort will begin from July twenty second."
+    },
+    {
+      "end_seconds": 1277.01,
+      "id": "youtube-ua_K9Tno09U#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1266.669,
+      "text": "Alright, this is it for lightning course. Hope you enjoyed this, and I'm happy to take any questions. Let me go over the chat window to figure out what are the questions."
+    },
+    {
+      "end_seconds": 1302.541,
+      "id": "youtube-ua_K9Tno09U#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1277.01,
+      "text": "About the Google, so the question is, didn't Google recently void this issue with the infinitely window model? Ah, yes. In the recent, I think that's in last a few days, Google proposed this. But it's my understanding is still in the pretty research phase. After it it gets into production, hopefully we will have less burden in."
+    },
+    {
+      "end_seconds": 1310.913,
+      "id": "youtube-ua_K9Tno09U#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1302.541,
+      "text": "manually managing all this context window. But before that, this is a pretty easy, easy to use and effective trick."
+    },
+    {
+      "end_seconds": 1321.524,
+      "id": "youtube-ua_K9Tno09U#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1310.913,
+      "text": "呃，And I saw that some of the questions are already answered, and Yujin is also online to help answer the questions."
+    },
+    {
+      "end_seconds": 1348.136,
+      "id": "youtube-ua_K9Tno09U#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1321.524,
+      "text": "And the question: Could you point us to some resources where we can dig more into the foundation of LMs to understand more critical concepts like context windows? This is a pretty new field, and I would say most resources online is pretty not unsystematic. And at least for this field, the"
+    },
+    {
+      "end_seconds": 1362.175,
+      "id": "youtube-ua_K9Tno09U#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1348.136,
+      "text": "This makes us painful, and we'd like to have a systematical overview of what was important from our perspective. So, to direct answer Nick's your question, um, the best place probably is our our course."
+    },
+    {
+      "end_seconds": 1378.332,
+      "id": "youtube-ua_K9Tno09U#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1362.175,
+      "text": "But if we see some other resources, there are not a very systematic one on top of my mind. Um, if I see in the future, probably we can post it somewhere, um, such as in the community of our course."
+    },
+    {
+      "end_seconds": 1394.46,
+      "id": "youtube-ua_K9Tno09U#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1378.332,
+      "text": "What is the target audience of this course? What can we get out of this course in the end? If we are talking about the main course, the target audience of this course is the professionals in the IT industry."
+    },
+    {
+      "end_seconds": 1419.613,
+      "id": "youtube-ua_K9Tno09U#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1394.46,
+      "text": "By that, I mean we need to have some not basic knowledge of Python, such as we know how to. You need to know how to run Python programs. You need to know how to read simple Python programs and install Python libraries. You don't need to be a professional developer. For example, PMs, TPMs, engineering managers, analysts, they are all the target audience of this course."
+    },
+    {
+      "end_seconds": 1428.974,
+      "id": "youtube-ua_K9Tno09U#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1419.613,
+      "text": "嗯，但 we do require some basic Python knowledge. So if uh you're out of the IT industry, that might not be the best course for you."
+    },
+    {
+      "end_seconds": 1444.738,
+      "id": "youtube-ua_K9Tno09U#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1428.974,
+      "text": "And what we can get out of this course in the end is, the general idea is GenAI, GenAI is a pretty effective tool to boost our productivity, but it's actually there are a lot of pitfalls and nuances as we just demonstrated in this process."
+    },
+    {
+      "end_seconds": 1466.543,
+      "id": "youtube-ua_K9Tno09U#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1444.738,
+      "text": "If we understand better from the foundation and know about the best practices, this will help us a lot in boosting our productivity. My personal experience is boosted like two times to five times of my productivity, and we'd like to also share this with our the course audience. That is the target outcome of this course."
+    },
+    {
+      "end_seconds": 1478.207,
+      "id": "youtube-ua_K9Tno09U#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1466.543,
+      "text": "Sales on using sandbox versus chat interface. That's a great question. I I actually I think using sandbox is a pretty good way of using uh the."
+    },
+    {
+      "end_seconds": 1504.288,
+      "id": "youtube-ua_K9Tno09U#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1478.207,
+      "text": "GPT API or ChatGPT. Uh, some background is Sandbox is a tool provided by OpenAI. It's developer oriented. Instead of showing you a chat interface, it in directly invokes the underlying GPT API. So it's a little bit different from the chat interface in few ways. Uh, difference one is ChatGPT is a product built on top of GPT API, so it has"
+    },
+    {
+      "end_seconds": 1523.612,
+      "id": "youtube-ua_K9Tno09U#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1504.288,
+      "text": "quite some additional prompts and limits and features, but the sandbox doesn't have that, which means you may not have the alignment or safeguard of ChatGPT or other limits of ChatGPT. So you may be able to get into the the dark side of GPT, which means it may not be that safe."
+    },
+    {
+      "end_seconds": 1544.018,
+      "id": "youtube-ua_K9Tno09U#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1523.612,
+      "text": "And the second is second difference is there is also some limit posed on the chat on the ChatGPT. For example, GPT four has a context window of one hundred twenty eight k, but in ChatGPT you cannot use that. Long before that, you will be cut by ChatGPT saying that oh your message is too long. But in the sandbox, you are able to use that."
+    },
+    {
+      "end_seconds": 1564.342,
+      "id": "youtube-ua_K9Tno09U#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1544.018,
+      "text": "The third difference is the maintenance of chat history. In ChatGPT web interface, ChatGPT will maintain the context window as well as the chat history for you. But in the sandbox, a little bit more manual process, which is good thing and from the perspective of of this course, because it forces you to manually."
+    },
+    {
+      "end_seconds": 1576.889,
+      "id": "youtube-ua_K9Tno09U#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1564.342,
+      "text": "manage the context window, and the fourth potential difference is the price. ChatGPT is a subscription-based twenty dollars per month, but Sandbox is per token."
+    },
+    {
+      "end_seconds": 1595.108,
+      "id": "youtube-ua_K9Tno09U#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1576.889,
+      "text": "So overall, it's a pretty interesting idea to use sandbox. I, if for anyone having haven't tried that before, I encourage you to try that. It's a quite unique and fun experience, and that might be the right solution to to context window management."
+    },
+    {
+      "end_seconds": 1620.485,
+      "id": "youtube-ua_K9Tno09U#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1595.108,
+      "text": "Do we have an agenda of this course? Yes. In terms of cohort dates, we have that in the latest slide. And feel free to also scan the QR code so that you get to the cohort homepage and know more about the course, such as the the the syllabus, the expected outcome, target audience. We have everywhere. We have everything there."
+    },
+    {
+      "end_seconds": 1639.868,
+      "id": "youtube-ua_K9Tno09U#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1620.485,
+      "text": "Thoughts on using iterations of a highly structured prompt by edit and/or having LM start by asking questions to improve context of prompt, then incorporating into prompt. Um, that's more about prompt engineering. That's my understanding of this question. Um."
+    },
+    {
+      "end_seconds": 1656.91,
+      "id": "youtube-ua_K9Tno09U#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1639.868,
+      "text": "And we do have some tricks around that, but that may be out of the scope of this context window. But overall, yes, having the prompt formulated in a more structured way is definitely helpful for making ChatGPT smarter."
+    },
+    {
+      "end_seconds": 1666.543,
+      "id": "youtube-ua_K9Tno09U#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1656.91,
+      "text": "As we mentioned before, ChatGPT is like it's pretty much like an intern. Actually, I really like this analogy. It's it's energetic. It doesn't know what is tiring."
+    },
+    {
+      "end_seconds": 1693.825,
+      "id": "youtube-ua_K9Tno09U#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1666.543,
+      "text": "And it can work twenty-four-seven, but it needs some handholding. And this kind of prompt engineering is a great example of handholding. You cannot assign a very complicated task to an intern and expect him or her to accomplish the task perfectly. You have to do some handholding and potentially even babysitting. And prompt engineering and context window management are very good examples of a start point."
+    },
+    {
+      "end_seconds": 1716.808,
+      "id": "youtube-ua_K9Tno09U#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1693.825,
+      "text": "嗯， and what might be a more beginner novice oriented GenAI course? That really depends on your background and the intention of what you want to learn. In my suggestions, actually, if you want even more beginner or novice um course."
+    },
+    {
+      "end_seconds": 1737.445,
+      "id": "youtube-ua_K9Tno09U#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1716.808,
+      "text": "Probably, of course, is not the best option. Directly go to the the chat. openai. com or other similar products, begin using it, and begin to feel the capability envelope of GenAI is probably the best um thing to do to to begin with, because this will give you a feeling."
+    },
+    {
+      "end_seconds": 1759.454,
+      "id": "youtube-ua_K9Tno09U#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1737.445,
+      "text": "And then you also give you some questions. With the questions, it will be easier for you to figure out. Oh, what I want from this a course like that? What are the pain points? What can the AI bring to me? When I I think getting those questions might be more important than figuring out the answers."
+    },
+    {
+      "end_seconds": 1768.741,
+      "id": "youtube-ua_K9Tno09U#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1759.454,
+      "text": "So to directly answer your question, probably the best course is sign up a account using ChatGPT from today."
+    },
+    {
+      "end_seconds": 1777.778,
+      "id": "youtube-ua_K9Tno09U#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1768.741,
+      "text": "It seems that the price of course increases per cohort. Will that be a trend? It sounds like Yu Jun already answered that."
+    },
+    {
+      "end_seconds": 1796.257,
+      "id": "youtube-ua_K9Tno09U#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1777.778,
+      "text": "What are your thoughts on the content of the course potentially becoming outdated when models iterate? For example, context window, information, infinite window model. That's that's a great question. Uh, sounds like Yu Zheng already addressed that. But generally, the idea two folds. The first is"
+    },
+    {
+      "end_seconds": 1812.674,
+      "id": "youtube-ua_K9Tno09U#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1796.257,
+      "text": "The content, of course, can be basically divided into two things. One is the underlying research, and another is based on those research that derive the tricks and skills. For a lot of fundamental things, they will not change in a long time. For example, the initial"
+    },
+    {
+      "end_seconds": 1840.904,
+      "id": "youtube-ua_K9Tno09U#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1812.674,
+      "text": "Come, the initial GPT model has been proposed like six years, but it's the basic principle still remains the same. And another side is, we do see this field is growing very fast. That's also a reason why ourselves are enthusiast in enthusiasts of this field, and we keep up with the field every day. Um, we try to figure out what are the most important tricks and principles and distill them into the course to make it up to date."
+    },
+    {
+      "end_seconds": 1870.32,
+      "id": "youtube-ua_K9Tno09U#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1840.904,
+      "text": "Due to the limit of time, we will take the last question here. Ian, have you played around Claude AI Anthropic out of curiosity? Yes, I played with it, and it's it's quite interesting in terms of two aspects. The first is I found that the difficulty of managing my context window is much less for Claude V three, especially Opus. More more um specifically for a lot of prompts and context windows."
+    },
+    {
+      "end_seconds": 1878.853,
+      "id": "youtube-ua_K9Tno09U#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1870.32,
+      "text": "GPT maybe lazy, so we need to do more tricks to make to like massage those prompts and context windows to make it work."
+    },
+    {
+      "end_seconds": 1900.484,
+      "id": "youtube-ua_K9Tno09U#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1878.853,
+      "text": "But for Claude V3, we don't need to do that tricks. From this perspective, we can see a trend that people are also realize the problem with context window and make it try to make it more user friendly. And from another perspective, I also feel GPT is four is still a little bit smarter than Claude AI Claude V3, but that may be just my feeling based on limited tests."
+    },
+    {
+      "end_seconds": 1917.55,
+      "id": "youtube-ua_K9Tno09U#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1900.484,
+      "text": "So, due to the limit of time, that's it for the Q and A. And really appreciate everyone's time and interest for attending this course. We look forward to see you in the actual course. Thanks a lot. Bye."
+    }
+  ],
+  "video_id": "ua_K9Tno09U",
+  "yuzheng_stance_weight": "not-evidence"
+}

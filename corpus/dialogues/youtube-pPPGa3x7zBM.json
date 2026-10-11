@@ -1,0 +1,1497 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-pPPGa3x7zBM",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2020-09-12T23:36:20Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T02:07:12.883861+00:00",
+  "published_at": "2020-09-12",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "f1a6faba5a497490c61b7d25e06719d08e3ce762a989defd7acfbfd15a6ffec8",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "a1fe7713197690897e95019964bee5342eadf1008ef962136c0b6f4a63e97e11",
+    "root_receipt_sha256": "f6dfb44b1f22c8fa33164a5367f256671fd7a25b27c77066427e389a8038ce4e",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=pPPGa3x7zBM",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=pPPGa3x7zBM",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "Product Sense面试心法第一决 — MECE框架",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.72,
+      "id": "youtube-pPPGa3x7zBM#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "刚才用开放式问题的误区"
+    },
+    {
+      "end_seconds": 4.759,
+      "id": "youtube-pPPGa3x7zBM#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.72,
+      "text": "其实帮大家就带出来了"
+    },
+    {
+      "end_seconds": 7.0,
+      "id": "youtube-pPPGa3x7zBM#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.759,
+      "text": "Product Sense Interview考察的到底是什么"
+    },
+    {
+      "end_seconds": 8.759,
+      "id": "youtube-pPPGa3x7zBM#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.0,
+      "text": "它考验的是你解决问题的能力"
+    },
+    {
+      "end_seconds": 11.24,
+      "id": "youtube-pPPGa3x7zBM#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.759,
+      "text": "当然考验你这个能力"
+    },
+    {
+      "end_seconds": 12.759,
+      "id": "youtube-pPPGa3x7zBM#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.24,
+      "text": "能力是有高低的"
+    },
+    {
+      "end_seconds": 16.519,
+      "id": "youtube-pPPGa3x7zBM#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.759,
+      "text": "那你怎么样子去跟面试官证明你的能力很高呢"
+    },
+    {
+      "end_seconds": 21.24,
+      "id": "youtube-pPPGa3x7zBM#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.519,
+      "text": "我在这里借用咨询公司Case Interview的一个框架"
+    },
+    {
+      "end_seconds": 22.24,
+      "id": "youtube-pPPGa3x7zBM#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.24,
+      "text": "叫MECE"
+    },
+    {
+      "end_seconds": 26.12,
+      "id": "youtube-pPPGa3x7zBM#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.24,
+      "text": "Mutually Exclusive Collective Exhaustive的这个框架"
+    },
+    {
+      "end_seconds": 28.12,
+      "id": "youtube-pPPGa3x7zBM#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.12,
+      "text": "去对问题进行展开分析"
+    },
+    {
+      "end_seconds": 30.72,
+      "id": "youtube-pPPGa3x7zBM#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.12,
+      "text": "咨询公司针对MECE的套路就很多了"
+    },
+    {
+      "end_seconds": 32.84,
+      "id": "youtube-pPPGa3x7zBM#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.72,
+      "text": "他们叫issue tree或者framework"
+    },
+    {
+      "end_seconds": 34.039,
+      "id": "youtube-pPPGa3x7zBM#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.84,
+      "text": "就是有各种"
+    },
+    {
+      "end_seconds": 35.96,
+      "id": "youtube-pPPGa3x7zBM#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.039,
+      "text": "比如说这个波特五力"
+    },
+    {
+      "end_seconds": 37.359,
+      "id": "youtube-pPPGa3x7zBM#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.96,
+      "text": "然后这个3C"
+    },
+    {
+      "end_seconds": 39.359,
+      "id": "youtube-pPPGa3x7zBM#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.359,
+      "text": "CP这些乱七八糟的东西"
+    },
+    {
+      "end_seconds": 40.92,
+      "id": "youtube-pPPGa3x7zBM#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.359,
+      "text": "那这些在我看来都是招数"
+    },
+    {
+      "end_seconds": 43.6,
+      "id": "youtube-pPPGa3x7zBM#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.92,
+      "text": "真正的心法就是这个是什么意思呢"
+    },
+    {
+      "end_seconds": 45.359,
+      "id": "youtube-pPPGa3x7zBM#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.6,
+      "text": "我把心法给大家解释一下"
+    },
+    {
+      "end_seconds": 49.159,
+      "id": "youtube-pPPGa3x7zBM#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.359,
+      "text": "就是Mutually Exclusive Collective Exhaustive"
+    },
+    {
+      "end_seconds": 51.52,
+      "id": "youtube-pPPGa3x7zBM#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.159,
+      "text": "它说的就是你要把问题"
+    },
+    {
+      "end_seconds": 55.799,
+      "id": "youtube-pPPGa3x7zBM#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.52,
+      "text": "通过互不相干的几个方向给分解开"
+    },
+    {
+      "end_seconds": 57.84,
+      "id": "youtube-pPPGa3x7zBM#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.799,
+      "text": "而且这几个分解出来的东西"
+    },
+    {
+      "end_seconds": 61.2,
+      "id": "youtube-pPPGa3x7zBM#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.84,
+      "text": "可以完美的cover你问题的所有可能性"
+    },
+    {
+      "end_seconds": 64.12,
+      "id": "youtube-pPPGa3x7zBM#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.2,
+      "text": "比如说你说这个东西的利润率为什么下降"
+    },
+    {
+      "end_seconds": 67.92,
+      "id": "youtube-pPPGa3x7zBM#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.12,
+      "text": "那我从成本和收入两方面进行分析"
+    },
+    {
+      "end_seconds": 69.56,
+      "id": "youtube-pPPGa3x7zBM#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.92,
+      "text": "那成本和收入加起来"
+    },
+    {
+      "end_seconds": 73.76,
+      "id": "youtube-pPPGa3x7zBM#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.56,
+      "text": "就是代表就可以cover你的这个利润的全部方向"
+    },
+    {
+      "end_seconds": 75.92,
+      "id": "youtube-pPPGa3x7zBM#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.76,
+      "text": "而且他们两个之间也是互相分开的"
+    },
+    {
+      "end_seconds": 76.879,
+      "id": "youtube-pPPGa3x7zBM#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.92,
+      "text": "你可以分开分析"
+    },
+    {
+      "end_seconds": 79.24,
+      "id": "youtube-pPPGa3x7zBM#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.879,
+      "text": "你分析成本的时候不会影响到你的销量"
+    },
+    {
+      "end_seconds": 80.8,
+      "id": "youtube-pPPGa3x7zBM#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.24,
+      "text": "这样做的好处是什么呢"
+    },
+    {
+      "end_seconds": 83.28,
+      "id": "youtube-pPPGa3x7zBM#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.8,
+      "text": "第一你用这个框架面试官就知道"
+    },
+    {
+      "end_seconds": 87.12,
+      "id": "youtube-pPPGa3x7zBM#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 83.28,
+      "text": "OK你可以把这个问题完整的分析出来"
+    },
+    {
+      "end_seconds": 88.28,
+      "id": "youtube-pPPGa3x7zBM#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.12,
+      "text": "第二更关键的是"
+    },
+    {
+      "end_seconds": 92.079,
+      "id": "youtube-pPPGa3x7zBM#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.28,
+      "text": "你可以zoom in到一个你觉得问题出现的点"
+    },
+    {
+      "end_seconds": 92.76,
+      "id": "youtube-pPPGa3x7zBM#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.079,
+      "text": "什么意思"
+    },
+    {
+      "end_seconds": 96.359,
+      "id": "youtube-pPPGa3x7zBM#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.76,
+      "text": "就是我用中文把它概括一下"
+    },
+    {
+      "end_seconds": 99.76,
+      "id": "youtube-pPPGa3x7zBM#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.359,
+      "text": "叫这个面面俱到重点分析"
+    },
+    {
+      "end_seconds": 101.719,
+      "id": "youtube-pPPGa3x7zBM#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.76,
+      "text": "就是你在提出这个问题的时候"
+    },
+    {
+      "end_seconds": 103.52,
+      "id": "youtube-pPPGa3x7zBM#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.719,
+      "text": "你要先建立一个思维框架"
+    },
+    {
+      "end_seconds": 105.76,
+      "id": "youtube-pPPGa3x7zBM#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.52,
+      "text": "你要把这思维框架不光你心里有了"
+    },
+    {
+      "end_seconds": 108.4,
+      "id": "youtube-pPPGa3x7zBM#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.76,
+      "text": "你要告诉给这个面试官"
+    },
+    {
+      "end_seconds": 112.4,
+      "id": "youtube-pPPGa3x7zBM#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.4,
+      "text": "那你用一个这个MECE的框架去把它给描述出来"
+    },
+    {
+      "end_seconds": 113.52,
+      "id": "youtube-pPPGa3x7zBM#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.4,
+      "text": "之后呢"
+    },
+    {
+      "end_seconds": 116.76,
+      "id": "youtube-pPPGa3x7zBM#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.52,
+      "text": "你再去zoom in到一个点"
+    },
+    {
+      "end_seconds": 118.76,
+      "id": "youtube-pPPGa3x7zBM#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.76,
+      "text": "这个时候就需要用你的商业直觉"
+    },
+    {
+      "end_seconds": 121.92,
+      "id": "youtube-pPPGa3x7zBM#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.76,
+      "text": "去告诉你什么哪一个点是最重要的"
+    },
+    {
+      "end_seconds": 124.12,
+      "id": "youtube-pPPGa3x7zBM#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.92,
+      "text": "比如说我举之前举过一个例子"
+    },
+    {
+      "end_seconds": 125.92,
+      "id": "youtube-pPPGa3x7zBM#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 124.12,
+      "text": "就是你的这个"
+    },
+    {
+      "end_seconds": 128.599,
+      "id": "youtube-pPPGa3x7zBM#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.92,
+      "text": "你的网站的conversion rate比其他的"
+    },
+    {
+      "end_seconds": 130.879,
+      "id": "youtube-pPPGa3x7zBM#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.599,
+      "text": "比你的competitor要低很多"
+    },
+    {
+      "end_seconds": 132.0,
+      "id": "youtube-pPPGa3x7zBM#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 130.879,
+      "text": "可能低十倍"
+    },
+    {
+      "end_seconds": 133.0,
+      "id": "youtube-pPPGa3x7zBM#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.0,
+      "text": "那为什么"
+    },
+    {
+      "end_seconds": 135.64,
+      "id": "youtube-pPPGa3x7zBM#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 133.0,
+      "text": "那你可能是这个UI有问题"
+    },
+    {
+      "end_seconds": 136.24,
+      "id": "youtube-pPPGa3x7zBM#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.64,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 138.52,
+      "id": "youtube-pPPGa3x7zBM#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.24,
+      "text": "可能是你的content有问题"
+    },
+    {
+      "end_seconds": 140.52,
+      "id": "youtube-pPPGa3x7zBM#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 138.52,
+      "text": "可能是你的用户有问题"
+    },
+    {
+      "end_seconds": 144.08,
+      "id": "youtube-pPPGa3x7zBM#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.52,
+      "text": "然后你可能去玩了你的产品"
+    },
+    {
+      "end_seconds": 145.52,
+      "id": "youtube-pPPGa3x7zBM#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.08,
+      "text": "和你competitor产品"
+    },
+    {
+      "end_seconds": 147.24,
+      "id": "youtube-pPPGa3x7zBM#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.52,
+      "text": "你发现UI没什么大问题"
+    },
+    {
+      "end_seconds": 150.28,
+      "id": "youtube-pPPGa3x7zBM#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.24,
+      "text": "就是你们的button什么的都"
+    },
+    {
+      "end_seconds": 152.76,
+      "id": "youtube-pPPGa3x7zBM#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.28,
+      "text": "都optimize差不多"
+    },
+    {
+      "end_seconds": 154.96,
+      "id": "youtube-pPPGa3x7zBM#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 152.76,
+      "text": "那是不是就是你的用户"
+    },
+    {
+      "end_seconds": 157.52,
+      "id": "youtube-pPPGa3x7zBM#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.96,
+      "text": "比如说来你网站的用户都是来自于哪里"
+    },
+    {
+      "end_seconds": 159.96,
+      "id": "youtube-pPPGa3x7zBM#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.52,
+      "text": "然后来你competitor去你competitor的网站的用户"
+    },
+    {
+      "end_seconds": 161.28,
+      "id": "youtube-pPPGa3x7zBM#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 159.96,
+      "text": "都是来自于哪里"
+    },
+    {
+      "end_seconds": 162.84,
+      "id": "youtube-pPPGa3x7zBM#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.28,
+      "text": "是不是去你competitor的网站"
+    },
+    {
+      "end_seconds": 165.08,
+      "id": "youtube-pPPGa3x7zBM#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 162.84,
+      "text": "他们就是找到了一堆high target的用户"
+    },
+    {
+      "end_seconds": 166.24,
+      "id": "youtube-pPPGa3x7zBM#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 165.08,
+      "text": "你没有找好"
+    },
+    {
+      "end_seconds": 168.2,
+      "id": "youtube-pPPGa3x7zBM#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 166.24,
+      "text": "你打广告打的都是错的"
+    },
+    {
+      "end_seconds": 170.52,
+      "id": "youtube-pPPGa3x7zBM#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.2,
+      "text": "你那个打广告的地方也都是错的"
+    },
+    {
+      "end_seconds": 174.12,
+      "id": "youtube-pPPGa3x7zBM#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 170.52,
+      "text": "所以说你来的用户就本来根本就不是想来买东西的"
+    },
+    {
+      "end_seconds": 175.4,
+      "id": "youtube-pPPGa3x7zBM#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 174.12,
+      "text": "你这广告钱白花了"
+    },
+    {
+      "end_seconds": 179.12,
+      "id": "youtube-pPPGa3x7zBM#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.4,
+      "text": "这就是你的所谓的商业直觉和product sense"
+    },
+    {
+      "end_seconds": 180.719,
+      "id": "youtube-pPPGa3x7zBM#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.12,
+      "text": "这样做另外的好处"
+    },
+    {
+      "end_seconds": 183.64,
+      "id": "youtube-pPPGa3x7zBM#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.719,
+      "text": "就是可能你的产品各方面都会有问题"
+    },
+    {
+      "end_seconds": 185.4,
+      "id": "youtube-pPPGa3x7zBM#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.64,
+      "text": "但是你在面试的过程之后"
+    },
+    {
+      "end_seconds": 187.92,
+      "id": "youtube-pPPGa3x7zBM#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 185.4,
+      "text": "你不可能把所有的问题都展开"
+    },
+    {
+      "end_seconds": 190.96,
+      "id": "youtube-pPPGa3x7zBM#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 187.92,
+      "text": "你一定是先解决最重要的问题"
+    },
+    {
+      "end_seconds": 193.64,
+      "id": "youtube-pPPGa3x7zBM#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 190.96,
+      "text": "如果有时间的话再去解决次重要的问题"
+    },
+    {
+      "end_seconds": 196.719,
+      "id": "youtube-pPPGa3x7zBM#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.64,
+      "text": "当你用MECE的框架把问题给分解了之后"
+    },
+    {
+      "end_seconds": 200.04,
+      "id": "youtube-pPPGa3x7zBM#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 196.719,
+      "text": "就可以让你先去聚焦到最重要的事情"
+    },
+    {
+      "end_seconds": 202.56,
+      "id": "youtube-pPPGa3x7zBM#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 200.04,
+      "text": "如果在这里边也有不同的分支"
+    },
+    {
+      "end_seconds": 204.2,
+      "id": "youtube-pPPGa3x7zBM#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 202.56,
+      "text": "然后你又觉得其中一个更重要的话"
+    },
+    {
+      "end_seconds": 206.519,
+      "id": "youtube-pPPGa3x7zBM#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 204.199,
+      "text": "你可以继续用MECE的方式去不断的分解它"
+    },
+    {
+      "end_seconds": 208.879,
+      "id": "youtube-pPPGa3x7zBM#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 206.519,
+      "text": "直到你找到一个足够重要的问题"
+    },
+    {
+      "end_seconds": 212.719,
+      "id": "youtube-pPPGa3x7zBM#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 208.879,
+      "text": "可以把你和面试官的讨论限定在这一个问题上"
+    },
+    {
+      "end_seconds": 214.359,
+      "id": "youtube-pPPGa3x7zBM#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 212.719,
+      "text": "你可以充分的展示你的知识"
+    },
+    {
+      "end_seconds": 218.119,
+      "id": "youtube-pPPGa3x7zBM#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.359,
+      "text": "而不需要去考虑其他的特别多的别的情况"
+    },
+    {
+      "end_seconds": 219.079,
+      "id": "youtube-pPPGa3x7zBM#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 218.119,
+      "text": "回来了吗"
+    },
+    {
+      "end_seconds": 219.519,
+      "id": "youtube-pPPGa3x7zBM#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.079,
+      "text": "吃饭了"
+    },
+    {
+      "end_seconds": 220.119,
+      "id": "youtube-pPPGa3x7zBM#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.519,
+      "text": "OK"
+    },
+    {
+      "end_seconds": 221.199,
+      "id": "youtube-pPPGa3x7zBM#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.119,
+      "text": "好两分钟"
+    },
+    {
+      "end_seconds": 222.079,
+      "id": "youtube-pPPGa3x7zBM#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 221.199,
+      "text": "两分钟就好了"
+    },
+    {
+      "end_seconds": 222.679,
+      "id": "youtube-pPPGa3x7zBM#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.079,
+      "text": "好拜拜"
+    },
+    {
+      "end_seconds": 226.519,
+      "id": "youtube-pPPGa3x7zBM#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 224.919,
+      "text": "你在不断的聚焦的过程中"
+    },
+    {
+      "end_seconds": 229.919,
+      "id": "youtube-pPPGa3x7zBM#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 226.519,
+      "text": "其实也是把整个一个复杂问题不断简化的过程"
+    },
+    {
+      "end_seconds": 232.0,
+      "id": "youtube-pPPGa3x7zBM#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.919,
+      "text": "当你简化到一定程度的话"
+    },
+    {
+      "end_seconds": 237.319,
+      "id": "youtube-pPPGa3x7zBM#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 232.039,
+      "text": "你就可以把一个商业问题转化成一个数据和统计问题"
+    },
+    {
+      "end_seconds": 239.759,
+      "id": "youtube-pPPGa3x7zBM#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.319,
+      "text": "可以用你之前的这些知识"
+    },
+    {
+      "end_seconds": 240.96,
+      "id": "youtube-pPPGa3x7zBM#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 239.759,
+      "text": "很好的去分析它"
+    },
+    {
+      "end_seconds": 242.759,
+      "id": "youtube-pPPGa3x7zBM#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 240.96,
+      "text": "很好的去解决它"
+    },
+    {
+      "end_seconds": 243.599,
+      "id": "youtube-pPPGa3x7zBM#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 242.759,
+      "text": "解决了以后"
+    },
+    {
+      "end_seconds": 244.919,
+      "id": "youtube-pPPGa3x7zBM#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 243.599,
+      "text": "你可以再跟面试官说"
+    },
+    {
+      "end_seconds": 247.0,
+      "id": "youtube-pPPGa3x7zBM#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 244.919,
+      "text": "我们把这个部分给解决了"
+    },
+    {
+      "end_seconds": 249.52,
+      "id": "youtube-pPPGa3x7zBM#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.0,
+      "text": "那我们可以move on去下一个"
+    },
+    {
+      "end_seconds": 251.439,
+      "id": "youtube-pPPGa3x7zBM#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.52,
+      "text": "我觉得还有可能有问题的地方"
+    },
+    {
+      "end_seconds": 252.92,
+      "id": "youtube-pPPGa3x7zBM#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 251.439,
+      "text": "那面试官听了以后就会非常爽"
+    },
+    {
+      "end_seconds": 253.639,
+      "id": "youtube-pPPGa3x7zBM#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 252.92,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 256.48,
+      "id": "youtube-pPPGa3x7zBM#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 253.639,
+      "text": "就感觉你好像是真的可以"
+    },
+    {
+      "end_seconds": 259.24,
+      "id": "youtube-pPPGa3x7zBM#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 256.48,
+      "text": "真的帮他们已经把这个最重要的问题给解决了一样"
+    },
+    {
+      "end_seconds": 261.24,
+      "id": "youtube-pPPGa3x7zBM#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.24,
+      "text": "这个产品看起来就非常有前途"
+    },
+    {
+      "end_seconds": 263.12,
+      "id": "youtube-pPPGa3x7zBM#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.24,
+      "text": "我给大家提了这么一个框架"
+    },
+    {
+      "end_seconds": 264.68,
+      "id": "youtube-pPPGa3x7zBM#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 263.12,
+      "text": "那具体的应用"
+    },
+    {
+      "end_seconds": 267.56,
+      "id": "youtube-pPPGa3x7zBM#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 264.68,
+      "text": "我觉得其实还是有很多讲究的"
+    },
+    {
+      "end_seconds": 270.12,
+      "id": "youtube-pPPGa3x7zBM#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.56,
+      "text": "包括一些常见的套路"
+    },
+    {
+      "end_seconds": 271.96,
+      "id": "youtube-pPPGa3x7zBM#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 270.12,
+      "text": "包括举一些例子"
+    },
+    {
+      "end_seconds": 274.12,
+      "id": "youtube-pPPGa3x7zBM#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.96,
+      "text": "然后包括怎么样子去分析"
+    },
+    {
+      "end_seconds": 276.84,
+      "id": "youtube-pPPGa3x7zBM#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 274.12,
+      "text": "其实这都说一句吧"
+    },
+    {
+      "end_seconds": 279.439,
+      "id": "youtube-pPPGa3x7zBM#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 276.84,
+      "text": "就是MECE不会给你唯一解"
+    },
+    {
+      "end_seconds": 282.519,
+      "id": "youtube-pPPGa3x7zBM#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 279.439,
+      "text": "具体你怎么样子去分这个"
+    },
+    {
+      "end_seconds": 284.519,
+      "id": "youtube-pPPGa3x7zBM#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.519,
+      "text": "去分这个不同的用户"
+    },
+    {
+      "end_seconds": 286.439,
+      "id": "youtube-pPPGa3x7zBM#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 284.519,
+      "text": "也是很有讲究的"
+    },
+    {
+      "end_seconds": 289.079,
+      "id": "youtube-pPPGa3x7zBM#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 286.439,
+      "text": "比如说我现在我知道了用户targeting是有问题的"
+    },
+    {
+      "end_seconds": 292.68,
+      "id": "youtube-pPPGa3x7zBM#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 289.12,
+      "text": "那我可以把用户按照MECE来分成不同的层次"
+    },
+    {
+      "end_seconds": 293.279,
+      "id": "youtube-pPPGa3x7zBM#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 292.68,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 295.439,
+      "id": "youtube-pPPGa3x7zBM#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.279,
+      "text": "你可能可以按照年龄来分"
+    },
+    {
+      "end_seconds": 296.719,
+      "id": "youtube-pPPGa3x7zBM#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 295.439,
+      "text": "可以按照性别来分"
+    },
+    {
+      "end_seconds": 297.879,
+      "id": "youtube-pPPGa3x7zBM#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 296.719,
+      "text": "可以按照收入来分"
+    },
+    {
+      "end_seconds": 299.919,
+      "id": "youtube-pPPGa3x7zBM#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 297.879,
+      "text": "可以按照traffic来源来分"
+    },
+    {
+      "end_seconds": 301.879,
+      "id": "youtube-pPPGa3x7zBM#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 299.919,
+      "text": "那在我看来你拿年龄来分"
+    },
+    {
+      "end_seconds": 303.479,
+      "id": "youtube-pPPGa3x7zBM#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.879,
+      "text": "就不一定有收入"
+    },
+    {
+      "end_seconds": 306.839,
+      "id": "youtube-pPPGa3x7zBM#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 303.479,
+      "text": "或者你的traffic source分的更有效"
+    },
+    {
+      "end_seconds": 310.639,
+      "id": "youtube-pPPGa3x7zBM#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 306.839,
+      "text": "所以这里边怎么分和怎么样子去选"
+    },
+    {
+      "end_seconds": 312.0,
+      "id": "youtube-pPPGa3x7zBM#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 310.639,
+      "text": "非常有讲究"
+    },
+    {
+      "end_seconds": 315.36,
+      "id": "youtube-pPPGa3x7zBM#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 312.0,
+      "text": "我也可能以后的视频会多用一些例子"
+    },
+    {
+      "end_seconds": 317.159,
+      "id": "youtube-pPPGa3x7zBM#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 315.36,
+      "text": "去给大家一些更直观的感受"
+    },
+    {
+      "end_seconds": 320.8,
+      "id": "youtube-pPPGa3x7zBM#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 317.2,
+      "text": "和希望从中可以一起总结出来一些提高的方法"
+    },
+    {
+      "end_seconds": 322.52,
+      "id": "youtube-pPPGa3x7zBM#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 320.8,
+      "text": "最后再总结一下"
+    },
+    {
+      "end_seconds": 326.2,
+      "id": "youtube-pPPGa3x7zBM#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.52,
+      "text": "就是提高Product Sense最好的方法"
+    },
+    {
+      "end_seconds": 327.84,
+      "id": "youtube-pPPGa3x7zBM#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.2,
+      "text": "就是你去mock interview"
+    },
+    {
+      "end_seconds": 330.0,
+      "id": "youtube-pPPGa3x7zBM#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 327.84,
+      "text": "尤其去找有经验的人mock interview"
+    },
+    {
+      "end_seconds": 332.16,
+      "id": "youtube-pPPGa3x7zBM#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 330.0,
+      "text": "他一眼就可以听出来"
+    },
+    {
+      "end_seconds": 334.64,
+      "id": "youtube-pPPGa3x7zBM#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 332.16,
+      "text": "你这儿说的东西不是很make sense"
+    },
+    {
+      "end_seconds": 336.12,
+      "id": "youtube-pPPGa3x7zBM#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 334.64,
+      "text": "你哪需要改进"
+    },
+    {
+      "end_seconds": 339.2,
+      "id": "youtube-pPPGa3x7zBM#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.12,
+      "text": "你的intervention到底对不对"
+    },
+    {
+      "end_seconds": 341.44,
+      "id": "youtube-pPPGa3x7zBM#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 339.2,
+      "text": "很可惜"
+    },
+    {
+      "end_seconds": 343.96,
+      "id": "youtube-pPPGa3x7zBM#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 341.44,
+      "text": "就是mock interview的资源不是那么多"
+    },
+    {
+      "end_seconds": 346.28,
+      "id": "youtube-pPPGa3x7zBM#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.96,
+      "text": "因为这对为你mock的这个人"
+    },
+    {
+      "end_seconds": 347.759,
+      "id": "youtube-pPPGa3x7zBM#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 346.319,
+      "text": "他的时间的要求"
+    },
+    {
+      "end_seconds": 351.519,
+      "id": "youtube-pPPGa3x7zBM#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 347.759,
+      "text": "准备的要求和精力的消耗都是蛮大的"
+    },
+    {
+      "end_seconds": 355.239,
+      "id": "youtube-pPPGa3x7zBM#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 351.519,
+      "text": "大家可以小伙伴之间互相去mock"
+    },
+    {
+      "end_seconds": 359.399,
+      "id": "youtube-pPPGa3x7zBM#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 355.239,
+      "text": "然后我希望以后有机会可以去上传一些"
+    },
+    {
+      "end_seconds": 361.359,
+      "id": "youtube-pPPGa3x7zBM#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 359.399,
+      "text": "mock interview的例子吧"
+    },
+    {
+      "end_seconds": 363.839,
+      "id": "youtube-pPPGa3x7zBM#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 361.359,
+      "text": "就是大家可以在旁边看一看"
+    },
+    {
+      "end_seconds": 368.799,
+      "id": "youtube-pPPGa3x7zBM#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 364.919,
+      "text": "好的那今天就讲到这里"
+    },
+    {
+      "end_seconds": 371.919,
+      "id": "youtube-pPPGa3x7zBM#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.799,
+      "text": "以后这个系列我们可能会多出几期"
+    },
+    {
+      "end_seconds": 374.279,
+      "id": "youtube-pPPGa3x7zBM#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.919,
+      "text": "希望大家多多转发支持"
+    },
+    {
+      "end_seconds": 374.559,
+      "id": "youtube-pPPGa3x7zBM#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 374.279,
+      "text": "拜拜"
+    }
+  ],
+  "video_id": "pPPGa3x7zBM",
+  "yuzheng_stance_weight": "not-evidence"
+}

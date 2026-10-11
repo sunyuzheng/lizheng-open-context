@@ -1,0 +1,4255 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-fKOvYahwZgw",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2023-07-31T00:00:14Z",
+  "participant_aliases": [
+    "Riley Shu"
+  ],
+  "participant_entity_ids": [
+    "guest:riley-shu"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Riley Shu",
+  "public_verified_at": "2026-10-11T01:59:08.105466+00:00",
+  "published_at": "2023-07-31",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "92b31317a33c9713dcf2cf9b3dc3ab3943542d6092aaa8aa4254692c3c238b46",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "85ff65bb234791ddf6a3c7f73b6ae5257a053fc6d59ae60ecb1271c04bdea2d3",
+    "root_receipt_sha256": "c05f27935d23134f2942cd5c958cc9846da58ecefaac3c670e35546698949738",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=fKOvYahwZgw",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=fKOvYahwZgw",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "看不惯的同学比自己赚的多，如何自我和解？",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.0,
+      "id": "youtube-fKOvYahwZgw#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "我没有办法对一个"
+    },
+    {
+      "end_seconds": 3.5,
+      "id": "youtube-fKOvYahwZgw#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.0,
+      "text": "我没有看到很清晰的"
+    },
+    {
+      "end_seconds": 6.0,
+      "id": "youtube-fKOvYahwZgw#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.5,
+      "text": "PASS的事情去投入"
+    },
+    {
+      "end_seconds": 8.0,
+      "id": "youtube-fKOvYahwZgw#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.0,
+      "text": "我觉得我应该要投入的精力"
+    },
+    {
+      "end_seconds": 10.0,
+      "id": "youtube-fKOvYahwZgw#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.0,
+      "text": "其实非常非常的介意"
+    },
+    {
+      "end_seconds": 13.0,
+      "id": "youtube-fKOvYahwZgw#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.0,
+      "text": "我的钱不如别人多这件事情"
+    },
+    {
+      "end_seconds": 15.5,
+      "id": "youtube-fKOvYahwZgw#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.0,
+      "text": "然后我也会就是很责怪自己"
+    },
+    {
+      "end_seconds": 17.5,
+      "id": "youtube-fKOvYahwZgw#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.5,
+      "text": "我就说那我当年为什么"
+    },
+    {
+      "end_seconds": 19.0,
+      "id": "youtube-fKOvYahwZgw#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.5,
+      "text": "没有更加的努力去"
+    },
+    {
+      "end_seconds": 20.5,
+      "id": "youtube-fKOvYahwZgw#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.0,
+      "text": "就讲的讲的就很崩溃"
+    },
+    {
+      "end_seconds": 22.0,
+      "id": "youtube-fKOvYahwZgw#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.5,
+      "text": "我就跟那些粉丝说"
+    },
+    {
+      "end_seconds": 23.0,
+      "id": "youtube-fKOvYahwZgw#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.0,
+      "text": "那我现在是怎么样"
+    },
+    {
+      "end_seconds": 24.5,
+      "id": "youtube-fKOvYahwZgw#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.0,
+      "text": "我现在是要向他们学习吗"
+    },
+    {
+      "end_seconds": 25.5,
+      "id": "youtube-fKOvYahwZgw#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.5,
+      "text": "我要学习什么呢"
+    },
+    {
+      "end_seconds": 27.0,
+      "id": "youtube-fKOvYahwZgw#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.5,
+      "text": "我又不喜欢他们的这个方式"
+    },
+    {
+      "end_seconds": 28.5,
+      "id": "youtube-fKOvYahwZgw#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.0,
+      "text": "我不想向他们学习"
+    },
+    {
+      "end_seconds": 30.5,
+      "id": "youtube-fKOvYahwZgw#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.5,
+      "text": "欢迎大家回到克特法利症"
+    },
+    {
+      "end_seconds": 32.0,
+      "id": "youtube-fKOvYahwZgw#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.5,
+      "text": "我们继续采访"
+    },
+    {
+      "end_seconds": 35.0,
+      "id": "youtube-fKOvYahwZgw#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.0,
+      "text": "我们现在要来剖析你的童年阴影"
+    },
+    {
+      "end_seconds": 36.0,
+      "id": "youtube-fKOvYahwZgw#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.0,
+      "text": "是吗"
+    },
+    {
+      "end_seconds": 37.0,
+      "id": "youtube-fKOvYahwZgw#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.0,
+      "text": "就是原生家庭的问题"
+    },
+    {
+      "end_seconds": 38.5,
+      "id": "youtube-fKOvYahwZgw#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.0,
+      "text": "这些乱七八糟的东西"
+    },
+    {
+      "end_seconds": 40.0,
+      "id": "youtube-fKOvYahwZgw#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.5,
+      "text": "可以这么说吧"
+    },
+    {
+      "end_seconds": 43.0,
+      "id": "youtube-fKOvYahwZgw#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.0,
+      "text": "就是我们刚刚聊到的一个感觉"
+    },
+    {
+      "end_seconds": 45.0,
+      "id": "youtube-fKOvYahwZgw#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.0,
+      "text": "就是有很多东西"
+    },
+    {
+      "end_seconds": 48.0,
+      "id": "youtube-fKOvYahwZgw#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.0,
+      "text": "我觉得是我作为一个很传统的"
+    },
+    {
+      "end_seconds": 49.5,
+      "id": "youtube-fKOvYahwZgw#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.0,
+      "text": "应该算是好学生"
+    },
+    {
+      "end_seconds": 52.0,
+      "id": "youtube-fKOvYahwZgw#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.5,
+      "text": "不用这句话都要谦虚一下"
+    },
+    {
+      "end_seconds": 53.0,
+      "id": "youtube-fKOvYahwZgw#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.0,
+      "text": "我就很怕对吧"
+    },
+    {
+      "end_seconds": 54.0,
+      "id": "youtube-fKOvYahwZgw#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.0,
+      "text": "大家就攻击我"
+    },
+    {
+      "end_seconds": 55.0,
+      "id": "youtube-fKOvYahwZgw#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.0,
+      "text": "但是比如说"
+    },
+    {
+      "end_seconds": 56.0,
+      "id": "youtube-fKOvYahwZgw#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.0,
+      "text": "那我肯定是一个"
+    },
+    {
+      "end_seconds": 58.0,
+      "id": "youtube-fKOvYahwZgw#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.0,
+      "text": "爸爸妈妈眼里的乖孩子"
+    },
+    {
+      "end_seconds": 59.5,
+      "id": "youtube-fKOvYahwZgw#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.5,
+      "text": "然后对"
+    },
+    {
+      "end_seconds": 60.5,
+      "id": "youtube-fKOvYahwZgw#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.5,
+      "text": "然后"
+    },
+    {
+      "end_seconds": 63.5,
+      "id": "youtube-fKOvYahwZgw#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.5,
+      "text": "甚至我不知道老师会不会觉得"
+    },
+    {
+      "end_seconds": 65.0,
+      "id": "youtube-fKOvYahwZgw#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.5,
+      "text": "我是一个乖学生"
+    },
+    {
+      "end_seconds": 66.5,
+      "id": "youtube-fKOvYahwZgw#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.0,
+      "text": "但是我应该不算是"
+    },
+    {
+      "end_seconds": 68.5,
+      "id": "youtube-fKOvYahwZgw#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.5,
+      "text": "很troubled的那种学生"
+    },
+    {
+      "end_seconds": 70.5,
+      "id": "youtube-fKOvYahwZgw#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.5,
+      "text": "我可能会在我自己的范围内"
+    },
+    {
+      "end_seconds": 71.5,
+      "id": "youtube-fKOvYahwZgw#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.5,
+      "text": "有一些小小的反抗"
+    },
+    {
+      "end_seconds": 72.5,
+      "id": "youtube-fKOvYahwZgw#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.5,
+      "text": "但整体来说"
+    },
+    {
+      "end_seconds": 73.5,
+      "id": "youtube-fKOvYahwZgw#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.5,
+      "text": "比如说"
+    },
+    {
+      "end_seconds": 74.5,
+      "id": "youtube-fKOvYahwZgw#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.5,
+      "text": "比如说"
+    },
+    {
+      "end_seconds": 78.5,
+      "id": "youtube-fKOvYahwZgw#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.5,
+      "text": "以前我们小学初中高中"
+    },
+    {
+      "end_seconds": 79.5,
+      "id": "youtube-fKOvYahwZgw#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.5,
+      "text": "都是要穿校服"
+    },
+    {
+      "end_seconds": 81.5,
+      "id": "youtube-fKOvYahwZgw#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.5,
+      "text": "到了高中是要穿校鞋"
+    },
+    {
+      "end_seconds": 83.5,
+      "id": "youtube-fKOvYahwZgw#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.5,
+      "text": "不穿校服叫反抗"
+    },
+    {
+      "end_seconds": 85.5,
+      "id": "youtube-fKOvYahwZgw#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 83.5,
+      "text": "那我就不穿校服了"
+    },
+    {
+      "end_seconds": 86.5,
+      "id": "youtube-fKOvYahwZgw#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.5,
+      "text": "好阴影啊"
+    },
+    {
+      "end_seconds": 88.5,
+      "id": "youtube-fKOvYahwZgw#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.0,
+      "text": "但是全班已经只有我一个人"
+    },
+    {
+      "end_seconds": 89.5,
+      "id": "youtube-fKOvYahwZgw#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.5,
+      "text": "不怎么穿校服了"
+    },
+    {
+      "end_seconds": 90.5,
+      "id": "youtube-fKOvYahwZgw#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.5,
+      "text": "然后"
+    },
+    {
+      "end_seconds": 91.5,
+      "id": "youtube-fKOvYahwZgw#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 90.5,
+      "text": "老师呢"
+    },
+    {
+      "end_seconds": 93.5,
+      "id": "youtube-fKOvYahwZgw#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.5,
+      "text": "老师就开始会睁一只眼闭一只眼"
+    },
+    {
+      "end_seconds": 95.5,
+      "id": "youtube-fKOvYahwZgw#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.5,
+      "text": "但是我不穿得久也会骂我"
+    },
+    {
+      "end_seconds": 97.5,
+      "id": "youtube-fKOvYahwZgw#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.5,
+      "text": "然后我后来上了高中的时候"
+    },
+    {
+      "end_seconds": 99.5,
+      "id": "youtube-fKOvYahwZgw#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.5,
+      "text": "我就会不穿校鞋"
+    },
+    {
+      "end_seconds": 100.5,
+      "id": "youtube-fKOvYahwZgw#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.5,
+      "text": "然后被老师逮到了"
+    },
+    {
+      "end_seconds": 101.5,
+      "id": "youtube-fKOvYahwZgw#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 100.5,
+      "text": "老师也会骂一下"
+    },
+    {
+      "end_seconds": 104.5,
+      "id": "youtube-fKOvYahwZgw#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.5,
+      "text": "然后我也会把所有的手表"
+    },
+    {
+      "end_seconds": 107.5,
+      "id": "youtube-fKOvYahwZgw#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 104.5,
+      "text": "眼镜 书包全部换成大红色"
+    },
+    {
+      "end_seconds": 109.0,
+      "id": "youtube-fKOvYahwZgw#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.5,
+      "text": "因为我们高中的时候"
+    },
+    {
+      "end_seconds": 110.0,
+      "id": "youtube-fKOvYahwZgw#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.0,
+      "text": "校服是绿色的"
+    },
+    {
+      "end_seconds": 112.5,
+      "id": "youtube-fKOvYahwZgw#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.0,
+      "text": "我就要找一个最出挑的颜色"
+    },
+    {
+      "end_seconds": 114.5,
+      "id": "youtube-fKOvYahwZgw#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.5,
+      "text": "所有东西都是红色的"
+    },
+    {
+      "end_seconds": 116.5,
+      "id": "youtube-fKOvYahwZgw#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 114.5,
+      "text": "然后可能那也是我的"
+    },
+    {
+      "end_seconds": 118.5,
+      "id": "youtube-fKOvYahwZgw#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.5,
+      "text": "这就是我最troubled的情况"
+    },
+    {
+      "end_seconds": 120.5,
+      "id": "youtube-fKOvYahwZgw#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.5,
+      "text": "行 心理分析我们过一会再说"
+    },
+    {
+      "end_seconds": 122.5,
+      "id": "youtube-fKOvYahwZgw#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 120.5,
+      "text": "你在这之前要不要给自己提个假"
+    },
+    {
+      "end_seconds": 123.5,
+      "id": "youtube-fKOvYahwZgw#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 122.5,
+      "text": "你怕被骂的话"
+    },
+    {
+      "end_seconds": 125.5,
+      "id": "youtube-fKOvYahwZgw#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.5,
+      "text": "你要不要说点就是那种"
+    },
+    {
+      "end_seconds": 127.5,
+      "id": "youtube-fKOvYahwZgw#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.5,
+      "text": "往回找的话"
+    },
+    {
+      "end_seconds": 128.5,
+      "id": "youtube-fKOvYahwZgw#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.5,
+      "text": "往回找的话"
+    },
+    {
+      "end_seconds": 131.5,
+      "id": "youtube-fKOvYahwZgw#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.5,
+      "text": "我觉得就是做一个很典型的"
+    },
+    {
+      "end_seconds": 133.5,
+      "id": "youtube-fKOvYahwZgw#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.5,
+      "text": "因为我们刚刚其实在聊"
+    },
+    {
+      "end_seconds": 135.5,
+      "id": "youtube-fKOvYahwZgw#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 133.5,
+      "text": "好像我很怕别人骂"
+    },
+    {
+      "end_seconds": 138.5,
+      "id": "youtube-fKOvYahwZgw#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.5,
+      "text": "以及说我很希望让大家对我都很满意"
+    },
+    {
+      "end_seconds": 140.5,
+      "id": "youtube-fKOvYahwZgw#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 138.5,
+      "text": "都很喜欢我的一个心理"
+    },
+    {
+      "end_seconds": 142.5,
+      "id": "youtube-fKOvYahwZgw#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.5,
+      "text": "老师你很需要那个完美的答案"
+    },
+    {
+      "end_seconds": 144.5,
+      "id": "youtube-fKOvYahwZgw#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 142.5,
+      "text": "你很需要那个完美的答案"
+    },
+    {
+      "end_seconds": 146.5,
+      "id": "youtube-fKOvYahwZgw#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.5,
+      "text": "反而会阻碍你的很多行动"
+    },
+    {
+      "end_seconds": 149.5,
+      "id": "youtube-fKOvYahwZgw#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 146.5,
+      "text": "然后我觉得这件事情其实是在"
+    },
+    {
+      "end_seconds": 151.5,
+      "id": "youtube-fKOvYahwZgw#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.5,
+      "text": "很多人身上包括自己"
+    },
+    {
+      "end_seconds": 153.5,
+      "id": "youtube-fKOvYahwZgw#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.5,
+      "text": "这样都是很普遍的一个现象"
+    },
+    {
+      "end_seconds": 156.5,
+      "id": "youtube-fKOvYahwZgw#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.5,
+      "text": "然后你看似对这件事情"
+    },
+    {
+      "end_seconds": 157.5,
+      "id": "youtube-fKOvYahwZgw#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 156.5,
+      "text": "又有一定的表达欲"
+    },
+    {
+      "end_seconds": 160.5,
+      "id": "youtube-fKOvYahwZgw#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.5,
+      "text": "因为这好像是你最近发现的一些事情"
+    },
+    {
+      "end_seconds": 162.5,
+      "id": "youtube-fKOvYahwZgw#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.5,
+      "text": "对 就是"
+    },
+    {
+      "end_seconds": 164.5,
+      "id": "youtube-fKOvYahwZgw#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 162.5,
+      "text": "那我就坑一下你"
+    },
+    {
+      "end_seconds": 167.5,
+      "id": "youtube-fKOvYahwZgw#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 164.5,
+      "text": "然后让你来聊一聊这些事情"
+    },
+    {
+      "end_seconds": 168.5,
+      "id": "youtube-fKOvYahwZgw#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.5,
+      "text": "好啊"
+    },
+    {
+      "end_seconds": 169.5,
+      "id": "youtube-fKOvYahwZgw#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.5,
+      "text": "就是"
+    },
+    {
+      "end_seconds": 171.5,
+      "id": "youtube-fKOvYahwZgw#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 169.5,
+      "text": "所以说请大家就不要骂了"
+    },
+    {
+      "end_seconds": 175.5,
+      "id": "youtube-fKOvYahwZgw#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 171.5,
+      "text": "对 这也是一个小女生在这个"
+    },
+    {
+      "end_seconds": 176.5,
+      "id": "youtube-fKOvYahwZgw#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.5,
+      "text": "怎么说呢"
+    },
+    {
+      "end_seconds": 179.5,
+      "id": "youtube-fKOvYahwZgw#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 176.5,
+      "text": "学习和工作的过程中的一些"
+    },
+    {
+      "end_seconds": 180.5,
+      "id": "youtube-fKOvYahwZgw#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.5,
+      "text": "自己的领悟"
+    },
+    {
+      "end_seconds": 182.5,
+      "id": "youtube-fKOvYahwZgw#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.5,
+      "text": "不是代表任何意思知道"
+    },
+    {
+      "end_seconds": 183.5,
+      "id": "youtube-fKOvYahwZgw#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 182.5,
+      "text": "我们也不要做任何判断"
+    },
+    {
+      "end_seconds": 185.5,
+      "id": "youtube-fKOvYahwZgw#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.5,
+      "text": "对 谢谢"
+    },
+    {
+      "end_seconds": 188.5,
+      "id": "youtube-fKOvYahwZgw#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 185.5,
+      "text": "对 就刚刚说到好像"
+    },
+    {
+      "end_seconds": 190.5,
+      "id": "youtube-fKOvYahwZgw#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.5,
+      "text": "刚才说的那句话我应该会被骂了"
+    },
+    {
+      "end_seconds": 192.5,
+      "id": "youtube-fKOvYahwZgw#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 190.5,
+      "text": "骂了那句话说的好爹味啊"
+    },
+    {
+      "end_seconds": 193.5,
+      "id": "youtube-fKOvYahwZgw#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 192.5,
+      "text": "那就这样吧"
+    },
+    {
+      "end_seconds": 194.5,
+      "id": "youtube-fKOvYahwZgw#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.5,
+      "text": "对 没关系"
+    },
+    {
+      "end_seconds": 195.5,
+      "id": "youtube-fKOvYahwZgw#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 194.5,
+      "text": "然后"
+    },
+    {
+      "end_seconds": 197.5,
+      "id": "youtube-fKOvYahwZgw#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 195.5,
+      "text": "因为我在美国的时候"
+    },
+    {
+      "end_seconds": 198.5,
+      "id": "youtube-fKOvYahwZgw#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.5,
+      "text": "学校研究生"
+    },
+    {
+      "end_seconds": 200.5,
+      "id": "youtube-fKOvYahwZgw#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 198.5,
+      "text": "他其实是有这个"
+    },
+    {
+      "end_seconds": 201.5,
+      "id": "youtube-fKOvYahwZgw#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 200.5,
+      "text": "的费用的"
+    },
+    {
+      "end_seconds": 203.5,
+      "id": "youtube-fKOvYahwZgw#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.5,
+      "text": "所以我们其实也就一直会看"
+    },
+    {
+      "end_seconds": 206.5,
+      "id": "youtube-fKOvYahwZgw#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 203.5,
+      "text": "但是并不是说我有很严重的心理问题"
+    },
+    {
+      "end_seconds": 209.5,
+      "id": "youtube-fKOvYahwZgw#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 206.5,
+      "text": "只是说你总是会遇到各种各样的困难"
+    },
+    {
+      "end_seconds": 211.5,
+      "id": "youtube-fKOvYahwZgw#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.5,
+      "text": "那么有一个可以聊一下"
+    },
+    {
+      "end_seconds": 214.5,
+      "id": "youtube-fKOvYahwZgw#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.5,
+      "text": "其实我觉得是我个人觉得是一个"
+    },
+    {
+      "end_seconds": 215.5,
+      "id": "youtube-fKOvYahwZgw#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.5,
+      "text": "非常好的帮助你"
+    },
+    {
+      "end_seconds": 216.5,
+      "id": "youtube-fKOvYahwZgw#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 215.5,
+      "text": "你进的频率是什么样子"
+    },
+    {
+      "end_seconds": 218.5,
+      "id": "youtube-fKOvYahwZgw#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.5,
+      "text": "一个星期一次"
+    },
+    {
+      "end_seconds": 219.5,
+      "id": "youtube-fKOvYahwZgw#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 218.5,
+      "text": "就从"
+    },
+    {
+      "end_seconds": 219.5,
+      "id": "youtube-fKOvYahwZgw#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 218.5,
+      "text": "持续了多久"
+    },
+    {
+      "end_seconds": 222.5,
+      "id": "youtube-fKOvYahwZgw#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.5,
+      "text": "应该有接近一年"
+    },
+    {
+      "end_seconds": 225.5,
+      "id": "youtube-fKOvYahwZgw#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.5,
+      "text": "然后就是他会不停的帮你"
+    },
+    {
+      "end_seconds": 227.5,
+      "id": "youtube-fKOvYahwZgw#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 225.5,
+      "text": "从各个方面"
+    },
+    {
+      "end_seconds": 229.5,
+      "id": "youtube-fKOvYahwZgw#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 227.5,
+      "text": "就是你遇到一些困难"
+    },
+    {
+      "end_seconds": 232.5,
+      "id": "youtube-fKOvYahwZgw#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.5,
+      "text": "你心情上情绪上有一些波动和起伏"
+    },
+    {
+      "end_seconds": 233.5,
+      "id": "youtube-fKOvYahwZgw#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 232.5,
+      "text": "都可以跟他聊"
+    },
+    {
+      "end_seconds": 235.5,
+      "id": "youtube-fKOvYahwZgw#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 233.5,
+      "text": "那他就会帮助你"
+    },
+    {
+      "end_seconds": 236.5,
+      "id": "youtube-fKOvYahwZgw#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 235.5,
+      "text": "一起去分析"
+    },
+    {
+      "end_seconds": 238.5,
+      "id": "youtube-fKOvYahwZgw#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 236.5,
+      "text": "那么其实"
+    },
+    {
+      "end_seconds": 239.5,
+      "id": "youtube-fKOvYahwZgw#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.5,
+      "text": "其实上一个就是"
+    },
+    {
+      "end_seconds": 240.5,
+      "id": "youtube-fKOvYahwZgw#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 239.5,
+      "text": "我在跟你讲"
+    },
+    {
+      "end_seconds": 241.5,
+      "id": "youtube-fKOvYahwZgw#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 240.5,
+      "text": "我工作遇到的问题的时候"
+    },
+    {
+      "end_seconds": 243.5,
+      "id": "youtube-fKOvYahwZgw#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 241.5,
+      "text": "其实有一个点就是好像"
+    },
+    {
+      "end_seconds": 245.5,
+      "id": "youtube-fKOvYahwZgw#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 243.5,
+      "text": "我会觉得我自己很懒惰"
+    },
+    {
+      "end_seconds": 247.5,
+      "id": "youtube-fKOvYahwZgw#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 245.5,
+      "text": "那么我妈也会说"
+    },
+    {
+      "end_seconds": 249.5,
+      "id": "youtube-fKOvYahwZgw#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.5,
+      "text": "你好像不够认真"
+    },
+    {
+      "end_seconds": 250.5,
+      "id": "youtube-fKOvYahwZgw#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.5,
+      "text": "你有没有更努力"
+    },
+    {
+      "end_seconds": 252.5,
+      "id": "youtube-fKOvYahwZgw#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 250.5,
+      "text": "你有没有尽力"
+    },
+    {
+      "end_seconds": 253.5,
+      "id": "youtube-fKOvYahwZgw#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 252.5,
+      "text": "然后那我就肯定觉得"
+    },
+    {
+      "end_seconds": 254.5,
+      "id": "youtube-fKOvYahwZgw#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 253.5,
+      "text": "我没有尽力"
+    },
+    {
+      "end_seconds": 256.5,
+      "id": "youtube-fKOvYahwZgw#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 254.5,
+      "text": "那我是不是就是很差呢"
+    },
+    {
+      "end_seconds": 258.5,
+      "id": "youtube-fKOvYahwZgw#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 256.5,
+      "text": "但是我好像又没有办法去"
+    },
+    {
+      "end_seconds": 259.5,
+      "id": "youtube-fKOvYahwZgw#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 258.5,
+      "text": "让自己更加的努力"
+    },
+    {
+      "end_seconds": 261.5,
+      "id": "youtube-fKOvYahwZgw#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.5,
+      "text": "那么这个其实是我当时去找"
+    },
+    {
+      "end_seconds": 262.5,
+      "id": "youtube-fKOvYahwZgw#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.5,
+      "text": "Therapist聊的一个"
+    },
+    {
+      "end_seconds": 264.5,
+      "id": "youtube-fKOvYahwZgw#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 262.5,
+      "text": "很重要的问题之一"
+    },
+    {
+      "end_seconds": 266.5,
+      "id": "youtube-fKOvYahwZgw#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 264.5,
+      "text": "Therapist是在学校"
+    },
+    {
+      "end_seconds": 267.5,
+      "id": "youtube-fKOvYahwZgw#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 266.5,
+      "text": "那个是工作"
+    },
+    {
+      "end_seconds": 269.5,
+      "id": "youtube-fKOvYahwZgw#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.5,
+      "text": "是因为你实习的时候"
+    },
+    {
+      "end_seconds": 270.5,
+      "id": "youtube-fKOvYahwZgw#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.5,
+      "text": "对是因为是实习的时候"
+    },
+    {
+      "end_seconds": 272.5,
+      "id": "youtube-fKOvYahwZgw#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 270.5,
+      "text": "所以还是可以找的"
+    },
+    {
+      "end_seconds": 274.5,
+      "id": "youtube-fKOvYahwZgw#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 272.5,
+      "text": "然后就跟Therapist聊的时候"
+    },
+    {
+      "end_seconds": 276.5,
+      "id": "youtube-fKOvYahwZgw#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 274.5,
+      "text": "我就会跟他讲我的问题"
+    },
+    {
+      "end_seconds": 277.5,
+      "id": "youtube-fKOvYahwZgw#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 276.5,
+      "text": "好像是"
+    },
+    {
+      "end_seconds": 278.5,
+      "id": "youtube-fKOvYahwZgw#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 277.5,
+      "text": "就是我没有办法"
+    },
+    {
+      "end_seconds": 279.5,
+      "id": "youtube-fKOvYahwZgw#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 278.5,
+      "text": "对一个"
+    },
+    {
+      "end_seconds": 281.5,
+      "id": "youtube-fKOvYahwZgw#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 279.5,
+      "text": "我没有看到很清晰的"
+    },
+    {
+      "end_seconds": 282.5,
+      "id": "youtube-fKOvYahwZgw#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 281.5,
+      "text": "我没有分析的"
+    },
+    {
+      "end_seconds": 283.5,
+      "id": "youtube-fKOvYahwZgw#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.5,
+      "text": "Path的事情"
+    },
+    {
+      "end_seconds": 284.5,
+      "id": "youtube-fKOvYahwZgw#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 283.5,
+      "text": "去投入"
+    },
+    {
+      "end_seconds": 285.5,
+      "id": "youtube-fKOvYahwZgw#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 284.5,
+      "text": "我觉得我应该要"
+    },
+    {
+      "end_seconds": 286.5,
+      "id": "youtube-fKOvYahwZgw#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.5,
+      "text": "投入的精力"
+    },
+    {
+      "end_seconds": 288.5,
+      "id": "youtube-fKOvYahwZgw#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 286.5,
+      "text": "其实这里面是有很多层了"
+    },
+    {
+      "end_seconds": 290.5,
+      "id": "youtube-fKOvYahwZgw#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 288.5,
+      "text": "就是第一层好像是"
+    },
+    {
+      "end_seconds": 291.5,
+      "id": "youtube-fKOvYahwZgw#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 290.5,
+      "text": "我没有办法努力"
+    },
+    {
+      "end_seconds": 292.5,
+      "id": "youtube-fKOvYahwZgw#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 291.5,
+      "text": "第二层是"
+    },
+    {
+      "end_seconds": 294.5,
+      "id": "youtube-fKOvYahwZgw#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 292.5,
+      "text": "我会为了我没有办法努力"
+    },
+    {
+      "end_seconds": 296.5,
+      "id": "youtube-fKOvYahwZgw#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 294.5,
+      "text": "而就是很指责自己"
+    },
+    {
+      "end_seconds": 297.5,
+      "id": "youtube-fKOvYahwZgw#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 296.5,
+      "text": "然后这件事情"
+    },
+    {
+      "end_seconds": 298.5,
+      "id": "youtube-fKOvYahwZgw#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 297.5,
+      "text": "就会对我来说"
+    },
+    {
+      "end_seconds": 299.5,
+      "id": "youtube-fKOvYahwZgw#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 298.5,
+      "text": "变得更加的不满"
+    },
+    {
+      "end_seconds": 300.5,
+      "id": "youtube-fKOvYahwZgw#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 299.5,
+      "text": "精神内耗"
+    },
+    {
+      "end_seconds": 301.5,
+      "id": "youtube-fKOvYahwZgw#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 300.5,
+      "text": "我就更不愿意去"
+    },
+    {
+      "end_seconds": 302.5,
+      "id": "youtube-fKOvYahwZgw#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.5,
+      "text": "触碰这件事情"
+    },
+    {
+      "end_seconds": 304.5,
+      "id": "youtube-fKOvYahwZgw#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 302.5,
+      "text": "然后我的Therapist给我的"
+    },
+    {
+      "end_seconds": 305.5,
+      "id": "youtube-fKOvYahwZgw#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 304.5,
+      "text": "就是我们也分析了很多"
+    },
+    {
+      "end_seconds": 307.5,
+      "id": "youtube-fKOvYahwZgw#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 305.5,
+      "text": "然后他最后给我的结论是"
+    },
+    {
+      "end_seconds": 308.5,
+      "id": "youtube-fKOvYahwZgw#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 307.5,
+      "text": "你好像很不愿意"
+    },
+    {
+      "end_seconds": 309.5,
+      "id": "youtube-fKOvYahwZgw#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 308.5,
+      "text": "在这个事情上面"
+    },
+    {
+      "end_seconds": 311.5,
+      "id": "youtube-fKOvYahwZgw#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 309.5,
+      "text": "然后那为什么不愿意"
+    },
+    {
+      "end_seconds": 312.5,
+      "id": "youtube-fKOvYahwZgw#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 311.5,
+      "text": "使用自己呢"
+    },
+    {
+      "end_seconds": 315.5,
+      "id": "youtube-fKOvYahwZgw#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 312.5,
+      "text": "然后我们讨论得出来的"
+    },
+    {
+      "end_seconds": 316.5,
+      "id": "youtube-fKOvYahwZgw#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 315.5,
+      "text": "结论可能第一个"
+    },
+    {
+      "end_seconds": 317.5,
+      "id": "youtube-fKOvYahwZgw#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.5,
+      "text": "就是我很怕暴露"
+    },
+    {
+      "end_seconds": 318.5,
+      "id": "youtube-fKOvYahwZgw#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 317.5,
+      "text": "自己的问题"
+    },
+    {
+      "end_seconds": 320.5,
+      "id": "youtube-fKOvYahwZgw#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 318.5,
+      "text": "然后第二个就是"
+    },
+    {
+      "end_seconds": 321.5,
+      "id": "youtube-fKOvYahwZgw#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 320.5,
+      "text": "我很怕"
+    },
+    {
+      "end_seconds": 322.5,
+      "id": "youtube-fKOvYahwZgw#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 321.5,
+      "text": "我很怕就是"
+    },
+    {
+      "end_seconds": 324.5,
+      "id": "youtube-fKOvYahwZgw#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.5,
+      "text": "做了这么多事情以后"
+    },
+    {
+      "end_seconds": 325.5,
+      "id": "youtube-fKOvYahwZgw#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.5,
+      "text": "被证明"
+    },
+    {
+      "end_seconds": 327.5,
+      "id": "youtube-fKOvYahwZgw#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 325.5,
+      "text": "这个东西是没有用的"
+    },
+    {
+      "end_seconds": 328.5,
+      "id": "youtube-fKOvYahwZgw#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 327.5,
+      "text": "那其实还是就是"
+    },
+    {
+      "end_seconds": 330.5,
+      "id": "youtube-fKOvYahwZgw#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.5,
+      "text": "会让我question我自己"
+    },
+    {
+      "end_seconds": 332.5,
+      "id": "youtube-fKOvYahwZgw#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 330.5,
+      "text": "我对我自己的一个认知"
+    },
+    {
+      "end_seconds": 333.5,
+      "id": "youtube-fKOvYahwZgw#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 332.5,
+      "text": "你当初做的判断是这样"
+    },
+    {
+      "end_seconds": 335.5,
+      "id": "youtube-fKOvYahwZgw#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 333.5,
+      "text": "但最后其实不太合理"
+    },
+    {
+      "end_seconds": 336.5,
+      "id": "youtube-fKOvYahwZgw#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 335.5,
+      "text": "那我可能就是"
+    },
+    {
+      "end_seconds": 337.5,
+      "id": "youtube-fKOvYahwZgw#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.5,
+      "text": "基于这两个点"
+    },
+    {
+      "end_seconds": 339.5,
+      "id": "youtube-fKOvYahwZgw#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 337.5,
+      "text": "我就不太敢使用自己"
+    },
+    {
+      "end_seconds": 341.5,
+      "id": "youtube-fKOvYahwZgw#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 339.5,
+      "text": "但是为什么我后来意识到"
+    },
+    {
+      "end_seconds": 342.5,
+      "id": "youtube-fKOvYahwZgw#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 341.5,
+      "text": "其实我不是一个"
+    },
+    {
+      "end_seconds": 343.5,
+      "id": "youtube-fKOvYahwZgw#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 342.5,
+      "text": "很懒惰的人"
+    },
+    {
+      "end_seconds": 344.5,
+      "id": "youtube-fKOvYahwZgw#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.5,
+      "text": "就是我刚刚跟你讲的"
+    },
+    {
+      "end_seconds": 345.5,
+      "id": "youtube-fKOvYahwZgw#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 344.5,
+      "text": "我们有一个"
+    },
+    {
+      "end_seconds": 347.5,
+      "id": "youtube-fKOvYahwZgw#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 345.5,
+      "text": "就是要做玩具的"
+    },
+    {
+      "end_seconds": 348.5,
+      "id": "youtube-fKOvYahwZgw#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 347.5,
+      "text": "一个project的时候"
+    },
+    {
+      "end_seconds": 350.5,
+      "id": "youtube-fKOvYahwZgw#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 348.5,
+      "text": "我发现我在对一个"
+    },
+    {
+      "end_seconds": 352.5,
+      "id": "youtube-fKOvYahwZgw#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 350.5,
+      "text": "定义很清晰的工作的时候"
+    },
+    {
+      "end_seconds": 353.5,
+      "id": "youtube-fKOvYahwZgw#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.5,
+      "text": "我是愿意投入很多时间"
+    },
+    {
+      "end_seconds": 354.5,
+      "id": "youtube-fKOvYahwZgw#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 353.5,
+      "text": "和精力去做的"
+    },
+    {
+      "end_seconds": 355.5,
+      "id": "youtube-fKOvYahwZgw#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.5,
+      "text": "对你跟我讲的"
+    },
+    {
+      "end_seconds": 357.5,
+      "id": "youtube-fKOvYahwZgw#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 355.5,
+      "text": "但是没有跟大家讲那个"
+    },
+    {
+      "end_seconds": 358.5,
+      "id": "youtube-fKOvYahwZgw#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 357.5,
+      "text": "task是干嘛"
+    },
+    {
+      "end_seconds": 360.5,
+      "id": "youtube-fKOvYahwZgw#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 358.5,
+      "text": "那个task是我们当时"
+    },
+    {
+      "end_seconds": 362.5,
+      "id": "youtube-fKOvYahwZgw#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 360.5,
+      "text": "要做一个木头的玩具"
+    },
+    {
+      "end_seconds": 363.5,
+      "id": "youtube-fKOvYahwZgw#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 362.5,
+      "text": "然后我们就要一个"
+    },
+    {
+      "end_seconds": 364.5,
+      "id": "youtube-fKOvYahwZgw#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.5,
+      "text": "去打磨那种木头的"
+    },
+    {
+      "end_seconds": 366.5,
+      "id": "youtube-fKOvYahwZgw#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 364.5,
+      "text": "就是小木条"
+    },
+    {
+      "end_seconds": 368.5,
+      "id": "youtube-fKOvYahwZgw#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 366.5,
+      "text": "然后就要拿砂纸去磨它"
+    },
+    {
+      "end_seconds": 369.5,
+      "id": "youtube-fKOvYahwZgw#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.5,
+      "text": "当时我们是有"
+    },
+    {
+      "end_seconds": 371.5,
+      "id": "youtube-fKOvYahwZgw#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 369.5,
+      "text": "大概有一千多个"
+    },
+    {
+      "end_seconds": 372.5,
+      "id": "youtube-fKOvYahwZgw#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.5,
+      "text": "就是整个都要磨"
+    },
+    {
+      "end_seconds": 374.5,
+      "id": "youtube-fKOvYahwZgw#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 372.5,
+      "text": "然后磨完以后要上油"
+    },
+    {
+      "end_seconds": 376.5,
+      "id": "youtube-fKOvYahwZgw#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 374.5,
+      "text": "那我当时其实大家"
+    },
+    {
+      "end_seconds": 377.5,
+      "id": "youtube-fKOvYahwZgw#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 376.5,
+      "text": "就是我的组员"
+    },
+    {
+      "end_seconds": 379.5,
+      "id": "youtube-fKOvYahwZgw#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 377.5,
+      "text": "大家其实都是对这个job"
+    },
+    {
+      "end_seconds": 381.5,
+      "id": "youtube-fKOvYahwZgw#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.5,
+      "text": "是有就是都是有怨言的"
+    },
+    {
+      "end_seconds": 382.5,
+      "id": "youtube-fKOvYahwZgw#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.5,
+      "text": "都会觉得"
+    },
+    {
+      "end_seconds": 384.5,
+      "id": "youtube-fKOvYahwZgw#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 382.5,
+      "text": "哎呀就是好繁琐好复杂"
+    },
+    {
+      "end_seconds": 386.5,
+      "id": "youtube-fKOvYahwZgw#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.5,
+      "text": "然后大家也都不愿意去做"
+    },
+    {
+      "end_seconds": 387.5,
+      "id": "youtube-fKOvYahwZgw#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 386.5,
+      "text": "那后来我的组员"
+    },
+    {
+      "end_seconds": 389.5,
+      "id": "youtube-fKOvYahwZgw#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 387.5,
+      "text": "其实我们都还是去做了"
+    },
+    {
+      "end_seconds": 390.5,
+      "id": "youtube-fKOvYahwZgw#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 389.5,
+      "text": "就是去做了"
+    },
+    {
+      "end_seconds": 391.5,
+      "id": "youtube-fKOvYahwZgw#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 390.5,
+      "text": "然后我自己的工作"
+    },
+    {
+      "end_seconds": 392.5,
+      "id": "youtube-fKOvYahwZgw#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 391.5,
+      "text": "我的组员其实"
+    },
+    {
+      "end_seconds": 393.5,
+      "id": "youtube-fKOvYahwZgw#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 392.5,
+      "text": "我们都还是去做了的"
+    },
+    {
+      "end_seconds": 395.5,
+      "id": "youtube-fKOvYahwZgw#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 393.5,
+      "text": "只是我可以感觉到"
+    },
+    {
+      "end_seconds": 396.5,
+      "id": "youtube-fKOvYahwZgw#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 395.5,
+      "text": "我在这个过程中"
+    },
+    {
+      "end_seconds": 398.5,
+      "id": "youtube-fKOvYahwZgw#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 396.5,
+      "text": "就是我的"
+    },
+    {
+      "end_seconds": 400.5,
+      "id": "youtube-fKOvYahwZgw#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 398.5,
+      "text": "我的这个抗拒的感觉"
+    },
+    {
+      "end_seconds": 402.5,
+      "id": "youtube-fKOvYahwZgw#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 400.5,
+      "text": "会比他们要更小"
+    },
+    {
+      "end_seconds": 403.5,
+      "id": "youtube-fKOvYahwZgw#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 402.5,
+      "text": "然后我也会更积极的"
+    },
+    {
+      "end_seconds": 404.5,
+      "id": "youtube-fKOvYahwZgw#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 403.5,
+      "text": "去做这件事情"
+    },
+    {
+      "end_seconds": 405.5,
+      "id": "youtube-fKOvYahwZgw#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 404.5,
+      "text": "就这件事情对我来说"
+    },
+    {
+      "end_seconds": 406.5,
+      "id": "youtube-fKOvYahwZgw#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 405.5,
+      "text": "其实是很快乐的"
+    },
+    {
+      "end_seconds": 408.5,
+      "id": "youtube-fKOvYahwZgw#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 406.5,
+      "text": "就我是很乐于去"
+    },
+    {
+      "end_seconds": 409.5,
+      "id": "youtube-fKOvYahwZgw#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 408.5,
+      "text": "去做这个工作"
+    },
+    {
+      "end_seconds": 410.5,
+      "id": "youtube-fKOvYahwZgw#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 409.5,
+      "text": "我突然想到就是"
+    },
+    {
+      "end_seconds": 412.5,
+      "id": "youtube-fKOvYahwZgw#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.5,
+      "text": "这个是你serpice给你的一个"
+    },
+    {
+      "end_seconds": 413.5,
+      "id": "youtube-fKOvYahwZgw#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 412.5,
+      "text": "给你们治疗的一个方式"
+    },
+    {
+      "end_seconds": 414.5,
+      "id": "youtube-fKOvYahwZgw#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.5,
+      "text": "是吧"
+    },
+    {
+      "end_seconds": 416.5,
+      "id": "youtube-fKOvYahwZgw#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 414.5,
+      "text": "或者说自我发现的一个方式"
+    },
+    {
+      "end_seconds": 418.5,
+      "id": "youtube-fKOvYahwZgw#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 416.5,
+      "text": "但是你发现的是你不抗拒"
+    },
+    {
+      "end_seconds": 419.5,
+      "id": "youtube-fKOvYahwZgw#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 418.5,
+      "text": "那你的组员们"
+    },
+    {
+      "end_seconds": 420.5,
+      "id": "youtube-fKOvYahwZgw#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 419.5,
+      "text": "发现他们很抗拒"
+    },
+    {
+      "end_seconds": 422.5,
+      "id": "youtube-fKOvYahwZgw#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 420.5,
+      "text": "那他们起不去会觉得自己很懒"
+    },
+    {
+      "end_seconds": 426.5,
+      "id": "youtube-fKOvYahwZgw#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.5,
+      "text": "我觉得这只是可能又是一个"
+    },
+    {
+      "end_seconds": 428.5,
+      "id": "youtube-fKOvYahwZgw#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 426.5,
+      "text": "就是成长背景不一样的地方"
+    },
+    {
+      "end_seconds": 430.5,
+      "id": "youtube-fKOvYahwZgw#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 428.5,
+      "text": "我觉得他们不会用这个东西"
+    },
+    {
+      "end_seconds": 431.5,
+      "id": "youtube-fKOvYahwZgw#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 430.5,
+      "text": "来批评自己"
+    },
+    {
+      "end_seconds": 432.5,
+      "id": "youtube-fKOvYahwZgw#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 431.5,
+      "text": "但是对我来说"
+    },
+    {
+      "end_seconds": 435.5,
+      "id": "youtube-fKOvYahwZgw#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.5,
+      "text": "好像你是不是一个很懒惰的人"
+    },
+    {
+      "end_seconds": 436.5,
+      "id": "youtube-fKOvYahwZgw#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 435.5,
+      "text": "你的本性有没有问题"
+    },
+    {
+      "end_seconds": 438.5,
+      "id": "youtube-fKOvYahwZgw#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 436.5,
+      "text": "是一个很重要的点"
+    },
+    {
+      "end_seconds": 439.5,
+      "id": "youtube-fKOvYahwZgw#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 438.5,
+      "text": "就对我来说"
+    },
+    {
+      "end_seconds": 440.5,
+      "id": "youtube-fKOvYahwZgw#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 439.5,
+      "text": "我希望确定"
+    },
+    {
+      "end_seconds": 442.5,
+      "id": "youtube-fKOvYahwZgw#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 440.5,
+      "text": "我是一个很勤劳的人"
+    },
+    {
+      "end_seconds": 445.5,
+      "id": "youtube-fKOvYahwZgw#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 442.5,
+      "text": "好像就是好像"
+    },
+    {
+      "end_seconds": 446.5,
+      "id": "youtube-fKOvYahwZgw#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 445.5,
+      "text": "就是说"
+    },
+    {
+      "end_seconds": 447.5,
+      "id": "youtube-fKOvYahwZgw#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 446.5,
+      "text": "我知道了"
+    },
+    {
+      "end_seconds": 448.5,
+      "id": "youtube-fKOvYahwZgw#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 447.5,
+      "text": "其实大家对"
+    },
+    {
+      "end_seconds": 449.5,
+      "id": "youtube-fKOvYahwZgw#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 448.5,
+      "text": "从小到大"
+    },
+    {
+      "end_seconds": 450.5,
+      "id": "youtube-fKOvYahwZgw#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 449.5,
+      "text": "都是一直在"
+    },
+    {
+      "end_seconds": 451.5,
+      "id": "youtube-fKOvYahwZgw#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 450.5,
+      "text": "逆着天性生长的"
+    },
+    {
+      "end_seconds": 452.5,
+      "id": "youtube-fKOvYahwZgw#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.5,
+      "text": "我们的学校"
+    },
+    {
+      "end_seconds": 454.5,
+      "id": "youtube-fKOvYahwZgw#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 452.5,
+      "text": "教我们逆着天性生长"
+    },
+    {
+      "end_seconds": 455.5,
+      "id": "youtube-fKOvYahwZgw#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 454.5,
+      "text": "所以说我们对自己的天性"
+    },
+    {
+      "end_seconds": 456.5,
+      "id": "youtube-fKOvYahwZgw#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.5,
+      "text": "其实是很不trust的"
+    },
+    {
+      "end_seconds": 458.5,
+      "id": "youtube-fKOvYahwZgw#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 456.5,
+      "text": "尤其是我们天性"
+    },
+    {
+      "end_seconds": 460.5,
+      "id": "youtube-fKOvYahwZgw#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 458.5,
+      "text": "就是我们自己喜欢的是一件好"
+    },
+    {
+      "end_seconds": 463.5,
+      "id": "youtube-fKOvYahwZgw#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 460.5,
+      "text": "就是我们自己舒适的方式"
+    },
+    {
+      "end_seconds": 464.5,
+      "id": "youtube-fKOvYahwZgw#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 463.5,
+      "text": "我们的天性"
+    },
+    {
+      "end_seconds": 465.5,
+      "id": "youtube-fKOvYahwZgw#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 464.5,
+      "text": "我们的性格"
+    },
+    {
+      "end_seconds": 467.5,
+      "id": "youtube-fKOvYahwZgw#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 465.5,
+      "text": "是能被这个社会所包容"
+    },
+    {
+      "end_seconds": 471.5,
+      "id": "youtube-fKOvYahwZgw#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 467.5,
+      "text": "且能成为一个有用的人"
+    },
+    {
+      "end_seconds": 473.5,
+      "id": "youtube-fKOvYahwZgw#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 471.5,
+      "text": "是很寂不自信的"
+    },
+    {
+      "end_seconds": 474.5,
+      "id": "youtube-fKOvYahwZgw#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 473.5,
+      "text": "对"
+    },
+    {
+      "end_seconds": 476.5,
+      "id": "youtube-fKOvYahwZgw#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 474.5,
+      "text": "然后你说到这个"
+    },
+    {
+      "end_seconds": 478.5,
+      "id": "youtube-fKOvYahwZgw#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 476.5,
+      "text": "就是我们对自己的"
+    },
+    {
+      "end_seconds": 480.5,
+      "id": "youtube-fKOvYahwZgw#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 478.5,
+      "text": "判断的标准来自哪里"
+    },
+    {
+      "end_seconds": 481.5,
+      "id": "youtube-fKOvYahwZgw#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 480.5,
+      "text": "我有想到我当时"
+    },
+    {
+      "end_seconds": 482.5,
+      "id": "youtube-fKOvYahwZgw#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 481.5,
+      "text": "跟我的Ferris还聊过一个点"
+    },
+    {
+      "end_seconds": 484.5,
+      "id": "youtube-fKOvYahwZgw#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 482.5,
+      "text": "我就是在找工作的时候"
+    },
+    {
+      "end_seconds": 487.5,
+      "id": "youtube-fKOvYahwZgw#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 484.5,
+      "text": "然后我其实很希望我的工资"
+    },
+    {
+      "end_seconds": 488.5,
+      "id": "youtube-fKOvYahwZgw#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 487.5,
+      "text": "比我的"
+    },
+    {
+      "end_seconds": 491.5,
+      "id": "youtube-fKOvYahwZgw#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 488.5,
+      "text": "就是一起找工作的同学要高"
+    },
+    {
+      "end_seconds": 492.5,
+      "id": "youtube-fKOvYahwZgw#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 491.5,
+      "text": "然后但是"
+    },
+    {
+      "end_seconds": 494.5,
+      "id": "youtube-fKOvYahwZgw#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 492.5,
+      "text": "但是就很难达成嘛"
+    },
+    {
+      "end_seconds": 495.5,
+      "id": "youtube-fKOvYahwZgw#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 494.5,
+      "text": "那最后的结果就是"
+    },
+    {
+      "end_seconds": 497.5,
+      "id": "youtube-fKOvYahwZgw#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.5,
+      "text": "我的工资并没有比大家要高"
+    },
+    {
+      "end_seconds": 499.5,
+      "id": "youtube-fKOvYahwZgw#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 497.5,
+      "text": "甚至会比大家要更低"
+    },
+    {
+      "end_seconds": 500.5,
+      "id": "youtube-fKOvYahwZgw#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.5,
+      "text": "但是我本身对这个工作"
+    },
+    {
+      "end_seconds": 501.5,
+      "id": "youtube-fKOvYahwZgw#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 500.5,
+      "text": "是很满意的"
+    },
+    {
+      "end_seconds": 503.5,
+      "id": "youtube-fKOvYahwZgw#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.5,
+      "text": "就我很喜欢这个工作"
+    },
+    {
+      "end_seconds": 504.5,
+      "id": "youtube-fKOvYahwZgw#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 503.5,
+      "text": "但是我当时就"
+    },
+    {
+      "end_seconds": 505.5,
+      "id": "youtube-fKOvYahwZgw#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 504.5,
+      "text": "你们找工作找得这么好吗"
+    },
+    {
+      "end_seconds": 506.5,
+      "id": "youtube-fKOvYahwZgw#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 505.5,
+      "text": "今年"
+    },
+    {
+      "end_seconds": 507.5,
+      "id": "youtube-fKOvYahwZgw#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 506.5,
+      "text": "对啊"
+    },
+    {
+      "end_seconds": 509.5,
+      "id": "youtube-fKOvYahwZgw#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 507.5,
+      "text": "因为大家都是MBA毕业"
+    },
+    {
+      "end_seconds": 511.5,
+      "id": "youtube-fKOvYahwZgw#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 509.5,
+      "text": "然后就其实都找的钱"
+    },
+    {
+      "end_seconds": 512.5,
+      "id": "youtube-fKOvYahwZgw#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.5,
+      "text": "就钱很多嘛"
+    },
+    {
+      "end_seconds": 514.5,
+      "id": "youtube-fKOvYahwZgw#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 512.5,
+      "text": "就是我当时的点就是"
+    },
+    {
+      "end_seconds": 516.5,
+      "id": "youtube-fKOvYahwZgw#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 514.5,
+      "text": "我非常非常的介意"
+    },
+    {
+      "end_seconds": 519.5,
+      "id": "youtube-fKOvYahwZgw#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 516.5,
+      "text": "我的钱不如别人多这件事情"
+    },
+    {
+      "end_seconds": 522.5,
+      "id": "youtube-fKOvYahwZgw#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 519.5,
+      "text": "然后我也会就是很责怪自己"
+    },
+    {
+      "end_seconds": 523.5,
+      "id": "youtube-fKOvYahwZgw#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 522.5,
+      "text": "我就说那我当年为什么"
+    },
+    {
+      "end_seconds": 525.5,
+      "id": "youtube-fKOvYahwZgw#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 523.5,
+      "text": "没有更加的努力去做"
+    },
+    {
+      "end_seconds": 526.5,
+      "id": "youtube-fKOvYahwZgw#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.5,
+      "text": "就是我会"
+    },
+    {
+      "end_seconds": 527.5,
+      "id": "youtube-fKOvYahwZgw#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 526.5,
+      "text": "就是不停的想到这件事情"
+    },
+    {
+      "end_seconds": 529.5,
+      "id": "youtube-fKOvYahwZgw#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.5,
+      "text": "然后我就跟我的Ferris聊"
+    },
+    {
+      "end_seconds": 531.5,
+      "id": "youtube-fKOvYahwZgw#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.5,
+      "text": "就是我不明白为什么"
+    },
+    {
+      "end_seconds": 532.5,
+      "id": "youtube-fKOvYahwZgw#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.5,
+      "text": "我不明白就是我其实"
+    },
+    {
+      "end_seconds": 534.5,
+      "id": "youtube-fKOvYahwZgw#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 532.5,
+      "text": "并不缺这个钱"
+    },
+    {
+      "end_seconds": 535.5,
+      "id": "youtube-fKOvYahwZgw#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 534.5,
+      "text": "这个钱对我来说"
+    },
+    {
+      "end_seconds": 537.5,
+      "id": "youtube-fKOvYahwZgw#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 535.5,
+      "text": "也没有能够很本质上的"
+    },
+    {
+      "end_seconds": 539.5,
+      "id": "youtube-fKOvYahwZgw#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 537.5,
+      "text": "影响我的生活"
+    },
+    {
+      "end_seconds": 540.5,
+      "id": "youtube-fKOvYahwZgw#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 539.5,
+      "text": "就是我的意思是"
+    },
+    {
+      "end_seconds": 542.5,
+      "id": "youtube-fKOvYahwZgw#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 540.5,
+      "text": "它多出来的那个部分了"
+    },
+    {
+      "end_seconds": 543.5,
+      "id": "youtube-fKOvYahwZgw#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 542.5,
+      "text": "然后"
+    },
+    {
+      "end_seconds": 544.5,
+      "id": "youtube-fKOvYahwZgw#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.5,
+      "text": "但是我不知道为什么"
+    },
+    {
+      "end_seconds": 546.5,
+      "id": "youtube-fKOvYahwZgw#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 544.5,
+      "text": "这东西对我来说这么重要"
+    },
+    {
+      "end_seconds": 547.5,
+      "id": "youtube-fKOvYahwZgw#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 546.5,
+      "text": "好像我没有这个钱"
+    },
+    {
+      "end_seconds": 548.5,
+      "id": "youtube-fKOvYahwZgw#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.5,
+      "text": "我就不如别人"
+    },
+    {
+      "end_seconds": 550.5,
+      "id": "youtube-fKOvYahwZgw#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 548.5,
+      "text": "我就比别人要差了"
+    },
+    {
+      "end_seconds": 552.5,
+      "id": "youtube-fKOvYahwZgw#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 550.5,
+      "text": "然后又聊到就是"
+    },
+    {
+      "end_seconds": 553.5,
+      "id": "youtube-fKOvYahwZgw#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 552.5,
+      "text": "我不太认可的"
+    },
+    {
+      "end_seconds": 555.5,
+      "id": "youtube-fKOvYahwZgw#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 553.5,
+      "text": "就是我不太喜欢"
+    },
+    {
+      "end_seconds": 556.5,
+      "id": "youtube-fKOvYahwZgw#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.5,
+      "text": "或者说他们的生活方式"
+    },
+    {
+      "end_seconds": 558.5,
+      "id": "youtube-fKOvYahwZgw#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 556.5,
+      "text": "不是我会使用的一些人"
+    },
+    {
+      "end_seconds": 560.5,
+      "id": "youtube-fKOvYahwZgw#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 558.5,
+      "text": "他们拿到的钱要比我多很多"
+    },
+    {
+      "end_seconds": 562.5,
+      "id": "youtube-fKOvYahwZgw#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 560.5,
+      "text": "然后我当时就有点"
+    },
+    {
+      "end_seconds": 564.5,
+      "id": "youtube-fKOvYahwZgw#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 562.5,
+      "text": "这样我再画好了"
+    },
+    {
+      "end_seconds": 568.5,
+      "id": "youtube-fKOvYahwZgw#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 566.5,
+      "text": "这里它应该还是会中断一下"
+    },
+    {
+      "end_seconds": 569.5,
+      "id": "youtube-fKOvYahwZgw#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 568.5,
+      "text": "也没错"
+    },
+    {
+      "end_seconds": 570.5,
+      "id": "youtube-fKOvYahwZgw#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 569.5,
+      "text": "中断"
+    },
+    {
+      "end_seconds": 571.5,
+      "id": "youtube-fKOvYahwZgw#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 570.5,
+      "text": "就他们会走来走去吗"
+    },
+    {
+      "end_seconds": 572.5,
+      "id": "youtube-fKOvYahwZgw#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.5,
+      "text": "没有关系"
+    },
+    {
+      "end_seconds": 573.5,
+      "id": "youtube-fKOvYahwZgw#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 572.5,
+      "text": "那怎么办呢"
+    },
+    {
+      "end_seconds": 575.5,
+      "id": "youtube-fKOvYahwZgw#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 573.5,
+      "text": "说一下你不喜欢他们的点是什么"
+    },
+    {
+      "end_seconds": 577.5,
+      "id": "youtube-fKOvYahwZgw#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 575.5,
+      "text": "比如说他们可能就会"
+    },
+    {
+      "end_seconds": 580.5,
+      "id": "youtube-fKOvYahwZgw#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 579.5,
+      "text": "比较功利了"
+    },
+    {
+      "end_seconds": 581.5,
+      "id": "youtube-fKOvYahwZgw#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 580.5,
+      "text": "就是他们可能一开始"
+    },
+    {
+      "end_seconds": 582.5,
+      "id": "youtube-fKOvYahwZgw#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 581.5,
+      "text": "就是冲着工资去的"
+    },
+    {
+      "end_seconds": 584.5,
+      "id": "youtube-fKOvYahwZgw#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 582.5,
+      "text": "但是你看在我这里就很矛盾了"
+    },
+    {
+      "end_seconds": 586.5,
+      "id": "youtube-fKOvYahwZgw#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 584.5,
+      "text": "就是我既不care"
+    },
+    {
+      "end_seconds": 587.5,
+      "id": "youtube-fKOvYahwZgw#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 586.5,
+      "text": "你既不care你又介意"
+    },
+    {
+      "end_seconds": 588.5,
+      "id": "youtube-fKOvYahwZgw#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 587.5,
+      "text": "对我既不care这个"
+    },
+    {
+      "end_seconds": 589.5,
+      "id": "youtube-fKOvYahwZgw#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 588.5,
+      "text": "你又不想很功利"
+    },
+    {
+      "end_seconds": 590.5,
+      "id": "youtube-fKOvYahwZgw#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 589.5,
+      "text": "然后你又觉得"
+    },
+    {
+      "end_seconds": 591.5,
+      "id": "youtube-fKOvYahwZgw#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 590.5,
+      "text": "对对对"
+    },
+    {
+      "end_seconds": 592.5,
+      "id": "youtube-fKOvYahwZgw#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.5,
+      "text": "公司在一开始"
+    },
+    {
+      "end_seconds": 594.5,
+      "id": "youtube-fKOvYahwZgw#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 592.5,
+      "text": "就不是我的priority"
+    },
+    {
+      "end_seconds": 596.5,
+      "id": "youtube-fKOvYahwZgw#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 594.5,
+      "text": "那我最后没有得到它"
+    },
+    {
+      "end_seconds": 597.5,
+      "id": "youtube-fKOvYahwZgw#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 596.5,
+      "text": "其实是一个很正常的事情"
+    },
+    {
+      "end_seconds": 599.5,
+      "id": "youtube-fKOvYahwZgw#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 597.5,
+      "text": "但是我其实是很难"
+    },
+    {
+      "end_seconds": 601.5,
+      "id": "youtube-fKOvYahwZgw#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 599.5,
+      "text": "当时心理上很难接受这个事"
+    },
+    {
+      "end_seconds": 603.5,
+      "id": "youtube-fKOvYahwZgw#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 601.5,
+      "text": "然后我的therapist就会说"
+    },
+    {
+      "end_seconds": 606.5,
+      "id": "youtube-fKOvYahwZgw#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.5,
+      "text": "我注意到你在这个叙述的过程中"
+    },
+    {
+      "end_seconds": 609.5,
+      "id": "youtube-fKOvYahwZgw#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 606.5,
+      "text": "你会讲到这个向他学习"
+    },
+    {
+      "end_seconds": 611.5,
+      "id": "youtube-fKOvYahwZgw#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 609.5,
+      "text": "你会讲到好像"
+    },
+    {
+      "end_seconds": 613.5,
+      "id": "youtube-fKOvYahwZgw#cue-372",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 611.5,
+      "text": "你好像还在用一种"
+    },
+    {
+      "end_seconds": 615.5,
+      "id": "youtube-fKOvYahwZgw#cue-373",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 613.5,
+      "text": "你好像是在以一种特定的眼光"
+    },
+    {
+      "end_seconds": 617.5,
+      "id": "youtube-fKOvYahwZgw#cue-374",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 615.5,
+      "text": "来看待你自己"
+    },
+    {
+      "end_seconds": 619.5,
+      "id": "youtube-fKOvYahwZgw#cue-375",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 617.5,
+      "text": "我就想好像是"
+    },
+    {
+      "end_seconds": 620.5,
+      "id": "youtube-fKOvYahwZgw#cue-376",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 619.5,
+      "text": "这一点像我们"
+    },
+    {
+      "end_seconds": 623.5,
+      "id": "youtube-fKOvYahwZgw#cue-377",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 620.5,
+      "text": "好像就是一个老师的眼光"
+    },
+    {
+      "end_seconds": 625.5,
+      "id": "youtube-fKOvYahwZgw#cue-378",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 623.5,
+      "text": "就是你现在不如别的同学好"
+    },
+    {
+      "end_seconds": 627.5,
+      "id": "youtube-fKOvYahwZgw#cue-379",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 625.5,
+      "text": "你要向别的同学学习"
+    },
+    {
+      "end_seconds": 630.5,
+      "id": "youtube-fKOvYahwZgw#cue-380",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 627.5,
+      "text": "这也是我一个很本能的反应"
+    },
+    {
+      "end_seconds": 631.5,
+      "id": "youtube-fKOvYahwZgw#cue-381",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 630.5,
+      "text": "好像就是在以前"
+    },
+    {
+      "end_seconds": 633.5,
+      "id": "youtube-fKOvYahwZgw#cue-382",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 631.5,
+      "text": "大家衡量的东西就比较单一"
+    },
+    {
+      "end_seconds": 635.5,
+      "id": "youtube-fKOvYahwZgw#cue-383",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 633.5,
+      "text": "就是成绩好不好"
+    },
+    {
+      "end_seconds": 636.5,
+      "id": "youtube-fKOvYahwZgw#cue-384",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 635.5,
+      "text": "你成绩好了"
+    },
+    {
+      "end_seconds": 637.5,
+      "id": "youtube-fKOvYahwZgw#cue-385",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 636.5,
+      "text": "你就是一个好学生"
+    },
+    {
+      "end_seconds": 639.5,
+      "id": "youtube-fKOvYahwZgw#cue-386",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 637.5,
+      "text": "甚至我们小时候就是会说"
+    },
+    {
+      "end_seconds": 640.5,
+      "id": "youtube-fKOvYahwZgw#cue-387",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 639.5,
+      "text": "成绩好的同学"
+    },
+    {
+      "end_seconds": 641.5,
+      "id": "youtube-fKOvYahwZgw#cue-388",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 640.5,
+      "text": "跟成绩差的同学"
+    },
+    {
+      "end_seconds": 642.5,
+      "id": "youtube-fKOvYahwZgw#cue-389",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 641.5,
+      "text": "上课一起开小差"
+    },
+    {
+      "end_seconds": 644.5,
+      "id": "youtube-fKOvYahwZgw#cue-390",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 642.5,
+      "text": "老师可能就会"
+    },
+    {
+      "end_seconds": 645.5,
+      "id": "youtube-fKOvYahwZgw#cue-391",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 644.5,
+      "text": "你这是拿数学箱"
+    },
+    {
+      "end_seconds": 646.5,
+      "id": "youtube-fKOvYahwZgw#cue-392",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 645.5,
+      "text": "我帮你知道一下"
+    },
+    {
+      "end_seconds": 647.5,
+      "id": "youtube-fKOvYahwZgw#cue-393",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 646.5,
+      "text": "校风好好"
+    },
+    {
+      "end_seconds": 649.5,
+      "id": "youtube-fKOvYahwZgw#cue-394",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.5,
+      "text": "这个不太好讲吧"
+    },
+    {
+      "end_seconds": 650.5,
+      "id": "youtube-fKOvYahwZgw#cue-395",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 649.5,
+      "text": "真的吗"
+    },
+    {
+      "end_seconds": 652.5,
+      "id": "youtube-fKOvYahwZgw#cue-396",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 650.5,
+      "text": "反正就是老师会更倾向于"
+    },
+    {
+      "end_seconds": 654.5,
+      "id": "youtube-fKOvYahwZgw#cue-397",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 652.5,
+      "text": "批评成绩不太好的同学"
+    },
+    {
+      "end_seconds": 656.5,
+      "id": "youtube-fKOvYahwZgw#cue-398",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 654.5,
+      "text": "好像就是你成绩好了"
+    },
+    {
+      "end_seconds": 657.5,
+      "id": "youtube-fKOvYahwZgw#cue-399",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 656.5,
+      "text": "就是做什么东西"
+    },
+    {
+      "end_seconds": 659.5,
+      "id": "youtube-fKOvYahwZgw#cue-400",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 657.5,
+      "text": "都会更正确一点"
+    },
+    {
+      "end_seconds": 661.5,
+      "id": "youtube-fKOvYahwZgw#cue-401",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 659.5,
+      "text": "以我的有限的认知来说"
+    },
+    {
+      "end_seconds": 663.5,
+      "id": "youtube-fKOvYahwZgw#cue-402",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 661.5,
+      "text": "这应该是一个很特例的情况"
+    },
+    {
+      "end_seconds": 665.5,
+      "id": "youtube-fKOvYahwZgw#cue-403",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 663.5,
+      "text": "就是校风这么正"
+    },
+    {
+      "end_seconds": 667.5,
+      "id": "youtube-fKOvYahwZgw#cue-404",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 665.5,
+      "text": "应该是不太常见的"
+    },
+    {
+      "end_seconds": 668.5,
+      "id": "youtube-fKOvYahwZgw#cue-405",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 667.5,
+      "text": "对 就是老师"
+    },
+    {
+      "end_seconds": 669.5,
+      "id": "youtube-fKOvYahwZgw#cue-406",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.5,
+      "text": "因为老师"
+    },
+    {
+      "end_seconds": 672.5,
+      "id": "youtube-fKOvYahwZgw#cue-407",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 669.5,
+      "text": "他也会有一些偏向性"
+    },
+    {
+      "end_seconds": 673.5,
+      "id": "youtube-fKOvYahwZgw#cue-408",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 672.5,
+      "text": "老师的KPI是"
+    },
+    {
+      "end_seconds": 674.5,
+      "id": "youtube-fKOvYahwZgw#cue-409",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 673.5,
+      "text": "培养出来成绩好的学生"
+    },
+    {
+      "end_seconds": 675.5,
+      "id": "youtube-fKOvYahwZgw#cue-410",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 674.5,
+      "text": "这是没错"
+    },
+    {
+      "end_seconds": 676.5,
+      "id": "youtube-fKOvYahwZgw#cue-411",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 675.5,
+      "text": "但是倒没有说"
+    },
+    {
+      "end_seconds": 678.5,
+      "id": "youtube-fKOvYahwZgw#cue-412",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 676.5,
+      "text": "同学们之间会觉得"
+    },
+    {
+      "end_seconds": 680.5,
+      "id": "youtube-fKOvYahwZgw#cue-413",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 678.5,
+      "text": "成绩好的人高人一等"
+    },
+    {
+      "end_seconds": 681.5,
+      "id": "youtube-fKOvYahwZgw#cue-414",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 680.5,
+      "text": "但是你们这儿是这样"
+    },
+    {
+      "end_seconds": 682.5,
+      "id": "youtube-fKOvYahwZgw#cue-415",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 681.5,
+      "text": "但是确实也培养出来"
+    },
+    {
+      "end_seconds": 683.5,
+      "id": "youtube-fKOvYahwZgw#cue-416",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 682.5,
+      "text": "特殊的性格"
+    },
+    {
+      "end_seconds": 686.5,
+      "id": "youtube-fKOvYahwZgw#cue-417",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 683.5,
+      "text": "对 就是可能也不能说"
+    },
+    {
+      "end_seconds": 687.5,
+      "id": "youtube-fKOvYahwZgw#cue-418",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 686.5,
+      "text": "成绩好就高人一等"
+    },
+    {
+      "end_seconds": 689.5,
+      "id": "youtube-fKOvYahwZgw#cue-419",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 687.5,
+      "text": "但是确实是"
+    },
+    {
+      "end_seconds": 690.5,
+      "id": "youtube-fKOvYahwZgw#cue-420",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 689.5,
+      "text": "有特权"
+    },
+    {
+      "end_seconds": 692.5,
+      "id": "youtube-fKOvYahwZgw#cue-421",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 690.5,
+      "text": "就是这个眼光是会不一样的"
+    },
+    {
+      "end_seconds": 694.5,
+      "id": "youtube-fKOvYahwZgw#cue-422",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 692.5,
+      "text": "就是你是属于成绩好的同学"
+    },
+    {
+      "end_seconds": 697.5,
+      "id": "youtube-fKOvYahwZgw#cue-423",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 694.5,
+      "text": "然后你可以得到很多的"
+    },
+    {
+      "end_seconds": 699.5,
+      "id": "youtube-fKOvYahwZgw#cue-424",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 697.5,
+      "text": "一些优势吧"
+    },
+    {
+      "end_seconds": 700.5,
+      "id": "youtube-fKOvYahwZgw#cue-425",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 699.5,
+      "text": "就有点像"
+    },
+    {
+      "end_seconds": 702.5,
+      "id": "youtube-fKOvYahwZgw#cue-426",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 700.5,
+      "text": "你是一个长得漂亮的孩子"
+    },
+    {
+      "end_seconds": 703.5,
+      "id": "youtube-fKOvYahwZgw#cue-427",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 702.5,
+      "text": "你就会得到很多机会"
+    },
+    {
+      "end_seconds": 705.5,
+      "id": "youtube-fKOvYahwZgw#cue-428",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 703.5,
+      "text": "得到很多好处"
+    },
+    {
+      "end_seconds": 708.5,
+      "id": "youtube-fKOvYahwZgw#cue-429",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 705.5,
+      "text": "你成绩好就只会得到更多东西"
+    },
+    {
+      "end_seconds": 710.5,
+      "id": "youtube-fKOvYahwZgw#cue-430",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 708.5,
+      "text": "比如说老师的关注"
+    },
+    {
+      "end_seconds": 711.5,
+      "id": "youtube-fKOvYahwZgw#cue-431",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 710.5,
+      "text": "老师的喜爱"
+    },
+    {
+      "end_seconds": 713.5,
+      "id": "youtube-fKOvYahwZgw#cue-432",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 711.5,
+      "text": "因为老师也是人"
+    },
+    {
+      "end_seconds": 715.5,
+      "id": "youtube-fKOvYahwZgw#cue-433",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 713.5,
+      "text": "他就没有办法掩饰的"
+    },
+    {
+      "end_seconds": 717.5,
+      "id": "youtube-fKOvYahwZgw#cue-434",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 715.5,
+      "text": "他有时候对你的一些东西"
+    },
+    {
+      "end_seconds": 718.5,
+      "id": "youtube-fKOvYahwZgw#cue-435",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 717.5,
+      "text": "很正常"
+    },
+    {
+      "end_seconds": 719.5,
+      "id": "youtube-fKOvYahwZgw#cue-436",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 718.5,
+      "text": "对 当然这个会被你带到"
+    },
+    {
+      "end_seconds": 721.5,
+      "id": "youtube-fKOvYahwZgw#cue-437",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 719.5,
+      "text": "就是找工作的时候"
+    },
+    {
+      "end_seconds": 722.5,
+      "id": "youtube-fKOvYahwZgw#cue-438",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 721.5,
+      "text": "你觉得"
+    },
+    {
+      "end_seconds": 726.5,
+      "id": "youtube-fKOvYahwZgw#cue-439",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 722.5,
+      "text": "最大的那个人是最值得学习的"
+    },
+    {
+      "end_seconds": 728.5,
+      "id": "youtube-fKOvYahwZgw#cue-440",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 726.5,
+      "text": "对 就好像我当时"
+    },
+    {
+      "end_seconds": 729.5,
+      "id": "youtube-fKOvYahwZgw#cue-441",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 728.5,
+      "text": "我当时的感觉"
+    },
+    {
+      "end_seconds": 731.5,
+      "id": "youtube-fKOvYahwZgw#cue-442",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 729.5,
+      "text": "就是这个东西是有一点撕裂的"
+    },
+    {
+      "end_seconds": 733.5,
+      "id": "youtube-fKOvYahwZgw#cue-443",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 731.5,
+      "text": "就好像我心里有一套"
+    },
+    {
+      "end_seconds": 734.5,
+      "id": "youtube-fKOvYahwZgw#cue-444",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 733.5,
+      "text": "我的价值判断"
+    },
+    {
+      "end_seconds": 736.5,
+      "id": "youtube-fKOvYahwZgw#cue-445",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 734.5,
+      "text": "比如说我觉得我的方式是更好的"
+    },
+    {
+      "end_seconds": 740.5,
+      "id": "youtube-fKOvYahwZgw#cue-446",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 736.5,
+      "text": "但是我好像又在用一个别的东西"
+    },
+    {
+      "end_seconds": 742.5,
+      "id": "youtube-fKOvYahwZgw#cue-447",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 740.5,
+      "text": "来衡量我和别人的价值"
+    },
+    {
+      "end_seconds": 745.5,
+      "id": "youtube-fKOvYahwZgw#cue-448",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 742.5,
+      "text": "其实到最后就是这个工资的多少"
+    },
+    {
+      "end_seconds": 748.5,
+      "id": "youtube-fKOvYahwZgw#cue-449",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.5,
+      "text": "你现在对你那个价值判断还自信吗"
+    },
+    {
+      "end_seconds": 749.5,
+      "id": "youtube-fKOvYahwZgw#cue-450",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 748.5,
+      "text": "我觉得当我跟我的"
+    },
+    {
+      "end_seconds": 751.5,
+      "id": "youtube-fKOvYahwZgw#cue-451",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 749.5,
+      "text": "therapist聊完了之后"
+    },
+    {
+      "end_seconds": 754.5,
+      "id": "youtube-fKOvYahwZgw#cue-452",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 751.5,
+      "text": "我意识到就是我的这个"
+    },
+    {
+      "end_seconds": 757.5,
+      "id": "youtube-fKOvYahwZgw#cue-453",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 754.5,
+      "text": "就是这个不和谐的地方"
+    },
+    {
+      "end_seconds": 759.5,
+      "id": "youtube-fKOvYahwZgw#cue-454",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 757.5,
+      "text": "在于这两套价值体系"
+    },
+    {
+      "end_seconds": 761.5,
+      "id": "youtube-fKOvYahwZgw#cue-455",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 759.5,
+      "text": "产生了冲突之后"
+    },
+    {
+      "end_seconds": 763.5,
+      "id": "youtube-fKOvYahwZgw#cue-456",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 761.5,
+      "text": "我就会开始想"
+    },
+    {
+      "end_seconds": 766.5,
+      "id": "youtube-fKOvYahwZgw#cue-457",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 763.5,
+      "text": "就是我对我的这一套价值体系的"
+    },
+    {
+      "end_seconds": 770.5,
+      "id": "youtube-fKOvYahwZgw#cue-458",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 766.5,
+      "text": "信心和想法是从何而来的"
+    },
+    {
+      "end_seconds": 772.5,
+      "id": "youtube-fKOvYahwZgw#cue-459",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 770.5,
+      "text": "那我想清楚了之后"
+    },
+    {
+      "end_seconds": 774.5,
+      "id": "youtube-fKOvYahwZgw#cue-460",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 772.5,
+      "text": "我就会对我的这一套方法"
+    },
+    {
+      "end_seconds": 776.5,
+      "id": "youtube-fKOvYahwZgw#cue-461",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 774.5,
+      "text": "信心和想法是从何而来的"
+    },
+    {
+      "end_seconds": 779.5,
+      "id": "youtube-fKOvYahwZgw#cue-462",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 776.5,
+      "text": "就是从比如说我更喜欢什么"
+    },
+    {
+      "end_seconds": 781.5,
+      "id": "youtube-fKOvYahwZgw#cue-463",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 779.5,
+      "text": "对我来说我的人生更重要的是什么"
+    },
+    {
+      "end_seconds": 783.5,
+      "id": "youtube-fKOvYahwZgw#cue-464",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 781.5,
+      "text": "我愿意为了什么付出我的时间"
+    },
+    {
+      "end_seconds": 786.5,
+      "id": "youtube-fKOvYahwZgw#cue-465",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 783.5,
+      "text": "我可能是根据这个标准来选择工作的"
+    },
+    {
+      "end_seconds": 788.5,
+      "id": "youtube-fKOvYahwZgw#cue-466",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 786.5,
+      "text": "你对你喜欢什么确定吗"
+    },
+    {
+      "end_seconds": 795.5,
+      "id": "youtube-fKOvYahwZgw#cue-467",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 788.5,
+      "text": "我觉得还是没有特别的不确定"
+    }
+  ],
+  "video_id": "fKOvYahwZgw",
+  "yuzheng_stance_weight": "not-evidence"
+}

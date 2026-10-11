@@ -1,0 +1,466 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-QB3GEnduxk4",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2021-07-14T13:17:12Z",
+  "participant_aliases": [
+    "Vijaye Raji"
+  ],
+  "participant_entity_ids": [
+    "guest:vijaye-raji"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Vijaye Raji",
+  "public_verified_at": "2026-10-11T01:56:07.971834+00:00",
+  "published_at": "2021-07-14",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "133b92851e6a578778196716039fe4146c8bd09ffa02e8ea92699ec2d2e3bb1c",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "d906f1162b7c5ebdc3191605a01075781dfce7906f4fbe15b1492b48d3288fba",
+    "root_receipt_sha256": "da3875d1438dc027958b70bc6f59794556641d1172886b52cb4a0303c78dc7f2",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=QB3GEnduxk4",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=QB3GEnduxk4",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "How does Facebook run AB testing? | Statsig product demo by Vijaye",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 16.552,
+      "id": "youtube-QB3GEnduxk4#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "Okay, Statsig was created by a set of ex-Facebook engineers and data scientists with the intention of bringing a set of infrastructure tools that we use inside Facebook to everyone."
+    },
+    {
+      "end_seconds": 46.51,
+      "id": "youtube-QB3GEnduxk4#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.552,
+      "text": "So inside Facebook, the development infrastructure is very well thought out, and a lot of investment has gone in, and that enables teams to move really, really fast, make product decisions really, really fast, and then ship only the right features to the users. And what we want to do at Statsig is give the same power to those teams that may not be able to, like, actually invest so much in infrastructure tools to to get to the right decisions for their own product."
+    },
+    {
+      "end_seconds": 74.468,
+      "id": "youtube-QB3GEnduxk4#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.51,
+      "text": "What we do is give a set of development tools that allows you to first build your new features. And when you build, we want to make it really, really easy to move fast and decouple product features from code shipments. So, for example, if you have a mobile team and a server team that are building the same feature, they need to talk to each other and they need to be able to like launch the same feature at the same time."
+    },
+    {
+      "end_seconds": 88.799,
+      "id": "youtube-QB3GEnduxk4#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.468,
+      "text": "It's very hard to coordinate a bunch of those things, especially because of dependencies with like Apple and Android, Google Play, and so on. So, what we do is we allow these things called feature gates that allow you to."
+    },
+    {
+      "end_seconds": 102.101,
+      "id": "youtube-QB3GEnduxk4#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.799,
+      "text": "Build feature separately and then turn them on whenever you're ready. And then the second thing is we allow you to measure the impact of each of the features on your product. So when when we talk about the measurement"
+    },
+    {
+      "end_seconds": 120.307,
+      "id": "youtube-QB3GEnduxk4#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.101,
+      "text": "This is important to understand that it's not just about like the surface-level metrics. It's about when you ship a new feature, how does it affect the overall company level and the business-level metrics? And we allow you to like simple, with using simple measures, simple tools, measure those and get to the right decision."
+    },
+    {
+      "end_seconds": 147.763,
+      "id": "youtube-QB3GEnduxk4#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 120.307,
+      "text": "And then once you get to the right decision, you can either ship your product or decide to go iterate on your product. And so the idea is to like make it so easy to run these kind of tests in in in languages like experiments and A/B tests, so much so that you should be running every feature as a test, and that allows you to like get to 10x more tests than most other tools out there."
+    },
+    {
+      "end_seconds": 163.838,
+      "id": "youtube-QB3GEnduxk4#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.763,
+      "text": "And then, that means you're already like on a well on your way to like trying out various different things and having your product lead the way in growing it, rather than waiting for marketing or sales teams to grow your product. The last thing is also."
+    },
+    {
+      "end_seconds": 189.64,
+      "id": "youtube-QB3GEnduxk4#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.838,
+      "text": "arriving at causation. So when you have features behind feature gates, and when the tool can give you a really good way to like debug why metrics are going in a particular direction, it it gets you faster at arriving at like why your products are doing what they're doing, and then be able to like simplify some of your debugging for"
+    },
+    {
+      "end_seconds": 196.595,
+      "id": "youtube-QB3GEnduxk4#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 189.64,
+      "text": "on without relying on data scientists, the the the other thing I want to mention here is that."
+    },
+    {
+      "end_seconds": 221.986,
+      "id": "youtube-QB3GEnduxk4#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 196.595,
+      "text": "The team that built all of this came from Facebook, and we've seen a lot of the the the way product growth happens inside these companies. And so, a lot of experience has gone into building these tools. Not just that, we also make it like extremely reliable and scalable, because the tools have served some pretty large companies. So let's start. So when you first go into Statsig.com."
+    },
+    {
+      "end_seconds": 231.05,
+      "id": "youtube-QB3GEnduxk4#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 221.986,
+      "text": "You see our landing page. The landing page gives you an overview of like what we're trying to do. Basically, what we want to do is to make"
+    },
+    {
+      "end_seconds": 246.37,
+      "id": "youtube-QB3GEnduxk4#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 231.05,
+      "text": "Make it easy for all products to build and measure what they're building and how it affects their product metrics, and then based on those, make decisions to ship or not to ship or to go iterate on the product."
+    },
+    {
+      "end_seconds": 262.925,
+      "id": "youtube-QB3GEnduxk4#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 246.37,
+      "text": "So you can read a lot more about what we have going on here. We also talk a little bit about the product and the documentation and our team and so on. But once you sign in, we land you in our console, which is where you configure our product."
+    },
+    {
+      "end_seconds": 291.645,
+      "id": "youtube-QB3GEnduxk4#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 262.925,
+      "text": "The first thing you want to notice is that we have a list of projects that you can create, and you can create as many projects as you want. These projects are scopes, and these scopes have people from teams invited. So, kind of like each team has its own set of features and metrics and so on, so they don't step on each other's toes. What I'll do is I'll start showing off our demo project. So, we have a demo project where all the data is filled in."
+    },
+    {
+      "end_seconds": 305.339,
+      "id": "youtube-QB3GEnduxk4#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 291.645,
+      "text": "So first thing I want to show off is feature gates. So what this does is like you have a set of features that you want to build, and every time you write code, you want to create your code. You want to put that code behind a feature gate."
+    },
+    {
+      "end_seconds": 333.865,
+      "id": "youtube-QB3GEnduxk4#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 305.339,
+      "text": "And what that allows you to do is to decouple code launches from feature launches. And so, whenever you're ready to open up a feature, you will then go turn on a feature or turn it off if something goes wrong. Here's a view of all the features or the feature gates that we have, and you can turn them on or off easily. You can also see how well they're doing in terms of like how many checks are happening on a daily basis. I'll pick one example to go into and drill."
+    },
+    {
+      "end_seconds": 348.996,
+      "id": "youtube-QB3GEnduxk4#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 333.865,
+      "text": "So once you go into a feature gate, you will notice a few things here. The first thing is I'll actually tell you your daily exposures, and then it also gives you a toggle to like either turn on or off as you need."
+    },
+    {
+      "end_seconds": 371.333,
+      "id": "youtube-QB3GEnduxk4#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 348.996,
+      "text": "And then once you come in here, you see a set of rules. So the rules are determine how a feature is open for people, and allows you to target a specific feature to specific audiences. And these targeting criteria, we have quite a few of them, and each of them follows this kind of like this workflow of rule set. So if, then else condition."
+    },
+    {
+      "end_seconds": 391.934,
+      "id": "youtube-QB3GEnduxk4#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.333,
+      "text": "In this particular case, you have this. But this feature is open to employees only. The way we determine employees only is by checking if an email, if their email, the user email contains any of swagger.com. That means that the user is an employee, and that means we want to like open this feature to one hundred percent."
+    },
+    {
+      "end_seconds": 400.034,
+      "id": "youtube-QB3GEnduxk4#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 391.934,
+      "text": "Now, once that rule fails, it'll go to the next rule set, and so on and so forth. And if you want to add more conditions, it's relatively easy."
+    },
+    {
+      "end_seconds": 424.935,
+      "id": "youtube-QB3GEnduxk4#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 400.034,
+      "text": "You can add conditions based on all of these criteria. So we have user ID, app version, browser name, browser version, country. Country means like you can actually like target the feature only to a specific set of countries. We have email environment. We also have ability to like either chain existing gates, like either fails target gate or passes target gate."
+    },
+    {
+      "end_seconds": 451.192,
+      "id": "youtube-QB3GEnduxk4#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.935,
+      "text": "We have operating systems, so you can target like iOS or Android. So, for example, you can do iOS, Android only. That means you want to only open this feature to mobile users, and so on. Another one of those is time, so you can actually say like you know, open this feature only after a specific day. So, if ever you're doing like a Memorial Day sale or something, you can you can then time your feature."
+    },
+    {
+      "end_seconds": 478.729,
+      "id": "youtube-QB3GEnduxk4#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.192,
+      "text": "So that's this is the way you do features, and you can gate these features to specific people. Once you create a gate, you also have the ability to like look at the history of the changes and be able to like restore to a well-known good state. We also give you ability to like take code snippets, you can copy this code and paste it in your client or our server, depending on the language and the environment that you're using."
+    },
+    {
+      "end_seconds": 503.675,
+      "id": "youtube-QB3GEnduxk4#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 478.729,
+      "text": "Then once you have set up a feature gate, one of the things that you're going to notice is like there are some people that are being exposed to the feature, and then there are some people that are not exposed to the feature. Statsig takes advantage of that fact, and then is able to provide a set of features and metrics for the people that are exposed to the feature and people that are not exposed to the feature using this analysis tool called Pulse."
+    },
+    {
+      "end_seconds": 517.217,
+      "id": "youtube-QB3GEnduxk4#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 503.675,
+      "text": "Pulse gives you kind of like the cumulative effect of how a particular feature is performing. So in this particular case, you can see like ten point four five percent of the people are being exposed to this feature, and then the remaining are not."
+    },
+    {
+      "end_seconds": 536.382,
+      "id": "youtube-QB3GEnduxk4#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 517.217,
+      "text": "And then, if you go down, it'll actually show you how that particular feature is doing across a bunch of metrics. So, in this particular case, you will see like weekly stickiness is is is actually down quite significantly by four point three eight percent. And any time you see red values, that means it's"
+    },
+    {
+      "end_seconds": 547.048,
+      "id": "youtube-QB3GEnduxk4#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 536.382,
+      "text": "statistically significantly underperforming, and then any time you see green values in this particular case, there are no green values, that will be significantly performing better."
+    },
+    {
+      "end_seconds": 556.581,
+      "id": "youtube-QB3GEnduxk4#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.048,
+      "text": "And then the grey ones are those that are directionally correlated, but not quite have reached the statistical significance. So now you can actually."
+    },
+    {
+      "end_seconds": 578.461,
+      "id": "youtube-QB3GEnduxk4#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 556.581,
+      "text": "Look at this feature. Like, turns out this feature is doing really poorly, and you don't want to launch this feature. So that's the kind of decision that you want to make. And you can drill go back into Pulse, and you can see like we make Pulse available for every feature that you have shipped, and so you can be able to like make the right product decisions based on every feature that you want to launch."
+    },
+    {
+      "end_seconds": 606.869,
+      "id": "youtube-QB3GEnduxk4#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.461,
+      "text": "Moving on, we have another feature called Dynamic Config. Dynamic Config allows you to like provide real-time and runtime configurations based on targeting. So one example is localization. So for example, if you have a set of strings, you want to provide the default value in English. So you know you have like us, follow us, and share, and so on. These are provided in English. And then imagine in the future."
+    },
+    {
+      "end_seconds": 628.094,
+      "id": "youtube-QB3GEnduxk4#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 606.869,
+      "text": "your your localization team comes back and says like ah hey we had some Spanish strings, and then you can simply add a new condition where you say like if the user is coming from any of these countries Mexico Spain Argentina or so on, then you want to provide Spanish strings and then you can actually go update your configuration this way. This allows you to like"
+    },
+    {
+      "end_seconds": 640.498,
+      "id": "youtube-QB3GEnduxk4#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 628.094,
+      "text": "very easily go change the behavior of an application without having to write code or ship new versions, and this is easily extensible to like other languages and and so on."
+    },
+    {
+      "end_seconds": 651.145,
+      "id": "youtube-QB3GEnduxk4#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 640.498,
+      "text": "The next thing I want to show off is holdouts. So sometimes when you are launching lots and lots of features during a small period of time, especially if you have teams that are moving really fast."
+    },
+    {
+      "end_seconds": 674.985,
+      "id": "youtube-QB3GEnduxk4#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 651.145,
+      "text": "You want to understand what is the cumulative effect of all of the features that you've launched during a specific time. So what we do is we provide you with this thing called holdout, which you can set up at the beginning of the half or the quarter, depending on how much time you want to spend to measure this thing. And you can make a holdout be global and assign like you know a small percentage of the people that are held out from every feature. So in this particular case, we have two percent holdout."
+    },
+    {
+      "end_seconds": 702.933,
+      "id": "youtube-QB3GEnduxk4#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 674.985,
+      "text": "So what that means is like any new feature that you're building in that in that quarterly period will be behind this holdout. So those features will respect this holdout. So in this particular case, let's go back to the dark mode homepage that I showed you, and here you will see that we have this gate is respecting a list of holdouts, and one of them is the you know the H1 product holdout, which is two percent."
+    },
+    {
+      "end_seconds": 714.572,
+      "id": "youtube-QB3GEnduxk4#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 702.933,
+      "text": "So this is very useful because our Pulse analysis engine automatically picks out holdouts and will also tell you the cumulative effect of all the features."
+    },
+    {
+      "end_seconds": 738.884,
+      "id": "youtube-QB3GEnduxk4#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 714.572,
+      "text": "that were launched during a specific period of time, and so Pulse is going to tell you like, okay, well, the purchase rate in the last six months has gone up by quite significantly, but the DAU and the MAU and the WAU have actually fallen. So this is gives you an overview of like all of the the product work that your teams have done, very very very helpful in like coming up with you know the"
+    },
+    {
+      "end_seconds": 746.131,
+      "id": "youtube-QB3GEnduxk4#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 738.884,
+      "text": "How one feature either impacts positively or negatively other features."
+    },
+    {
+      "end_seconds": 771.424,
+      "id": "youtube-QB3GEnduxk4#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 746.131,
+      "text": "We also provide a set of metrics. Metrics are very useful to, like, you know, when you're logging new events, you can see how each of these metrics are doing. So in this particular case, you know, product view if I remove, so you can see like all a set of features, and you can also see a set of events that you're logging. And these events are really useful to, like, you know, debug your product integration."
+    },
+    {
+      "end_seconds": 780.664,
+      "id": "youtube-QB3GEnduxk4#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 771.424,
+      "text": "Then, what we also provide is set of derived metrics. In this particular case, we give you a list of all the user level metrics."
+    },
+    {
+      "end_seconds": 792.557,
+      "id": "youtube-QB3GEnduxk4#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 780.664,
+      "text": "Like daily active, weekly active, monthly actives. One of the important features here is we actually overlay a set of feature updates. So whether you've launched a new feature or turned off a new an old feature."
+    },
+    {
+      "end_seconds": 815.127,
+      "id": "youtube-QB3GEnduxk4#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 792.557,
+      "text": "And it's overlaid with the metrics, so that kind of gives you a clean idea of, like, okay, what could have changed any kind of inflection in your metrics. So in this particular case, you see the the metric going down, and then we made some changes, and then the metric started going up. And now, you know, the list of all the changes is captured right here. So it gives you a really easy way to start debugging any issues."
+    },
+    {
+      "end_seconds": 831.33,
+      "id": "youtube-QB3GEnduxk4#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 815.127,
+      "text": "And then finally, I want to show off integration. So our product integrates with like lots and lots of data aggregators, so that if you have data in any of these places, you should be able like quickly integrate that, and the Statsig will pull that data."
+    },
+    {
+      "end_seconds": 840.293,
+      "id": "youtube-QB3GEnduxk4#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 831.33,
+      "text": "And then, if you are a developer, we have lots of documentation around how you can use, you know, walkthrough guides of like how you can create your new feature."
+    },
+    {
+      "end_seconds": 863.643,
+      "id": "youtube-QB3GEnduxk4#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 840.293,
+      "text": "How do you make your code dynamic? And then so on and so forth. We also have a list of client and server SDKs. So whichever technology you're using, we have a solution for you there. We also have HTTP REST APIs that you can call directly if we don't support your SDKs. So that that brings us to the end of this demo. Cool."
+    }
+  ],
+  "video_id": "QB3GEnduxk4",
+  "yuzheng_stance_weight": "not-evidence"
+}

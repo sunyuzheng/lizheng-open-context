@@ -1,0 +1,6138 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-5dq3XxmjTBc",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2022-11-25T13:51:24Z",
+  "participant_aliases": [
+    "Ashley（双胞胎程序员访谈）",
+    "Kathy（双胞胎程序员访谈）"
+  ],
+  "participant_entity_ids": [
+    "guest:ashley-twin-programmer",
+    "guest:kathy-twin-programmer"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Ashley（双胞胎程序员访谈）；Kathy（双胞胎程序员访谈）",
+  "public_verified_at": "2026-10-11T01:52:08.356374+00:00",
+  "published_at": "2022-11-25",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "e627127c24111f05991f225483575f89c84c085ca3910b40b6b556a7af6325e1",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "d4d8ecf928f362e7063e16ac6b4b06ea494e1ec61fed0b7109ddba5a1b90d199",
+    "root_receipt_sha256": "3fc8c7e33aba60f3667680bae2cb31bde32b74f2d78f2125c1a6130000b9bf56",
+    "unresolved_count": 2
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=5dq3XxmjTBc",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=5dq3XxmjTBc",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "CS本科vs转码，最神奇的一期视频！",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 3.64,
+      "id": "youtube-5dq3XxmjTBc#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "我觉得有一个特别不容易的地方就是你们是双胞胎姐妹"
+    },
+    {
+      "end_seconds": 5.96,
+      "id": "youtube-5dq3XxmjTBc#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.64,
+      "text": "所以说你们成长经历很多时候反而是一样的"
+    },
+    {
+      "end_seconds": 9.12,
+      "id": "youtube-5dq3XxmjTBc#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.96,
+      "text": "那这个就给我们一个很好很好的视角"
+    },
+    {
+      "end_seconds": 14.64,
+      "id": "youtube-5dq3XxmjTBc#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.12,
+      "text": "就是说到底这个科班出身的程序员和这种转码的程序员有什么区别"
+    },
+    {
+      "end_seconds": 17.039,
+      "id": "youtube-5dq3XxmjTBc#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.64,
+      "text": "我们今天就想把这件事情给聊清楚"
+    },
+    {
+      "end_seconds": 20.199,
+      "id": "youtube-5dq3XxmjTBc#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.039,
+      "text": "就尽可能的拿你们做一个非常宝贵的Data points"
+    },
+    {
+      "end_seconds": 22.879,
+      "id": "youtube-5dq3XxmjTBc#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.199,
+      "text": "我们就是一个A,B test, control and test"
+    },
+    {
+      "end_seconds": 23.8,
+      "id": "youtube-5dq3XxmjTBc#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.879,
+      "text": "对对对"
+    },
+    {
+      "end_seconds": 25.48,
+      "id": "youtube-5dq3XxmjTBc#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.8,
+      "text": "大家好我是Kathy"
+    },
+    {
+      "end_seconds": 30.679,
+      "id": "youtube-5dq3XxmjTBc#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.48,
+      "text": "我在美国本科CS毕业之后就加入了Meta工作"
+    },
+    {
+      "end_seconds": 33.2,
+      "id": "youtube-5dq3XxmjTBc#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.679,
+      "text": "现在工作一年半左右"
+    },
+    {
+      "end_seconds": 36.079,
+      "id": "youtube-5dq3XxmjTBc#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.6,
+      "text": "大家好我是Ashley"
+    },
+    {
+      "end_seconds": 39.96,
+      "id": "youtube-5dq3XxmjTBc#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.079,
+      "text": "我最开始学的是商科就是General Business School"
+    },
+    {
+      "end_seconds": 44.359,
+      "id": "youtube-5dq3XxmjTBc#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.96,
+      "text": "然后学的就是金融会计市场营销这样的内容"
+    },
+    {
+      "end_seconds": 49.28,
+      "id": "youtube-5dq3XxmjTBc#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.359,
+      "text": "但是在读完本科之后我就转码学了计算机"
+    },
+    {
+      "end_seconds": 52.48,
+      "id": "youtube-5dq3XxmjTBc#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.28,
+      "text": "现在是刚刚转码成功进入了Google"
+    },
+    {
+      "end_seconds": 57.0,
+      "id": "youtube-5dq3XxmjTBc#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.519,
+      "text": "好的呀两位同学都是在这个美国大厂工作"
+    },
+    {
+      "end_seconds": 57.759,
+      "id": "youtube-5dq3XxmjTBc#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.0,
+      "text": "但是"
+    },
+    {
+      "end_seconds": 61.64,
+      "id": "youtube-5dq3XxmjTBc#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.279,
+      "text": "好啊好啊厉害厉害"
+    },
+    {
+      "end_seconds": 62.199,
+      "id": "youtube-5dq3XxmjTBc#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.64,
+      "text": "然后"
+    },
+    {
+      "end_seconds": 67.92,
+      "id": "youtube-5dq3XxmjTBc#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.879,
+      "text": "不要笑场"
+    },
+    {
+      "end_seconds": 69.079,
+      "id": "youtube-5dq3XxmjTBc#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.92,
+      "text": "不要笑场"
+    },
+    {
+      "end_seconds": 70.759,
+      "id": "youtube-5dq3XxmjTBc#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.079,
+      "text": "这个是为了节目效果"
+    },
+    {
+      "end_seconds": 73.159,
+      "id": "youtube-5dq3XxmjTBc#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.799,
+      "text": "两位就是虽然专业不一样"
+    },
+    {
+      "end_seconds": 75.28,
+      "id": "youtube-5dq3XxmjTBc#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.159,
+      "text": "但是后来殊途同归都是在"
+    },
+    {
+      "end_seconds": 81.159,
+      "id": "youtube-5dq3XxmjTBc#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.28,
+      "text": "其实很多同学们都很羡慕的大厂去做了一个这个高薪的程序员"
+    },
+    {
+      "end_seconds": 88.599,
+      "id": "youtube-5dq3XxmjTBc#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.159,
+      "text": "但是我相信你们第一呢就是学习和找工作的经历应该都是很不一样的"
+    },
+    {
+      "end_seconds": 93.2,
+      "id": "youtube-5dq3XxmjTBc#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.599,
+      "text": "然后你们现在在这个大厂工作体验应该也是很不一样的"
+    },
+    {
+      "end_seconds": 97.039,
+      "id": "youtube-5dq3XxmjTBc#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.2,
+      "text": "我觉得有一个特别不容易的地方就是你们是双胞胎姐妹"
+    },
+    {
+      "end_seconds": 100.079,
+      "id": "youtube-5dq3XxmjTBc#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.039,
+      "text": "因为所以说你们成长经历很多时候反而是一样的"
+    },
+    {
+      "end_seconds": 103.079,
+      "id": "youtube-5dq3XxmjTBc#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 100.079,
+      "text": "那这个就给我们一个很好很好的视角"
+    },
+    {
+      "end_seconds": 108.599,
+      "id": "youtube-5dq3XxmjTBc#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.079,
+      "text": "就是说到底这个科班出身的程序员和这种转码的程序员有什么区别"
+    },
+    {
+      "end_seconds": 111.119,
+      "id": "youtube-5dq3XxmjTBc#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.64,
+      "text": "我们今天就想把这件事情给聊清楚"
+    },
+    {
+      "end_seconds": 113.28,
+      "id": "youtube-5dq3XxmjTBc#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.119,
+      "text": "然后我觉得我们也不需要有什么价值判断"
+    },
+    {
+      "end_seconds": 116.519,
+      "id": "youtube-5dq3XxmjTBc#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.28,
+      "text": "就是尽可能的拿你们做一个非常宝贵的data points"
+    },
+    {
+      "end_seconds": 116.839,
+      "id": "youtube-5dq3XxmjTBc#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.519,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 118.079,
+      "id": "youtube-5dq3XxmjTBc#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.839,
+      "text": "我们就是一个A,B test"
+    },
+    {
+      "end_seconds": 119.079,
+      "id": "youtube-5dq3XxmjTBc#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.079,
+      "text": "对"
+    },
+    {
+      "end_seconds": 120.239,
+      "id": "youtube-5dq3XxmjTBc#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.079,
+      "text": "对"
+    },
+    {
+      "end_seconds": 121.959,
+      "id": "youtube-5dq3XxmjTBc#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 120.239,
+      "text": "那我就直接来问你们问题吧"
+    },
+    {
+      "end_seconds": 125.28,
+      "id": "youtube-5dq3XxmjTBc#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.959,
+      "text": "你们在找工作的时候当时都是比较好找吗"
+    },
+    {
+      "end_seconds": 128.199,
+      "id": "youtube-5dq3XxmjTBc#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.28,
+      "text": "就是可不可以稍微简单的介绍一下你们找工作的经历"
+    },
+    {
+      "end_seconds": 133.56,
+      "id": "youtube-5dq3XxmjTBc#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.199,
+      "text": "我是从大一开始就有意识的去投简历"
+    },
+    {
+      "end_seconds": 135.479,
+      "id": "youtube-5dq3XxmjTBc#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 133.56,
+      "text": "然后在不同的公司实习"
+    },
+    {
+      "end_seconds": 136.879,
+      "id": "youtube-5dq3XxmjTBc#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.479,
+      "text": "都是互联网公司"
+    },
+    {
+      "end_seconds": 137.719,
+      "id": "youtube-5dq3XxmjTBc#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.879,
+      "text": "对"
+    },
+    {
+      "end_seconds": 145.24,
+      "id": "youtube-5dq3XxmjTBc#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.759,
+      "text": "我大一的时候是在一家新加坡based的创业公司做fintech公司做安卓程序员"
+    },
+    {
+      "end_seconds": 150.719,
+      "id": "youtube-5dq3XxmjTBc#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.24,
+      "text": "然后大二的时候是在一家美国做cloud computing的公司叫ServiceNow"
+    },
+    {
+      "end_seconds": 152.879,
+      "id": "youtube-5dq3XxmjTBc#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.719,
+      "text": "做后端的程序员"
+    },
+    {
+      "end_seconds": 157.84,
+      "id": "youtube-5dq3XxmjTBc#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 152.879,
+      "text": "然后大三的时候我陆续分别到领英和meta"
+    },
+    {
+      "end_seconds": 160.159,
+      "id": "youtube-5dq3XxmjTBc#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.84,
+      "text": "当时是facebook做实习"
+    },
+    {
+      "end_seconds": 161.159,
+      "id": "youtube-5dq3XxmjTBc#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.159,
+      "text": "然后毕业之后呢"
+    },
+    {
+      "end_seconds": 163.439,
+      "id": "youtube-5dq3XxmjTBc#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.159,
+      "text": "就拿到了两家公司的return offer"
+    },
+    {
+      "end_seconds": 165.199,
+      "id": "youtube-5dq3XxmjTBc#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.439,
+      "text": "然后我选择了加入了facebook"
+    },
+    {
+      "end_seconds": 167.079,
+      "id": "youtube-5dq3XxmjTBc#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 165.199,
+      "text": "其实我并没有特别的海投"
+    },
+    {
+      "end_seconds": 170.2,
+      "id": "youtube-5dq3XxmjTBc#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.08,
+      "text": "我基本上是哪个公司我想去或者是哪个公司"
+    },
+    {
+      "end_seconds": 172.4,
+      "id": "youtube-5dq3XxmjTBc#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 170.2,
+      "text": "一般就能拿到面试的邀请"
+    },
+    {
+      "end_seconds": 173.64,
+      "id": "youtube-5dq3XxmjTBc#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 172.4,
+      "text": "然后面试就会过"
+    },
+    {
+      "end_seconds": 176.24,
+      "id": "youtube-5dq3XxmjTBc#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.64,
+      "text": "面试稍微准备一下就过了"
+    },
+    {
+      "end_seconds": 177.08,
+      "id": "youtube-5dq3XxmjTBc#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 176.24,
+      "text": "对"
+    },
+    {
+      "end_seconds": 178.32,
+      "id": "youtube-5dq3XxmjTBc#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.08,
+      "text": "也不说稍微准备一下"
+    },
+    {
+      "end_seconds": 179.4,
+      "id": "youtube-5dq3XxmjTBc#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 178.32,
+      "text": "就是准备了就过了"
+    },
+    {
+      "end_seconds": 180.16,
+      "id": "youtube-5dq3XxmjTBc#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.4,
+      "text": "好"
+    },
+    {
+      "end_seconds": 184.6,
+      "id": "youtube-5dq3XxmjTBc#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.0,
+      "text": "那我再讲讲我的经历吧"
+    },
+    {
+      "end_seconds": 186.92,
+      "id": "youtube-5dq3XxmjTBc#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.6,
+      "text": "我的故事就没有那么顺利了"
+    },
+    {
+      "end_seconds": 189.88,
+      "id": "youtube-5dq3XxmjTBc#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.92,
+      "text": "我是从master开始才开始学计算机"
+    },
+    {
+      "end_seconds": 192.36,
+      "id": "youtube-5dq3XxmjTBc#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 189.88,
+      "text": "然后我第一学期就开始投简历"
+    },
+    {
+      "end_seconds": 197.04,
+      "id": "youtube-5dq3XxmjTBc#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 192.36,
+      "text": "但是当时我的简历上面没有任何的CS相关的经验和项目"
+    },
+    {
+      "end_seconds": 197.879,
+      "id": "youtube-5dq3XxmjTBc#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.039,
+      "text": "所以说"
+    },
+    {
+      "end_seconds": 199.879,
+      "id": "youtube-5dq3XxmjTBc#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 197.879,
+      "text": "虽然海投了300多家公司"
+    },
+    {
+      "end_seconds": 202.12,
+      "id": "youtube-5dq3XxmjTBc#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 199.879,
+      "text": "但是几乎没有收到面试的邀请"
+    },
+    {
+      "end_seconds": 207.799,
+      "id": "youtube-5dq3XxmjTBc#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 202.12,
+      "text": "而大多数面试也是在做了OA的网上的在线测试之后就杳无音讯"
+    },
+    {
+      "end_seconds": 209.68,
+      "id": "youtube-5dq3XxmjTBc#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 207.799,
+      "text": "所以说成功率是非常低的"
+    },
+    {
+      "end_seconds": 211.639,
+      "id": "youtube-5dq3XxmjTBc#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.68,
+      "text": "但是索性当时比较幸运"
+    },
+    {
+      "end_seconds": 213.959,
+      "id": "youtube-5dq3XxmjTBc#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.639,
+      "text": "收到了IBM的实习"
+    },
+    {
+      "end_seconds": 215.239,
+      "id": "youtube-5dq3XxmjTBc#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.959,
+      "text": "过了IBM的实习"
+    },
+    {
+      "end_seconds": 216.959,
+      "id": "youtube-5dq3XxmjTBc#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 215.239,
+      "text": "所以开始在IBM实习"
+    },
+    {
+      "end_seconds": 221.519,
+      "id": "youtube-5dq3XxmjTBc#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.959,
+      "text": "从那以后就开始陆续能够得到这个面试的邀约"
+    },
+    {
+      "end_seconds": 227.4,
+      "id": "youtube-5dq3XxmjTBc#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 221.56,
+      "text": "所以第二年又在亚马逊和Southworth都有做实习"
+    },
+    {
+      "end_seconds": 229.2,
+      "id": "youtube-5dq3XxmjTBc#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 227.4,
+      "text": "但是从我开始投简历起"
+    },
+    {
+      "end_seconds": 232.439,
+      "id": "youtube-5dq3XxmjTBc#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.2,
+      "text": "我投了5次的Google都没有收到任何的回应"
+    },
+    {
+      "end_seconds": 236.12,
+      "id": "youtube-5dq3XxmjTBc#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 232.439,
+      "text": "所以并不是只要投简历就能收到面试的"
+    },
+    {
+      "end_seconds": 237.2,
+      "id": "youtube-5dq3XxmjTBc#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 236.12,
+      "text": "那后来怎么来Google了"
+    },
+    {
+      "end_seconds": 237.76,
+      "id": "youtube-5dq3XxmjTBc#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.2,
+      "text": "第6次"
+    },
+    {
+      "end_seconds": 239.32,
+      "id": "youtube-5dq3XxmjTBc#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.76,
+      "text": "其实是非常幸运的"
+    },
+    {
+      "end_seconds": 244.2,
+      "id": "youtube-5dq3XxmjTBc#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 239.32,
+      "text": "当时收到了Google Recruiter给我发邮件"
+    },
+    {
+      "end_seconds": 246.68,
+      "id": "youtube-5dq3XxmjTBc#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 244.2,
+      "text": "我当时以为是垃圾邮件"
+    },
+    {
+      "end_seconds": 247.719,
+      "id": "youtube-5dq3XxmjTBc#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 246.68,
+      "text": "但是我就回了"
+    },
+    {
+      "end_seconds": 249.28,
+      "id": "youtube-5dq3XxmjTBc#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.719,
+      "text": "但没想到是真的面试"
+    },
+    {
+      "end_seconds": 251.16,
+      "id": "youtube-5dq3XxmjTBc#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.28,
+      "text": "所以我真正拿到Google的面试"
+    },
+    {
+      "end_seconds": 253.0,
+      "id": "youtube-5dq3XxmjTBc#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 251.159,
+      "text": "并没有投简历"
+    },
+    {
+      "end_seconds": 256.24,
+      "id": "youtube-5dq3XxmjTBc#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 253.0,
+      "text": "而且我每一次投都有找朋友refer"
+    },
+    {
+      "end_seconds": 257.399,
+      "id": "youtube-5dq3XxmjTBc#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 256.24,
+      "text": "但是即使refer了"
+    },
+    {
+      "end_seconds": 259.839,
+      "id": "youtube-5dq3XxmjTBc#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 257.399,
+      "text": "也不是所有的面试都能拿到"
+    },
+    {
+      "end_seconds": 260.36,
+      "id": "youtube-5dq3XxmjTBc#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.839,
+      "text": "明白了"
+    },
+    {
+      "end_seconds": 262.639,
+      "id": "youtube-5dq3XxmjTBc#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 260.36,
+      "text": "就是难度还是有差"
+    },
+    {
+      "end_seconds": 263.079,
+      "id": "youtube-5dq3XxmjTBc#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 262.639,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 265.0,
+      "id": "youtube-5dq3XxmjTBc#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 263.079,
+      "text": "就是在找工作的时候"
+    },
+    {
+      "end_seconds": 266.8,
+      "id": "youtube-5dq3XxmjTBc#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 265.0,
+      "text": "很明显的CS科班出身的人"
+    },
+    {
+      "end_seconds": 267.8,
+      "id": "youtube-5dq3XxmjTBc#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 266.8,
+      "text": "找程序员工作"
+    },
+    {
+      "end_seconds": 271.12,
+      "id": "youtube-5dq3XxmjTBc#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.8,
+      "text": "会比转码的同学要简单很多"
+    },
+    {
+      "end_seconds": 273.12,
+      "id": "youtube-5dq3XxmjTBc#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.12,
+      "text": "但是我更好奇的可能是"
+    },
+    {
+      "end_seconds": 275.279,
+      "id": "youtube-5dq3XxmjTBc#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 273.12,
+      "text": "就是拿到了这份工作以后"
+    },
+    {
+      "end_seconds": 276.48,
+      "id": "youtube-5dq3XxmjTBc#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.279,
+      "text": "接下来会发生什么"
+    },
+    {
+      "end_seconds": 278.199,
+      "id": "youtube-5dq3XxmjTBc#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 276.48,
+      "text": "因为我觉得大家很多时候"
+    },
+    {
+      "end_seconds": 280.8,
+      "id": "youtube-5dq3XxmjTBc#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 278.199,
+      "text": "会对转码的同学有一定的偏见"
+    },
+    {
+      "end_seconds": 282.16,
+      "id": "youtube-5dq3XxmjTBc#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 280.84,
+      "text": "就是觉得说"
+    },
+    {
+      "end_seconds": 285.04,
+      "id": "youtube-5dq3XxmjTBc#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.16,
+      "text": "你没有经受这么系统科班的训练"
+    },
+    {
+      "end_seconds": 286.92,
+      "id": "youtube-5dq3XxmjTBc#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.04,
+      "text": "然后你只不过是运气好"
+    },
+    {
+      "end_seconds": 287.48,
+      "id": "youtube-5dq3XxmjTBc#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 286.92,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 288.96,
+      "id": "youtube-5dq3XxmjTBc#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 287.48,
+      "text": "来到了这个大厂"
+    },
+    {
+      "end_seconds": 290.48,
+      "id": "youtube-5dq3XxmjTBc#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 288.96,
+      "text": "那你其实不胜任这里的工作"
+    },
+    {
+      "end_seconds": 292.52,
+      "id": "youtube-5dq3XxmjTBc#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 290.48,
+      "text": "就是大家都是技术很厉害的人"
+    },
+    {
+      "end_seconds": 293.319,
+      "id": "youtube-5dq3XxmjTBc#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 292.52,
+      "text": "你转码的话"
+    },
+    {
+      "end_seconds": 294.639,
+      "id": "youtube-5dq3XxmjTBc#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.319,
+      "text": "你在这里应该survive不了的"
+    },
+    {
+      "end_seconds": 297.439,
+      "id": "youtube-5dq3XxmjTBc#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 294.639,
+      "text": "你能survive是因为他们的这个"
+    },
+    {
+      "end_seconds": 298.48,
+      "id": "youtube-5dq3XxmjTBc#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 297.439,
+      "text": "policy比较好"
+    },
+    {
+      "end_seconds": 299.68,
+      "id": "youtube-5dq3XxmjTBc#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 298.48,
+      "text": "能让你混下去"
+    },
+    {
+      "end_seconds": 300.519,
+      "id": "youtube-5dq3XxmjTBc#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 299.68,
+      "text": "你觉得是这样吗"
+    },
+    {
+      "end_seconds": 303.0,
+      "id": "youtube-5dq3XxmjTBc#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.68,
+      "text": "我觉得"
+    },
+    {
+      "end_seconds": 306.0,
+      "id": "youtube-5dq3XxmjTBc#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 303.0,
+      "text": "我觉得开始上手肯定会慢一些"
+    },
+    {
+      "end_seconds": 308.439,
+      "id": "youtube-5dq3XxmjTBc#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 306.0,
+      "text": "特别是在没有实习经历之前"
+    },
+    {
+      "end_seconds": 311.079,
+      "id": "youtube-5dq3XxmjTBc#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 308.48,
+      "text": "我完全不知道工作中是什么样子的"
+    },
+    {
+      "end_seconds": 313.24,
+      "id": "youtube-5dq3XxmjTBc#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 311.079,
+      "text": "怎么应用我们计算机学的东西"
+    },
+    {
+      "end_seconds": 314.6,
+      "id": "youtube-5dq3XxmjTBc#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 313.24,
+      "text": "应用在工作之中"
+    },
+    {
+      "end_seconds": 316.36,
+      "id": "youtube-5dq3XxmjTBc#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 314.6,
+      "text": "我是完全不知道的"
+    },
+    {
+      "end_seconds": 319.04,
+      "id": "youtube-5dq3XxmjTBc#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.36,
+      "text": "特别是面试考察的技巧"
+    },
+    {
+      "end_seconds": 321.0,
+      "id": "youtube-5dq3XxmjTBc#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 319.04,
+      "text": "其实就是刷题找工作"
+    },
+    {
+      "end_seconds": 322.24,
+      "id": "youtube-5dq3XxmjTBc#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 321.0,
+      "text": "算法本身"
+    },
+    {
+      "end_seconds": 325.519,
+      "id": "youtube-5dq3XxmjTBc#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.24,
+      "text": "而工作中其实运用非常非常多的计算机的知识"
+    },
+    {
+      "end_seconds": 326.639,
+      "id": "youtube-5dq3XxmjTBc#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 325.519,
+      "text": "所以先开始上手"
+    },
+    {
+      "end_seconds": 328.319,
+      "id": "youtube-5dq3XxmjTBc#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.639,
+      "text": "我觉得是非常困难的"
+    },
+    {
+      "end_seconds": 330.839,
+      "id": "youtube-5dq3XxmjTBc#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.319,
+      "text": "但是在三段实习经历之后"
+    },
+    {
+      "end_seconds": 332.12,
+      "id": "youtube-5dq3XxmjTBc#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 330.839,
+      "text": "我觉得"
+    },
+    {
+      "end_seconds": 335.519,
+      "id": "youtube-5dq3XxmjTBc#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 332.12,
+      "text": "基本上能够胜任日常的工作"
+    },
+    {
+      "end_seconds": 336.519,
+      "id": "youtube-5dq3XxmjTBc#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 335.519,
+      "text": "所以我觉得"
+    },
+    {
+      "end_seconds": 338.879,
+      "id": "youtube-5dq3XxmjTBc#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.56,
+      "text": "如果你能Ramp Up非常快"
+    },
+    {
+      "end_seconds": 342.279,
+      "id": "youtube-5dq3XxmjTBc#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 338.879,
+      "text": "或者如果你能给自己足够的时间去学习"
+    },
+    {
+      "end_seconds": 343.719,
+      "id": "youtube-5dq3XxmjTBc#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 342.279,
+      "text": "或者弥补计算机的知识"
+    },
+    {
+      "end_seconds": 348.24,
+      "id": "youtube-5dq3XxmjTBc#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.719,
+      "text": "我觉得其实是能够在工作中胜任你的岗位的"
+    },
+    {
+      "end_seconds": 350.839,
+      "id": "youtube-5dq3XxmjTBc#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 348.24,
+      "text": "所以说你在现在Google的工作中"
+    },
+    {
+      "end_seconds": 352.839,
+      "id": "youtube-5dq3XxmjTBc#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 350.839,
+      "text": "你觉得你的能力完全可以胜任这份"
+    },
+    {
+      "end_seconds": 353.319,
+      "id": "youtube-5dq3XxmjTBc#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.839,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 354.399,
+      "id": "youtube-5dq3XxmjTBc#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 353.319,
+      "text": "我觉得是的"
+    },
+    {
+      "end_seconds": 356.0,
+      "id": "youtube-5dq3XxmjTBc#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.399,
+      "text": "可能从Ashley的角度"
+    },
+    {
+      "end_seconds": 357.56,
+      "id": "youtube-5dq3XxmjTBc#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 356.0,
+      "text": "就是她知道了自己"
+    },
+    {
+      "end_seconds": 358.959,
+      "id": "youtube-5dq3XxmjTBc#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 357.56,
+      "text": "现在懂的是什么"
+    },
+    {
+      "end_seconds": 360.279,
+      "id": "youtube-5dq3XxmjTBc#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 358.959,
+      "text": "然后她觉得工作是什么"
+    },
+    {
+      "end_seconds": 361.519,
+      "id": "youtube-5dq3XxmjTBc#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 360.279,
+      "text": "她觉得完全胜任"
+    },
+    {
+      "end_seconds": 363.599,
+      "id": "youtube-5dq3XxmjTBc#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 361.519,
+      "text": "但是你可能比她多了四年的"
+    },
+    {
+      "end_seconds": 366.079,
+      "id": "youtube-5dq3XxmjTBc#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.599,
+      "text": "这个就是非常"
+    },
+    {
+      "end_seconds": 368.0,
+      "id": "youtube-5dq3XxmjTBc#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 366.079,
+      "text": "我们也知道就是读CS专业在美国"
+    },
+    {
+      "end_seconds": 369.439,
+      "id": "youtube-5dq3XxmjTBc#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.0,
+      "text": "是非常难非常苦的"
+    },
+    {
+      "end_seconds": 370.8,
+      "id": "youtube-5dq3XxmjTBc#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 369.439,
+      "text": "很多时候就是"
+    },
+    {
+      "end_seconds": 372.68,
+      "id": "youtube-5dq3XxmjTBc#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 370.8,
+      "text": "完全没有任何的休息时间"
+    },
+    {
+      "end_seconds": 374.159,
+      "id": "youtube-5dq3XxmjTBc#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 372.68,
+      "text": "天天通宵那种情况"
+    },
+    {
+      "end_seconds": 376.279,
+      "id": "youtube-5dq3XxmjTBc#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 374.159,
+      "text": "就是你比她多学了这么多东西以后"
+    },
+    {
+      "end_seconds": 379.56,
+      "id": "youtube-5dq3XxmjTBc#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 376.279,
+      "text": "你觉得为什么你们两个同时都胜任你们的工作了"
+    },
+    {
+      "end_seconds": 381.719,
+      "id": "youtube-5dq3XxmjTBc#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.56,
+      "text": "这是一个非常好的问题"
+    },
+    {
+      "end_seconds": 383.639,
+      "id": "youtube-5dq3XxmjTBc#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.719,
+      "text": "从我的角度上来看的话"
+    },
+    {
+      "end_seconds": 386.719,
+      "id": "youtube-5dq3XxmjTBc#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 383.639,
+      "text": "我也会觉得学校学历的知识"
+    },
+    {
+      "end_seconds": 387.959,
+      "id": "youtube-5dq3XxmjTBc#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 386.719,
+      "text": "其实和工作中的应用"
+    },
+    {
+      "end_seconds": 389.799,
+      "id": "youtube-5dq3XxmjTBc#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 387.959,
+      "text": "其实还是有一定的Gap的"
+    },
+    {
+      "end_seconds": 394.159,
+      "id": "youtube-5dq3XxmjTBc#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 389.799,
+      "text": "就比如说学校它学的大多数是一些学术层面的应用"
+    },
+    {
+      "end_seconds": 398.08,
+      "id": "youtube-5dq3XxmjTBc#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 394.2,
+      "text": "或者是整一个计算机科学史的发展的过程"
+    },
+    {
+      "end_seconds": 400.6,
+      "id": "youtube-5dq3XxmjTBc#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 398.08,
+      "text": "所以说我们在学校中的知识"
+    },
+    {
+      "end_seconds": 403.52,
+      "id": "youtube-5dq3XxmjTBc#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 400.6,
+      "text": "并不是直接就可以在工作中用到"
+    },
+    {
+      "end_seconds": 406.96,
+      "id": "youtube-5dq3XxmjTBc#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 403.52,
+      "text": "所以对于一个普通的CS专业的学生来说"
+    },
+    {
+      "end_seconds": 410.24,
+      "id": "youtube-5dq3XxmjTBc#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 406.96,
+      "text": "我们在工业界工作也会有一些Learning Curve"
+    },
+    {
+      "end_seconds": 413.76,
+      "id": "youtube-5dq3XxmjTBc#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.24,
+      "text": "但我们可能会比别人上手更快一点"
+    },
+    {
+      "end_seconds": 416.12,
+      "id": "youtube-5dq3XxmjTBc#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.76,
+      "text": "因为我们之前有接触过类似的东西"
+    },
+    {
+      "end_seconds": 417.879,
+      "id": "youtube-5dq3XxmjTBc#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 416.12,
+      "text": "还有一点我想说的是"
+    },
+    {
+      "end_seconds": 421.84,
+      "id": "youtube-5dq3XxmjTBc#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 417.879,
+      "text": "某一些特殊领域的软件工程师的工作"
+    },
+    {
+      "end_seconds": 423.2,
+      "id": "youtube-5dq3XxmjTBc#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 421.84,
+      "text": "比如说Compiler"
+    },
+    {
+      "end_seconds": 424.879,
+      "id": "youtube-5dq3XxmjTBc#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 423.24,
+      "text": "再比如说一些Network"
+    },
+    {
+      "end_seconds": 427.12,
+      "id": "youtube-5dq3XxmjTBc#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.879,
+      "text": "再比如说Distributed System"
+    },
+    {
+      "end_seconds": 432.479,
+      "id": "youtube-5dq3XxmjTBc#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.12,
+      "text": "这些东西我觉得可能对于一个没有很多年CS基础的人"
+    },
+    {
+      "end_seconds": 435.439,
+      "id": "youtube-5dq3XxmjTBc#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.479,
+      "text": "或者是一个转码的同学来说"
+    },
+    {
+      "end_seconds": 437.199,
+      "id": "youtube-5dq3XxmjTBc#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 435.439,
+      "text": "可能会稍微有一点难度"
+    },
+    {
+      "end_seconds": 438.8,
+      "id": "youtube-5dq3XxmjTBc#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 437.199,
+      "text": "但也不是说完全没有可能"
+    },
+    {
+      "end_seconds": 442.24,
+      "id": "youtube-5dq3XxmjTBc#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 438.8,
+      "text": "就是我们是如何定义转码这个title的"
+    },
+    {
+      "end_seconds": 444.8,
+      "id": "youtube-5dq3XxmjTBc#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 442.24,
+      "text": "其实我们之所以说转码不能胜任"
+    },
+    {
+      "end_seconds": 447.039,
+      "id": "youtube-5dq3XxmjTBc#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 444.8,
+      "text": "是觉得在很短的时间内"
+    },
+    {
+      "end_seconds": 451.159,
+      "id": "youtube-5dq3XxmjTBc#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 447.039,
+      "text": "他不能一下子学习这么多别人已经学了4年的东西"
+    },
+    {
+      "end_seconds": 454.12,
+      "id": "youtube-5dq3XxmjTBc#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.16,
+      "text": "我们也没有时间很快的去深入的研究"
+    },
+    {
+      "end_seconds": 456.76,
+      "id": "youtube-5dq3XxmjTBc#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 454.12,
+      "text": "而我们的Focus就是赶快找到工作"
+    },
+    {
+      "end_seconds": 458.88,
+      "id": "youtube-5dq3XxmjTBc#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 456.76,
+      "text": "赶快刷题进入大厂上岸"
+    },
+    {
+      "end_seconds": 460.76,
+      "id": "youtube-5dq3XxmjTBc#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 458.88,
+      "text": "这就是我们对转码的定义"
+    },
+    {
+      "end_seconds": 464.4,
+      "id": "youtube-5dq3XxmjTBc#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 460.76,
+      "text": "但是能不能胜任是要看你在转码之后"
+    },
+    {
+      "end_seconds": 467.32,
+      "id": "youtube-5dq3XxmjTBc#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 464.4,
+      "text": "你对SYS专业投入了多少的时间"
+    },
+    {
+      "end_seconds": 470.08,
+      "id": "youtube-5dq3XxmjTBc#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 467.32,
+      "text": "如果你之前没有学Compiler像Kathy说的"
+    },
+    {
+      "end_seconds": 472.36,
+      "id": "youtube-5dq3XxmjTBc#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 470.08,
+      "text": "那我愿意花多少时间去学"
+    },
+    {
+      "end_seconds": 473.6,
+      "id": "youtube-5dq3XxmjTBc#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 472.36,
+      "text": "如果我时间花够了"
+    },
+    {
+      "end_seconds": 477.28,
+      "id": "youtube-5dq3XxmjTBc#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 473.6,
+      "text": "我并不觉得转码的人就在这个方面没有这个知识"
+    },
+    {
+      "end_seconds": 480.8,
+      "id": "youtube-5dq3XxmjTBc#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 478.28,
+      "text": "所以我们之前讨论里边也有说"
+    },
+    {
+      "end_seconds": 484.12,
+      "id": "youtube-5dq3XxmjTBc#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 480.84,
+      "text": "就是之前学到的知识是一个初速度"
+    },
+    {
+      "end_seconds": 486.24,
+      "id": "youtube-5dq3XxmjTBc#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 484.12,
+      "text": "但是你的学习能力是一个加速度"
+    },
+    {
+      "end_seconds": 488.96,
+      "id": "youtube-5dq3XxmjTBc#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 486.24,
+      "text": "也许就是之前因为有更多的知识积累"
+    },
+    {
+      "end_seconds": 492.6,
+      "id": "youtube-5dq3XxmjTBc#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 488.96,
+      "text": "所以说在同样的刚进公司的时候"
+    },
+    {
+      "end_seconds": 495.52,
+      "id": "youtube-5dq3XxmjTBc#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 492.6,
+      "text": "一个科班出身的同学他的初速度更快"
+    },
+    {
+      "end_seconds": 498.0,
+      "id": "youtube-5dq3XxmjTBc#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.52,
+      "text": "但是加速度的话每个人因人而异"
+    },
+    {
+      "end_seconds": 499.759,
+      "id": "youtube-5dq3XxmjTBc#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.0,
+      "text": "如果说你的加速度够快的话"
+    },
+    {
+      "end_seconds": 500.879,
+      "id": "youtube-5dq3XxmjTBc#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.759,
+      "text": "你也是可以追得上的"
+    },
+    {
+      "end_seconds": 502.8,
+      "id": "youtube-5dq3XxmjTBc#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.439,
+      "text": "对我非常的赞同"
+    },
+    {
+      "end_seconds": 504.28,
+      "id": "youtube-5dq3XxmjTBc#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 502.8,
+      "text": "就是比如说对我来讲"
+    },
+    {
+      "end_seconds": 508.24,
+      "id": "youtube-5dq3XxmjTBc#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 504.28,
+      "text": "我先开始可能我Ramp Up比别人更慢对吧"
+    },
+    {
+      "end_seconds": 511.079,
+      "id": "youtube-5dq3XxmjTBc#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 508.319,
+      "text": "我可能先开始接触这个东西会更难"
+    },
+    {
+      "end_seconds": 512.519,
+      "id": "youtube-5dq3XxmjTBc#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.079,
+      "text": "但是如果我有Passion"
+    },
+    {
+      "end_seconds": 515.48,
+      "id": "youtube-5dq3XxmjTBc#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 512.519,
+      "text": "我愿意花更多的时间比别人投入更多"
+    },
+    {
+      "end_seconds": 518.08,
+      "id": "youtube-5dq3XxmjTBc#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 515.48,
+      "text": "那么我觉得你追上别人的速度是很快的"
+    },
+    {
+      "end_seconds": 520.519,
+      "id": "youtube-5dq3XxmjTBc#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 518.08,
+      "text": "而且工作中的时间可能不是说"
+    },
+    {
+      "end_seconds": 525.84,
+      "id": "youtube-5dq3XxmjTBc#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 520.519,
+      "text": "像学校学了4年或者6年工作是10年20年"
+    },
+    {
+      "end_seconds": 529.159,
+      "id": "youtube-5dq3XxmjTBc#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.84,
+      "text": "是如何你在工作中去学这些东西可能更重要"
+    },
+    {
+      "end_seconds": 530.12,
+      "id": "youtube-5dq3XxmjTBc#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.159,
+      "text": "这个Gap是有的"
+    },
+    {
+      "end_seconds": 533.32,
+      "id": "youtube-5dq3XxmjTBc#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 530.12,
+      "text": "但是它是可以靠时间和勤奋去弥补的"
+    },
+    {
+      "end_seconds": 534.84,
+      "id": "youtube-5dq3XxmjTBc#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 533.32,
+      "text": "而且就像这个Kathy说的"
+    },
+    {
+      "end_seconds": 536.48,
+      "id": "youtube-5dq3XxmjTBc#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 534.84,
+      "text": "在学校里学的很多东西"
+    },
+    {
+      "end_seconds": 538.279,
+      "id": "youtube-5dq3XxmjTBc#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 536.48,
+      "text": "它并不是为了工作项"
+    },
+    {
+      "end_seconds": 540.84,
+      "id": "youtube-5dq3XxmjTBc#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 538.279,
+      "text": "所以说它在这个工作的结果中"
+    },
+    {
+      "end_seconds": 542.519,
+      "id": "youtube-5dq3XxmjTBc#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 540.84,
+      "text": "体现的也不是那么明显"
+    },
+    {
+      "end_seconds": 545.48,
+      "id": "youtube-5dq3XxmjTBc#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 542.519,
+      "text": "不是说我比你多学了这么4年刻苦的知识以后"
+    },
+    {
+      "end_seconds": 547.279,
+      "id": "youtube-5dq3XxmjTBc#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.48,
+      "text": "我就比你多了4年的功力"
+    },
+    {
+      "end_seconds": 550.92,
+      "id": "youtube-5dq3XxmjTBc#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.279,
+      "text": "其实你这个功力能发挥到工作的结果上"
+    },
+    {
+      "end_seconds": 553.0,
+      "id": "youtube-5dq3XxmjTBc#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 550.92,
+      "text": "其实可能10%"
+    },
+    {
+      "end_seconds": 554.92,
+      "id": "youtube-5dq3XxmjTBc#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 553.0,
+      "text": "我觉得学校里面学的东西"
+    },
+    {
+      "end_seconds": 558.08,
+      "id": "youtube-5dq3XxmjTBc#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 554.92,
+      "text": "它更多的是一种思维上面的"
+    },
+    {
+      "end_seconds": 562.0,
+      "id": "youtube-5dq3XxmjTBc#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 558.08,
+      "text": "或者是对于学术界思维习惯的培养"
+    },
+    {
+      "end_seconds": 567.32,
+      "id": "youtube-5dq3XxmjTBc#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 562.0,
+      "text": "它其实并不是把一个人培养成为一个程序员而目标的"
+    },
+    {
+      "end_seconds": 570.0,
+      "id": "youtube-5dq3XxmjTBc#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 567.32,
+      "text": "它的目标是培养科研人才"
+    },
+    {
+      "end_seconds": 571.879,
+      "id": "youtube-5dq3XxmjTBc#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 570.0,
+      "text": "所以说学校学的东西"
+    },
+    {
+      "end_seconds": 576.279,
+      "id": "youtube-5dq3XxmjTBc#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.879,
+      "text": "并不能100%的转化为实际中你工作中的积累"
+    },
+    {
+      "end_seconds": 578.679,
+      "id": "youtube-5dq3XxmjTBc#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 576.279,
+      "text": "我觉得这个点挺有意思的"
+    },
+    {
+      "end_seconds": 580.799,
+      "id": "youtube-5dq3XxmjTBc#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.679,
+      "text": "然后我想稍稍再拓展一点"
+    },
+    {
+      "end_seconds": 584.759,
+      "id": "youtube-5dq3XxmjTBc#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 580.799,
+      "text": "因为我们其实如果对美国大学的各个学科有了解的话"
+    },
+    {
+      "end_seconds": 588.919,
+      "id": "youtube-5dq3XxmjTBc#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 584.759,
+      "text": "会知道CS在这里边算是最苦最累最难的专业之一"
+    },
+    {
+      "end_seconds": 590.799,
+      "id": "youtube-5dq3XxmjTBc#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 588.919,
+      "text": "然后退学率也是非常高的"
+    },
+    {
+      "end_seconds": 593.399,
+      "id": "youtube-5dq3XxmjTBc#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 590.839,
+      "text": "他们录取的bar也是非常高的"
+    },
+    {
+      "end_seconds": 596.0,
+      "id": "youtube-5dq3XxmjTBc#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.399,
+      "text": "那你作为一个CS的同学"
+    },
+    {
+      "end_seconds": 597.879,
+      "id": "youtube-5dq3XxmjTBc#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 596.0,
+      "text": "你觉得除了找工作之外"
+    },
+    {
+      "end_seconds": 599.919,
+      "id": "youtube-5dq3XxmjTBc#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 597.879,
+      "text": "你最大的收获是哪些的"
+    },
+    {
+      "end_seconds": 601.839,
+      "id": "youtube-5dq3XxmjTBc#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 599.919,
+      "text": "也不会说是一种学习的能力"
+    },
+    {
+      "end_seconds": 604.719,
+      "id": "youtube-5dq3XxmjTBc#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 601.839,
+      "text": "而是一种你有无形的底气"
+    },
+    {
+      "end_seconds": 606.679,
+      "id": "youtube-5dq3XxmjTBc#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 604.719,
+      "text": "就是说这个东西再难"
+    },
+    {
+      "end_seconds": 609.879,
+      "id": "youtube-5dq3XxmjTBc#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 606.679,
+      "text": "我好像花点时间好像也能做出来"
+    },
+    {
+      "end_seconds": 611.839,
+      "id": "youtube-5dq3XxmjTBc#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 609.879,
+      "text": "对我觉得这个是最重要的"
+    },
+    {
+      "end_seconds": 613.24,
+      "id": "youtube-5dq3XxmjTBc#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 611.839,
+      "text": "但是你作为一个转码同学"
+    },
+    {
+      "end_seconds": 615.319,
+      "id": "youtube-5dq3XxmjTBc#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 613.24,
+      "text": "你的感觉是什么"
+    },
+    {
+      "end_seconds": 616.0,
+      "id": "youtube-5dq3XxmjTBc#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 615.319,
+      "text": "你跟他们"
+    },
+    {
+      "end_seconds": 617.959,
+      "id": "youtube-5dq3XxmjTBc#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 616.0,
+      "text": "你觉得你跟他们差在哪"
+    },
+    {
+      "end_seconds": 620.159,
+      "id": "youtube-5dq3XxmjTBc#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 617.959,
+      "text": "我觉得主要是钻研的精神"
+    },
+    {
+      "end_seconds": 622.199,
+      "id": "youtube-5dq3XxmjTBc#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 620.199,
+      "text": "因为很多时候转码的同学"
+    },
+    {
+      "end_seconds": 625.519,
+      "id": "youtube-5dq3XxmjTBc#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 622.199,
+      "text": "他的focus是在我如何找到工作"
+    },
+    {
+      "end_seconds": 628.12,
+      "id": "youtube-5dq3XxmjTBc#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 625.519,
+      "text": "我如何能够快速的上岸"
+    },
+    {
+      "end_seconds": 631.039,
+      "id": "youtube-5dq3XxmjTBc#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 628.12,
+      "text": "所以他其实是在玩这个面试的游戏"
+    },
+    {
+      "end_seconds": 632.959,
+      "id": "youtube-5dq3XxmjTBc#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 631.039,
+      "text": "希望能通过这场游戏"
+    },
+    {
+      "end_seconds": 634.839,
+      "id": "youtube-5dq3XxmjTBc#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 632.959,
+      "text": "于是他努力的刷题"
+    },
+    {
+      "end_seconds": 637.0,
+      "id": "youtube-5dq3XxmjTBc#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 634.839,
+      "text": "于是他努力的钻研算法"
+    },
+    {
+      "end_seconds": 639.919,
+      "id": "youtube-5dq3XxmjTBc#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 637.0,
+      "text": "但是他的知识仅限于算法这一部分"
+    },
+    {
+      "end_seconds": 641.519,
+      "id": "youtube-5dq3XxmjTBc#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 639.919,
+      "text": "但是对于计算机的理解"
+    },
+    {
+      "end_seconds": 643.559,
+      "id": "youtube-5dq3XxmjTBc#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 641.519,
+      "text": "或者底层的理解并没有那么深"
+    },
+    {
+      "end_seconds": 645.159,
+      "id": "youtube-5dq3XxmjTBc#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 643.559,
+      "text": "他会觉得这节课对我"
+    },
+    {
+      "end_seconds": 646.6,
+      "id": "youtube-5dq3XxmjTBc#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 645.159,
+      "text": "对我找工作没有用"
+    },
+    {
+      "end_seconds": 647.799,
+      "id": "youtube-5dq3XxmjTBc#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 646.6,
+      "text": "那我就不去学"
+    },
+    {
+      "end_seconds": 649.199,
+      "id": "youtube-5dq3XxmjTBc#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.799,
+      "text": "我的精力是有限的"
+    },
+    {
+      "end_seconds": 650.32,
+      "id": "youtube-5dq3XxmjTBc#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 649.2,
+      "text": "因为大多数转码的人"
+    },
+    {
+      "end_seconds": 651.72,
+      "id": "youtube-5dq3XxmjTBc#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 650.32,
+      "text": "他可能已经"
+    },
+    {
+      "end_seconds": 653.72,
+      "id": "youtube-5dq3XxmjTBc#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 651.72,
+      "text": "可能年龄上面落后了几岁"
+    },
+    {
+      "end_seconds": 655.36,
+      "id": "youtube-5dq3XxmjTBc#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 653.72,
+      "text": "所以他就没有精力花在"
+    },
+    {
+      "end_seconds": 657.08,
+      "id": "youtube-5dq3XxmjTBc#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 655.36,
+      "text": "花在专业身上"
+    },
+    {
+      "end_seconds": 659.24,
+      "id": "youtube-5dq3XxmjTBc#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 657.08,
+      "text": "所以就不会投入更多的时间"
+    },
+    {
+      "end_seconds": 660.92,
+      "id": "youtube-5dq3XxmjTBc#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 659.24,
+      "text": "或者花时间在lab里面"
+    },
+    {
+      "end_seconds": 663.08,
+      "id": "youtube-5dq3XxmjTBc#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 660.92,
+      "text": "跟同学一起并肩作战"
+    },
+    {
+      "end_seconds": 665.759,
+      "id": "youtube-5dq3XxmjTBc#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 663.08,
+      "text": "我觉得大多数人都没有这么奢侈的时间"
+    },
+    {
+      "end_seconds": 668.16,
+      "id": "youtube-5dq3XxmjTBc#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 665.759,
+      "text": "花在学术本身"
+    },
+    {
+      "end_seconds": 670.92,
+      "id": "youtube-5dq3XxmjTBc#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.879,
+      "text": "那你当时刷题刷了多久"
+    },
+    {
+      "end_seconds": 674.0,
+      "id": "youtube-5dq3XxmjTBc#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 670.92,
+      "text": "我觉得先开始刷题是非常痛苦的"
+    },
+    {
+      "end_seconds": 676.72,
+      "id": "youtube-5dq3XxmjTBc#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 674.0,
+      "text": "特别是最开始的那个50道题"
+    },
+    {
+      "end_seconds": 677.759,
+      "id": "youtube-5dq3XxmjTBc#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 676.72,
+      "text": "可能非常难"
+    },
+    {
+      "end_seconds": 679.72,
+      "id": "youtube-5dq3XxmjTBc#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 677.799,
+      "text": "可能是至少一年以上"
+    },
+    {
+      "end_seconds": 681.439,
+      "id": "youtube-5dq3XxmjTBc#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 679.72,
+      "text": "才开始能够做题"
+    },
+    {
+      "end_seconds": 683.439,
+      "id": "youtube-5dq3XxmjTBc#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 681.439,
+      "text": "稍微得心应手一点"
+    },
+    {
+      "end_seconds": 685.039,
+      "id": "youtube-5dq3XxmjTBc#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 683.439,
+      "text": "最后总共刷了几道"
+    },
+    {
+      "end_seconds": 687.279,
+      "id": "youtube-5dq3XxmjTBc#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 685.039,
+      "text": "至少300道吧"
+    },
+    {
+      "end_seconds": 688.72,
+      "id": "youtube-5dq3XxmjTBc#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 687.279,
+      "text": "特性你刷题了吧"
+    },
+    {
+      "end_seconds": 691.6,
+      "id": "youtube-5dq3XxmjTBc#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 688.72,
+      "text": "其实我可能是一个个例"
+    },
+    {
+      "end_seconds": 693.799,
+      "id": "youtube-5dq3XxmjTBc#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 691.6,
+      "text": "我本人是没有立刻账号的"
+    },
+    {
+      "end_seconds": 695.12,
+      "id": "youtube-5dq3XxmjTBc#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.799,
+      "text": "我可能最多有"
+    },
+    {
+      "end_seconds": 697.08,
+      "id": "youtube-5dq3XxmjTBc#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 695.12,
+      "text": "也就过了20道"
+    },
+    {
+      "end_seconds": 699.48,
+      "id": "youtube-5dq3XxmjTBc#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 697.08,
+      "text": "但这20道我可能只是眼睛看"
+    },
+    {
+      "end_seconds": 700.319,
+      "id": "youtube-5dq3XxmjTBc#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 699.48,
+      "text": "我并没有写"
+    },
+    {
+      "end_seconds": 701.879,
+      "id": "youtube-5dq3XxmjTBc#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 700.319,
+      "text": "我感觉我好像会了"
+    },
+    {
+      "end_seconds": 704.279,
+      "id": "youtube-5dq3XxmjTBc#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 701.879,
+      "text": "然后我就跳到下一道了"
+    },
+    {
+      "end_seconds": 706.96,
+      "id": "youtube-5dq3XxmjTBc#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 704.279,
+      "text": "对就是没有特别的用心的准备"
+    },
+    {
+      "end_seconds": 708.96,
+      "id": "youtube-5dq3XxmjTBc#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 707.0,
+      "text": "但我会就是"
+    },
+    {
+      "end_seconds": 711.28,
+      "id": "youtube-5dq3XxmjTBc#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 708.96,
+      "text": "浏览一下看一下有不会的题"
+    },
+    {
+      "end_seconds": 712.6,
+      "id": "youtube-5dq3XxmjTBc#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 711.28,
+      "text": "然后我就多看两眼"
+    },
+    {
+      "end_seconds": 714.56,
+      "id": "youtube-5dq3XxmjTBc#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 712.6,
+      "text": "对我觉得这可能是一个区别"
+    },
+    {
+      "end_seconds": 716.2,
+      "id": "youtube-5dq3XxmjTBc#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 714.56,
+      "text": "这对我来说可能"
+    },
+    {
+      "end_seconds": 719.68,
+      "id": "youtube-5dq3XxmjTBc#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 716.2,
+      "text": "我对于Leco的题可能是熟练于新的"
+    },
+    {
+      "end_seconds": 720.72,
+      "id": "youtube-5dq3XxmjTBc#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 719.68,
+      "text": "因为一道题不会"
+    },
+    {
+      "end_seconds": 722.56,
+      "id": "youtube-5dq3XxmjTBc#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 720.72,
+      "text": "我就反复的去看那道题"
+    },
+    {
+      "end_seconds": 723.84,
+      "id": "youtube-5dq3XxmjTBc#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 722.56,
+      "text": "或者一种算法不会"
+    },
+    {
+      "end_seconds": 726.879,
+      "id": "youtube-5dq3XxmjTBc#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 723.84,
+      "text": "我就通过题海战术来研究这种算法"
+    },
+    {
+      "end_seconds": 729.6,
+      "id": "youtube-5dq3XxmjTBc#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 726.879,
+      "text": "通过在题海中学习来找到这种"
+    },
+    {
+      "end_seconds": 731.4,
+      "id": "youtube-5dq3XxmjTBc#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 729.6,
+      "text": "algorithm的解题的方法"
+    },
+    {
+      "end_seconds": 734.28,
+      "id": "youtube-5dq3XxmjTBc#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 731.4,
+      "text": "所以说其实我对题目是更熟悉的"
+    },
+    {
+      "end_seconds": 736.04,
+      "id": "youtube-5dq3XxmjTBc#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 734.28,
+      "text": "并且对于哪一个大厂"
+    },
+    {
+      "end_seconds": 737.399,
+      "id": "youtube-5dq3XxmjTBc#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 736.079,
+      "text": "考哪一种类型的题"
+    },
+    {
+      "end_seconds": 738.559,
+      "id": "youtube-5dq3XxmjTBc#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 737.399,
+      "text": "或者我该怎么准备"
+    },
+    {
+      "end_seconds": 740.799,
+      "id": "youtube-5dq3XxmjTBc#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 738.559,
+      "text": "其实我都花了很多的时间"
+    },
+    {
+      "end_seconds": 742.039,
+      "id": "youtube-5dq3XxmjTBc#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 740.799,
+      "text": "我想补充一点是"
+    },
+    {
+      "end_seconds": 743.399,
+      "id": "youtube-5dq3XxmjTBc#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 742.039,
+      "text": "面试发的时间"
+    },
+    {
+      "end_seconds": 745.12,
+      "id": "youtube-5dq3XxmjTBc#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 743.399,
+      "text": "常常和我们的半期考试"
+    },
+    {
+      "end_seconds": 745.919,
+      "id": "youtube-5dq3XxmjTBc#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.12,
+      "text": "或期中考试"
+    },
+    {
+      "end_seconds": 749.039,
+      "id": "youtube-5dq3XxmjTBc#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.919,
+      "text": "或某一个作业due的时间是重合的"
+    },
+    {
+      "end_seconds": 752.599,
+      "id": "youtube-5dq3XxmjTBc#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 749.039,
+      "text": "而且我们还要挤时间去找一个教室"
+    },
+    {
+      "end_seconds": 754.599,
+      "id": "youtube-5dq3XxmjTBc#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 752.599,
+      "text": "然后去做这个面试"
+    },
+    {
+      "end_seconds": 756.319,
+      "id": "youtube-5dq3XxmjTBc#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 754.599,
+      "text": "所以对我来说"
+    },
+    {
+      "end_seconds": 759.12,
+      "id": "youtube-5dq3XxmjTBc#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 756.319,
+      "text": "不是说我不想花很多时间去准备面试"
+    },
+    {
+      "end_seconds": 760.599,
+      "id": "youtube-5dq3XxmjTBc#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 759.12,
+      "text": "而是被逼无奈"
+    },
+    {
+      "end_seconds": 763.599,
+      "id": "youtube-5dq3XxmjTBc#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 760.599,
+      "text": "就是作业当时对我的priority来说更高一点"
+    },
+    {
+      "end_seconds": 766.639,
+      "id": "youtube-5dq3XxmjTBc#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 763.84,
+      "text": "就是不需要准备吗"
+    },
+    {
+      "end_seconds": 768.519,
+      "id": "youtube-5dq3XxmjTBc#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 766.639,
+      "text": "就没有花特别多的精力"
+    },
+    {
+      "end_seconds": 770.279,
+      "id": "youtube-5dq3XxmjTBc#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 768.519,
+      "text": "我觉得是被逼无奈"
+    },
+    {
+      "end_seconds": 771.519,
+      "id": "youtube-5dq3XxmjTBc#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 770.279,
+      "text": "对没有办法"
+    },
+    {
+      "end_seconds": 772.44,
+      "id": "youtube-5dq3XxmjTBc#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 771.519,
+      "text": "但是还是都过了"
+    },
+    {
+      "end_seconds": 775.92,
+      "id": "youtube-5dq3XxmjTBc#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 774.32,
+      "text": "对就是能过就行了"
+    },
+    {
+      "end_seconds": 777.84,
+      "id": "youtube-5dq3XxmjTBc#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 775.92,
+      "text": "就是过了之后就不管了"
+    },
+    {
+      "end_seconds": 779.2,
+      "id": "youtube-5dq3XxmjTBc#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 777.84,
+      "text": "刚才Katie提到了"
+    },
+    {
+      "end_seconds": 780.6,
+      "id": "youtube-5dq3XxmjTBc#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 779.2,
+      "text": "就是对不同的工作"
+    },
+    {
+      "end_seconds": 783.159,
+      "id": "youtube-5dq3XxmjTBc#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 780.6,
+      "text": "可能说你在本科学到的知识"
+    },
+    {
+      "end_seconds": 784.72,
+      "id": "youtube-5dq3XxmjTBc#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 783.159,
+      "text": "应用的程度是不一样的"
+    },
+    {
+      "end_seconds": 786.399,
+      "id": "youtube-5dq3XxmjTBc#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 784.72,
+      "text": "比如说这个distributed system"
+    },
+    {
+      "end_seconds": 787.8,
+      "id": "youtube-5dq3XxmjTBc#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 786.399,
+      "text": "比如说这个network"
+    },
+    {
+      "end_seconds": 789.399,
+      "id": "youtube-5dq3XxmjTBc#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 787.8,
+      "text": "可能应用的就更多一些"
+    },
+    {
+      "end_seconds": 791.6,
+      "id": "youtube-5dq3XxmjTBc#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 789.399,
+      "text": "然后其实我不知道你现在的工作"
+    },
+    {
+      "end_seconds": 793.08,
+      "id": "youtube-5dq3XxmjTBc#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 791.6,
+      "text": "是一个更多偏向什么的"
+    },
+    {
+      "end_seconds": 796.879,
+      "id": "youtube-5dq3XxmjTBc#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 793.08,
+      "text": "但是听起来跟Katie本科学的东西"
+    },
+    {
+      "end_seconds": 798.6,
+      "id": "youtube-5dq3XxmjTBc#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 796.879,
+      "text": "这个相关就不大"
+    },
+    {
+      "end_seconds": 799.16,
+      "id": "youtube-5dq3XxmjTBc#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 798.6,
+      "text": "是这样吧"
+    },
+    {
+      "end_seconds": 801.32,
+      "id": "youtube-5dq3XxmjTBc#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 799.16,
+      "text": "我觉得就是"
+    },
+    {
+      "end_seconds": 802.72,
+      "id": "youtube-5dq3XxmjTBc#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 801.32,
+      "text": "虽然都在大厂"
+    },
+    {
+      "end_seconds": 804.84,
+      "id": "youtube-5dq3XxmjTBc#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 802.72,
+      "text": "但是大厂在不同的组"
+    },
+    {
+      "end_seconds": 807.0,
+      "id": "youtube-5dq3XxmjTBc#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 804.84,
+      "text": "对程序员的工作技能"
+    },
+    {
+      "end_seconds": 810.28,
+      "id": "youtube-5dq3XxmjTBc#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 807.0,
+      "text": "或者计算机背景的技能要求是不同的"
+    },
+    {
+      "end_seconds": 812.8,
+      "id": "youtube-5dq3XxmjTBc#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 810.28,
+      "text": "比如说我们组是一个产品导向的组"
+    },
+    {
+      "end_seconds": 814.72,
+      "id": "youtube-5dq3XxmjTBc#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 812.8,
+      "text": "我们对于底层的系统"
+    },
+    {
+      "end_seconds": 817.879,
+      "id": "youtube-5dq3XxmjTBc#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 814.72,
+      "text": "或者对于整个architecture的搭建"
+    },
+    {
+      "end_seconds": 819.16,
+      "id": "youtube-5dq3XxmjTBc#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 817.879,
+      "text": "并不需要涉猎"
+    },
+    {
+      "end_seconds": 821.56,
+      "id": "youtube-5dq3XxmjTBc#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 819.16,
+      "text": "所以说这就是我能胜任的原因"
+    },
+    {
+      "end_seconds": 824.399,
+      "id": "youtube-5dq3XxmjTBc#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 821.599,
+      "text": "但是如果把我放在Kathy做的工作"
+    },
+    {
+      "end_seconds": 825.919,
+      "id": "youtube-5dq3XxmjTBc#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 824.399,
+      "text": "我觉得我不见得能胜任"
+    },
+    {
+      "end_seconds": 828.439,
+      "id": "youtube-5dq3XxmjTBc#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 825.919,
+      "text": "因为它会涉及一些工业"
+    },
+    {
+      "end_seconds": 830.279,
+      "id": "youtube-5dq3XxmjTBc#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 828.439,
+      "text": "或者学术界的积累"
+    },
+    {
+      "end_seconds": 833.599,
+      "id": "youtube-5dq3XxmjTBc#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 830.279,
+      "text": "需要对整个系统有完善的认知"
+    },
+    {
+      "end_seconds": 835.639,
+      "id": "youtube-5dq3XxmjTBc#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 833.599,
+      "text": "如果把我放在她的岗位上"
+    },
+    {
+      "end_seconds": 838.239,
+      "id": "youtube-5dq3XxmjTBc#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 835.639,
+      "text": "我觉得我会需要更多的时间去学习"
+    },
+    {
+      "end_seconds": 839.279,
+      "id": "youtube-5dq3XxmjTBc#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 838.239,
+      "text": "去run pub"
+    },
+    {
+      "end_seconds": 841.039,
+      "id": "youtube-5dq3XxmjTBc#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 839.279,
+      "text": "on board的时间会更长"
+    },
+    {
+      "end_seconds": 842.799,
+      "id": "youtube-5dq3XxmjTBc#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 841.039,
+      "text": "但是对于我现在的工作"
+    },
+    {
+      "end_seconds": 844.159,
+      "id": "youtube-5dq3XxmjTBc#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 842.799,
+      "text": "我觉得"
+    },
+    {
+      "end_seconds": 846.879,
+      "id": "youtube-5dq3XxmjTBc#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 844.159,
+      "text": "就是一个更general的程序员的岗位"
+    },
+    {
+      "end_seconds": 850.399,
+      "id": "youtube-5dq3XxmjTBc#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 846.879,
+      "text": "对更深的知识没有太多的要求"
+    },
+    {
+      "end_seconds": 851.319,
+      "id": "youtube-5dq3XxmjTBc#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 850.399,
+      "text": "我觉得是可以的"
+    },
+    {
+      "end_seconds": 853.039,
+      "id": "youtube-5dq3XxmjTBc#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 851.719,
+      "text": "在一些岗位上"
+    },
+    {
+      "end_seconds": 855.239,
+      "id": "youtube-5dq3XxmjTBc#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 853.039,
+      "text": "你们两个可能不会有任何差别"
+    },
+    {
+      "end_seconds": 857.839,
+      "id": "youtube-5dq3XxmjTBc#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 856.039,
+      "text": "但是在有一些岗位上"
+    },
+    {
+      "end_seconds": 859.799,
+      "id": "youtube-5dq3XxmjTBc#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 857.839,
+      "text": "它可能更适合那种"
+    },
+    {
+      "end_seconds": 863.199,
+      "id": "youtube-5dq3XxmjTBc#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 859.799,
+      "text": "就是对整个计算机的全貌"
+    },
+    {
+      "end_seconds": 866.719,
+      "id": "youtube-5dq3XxmjTBc#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 863.199,
+      "text": "或者说知识有一定广度和深度了解的人"
+    },
+    {
+      "end_seconds": 868.559,
+      "id": "youtube-5dq3XxmjTBc#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 867.199,
+      "text": "我其实是这么理解的"
+    },
+    {
+      "end_seconds": 870.679,
+      "id": "youtube-5dq3XxmjTBc#cue-372",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 868.559,
+      "text": "因为当大厂在招人的时候"
+    },
+    {
+      "end_seconds": 872.679,
+      "id": "youtube-5dq3XxmjTBc#cue-373",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 870.679,
+      "text": "或者这个岗位放出来的时候"
+    },
+    {
+      "end_seconds": 874.159,
+      "id": "youtube-5dq3XxmjTBc#cue-374",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 872.679,
+      "text": "它的这个description"
+    },
+    {
+      "end_seconds": 876.479,
+      "id": "youtube-5dq3XxmjTBc#cue-375",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 874.159,
+      "text": "是general的soft engineer"
+    },
+    {
+      "end_seconds": 879.639,
+      "id": "youtube-5dq3XxmjTBc#cue-376",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 876.479,
+      "text": "它不会要求说我要招一个ML的engineer"
+    },
+    {
+      "end_seconds": 882.08,
+      "id": "youtube-5dq3XxmjTBc#cue-377",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 879.679,
+      "text": "不会要求说我要招一个底层的engineer"
+    },
+    {
+      "end_seconds": 885.159,
+      "id": "youtube-5dq3XxmjTBc#cue-378",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 882.08,
+      "text": "所以说这是为什么招进来之后"
+    },
+    {
+      "end_seconds": 886.919,
+      "id": "youtube-5dq3XxmjTBc#cue-379",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 885.159,
+      "text": "它对你的期望就是"
+    },
+    {
+      "end_seconds": 889.6,
+      "id": "youtube-5dq3XxmjTBc#cue-380",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 886.919,
+      "text": "你要有学习能力去学这些知识"
+    },
+    {
+      "end_seconds": 891.559,
+      "id": "youtube-5dq3XxmjTBc#cue-381",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 889.6,
+      "text": "这就是为什么它要考算法"
+    },
+    {
+      "end_seconds": 894.08,
+      "id": "youtube-5dq3XxmjTBc#cue-382",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 891.559,
+      "text": "因为考算法是看你这个人聪不聪明"
+    },
+    {
+      "end_seconds": 895.559,
+      "id": "youtube-5dq3XxmjTBc#cue-383",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 894.08,
+      "text": "看你的反应能力怎么样"
+    },
+    {
+      "end_seconds": 897.639,
+      "id": "youtube-5dq3XxmjTBc#cue-384",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 895.559,
+      "text": "你能不能够阐释这些问题"
+    },
+    {
+      "end_seconds": 899.48,
+      "id": "youtube-5dq3XxmjTBc#cue-385",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 897.639,
+      "text": "所以说它并没有要求你"
+    },
+    {
+      "end_seconds": 902.519,
+      "id": "youtube-5dq3XxmjTBc#cue-386",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 899.48,
+      "text": "能够掌握所有的这种系统的知识"
+    },
+    {
+      "end_seconds": 903.799,
+      "id": "youtube-5dq3XxmjTBc#cue-387",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 902.519,
+      "text": "或者设计的知识"
+    },
+    {
+      "end_seconds": 905.439,
+      "id": "youtube-5dq3XxmjTBc#cue-388",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 903.799,
+      "text": "所以它把你招进来了"
+    },
+    {
+      "end_seconds": 908.399,
+      "id": "youtube-5dq3XxmjTBc#cue-389",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 905.439,
+      "text": "但是进来之后你需要match组"
+    },
+    {
+      "end_seconds": 910.279,
+      "id": "youtube-5dq3XxmjTBc#cue-390",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 908.399,
+      "text": "或者有不同的岗位可以做"
+    },
+    {
+      "end_seconds": 912.199,
+      "id": "youtube-5dq3XxmjTBc#cue-391",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 910.279,
+      "text": "哪些岗位是适合你的呢"
+    },
+    {
+      "end_seconds": 914.72,
+      "id": "youtube-5dq3XxmjTBc#cue-392",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 912.199,
+      "text": "你能够做一些更底层的活"
+    },
+    {
+      "end_seconds": 917.759,
+      "id": "youtube-5dq3XxmjTBc#cue-393",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 914.72,
+      "text": "还是你能够做一些更analytics的活"
+    },
+    {
+      "end_seconds": 920.679,
+      "id": "youtube-5dq3XxmjTBc#cue-394",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 917.759,
+      "text": "还是一些更general的更front end的活"
+    },
+    {
+      "end_seconds": 923.0,
+      "id": "youtube-5dq3XxmjTBc#cue-395",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 920.679,
+      "text": "我觉得这看你自己的skill set"
+    },
+    {
+      "end_seconds": 925.439,
+      "id": "youtube-5dq3XxmjTBc#cue-396",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 923.0,
+      "text": "大多数转码的人可能就会选一些"
+    },
+    {
+      "end_seconds": 928.799,
+      "id": "youtube-5dq3XxmjTBc#cue-397",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 925.439,
+      "text": "对系统知识要求没有那么高"
+    },
+    {
+      "end_seconds": 929.84,
+      "id": "youtube-5dq3XxmjTBc#cue-398",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 928.799,
+      "text": "更好上手的活吧"
+    },
+    {
+      "end_seconds": 931.12,
+      "id": "youtube-5dq3XxmjTBc#cue-399",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 929.84,
+      "text": "这是我的理解"
+    },
+    {
+      "end_seconds": 933.279,
+      "id": "youtube-5dq3XxmjTBc#cue-400",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 931.12,
+      "text": "我想补充一点是就是"
+    },
+    {
+      "end_seconds": 935.399,
+      "id": "youtube-5dq3XxmjTBc#cue-401",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 933.279,
+      "text": "当一个人有一定的工作积累"
+    },
+    {
+      "end_seconds": 940.959,
+      "id": "youtube-5dq3XxmjTBc#cue-402",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 935.439,
+      "text": "他的背景无论是转码还是科班出身的"
+    },
+    {
+      "end_seconds": 945.639,
+      "id": "youtube-5dq3XxmjTBc#cue-403",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 940.959,
+      "text": "我觉得都可以胜任更重要的系统"
+    },
+    {
+      "end_seconds": 949.12,
+      "id": "youtube-5dq3XxmjTBc#cue-404",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 945.639,
+      "text": "或者更复杂的设计类似的工作"
+    },
+    {
+      "end_seconds": 951.519,
+      "id": "youtube-5dq3XxmjTBc#cue-405",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 949.12,
+      "text": "就是在我本科读大学的时候"
+    },
+    {
+      "end_seconds": 953.0,
+      "id": "youtube-5dq3XxmjTBc#cue-406",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 951.519,
+      "text": "我周围的很多同学"
+    },
+    {
+      "end_seconds": 955.159,
+      "id": "youtube-5dq3XxmjTBc#cue-407",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 953.0,
+      "text": "甚至50%以上的同学"
+    },
+    {
+      "end_seconds": 956.559,
+      "id": "youtube-5dq3XxmjTBc#cue-408",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 955.159,
+      "text": "都是在高中初中"
+    },
+    {
+      "end_seconds": 960.559,
+      "id": "youtube-5dq3XxmjTBc#cue-409",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 956.559,
+      "text": "甚至更早就已经有编程的基础了"
+    },
+    {
+      "end_seconds": 962.519,
+      "id": "youtube-5dq3XxmjTBc#cue-410",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 960.559,
+      "text": "他们有些人高中可能就做出来"
+    },
+    {
+      "end_seconds": 964.24,
+      "id": "youtube-5dq3XxmjTBc#cue-411",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 962.519,
+      "text": "一个很厉害的东西"
+    },
+    {
+      "end_seconds": 966.799,
+      "id": "youtube-5dq3XxmjTBc#cue-412",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 964.279,
+      "text": "我在本科才进学校的时候"
+    },
+    {
+      "end_seconds": 968.039,
+      "id": "youtube-5dq3XxmjTBc#cue-413",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 966.799,
+      "text": "我什么都不知道"
+    },
+    {
+      "end_seconds": 971.48,
+      "id": "youtube-5dq3XxmjTBc#cue-414",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 968.039,
+      "text": "我连电脑上面任何一个编程的软件都没有"
+    },
+    {
+      "end_seconds": 974.68,
+      "id": "youtube-5dq3XxmjTBc#cue-415",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 971.48,
+      "text": "我就觉得我大一大二比别人差好多"
+    },
+    {
+      "end_seconds": 979.12,
+      "id": "youtube-5dq3XxmjTBc#cue-416",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 974.68,
+      "text": "其实我当时就觉得自己是一个起步非常晚"
+    },
+    {
+      "end_seconds": 982.32,
+      "id": "youtube-5dq3XxmjTBc#cue-417",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 979.12,
+      "text": "然后可能基础没有别人好的这么一个状态"
+    },
+    {
+      "end_seconds": 986.24,
+      "id": "youtube-5dq3XxmjTBc#cue-418",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 982.32,
+      "text": "但是我大学的四年时间都在慢慢的追赶"
+    },
+    {
+      "end_seconds": 991.32,
+      "id": "youtube-5dq3XxmjTBc#cue-419",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 986.24,
+      "text": "所以到最后我觉得可能我算在一个比较average的水平"
+    },
+    {
+      "end_seconds": 994.12,
+      "id": "youtube-5dq3XxmjTBc#cue-420",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 991.36,
+      "text": "我觉得其实我的这段经历"
+    },
+    {
+      "end_seconds": 999.6,
+      "id": "youtube-5dq3XxmjTBc#cue-421",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 994.12,
+      "text": "只是把转码同学的经历往前放了大概三四年左右"
+    },
+    {
+      "end_seconds": 1002.52,
+      "id": "youtube-5dq3XxmjTBc#cue-422",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 999.6,
+      "text": "所以其实每个人包括我都有这种"
+    },
+    {
+      "end_seconds": 1006.56,
+      "id": "youtube-5dq3XxmjTBc#cue-423",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1002.52,
+      "text": "觉得自己没有别人起步早的心态"
+    },
+    {
+      "end_seconds": 1009.16,
+      "id": "youtube-5dq3XxmjTBc#cue-424",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1006.56,
+      "text": "所以说如果你愿意一直学下去"
+    },
+    {
+      "end_seconds": 1011.4,
+      "id": "youtube-5dq3XxmjTBc#cue-425",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1009.16,
+      "text": "然后你对你学习的东西有热情的话"
+    },
+    {
+      "end_seconds": 1016.84,
+      "id": "youtube-5dq3XxmjTBc#cue-426",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1011.4,
+      "text": "那你其实天花板是不会被你的一开始本科学什么而限制住的"
+    },
+    {
+      "end_seconds": 1019.56,
+      "id": "youtube-5dq3XxmjTBc#cue-427",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1016.84,
+      "text": "那我再说一个另外的角度"
+    },
+    {
+      "end_seconds": 1020.519,
+      "id": "youtube-5dq3XxmjTBc#cue-428",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1019.599,
+      "text": "就是转码"
+    },
+    {
+      "end_seconds": 1022.519,
+      "id": "youtube-5dq3XxmjTBc#cue-429",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1020.519,
+      "text": "比如说你本科学的是商科对吧"
+    },
+    {
+      "end_seconds": 1024.44,
+      "id": "youtube-5dq3XxmjTBc#cue-430",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1022.519,
+      "text": "就是Kate会觉得姐姐"
+    },
+    {
+      "end_seconds": 1026.919,
+      "id": "youtube-5dq3XxmjTBc#cue-431",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1024.44,
+      "text": "就是商科带来的什么优势吗"
+    },
+    {
+      "end_seconds": 1030.96,
+      "id": "youtube-5dq3XxmjTBc#cue-432",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1026.919,
+      "text": "就是你从她身上有没有学到觉得自己不一样的地方"
+    },
+    {
+      "end_seconds": 1036.44,
+      "id": "youtube-5dq3XxmjTBc#cue-433",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1030.96,
+      "text": "就是我觉得跨学科的积累会带给人不同的视角"
+    },
+    {
+      "end_seconds": 1039.879,
+      "id": "youtube-5dq3XxmjTBc#cue-434",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1036.44,
+      "text": "甚至会渗透到一些工作方式上面"
+    },
+    {
+      "end_seconds": 1043.24,
+      "id": "youtube-5dq3XxmjTBc#cue-435",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1039.879,
+      "text": "比如说我就听说我姐有时候会找人coffee chat"
+    },
+    {
+      "end_seconds": 1046.319,
+      "id": "youtube-5dq3XxmjTBc#cue-436",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1043.24,
+      "text": "去交流一些别人工作中的心得"
+    },
+    {
+      "end_seconds": 1049.119,
+      "id": "youtube-5dq3XxmjTBc#cue-437",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1046.319,
+      "text": "然后这个习惯是我一直没有的"
+    },
+    {
+      "end_seconds": 1051.199,
+      "id": "youtube-5dq3XxmjTBc#cue-438",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1049.159,
+      "text": "所以我觉得她这个想法挺好的"
+    },
+    {
+      "end_seconds": 1054.119,
+      "id": "youtube-5dq3XxmjTBc#cue-439",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1051.199,
+      "text": "我其实特别佩服所有转专业的人"
+    },
+    {
+      "end_seconds": 1059.439,
+      "id": "youtube-5dq3XxmjTBc#cue-440",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1054.119,
+      "text": "因为他们有这种要去做改变的决心和一个执行力"
+    },
+    {
+      "end_seconds": 1064.479,
+      "id": "youtube-5dq3XxmjTBc#cue-441",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1059.439,
+      "text": "而且是要放弃之前在自己很自信的一个有"
+    },
+    {
+      "end_seconds": 1070.239,
+      "id": "youtube-5dq3XxmjTBc#cue-442",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1064.479,
+      "text": "懂美knowledge领域投入到一个可能自己是一片空白这么一个状态"
+    },
+    {
+      "end_seconds": 1074.039,
+      "id": "youtube-5dq3XxmjTBc#cue-443",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1070.239,
+      "text": "我觉得所有做这个决定的人都应该值得被鼓励"
+    },
+    {
+      "end_seconds": 1078.119,
+      "id": "youtube-5dq3XxmjTBc#cue-444",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1074.039,
+      "text": "那Ashley你觉得你之前的商科有没有给你的程序员"
+    },
+    {
+      "end_seconds": 1079.599,
+      "id": "youtube-5dq3XxmjTBc#cue-445",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1078.279,
+      "text": "生涯带来一些东西"
+    },
+    {
+      "end_seconds": 1081.279,
+      "id": "youtube-5dq3XxmjTBc#cue-446",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1079.599,
+      "text": "我觉得当然是有的"
+    },
+    {
+      "end_seconds": 1084.399,
+      "id": "youtube-5dq3XxmjTBc#cue-447",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1081.279,
+      "text": "就比如说我现在所在的组是一个产品的组"
+    },
+    {
+      "end_seconds": 1088.239,
+      "id": "youtube-5dq3XxmjTBc#cue-448",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1084.399,
+      "text": "很多时候我会从一个product manager的角度来看"
+    },
+    {
+      "end_seconds": 1090.399,
+      "id": "youtube-5dq3XxmjTBc#cue-449",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1088.239,
+      "text": "说我们这个产品做的怎么样"
+    },
+    {
+      "end_seconds": 1092.759,
+      "id": "youtube-5dq3XxmjTBc#cue-450",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1090.399,
+      "text": "我们能不能让客户满意"
+    },
+    {
+      "end_seconds": 1096.399,
+      "id": "youtube-5dq3XxmjTBc#cue-451",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1092.759,
+      "text": "或者说我们是不是一个revenue driven的model"
+    },
+    {
+      "end_seconds": 1100.079,
+      "id": "youtube-5dq3XxmjTBc#cue-452",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1096.399,
+      "text": "我们怎么样让我们的产品涉及更多的用户"
+    },
+    {
+      "end_seconds": 1102.599,
+      "id": "youtube-5dq3XxmjTBc#cue-453",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1100.079,
+      "text": "或者在我们表达自己观念的时候"
+    },
+    {
+      "end_seconds": 1107.199,
+      "id": "youtube-5dq3XxmjTBc#cue-454",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1102.599,
+      "text": "怎么样让别人能够了解到我们说话的本意并且接受"
+    },
+    {
+      "end_seconds": 1109.96,
+      "id": "youtube-5dq3XxmjTBc#cue-455",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1107.24,
+      "text": "我觉得这些说话处事的方式"
+    },
+    {
+      "end_seconds": 1112.4,
+      "id": "youtube-5dq3XxmjTBc#cue-456",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1109.96,
+      "text": "或者从产品的角度来思考"
+    },
+    {
+      "end_seconds": 1113.88,
+      "id": "youtube-5dq3XxmjTBc#cue-457",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1112.4,
+      "text": "怎么把engineering做好"
+    },
+    {
+      "end_seconds": 1118.0,
+      "id": "youtube-5dq3XxmjTBc#cue-458",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1113.88,
+      "text": "我觉得这些思维都是曾经的学习和经历带给我的"
+    },
+    {
+      "end_seconds": 1120.2,
+      "id": "youtube-5dq3XxmjTBc#cue-459",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1118.0,
+      "text": "Ashley你听了以后觉得怎么样"
+    },
+    {
+      "end_seconds": 1126.08,
+      "id": "youtube-5dq3XxmjTBc#cue-460",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1121.72,
+      "text": "我其实觉得我自己一直表达能力都不是特别好"
+    },
+    {
+      "end_seconds": 1129.64,
+      "id": "youtube-5dq3XxmjTBc#cue-461",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1126.08,
+      "text": "就是因为我在本科的时候没有得到很好的锻炼"
+    },
+    {
+      "end_seconds": 1133.92,
+      "id": "youtube-5dq3XxmjTBc#cue-462",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1129.64,
+      "text": "所以我也很羡慕其他学科能够有更多表达自己的机会"
+    },
+    {
+      "end_seconds": 1135.84,
+      "id": "youtube-5dq3XxmjTBc#cue-463",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1133.92,
+      "text": "然后能够锻炼这方面的能力"
+    },
+    {
+      "end_seconds": 1138.559,
+      "id": "youtube-5dq3XxmjTBc#cue-464",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1135.879,
+      "text": "然后像我的话只能在工作中犯错"
+    },
+    {
+      "end_seconds": 1140.319,
+      "id": "youtube-5dq3XxmjTBc#cue-465",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1138.559,
+      "text": "然后在错误中学习"
+    },
+    {
+      "end_seconds": 1142.319,
+      "id": "youtube-5dq3XxmjTBc#cue-466",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1140.319,
+      "text": "其实我想说一个disclaimer"
+    },
+    {
+      "end_seconds": 1143.799,
+      "id": "youtube-5dq3XxmjTBc#cue-467",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1142.319,
+      "text": "就是同样是科班出身"
+    },
+    {
+      "end_seconds": 1146.679,
+      "id": "youtube-5dq3XxmjTBc#cue-468",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1143.799,
+      "text": "其实人与人之间的差距还是非常大的"
+    },
+    {
+      "end_seconds": 1151.679,
+      "id": "youtube-5dq3XxmjTBc#cue-469",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1146.679,
+      "text": "比如说我和我们专业最厉害"
+    },
+    {
+      "end_seconds": 1153.439,
+      "id": "youtube-5dq3XxmjTBc#cue-470",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1151.679,
+      "text": "最顶尖一波人之间的差距"
+    },
+    {
+      "end_seconds": 1155.48,
+      "id": "youtube-5dq3XxmjTBc#cue-471",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1153.439,
+      "text": "可能这个gap还是一直存在"
+    },
+    {
+      "end_seconds": 1157.039,
+      "id": "youtube-5dq3XxmjTBc#cue-472",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1155.48,
+      "text": "从来从未消失过"
+    },
+    {
+      "end_seconds": 1160.079,
+      "id": "youtube-5dq3XxmjTBc#cue-473",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1157.039,
+      "text": "但是同时也存在一波那种混水摸鱼的人"
+    },
+    {
+      "end_seconds": 1161.839,
+      "id": "youtube-5dq3XxmjTBc#cue-474",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1160.079,
+      "text": "学校好像也开不掉他们"
+    },
+    {
+      "end_seconds": 1165.319,
+      "id": "youtube-5dq3XxmjTBc#cue-475",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1161.839,
+      "text": "擦边能够稍微过这个线就能毕业"
+    },
+    {
+      "end_seconds": 1168.039,
+      "id": "youtube-5dq3XxmjTBc#cue-476",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1165.319,
+      "text": "但他们其实也没有学到特别多的知识"
+    },
+    {
+      "end_seconds": 1172.119,
+      "id": "youtube-5dq3XxmjTBc#cue-477",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1168.039,
+      "text": "所以说在同样都是CS专业科班出身的背景下"
+    },
+    {
+      "end_seconds": 1175.24,
+      "id": "youtube-5dq3XxmjTBc#cue-478",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1172.48,
+      "text": "大家的差距还是人与人之间差距还是很大的"
+    },
+    {
+      "end_seconds": 1176.839,
+      "id": "youtube-5dq3XxmjTBc#cue-479",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1175.24,
+      "text": "那我也来做一个disclaimer"
+    },
+    {
+      "end_seconds": 1181.079,
+      "id": "youtube-5dq3XxmjTBc#cue-480",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1176.839,
+      "text": "其实转码同学之间差距也是非常大的"
+    },
+    {
+      "end_seconds": 1184.759,
+      "id": "youtube-5dq3XxmjTBc#cue-481",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1181.079,
+      "text": "因为每个人转码的他的初心是不一样的"
+    },
+    {
+      "end_seconds": 1188.879,
+      "id": "youtube-5dq3XxmjTBc#cue-482",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1184.759,
+      "text": "有的人只是为了拿一份高薪的工作或者在美国留下来"
+    },
+    {
+      "end_seconds": 1191.359,
+      "id": "youtube-5dq3XxmjTBc#cue-483",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1188.879,
+      "text": "而有的人可能是在转码之后"
+    },
+    {
+      "end_seconds": 1195.679,
+      "id": "youtube-5dq3XxmjTBc#cue-484",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1191.359,
+      "text": "对这个工作本身或者对职业本身是有巨大的passion"
+    },
+    {
+      "end_seconds": 1199.799,
+      "id": "youtube-5dq3XxmjTBc#cue-485",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1195.679,
+      "text": "需要自己在career上面有一定建树的"
+    },
+    {
+      "end_seconds": 1202.119,
+      "id": "youtube-5dq3XxmjTBc#cue-486",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1199.799,
+      "text": "所以每个人他因为初心不一样"
+    },
+    {
+      "end_seconds": 1203.959,
+      "id": "youtube-5dq3XxmjTBc#cue-487",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1202.119,
+      "text": "花在转码的时间就不一样"
+    },
+    {
+      "end_seconds": 1205.639,
+      "id": "youtube-5dq3XxmjTBc#cue-488",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1203.959,
+      "text": "花在工作的时间就不一样"
+    },
+    {
+      "end_seconds": 1207.479,
+      "id": "youtube-5dq3XxmjTBc#cue-489",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1205.639,
+      "text": "自身的钻研时间就不一样"
+    },
+    {
+      "end_seconds": 1209.679,
+      "id": "youtube-5dq3XxmjTBc#cue-490",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1207.479,
+      "text": "所以说虽然同样是转码的同学"
+    },
+    {
+      "end_seconds": 1211.439,
+      "id": "youtube-5dq3XxmjTBc#cue-491",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1209.679,
+      "text": "其实差距还是挺大的"
+    },
+    {
+      "end_seconds": 1214.0,
+      "id": "youtube-5dq3XxmjTBc#cue-492",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1211.439,
+      "text": "不能直接贴上转码这一个标签"
+    },
+    {
+      "end_seconds": 1216.199,
+      "id": "youtube-5dq3XxmjTBc#cue-493",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1214.0,
+      "text": "好的我觉得这些总结都挺到位的"
+    },
+    {
+      "end_seconds": 1218.159,
+      "id": "youtube-5dq3XxmjTBc#cue-494",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1216.199,
+      "text": "帮大家再问一个bonus question"
+    },
+    {
+      "end_seconds": 1219.199,
+      "id": "youtube-5dq3XxmjTBc#cue-495",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1218.159,
+      "text": "Ashley我先从你问吧"
+    },
+    {
+      "end_seconds": 1221.2,
+      "id": "youtube-5dq3XxmjTBc#cue-496",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1219.279,
+      "text": "你觉得你leak code是什么时候"
+    },
+    {
+      "end_seconds": 1222.799,
+      "id": "youtube-5dq3XxmjTBc#cue-497",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1221.2,
+      "text": "你刷到什么时候你觉得"
+    },
+    {
+      "end_seconds": 1224.92,
+      "id": "youtube-5dq3XxmjTBc#cue-498",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1222.799,
+      "text": "好像我有点融会贯通的感觉"
+    },
+    {
+      "end_seconds": 1228.16,
+      "id": "youtube-5dq3XxmjTBc#cue-499",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1226.16,
+      "text": "我觉得在刷leak code之前"
+    },
+    {
+      "end_seconds": 1230.6,
+      "id": "youtube-5dq3XxmjTBc#cue-500",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1228.16,
+      "text": "肯定是要有data structure的基础的"
+    },
+    {
+      "end_seconds": 1233.0,
+      "id": "youtube-5dq3XxmjTBc#cue-501",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1230.6,
+      "text": "在这个基础上一才能够学习算法"
+    },
+    {
+      "end_seconds": 1234.759,
+      "id": "youtube-5dq3XxmjTBc#cue-502",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1233.0,
+      "text": "然后开始情绪多练"
+    },
+    {
+      "end_seconds": 1237.6,
+      "id": "youtube-5dq3XxmjTBc#cue-503",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1234.759,
+      "text": "不然你只能是在题海战术中"
+    },
+    {
+      "end_seconds": 1238.799,
+      "id": "youtube-5dq3XxmjTBc#cue-504",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1237.6,
+      "text": "栽很多跟头"
+    },
+    {
+      "end_seconds": 1241.68,
+      "id": "youtube-5dq3XxmjTBc#cue-505",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1238.799,
+      "text": "所以这个肯定是要从data structure开始"
+    },
+    {
+      "end_seconds": 1245.84,
+      "id": "youtube-5dq3XxmjTBc#cue-506",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1241.68,
+      "text": "第二就是你要对自己的预期放低一点"
+    },
+    {
+      "end_seconds": 1247.96,
+      "id": "youtube-5dq3XxmjTBc#cue-507",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1245.84,
+      "text": "因为没有人本身就生来就会"
+    },
+    {
+      "end_seconds": 1251.6,
+      "id": "youtube-5dq3XxmjTBc#cue-508",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1247.96,
+      "text": "所以你需要给自己时间不能着急"
+    },
+    {
+      "end_seconds": 1254.16,
+      "id": "youtube-5dq3XxmjTBc#cue-509",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1251.6,
+      "text": "可能比如说做100道题"
+    },
+    {
+      "end_seconds": 1255.4,
+      "id": "youtube-5dq3XxmjTBc#cue-510",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1254.16,
+      "text": "不要轻信别人"
+    },
+    {
+      "end_seconds": 1257.0,
+      "id": "youtube-5dq3XxmjTBc#cue-511",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1255.4,
+      "text": "可能一个月就能做完"
+    },
+    {
+      "end_seconds": 1258.24,
+      "id": "youtube-5dq3XxmjTBc#cue-512",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1257.0,
+      "text": "如果你需要三个月"
+    },
+    {
+      "end_seconds": 1259.68,
+      "id": "youtube-5dq3XxmjTBc#cue-513",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1258.24,
+      "text": "就用三个月去做"
+    },
+    {
+      "end_seconds": 1261.84,
+      "id": "youtube-5dq3XxmjTBc#cue-514",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1259.68,
+      "text": "但是你把这100道题都给搞懂"
+    },
+    {
+      "end_seconds": 1263.799,
+      "id": "youtube-5dq3XxmjTBc#cue-515",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1261.84,
+      "text": "并且多做一些高频题"
+    },
+    {
+      "end_seconds": 1266.16,
+      "id": "youtube-5dq3XxmjTBc#cue-516",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1263.799,
+      "text": "让你对算法能理解的这些题目"
+    },
+    {
+      "end_seconds": 1268.96,
+      "id": "youtube-5dq3XxmjTBc#cue-517",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1266.16,
+      "text": "一些经典的题目可能对你帮助更大"
+    },
+    {
+      "end_seconds": 1271.84,
+      "id": "youtube-5dq3XxmjTBc#cue-518",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1268.96,
+      "text": "而当你能够对整个算法有理解的时候"
+    },
+    {
+      "end_seconds": 1273.279,
+      "id": "youtube-5dq3XxmjTBc#cue-519",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1271.84,
+      "text": "你再去追求数量"
+    },
+    {
+      "end_seconds": 1274.92,
+      "id": "youtube-5dq3XxmjTBc#cue-520",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1273.279,
+      "text": "追求我能拿到一道题"
+    },
+    {
+      "end_seconds": 1276.4,
+      "id": "youtube-5dq3XxmjTBc#cue-521",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1274.92,
+      "text": "就能写就不出错"
+    },
+    {
+      "end_seconds": 1277.72,
+      "id": "youtube-5dq3XxmjTBc#cue-522",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1276.4,
+      "text": "就能backfray的这种"
+    },
+    {
+      "end_seconds": 1278.519,
+      "id": "youtube-5dq3XxmjTBc#cue-523",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1277.72,
+      "text": "速度"
+    },
+    {
+      "end_seconds": 1280.759,
+      "id": "youtube-5dq3XxmjTBc#cue-524",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1278.519,
+      "text": "我觉得这个就是不同的阶段"
+    },
+    {
+      "end_seconds": 1282.2,
+      "id": "youtube-5dq3XxmjTBc#cue-525",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1280.759,
+      "text": "然后我还要一个小的tip"
+    },
+    {
+      "end_seconds": 1285.319,
+      "id": "youtube-5dq3XxmjTBc#cue-526",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1282.2,
+      "text": "就是很多人他刷过题之后就过了"
+    },
+    {
+      "end_seconds": 1287.2,
+      "id": "youtube-5dq3XxmjTBc#cue-527",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1285.319,
+      "text": "但他没有思考和总结"
+    },
+    {
+      "end_seconds": 1289.079,
+      "id": "youtube-5dq3XxmjTBc#cue-528",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1287.2,
+      "text": "他下次再做还是不会"
+    },
+    {
+      "end_seconds": 1291.44,
+      "id": "youtube-5dq3XxmjTBc#cue-529",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1289.079,
+      "text": "所以还是要有习惯去记录"
+    },
+    {
+      "end_seconds": 1294.4,
+      "id": "youtube-5dq3XxmjTBc#cue-530",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1291.44,
+      "text": "或者去总结之前的错误"
+    },
+    {
+      "end_seconds": 1297.24,
+      "id": "youtube-5dq3XxmjTBc#cue-531",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1294.4,
+      "text": "然后再反复的做那些更经典的题目"
+    },
+    {
+      "end_seconds": 1299.839,
+      "id": "youtube-5dq3XxmjTBc#cue-532",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1297.24,
+      "text": "我觉得这些就是我自己的一些心得"
+    },
+    {
+      "end_seconds": 1301.96,
+      "id": "youtube-5dq3XxmjTBc#cue-533",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1301.12,
+      "text": "Kathy你觉得呢"
+    },
+    {
+      "end_seconds": 1304.64,
+      "id": "youtube-5dq3XxmjTBc#cue-534",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1301.96,
+      "text": "就是因为你不需要刷题就会了"
+    },
+    {
+      "end_seconds": 1307.0,
+      "id": "youtube-5dq3XxmjTBc#cue-535",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1304.64,
+      "text": "你觉得这是为什么呢"
+    },
+    {
+      "end_seconds": 1309.279,
+      "id": "youtube-5dq3XxmjTBc#cue-536",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1307.0,
+      "text": "就是你基础上打的牢"
+    },
+    {
+      "end_seconds": 1310.519,
+      "id": "youtube-5dq3XxmjTBc#cue-537",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1309.279,
+      "text": "打的是什么基础"
+    },
+    {
+      "end_seconds": 1311.519,
+      "id": "youtube-5dq3XxmjTBc#cue-538",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1310.519,
+      "text": "其实也没有"
+    },
+    {
+      "end_seconds": 1314.799,
+      "id": "youtube-5dq3XxmjTBc#cue-539",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1311.519,
+      "text": "就是因为我缺乏准备的时间"
+    },
+    {
+      "end_seconds": 1316.119,
+      "id": "youtube-5dq3XxmjTBc#cue-540",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1314.799,
+      "text": "基本上就是没准备好"
+    },
+    {
+      "end_seconds": 1317.16,
+      "id": "youtube-5dq3XxmjTBc#cue-541",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1316.119,
+      "text": "然后就去面试"
+    },
+    {
+      "end_seconds": 1319.2,
+      "id": "youtube-5dq3XxmjTBc#cue-542",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1317.16,
+      "text": "然后面试也许就挂了"
+    },
+    {
+      "end_seconds": 1321.2,
+      "id": "youtube-5dq3XxmjTBc#cue-543",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1319.2,
+      "text": "把这个面试当做一次训练"
+    },
+    {
+      "end_seconds": 1323.319,
+      "id": "youtube-5dq3XxmjTBc#cue-544",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1321.2,
+      "text": "然后我下次面试的时候"
+    },
+    {
+      "end_seconds": 1326.48,
+      "id": "youtube-5dq3XxmjTBc#cue-545",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1323.319,
+      "text": "我就会用到我之前面试失败的原因"
+    },
+    {
+      "end_seconds": 1327.319,
+      "id": "youtube-5dq3XxmjTBc#cue-546",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1326.48,
+      "text": "然后的总结"
+    },
+    {
+      "end_seconds": 1329.24,
+      "id": "youtube-5dq3XxmjTBc#cue-547",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1327.319,
+      "text": "然后下次面试的话我可能就过了"
+    },
+    {
+      "end_seconds": 1332.0,
+      "id": "youtube-5dq3XxmjTBc#cue-548",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1329.24,
+      "text": "但是那些算法题就是该不会做还是不会做"
+    },
+    {
+      "end_seconds": 1333.519,
+      "id": "youtube-5dq3XxmjTBc#cue-549",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1332.0,
+      "text": "可是你会做对吧"
+    },
+    {
+      "end_seconds": 1336.119,
+      "id": "youtube-5dq3XxmjTBc#cue-550",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1333.519,
+      "text": "就是你的会做是来自于哪几门课呢"
+    },
+    {
+      "end_seconds": 1338.479,
+      "id": "youtube-5dq3XxmjTBc#cue-551",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1336.119,
+      "text": "我觉得就是Data Structure吧"
+    },
+    {
+      "end_seconds": 1341.479,
+      "id": "youtube-5dq3XxmjTBc#cue-552",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1338.479,
+      "text": "其实里面应该已经cover了所有要考的内容"
+    },
+    {
+      "end_seconds": 1343.919,
+      "id": "youtube-5dq3XxmjTBc#cue-553",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1341.479,
+      "text": "而且我面试的工作其实都是实习"
+    },
+    {
+      "end_seconds": 1346.919,
+      "id": "youtube-5dq3XxmjTBc#cue-554",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1343.919,
+      "text": "我也没有经历过正式的校招的面试"
+    },
+    {
+      "end_seconds": 1350.679,
+      "id": "youtube-5dq3XxmjTBc#cue-555",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1346.919,
+      "text": "所以实习的面试其实一般考察的内容还是比较基础的"
+    },
+    {
+      "end_seconds": 1352.599,
+      "id": "youtube-5dq3XxmjTBc#cue-556",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1350.679,
+      "text": "所以也没有需要特别多的准备"
+    },
+    {
+      "end_seconds": 1356.679,
+      "id": "youtube-5dq3XxmjTBc#cue-557",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1352.599,
+      "text": "那你刚刚说你的学校里的课"
+    },
+    {
+      "end_seconds": 1358.839,
+      "id": "youtube-5dq3XxmjTBc#cue-558",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1356.679,
+      "text": "大多数是对找工作没有用的"
+    },
+    {
+      "end_seconds": 1362.839,
+      "id": "youtube-5dq3XxmjTBc#cue-559",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1358.839,
+      "text": "那就是大概百分之多少是对找工作没有用的"
+    },
+    {
+      "end_seconds": 1367.919,
+      "id": "youtube-5dq3XxmjTBc#cue-560",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1363.559,
+      "text": "我觉得大二以后的课几乎都没有用"
+    },
+    {
+      "end_seconds": 1369.519,
+      "id": "youtube-5dq3XxmjTBc#cue-561",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1367.919,
+      "text": "就是大一的时候"
+    },
+    {
+      "end_seconds": 1373.959,
+      "id": "youtube-5dq3XxmjTBc#cue-562",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1369.519,
+      "text": "专业最基础的什么Java的基础呀"
+    },
+    {
+      "end_seconds": 1377.159,
+      "id": "youtube-5dq3XxmjTBc#cue-563",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1373.959,
+      "text": "然后Data Structure的基础这些是最重要的"
+    },
+    {
+      "end_seconds": 1380.559,
+      "id": "youtube-5dq3XxmjTBc#cue-564",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1377.159,
+      "text": "然后大二大三甚至大四之后学的都是"
+    },
+    {
+      "end_seconds": 1384.839,
+      "id": "youtube-5dq3XxmjTBc#cue-565",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1380.559,
+      "text": "在某一个具体细分的计算机领域做研究"
+    },
+    {
+      "end_seconds": 1387.959,
+      "id": "youtube-5dq3XxmjTBc#cue-566",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1384.839,
+      "text": "所以说大一大二基本上就够用了"
+    },
+    {
+      "end_seconds": 1390.199,
+      "id": "youtube-5dq3XxmjTBc#cue-567",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1387.959,
+      "text": "但我觉得它不需要准备"
+    },
+    {
+      "end_seconds": 1394.4,
+      "id": "youtube-5dq3XxmjTBc#cue-568",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1390.2,
+      "text": "是因为它能够确保它能够手上有很多面试"
+    },
+    {
+      "end_seconds": 1396.279,
+      "id": "youtube-5dq3XxmjTBc#cue-569",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1394.4,
+      "text": "让它训练或者陪练"
+    },
+    {
+      "end_seconds": 1398.36,
+      "id": "youtube-5dq3XxmjTBc#cue-570",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1396.279,
+      "text": "它即使挂掉了也没有关系"
+    },
+    {
+      "end_seconds": 1399.92,
+      "id": "youtube-5dq3XxmjTBc#cue-571",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1398.36,
+      "text": "但对于转码的人来说"
+    },
+    {
+      "end_seconds": 1403.44,
+      "id": "youtube-5dq3XxmjTBc#cue-572",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1399.92,
+      "text": "他可能就只能收到那么一个或者两个面试"
+    },
+    {
+      "end_seconds": 1405.72,
+      "id": "youtube-5dq3XxmjTBc#cue-573",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1403.44,
+      "text": "那能进入终面就更少了"
+    },
+    {
+      "end_seconds": 1408.039,
+      "id": "youtube-5dq3XxmjTBc#cue-574",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1405.72,
+      "text": "这就是为什么要花更多的时间准备"
+    },
+    {
+      "end_seconds": 1410.68,
+      "id": "youtube-5dq3XxmjTBc#cue-575",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1408.039,
+      "text": "去make sure它每次一面都能过"
+    },
+    {
+      "end_seconds": 1412.36,
+      "id": "youtube-5dq3XxmjTBc#cue-576",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1410.68,
+      "text": "这就是我觉得这就是区别"
+    },
+    {
+      "end_seconds": 1414.84,
+      "id": "youtube-5dq3XxmjTBc#cue-577",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1412.36,
+      "text": "因为我平常在写作业的过程中"
+    },
+    {
+      "end_seconds": 1419.08,
+      "id": "youtube-5dq3XxmjTBc#cue-578",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1414.84,
+      "text": "我其实对写代码这件事情就已经非常的熟练了"
+    },
+    {
+      "end_seconds": 1422.919,
+      "id": "youtube-5dq3XxmjTBc#cue-579",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1419.119,
+      "text": "我似乎不需要思考具体怎么去用"
+    },
+    {
+      "end_seconds": 1425.639,
+      "id": "youtube-5dq3XxmjTBc#cue-580",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1422.919,
+      "text": "怎么去想这个逻辑"
+    },
+    {
+      "end_seconds": 1429.119,
+      "id": "youtube-5dq3XxmjTBc#cue-581",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1425.639,
+      "text": "我就能把它没有错误的写出来"
+    },
+    {
+      "end_seconds": 1433.679,
+      "id": "youtube-5dq3XxmjTBc#cue-582",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1429.119,
+      "text": "所以说其实我之所以看题不用写的原因就是"
+    },
+    {
+      "end_seconds": 1435.839,
+      "id": "youtube-5dq3XxmjTBc#cue-583",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1433.679,
+      "text": "我知道我有这个逻辑"
+    },
+    {
+      "end_seconds": 1437.279,
+      "id": "youtube-5dq3XxmjTBc#cue-584",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1435.839,
+      "text": "我就能把它写出来"
+    },
+    {
+      "end_seconds": 1437.839,
+      "id": "youtube-5dq3XxmjTBc#cue-585",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1437.279,
+      "text": "对"
+    },
+    {
+      "end_seconds": 1440.559,
+      "id": "youtube-5dq3XxmjTBc#cue-586",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1437.839,
+      "text": "这是可能是一种熟能生巧的一个技能吧"
+    },
+    {
+      "end_seconds": 1443.799,
+      "id": "youtube-5dq3XxmjTBc#cue-587",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1440.559,
+      "text": "我还想补充一点就是心态上的差别"
+    },
+    {
+      "end_seconds": 1447.48,
+      "id": "youtube-5dq3XxmjTBc#cue-588",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1443.799,
+      "text": "因为转码的同学其实大家多少还是会有比较"
+    },
+    {
+      "end_seconds": 1450.2,
+      "id": "youtube-5dq3XxmjTBc#cue-589",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1447.519,
+      "text": "我觉得为什么网上那么多人他们都能拿到面试"
+    },
+    {
+      "end_seconds": 1451.24,
+      "id": "youtube-5dq3XxmjTBc#cue-590",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1450.2,
+      "text": "他们都能过面试"
+    },
+    {
+      "end_seconds": 1452.0,
+      "id": "youtube-5dq3XxmjTBc#cue-591",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1451.24,
+      "text": "都在shy offer"
+    },
+    {
+      "end_seconds": 1453.4,
+      "id": "youtube-5dq3XxmjTBc#cue-592",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1452.0,
+      "text": "为什么我就不行"
+    },
+    {
+      "end_seconds": 1456.48,
+      "id": "youtube-5dq3XxmjTBc#cue-593",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1453.4,
+      "text": "其实我觉得更多的时候是跟自己比"
+    },
+    {
+      "end_seconds": 1458.039,
+      "id": "youtube-5dq3XxmjTBc#cue-594",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1456.48,
+      "text": "多少人能够拿到面试"
+    },
+    {
+      "end_seconds": 1460.4,
+      "id": "youtube-5dq3XxmjTBc#cue-595",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1458.039,
+      "text": "这个其实是一个概率问题"
+    },
+    {
+      "end_seconds": 1464.12,
+      "id": "youtube-5dq3XxmjTBc#cue-596",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1460.4,
+      "text": "所以你需要一直保持身心的健康"
+    },
+    {
+      "end_seconds": 1466.599,
+      "id": "youtube-5dq3XxmjTBc#cue-597",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1464.12,
+      "text": "让你有动力去不断的学习和钻研"
+    },
+    {
+      "end_seconds": 1467.88,
+      "id": "youtube-5dq3XxmjTBc#cue-598",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1466.599,
+      "text": "不断的去准备"
+    },
+    {
+      "end_seconds": 1468.96,
+      "id": "youtube-5dq3XxmjTBc#cue-599",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1467.88,
+      "text": "才能过面试"
+    },
+    {
+      "end_seconds": 1472.2,
+      "id": "youtube-5dq3XxmjTBc#cue-600",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1468.96,
+      "text": "我觉得不是一个一天两天就能速成的事情"
+    },
+    {
+      "end_seconds": 1475.519,
+      "id": "youtube-5dq3XxmjTBc#cue-601",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1472.2,
+      "text": "就像我也不是一开始就能拿到大厂的面试"
+    },
+    {
+      "end_seconds": 1478.0,
+      "id": "youtube-5dq3XxmjTBc#cue-602",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1475.559,
+      "text": "也是在不断的fail掉面试"
+    },
+    {
+      "end_seconds": 1479.68,
+      "id": "youtube-5dq3XxmjTBc#cue-603",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1478.0,
+      "text": "不断的准备不断的训练"
+    },
+    {
+      "end_seconds": 1483.24,
+      "id": "youtube-5dq3XxmjTBc#cue-604",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1479.68,
+      "text": "然后在实习之后才能有一个比较好的通过率"
+    },
+    {
+      "end_seconds": 1486.44,
+      "id": "youtube-5dq3XxmjTBc#cue-605",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1483.24,
+      "text": "我觉得面试这里两位也给了非常实在"
+    },
+    {
+      "end_seconds": 1488.359,
+      "id": "youtube-5dq3XxmjTBc#cue-606",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1486.44,
+      "text": "然后透明真诚的tips"
+    },
+    {
+      "end_seconds": 1490.759,
+      "id": "youtube-5dq3XxmjTBc#cue-607",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1488.359,
+      "text": "最后来一个稍稍灵魂拷问一点的东西吧"
+    },
+    {
+      "end_seconds": 1493.24,
+      "id": "youtube-5dq3XxmjTBc#cue-608",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1490.759,
+      "text": "毕竟这是一个你的专业"
+    },
+    {
+      "end_seconds": 1496.359,
+      "id": "youtube-5dq3XxmjTBc#cue-609",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1493.24,
+      "text": "毕竟这是一个外来者的感觉转码是吧"
+    },
+    {
+      "end_seconds": 1498.079,
+      "id": "youtube-5dq3XxmjTBc#cue-610",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1496.359,
+      "text": "你们可能拿到了薪水"
+    },
+    {
+      "end_seconds": 1501.879,
+      "id": "youtube-5dq3XxmjTBc#cue-611",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1498.559,
+      "text": "然后包括升职的机会都差不多"
+    },
+    {
+      "end_seconds": 1502.879,
+      "id": "youtube-5dq3XxmjTBc#cue-612",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1501.879,
+      "text": "那你觉得公平吗"
+    },
+    {
+      "end_seconds": 1505.279,
+      "id": "youtube-5dq3XxmjTBc#cue-613",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1502.879,
+      "text": "或者说你觉得这件事情"
+    },
+    {
+      "end_seconds": 1507.839,
+      "id": "youtube-5dq3XxmjTBc#cue-614",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1505.319,
+      "text": "你怎么样子去说服自己说"
+    },
+    {
+      "end_seconds": 1511.68,
+      "id": "youtube-5dq3XxmjTBc#cue-615",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1507.839,
+      "text": "姐姐现在拿到了这个和我一样的offer"
+    },
+    {
+      "end_seconds": 1512.639,
+      "id": "youtube-5dq3XxmjTBc#cue-616",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1511.68,
+      "text": "也是她值得的"
+    },
+    {
+      "end_seconds": 1513.72,
+      "id": "youtube-5dq3XxmjTBc#cue-617",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1512.639,
+      "text": "在我的角度"
+    },
+    {
+      "end_seconds": 1518.68,
+      "id": "youtube-5dq3XxmjTBc#cue-618",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1513.72,
+      "text": "我最开始学CS并不是说我为了能够找一个很好的工作"
+    },
+    {
+      "end_seconds": 1521.599,
+      "id": "youtube-5dq3XxmjTBc#cue-619",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1518.68,
+      "text": "而真的是因为我热爱这一个领域"
+    },
+    {
+      "end_seconds": 1522.519,
+      "id": "youtube-5dq3XxmjTBc#cue-620",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1521.599,
+      "text": "工作中的内容"
+    },
+    {
+      "end_seconds": 1523.759,
+      "id": "youtube-5dq3XxmjTBc#cue-621",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1522.519,
+      "text": "学校学的内容"
+    },
+    {
+      "end_seconds": 1526.24,
+      "id": "youtube-5dq3XxmjTBc#cue-622",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1523.759,
+      "text": "是能够让我感到兴奋的内容"
+    },
+    {
+      "end_seconds": 1529.359,
+      "id": "youtube-5dq3XxmjTBc#cue-623",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1526.24,
+      "text": "所以说其实我也不会把我自己的薪水"
+    },
+    {
+      "end_seconds": 1532.319,
+      "id": "youtube-5dq3XxmjTBc#cue-624",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1529.359,
+      "text": "或者我自己的职位和别人去比"
+    },
+    {
+      "end_seconds": 1534.839,
+      "id": "youtube-5dq3XxmjTBc#cue-625",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1532.319,
+      "text": "我只会觉得我在做我喜欢的事情"
+    },
+    {
+      "end_seconds": 1536.199,
+      "id": "youtube-5dq3XxmjTBc#cue-626",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1534.879,
+      "text": "能够拿到还有所报酬"
+    },
+    {
+      "end_seconds": 1537.319,
+      "id": "youtube-5dq3XxmjTBc#cue-627",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1536.199,
+      "text": "我其实就很满意了"
+    },
+    {
+      "end_seconds": 1542.0,
+      "id": "youtube-5dq3XxmjTBc#cue-628",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1537.319,
+      "text": "每个人可能会在付出的程度上可能有不同"
+    },
+    {
+      "end_seconds": 1543.679,
+      "id": "youtube-5dq3XxmjTBc#cue-629",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1542.0,
+      "text": "但最后拿到的报酬是一样的"
+    },
+    {
+      "end_seconds": 1546.199,
+      "id": "youtube-5dq3XxmjTBc#cue-630",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1543.679,
+      "text": "我觉得这种现象在各个领域都有存在"
+    },
+    {
+      "end_seconds": 1549.679,
+      "id": "youtube-5dq3XxmjTBc#cue-631",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1546.199,
+      "text": "可能还是你自己如何去找到自己的位置"
+    },
+    {
+      "end_seconds": 1551.879,
+      "id": "youtube-5dq3XxmjTBc#cue-632",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1549.679,
+      "text": "然后让自己的成果闪光"
+    },
+    {
+      "end_seconds": 1553.359,
+      "id": "youtube-5dq3XxmjTBc#cue-633",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1551.879,
+      "text": "我觉得这个可能更重要一点"
+    },
+    {
+      "end_seconds": 1557.319,
+      "id": "youtube-5dq3XxmjTBc#cue-634",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1555.119,
+      "text": "我非常非常赞同你所说的"
+    },
+    {
+      "end_seconds": 1559.439,
+      "id": "youtube-5dq3XxmjTBc#cue-635",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1557.599,
+      "text": "而且即使是转码的人"
+    },
+    {
+      "end_seconds": 1562.279,
+      "id": "youtube-5dq3XxmjTBc#cue-636",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1559.439,
+      "text": "可能你通过了面试"
+    },
+    {
+      "end_seconds": 1563.839,
+      "id": "youtube-5dq3XxmjTBc#cue-637",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1562.319,
+      "text": "那仅仅是通过了面试"
+    },
+    {
+      "end_seconds": 1565.48,
+      "id": "youtube-5dq3XxmjTBc#cue-638",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1563.839,
+      "text": "仅仅是一个敲门砖而已"
+    },
+    {
+      "end_seconds": 1567.2,
+      "id": "youtube-5dq3XxmjTBc#cue-639",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1565.48,
+      "text": "帮助你踏入了这个领域"
+    },
+    {
+      "end_seconds": 1569.0,
+      "id": "youtube-5dq3XxmjTBc#cue-640",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1567.44,
+      "text": "但是你踏入领域之后"
+    },
+    {
+      "end_seconds": 1571.319,
+      "id": "youtube-5dq3XxmjTBc#cue-641",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1569.0,
+      "text": "你自己花多少心思去钻研"
+    },
+    {
+      "end_seconds": 1573.119,
+      "id": "youtube-5dq3XxmjTBc#cue-642",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1571.319,
+      "text": "你花多少心思去追赶"
+    },
+    {
+      "end_seconds": 1575.639,
+      "id": "youtube-5dq3XxmjTBc#cue-643",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1573.119,
+      "text": "花多少心思投入在工作本身"
+    },
+    {
+      "end_seconds": 1578.359,
+      "id": "youtube-5dq3XxmjTBc#cue-644",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1575.639,
+      "text": "我觉得这个是自己个人的追求"
+    },
+    {
+      "end_seconds": 1580.0,
+      "id": "youtube-5dq3XxmjTBc#cue-645",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1578.359,
+      "text": "跟转不转码没有关系"
+    },
+    {
+      "end_seconds": 1582.759,
+      "id": "youtube-5dq3XxmjTBc#cue-646",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1580.0,
+      "text": "因为工作是一件非常非常非常长的事情"
+    },
+    {
+      "end_seconds": 1584.839,
+      "id": "youtube-5dq3XxmjTBc#cue-647",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1582.759,
+      "text": "我觉得这跟本人的兴趣"
+    },
+    {
+      "end_seconds": 1586.799,
+      "id": "youtube-5dq3XxmjTBc#cue-648",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1584.839,
+      "text": "或者对工作的热情"
+    },
+    {
+      "end_seconds": 1588.2,
+      "id": "youtube-5dq3XxmjTBc#cue-649",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1586.799,
+      "text": "我觉得是有很大关系的"
+    },
+    {
+      "end_seconds": 1590.319,
+      "id": "youtube-5dq3XxmjTBc#cue-650",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1588.399,
+      "text": "不是用那个金钱"
+    },
+    {
+      "end_seconds": 1593.399,
+      "id": "youtube-5dq3XxmjTBc#cue-651",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1590.319,
+      "text": "或者用power和title来衡量的"
+    },
+    {
+      "end_seconds": 1594.319,
+      "id": "youtube-5dq3XxmjTBc#cue-652",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1593.919,
+      "text": "好"
+    },
+    {
+      "end_seconds": 1596.0,
+      "id": "youtube-5dq3XxmjTBc#cue-653",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1594.319,
+      "text": "当然我觉得两位都说的好好"
+    },
+    {
+      "end_seconds": 1598.0,
+      "id": "youtube-5dq3XxmjTBc#cue-654",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1596.0,
+      "text": "因为这个非常独特的成长经历"
+    },
+    {
+      "end_seconds": 1602.639,
+      "id": "youtube-5dq3XxmjTBc#cue-655",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1598.0,
+      "text": "和现在又都殊途同归的到了大厂里边"
+    },
+    {
+      "end_seconds": 1605.359,
+      "id": "youtube-5dq3XxmjTBc#cue-656",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1602.639,
+      "text": "我觉得反而给我们提供了非常非常宝贵的视角"
+    },
+    {
+      "end_seconds": 1606.679,
+      "id": "youtube-5dq3XxmjTBc#cue-657",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1605.359,
+      "text": "最后平台结束之前"
+    },
+    {
+      "end_seconds": 1608.519,
+      "id": "youtube-5dq3XxmjTBc#cue-658",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1606.679,
+      "text": "有没有什么想跟观众说的话的"
+    },
+    {
+      "end_seconds": 1609.72,
+      "id": "youtube-5dq3XxmjTBc#cue-659",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1608.519,
+      "text": "我有"
+    },
+    {
+      "end_seconds": 1611.559,
+      "id": "youtube-5dq3XxmjTBc#cue-660",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1609.96,
+      "text": "我怎么说呢"
+    },
+    {
+      "end_seconds": 1612.919,
+      "id": "youtube-5dq3XxmjTBc#cue-661",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1611.559,
+      "text": "那我毛遂自荐一下"
+    },
+    {
+      "end_seconds": 1614.2,
+      "id": "youtube-5dq3XxmjTBc#cue-662",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1612.919,
+      "text": "给自己打个小广告"
+    },
+    {
+      "end_seconds": 1616.799,
+      "id": "youtube-5dq3XxmjTBc#cue-663",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1614.2,
+      "text": "我有一个记录平常我所思所想"
+    },
+    {
+      "end_seconds": 1618.679,
+      "id": "youtube-5dq3XxmjTBc#cue-664",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1616.799,
+      "text": "insight的一个小博客"
+    },
+    {
+      "end_seconds": 1619.96,
+      "id": "youtube-5dq3XxmjTBc#cue-665",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1618.679,
+      "text": "一个Substack网页"
+    },
+    {
+      "end_seconds": 1621.16,
+      "id": "youtube-5dq3XxmjTBc#cue-666",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1620.0,
+      "text": "如果大家有兴趣的话"
+    },
+    {
+      "end_seconds": 1622.48,
+      "id": "youtube-5dq3XxmjTBc#cue-667",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1621.16,
+      "text": "欢迎订阅和分享"
+    },
+    {
+      "end_seconds": 1624.24,
+      "id": "youtube-5dq3XxmjTBc#cue-668",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1622.48,
+      "text": "你看我们平时除了工作"
+    },
+    {
+      "end_seconds": 1625.36,
+      "id": "youtube-5dq3XxmjTBc#cue-669",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1624.24,
+      "text": "还有时间"
+    },
+    {
+      "end_seconds": 1628.319,
+      "id": "youtube-5dq3XxmjTBc#cue-670",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1625.36,
+      "text": "有兴趣来写作一些科技方面的insight"
+    },
+    {
+      "end_seconds": 1629.24,
+      "id": "youtube-5dq3XxmjTBc#cue-671",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1628.319,
+      "text": "而我就没有"
+    },
+    {
+      "end_seconds": 1631.48,
+      "id": "youtube-5dq3XxmjTBc#cue-672",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1629.24,
+      "text": "所以peer pressure is everywhere"
+    },
+    {
+      "end_seconds": 1633.079,
+      "id": "youtube-5dq3XxmjTBc#cue-673",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1632.6,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 1633.84,
+      "id": "youtube-5dq3XxmjTBc#cue-674",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1633.079,
+      "text": "谢谢两位"
+    },
+    {
+      "end_seconds": 1634.72,
+      "id": "youtube-5dq3XxmjTBc#cue-675",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1633.84,
+      "text": "我们就到这里"
+    },
+    {
+      "end_seconds": 1635.6,
+      "id": "youtube-5dq3XxmjTBc#cue-676",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1634.72,
+      "text": "大家下期再见"
+    }
+  ],
+  "video_id": "5dq3XxmjTBc",
+  "yuzheng_stance_weight": "not-evidence"
+}

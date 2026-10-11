@@ -1,0 +1,800 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-sFefn6R6jYY",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-06-09T03:54:34Z",
+  "participant_aliases": [
+    "Ya Ge",
+    "鸭哥"
+  ],
+  "participant_entity_ids": [
+    "guest:ya-ge"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "鸭哥",
+  "public_verified_at": "2026-10-11T02:01:29.902622+00:00",
+  "published_at": "2025-06-09",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "eeee7bdc0a691e193f5661a1c0cbc2b01aab51c504c1d3ddbc3e8529201902fb",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "830fb508cb31fe8b6c1e74ee52387ae89965b05955fba14207c34f8bf68cc1fd",
+    "root_receipt_sha256": "65d9b1b85b7bd3fa1337b9464905653f06339e1f16f836187010c6fa14855490",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=sFefn6R6jYY",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=sFefn6R6jYY",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "鸭哥演示用Cursor分析股票（回测平台 + alpha策略）",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 21.785,
+      "id": "youtube-sFefn6R6jYY#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "Okay, it's a good time to do some exploration on the application of agentic AI in finance. Here we'll go over a series of demos to build some backtesting platform, which is a very fundamental but important topic in trading firms."
+    },
+    {
+      "end_seconds": 32.673,
+      "id": "youtube-sFefn6R6jYY#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.785,
+      "text": "And we will probably go over the data downloading, platform building, strategy development, and backtesting processes."
+    },
+    {
+      "end_seconds": 57.1,
+      "id": "youtube-sFefn6R6jYY#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.673,
+      "text": "Alright, so we are at the cursor interface. We have nothing really in our workspace, and here we have a screen set up with the cursor on the left side and a tool written by me on the right side. It's a real-time speech recognition tool where you could just dictate the prompt to it."
+    },
+    {
+      "end_seconds": 63.561,
+      "id": "youtube-sFefn6R6jYY#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.1,
+      "text": "Given today, we will have quite a few long prompts. It may greatly accelerate the process."
+    },
+    {
+      "end_seconds": 88.599,
+      "id": "youtube-sFefn6R6jYY#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.561,
+      "text": "So we can click stop and immediately get the speech recognition results. So as the first step, we could explore some data downloading. It's pretty similar with our previous demos. So here we just dictate to the to the AI. We try to build some back testing platforms, but as the first step, we need to collect some data."
+    },
+    {
+      "end_seconds": 98.753,
+      "id": "youtube-sFefn6R6jYY#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.599,
+      "text": "Could you do the following for me? Let's download the stock data for, say, Nvidia, Meta, and Apple in 2024."
+    },
+    {
+      "end_seconds": 109.522,
+      "id": "youtube-sFefn6R6jYY#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 98.753,
+      "text": "and save them as a CSV file. The columns of the CSV file may include, say, date, ticker, open, close."
+    },
+    {
+      "end_seconds": 125.864,
+      "id": "youtube-sFefn6R6jYY#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.522,
+      "text": "Low, high, and volume. I only need the day-level data for 2024. After downloading, please also do a visualization so that I could easily cross-check the correctness of the data."
+    },
+    {
+      "end_seconds": 149.196,
+      "id": "youtube-sFefn6R6jYY#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.864,
+      "text": "After that, we just copy paste this into cursor, and note that we are in the composer mode. This little switch between normal and agent are in agent. Here we choose Claude three point five, but feel free to use latest O three Mini, which is also compatible with agent mode. Then we click submit."
+    },
+    {
+      "end_seconds": 161.979,
+      "id": "youtube-sFefn6R6jYY#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.196,
+      "text": "Cursor will then do the analysis on this. First, it realizes according to the guidance from the doc cursor rules file. Oh, probably I need to do some planning because this is not that easy task."
+    },
+    {
+      "end_seconds": 179.361,
+      "id": "youtube-sFefn6R6jYY#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.979,
+      "text": "So it performs some planning. This is the current task: download and visualize stock data, and steps. It decomposes it into four steps, which is pretty much the idea of chain of thoughts, and then mark the progress here so that it has the"
+    },
+    {
+      "end_seconds": 190.022,
+      "id": "youtube-sFefn6R6jYY#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.361,
+      "text": "motivation and the the good practice of reporting the progress, which is good. Then the next step is."
+    },
+    {
+      "end_seconds": 211.652,
+      "id": "youtube-sFefn6R6jYY#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 190.022,
+      "text": "Claude then write a Python file called stock data, configure the requirements, create a new venv virtual environment, install the requirements, and run the data. Note that in this entire process, I didn't do anything. It's fully autonomous."
+    },
+    {
+      "end_seconds": 222.158,
+      "id": "youtube-sFefn6R6jYY#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.652,
+      "text": "And after this, it seems that the download has has completed. If we go to this CSV file."
+    },
+    {
+      "end_seconds": 245.428,
+      "id": "youtube-sFefn6R6jYY#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.158,
+      "text": "We will be able to see that. Okay, there are those columns. The dates looks correct, and the ticker also looks correct. This is some cross-checking, just as if you have a real human intern, you would do the same thing. And the AI also provides visualization about the stock price, the range, the trend."
+    },
+    {
+      "end_seconds": 266.783,
+      "id": "youtube-sFefn6R6jYY#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 245.428,
+      "text": "And the x-axis all look pretty reasonable, so I think it it did a pretty good job in collecting data. And now it's a good time to move to the implementation stage of the back testing platform. Now let's think about implementing a back testing platform. It has two inputs."
+    },
+    {
+      "end_seconds": 289.805,
+      "id": "youtube-sFefn6R6jYY#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 266.783,
+      "text": "The first input is the data we just collected, stored in the CSV file, and the second input is some alpha strategy. Here, we're interested in day-level prediction. That is, the alpha would predict the profit for the next day, and the simulation would also be performed on the daily level."
+    },
+    {
+      "end_seconds": 317.708,
+      "id": "youtube-sFefn6R6jYY#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 289.805,
+      "text": "To simplify the problem setting, we make two assumptions. The first assumption is let's ignore or the transaction cost, the weird stuff like a slippage. We just don't consider them. And the second assumption is we have a very simple position sizing strategy. For example, when we have when we have an alpha input alpha, we just"
+    },
+    {
+      "end_seconds": 328.173,
+      "id": "youtube-sFefn6R6jYY#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 317.708,
+      "text": "do a clipping to make it within minus one to positive one, and then we do a linear scaling to the capital at hand."
+    },
+    {
+      "end_seconds": 352.544,
+      "id": "youtube-sFefn6R6jYY#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.173,
+      "text": "You can assume that we have a hundred thousand dollars in the beginning of the year, and in the end of the year, you need to report some key metrics reflecting the return, volatility, and stability of the strategy. And your task is, of course, you need to implement that. And second is, in order for me to easily check the correctness."
+    },
+    {
+      "end_seconds": 362.531,
+      "id": "youtube-sFefn6R6jYY#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.544,
+      "text": "Let's use some dummy strategy to verify the correctness of the platform. For example, buy and hold, and just do nothing."
+    },
+    {
+      "end_seconds": 389.321,
+      "id": "youtube-sFefn6R6jYY#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 362.531,
+      "text": "And note that we have the data. In the data, we have three stocks. So potentially, you you do want to apply the strategy on all of the three stocks and do the average. All right. So we get a very long prompt here. It seems that we don't have quite a very obvious speech recognition mistake. So I'll just click submit here."
+    },
+    {
+      "end_seconds": 412.302,
+      "id": "youtube-sFefn6R6jYY#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 389.321,
+      "text": "Then it says, let's plan it first, which is a good practice. According to our experiments, this this good practice will dramatically improve the effectiveness on especially solving complicated problems. This helps the AI to stay top on the plans and will really make"
+    },
+    {
+      "end_seconds": 421.729,
+      "id": "youtube-sFefn6R6jYY#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 412.302,
+      "text": "reasonable movements across different steps, requirements, input, assumptions, steps, and progress. All right."
+    },
+    {
+      "end_seconds": 433.862,
+      "id": "youtube-sFefn6R6jYY#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 421.729,
+      "text": "Then it takes some time to build the backtester.py. We can take a look and note that our position here is AI manager."
+    },
+    {
+      "end_seconds": 463.277,
+      "id": "youtube-sFefn6R6jYY#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 433.862,
+      "text": "We are in the position of cross-checking the correctness of whether AI did some the AI's job, assess its quality rather than really diving deep into the technical details. This is the key to make us really scalable. Okay, so it seems that the AI already finished implementation. It performs some back testing, which generates a back testing results."
+    },
+    {
+      "end_seconds": 473.46,
+      "id": "youtube-sFefn6R6jYY#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 463.277,
+      "text": "And give us a portfolio value over time. Buy and hold strategy for strong performance."
+    },
+    {
+      "end_seconds": 501.693,
+      "id": "youtube-sFefn6R6jYY#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 473.46,
+      "text": "Okay, looks like it gives us three kinds of metrics. One is the return, one is the Sharpe ratio, one is the max drawdown. That makes sense. I do have a concern though that the performance looks too good to be true. Let's ask AI because this"
+    },
+    {
+      "end_seconds": 529.104,
+      "id": "youtube-sFefn6R6jYY#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.693,
+      "text": "At least rings a bell in my brain whether this is really the case. Can you double check? We could use this. Can you double check the implementation is correct? That strong performance of such a simple strategy sounds too good to be true. Alright."
+    },
+    {
+      "end_seconds": 547.815,
+      "id": "youtube-sFefn6R6jYY#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.104,
+      "text": "Ah, the relative relative return calculation was incorrect. It was relative to the current day's capital, not the previous day's capital. Then let's see whether this will fix this issue."
+    },
+    {
+      "end_seconds": 566.284,
+      "id": "youtube-sFefn6R6jYY#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.815,
+      "text": "So this is an example of how we could cross-check AI's quality. A lot of people have concerns that, oh, the AI may may may make mistakes, may hallucinate. So they're hesitant hesitating on whether to use AI. But"
+    },
+    {
+      "end_seconds": 576.839,
+      "id": "youtube-sFefn6R6jYY#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 566.284,
+      "text": "One argument is that this is not something new to the AI. Actually, if you have a human intern, you will do the same."
+    },
+    {
+      "end_seconds": 599.06,
+      "id": "youtube-sFefn6R6jYY#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 576.839,
+      "text": "Interns also make mistakes, but the key is managers need to be responsible for the final result, the final deliverable, so that it's mandatory to put in some mechanism to double-check the quality. Okay, it says, oh, it turns out this is actually correct because."
+    },
+    {
+      "end_seconds": 607.661,
+      "id": "youtube-sFefn6R6jYY#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 599.06,
+      "text": "All of the stocks did pretty well."
+    },
+    {
+      "end_seconds": 629.88,
+      "id": "youtube-sFefn6R6jYY#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 607.661,
+      "text": "Hi, it looks really the case for the blue line. It's like starting from fifty and ending about one twenty, more than one hundred percent. And Apple, it's not two times, but still pretty good. And for the Meta, it's from three fifty to more than six hundred. Wow, nearly seven hundred now. So"
+    },
+    {
+      "end_seconds": 647.506,
+      "id": "youtube-sFefn6R6jYY#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 629.88,
+      "text": "It's indeed the case that if you just buy and hold, you could get really good gain. Okay, it passes the rational check. Okay. Then let's compare some more classical strategies. For example, good."
+    },
+    {
+      "end_seconds": 668.137,
+      "id": "youtube-sFefn6R6jYY#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.506,
+      "text": "Now I'm convinced that this implementation is correct. Now it's the time for us to implement three classical strategies. For example, one, five-day momentum factor; two, five-day moving average crossover; three, twenty-day moving average crossover."
+    },
+    {
+      "end_seconds": 686.933,
+      "id": "youtube-sFefn6R6jYY#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.137,
+      "text": "And I not only want the reported metrics, but also need a report in Markdown format with embedded visualization, so that it's easy for me to understand the result and comparison contrast."
+    },
+    {
+      "end_seconds": 708.364,
+      "id": "youtube-sFefn6R6jYY#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 686.933,
+      "text": "Between different methods, different strategies. We also want some analysis provided by you, which may inspire us. So we'll just copy paste here. No speech recognition mistake. Click submit."
+    },
+    {
+      "end_seconds": 724.545,
+      "id": "youtube-sFefn6R6jYY#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 708.364,
+      "text": "Then it first decides to implement the strategies. Meanwhile, we could just click the accept all on this."
+    },
+    {
+      "end_seconds": 746.77,
+      "id": "youtube-sFefn6R6jYY#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 724.545,
+      "text": "And here's the strategy: momentum five day, moving average crossover. Alright, and it provides a new script acting as the main function to invoke this backtesting process."
+    },
+    {
+      "end_seconds": 763.457,
+      "id": "youtube-sFefn6R6jYY#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 746.77,
+      "text": "Alright, and now let's run the analysis. And it looks like there was some error. So the AI moves the implementation from one file to another."
+    },
+    {
+      "end_seconds": 790.202,
+      "id": "youtube-sFefn6R6jYY#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 763.457,
+      "text": "Also remove the old one. It's interesting that those kind of technical stuff are not done by us. It's done by AI. And if you take a look at all of the instructions or prompts we give to the AI, it's all about what's, all about work quality, problem definition, scope of the project, this kind of high-level stuff."
+    },
+    {
+      "end_seconds": 799.197,
+      "id": "youtube-sFefn6R6jYY#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 790.202,
+      "text": "And now the AI uses wrong strategy. The Py produces something, but."
+    },
+    {
+      "end_seconds": 827.677,
+      "id": "youtube-sFefn6R6jYY#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 799.197,
+      "text": "the, it looks like it hit some issue that the daily return is not a number, so the strategies are not getting the historical data need calculate momentum. Let me fix in backtester. This is another example that we don't need to care too much about the debugging, but can focus on defining the problem, defining the what's rather than really thinking about the hows."
+    },
+    {
+      "end_seconds": 843.149,
+      "id": "youtube-sFefn6R6jYY#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 827.677,
+      "text": "Okay, still, it needs some time to fix this. And this is, as we said before, a mindset of AI managers."
+    },
+    {
+      "end_seconds": 868.786,
+      "id": "youtube-sFefn6R6jYY#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 843.149,
+      "text": "Actually, to the opposite of what a lot of people believes, the key to using AI is not to be super technical. It doesn't really matter that you know the ins and outs of transformers, what is multi-head attention, and how to fine-tune a model. It's not. It's quite the opposite. In order to effectively use AI, you really need to understand the, um."
+    },
+    {
+      "end_seconds": 896.213,
+      "id": "youtube-sFefn6R6jYY#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 868.786,
+      "text": "How to be a good AI manager? How to communicate with AI? Define a problem. When to jump in to unblock AI, and when to check the quality to make sure there is no hallucination. Those are the most important skill set. Rather than knows the ins and outs, because most of us are not hardcore AI researchers. We are just users of AI, and"
+    },
+    {
+      "end_seconds": 904.673,
+      "id": "youtube-sFefn6R6jYY#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 896.213,
+      "text": "It's our learning that the most important thing to use the AI effectively is actually the manager's mindset."
+    },
+    {
+      "end_seconds": 932.883,
+      "id": "youtube-sFefn6R6jYY#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 904.673,
+      "text": "And here we see that what we while I was talking, I was still looking at what AI is doing. It's quite interesting. It sounds like the AI actually did some experiments and saw something really weird, unexpected. So it decides to put in more debug information. This is a good mindset. It's like do not just guess randomly guess where's the issue."
+    },
+    {
+      "end_seconds": 940.722,
+      "id": "youtube-sFefn6R6jYY#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 932.883,
+      "text": "Let's put in more debug information and use this information to."
+    },
+    {
+      "end_seconds": 948.459,
+      "id": "youtube-sFefn6R6jYY#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 940.722,
+      "text": "Figure out where's the root cause to localize the problem."
+    },
+    {
+      "end_seconds": 971.908,
+      "id": "youtube-sFefn6R6jYY#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 948.459,
+      "text": "And it says it it found several issues. So this is another another aspect of what we just said. So on one hand, a good manager needs to be really focused on high level thinking, make sure the direction of the project is correct. On the other hand, when your team member, whether that's an intern or an AI, is getting blocked, it's also your responsibility to unblock them."
+    },
+    {
+      "end_seconds": 986.652,
+      "id": "youtube-sFefn6R6jYY#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 971.908,
+      "text": "And I'm currently still observing. I'm still trying to see whether the AI is getting blocked or is it making progress. In the case that it's getting blocked, I do need to jump in and help it out."
+    },
+    {
+      "end_seconds": 998.328,
+      "id": "youtube-sFefn6R6jYY#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 986.652,
+      "text": "Still doubling the portfolio value to subtract."
+    },
+    {
+      "end_seconds": 1021.546,
+      "id": "youtube-sFefn6R6jYY#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 998.328,
+      "text": "Actually, according to our previous analysis, it may be expected that the buy-and-hold strategy is doubling the portfolio value in the end of the year. But in the case that you see it in the beginning of the year, that might be problematic. So this is some high-level prompt."
+    },
+    {
+      "end_seconds": 1029.418,
+      "id": "youtube-sFefn6R6jYY#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1021.546,
+      "text": "To make sure it did the the correct cross check."
+    },
+    {
+      "end_seconds": 1042.529,
+      "id": "youtube-sFefn6R6jYY#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1029.418,
+      "text": "Okay, and looks like steel. Find hold immediately on day one. All right, so this is definitely wrong. Yeah."
+    },
+    {
+      "end_seconds": 1071.038,
+      "id": "youtube-sFefn6R6jYY#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1042.529,
+      "text": "And we could actually also check the some intermediate results. Yeah, this doesn't look right. Trading day. And a side note is, in the case that you need to calculate the five day or twenty day moving average, you may need the at least the five or twenty days data. So it might not be."
+    },
+    {
+      "end_seconds": 1082.297,
+      "id": "youtube-sFefn6R6jYY#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1071.038,
+      "text": "That surprising if you if you have like zero position for the first few days. You can potentially make the simulation longer."
+    },
+    {
+      "end_seconds": 1102.333,
+      "id": "youtube-sFefn6R6jYY#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1082.297,
+      "text": "Yeah, it looks like it's it realizes this issue, insufficient history, so it's it's more or less the same as we just mentioned."
+    },
+    {
+      "end_seconds": 1114.041,
+      "id": "youtube-sFefn6R6jYY#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1102.333,
+      "text": "And I do think we just saved it somehow because it sounds like the AI was blocked in some intermediate debugging code."
+    },
+    {
+      "end_seconds": 1133.377,
+      "id": "youtube-sFefn6R6jYY#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1114.041,
+      "text": "For from some time on, it puts a limit on the simulation time within three days, and that actually prevents the calculation of several features. And now it adds some warm-up days."
+    },
+    {
+      "end_seconds": 1143.804,
+      "id": "youtube-sFefn6R6jYY#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1133.377,
+      "text": "Now, run the analysis again to see the final results. Okay, it looks more reasonable now."
+    },
+    {
+      "end_seconds": 1153.979,
+      "id": "youtube-sFefn6R6jYY#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1143.804,
+      "text": "And it is doing some final improvement. Let's see whether we have."
+    },
+    {
+      "end_seconds": 1183.43,
+      "id": "youtube-sFefn6R6jYY#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1153.979,
+      "text": "Some more data, yeah, it looks good. And where is the report? This is strategy report, alright. And we could use the open preview to check it. Okay, buy and hold. This is definitely not correct. I believe this is we haven't really rerun the script yet."
+    },
+    {
+      "end_seconds": 1203.82,
+      "id": "youtube-sFefn6R6jYY#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1183.43,
+      "text": "Okay, it now tries to check. Okay, it tries to check this correctness. It looks like there's no issue, and now it tries to do some."
+    },
+    {
+      "end_seconds": 1219.133,
+      "id": "youtube-sFefn6R6jYY#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1203.82,
+      "text": "Something that a good employee would do, but now due to the limit of time, we we don't want to do, which is to actually improve the strategy. But we also need to fix this report because I believe it's not up to date yet."
+    },
+    {
+      "end_seconds": 1241.382,
+      "id": "youtube-sFefn6R6jYY#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1219.133,
+      "text": "Now the final ask, I I think what you what you have done is awesome. My understanding is we've got a correct implementation, but feel free to correct me if that's wrong. Now the problem is I don't believe the strategy report was updated. Can you update this report potentially either using your code or using your intelligence, and include all the generated"
+    },
+    {
+      "end_seconds": 1254.131,
+      "id": "youtube-sFefn6R6jYY#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1241.382,
+      "text": "Visualization and analysis and tables in it."
+    },
+    {
+      "end_seconds": 1278.864,
+      "id": "youtube-sFefn6R6jYY#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1254.131,
+      "text": "Okay, strategy report or empty. So it turns out it tries to use the like manual stuff. But one limitation is this is prone to hallucination. So we really wanted to use at least some numbers from the real strategy to it."
+    },
+    {
+      "end_seconds": 1295.294,
+      "id": "youtube-sFefn6R6jYY#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1278.864,
+      "text": "One ask is, could you potentially use some templates, but fill in the actual numbers of the say return and other metrics into this document to prevent any potential hallucination?"
+    },
+    {
+      "end_seconds": 1306.192,
+      "id": "youtube-sFefn6R6jYY#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1295.294,
+      "text": "But you can still definitely do your own analysis somewhere. All right."
+    },
+    {
+      "end_seconds": 1335.687,
+      "id": "youtube-sFefn6R6jYY#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1306.192,
+      "text": "I mean, you could potentially build a script, build a template, and use the code you just wrote to update it."
+    },
+    {
+      "end_seconds": 1350.992,
+      "id": "youtube-sFefn6R6jYY#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1335.687,
+      "text": "All right, now we get a pretty detailed report, and I still want to really want to see the visualization. Can you include the visualization embedded in the report?"
+    },
+    {
+      "end_seconds": 1375.963,
+      "id": "youtube-sFefn6R6jYY#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1350.992,
+      "text": "But let's review the report while the AI is doing its own stuff. It has overview, generated date, performance summary, which I believe should be correct because we are generating from the code. But in in the reality, is definitely always a good practice to inspect what's going on there. Buy and hold."
+    },
+    {
+      "end_seconds": 1390.82,
+      "id": "youtube-sFefn6R6jYY#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1375.963,
+      "text": "And positions just for spot check. This is good because it allows us humans to indeed check what's going on there. And visualizations."
+    },
+    {
+      "end_seconds": 1408.741,
+      "id": "youtube-sFefn6R6jYY#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1390.82,
+      "text": "All right, now we have this. We have a bunch of visualizations with buy and hold strategy with different return, daily return for different strategies."
+    },
+    {
+      "end_seconds": 1427.926,
+      "id": "youtube-sFefn6R6jYY#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1408.741,
+      "text": "And signal evolution. So, I would say this is a pretty comprehensive and useful report. Also, different cumulative return comparison, value comparison. So, I would say that's pretty good. Let's review what just happened."
+    },
+    {
+      "end_seconds": 1451.663,
+      "id": "youtube-sFefn6R6jYY#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1427.926,
+      "text": "We started from a very simple request of downloading data, and then build the backtesting platform. Then we ask it to implement three alpha strategies, and get the them implemented, backtested, and crosschecked. In this entire process, we only care about the problem definition and scope definition rather than the know hows."
+    },
+    {
+      "end_seconds": 1461.611,
+      "id": "youtube-sFefn6R6jYY#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1451.663,
+      "text": "But just like human interns, our AI may get stuck at somewhere. So we do need to, at the right timing, go to help it out."
+    },
+    {
+      "end_seconds": 1470.059,
+      "id": "youtube-sFefn6R6jYY#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1461.611,
+      "text": "unblock it so that we could push forward the progress, but as we can see here, the entire process is."
+    },
+    {
+      "end_seconds": 1492.602,
+      "id": "youtube-sFefn6R6jYY#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1470.059,
+      "text": "I would say extremely smoother, extremely smooth, and quite smoother than human interns, because I I don't expect that intern would write all this code like this, generate a report, finish all the implementations within what half an hour. So I hope you enjoy this demo, and hope this is inspiring to you as well."
+    }
+  ],
+  "video_id": "sFefn6R6jYY",
+  "yuzheng_stance_weight": "not-evidence"
+}

@@ -42,7 +42,7 @@ def declared(path: Path) -> dict:
     """The rights fields a content file declares about itself."""
     if path.suffix == ".json":
         data = json.loads(path.read_text(encoding="utf-8"))
-        return {"license": data.get("license")}
+        return {key: data.get(key) for key in ("license", "rights_scope", "speaker_classification", "source_type")}
     match = re.match(r"\A---\n(.*?)\n---\n", path.read_text(encoding="utf-8"), re.S)
     fields = {}
     for line in match[1].splitlines() if match else []:

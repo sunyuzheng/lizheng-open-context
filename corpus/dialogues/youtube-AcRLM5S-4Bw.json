@@ -1,0 +1,133 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-AcRLM5S-4Bw",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2024-07-29T04:55:03Z",
+  "participant_aliases": [
+    "Ethan Evans"
+  ],
+  "participant_entity_ids": [
+    "guest:ethan-evans"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Ethan Evans",
+  "public_verified_at": "2026-10-11T01:53:05.648070+00:00",
+  "published_at": "2024-07-29",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "425b882d391132fdd05530b32da6e3456285362e611e87ba90fdff5a5459810a",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "425b882d391132fdd05530b32da6e3456285362e611e87ba90fdff5a5459810a",
+    "root_receipt_sha256": "0eaf43d2f98335fa5b06af15893fc1be2ebd7e2021c32a3e2950a6f7a740cc20",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=AcRLM5S-4Bw",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=AcRLM5S-4Bw",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "亚马逊前VP：我需要的是谋臣和大使",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 22.984,
+      "id": "youtube-AcRLM5S-4Bw#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "Looking for in a senior engineer is can they explain what they're doing to someone less technical, and are they willing to do that? Right? Are they eager or are they resistant? Do they want to participate in the leadership process? Because when I'm promoting, say, someone to principal engineer."
+    },
+    {
+      "end_seconds": 47.371,
+      "id": "youtube-AcRLM5S-4Bw#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.984,
+      "text": "I need that person to do two fundamental tasks for me that are new. I need them to be able to advise me on decisions I need to make, and I need to be able to trust their advice. Which means they need to be right. That's technical ability, but they also need to be able to communicate it to me when I know less than they do about their domain. The second thing is."
+    },
+    {
+      "end_seconds": 59.92,
+      "id": "youtube-AcRLM5S-4Bw#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.371,
+      "text": "Principal engineers or staff engineers, very senior ICs, are often used as a leader's proxy or ambassador. So I want to be able to send my principal engineer."
+    },
+    {
+      "end_seconds": 69.757,
+      "id": "youtube-AcRLM5S-4Bw#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.92,
+      "text": "to the principal engineer for another division, and have them represent what we're trying to do and influence that person."
+    },
+    {
+      "end_seconds": 88.876,
+      "id": "youtube-AcRLM5S-4Bw#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.757,
+      "text": "Because often, if I go talk to my peer, another VP, that VP says, \"Well, maybe we could do that.\" What does my PE say? What does my advisor say? And so I need to be able to send my advisor to their advisor. Picking senior engineers, it does matter that my advisor has the technical skill to be right."
+    },
+    {
+      "end_seconds": 106.605,
+      "id": "youtube-AcRLM5S-4Bw#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.876,
+      "text": "But it also matters that they have the social skill to go talk to the other engineer and convince them. And of course, sometimes it happens that when my principal engineer talks to their principal engineer."
+    },
+    {
+      "end_seconds": 121.204,
+      "id": "youtube-AcRLM5S-4Bw#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 106.605,
+      "text": "Actually, their principal engineer convinces my principal engineer to change his mind, which is can be okay. But then I need someone who can come back to me and say, I talked to that group."
+    },
+    {
+      "end_seconds": 144.383,
+      "id": "youtube-AcRLM5S-4Bw#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.204,
+      "text": "Actually, the plan we had isn't the best, Ethan. We should change our plan to be this. I need someone who can carry that message and explain it to me in a way that I feel good about it, right? That I feel like, oh, okay, we learned something, and changing our plan is a good decision, as opposed to me thinking, for example, like, oh, maybe you just lost the negotiation."
+    },
+    {
+      "end_seconds": 169.599,
+      "id": "youtube-AcRLM5S-4Bw#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.383,
+      "text": "Right. Yeah. Um, and so, uh, when I'm deciding who to promote, I'm looking for those skills. All of these skills have to do with not just building technology, but your ability to explain it, understand it in context, and and influence others. And there's no escaping this."
+    }
+  ],
+  "video_id": "AcRLM5S-4Bw",
+  "yuzheng_stance_weight": "not-evidence"
+}

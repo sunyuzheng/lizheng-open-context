@@ -1,0 +1,4292 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-KiJEjPlQlTA",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-08-16T15:30:21Z",
+  "participant_aliases": [
+    "Du Lei",
+    "杜磊"
+  ],
+  "participant_entity_ids": [
+    "guest:du-lei"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "杜磊",
+  "public_verified_at": "2026-10-11T01:55:04.603476+00:00",
+  "published_at": "2025-08-16",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "a6a9ebb20c2599d4e372d3bb091f2c2c7dd31fcb312fe26f7156b208ca04a12c",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "78ebe40373435f01400bfbe8ce1fd1647843e76fbafa9c4b406ee3a3ae97f1c6",
+    "root_receipt_sha256": "647f2b5eb4400aefada876cbaf643a6f406fd0e7b986213dcaf13f5f25606cea",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=KiJEjPlQlTA",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=KiJEjPlQlTA",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "AI重塑工作流后，会消灭哪些“假工作”？（完整观察与推理）｜软件3.0如何定义？｜当Cursor成为“外脑”｜杜磊_下",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 1.72,
+      "id": "youtube-KiJEjPlQlTA#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "今年以来的话我发现"
+    },
+    {
+      "end_seconds": 3.64,
+      "id": "youtube-KiJEjPlQlTA#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1.72,
+      "text": "我跟Cursor工作的时间"
+    },
+    {
+      "end_seconds": 6.4,
+      "id": "youtube-KiJEjPlQlTA#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.64,
+      "text": "远远超过我跟其他的软件系统"
+    },
+    {
+      "end_seconds": 8.04,
+      "id": "youtube-KiJEjPlQlTA#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.4,
+      "text": "或者人在一起工作的时间"
+    },
+    {
+      "end_seconds": 9.679,
+      "id": "youtube-KiJEjPlQlTA#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.04,
+      "text": "因为软件必须有确定性"
+    },
+    {
+      "end_seconds": 11.32,
+      "id": "youtube-KiJEjPlQlTA#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.679,
+      "text": "每个SaaS为了标准化"
+    },
+    {
+      "end_seconds": 13.24,
+      "id": "youtube-KiJEjPlQlTA#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.32,
+      "text": "把自己的性能做出来的局限"
+    },
+    {
+      "end_seconds": 15.12,
+      "id": "youtube-KiJEjPlQlTA#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.24,
+      "text": "我们这些Ops因为大量的工作"
+    },
+    {
+      "end_seconds": 16.8,
+      "id": "youtube-KiJEjPlQlTA#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.12,
+      "text": "已经外包给了自动化的软件系统"
+    },
+    {
+      "end_seconds": 18.08,
+      "id": "youtube-KiJEjPlQlTA#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.8,
+      "text": "所以我们不得不制造很多"
+    },
+    {
+      "end_seconds": 20.12,
+      "id": "youtube-KiJEjPlQlTA#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.08,
+      "text": "Fake work来充实我们的工作量"
+    },
+    {
+      "end_seconds": 21.559,
+      "id": "youtube-KiJEjPlQlTA#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.12,
+      "text": "于是大量的Fake work产生了"
+    },
+    {
+      "end_seconds": 22.839,
+      "id": "youtube-KiJEjPlQlTA#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.559,
+      "text": "大量的会议产生了"
+    },
+    {
+      "end_seconds": 28.16,
+      "id": "youtube-KiJEjPlQlTA#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.28,
+      "text": "那你一直站在这种信息的前沿"
+    },
+    {
+      "end_seconds": 31.16,
+      "id": "youtube-KiJEjPlQlTA#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.199,
+      "text": "那你可不可以跟大家分享一下"
+    },
+    {
+      "end_seconds": 33.759,
+      "id": "youtube-KiJEjPlQlTA#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.16,
+      "text": "这一年意识到的一些比较重要的事情"
+    },
+    {
+      "end_seconds": 35.56,
+      "id": "youtube-KiJEjPlQlTA#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.759,
+      "text": "你希望大家Pay more attention to"
+    },
+    {
+      "end_seconds": 38.96,
+      "id": "youtube-KiJEjPlQlTA#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.56,
+      "text": "以前的话可能工作需要一个很大的团队"
+    },
+    {
+      "end_seconds": 39.84,
+      "id": "youtube-KiJEjPlQlTA#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.96,
+      "text": "作为投资人"
+    },
+    {
+      "end_seconds": 42.519,
+      "id": "youtube-KiJEjPlQlTA#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.84,
+      "text": "我们需要去和很多Analysts"
+    },
+    {
+      "end_seconds": 43.56,
+      "id": "youtube-KiJEjPlQlTA#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.519,
+      "text": "和我们一起工作"
+    },
+    {
+      "end_seconds": 45.0,
+      "id": "youtube-KiJEjPlQlTA#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.56,
+      "text": "但是这一年以来的话"
+    },
+    {
+      "end_seconds": 47.12,
+      "id": "youtube-KiJEjPlQlTA#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.0,
+      "text": "我发现大量的这种Busy work"
+    },
+    {
+      "end_seconds": 48.96,
+      "id": "youtube-KiJEjPlQlTA#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.12,
+      "text": "都已经就被AI取代了"
+    },
+    {
+      "end_seconds": 50.48,
+      "id": "youtube-KiJEjPlQlTA#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.96,
+      "text": "作为一个投资人"
+    },
+    {
+      "end_seconds": 52.6,
+      "id": "youtube-KiJEjPlQlTA#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.48,
+      "text": "我们的工作就是主动的"
+    },
+    {
+      "end_seconds": 54.12,
+      "id": "youtube-KiJEjPlQlTA#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.6,
+      "text": "摄取大量的公开的"
+    },
+    {
+      "end_seconds": 55.28,
+      "id": "youtube-KiJEjPlQlTA#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.12,
+      "text": "或者非公开的信息"
+    },
+    {
+      "end_seconds": 57.2,
+      "id": "youtube-KiJEjPlQlTA#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.28,
+      "text": "把这个信息吸纳进来"
+    },
+    {
+      "end_seconds": 59.72,
+      "id": "youtube-KiJEjPlQlTA#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.24,
+      "text": "然后去形成某种框架"
+    },
+    {
+      "end_seconds": 62.04,
+      "id": "youtube-KiJEjPlQlTA#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.72,
+      "text": "然后去形成某种Thesis"
+    },
+    {
+      "end_seconds": 63.76,
+      "id": "youtube-KiJEjPlQlTA#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.04,
+      "text": "做出一些自以为"
+    },
+    {
+      "end_seconds": 66.68,
+      "id": "youtube-KiJEjPlQlTA#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.76,
+      "text": "基于理性思考做出的决策"
+    },
+    {
+      "end_seconds": 67.48,
+      "id": "youtube-KiJEjPlQlTA#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.68,
+      "text": "对我们来说的话"
+    },
+    {
+      "end_seconds": 69.76,
+      "id": "youtube-KiJEjPlQlTA#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.48,
+      "text": "重要的就是我们能收集到多少"
+    },
+    {
+      "end_seconds": 71.4,
+      "id": "youtube-KiJEjPlQlTA#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.76,
+      "text": "unique的别人没有的信息"
+    },
+    {
+      "end_seconds": 74.359,
+      "id": "youtube-KiJEjPlQlTA#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.4,
+      "text": "然后我们这些信息能有多高的决策质量"
+    },
+    {
+      "end_seconds": 75.56,
+      "id": "youtube-KiJEjPlQlTA#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.359,
+      "text": "今年以来的话"
+    },
+    {
+      "end_seconds": 78.8,
+      "id": "youtube-KiJEjPlQlTA#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.56,
+      "text": "我发现我跟Cursor工作的时间"
+    },
+    {
+      "end_seconds": 82.04,
+      "id": "youtube-KiJEjPlQlTA#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.8,
+      "text": "远远超过我跟其他的软件系统"
+    },
+    {
+      "end_seconds": 84.04,
+      "id": "youtube-KiJEjPlQlTA#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.04,
+      "text": "或者人在一起工作的时间"
+    },
+    {
+      "end_seconds": 85.64,
+      "id": "youtube-KiJEjPlQlTA#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.04,
+      "text": "我用Cursor的方式"
+    },
+    {
+      "end_seconds": 88.56,
+      "id": "youtube-KiJEjPlQlTA#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.68,
+      "text": "也从这个东西帮我写code很好"
+    },
+    {
+      "end_seconds": 91.359,
+      "id": "youtube-KiJEjPlQlTA#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.56,
+      "text": "变成了说Cursor变成了我的外脑"
+    },
+    {
+      "end_seconds": 94.64,
+      "id": "youtube-KiJEjPlQlTA#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.359,
+      "text": "Cursor变成一个信息的knowledge base"
+    },
+    {
+      "end_seconds": 97.439,
+      "id": "youtube-KiJEjPlQlTA#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.64,
+      "text": "我所有吸纳到的信息"
+    },
+    {
+      "end_seconds": 99.2,
+      "id": "youtube-KiJEjPlQlTA#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.439,
+      "text": "我都会直接就把它保存到"
+    },
+    {
+      "end_seconds": 102.159,
+      "id": "youtube-KiJEjPlQlTA#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.2,
+      "text": "我自己本地的一个信息的vault里面去"
+    },
+    {
+      "end_seconds": 104.2,
+      "id": "youtube-KiJEjPlQlTA#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.159,
+      "text": "所有的会议所有的人"
+    },
+    {
+      "end_seconds": 105.319,
+      "id": "youtube-KiJEjPlQlTA#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 104.2,
+      "text": "所有的organization"
+    },
+    {
+      "end_seconds": 106.64,
+      "id": "youtube-KiJEjPlQlTA#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.319,
+      "text": "就是传统的CRM"
+    },
+    {
+      "end_seconds": 108.24,
+      "id": "youtube-KiJEjPlQlTA#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 106.64,
+      "text": "是一个很复杂的数据库系统"
+    },
+    {
+      "end_seconds": 109.799,
+      "id": "youtube-KiJEjPlQlTA#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.24,
+      "text": "但是这种东西现在看起来"
+    },
+    {
+      "end_seconds": 110.68,
+      "id": "youtube-KiJEjPlQlTA#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.799,
+      "text": "都没有什么用了"
+    },
+    {
+      "end_seconds": 112.2,
+      "id": "youtube-KiJEjPlQlTA#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.68,
+      "text": "我现在完全的构建了"
+    },
+    {
+      "end_seconds": 115.159,
+      "id": "youtube-KiJEjPlQlTA#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.2,
+      "text": "一个agent base的这么一个外脑"
+    },
+    {
+      "end_seconds": 117.759,
+      "id": "youtube-KiJEjPlQlTA#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.159,
+      "text": "我的思维我的信息"
+    },
+    {
+      "end_seconds": 119.359,
+      "id": "youtube-KiJEjPlQlTA#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.759,
+      "text": "在这个外脑里不断的沉淀"
+    },
+    {
+      "end_seconds": 120.879,
+      "id": "youtube-KiJEjPlQlTA#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.359,
+      "text": "在这个过程里面的话"
+    },
+    {
+      "end_seconds": 124.159,
+      "id": "youtube-KiJEjPlQlTA#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 120.879,
+      "text": "我发现说个人正在逐渐的变成"
+    },
+    {
+      "end_seconds": 126.039,
+      "id": "youtube-KiJEjPlQlTA#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 124.159,
+      "text": "以前想都不敢想的超级个体"
+    },
+    {
+      "end_seconds": 127.159,
+      "id": "youtube-KiJEjPlQlTA#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 126.039,
+      "text": "我不再需要一个团队了"
+    },
+    {
+      "end_seconds": 128.519,
+      "id": "youtube-KiJEjPlQlTA#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.159,
+      "text": "我自己和我的Cursor"
+    },
+    {
+      "end_seconds": 129.759,
+      "id": "youtube-KiJEjPlQlTA#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.519,
+      "text": "就是一个很大的团队"
+    },
+    {
+      "end_seconds": 132.12,
+      "id": "youtube-KiJEjPlQlTA#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 129.759,
+      "text": "我相信不止我一个人是这么用的"
+    },
+    {
+      "end_seconds": 135.359,
+      "id": "youtube-KiJEjPlQlTA#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.12,
+      "text": "有很多人在这么使用这样的软件系统"
+    },
+    {
+      "end_seconds": 137.28,
+      "id": "youtube-KiJEjPlQlTA#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.359,
+      "text": "AI作为一种工具的话"
+    },
+    {
+      "end_seconds": 140.159,
+      "id": "youtube-KiJEjPlQlTA#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.28,
+      "text": "跟之前指代的工具最大的区别就是"
+    },
+    {
+      "end_seconds": 142.319,
+      "id": "youtube-KiJEjPlQlTA#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.159,
+      "text": "它是一个极度灵活"
+    },
+    {
+      "end_seconds": 144.719,
+      "id": "youtube-KiJEjPlQlTA#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 142.319,
+      "text": "然后非常robust的一个interface"
+    },
+    {
+      "end_seconds": 146.599,
+      "id": "youtube-KiJEjPlQlTA#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.719,
+      "text": "传统的软件"
+    },
+    {
+      "end_seconds": 148.52,
+      "id": "youtube-KiJEjPlQlTA#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 146.599,
+      "text": "因为软件必须有确定性"
+    },
+    {
+      "end_seconds": 149.879,
+      "id": "youtube-KiJEjPlQlTA#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 148.52,
+      "text": "当你基于确定性"
+    },
+    {
+      "end_seconds": 151.68,
+      "id": "youtube-KiJEjPlQlTA#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.879,
+      "text": "去构建一个软件系统的时候"
+    },
+    {
+      "end_seconds": 153.36,
+      "id": "youtube-KiJEjPlQlTA#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.68,
+      "text": "就是用AI来做对比的话"
+    },
+    {
+      "end_seconds": 154.8,
+      "id": "youtube-KiJEjPlQlTA#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.36,
+      "text": "要做一个非常蠢的AI"
+    },
+    {
+      "end_seconds": 158.639,
+      "id": "youtube-KiJEjPlQlTA#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 155.759,
+      "text": "一旦一件事情被你压缩成了一个"
+    },
+    {
+      "end_seconds": 160.28,
+      "id": "youtube-KiJEjPlQlTA#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.639,
+      "text": "极度consistent"
+    },
+    {
+      "end_seconds": 161.599,
+      "id": "youtube-KiJEjPlQlTA#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.28,
+      "text": "极度确定性"
+    },
+    {
+      "end_seconds": 163.8,
+      "id": "youtube-KiJEjPlQlTA#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.599,
+      "text": "能让每个人在每个时候"
+    },
+    {
+      "end_seconds": 166.0,
+      "id": "youtube-KiJEjPlQlTA#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.8,
+      "text": "换成各种各样的context"
+    },
+    {
+      "end_seconds": 168.159,
+      "id": "youtube-KiJEjPlQlTA#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 166.0,
+      "text": "都能有效的使用的这个软件的时候"
+    },
+    {
+      "end_seconds": 170.56,
+      "id": "youtube-KiJEjPlQlTA#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.159,
+      "text": "你也被他的opinion局限在了"
+    },
+    {
+      "end_seconds": 173.319,
+      "id": "youtube-KiJEjPlQlTA#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 170.56,
+      "text": "他的口径和使用的范式里头"
+    },
+    {
+      "end_seconds": 174.759,
+      "id": "youtube-KiJEjPlQlTA#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.359,
+      "text": "虽然软件能不能干"
+    },
+    {
+      "end_seconds": 176.799,
+      "id": "youtube-KiJEjPlQlTA#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 174.759,
+      "text": "我现在干的很多事情都可以干"
+    },
+    {
+      "end_seconds": 178.84,
+      "id": "youtube-KiJEjPlQlTA#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 176.799,
+      "text": "但是你的过程就会变成"
+    },
+    {
+      "end_seconds": 179.599,
+      "id": "youtube-KiJEjPlQlTA#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 178.84,
+      "text": "click click click"
+    },
+    {
+      "end_seconds": 180.359,
+      "id": "youtube-KiJEjPlQlTA#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.599,
+      "text": "就是不停的点"
+    },
+    {
+      "end_seconds": 181.4,
+      "id": "youtube-KiJEjPlQlTA#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.359,
+      "text": "点很多东西"
+    },
+    {
+      "end_seconds": 183.039,
+      "id": "youtube-KiJEjPlQlTA#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 181.4,
+      "text": "你会发现你的工作流是"
+    },
+    {
+      "end_seconds": 186.159,
+      "id": "youtube-KiJEjPlQlTA#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.039,
+      "text": "围绕着它底层的几个数据库的设计来的"
+    },
+    {
+      "end_seconds": 187.719,
+      "id": "youtube-KiJEjPlQlTA#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.159,
+      "text": "我绕不开它的数据库"
+    },
+    {
+      "end_seconds": 189.799,
+      "id": "youtube-KiJEjPlQlTA#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 187.719,
+      "text": "我变成它数据库的奴隶"
+    },
+    {
+      "end_seconds": 194.84,
+      "id": "youtube-KiJEjPlQlTA#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 189.799,
+      "text": "所以为了获得这种PLG的广域的适应性"
+    },
+    {
+      "end_seconds": 196.599,
+      "id": "youtube-KiJEjPlQlTA#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 194.84,
+      "text": "牺牲了大量的灵活度"
+    },
+    {
+      "end_seconds": 198.24,
+      "id": "youtube-KiJEjPlQlTA#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 196.599,
+      "text": "和牺牲了大量的能力"
+    },
+    {
+      "end_seconds": 200.56,
+      "id": "youtube-KiJEjPlQlTA#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 198.24,
+      "text": "这个过程里边就会变成说"
+    },
+    {
+      "end_seconds": 202.319,
+      "id": "youtube-KiJEjPlQlTA#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 200.56,
+      "text": "到底是我在使用这个软件"
+    },
+    {
+      "end_seconds": 205.079,
+      "id": "youtube-KiJEjPlQlTA#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 202.319,
+      "text": "还是软件在规划我"
+    },
+    {
+      "end_seconds": 207.84,
+      "id": "youtube-KiJEjPlQlTA#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 205.079,
+      "text": "我大量的在这个工作里边"
+    },
+    {
+      "end_seconds": 210.319,
+      "id": "youtube-KiJEjPlQlTA#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 207.84,
+      "text": "付出的时间是更本质性的工作"
+    },
+    {
+      "end_seconds": 211.599,
+      "id": "youtube-KiJEjPlQlTA#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 210.319,
+      "text": "比如说我用Cursor这个过程"
+    },
+    {
+      "end_seconds": 214.0,
+      "id": "youtube-KiJEjPlQlTA#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.599,
+      "text": "我知道说这15秒的时间"
+    },
+    {
+      "end_seconds": 215.319,
+      "id": "youtube-KiJEjPlQlTA#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.0,
+      "text": "我在捕获这个信息"
+    },
+    {
+      "end_seconds": 217.519,
+      "id": "youtube-KiJEjPlQlTA#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 215.319,
+      "text": "可能捕获的动作来自于说"
+    },
+    {
+      "end_seconds": 220.439,
+      "id": "youtube-KiJEjPlQlTA#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 217.519,
+      "text": "我把一个长篇的文章"
+    },
+    {
+      "end_seconds": 222.0,
+      "id": "youtube-KiJEjPlQlTA#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.439,
+      "text": "或者我的一个会议记录"
+    },
+    {
+      "end_seconds": 223.0,
+      "id": "youtube-KiJEjPlQlTA#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.0,
+      "text": "扔进Cursor说"
+    },
+    {
+      "end_seconds": 226.599,
+      "id": "youtube-KiJEjPlQlTA#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.0,
+      "text": "把这个东西给我整理成CRM的一个item"
+    },
+    {
+      "end_seconds": 229.0,
+      "id": "youtube-KiJEjPlQlTA#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 226.599,
+      "text": "Cursor会按照我自己提前写好的prompt"
+    },
+    {
+      "end_seconds": 230.879,
+      "id": "youtube-KiJEjPlQlTA#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.0,
+      "text": "去寻找到这整个会议记录里边"
+    },
+    {
+      "end_seconds": 234.799,
+      "id": "youtube-KiJEjPlQlTA#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 230.879,
+      "text": "提到的所有的公司所有的基金所有的人"
+    },
+    {
+      "end_seconds": 237.84,
+      "id": "youtube-KiJEjPlQlTA#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 234.799,
+      "text": "然后去在所有的这些record里面做update"
+    },
+    {
+      "end_seconds": 239.24,
+      "id": "youtube-KiJEjPlQlTA#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.84,
+      "text": "我知道这个过程15秒"
+    },
+    {
+      "end_seconds": 241.0,
+      "id": "youtube-KiJEjPlQlTA#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 239.24,
+      "text": "这个对我来说是一个捕获的过程"
+    },
+    {
+      "end_seconds": 243.0,
+      "id": "youtube-KiJEjPlQlTA#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 241.0,
+      "text": "但这事如果在CRM里干的话"
+    },
+    {
+      "end_seconds": 244.759,
+      "id": "youtube-KiJEjPlQlTA#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 243.0,
+      "text": "我要服务CRM"
+    },
+    {
+      "end_seconds": 247.599,
+      "id": "youtube-KiJEjPlQlTA#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 244.759,
+      "text": "我要手动的或者半自动的去寻找到"
+    },
+    {
+      "end_seconds": 249.039,
+      "id": "youtube-KiJEjPlQlTA#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.599,
+      "text": "这些重要的record"
+    },
+    {
+      "end_seconds": 251.479,
+      "id": "youtube-KiJEjPlQlTA#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.039,
+      "text": "我要点点点点点去把这个东西都升级一遍"
+    },
+    {
+      "end_seconds": 253.879,
+      "id": "youtube-KiJEjPlQlTA#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 251.479,
+      "text": "所以其实是那个database"
+    },
+    {
+      "end_seconds": 255.519,
+      "id": "youtube-KiJEjPlQlTA#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 253.879,
+      "text": "再用他的需求"
+    },
+    {
+      "end_seconds": 258.68,
+      "id": "youtube-KiJEjPlQlTA#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 255.519,
+      "text": "把我当成一个人肉agent来为他服务"
+    },
+    {
+      "end_seconds": 260.04,
+      "id": "youtube-KiJEjPlQlTA#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 258.72,
+      "text": "也就为什么很有可能"
+    },
+    {
+      "end_seconds": 261.6,
+      "id": "youtube-KiJEjPlQlTA#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 260.04,
+      "text": "就是一个工作随着人数"
+    },
+    {
+      "end_seconds": 263.84,
+      "id": "youtube-KiJEjPlQlTA#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.6,
+      "text": "他反而创造了指数性多的工作"
+    },
+    {
+      "end_seconds": 266.439,
+      "id": "youtube-KiJEjPlQlTA#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 263.84,
+      "text": "对你说到的这个指数性多的工作"
+    },
+    {
+      "end_seconds": 268.079,
+      "id": "youtube-KiJEjPlQlTA#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 266.439,
+      "text": "是一个非常重要的点"
+    },
+    {
+      "end_seconds": 269.879,
+      "id": "youtube-KiJEjPlQlTA#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 268.079,
+      "text": "就是工作的组织正在变化"
+    },
+    {
+      "end_seconds": 272.16,
+      "id": "youtube-KiJEjPlQlTA#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.879,
+      "text": "我们看到的一个趋势是说"
+    },
+    {
+      "end_seconds": 275.96,
+      "id": "youtube-KiJEjPlQlTA#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 272.16,
+      "text": "工作和人和工具的组织形式"
+    },
+    {
+      "end_seconds": 278.84,
+      "id": "youtube-KiJEjPlQlTA#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.96,
+      "text": "是按照这个软件被软件塑造的"
+    },
+    {
+      "end_seconds": 280.28,
+      "id": "youtube-KiJEjPlQlTA#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 278.84,
+      "text": "然后一代一代变化的"
+    },
+    {
+      "end_seconds": 282.879,
+      "id": "youtube-KiJEjPlQlTA#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 280.28,
+      "text": "那如果我们去想说软件1.0的时代"
+    },
+    {
+      "end_seconds": 284.16,
+      "id": "youtube-KiJEjPlQlTA#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.879,
+      "text": "公司的组织是什么样的"
+    },
+    {
+      "end_seconds": 287.04,
+      "id": "youtube-KiJEjPlQlTA#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 284.16,
+      "text": "就是公司有这个公司的最高层的管理层"
+    },
+    {
+      "end_seconds": 289.04,
+      "id": "youtube-KiJEjPlQlTA#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 287.04,
+      "text": "就是我们所谓说的这个CEO"
+    },
+    {
+      "end_seconds": 292.12,
+      "id": "youtube-KiJEjPlQlTA#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 289.04,
+      "text": "这个层级的人要制定这个公司的strategy"
+    },
+    {
+      "end_seconds": 294.76,
+      "id": "youtube-KiJEjPlQlTA#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 292.12,
+      "text": "就是公司的策略和大的企业的方向"
+    },
+    {
+      "end_seconds": 296.28,
+      "id": "youtube-KiJEjPlQlTA#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 294.76,
+      "text": "这个公司会有很多中层"
+    },
+    {
+      "end_seconds": 298.439,
+      "id": "youtube-KiJEjPlQlTA#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 296.28,
+      "text": "就是经理们总监们"
+    },
+    {
+      "end_seconds": 301.32,
+      "id": "youtube-KiJEjPlQlTA#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 298.439,
+      "text": "经理和总监会决定公司执行的流程"
+    },
+    {
+      "end_seconds": 303.36,
+      "id": "youtube-KiJEjPlQlTA#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.32,
+      "text": "然后下面会有大量的执行者"
+    },
+    {
+      "end_seconds": 306.84,
+      "id": "youtube-KiJEjPlQlTA#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 303.36,
+      "text": "就是所谓的IC运营和工程师开发"
+    },
+    {
+      "end_seconds": 310.08,
+      "id": "youtube-KiJEjPlQlTA#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 306.84,
+      "text": "这些人是在按照最顶层设计的策略"
+    },
+    {
+      "end_seconds": 311.8,
+      "id": "youtube-KiJEjPlQlTA#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 310.08,
+      "text": "和中层设计的流程里面"
+    },
+    {
+      "end_seconds": 313.4,
+      "id": "youtube-KiJEjPlQlTA#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 311.8,
+      "text": "做具体的任务的执行"
+    },
+    {
+      "end_seconds": 315.96,
+      "id": "youtube-KiJEjPlQlTA#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 313.4,
+      "text": "做这个具体任务执行的话你需要软件"
+    },
+    {
+      "end_seconds": 318.039,
+      "id": "youtube-KiJEjPlQlTA#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.079,
+      "text": "这个软件在1.0的时代"
+    },
+    {
+      "end_seconds": 321.12,
+      "id": "youtube-KiJEjPlQlTA#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 318.039,
+      "text": "是公司内部的IT部门在做的"
+    },
+    {
+      "end_seconds": 324.039,
+      "id": "youtube-KiJEjPlQlTA#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 321.12,
+      "text": "大家在用Windows很多软件都是定制化的"
+    },
+    {
+      "end_seconds": 325.399,
+      "id": "youtube-KiJEjPlQlTA#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.039,
+      "text": "这是最早最早的软件"
+    },
+    {
+      "end_seconds": 326.799,
+      "id": "youtube-KiJEjPlQlTA#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 325.399,
+      "text": "到了2.0的时代"
+    },
+    {
+      "end_seconds": 329.039,
+      "id": "youtube-KiJEjPlQlTA#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.799,
+      "text": "公司企业组织形式变成了说"
+    },
+    {
+      "end_seconds": 332.039,
+      "id": "youtube-KiJEjPlQlTA#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 329.039,
+      "text": "公司内部的IT department被剥离出来"
+    },
+    {
+      "end_seconds": 335.439,
+      "id": "youtube-KiJEjPlQlTA#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 332.039,
+      "text": "被外包变成了市面上无数的SaaS公司"
+    },
+    {
+      "end_seconds": 337.799,
+      "id": "youtube-KiJEjPlQlTA#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 335.439,
+      "text": "这个IT部门消失了被犯了"
+    },
+    {
+      "end_seconds": 340.639,
+      "id": "youtube-KiJEjPlQlTA#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 337.799,
+      "text": "解放到了社会上的很多公司"
+    },
+    {
+      "end_seconds": 344.56,
+      "id": "youtube-KiJEjPlQlTA#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 340.639,
+      "text": "这些公司把这些IT部门需要构建的特化的应用软件"
+    },
+    {
+      "end_seconds": 346.519,
+      "id": "youtube-KiJEjPlQlTA#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 344.56,
+      "text": "变成了Product-led Growth的这种"
+    },
+    {
+      "end_seconds": 350.12,
+      "id": "youtube-KiJEjPlQlTA#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 346.519,
+      "text": "标准化的云端的服务化的软件"
+    },
+    {
+      "end_seconds": 352.04,
+      "id": "youtube-KiJEjPlQlTA#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 350.12,
+      "text": "这些软件通常销售给企业的时候"
+    },
+    {
+      "end_seconds": 354.04,
+      "id": "youtube-KiJEjPlQlTA#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.04,
+      "text": "都是按照座位做订阅的对吧"
+    },
+    {
+      "end_seconds": 357.72,
+      "id": "youtube-KiJEjPlQlTA#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.04,
+      "text": "整个IT department的原来是内化的公司里面"
+    },
+    {
+      "end_seconds": 359.04,
+      "id": "youtube-KiJEjPlQlTA#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 357.72,
+      "text": "现在整个被外包出来"
+    },
+    {
+      "end_seconds": 360.8,
+      "id": "youtube-KiJEjPlQlTA#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 359.04,
+      "text": "企业里面的执行层"
+    },
+    {
+      "end_seconds": 364.8,
+      "id": "youtube-KiJEjPlQlTA#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 360.8,
+      "text": "他们的工作的内容变成了每个具体的运营"
+    },
+    {
+      "end_seconds": 368.319,
+      "id": "youtube-KiJEjPlQlTA#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 364.8,
+      "text": "需要对接几十个外部的SaaS的Lego piece"
+    },
+    {
+      "end_seconds": 371.199,
+      "id": "youtube-KiJEjPlQlTA#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.319,
+      "text": "每个公司的IT部门不再构建这个piece"
+    },
+    {
+      "end_seconds": 375.399,
+      "id": "youtube-KiJEjPlQlTA#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.199,
+      "text": "而是说我去市面上去采购10个Lego拼图"
+    },
+    {
+      "end_seconds": 377.519,
+      "id": "youtube-KiJEjPlQlTA#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 375.399,
+      "text": "把它拼成一个东西给我的运营用"
+    },
+    {
+      "end_seconds": 379.039,
+      "id": "youtube-KiJEjPlQlTA#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 377.519,
+      "text": "运营的技能变成了说"
+    },
+    {
+      "end_seconds": 381.92,
+      "id": "youtube-KiJEjPlQlTA#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.039,
+      "text": "我熟练掌握外边的这20个SaaS模块"
+    },
+    {
+      "end_seconds": 383.519,
+      "id": "youtube-KiJEjPlQlTA#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.92,
+      "text": "但是因为我们刚才聊到的"
+    },
+    {
+      "end_seconds": 385.959,
+      "id": "youtube-KiJEjPlQlTA#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 383.519,
+      "text": "每个SaaS为了标准化"
+    },
+    {
+      "end_seconds": 388.8,
+      "id": "youtube-KiJEjPlQlTA#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 385.959,
+      "text": "为了和别的Lego能拼在一起"
+    },
+    {
+      "end_seconds": 391.0,
+      "id": "youtube-KiJEjPlQlTA#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 388.8,
+      "text": "把自己的性能做出来的局限"
+    },
+    {
+      "end_seconds": 393.639,
+      "id": "youtube-KiJEjPlQlTA#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 391.0,
+      "text": "这里面创造出了大量的没有意义的basic work"
+    },
+    {
+      "end_seconds": 397.959,
+      "id": "youtube-KiJEjPlQlTA#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 393.639,
+      "text": "同时因为大量的本质的工作和生产行为"
+    },
+    {
+      "end_seconds": 400.279,
+      "id": "youtube-KiJEjPlQlTA#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 397.959,
+      "text": "已经被那些SaaS里面自动化了"
+    },
+    {
+      "end_seconds": 402.599,
+      "id": "youtube-KiJEjPlQlTA#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 400.279,
+      "text": "所以企业内部这一层运营"
+    },
+    {
+      "end_seconds": 405.559,
+      "id": "youtube-KiJEjPlQlTA#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 402.599,
+      "text": "再变成一个胶水层"
+    },
+    {
+      "end_seconds": 408.599,
+      "id": "youtube-KiJEjPlQlTA#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 405.559,
+      "text": "我们如果用human loop AI的方式来理解的话"
+    },
+    {
+      "end_seconds": 410.359,
+      "id": "youtube-KiJEjPlQlTA#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 408.599,
+      "text": "它们就是human loop"
+    },
+    {
+      "end_seconds": 413.559,
+      "id": "youtube-KiJEjPlQlTA#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.359,
+      "text": "所以胶水层做大量的只有人能做的判断"
+    },
+    {
+      "end_seconds": 415.599,
+      "id": "youtube-KiJEjPlQlTA#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.559,
+      "text": "而这个判断的难度其实不高"
+    },
+    {
+      "end_seconds": 416.759,
+      "id": "youtube-KiJEjPlQlTA#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 415.599,
+      "text": "就是大量的认知"
+    },
+    {
+      "end_seconds": 419.039,
+      "id": "youtube-KiJEjPlQlTA#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 416.759,
+      "text": "或者类似于标注性质的判断"
+    },
+    {
+      "end_seconds": 422.079,
+      "id": "youtube-KiJEjPlQlTA#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 419.039,
+      "text": "我们可以假装说我们在做很多很有意义的工作"
+    },
+    {
+      "end_seconds": 423.639,
+      "id": "youtube-KiJEjPlQlTA#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 422.079,
+      "text": "但是作为企业的执行层"
+    },
+    {
+      "end_seconds": 424.679,
+      "id": "youtube-KiJEjPlQlTA#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 423.639,
+      "text": "我们知道大量的工作"
+    },
+    {
+      "end_seconds": 427.239,
+      "id": "youtube-KiJEjPlQlTA#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.679,
+      "text": "我们在反重的把软件系统A里面的东西"
+    },
+    {
+      "end_seconds": 428.519,
+      "id": "youtube-KiJEjPlQlTA#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.239,
+      "text": "弄到软件系统B"
+    },
+    {
+      "end_seconds": 430.719,
+      "id": "youtube-KiJEjPlQlTA#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 428.56,
+      "text": "这个是一个很典型的用Notion的体验"
+    },
+    {
+      "end_seconds": 433.399,
+      "id": "youtube-KiJEjPlQlTA#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 430.719,
+      "text": "很多时候我用Notion砸进去的时间"
+    },
+    {
+      "end_seconds": 434.319,
+      "id": "youtube-KiJEjPlQlTA#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 433.399,
+      "text": "是在用Notion"
+    },
+    {
+      "end_seconds": 441.879,
+      "id": "youtube-KiJEjPlQlTA#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 434.319,
+      "text": "整理和归纳和管理这些软件系统的工作"
+    },
+    {
+      "end_seconds": 443.0,
+      "id": "youtube-KiJEjPlQlTA#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 441.879,
+      "text": "这都是假的工作"
+    },
+    {
+      "end_seconds": 445.199,
+      "id": "youtube-KiJEjPlQlTA#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 443.0,
+      "text": "我们这些ops因为大量的工作"
+    },
+    {
+      "end_seconds": 447.24,
+      "id": "youtube-KiJEjPlQlTA#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 445.199,
+      "text": "已经外包给了自动化的软件系统"
+    },
+    {
+      "end_seconds": 449.68,
+      "id": "youtube-KiJEjPlQlTA#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 447.24,
+      "text": "所以我们不得不制造很多fake work"
+    },
+    {
+      "end_seconds": 451.199,
+      "id": "youtube-KiJEjPlQlTA#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 449.68,
+      "text": "来充实我们的工作量"
+    },
+    {
+      "end_seconds": 453.759,
+      "id": "youtube-KiJEjPlQlTA#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.199,
+      "text": "毕竟我们每周要来上这么多小时的班"
+    },
+    {
+      "end_seconds": 455.479,
+      "id": "youtube-KiJEjPlQlTA#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 453.759,
+      "text": "于是大量的fake work产生了"
+    },
+    {
+      "end_seconds": 457.12,
+      "id": "youtube-KiJEjPlQlTA#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.479,
+      "text": "大量的会议产生了"
+    },
+    {
+      "end_seconds": 459.6,
+      "id": "youtube-KiJEjPlQlTA#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 457.12,
+      "text": "大量的跨部门的coordination"
+    },
+    {
+      "end_seconds": 461.72,
+      "id": "youtube-KiJEjPlQlTA#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 459.6,
+      "text": "大量的meeting notes"
+    },
+    {
+      "end_seconds": 462.399,
+      "id": "youtube-KiJEjPlQlTA#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.72,
+      "text": "memo"
+    },
+    {
+      "end_seconds": 463.8,
+      "id": "youtube-KiJEjPlQlTA#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 462.399,
+      "text": "spec产生了"
+    },
+    {
+      "end_seconds": 466.16,
+      "id": "youtube-KiJEjPlQlTA#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 463.8,
+      "text": "甚至我们之前说的很多DI work"
+    },
+    {
+      "end_seconds": 467.399,
+      "id": "youtube-KiJEjPlQlTA#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 466.16,
+      "text": "在这个过程里面"
+    },
+    {
+      "end_seconds": 470.079,
+      "id": "youtube-KiJEjPlQlTA#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 467.399,
+      "text": "形成了这么一个人肉的阶层"
+    },
+    {
+      "end_seconds": 472.079,
+      "id": "youtube-KiJEjPlQlTA#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 470.079,
+      "text": "科技公司Software E的world"
+    },
+    {
+      "end_seconds": 475.12,
+      "id": "youtube-KiJEjPlQlTA#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 472.079,
+      "text": "我们创造了大量的工作的内容"
+    },
+    {
+      "end_seconds": 477.92,
+      "id": "youtube-KiJEjPlQlTA#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 475.12,
+      "text": "但是这个内容已经被自动化的情况下"
+    },
+    {
+      "end_seconds": 480.6,
+      "id": "youtube-KiJEjPlQlTA#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 477.92,
+      "text": "这些运营在浪费大量的时间"
+    },
+    {
+      "end_seconds": 481.84,
+      "id": "youtube-KiJEjPlQlTA#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 480.6,
+      "text": "在做假的工作"
+    },
+    {
+      "end_seconds": 483.0,
+      "id": "youtube-KiJEjPlQlTA#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 481.84,
+      "text": "那我们快进到3.0"
+    },
+    {
+      "end_seconds": 485.759,
+      "id": "youtube-KiJEjPlQlTA#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 483.0,
+      "text": "AI系统正在替换掉很多这种"
+    },
+    {
+      "end_seconds": 487.079,
+      "id": "youtube-KiJEjPlQlTA#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 485.8,
+      "text": "白领的假的工作"
+    },
+    {
+      "end_seconds": 488.439,
+      "id": "youtube-KiJEjPlQlTA#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 487.079,
+      "text": "所谓的文书的工作"
+    },
+    {
+      "end_seconds": 490.68,
+      "id": "youtube-KiJEjPlQlTA#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 488.439,
+      "text": "就是律师起草一个公文的工作"
+    },
+    {
+      "end_seconds": 492.319,
+      "id": "youtube-KiJEjPlQlTA#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 490.68,
+      "text": "这种类标注的"
+    },
+    {
+      "end_seconds": 493.439,
+      "id": "youtube-KiJEjPlQlTA#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 492.319,
+      "text": "类似创造"
+    },
+    {
+      "end_seconds": 495.8,
+      "id": "youtube-KiJEjPlQlTA#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 493.439,
+      "text": "但其实是在按照一个template"
+    },
+    {
+      "end_seconds": 497.12,
+      "id": "youtube-KiJEjPlQlTA#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.8,
+      "text": "用人类的认知能力"
+    },
+    {
+      "end_seconds": 498.959,
+      "id": "youtube-KiJEjPlQlTA#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 497.12,
+      "text": "做一个灵活的template creation的"
+    },
+    {
+      "end_seconds": 501.12,
+      "id": "youtube-KiJEjPlQlTA#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.959,
+      "text": "这种类型工作被AI替换掉了"
+    },
+    {
+      "end_seconds": 504.92,
+      "id": "youtube-KiJEjPlQlTA#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.12,
+      "text": "于是我们看到大量的这种潜在的运营"
+    },
+    {
+      "end_seconds": 507.039,
+      "id": "youtube-KiJEjPlQlTA#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 504.92,
+      "text": "潜在的开发的工作机会丧失"
+    },
+    {
+      "end_seconds": 508.519,
+      "id": "youtube-KiJEjPlQlTA#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 507.039,
+      "text": "大量的这种工作机会"
+    },
+    {
+      "end_seconds": 511.12,
+      "id": "youtube-KiJEjPlQlTA#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 508.519,
+      "text": "其实是被下一代的AI native的"
+    },
+    {
+      "end_seconds": 512.559,
+      "id": "youtube-KiJEjPlQlTA#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.12,
+      "text": "企业服务公司也好"
+    },
+    {
+      "end_seconds": 514.279,
+      "id": "youtube-KiJEjPlQlTA#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 512.559,
+      "text": "Prosumer工具也好"
+    },
+    {
+      "end_seconds": 515.0,
+      "id": "youtube-KiJEjPlQlTA#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 514.279,
+      "text": "替换掉了"
+    },
+    {
+      "end_seconds": 515.96,
+      "id": "youtube-KiJEjPlQlTA#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 515.0,
+      "text": "你刚刚说的还是一个"
+    },
+    {
+      "end_seconds": 517.24,
+      "id": "youtube-KiJEjPlQlTA#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 515.96,
+      "text": "正在小范围发生的事"
+    },
+    {
+      "end_seconds": 517.679,
+      "id": "youtube-KiJEjPlQlTA#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 517.24,
+      "text": "对"
+    },
+    {
+      "end_seconds": 519.159,
+      "id": "youtube-KiJEjPlQlTA#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 517.679,
+      "text": "但是这个事情一定会发生"
+    },
+    {
+      "end_seconds": 519.679,
+      "id": "youtube-KiJEjPlQlTA#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 519.159,
+      "text": "肯定的"
+    },
+    {
+      "end_seconds": 520.919,
+      "id": "youtube-KiJEjPlQlTA#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 519.679,
+      "text": "这里面的话"
+    },
+    {
+      "end_seconds": 522.84,
+      "id": "youtube-KiJEjPlQlTA#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 520.919,
+      "text": "我们看到很多大厂的裁员"
+    },
+    {
+      "end_seconds": 524.36,
+      "id": "youtube-KiJEjPlQlTA#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 522.84,
+      "text": "这个裁员的本质上"
+    },
+    {
+      "end_seconds": 525.72,
+      "id": "youtube-KiJEjPlQlTA#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 524.36,
+      "text": "内部的对话是"
+    },
+    {
+      "end_seconds": 527.159,
+      "id": "youtube-KiJEjPlQlTA#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.72,
+      "text": "高层会问中层"
+    },
+    {
+      "end_seconds": 529.44,
+      "id": "youtube-KiJEjPlQlTA#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.159,
+      "text": "你是要headcount还是要算力"
+    },
+    {
+      "end_seconds": 530.879,
+      "id": "youtube-KiJEjPlQlTA#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.44,
+      "text": "中层会告诉高层说"
+    },
+    {
+      "end_seconds": 532.32,
+      "id": "youtube-KiJEjPlQlTA#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 530.879,
+      "text": "我不需要更多headcount"
+    },
+    {
+      "end_seconds": 534.24,
+      "id": "youtube-KiJEjPlQlTA#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 532.32,
+      "text": "你给我更多的软件credit"
+    },
+    {
+      "end_seconds": 535.759,
+      "id": "youtube-KiJEjPlQlTA#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 534.24,
+      "text": "你给我更多的GPU"
+    },
+    {
+      "end_seconds": 537.32,
+      "id": "youtube-KiJEjPlQlTA#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 535.759,
+      "text": "我可以干更大的事情"
+    },
+    {
+      "end_seconds": 539.48,
+      "id": "youtube-KiJEjPlQlTA#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 537.32,
+      "text": "于是底层的执行层的工作机会"
+    },
+    {
+      "end_seconds": 541.32,
+      "id": "youtube-KiJEjPlQlTA#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 539.48,
+      "text": "就开始被削减"
+    },
+    {
+      "end_seconds": 542.399,
+      "id": "youtube-KiJEjPlQlTA#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 541.32,
+      "text": "我们看到大量的公司"
+    },
+    {
+      "end_seconds": 544.08,
+      "id": "youtube-KiJEjPlQlTA#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 542.399,
+      "text": "开始今年不停的裁员"
+    },
+    {
+      "end_seconds": 545.2,
+      "id": "youtube-KiJEjPlQlTA#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 544.08,
+      "text": "软件工程师的工作"
+    },
+    {
+      "end_seconds": 546.32,
+      "id": "youtube-KiJEjPlQlTA#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.2,
+      "text": "在大量的消失"
+    },
+    {
+      "end_seconds": 547.48,
+      "id": "youtube-KiJEjPlQlTA#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 546.32,
+      "text": "以前所谓的"
+    },
+    {
+      "end_seconds": 548.92,
+      "id": "youtube-KiJEjPlQlTA#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.48,
+      "text": "最稳定的白领工作"
+    },
+    {
+      "end_seconds": 549.92,
+      "id": "youtube-KiJEjPlQlTA#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 548.92,
+      "text": "做市场的"
+    },
+    {
+      "end_seconds": 550.84,
+      "id": "youtube-KiJEjPlQlTA#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 549.92,
+      "text": "做销售的"
+    },
+    {
+      "end_seconds": 552.92,
+      "id": "youtube-KiJEjPlQlTA#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 550.84,
+      "text": "在大量的被AI agent替换掉"
+    },
+    {
+      "end_seconds": 554.639,
+      "id": "youtube-KiJEjPlQlTA#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 552.92,
+      "text": "这是我们看到一个小范围"
+    },
+    {
+      "end_seconds": 555.56,
+      "id": "youtube-KiJEjPlQlTA#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 554.639,
+      "text": "正在发生"
+    },
+    {
+      "end_seconds": 557.56,
+      "id": "youtube-KiJEjPlQlTA#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.56,
+      "text": "但是很快会快速加速的"
+    },
+    {
+      "end_seconds": 558.6,
+      "id": "youtube-KiJEjPlQlTA#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.56,
+      "text": "这么一个过程"
+    },
+    {
+      "end_seconds": 559.6,
+      "id": "youtube-KiJEjPlQlTA#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 558.6,
+      "text": "这时候我们归纳一下"
+    },
+    {
+      "end_seconds": 560.56,
+      "id": "youtube-KiJEjPlQlTA#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 559.6,
+      "text": "这些没意义的工作"
+    },
+    {
+      "end_seconds": 561.4,
+      "id": "youtube-KiJEjPlQlTA#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 560.56,
+      "text": "是从哪来的"
+    },
+    {
+      "end_seconds": 562.4,
+      "id": "youtube-KiJEjPlQlTA#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 561.4,
+      "text": "这些没意义的工作"
+    },
+    {
+      "end_seconds": 563.68,
+      "id": "youtube-KiJEjPlQlTA#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 562.4,
+      "text": "很多时候是来自于"
+    },
+    {
+      "end_seconds": 566.639,
+      "id": "youtube-KiJEjPlQlTA#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 563.68,
+      "text": "整体智能的缺陷"
+    },
+    {
+      "end_seconds": 568.2,
+      "id": "youtube-KiJEjPlQlTA#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 566.639,
+      "text": "整体智能是"
+    },
+    {
+      "end_seconds": 569.48,
+      "id": "youtube-KiJEjPlQlTA#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 568.2,
+      "text": "我们拿这个"
+    },
+    {
+      "end_seconds": 570.56,
+      "id": "youtube-KiJEjPlQlTA#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 569.48,
+      "text": "我们用Cursor写代码"
+    },
+    {
+      "end_seconds": 571.92,
+      "id": "youtube-KiJEjPlQlTA#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 570.56,
+      "text": "这个事情来做个例子"
+    },
+    {
+      "end_seconds": 574.159,
+      "id": "youtube-KiJEjPlQlTA#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.919,
+      "text": "我们会发现一个简单的任务"
+    },
+    {
+      "end_seconds": 575.079,
+      "id": "youtube-KiJEjPlQlTA#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 574.159,
+      "text": "你告诉他说"
+    },
+    {
+      "end_seconds": 577.12,
+      "id": "youtube-KiJEjPlQlTA#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 575.079,
+      "text": "你给我写这么一个function"
+    },
+    {
+      "end_seconds": 579.439,
+      "id": "youtube-KiJEjPlQlTA#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 577.12,
+      "text": "以Cursor背后的这些模型智能"
+    },
+    {
+      "end_seconds": 580.479,
+      "id": "youtube-KiJEjPlQlTA#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 579.439,
+      "text": "他直接就给你写出来了"
+    },
+    {
+      "end_seconds": 582.159,
+      "id": "youtube-KiJEjPlQlTA#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 580.479,
+      "text": "我们同时也发现说"
+    },
+    {
+      "end_seconds": 583.36,
+      "id": "youtube-KiJEjPlQlTA#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 582.159,
+      "text": "当我们的系统"
+    },
+    {
+      "end_seconds": 584.599,
+      "id": "youtube-KiJEjPlQlTA#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 583.36,
+      "text": "复杂度增加的时候"
+    },
+    {
+      "end_seconds": 586.959,
+      "id": "youtube-KiJEjPlQlTA#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 584.599,
+      "text": "我们需要有一个Master plan"
+    },
+    {
+      "end_seconds": 589.0,
+      "id": "youtube-KiJEjPlQlTA#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 586.959,
+      "text": "需要先写一个Spec"
+    },
+    {
+      "end_seconds": 589.799,
+      "id": "youtube-KiJEjPlQlTA#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 589.0,
+      "text": "很多todo"
+    },
+    {
+      "end_seconds": 591.319,
+      "id": "youtube-KiJEjPlQlTA#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 589.799,
+      "text": "然后agent再执行"
+    },
+    {
+      "end_seconds": 593.839,
+      "id": "youtube-KiJEjPlQlTA#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.319,
+      "text": "这个Master plan之所以需要存在"
+    },
+    {
+      "end_seconds": 595.759,
+      "id": "youtube-KiJEjPlQlTA#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.839,
+      "text": "就是因为这个任务的复杂度"
+    },
+    {
+      "end_seconds": 598.199,
+      "id": "youtube-KiJEjPlQlTA#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 595.759,
+      "text": "超过了模型简单的智能"
+    },
+    {
+      "end_seconds": 599.039,
+      "id": "youtube-KiJEjPlQlTA#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 598.199,
+      "text": "我们可以想象一个"
+    },
+    {
+      "end_seconds": 600.399,
+      "id": "youtube-KiJEjPlQlTA#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 599.039,
+      "text": "更强很多的智能"
+    },
+    {
+      "end_seconds": 601.399,
+      "id": "youtube-KiJEjPlQlTA#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 600.399,
+      "text": "不需要这个Spec"
+    },
+    {
+      "end_seconds": 603.24,
+      "id": "youtube-KiJEjPlQlTA#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 601.439,
+      "text": "这个事是可以一层一层拆分的"
+    },
+    {
+      "end_seconds": 603.6,
+      "id": "youtube-KiJEjPlQlTA#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.24,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 605.12,
+      "id": "youtube-KiJEjPlQlTA#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.6,
+      "text": "这里边观察到的"
+    },
+    {
+      "end_seconds": 607.079,
+      "id": "youtube-KiJEjPlQlTA#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 605.12,
+      "text": "一个结构化的变化"
+    },
+    {
+      "end_seconds": 610.12,
+      "id": "youtube-KiJEjPlQlTA#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 607.079,
+      "text": "就是说当任务复杂度上升的时候"
+    },
+    {
+      "end_seconds": 611.12,
+      "id": "youtube-KiJEjPlQlTA#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 610.12,
+      "text": "你的coordination"
+    },
+    {
+      "end_seconds": 612.879,
+      "id": "youtube-KiJEjPlQlTA#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 611.12,
+      "text": "就是你的协同就会增加"
+    },
+    {
+      "end_seconds": 615.039,
+      "id": "youtube-KiJEjPlQlTA#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 612.879,
+      "text": "你就会需要拆解"
+    },
+    {
+      "end_seconds": 618.279,
+      "id": "youtube-KiJEjPlQlTA#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 615.039,
+      "text": "会需要一个所谓的这种官僚机构"
+    },
+    {
+      "end_seconds": 620.879,
+      "id": "youtube-KiJEjPlQlTA#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 618.279,
+      "text": "或者说一个信息组织税"
+    },
+    {
+      "end_seconds": 621.879,
+      "id": "youtube-KiJEjPlQlTA#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 620.879,
+      "text": "你要交这个税"
+    },
+    {
+      "end_seconds": 623.439,
+      "id": "youtube-KiJEjPlQlTA#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 621.879,
+      "text": "把这个计划写出来"
+    },
+    {
+      "end_seconds": 625.279,
+      "id": "youtube-KiJEjPlQlTA#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 623.439,
+      "text": "把这个Spec描绘出来"
+    },
+    {
+      "end_seconds": 629.439,
+      "id": "youtube-KiJEjPlQlTA#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 625.279,
+      "text": "然后增加很多不同智能之间的协同"
+    },
+    {
+      "end_seconds": 631.6,
+      "id": "youtube-KiJEjPlQlTA#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 629.48,
+      "text": "他们的alignment会议"
+    },
+    {
+      "end_seconds": 633.0,
+      "id": "youtube-KiJEjPlQlTA#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 631.6,
+      "text": "就是agent自己在开会的"
+    },
+    {
+      "end_seconds": 633.28,
+      "id": "youtube-KiJEjPlQlTA#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 633.0,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 634.8,
+      "id": "youtube-KiJEjPlQlTA#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 633.28,
+      "text": "你的所有的MCP靠"
+    },
+    {
+      "end_seconds": 637.28,
+      "id": "youtube-KiJEjPlQlTA#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 634.8,
+      "text": "你agent自己的intersection"
+    },
+    {
+      "end_seconds": 639.4,
+      "id": "youtube-KiJEjPlQlTA#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 637.28,
+      "text": "你的思维链都是在开会"
+    },
+    {
+      "end_seconds": 641.0,
+      "id": "youtube-KiJEjPlQlTA#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 639.4,
+      "text": "无非是我们把这个开会的事情"
+    },
+    {
+      "end_seconds": 642.12,
+      "id": "youtube-KiJEjPlQlTA#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 641.0,
+      "text": "自动化给了agent"
+    },
+    {
+      "end_seconds": 643.28,
+      "id": "youtube-KiJEjPlQlTA#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 642.12,
+      "text": "这些组织"
+    },
+    {
+      "end_seconds": 645.76,
+      "id": "youtube-KiJEjPlQlTA#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 643.28,
+      "text": "这些信息的官僚化的"
+    },
+    {
+      "end_seconds": 647.68,
+      "id": "youtube-KiJEjPlQlTA#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 645.76,
+      "text": "这些所谓的fake work"
+    },
+    {
+      "end_seconds": 649.16,
+      "id": "youtube-KiJEjPlQlTA#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.68,
+      "text": "是用来去弥补说"
+    },
+    {
+      "end_seconds": 651.8,
+      "id": "youtube-KiJEjPlQlTA#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 649.16,
+      "text": "我们本质上信息整理"
+    },
+    {
+      "end_seconds": 654.52,
+      "id": "youtube-KiJEjPlQlTA#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 651.8,
+      "text": "和处理信息的能力的不足"
+    },
+    {
+      "end_seconds": 655.84,
+      "id": "youtube-KiJEjPlQlTA#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 654.52,
+      "text": "我们几千年人类"
+    },
+    {
+      "end_seconds": 657.4,
+      "id": "youtube-KiJEjPlQlTA#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 655.84,
+      "text": "制造出一个官僚系统"
+    },
+    {
+      "end_seconds": 659.639,
+      "id": "youtube-KiJEjPlQlTA#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 657.399,
+      "text": "我们制造出了CRM这样的东西"
+    },
+    {
+      "end_seconds": 660.519,
+      "id": "youtube-KiJEjPlQlTA#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 659.639,
+      "text": "CRM之所以存在"
+    },
+    {
+      "end_seconds": 662.48,
+      "id": "youtube-KiJEjPlQlTA#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 660.519,
+      "text": "不就是我们脑子里记不住两千个人"
+    },
+    {
+      "end_seconds": 664.519,
+      "id": "youtube-KiJEjPlQlTA#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 662.48,
+      "text": "人类就能记住200个人"
+    },
+    {
+      "end_seconds": 665.6,
+      "id": "youtube-KiJEjPlQlTA#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 664.519,
+      "text": "如果有一万个人的话"
+    },
+    {
+      "end_seconds": 666.879,
+      "id": "youtube-KiJEjPlQlTA#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 665.6,
+      "text": "我就需要CRM"
+    },
+    {
+      "end_seconds": 668.24,
+      "id": "youtube-KiJEjPlQlTA#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 666.879,
+      "text": "所以大量的fake work"
+    },
+    {
+      "end_seconds": 670.919,
+      "id": "youtube-KiJEjPlQlTA#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.24,
+      "text": "是因为能力的不足产生的"
+    },
+    {
+      "end_seconds": 672.6,
+      "id": "youtube-KiJEjPlQlTA#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 670.919,
+      "text": "现在我们有一个无限的"
+    },
+    {
+      "end_seconds": 675.879,
+      "id": "youtube-KiJEjPlQlTA#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 672.6,
+      "text": "便宜的信息整理能力出现了"
+    },
+    {
+      "end_seconds": 678.36,
+      "id": "youtube-KiJEjPlQlTA#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 675.879,
+      "text": "大量的这种官僚工作就不需要了"
+    },
+    {
+      "end_seconds": 679.84,
+      "id": "youtube-KiJEjPlQlTA#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 678.36,
+      "text": "agent就把它搞定"
+    },
+    {
+      "end_seconds": 681.439,
+      "id": "youtube-KiJEjPlQlTA#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 679.84,
+      "text": "回到我们刚才就是我说了"
+    },
+    {
+      "end_seconds": 683.799,
+      "id": "youtube-KiJEjPlQlTA#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 681.439,
+      "text": "非常长的一个build up的这面"
+    },
+    {
+      "end_seconds": 684.84,
+      "id": "youtube-KiJEjPlQlTA#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 683.799,
+      "text": "一个thesis"
+    },
+    {
+      "end_seconds": 687.639,
+      "id": "youtube-KiJEjPlQlTA#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 685.56,
+      "text": "我们的content bad"
+    },
+    {
+      "end_seconds": 690.04,
+      "id": "youtube-KiJEjPlQlTA#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 687.639,
+      "text": "是这事一定会发生"
+    },
+    {
+      "end_seconds": 693.08,
+      "id": "youtube-KiJEjPlQlTA#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 690.04,
+      "text": "大量的执行层的工作会消失"
+    },
+    {
+      "end_seconds": 695.04,
+      "id": "youtube-KiJEjPlQlTA#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.08,
+      "text": "并且这些执行层的工作"
+    },
+    {
+      "end_seconds": 698.36,
+      "id": "youtube-KiJEjPlQlTA#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 695.04,
+      "text": "会被转化到AI的公司里面去"
+    },
+    {
+      "end_seconds": 700.08,
+      "id": "youtube-KiJEjPlQlTA#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 698.36,
+      "text": "变成AI能力的一部分"
+    },
+    {
+      "end_seconds": 703.16,
+      "id": "youtube-KiJEjPlQlTA#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 700.08,
+      "text": "而在接下来十年的时间里面"
+    },
+    {
+      "end_seconds": 706.68,
+      "id": "youtube-KiJEjPlQlTA#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 703.16,
+      "text": "AI的能力是不足以说做完整的交付的"
+    },
+    {
+      "end_seconds": 708.16,
+      "id": "youtube-KiJEjPlQlTA#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 706.68,
+      "text": "即使说很多AI公司"
+    },
+    {
+      "end_seconds": 710.8,
+      "id": "youtube-KiJEjPlQlTA#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 708.16,
+      "text": "正在从按使用量收钱"
+    },
+    {
+      "end_seconds": 712.08,
+      "id": "youtube-KiJEjPlQlTA#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 710.8,
+      "text": "变成按结果收钱"
+    },
+    {
+      "end_seconds": 715.12,
+      "id": "youtube-KiJEjPlQlTA#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 712.12,
+      "text": "当我们尝试覆盖一整个真实的"
+    },
+    {
+      "end_seconds": 716.24,
+      "id": "youtube-KiJEjPlQlTA#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 715.12,
+      "text": "企业流程的时候"
+    },
+    {
+      "end_seconds": 718.32,
+      "id": "youtube-KiJEjPlQlTA#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 716.24,
+      "text": "多数的AI公司还是human loop的"
+    },
+    {
+      "end_seconds": 720.84,
+      "id": "youtube-KiJEjPlQlTA#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 718.32,
+      "text": "十年很长的"
+    },
+    {
+      "end_seconds": 723.72,
+      "id": "youtube-KiJEjPlQlTA#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 720.84,
+      "text": "但是技术的扩散也是很慢的"
+    },
+    {
+      "end_seconds": 725.68,
+      "id": "youtube-KiJEjPlQlTA#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 723.72,
+      "text": "我们现在想想说十年很长"
+    },
+    {
+      "end_seconds": 728.16,
+      "id": "youtube-KiJEjPlQlTA#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 725.68,
+      "text": "但是AI元年到现在也已经三年了"
+    },
+    {
+      "end_seconds": 730.6,
+      "id": "youtube-KiJEjPlQlTA#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 728.16,
+      "text": "除了我们在的旧金山bubble之外的话"
+    },
+    {
+      "end_seconds": 732.32,
+      "id": "youtube-KiJEjPlQlTA#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 730.6,
+      "text": "AI渗透率到底有多少其实很难讲"
+    },
+    {
+      "end_seconds": 733.84,
+      "id": "youtube-KiJEjPlQlTA#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 732.32,
+      "text": "我们在我们的bubble里面"
+    },
+    {
+      "end_seconds": 735.2,
+      "id": "youtube-KiJEjPlQlTA#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 733.84,
+      "text": "绝对是突飞猛进"
+    },
+    {
+      "end_seconds": 737.48,
+      "id": "youtube-KiJEjPlQlTA#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 735.2,
+      "text": "但是这个普惠的过程要很久"
+    },
+    {
+      "end_seconds": 739.44,
+      "id": "youtube-KiJEjPlQlTA#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 737.48,
+      "text": "所以说我会想一个十年的尺度"
+    },
+    {
+      "end_seconds": 741.08,
+      "id": "youtube-KiJEjPlQlTA#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 739.44,
+      "text": "在这个十年的尺度里面"
+    },
+    {
+      "end_seconds": 742.639,
+      "id": "youtube-KiJEjPlQlTA#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 741.08,
+      "text": "原来的执行层会消失"
+    },
+    {
+      "end_seconds": 745.04,
+      "id": "youtube-KiJEjPlQlTA#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 742.639,
+      "text": "但是我相信说在原来执行层里面"
+    },
+    {
+      "end_seconds": 748.44,
+      "id": "youtube-KiJEjPlQlTA#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.04,
+      "text": "会有很多有行业背景知识的超级个体"
+    },
+    {
+      "end_seconds": 752.36,
+      "id": "youtube-KiJEjPlQlTA#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 748.44,
+      "text": "会被吸纳到这个外部供应商里面去"
+    },
+    {
+      "end_seconds": 754.68,
+      "id": "youtube-KiJEjPlQlTA#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 752.36,
+      "text": "就像以前的IT系统里边的"
+    },
+    {
+      "end_seconds": 756.2,
+      "id": "youtube-KiJEjPlQlTA#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 754.68,
+      "text": "最精英的那些人"
+    },
+    {
+      "end_seconds": 759.0,
+      "id": "youtube-KiJEjPlQlTA#cue-372",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 756.2,
+      "text": "会变成SaaS软件的创业者"
+    },
+    {
+      "end_seconds": 761.639,
+      "id": "youtube-KiJEjPlQlTA#cue-373",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 759.0,
+      "text": "原来这些在公司执行层的超级个体"
+    },
+    {
+      "end_seconds": 764.08,
+      "id": "youtube-KiJEjPlQlTA#cue-374",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 761.639,
+      "text": "会变成新的AI native的"
+    },
+    {
+      "end_seconds": 765.16,
+      "id": "youtube-KiJEjPlQlTA#cue-375",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 764.08,
+      "text": "软件公司的创业者"
+    },
+    {
+      "end_seconds": 766.64,
+      "id": "youtube-KiJEjPlQlTA#cue-376",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 765.16,
+      "text": "或者这里边的超级员工"
+    },
+    {
+      "end_seconds": 768.52,
+      "id": "youtube-KiJEjPlQlTA#cue-377",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 766.64,
+      "text": "然后极少量的这种人"
+    },
+    {
+      "end_seconds": 770.08,
+      "id": "youtube-KiJEjPlQlTA#cue-378",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 768.52,
+      "text": "就可以支撑整个行业"
+    },
+    {
+      "end_seconds": 772.2,
+      "id": "youtube-KiJEjPlQlTA#cue-379",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 770.08,
+      "text": "我们想想原来某一个"
+    },
+    {
+      "end_seconds": 773.72,
+      "id": "youtube-KiJEjPlQlTA#cue-380",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 772.2,
+      "text": "比如医疗行业里边"
+    },
+    {
+      "end_seconds": 777.36,
+      "id": "youtube-KiJEjPlQlTA#cue-381",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 773.72,
+      "text": "每个公司会雇几十个这样的运营"
+    },
+    {
+      "end_seconds": 778.84,
+      "id": "youtube-KiJEjPlQlTA#cue-382",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 777.36,
+      "text": "这几十个运营会对接"
+    },
+    {
+      "end_seconds": 781.6,
+      "id": "youtube-KiJEjPlQlTA#cue-383",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 778.84,
+      "text": "几百个几十个的SaaS软件"
+    },
+    {
+      "end_seconds": 783.759,
+      "id": "youtube-KiJEjPlQlTA#cue-384",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 781.6,
+      "text": "那这整个行业里就会有几万的这种人"
+    },
+    {
+      "end_seconds": 786.12,
+      "id": "youtube-KiJEjPlQlTA#cue-385",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 783.759,
+      "text": "但是当这几万的这种运营"
+    },
+    {
+      "end_seconds": 789.84,
+      "id": "youtube-KiJEjPlQlTA#cue-386",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 786.12,
+      "text": "迁移到这些AI native公司里边"
+    },
+    {
+      "end_seconds": 792.32,
+      "id": "youtube-KiJEjPlQlTA#cue-387",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 789.84,
+      "text": "他们这几个人就可以支持"
+    },
+    {
+      "end_seconds": 794.6,
+      "id": "youtube-KiJEjPlQlTA#cue-388",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 792.32,
+      "text": "几十个几百个几万个公司"
+    },
+    {
+      "end_seconds": 797.24,
+      "id": "youtube-KiJEjPlQlTA#cue-389",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 794.6,
+      "text": "所以说这个人数会被极度缩减"
+    },
+    {
+      "end_seconds": 800.36,
+      "id": "youtube-KiJEjPlQlTA#cue-390",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 797.279,
+      "text": "但是AI仍然我猜在短时间内"
+    },
+    {
+      "end_seconds": 803.159,
+      "id": "youtube-KiJEjPlQlTA#cue-391",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 800.36,
+      "text": "是没法完全替代掉这些人的判断力"
+    },
+    {
+      "end_seconds": 804.96,
+      "id": "youtube-KiJEjPlQlTA#cue-392",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 803.159,
+      "text": "人对行业的认知的"
+    },
+    {
+      "end_seconds": 807.279,
+      "id": "youtube-KiJEjPlQlTA#cue-393",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 804.96,
+      "text": "所以这些人的能力会提升"
+    },
+    {
+      "end_seconds": 809.399,
+      "id": "youtube-KiJEjPlQlTA#cue-394",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 807.279,
+      "text": "和AI有一个深度的整合"
+    },
+    {
+      "end_seconds": 811.159,
+      "id": "youtube-KiJEjPlQlTA#cue-395",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 809.399,
+      "text": "然后这些AI超级个体"
+    },
+    {
+      "end_seconds": 813.879,
+      "id": "youtube-KiJEjPlQlTA#cue-396",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 811.159,
+      "text": "会淘汰掉自己现在所有的同事"
+    },
+    {
+      "end_seconds": 815.12,
+      "id": "youtube-KiJEjPlQlTA#cue-397",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 813.879,
+      "text": "我们的一个bet"
+    },
+    {
+      "end_seconds": 816.799,
+      "id": "youtube-KiJEjPlQlTA#cue-398",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 815.12,
+      "text": "就是我们会寻找说"
+    },
+    {
+      "end_seconds": 821.759,
+      "id": "youtube-KiJEjPlQlTA#cue-399",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 816.799,
+      "text": "能够成为这种超级vertical服务公司的AI公司"
+    },
+    {
+      "end_seconds": 823.44,
+      "id": "youtube-KiJEjPlQlTA#cue-400",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 821.759,
+      "text": "然后去完成这个事情"
+    },
+    {
+      "end_seconds": 825.96,
+      "id": "youtube-KiJEjPlQlTA#cue-401",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 823.44,
+      "text": "extrapolate一下这个AI的能力"
+    },
+    {
+      "end_seconds": 828.44,
+      "id": "youtube-KiJEjPlQlTA#cue-402",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 825.96,
+      "text": "就发现很多人是可以被替换掉的"
+    },
+    {
+      "end_seconds": 830.84,
+      "id": "youtube-KiJEjPlQlTA#cue-403",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 828.44,
+      "text": "但我觉得也不是每个行业的替换难度都一样"
+    },
+    {
+      "end_seconds": 832.72,
+      "id": "youtube-KiJEjPlQlTA#cue-404",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 830.84,
+      "text": "哪怕他理论上很应该被替代"
+    },
+    {
+      "end_seconds": 834.12,
+      "id": "youtube-KiJEjPlQlTA#cue-405",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 832.72,
+      "text": "但是他可能因为一些别的原因"
+    },
+    {
+      "end_seconds": 835.8,
+      "id": "youtube-KiJEjPlQlTA#cue-406",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 834.12,
+      "text": "导致他比较难以被替代"
+    },
+    {
+      "end_seconds": 838.8,
+      "id": "youtube-KiJEjPlQlTA#cue-407",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 835.8,
+      "text": "对就是工作内容的被替换的方式会很多"
+    },
+    {
+      "end_seconds": 840.04,
+      "id": "youtube-KiJEjPlQlTA#cue-408",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 838.8,
+      "text": "我们现在已经看到了一些"
+    },
+    {
+      "end_seconds": 843.96,
+      "id": "youtube-KiJEjPlQlTA#cue-409",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 840.04,
+      "text": "比如说有一些公司会发现在他执行层"
+    },
+    {
+      "end_seconds": 845.2,
+      "id": "youtube-KiJEjPlQlTA#cue-410",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 843.96,
+      "text": "有一些非AI"
+    },
+    {
+      "end_seconds": 847.68,
+      "id": "youtube-KiJEjPlQlTA#cue-411",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 845.2,
+      "text": "还有好奇心动手能力很强的人"
+    },
+    {
+      "end_seconds": 850.36,
+      "id": "youtube-KiJEjPlQlTA#cue-412",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 847.68,
+      "text": "他会变成公司内部的prompt master"
+    },
+    {
+      "end_seconds": 852.6,
+      "id": "youtube-KiJEjPlQlTA#cue-413",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 850.36,
+      "text": "他会去理解我们的流程"
+    },
+    {
+      "end_seconds": 855.48,
+      "id": "youtube-KiJEjPlQlTA#cue-414",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 852.6,
+      "text": "然后去想很多用通用工具做出来的prompt"
+    },
+    {
+      "end_seconds": 856.639,
+      "id": "youtube-KiJEjPlQlTA#cue-415",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 855.48,
+      "text": "可以给公司提效"
+    },
+    {
+      "end_seconds": 859.879,
+      "id": "youtube-KiJEjPlQlTA#cue-416",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 856.639,
+      "text": "其实就是这种转化的一个早期的端倪"
+    },
+    {
+      "end_seconds": 862.44,
+      "id": "youtube-KiJEjPlQlTA#cue-417",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 859.879,
+      "text": "然后也有一些人的话会直接离职开始创业"
+    },
+    {
+      "end_seconds": 863.6,
+      "id": "youtube-KiJEjPlQlTA#cue-418",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 862.44,
+      "text": "创业的时候的话"
+    },
+    {
+      "end_seconds": 865.519,
+      "id": "youtube-KiJEjPlQlTA#cue-419",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 863.6,
+      "text": "我们前几年聊了很多"
+    },
+    {
+      "end_seconds": 867.12,
+      "id": "youtube-KiJEjPlQlTA#cue-420",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 865.519,
+      "text": "就是说你的AI talker"
+    },
+    {
+      "end_seconds": 868.48,
+      "id": "youtube-KiJEjPlQlTA#cue-421",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 867.12,
+      "text": "你的prompt工程师"
+    },
+    {
+      "end_seconds": 870.159,
+      "id": "youtube-KiJEjPlQlTA#cue-422",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 868.48,
+      "text": "或者就是Asian的创业"
+    },
+    {
+      "end_seconds": 874.159,
+      "id": "youtube-KiJEjPlQlTA#cue-423",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 870.159,
+      "text": "那些公司里边他去特化的东西"
+    },
+    {
+      "end_seconds": 875.68,
+      "id": "youtube-KiJEjPlQlTA#cue-424",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 874.159,
+      "text": "也都是围绕着说"
+    },
+    {
+      "end_seconds": 879.2,
+      "id": "youtube-KiJEjPlQlTA#cue-425",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 875.68,
+      "text": "OpenAI或者其他大模型的API层"
+    },
+    {
+      "end_seconds": 880.879,
+      "id": "youtube-KiJEjPlQlTA#cue-426",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 879.2,
+      "text": "上面嵌套一层"
+    },
+    {
+      "end_seconds": 883.08,
+      "id": "youtube-KiJEjPlQlTA#cue-427",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 880.879,
+      "text": "基于我对domain的了解"
+    },
+    {
+      "end_seconds": 885.56,
+      "id": "youtube-KiJEjPlQlTA#cue-428",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 883.12,
+      "text": "基于我要服务的业务流"
+    },
+    {
+      "end_seconds": 888.56,
+      "id": "youtube-KiJEjPlQlTA#cue-429",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 885.56,
+      "text": "抽象出来的一个AI的思维链"
+    },
+    {
+      "end_seconds": 889.639,
+      "id": "youtube-KiJEjPlQlTA#cue-430",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 888.56,
+      "text": "或者AI的prompt"
+    },
+    {
+      "end_seconds": 891.56,
+      "id": "youtube-KiJEjPlQlTA#cue-431",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 889.639,
+      "text": "那这些prompt的思维链是谁写的"
+    },
+    {
+      "end_seconds": 894.0,
+      "id": "youtube-KiJEjPlQlTA#cue-432",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 891.56,
+      "text": "Founder和Founder找到的行业专家"
+    },
+    {
+      "end_seconds": 895.28,
+      "id": "youtube-KiJEjPlQlTA#cue-433",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 894.0,
+      "text": "去跟公司一起构建的"
+    },
+    {
+      "end_seconds": 897.16,
+      "id": "youtube-KiJEjPlQlTA#cue-434",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 895.28,
+      "text": "那这种转化的另外一个性质"
+    },
+    {
+      "end_seconds": 898.32,
+      "id": "youtube-KiJEjPlQlTA#cue-435",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 897.16,
+      "text": "出现在说什么"
+    },
+    {
+      "end_seconds": 900.0,
+      "id": "youtube-KiJEjPlQlTA#cue-436",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 898.32,
+      "text": "就是我们的reinforcement learning"
+    },
+    {
+      "end_seconds": 902.08,
+      "id": "youtube-KiJEjPlQlTA#cue-437",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 900.0,
+      "text": "那这个大模型公司"
+    },
+    {
+      "end_seconds": 904.28,
+      "id": "youtube-KiJEjPlQlTA#cue-438",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 902.08,
+      "text": "会找各种各样的行业专家"
+    },
+    {
+      "end_seconds": 905.72,
+      "id": "youtube-KiJEjPlQlTA#cue-439",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 904.28,
+      "text": "让这些行业专家去做"
+    },
+    {
+      "end_seconds": 907.879,
+      "id": "youtube-KiJEjPlQlTA#cue-440",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 905.72,
+      "text": "这种reinforcement learning的数据标注"
+    },
+    {
+      "end_seconds": 910.16,
+      "id": "youtube-KiJEjPlQlTA#cue-441",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 907.879,
+      "text": "那我们也见到了各种数据标注公司"
+    },
+    {
+      "end_seconds": 911.879,
+      "id": "youtube-KiJEjPlQlTA#cue-442",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 910.16,
+      "text": "会雇佣PhD们"
+    },
+    {
+      "end_seconds": 913.32,
+      "id": "youtube-KiJEjPlQlTA#cue-443",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 911.879,
+      "text": "超级工程师们"
+    },
+    {
+      "end_seconds": 915.12,
+      "id": "youtube-KiJEjPlQlTA#cue-444",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 913.32,
+      "text": "去做了一个code题"
+    },
+    {
+      "end_seconds": 918.32,
+      "id": "youtube-KiJEjPlQlTA#cue-445",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 915.12,
+      "text": "可能coding agent是一个最典型的落地"
+    },
+    {
+      "end_seconds": 920.32,
+      "id": "youtube-KiJEjPlQlTA#cue-446",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 918.32,
+      "text": "很多这样的工作"
+    },
+    {
+      "end_seconds": 922.159,
+      "id": "youtube-KiJEjPlQlTA#cue-447",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 920.32,
+      "text": "很多之前的业务流程"
+    },
+    {
+      "end_seconds": 924.48,
+      "id": "youtube-KiJEjPlQlTA#cue-448",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 922.159,
+      "text": "正在以一种prompt"
+    },
+    {
+      "end_seconds": 926.759,
+      "id": "youtube-KiJEjPlQlTA#cue-449",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 924.48,
+      "text": "或者伪装成channel thought"
+    },
+    {
+      "end_seconds": 928.879,
+      "id": "youtube-KiJEjPlQlTA#cue-450",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 926.759,
+      "text": "或者workflow的这种定义的方式"
+    },
+    {
+      "end_seconds": 931.559,
+      "id": "youtube-KiJEjPlQlTA#cue-451",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 928.879,
+      "text": "再从人的知识和认知"
+    },
+    {
+      "end_seconds": 932.919,
+      "id": "youtube-KiJEjPlQlTA#cue-452",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 931.559,
+      "text": "逐渐的转化成数据"
+    },
+    {
+      "end_seconds": 935.12,
+      "id": "youtube-KiJEjPlQlTA#cue-453",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 932.919,
+      "text": "这些数据会被这些软件系统"
+    },
+    {
+      "end_seconds": 936.48,
+      "id": "youtube-KiJEjPlQlTA#cue-454",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 935.12,
+      "text": "会被新的AI吸纳"
+    },
+    {
+      "end_seconds": 938.32,
+      "id": "youtube-KiJEjPlQlTA#cue-455",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 936.48,
+      "text": "所以这个过程已经在发生了"
+    },
+    {
+      "end_seconds": 940.32,
+      "id": "youtube-KiJEjPlQlTA#cue-456",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 938.32,
+      "text": "我们看到有非常多的一个人的团队"
+    },
+    {
+      "end_seconds": 941.32,
+      "id": "youtube-KiJEjPlQlTA#cue-457",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 940.32,
+      "text": "三五个人的团队"
+    },
+    {
+      "end_seconds": 943.32,
+      "id": "youtube-KiJEjPlQlTA#cue-458",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 941.32,
+      "text": "正在可以做出非常大的事情"
+    },
+    {
+      "end_seconds": 944.32,
+      "id": "youtube-KiJEjPlQlTA#cue-459",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 943.32,
+      "text": "做公司的方式"
+    },
+    {
+      "end_seconds": 945.32,
+      "id": "youtube-KiJEjPlQlTA#cue-460",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 944.32,
+      "text": "做事情的方式"
+    },
+    {
+      "end_seconds": 946.32,
+      "id": "youtube-KiJEjPlQlTA#cue-461",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 945.32,
+      "text": "才有一个非常大的革新"
+    },
+    {
+      "end_seconds": 948.32,
+      "id": "youtube-KiJEjPlQlTA#cue-462",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 946.32,
+      "text": "在这个时代真正确定性的机会"
+    },
+    {
+      "end_seconds": 950.32,
+      "id": "youtube-KiJEjPlQlTA#cue-463",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 948.32,
+      "text": "就是使用AI去寻找到"
+    },
+    {
+      "end_seconds": 953.32,
+      "id": "youtube-KiJEjPlQlTA#cue-464",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 950.32,
+      "text": "怎么能和AI结合变成一个超级个体"
+    },
+    {
+      "end_seconds": 955.32,
+      "id": "youtube-KiJEjPlQlTA#cue-465",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 953.32,
+      "text": "做一个小的团队的创业也好"
+    },
+    {
+      "end_seconds": 958.32,
+      "id": "youtube-KiJEjPlQlTA#cue-466",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 955.32,
+      "text": "在自己现在的岗位上变成future proof的"
+    },
+    {
+      "end_seconds": 959.32,
+      "id": "youtube-KiJEjPlQlTA#cue-467",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 958.32,
+      "text": "个体的过程也好"
+    },
+    {
+      "end_seconds": 960.32,
+      "id": "youtube-KiJEjPlQlTA#cue-468",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 959.32,
+      "text": "使用大量的使用"
+    },
+    {
+      "end_seconds": 962.32,
+      "id": "youtube-KiJEjPlQlTA#cue-469",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 960.32,
+      "text": "估计成本的使用"
+    },
+    {
+      "end_seconds": 964.32,
+      "id": "youtube-KiJEjPlQlTA#cue-470",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 962.32,
+      "text": "都是现在唯一确定性的应该做的事"
+    },
+    {
+      "end_seconds": 966.32,
+      "id": "youtube-KiJEjPlQlTA#cue-471",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 964.32,
+      "text": "都是现在唯一确定性的应该做的事"
+    }
+  ],
+  "video_id": "KiJEjPlQlTA",
+  "yuzheng_stance_weight": "not-evidence"
+}

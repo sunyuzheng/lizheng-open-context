@@ -1,0 +1,5803 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-tx2sB8vrUEQ",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2020-12-24T16:59:04Z",
+  "participant_aliases": [
+    "Clare"
+  ],
+  "participant_entity_ids": [
+    "guest:clare"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Clare",
+  "public_verified_at": "2026-10-11T02:01:42.602723+00:00",
+  "published_at": "2020-12-24",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "2b6e78d0b85e346d40e928ec5e9e4b4d020eb13fb978d37a09f75b0d21755013",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "856c89a73515c41311596faf8747ff02487fc106eac23601249aece20f31d0ca",
+    "root_receipt_sha256": "9e67b88d0b2d1f9cd84dfd0d9cdae707a76d5210531cf1ece30a14c1e7c8a823",
+    "unresolved_count": 4
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=tx2sB8vrUEQ",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=tx2sB8vrUEQ",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "程序员大战产品经理｜彼此眼中的狼、民、与神",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "就是我碰到一个特别不靠谱的PM"
+    },
+    {
+      "end_seconds": 3.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.16,
+      "text": "就是我之前跟他说了很多次"
+    },
+    {
+      "end_seconds": 4.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.68,
+      "text": "解释了为什么这个啊"
+    },
+    {
+      "end_seconds": 5.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.719,
+      "text": "这个我不清楚"
+    },
+    {
+      "end_seconds": 6.32,
+      "id": "youtube-tx2sB8vrUEQ#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.679,
+      "text": "然后我要跟他说"
+    },
+    {
+      "end_seconds": 8.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.32,
+      "text": "之前让我说了四五遍他都记不住"
+    },
+    {
+      "end_seconds": 10.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.16,
+      "text": "那可能是你的project不够重要啊"
+    },
+    {
+      "end_seconds": 13.04,
+      "id": "youtube-tx2sB8vrUEQ#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.56,
+      "text": "我们每个PM手里少则五则个项目"
+    },
+    {
+      "end_seconds": 14.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.04,
+      "text": "多则十几个项目"
+    },
+    {
+      "end_seconds": 16.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.48,
+      "text": "你不重要的项目你来找我"
+    },
+    {
+      "end_seconds": 16.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.0,
+      "text": "我肯定记不住啊"
+    },
+    {
+      "end_seconds": 17.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.96,
+      "text": "对你记不住"
+    },
+    {
+      "end_seconds": 18.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.519,
+      "text": "那我第一遍跟你说的时候"
+    },
+    {
+      "end_seconds": 19.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.48,
+      "text": "你应该就马上反馈给我说"
+    },
+    {
+      "end_seconds": 21.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.839,
+      "text": "这个不在我的priority"
+    },
+    {
+      "end_seconds": 22.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.039,
+      "text": "但是你又说"
+    },
+    {
+      "end_seconds": 23.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.08,
+      "text": "OK好的好的"
+    },
+    {
+      "end_seconds": 24.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.039,
+      "text": "那我肯定记不住啊"
+    },
+    {
+      "end_seconds": 25.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.24,
+      "text": "那你记不住"
+    },
+    {
+      "end_seconds": 25.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.12,
+      "text": "那我第一遍跟你说的时候"
+    },
+    {
+      "end_seconds": 26.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.92,
+      "text": "你应该就马上反馈给我说"
+    },
+    {
+      "end_seconds": 28.079,
+      "id": "youtube-tx2sB8vrUEQ#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.959,
+      "text": "这个不在我的priority"
+    },
+    {
+      "end_seconds": 28.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.079,
+      "text": "但是你又说"
+    },
+    {
+      "end_seconds": 29.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.879,
+      "text": "OK好的好的"
+    },
+    {
+      "end_seconds": 31.119,
+      "id": "youtube-tx2sB8vrUEQ#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.839,
+      "text": "那我问第二遍还好的好的"
+    },
+    {
+      "end_seconds": 32.159,
+      "id": "youtube-tx2sB8vrUEQ#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.119,
+      "text": "那最后你就说"
+    },
+    {
+      "end_seconds": 33.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.159,
+      "text": "为什么你还没做完"
+    },
+    {
+      "end_seconds": 34.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.039,
+      "text": "那你不能这样甩锅对不对"
+    },
+    {
+      "end_seconds": 35.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.24,
+      "text": "应该我第一遍问的时候"
+    },
+    {
+      "end_seconds": 36.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.28,
+      "text": "你再跟我说"
+    },
+    {
+      "end_seconds": 37.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.0,
+      "text": "这个不在我的priority上面"
+    },
+    {
+      "end_seconds": 40.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.679,
+      "text": "那有的时候我明明白白跟你说了"
+    },
+    {
+      "end_seconds": 40.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.0,
+      "text": "这个就是最重要的"
+    },
+    {
+      "end_seconds": 42.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.96,
+      "text": "那很多dev还是做不好啊"
+    },
+    {
+      "end_seconds": 44.32,
+      "id": "youtube-tx2sB8vrUEQ#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.479,
+      "text": "那很多时候我们PM不催着点"
+    },
+    {
+      "end_seconds": 45.599,
+      "id": "youtube-tx2sB8vrUEQ#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.32,
+      "text": "就黄了你知道吗"
+    },
+    {
+      "end_seconds": 47.359,
+      "id": "youtube-tx2sB8vrUEQ#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.599,
+      "text": "我上次跟一个dev合作"
+    },
+    {
+      "end_seconds": 48.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.359,
+      "text": "明明白白两天的活"
+    },
+    {
+      "end_seconds": 51.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.96,
+      "text": "一周了有足人性"
+    },
+    {
+      "end_seconds": 53.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.439,
+      "text": "然后我就天天催天天催"
+    },
+    {
+      "end_seconds": 55.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.28,
+      "text": "两周之后给我甩了个东西"
+    },
+    {
+      "end_seconds": 56.64,
+      "id": "youtube-tx2sB8vrUEQ#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.28,
+      "text": "所有case我一test"
+    },
+    {
+      "end_seconds": 57.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.64,
+      "text": "全都是break"
+    },
+    {
+      "end_seconds": 59.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.759,
+      "text": "你这个活你做完了"
+    },
+    {
+      "end_seconds": 61.52,
+      "id": "youtube-tx2sB8vrUEQ#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.679,
+      "text": "一遍都跑不通"
+    },
+    {
+      "end_seconds": 62.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.52,
+      "text": "你心怎么就这么大了"
+    },
+    {
+      "end_seconds": 64.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.719,
+      "text": "那我真的就不相信"
+    },
+    {
+      "end_seconds": 66.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.319,
+      "text": "你催每天催每天催"
+    },
+    {
+      "end_seconds": 67.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.0,
+      "text": "他每天给你send个"
+    },
+    {
+      "end_seconds": 68.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.12,
+      "text": "还搞不出调的东西"
+    },
+    {
+      "end_seconds": 70.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.56,
+      "text": "作为PM你需求说清楚"
+    },
+    {
+      "end_seconds": 71.359,
+      "id": "youtube-tx2sB8vrUEQ#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.48,
+      "text": "比如说你刚才说"
+    },
+    {
+      "end_seconds": 73.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.359,
+      "text": "你每天不停的去催那个dev"
+    },
+    {
+      "end_seconds": 74.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.439,
+      "text": "那是不是之前你们"
+    },
+    {
+      "end_seconds": 75.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.719,
+      "text": "DADLINE没有说清楚"
+    },
+    {
+      "end_seconds": 77.359,
+      "id": "youtube-tx2sB8vrUEQ#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.84,
+      "text": "说清楚了呀"
+    },
+    {
+      "end_seconds": 79.04,
+      "id": "youtube-tx2sB8vrUEQ#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 77.359,
+      "text": "spec上白纸黑字写的"
+    },
+    {
+      "end_seconds": 81.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.04,
+      "text": "每天加班就在给你们写spec"
+    },
+    {
+      "end_seconds": 82.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.2,
+      "text": "这都白写了吗"
+    },
+    {
+      "end_seconds": 84.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.48,
+      "text": "而且就照着spec写"
+    },
+    {
+      "end_seconds": 84.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.0,
+      "text": "还全是bug"
+    },
+    {
+      "end_seconds": 86.079,
+      "id": "youtube-tx2sB8vrUEQ#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.96,
+      "text": "你给我解释解释"
+    },
+    {
+      "end_seconds": 88.799,
+      "id": "youtube-tx2sB8vrUEQ#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 86.959,
+      "text": "就是你我什么"
+    },
+    {
+      "end_seconds": 90.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.799,
+      "text": "我是人对吧"
+    },
+    {
+      "end_seconds": 92.159,
+      "id": "youtube-tx2sB8vrUEQ#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 90.48,
+      "text": "那是个人他有犯错的时候"
+    },
+    {
+      "end_seconds": 93.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.159,
+      "text": "我只知道他这个SET"
+    },
+    {
+      "end_seconds": 93.76,
+      "id": "youtube-tx2sB8vrUEQ#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.2,
+      "text": "就是他这个bug"
+    },
+    {
+      "end_seconds": 94.64,
+      "id": "youtube-tx2sB8vrUEQ#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.76,
+      "text": "我会把他push"
+    },
+    {
+      "end_seconds": 95.599,
+      "id": "youtube-tx2sB8vrUEQ#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.64,
+      "text": "那而且现在呢"
+    },
+    {
+      "end_seconds": 96.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.599,
+      "text": "发现是个bug了"
+    },
+    {
+      "end_seconds": 98.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.48,
+      "text": "那我们就赶紧来修"
+    },
+    {
+      "end_seconds": 99.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 98.4,
+      "text": "有bug可以"
+    },
+    {
+      "end_seconds": 101.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.68,
+      "text": "但你不能拿那都是bug"
+    },
+    {
+      "end_seconds": 102.64,
+      "id": "youtube-tx2sB8vrUEQ#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.519,
+      "text": "Edge case你没想到"
+    },
+    {
+      "end_seconds": 103.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.64,
+      "text": "我对我可以接受"
+    },
+    {
+      "end_seconds": 105.359,
+      "id": "youtube-tx2sB8vrUEQ#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.68,
+      "text": "我也不可能说让你是perfect"
+    },
+    {
+      "end_seconds": 106.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.359,
+      "text": "但是所有的case"
+    },
+    {
+      "end_seconds": 107.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 106.719,
+      "text": "主case你都break"
+    },
+    {
+      "end_seconds": 108.64,
+      "id": "youtube-tx2sB8vrUEQ#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.92,
+      "text": "你怎么想的"
+    },
+    {
+      "end_seconds": 110.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.64,
+      "text": "就是这个work quality"
+    },
+    {
+      "end_seconds": 111.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.24,
+      "text": "就是没有保证"
+    },
+    {
+      "end_seconds": 112.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 111.12,
+      "text": "我们dev写完东西push了以后"
+    },
+    {
+      "end_seconds": 113.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.879,
+      "text": "首先CR"
+    },
+    {
+      "end_seconds": 114.079,
+      "id": "youtube-tx2sB8vrUEQ#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.519,
+      "text": "那还有可能"
+    },
+    {
+      "end_seconds": 115.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 114.079,
+      "text": "后面很多一些流程"
+    },
+    {
+      "end_seconds": 115.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.12,
+      "text": "他没有完善"
+    },
+    {
+      "end_seconds": 117.359,
+      "id": "youtube-tx2sB8vrUEQ#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.84,
+      "text": "比如说PM的revocation"
+    },
+    {
+      "end_seconds": 118.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.359,
+      "text": "prod revocation这些东西"
+    },
+    {
+      "end_seconds": 119.359,
+      "id": "youtube-tx2sB8vrUEQ#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.48,
+      "text": "就是其他人去做"
+    },
+    {
+      "end_seconds": 120.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.359,
+      "text": "他们肯定没有去做"
+    },
+    {
+      "end_seconds": 121.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 120.24,
+      "text": "那你不能完全甩锅"
+    },
+    {
+      "end_seconds": 122.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.439,
+      "text": "给程序员对吧"
+    },
+    {
+      "end_seconds": 123.76,
+      "id": "youtube-tx2sB8vrUEQ#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 122.4,
+      "text": "而且你看隔壁那个小王"
+    },
+    {
+      "end_seconds": 124.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.76,
+      "text": "就他做完之后"
+    },
+    {
+      "end_seconds": 125.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 124.719,
+      "text": "被开了"
+    },
+    {
+      "end_seconds": 126.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.439,
+      "text": "那导致我们现在压力很大"
+    },
+    {
+      "end_seconds": 127.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 126.719,
+      "text": "我们只能赶着时间"
+    },
+    {
+      "end_seconds": 128.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.84,
+      "text": "叫叫叫"
+    },
+    {
+      "end_seconds": 129.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.4,
+      "text": "那很有可能bug没有看出"
+    },
+    {
+      "end_seconds": 131.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 129.92,
+      "text": "没有时间去做这些"
+    },
+    {
+      "end_seconds": 132.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.36,
+      "text": "extensive testing对不对"
+    },
+    {
+      "end_seconds": 134.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 133.28,
+      "text": "那你就是你们天天催出来的"
+    },
+    {
+      "end_seconds": 135.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.56,
+      "text": "天天催的"
+    },
+    {
+      "end_seconds": 136.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.039,
+      "text": "你这催什么呀"
+    },
+    {
+      "end_seconds": 137.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.08,
+      "text": "我们催你们还有错了"
+    },
+    {
+      "end_seconds": 139.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.84,
+      "text": "你这个都已经overdue了"
+    },
+    {
+      "end_seconds": 140.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 139.28,
+      "text": "还不能催"
+    },
+    {
+      "end_seconds": 140.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.0,
+      "text": "你说起这个来"
+    },
+    {
+      "end_seconds": 142.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.96,
+      "text": "我就来气我跟你讲"
+    },
+    {
+      "end_seconds": 143.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 142.56,
+      "text": "我有一个dev"
+    },
+    {
+      "end_seconds": 144.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 143.36,
+      "text": "真的就是"
+    },
+    {
+      "end_seconds": 145.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.24,
+      "text": "那个work已经overdue很久了"
+    },
+    {
+      "end_seconds": 147.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.759,
+      "text": "我就是小心翼翼去拼他"
+    },
+    {
+      "end_seconds": 148.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.759,
+      "text": "做完了吗"
+    },
+    {
+      "end_seconds": 149.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 148.479,
+      "text": "不回我"
+    },
+    {
+      "end_seconds": 150.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.199,
+      "text": "一跃不回"
+    },
+    {
+      "end_seconds": 151.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.479,
+      "text": "you know"
+    },
+    {
+      "end_seconds": 151.919,
+      "id": "youtube-tx2sB8vrUEQ#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.039,
+      "text": "第二天他就拼他"
+    },
+    {
+      "end_seconds": 152.799,
+      "id": "youtube-tx2sB8vrUEQ#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.919,
+      "text": "你做完了吗"
+    },
+    {
+      "end_seconds": 153.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 152.799,
+      "text": "直接告诉我老板"
+    },
+    {
+      "end_seconds": 154.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.84,
+      "text": "说我不理他"
+    },
+    {
+      "end_seconds": 156.239,
+      "id": "youtube-tx2sB8vrUEQ#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.719,
+      "text": "这什么心理素质"
+    },
+    {
+      "end_seconds": 160.079,
+      "id": "youtube-tx2sB8vrUEQ#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.479,
+      "text": "那你刚才说你小心翼翼问他"
+    },
+    {
+      "end_seconds": 160.799,
+      "id": "youtube-tx2sB8vrUEQ#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.079,
+      "text": "那你没有考虑到"
+    },
+    {
+      "end_seconds": 162.079,
+      "id": "youtube-tx2sB8vrUEQ#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.799,
+      "text": "你的小心翼翼对他来说"
+    },
+    {
+      "end_seconds": 163.359,
+      "id": "youtube-tx2sB8vrUEQ#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 162.079,
+      "text": "是不是也是感同身受"
+    },
+    {
+      "end_seconds": 164.399,
+      "id": "youtube-tx2sB8vrUEQ#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.359,
+      "text": "你想现在是covid-19"
+    },
+    {
+      "end_seconds": 165.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 164.399,
+      "text": "这么久大家都无传红"
+    },
+    {
+      "end_seconds": 166.399,
+      "id": "youtube-tx2sB8vrUEQ#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 165.439,
+      "text": "如果他是独居的话"
+    },
+    {
+      "end_seconds": 167.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 166.399,
+      "text": "这么长时间"
+    },
+    {
+      "end_seconds": 168.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.519,
+      "text": "没有出去social"
+    },
+    {
+      "end_seconds": 169.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.639,
+      "text": "他没有压力去释放"
+    },
+    {
+      "end_seconds": 170.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 169.68,
+      "text": "让你这样不停地问他"
+    },
+    {
+      "end_seconds": 172.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 170.879,
+      "text": "他肯定觉得你把"
+    },
+    {
+      "end_seconds": 173.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 172.0,
+      "text": "所有的这种delay的压力"
+    },
+    {
+      "end_seconds": 174.239,
+      "id": "youtube-tx2sB8vrUEQ#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.199,
+      "text": "全部放他一个人身上"
+    },
+    {
+      "end_seconds": 175.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 174.239,
+      "text": "而且我听说有些"
+    },
+    {
+      "end_seconds": 176.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.28,
+      "text": "要不被催的可能"
+    },
+    {
+      "end_seconds": 177.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 176.24,
+      "text": "他们周末都在加班"
+    },
+    {
+      "end_seconds": 177.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.28,
+      "text": "这种情况下"
+    },
+    {
+      "end_seconds": 179.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.84,
+      "text": "他们还在不停地被催"
+    },
+    {
+      "end_seconds": 180.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.36,
+      "text": "那他们压力有多大"
+    },
+    {
+      "end_seconds": 181.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.56,
+      "text": "你能想过"
+    },
+    {
+      "end_seconds": 182.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 181.28,
+      "text": "这对他们是不是好"
+    },
+    {
+      "end_seconds": 184.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.199,
+      "text": "这心理压力算好的了"
+    },
+    {
+      "end_seconds": 184.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.319,
+      "text": "是我的话"
+    },
+    {
+      "end_seconds": 185.599,
+      "id": "youtube-tx2sB8vrUEQ#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.719,
+      "text": "我分钟辞职不干了"
+    },
+    {
+      "end_seconds": 187.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 185.599,
+      "text": "你说跳楼的有可能"
+    },
+    {
+      "end_seconds": 188.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 187.12,
+      "text": "我封鞋我自己都怕"
+    },
+    {
+      "end_seconds": 189.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.479,
+      "text": "吓死你怕不怕"
+    },
+    {
+      "end_seconds": 190.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 190.24,
+      "text": "真是的"
+    },
+    {
+      "end_seconds": 192.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 190.96,
+      "text": "还催催催催催毛"
+    },
+    {
+      "end_seconds": 193.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 192.4,
+      "text": "我催"
+    },
+    {
+      "end_seconds": 193.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.199,
+      "text": "这种催"
+    },
+    {
+      "end_seconds": 194.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.68,
+      "text": "还有种可能就是"
+    },
+    {
+      "end_seconds": 195.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 194.479,
+      "text": "脑子一团浆糊的PM"
+    },
+    {
+      "end_seconds": 196.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 195.84,
+      "text": "他根本完全不知道"
+    },
+    {
+      "end_seconds": 198.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 196.719,
+      "text": "自己具体要的是什么"
+    },
+    {
+      "end_seconds": 199.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 198.639,
+      "text": "就你问他一个什么东西"
+    },
+    {
+      "end_seconds": 200.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 199.439,
+      "text": "他觉得这东西好"
+    },
+    {
+      "end_seconds": 201.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 200.319,
+      "text": "那我要什么东西好"
+    },
+    {
+      "end_seconds": 203.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.439,
+      "text": "那你不停地要要要要"
+    },
+    {
+      "end_seconds": 204.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 203.2,
+      "text": "那肯定那个时间"
+    },
+    {
+      "end_seconds": 206.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 204.4,
+      "text": "需要的越来越长了"
+    },
+    {
+      "end_seconds": 207.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 206.319,
+      "text": "对不对"
+    },
+    {
+      "end_seconds": 208.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 207.28,
+      "text": "你以为是唱rap"
+    },
+    {
+      "end_seconds": 209.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 208.48,
+      "text": "要不要鸡蛋"
+    },
+    {
+      "end_seconds": 209.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.2,
+      "text": "要要要"
+    },
+    {
+      "end_seconds": 211.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 210.8,
+      "text": "就想清楚点"
+    },
+    {
+      "end_seconds": 213.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 211.84,
+      "text": "要不要什么东西"
+    },
+    {
+      "end_seconds": 214.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 213.12,
+      "text": "好吧好吧"
+    },
+    {
+      "end_seconds": 215.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.0,
+      "text": "确实是有一些PM"
+    },
+    {
+      "end_seconds": 217.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 215.2,
+      "text": "他们自己脑子里一团浆糊的"
+    },
+    {
+      "end_seconds": 218.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 217.12,
+      "text": "被"
+    },
+    {
+      "end_seconds": 219.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 218.08,
+      "text": "扣除了很大的压力"
+    },
+    {
+      "end_seconds": 220.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.68,
+      "text": "对啊"
+    },
+    {
+      "end_seconds": 220.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.08,
+      "text": "我们这压力"
+    },
+    {
+      "end_seconds": 223.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.56,
+      "text": "早这么说不完"
+    },
+    {
+      "end_seconds": 223.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.36,
+      "text": "是吗"
+    },
+    {
+      "end_seconds": 224.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.84,
+      "text": "对"
+    },
+    {
+      "end_seconds": 225.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 225.28,
+      "text": "太多了"
+    },
+    {
+      "end_seconds": 235.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 233.12,
+      "text": "那我们今天就请到了程序员"
+    },
+    {
+      "end_seconds": 235.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 235.12,
+      "text": "丹丹"
+    },
+    {
+      "end_seconds": 237.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 235.84,
+      "text": "还有产品经理Clare"
+    },
+    {
+      "end_seconds": 238.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.28,
+      "text": "来跟大家聊一聊"
+    },
+    {
+      "end_seconds": 240.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.4,
+      "text": "程序员和产品经理的爱恨情仇"
+    },
+    {
+      "end_seconds": 242.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 240.719,
+      "text": "在互联网提起程序员"
+    },
+    {
+      "end_seconds": 243.599,
+      "id": "youtube-tx2sB8vrUEQ#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 242.4,
+      "text": "和产品经理的话"
+    },
+    {
+      "end_seconds": 245.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 243.599,
+      "text": "仿佛就是一对冤家"
+    },
+    {
+      "end_seconds": 246.64,
+      "id": "youtube-tx2sB8vrUEQ#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 245.68,
+      "text": "我这样说起来"
+    },
+    {
+      "end_seconds": 247.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 246.64,
+      "text": "好像所有技术岗位"
+    },
+    {
+      "end_seconds": 249.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.68,
+      "text": "都有吐槽产品经理的习惯"
+    },
+    {
+      "end_seconds": 251.04,
+      "id": "youtube-tx2sB8vrUEQ#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.36,
+      "text": "因为我们常常在互联网"
+    },
+    {
+      "end_seconds": 252.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 251.04,
+      "text": "提起产品经理的话"
+    },
+    {
+      "end_seconds": 254.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 252.56,
+      "text": "我们就会有很多的评价"
+    },
+    {
+      "end_seconds": 256.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 254.24,
+      "text": "然后我们就会有很多的评价"
+    },
+    {
+      "end_seconds": 257.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 256.16,
+      "text": "然后我们就会有很多的评价"
+    },
+    {
+      "end_seconds": 258.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 257.439,
+      "text": "然后我们就会有很多的评价"
+    },
+    {
+      "end_seconds": 260.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 258.72,
+      "text": "然后我们就会有很多的评价"
+    },
+    {
+      "end_seconds": 261.04,
+      "id": "youtube-tx2sB8vrUEQ#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 260.079,
+      "text": "产品经理的习惯"
+    },
+    {
+      "end_seconds": 263.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.04,
+      "text": "因为我们产品经理是靠软技能吃饭的嘛"
+    },
+    {
+      "end_seconds": 265.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 263.839,
+      "text": "可能就平时开开会"
+    },
+    {
+      "end_seconds": 266.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 265.12,
+      "text": "打打嘴炮"
+    },
+    {
+      "end_seconds": 267.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 266.16,
+      "text": "就会让人觉得我们这个工作"
+    },
+    {
+      "end_seconds": 268.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.519,
+      "text": "倍儿轻松"
+    },
+    {
+      "end_seconds": 269.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 268.48,
+      "text": "也不知道我们干了点什么"
+    },
+    {
+      "end_seconds": 271.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.6,
+      "text": "然后当别人不了解你的时候"
+    },
+    {
+      "end_seconds": 272.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.279,
+      "text": "你又碰上了很多不靠谱的人"
+    },
+    {
+      "end_seconds": 273.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 272.8,
+      "text": "那完蛋了"
+    },
+    {
+      "end_seconds": 275.04,
+      "id": "youtube-tx2sB8vrUEQ#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 273.519,
+      "text": "我们这个黑锅夹不掉了"
+    },
+    {
+      "end_seconds": 275.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.04,
+      "text": "那丹丹"
+    },
+    {
+      "end_seconds": 276.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.6,
+      "text": "你平时跟产品经理的关系"
+    },
+    {
+      "end_seconds": 277.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 276.879,
+      "text": "是什么样子的呀"
+    },
+    {
+      "end_seconds": 279.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 277.92,
+      "text": "我平常的话"
+    },
+    {
+      "end_seconds": 280.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 279.68,
+      "text": "PM主要的任务"
+    },
+    {
+      "end_seconds": 282.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 280.48,
+      "text": "就是帮我们来确定产品的"
+    },
+    {
+      "end_seconds": 283.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.319,
+      "text": "business requirement"
+    },
+    {
+      "end_seconds": 284.959,
+      "id": "youtube-tx2sB8vrUEQ#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 283.439,
+      "text": "它那个产品的需求"
+    },
+    {
+      "end_seconds": 286.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 284.959,
+      "text": "还有帮助我们tech team"
+    },
+    {
+      "end_seconds": 288.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 286.879,
+      "text": "然后跟具体的"
+    },
+    {
+      "end_seconds": 289.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 288.16,
+      "text": "我们的产品经理"
+    },
+    {
+      "end_seconds": 291.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 289.439,
+      "text": "跟具体的我们的客户做交流"
+    },
+    {
+      "end_seconds": 293.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 291.36,
+      "text": "然后取得一些他们的requirements"
+    },
+    {
+      "end_seconds": 294.959,
+      "id": "youtube-tx2sB8vrUEQ#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.6,
+      "text": "会时常跟我们"
+    },
+    {
+      "end_seconds": 296.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 294.959,
+      "text": "就是两方都check一下进度"
+    },
+    {
+      "end_seconds": 299.04,
+      "id": "youtube-tx2sB8vrUEQ#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 296.8,
+      "text": "就是我们会跟PM保持沟通"
+    },
+    {
+      "end_seconds": 301.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 299.04,
+      "text": "然后我们也会反馈"
+    },
+    {
+      "end_seconds": 303.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.279,
+      "text": "给他tech方面一些技术的需求"
+    },
+    {
+      "end_seconds": 305.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 303.519,
+      "text": "然后让他反馈给客户说"
+    },
+    {
+      "end_seconds": 306.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 305.439,
+      "text": "什么能做什么不能做"
+    },
+    {
+      "end_seconds": 308.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 306.72,
+      "text": "他也会就跟我们manager"
+    },
+    {
+      "end_seconds": 310.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 308.56,
+      "text": "来沟通我们的priority"
+    },
+    {
+      "end_seconds": 311.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 310.24,
+      "text": "就是谁有空谁没空"
+    },
+    {
+      "end_seconds": 313.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 311.519,
+      "text": "来安排谁做哪一部分"
+    },
+    {
+      "end_seconds": 314.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 313.12,
+      "text": "然后哪一部分会"
+    },
+    {
+      "end_seconds": 316.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 314.24,
+      "text": "有high priority这些东西"
+    },
+    {
+      "end_seconds": 317.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.319,
+      "text": "还有的时候"
+    },
+    {
+      "end_seconds": 319.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 317.6,
+      "text": "会跟别的组会有dependency"
+    },
+    {
+      "end_seconds": 321.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 319.36,
+      "text": "的话他会去跟别的组"
+    },
+    {
+      "end_seconds": 322.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 321.28,
+      "text": "进行沟通交流"
+    },
+    {
+      "end_seconds": 324.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.56,
+      "text": "然后来尽可能确保"
+    },
+    {
+      "end_seconds": 325.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.24,
+      "text": "这个项目能够进行顺利"
+    },
+    {
+      "end_seconds": 326.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 325.84,
+      "text": "这样"
+    },
+    {
+      "end_seconds": 328.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.319,
+      "text": "听起来像是一个项目的润滑剂"
+    },
+    {
+      "end_seconds": 329.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.96,
+      "text": "是吗"
+    },
+    {
+      "end_seconds": 332.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 329.439,
+      "text": "就是会帮助你去得到资源"
+    },
+    {
+      "end_seconds": 335.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 332.08,
+      "text": "或者说帮助你这个项目顺利进行"
+    },
+    {
+      "end_seconds": 336.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 335.12,
+      "text": "那还挺有用的对吧"
+    },
+    {
+      "end_seconds": 336.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.24,
+      "text": "对"
+    },
+    {
+      "end_seconds": 338.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.879,
+      "text": "我是觉得挺有用的"
+    },
+    {
+      "end_seconds": 338.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 338.24,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 339.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 338.8,
+      "text": "那Clare呢"
+    },
+    {
+      "end_seconds": 341.04,
+      "id": "youtube-tx2sB8vrUEQ#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 339.439,
+      "text": "你跟程序员的关系怎么样"
+    },
+    {
+      "end_seconds": 343.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 341.04,
+      "text": "我觉得其实我们产品经理"
+    },
+    {
+      "end_seconds": 344.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.84,
+      "text": "和程序员也是一个"
+    },
+    {
+      "end_seconds": 346.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 344.96,
+      "text": "很良好的合作关系"
+    },
+    {
+      "end_seconds": 347.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 346.48,
+      "text": "因为其实大家都在做"
+    },
+    {
+      "end_seconds": 348.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 347.759,
+      "text": "一个project"
+    },
+    {
+      "end_seconds": 350.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 348.8,
+      "text": "虽然我们是不同的角色"
+    },
+    {
+      "end_seconds": 352.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 350.24,
+      "text": "但是我们其实都是往一个方向使劲的"
+    },
+    {
+      "end_seconds": 353.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.639,
+      "text": "我们一般一个dev"
+    },
+    {
+      "end_seconds": 354.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 353.92,
+      "text": "一个PM"
+    },
+    {
+      "end_seconds": 355.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.48,
+      "text": "一个design"
+    },
+    {
+      "end_seconds": 356.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 355.199,
+      "text": "或者形成一个Vteam"
+    },
+    {
+      "end_seconds": 359.04,
+      "id": "youtube-tx2sB8vrUEQ#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 356.4,
+      "text": "我们就会保证这个东西要成功地找出"
+    },
+    {
+      "end_seconds": 361.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 359.92,
+      "text": "Sorry 我们没有"
+    },
+    {
+      "end_seconds": 363.52,
+      "id": "youtube-tx2sB8vrUEQ#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 361.92,
+      "text": "我很想有一个"
+    },
+    {
+      "end_seconds": 366.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.52,
+      "text": "现在都是靠PM自己在做"
+    },
+    {
+      "end_seconds": 367.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 366.56,
+      "text": "所以我们一个PM"
+    },
+    {
+      "end_seconds": 368.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 367.68,
+      "text": "一个dev"
+    },
+    {
+      "end_seconds": 368.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.16,
+      "text": "一个design"
+    },
+    {
+      "end_seconds": 369.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.72,
+      "text": "就是一个Vteam"
+    },
+    {
+      "end_seconds": 370.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 369.519,
+      "text": "把这个东西要deliver嘛"
+    },
+    {
+      "end_seconds": 372.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 370.8,
+      "text": "那如果你们合作的好的话"
+    },
+    {
+      "end_seconds": 374.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 372.319,
+      "text": "整个team的效率会非常非常高"
+    },
+    {
+      "end_seconds": 376.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 374.48,
+      "text": "这个有的时候就真的很看人"
+    },
+    {
+      "end_seconds": 377.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 376.4,
+      "text": "对我觉得处好的话"
+    },
+    {
+      "end_seconds": 378.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 377.439,
+      "text": "大家真的跟朋友一样"
+    },
+    {
+      "end_seconds": 379.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 378.48,
+      "text": "非常顺气"
+    },
+    {
+      "end_seconds": 381.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.28,
+      "text": "刚才听到的两位同学的关键词"
+    },
+    {
+      "end_seconds": 383.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.84,
+      "text": "都是合作"
+    },
+    {
+      "end_seconds": 383.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 383.2,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 385.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 383.68,
+      "text": "我觉得就是人和人之间的合作"
+    },
+    {
+      "end_seconds": 387.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 385.92,
+      "text": "肯定有省心的时候"
+    },
+    {
+      "end_seconds": 388.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 387.36,
+      "text": "也有闹心的时候"
+    },
+    {
+      "end_seconds": 389.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 388.8,
+      "text": "那Dun Dun"
+    },
+    {
+      "end_seconds": 390.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 389.36,
+      "text": "可不可以先跟我们讲一下"
+    },
+    {
+      "end_seconds": 392.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 390.72,
+      "text": "你跟产品经理的合作关系中"
+    },
+    {
+      "end_seconds": 394.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 392.879,
+      "text": "有什么省心的经历"
+    },
+    {
+      "end_seconds": 395.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 394.319,
+      "text": "和闹心的经历"
+    },
+    {
+      "end_seconds": 396.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 395.84,
+      "text": "我一直以来"
+    },
+    {
+      "end_seconds": 398.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 396.72,
+      "text": "我们组的PM都挺省心的"
+    },
+    {
+      "end_seconds": 399.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 398.56,
+      "text": "我非常喜欢他"
+    },
+    {
+      "end_seconds": 401.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 399.759,
+      "text": "就是跟他交流的时候"
+    },
+    {
+      "end_seconds": 402.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 401.2,
+      "text": "就是毫无困难"
+    },
+    {
+      "end_seconds": 404.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 402.16,
+      "text": "就虽然他可能没有tech的背景"
+    },
+    {
+      "end_seconds": 406.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 404.24,
+      "text": "但是你跟他讲一个东西"
+    },
+    {
+      "end_seconds": 407.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 406.16,
+      "text": "一个产品怎么做"
+    },
+    {
+      "end_seconds": 409.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 407.199,
+      "text": "就是tech方面的一些东西"
+    },
+    {
+      "end_seconds": 410.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 409.12,
+      "text": "他还能理解"
+    },
+    {
+      "end_seconds": 411.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.479,
+      "text": "他理解能力很强"
+    },
+    {
+      "end_seconds": 413.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 411.759,
+      "text": "他能理解到为什么"
+    },
+    {
+      "end_seconds": 414.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.039,
+      "text": "我们说这个行这个不行"
+    },
+    {
+      "end_seconds": 415.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 414.56,
+      "text": "然后所有的技术问题"
+    },
+    {
+      "end_seconds": 416.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 415.92,
+      "text": "我们跟他说一遍"
+    },
+    {
+      "end_seconds": 418.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 416.8,
+      "text": "他就一下就明白了"
+    },
+    {
+      "end_seconds": 419.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 418.479,
+      "text": "然后就会非常快的"
+    },
+    {
+      "end_seconds": 422.959,
+      "id": "youtube-tx2sB8vrUEQ#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 419.759,
+      "text": "能unblock一个产品的一条路"
+    },
+    {
+      "end_seconds": 424.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 422.959,
+      "text": "然后就知道什么实现不了"
+    },
+    {
+      "end_seconds": 425.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.639,
+      "text": "什么实现得了"
+    },
+    {
+      "end_seconds": 427.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 425.68,
+      "text": "然后就是从来不会提一些"
+    },
+    {
+      "end_seconds": 428.959,
+      "id": "youtube-tx2sB8vrUEQ#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.759,
+      "text": "无理的要求"
+    },
+    {
+      "end_seconds": 430.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 428.959,
+      "text": "这样子我觉得两方面"
+    },
+    {
+      "end_seconds": 431.919,
+      "id": "youtube-tx2sB8vrUEQ#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 430.24,
+      "text": "就是沟通交流非常顺畅"
+    },
+    {
+      "end_seconds": 433.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 431.919,
+      "text": "然后两方都非常省心"
+    },
+    {
+      "end_seconds": 436.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 434.56,
+      "text": "这样子我就觉得是一个好的PM"
+    },
+    {
+      "end_seconds": 438.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 436.959,
+      "text": "然后闹心的话就是"
+    },
+    {
+      "end_seconds": 439.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 438.48,
+      "text": "理解能力特别差"
+    },
+    {
+      "end_seconds": 440.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 439.759,
+      "text": "你跟他讲了四五遍"
+    },
+    {
+      "end_seconds": 442.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 440.719,
+      "text": "他完全都不能明白"
+    },
+    {
+      "end_seconds": 443.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 442.0,
+      "text": "你为什么要这样子"
+    },
+    {
+      "end_seconds": 445.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 443.12,
+      "text": "就比方说网上就经常会有人吐槽"
+    },
+    {
+      "end_seconds": 448.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 445.199,
+      "text": "那个PM跟SDE会打架"
+    },
+    {
+      "end_seconds": 450.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 448.0,
+      "text": "打起来就是因为PM提了一个需求说"
+    },
+    {
+      "end_seconds": 452.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 450.24,
+      "text": "你说你手机的背景的颜色"
+    },
+    {
+      "end_seconds": 454.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 452.639,
+      "text": "要做到跟你手机壳是一样的"
+    },
+    {
+      "end_seconds": 455.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 454.639,
+      "text": "说根本就实现不了"
+    },
+    {
+      "end_seconds": 456.959,
+      "id": "youtube-tx2sB8vrUEQ#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.759,
+      "text": "然后把那两个人打起来"
+    },
+    {
+      "end_seconds": 460.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 456.959,
+      "text": "就是提一些毫无道理的一些需求"
+    },
+    {
+      "end_seconds": 463.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 460.56,
+      "text": "然后也没有很好的来回沟通"
+    },
+    {
+      "end_seconds": 464.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 463.12,
+      "text": "follow up一些问题"
+    },
+    {
+      "end_seconds": 466.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 464.24,
+      "text": "然后导致我们SDE做项目"
+    },
+    {
+      "end_seconds": 467.599,
+      "id": "youtube-tx2sB8vrUEQ#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 466.639,
+      "text": "总是被block"
+    },
+    {
+      "end_seconds": 470.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 467.599,
+      "text": "然后完了就是很多项目被delay了"
+    },
+    {
+      "end_seconds": 471.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 470.0,
+      "text": "然后回过头来又怪我们"
+    },
+    {
+      "end_seconds": 474.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 471.68,
+      "text": "这样的PM我觉得就是一个很差的PM"
+    },
+    {
+      "end_seconds": 477.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 474.8,
+      "text": "而且他没有一定的scoping的概念"
+    },
+    {
+      "end_seconds": 479.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 477.36,
+      "text": "就是把一个project breakdown"
+    },
+    {
+      "end_seconds": 481.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 479.199,
+      "text": "从P1P0P1"
+    },
+    {
+      "end_seconds": 483.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 481.36,
+      "text": "然后能确定好我们"
+    },
+    {
+      "end_seconds": 484.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 483.039,
+      "text": "就是必须要的需求是什么"
+    },
+    {
+      "end_seconds": 486.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 484.479,
+      "text": "然后后面的就是"
+    },
+    {
+      "end_seconds": 488.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 486.24,
+      "text": "nice to have的需求是什么"
+    },
+    {
+      "end_seconds": 489.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 488.24,
+      "text": "就没有一个清楚的概念"
+    },
+    {
+      "end_seconds": 490.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 489.519,
+      "text": "他觉得什么都想要"
+    },
+    {
+      "end_seconds": 491.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 490.639,
+      "text": "什么都想要"
+    },
+    {
+      "end_seconds": 493.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 491.36,
+      "text": "我们就是第一时间deliver出来"
+    },
+    {
+      "end_seconds": 494.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 493.199,
+      "text": "然后就很push我们"
+    },
+    {
+      "end_seconds": 495.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 494.319,
+      "text": "我们就觉得这样PM"
+    },
+    {
+      "end_seconds": 498.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.519,
+      "text": "好像就是不会帮助我们很多的一个PM"
+    },
+    {
+      "end_seconds": 500.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.479,
+      "text": "只会催我们做完活的一个PM"
+    },
+    {
+      "end_seconds": 501.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 500.319,
+      "text": "我觉得这样就不是一个好的PM"
+    },
+    {
+      "end_seconds": 504.399,
+      "id": "youtube-tx2sB8vrUEQ#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 502.879,
+      "text": "就像刚才吐槽的一样"
+    },
+    {
+      "end_seconds": 505.359,
+      "id": "youtube-tx2sB8vrUEQ#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 504.399,
+      "text": "就催催催"
+    },
+    {
+      "end_seconds": 506.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 505.359,
+      "text": "对对就催催催"
+    },
+    {
+      "end_seconds": 507.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 506.479,
+      "text": "只知道催带着来"
+    },
+    {
+      "end_seconds": 509.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 507.519,
+      "text": "什么都不会帮助我们"
+    },
+    {
+      "end_seconds": 511.599,
+      "id": "youtube-tx2sB8vrUEQ#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 509.12,
+      "text": "就好PM就是会帮我们的不好PM"
+    },
+    {
+      "end_seconds": 512.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.599,
+      "text": "就会delay我们进度"
+    },
+    {
+      "end_seconds": 514.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 512.879,
+      "text": "然后让我们心情也很差的PM"
+    },
+    {
+      "end_seconds": 515.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 514.72,
+      "text": "对"
+    },
+    {
+      "end_seconds": 516.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 515.439,
+      "text": "就是刚入职的时候"
+    },
+    {
+      "end_seconds": 518.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 516.639,
+      "text": "我的mentor告诉我说一个好的PM"
+    },
+    {
+      "end_seconds": 519.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 518.48,
+      "text": "就应该是emblocked app"
+    },
+    {
+      "end_seconds": 522.079,
+      "id": "youtube-tx2sB8vrUEQ#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 519.84,
+      "text": "就不是去给你们增加burdens"
+    },
+    {
+      "end_seconds": 523.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 522.079,
+      "text": "就是应该helpful的角色"
+    },
+    {
+      "end_seconds": 524.64,
+      "id": "youtube-tx2sB8vrUEQ#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 524.4,
+      "text": "好"
+    },
+    {
+      "end_seconds": 525.44,
+      "id": "youtube-tx2sB8vrUEQ#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 524.64,
+      "text": "那我总结一下"
+    },
+    {
+      "end_seconds": 526.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.44,
+      "text": "就是这个好的PM"
+    },
+    {
+      "end_seconds": 529.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 526.8,
+      "text": "它可以帮助这个项目更有效"
+    },
+    {
+      "end_seconds": 531.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.36,
+      "text": "然后更快速的进行"
+    },
+    {
+      "end_seconds": 533.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-372",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.12,
+      "text": "它也可以unblock程序员"
+    },
+    {
+      "end_seconds": 536.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-373",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 533.2,
+      "text": "就需要这个PM有良好的理解能力"
+    },
+    {
+      "end_seconds": 538.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-374",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 536.16,
+      "text": "才能找到项目的关键点"
+    },
+    {
+      "end_seconds": 538.64,
+      "id": "youtube-tx2sB8vrUEQ#cue-375",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 538.16,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 539.04,
+      "id": "youtube-tx2sB8vrUEQ#cue-376",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 538.64,
+      "text": "对"
+    },
+    {
+      "end_seconds": 539.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-377",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 539.04,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 540.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-378",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 540.08,
+      "text": "那Clare"
+    },
+    {
+      "end_seconds": 543.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-379",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 540.72,
+      "text": "你在这个工作中有遇到什么"
+    },
+    {
+      "end_seconds": 544.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-380",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.12,
+      "text": "闹心和省心的程序员吗"
+    },
+    {
+      "end_seconds": 547.52,
+      "id": "youtube-tx2sB8vrUEQ#cue-381",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.44,
+      "text": "我觉得就是一个特别省心的程序员"
+    },
+    {
+      "end_seconds": 548.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-382",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.52,
+      "text": "对我来说"
+    },
+    {
+      "end_seconds": 550.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-383",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 548.08,
+      "text": "就是它会有一些product ownership"
+    },
+    {
+      "end_seconds": 552.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-384",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 550.16,
+      "text": "就是虽然我们可能常说"
+    },
+    {
+      "end_seconds": 553.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-385",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 552.24,
+      "text": "PM是这个product owner"
+    },
+    {
+      "end_seconds": 554.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-386",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 553.6,
+      "text": "但是一个好的程序员"
+    },
+    {
+      "end_seconds": 558.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-387",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 554.96,
+      "text": "他应该也会对自己的产品的质量负责"
+    },
+    {
+      "end_seconds": 559.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-388",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 558.4,
+      "text": "就是我觉得我合作过的一个"
+    },
+    {
+      "end_seconds": 561.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-389",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 559.84,
+      "text": "就是神仙dev"
+    },
+    {
+      "end_seconds": 564.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-390",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 561.28,
+      "text": "他真的就是我们之前在做产品策划的时候"
+    },
+    {
+      "end_seconds": 566.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-391",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 564.56,
+      "text": "他就会参与我们的很多讨论"
+    },
+    {
+      "end_seconds": 567.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-392",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 566.4,
+      "text": "那可能有一些不靠谱的idea"
+    },
+    {
+      "end_seconds": 569.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-393",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 567.92,
+      "text": "可能及时就毙掉了"
+    },
+    {
+      "end_seconds": 570.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-394",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 569.2,
+      "text": "因为你做每个项目"
+    },
+    {
+      "end_seconds": 571.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-395",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 570.48,
+      "text": "你可能都是有不同的方法"
+    },
+    {
+      "end_seconds": 573.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-396",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 571.68,
+      "text": "没有123这三种方法"
+    },
+    {
+      "end_seconds": 575.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-397",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 573.28,
+      "text": "他会告诉你每一种方法的pros and cons"
+    },
+    {
+      "end_seconds": 576.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-398",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 575.6,
+      "text": "就比如说告诉你"
+    },
+    {
+      "end_seconds": 577.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-399",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 576.48,
+      "text": "这个方法可能很hacky"
+    },
+    {
+      "end_seconds": 579.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-400",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 577.759,
+      "text": "但是我们一个星期就能交付"
+    },
+    {
+      "end_seconds": 581.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-401",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 579.68,
+      "text": "但是你之后可能就什么什么会break"
+    },
+    {
+      "end_seconds": 583.599,
+      "id": "youtube-tx2sB8vrUEQ#cue-402",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 581.679,
+      "text": "或者有那些的电线上面的问题"
+    },
+    {
+      "end_seconds": 585.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-403",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 583.599,
+      "text": "那有可能另外一个"
+    },
+    {
+      "end_seconds": 586.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-404",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 585.039,
+      "text": "你就是可能要做三个月不止"
+    },
+    {
+      "end_seconds": 588.959,
+      "id": "youtube-tx2sB8vrUEQ#cue-405",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 586.879,
+      "text": "但是如果这三个月的时间你花了之后"
+    },
+    {
+      "end_seconds": 590.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-406",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 588.959,
+      "text": "你就会有什么什么样的好处"
+    },
+    {
+      "end_seconds": 591.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-407",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 590.639,
+      "text": "那我觉得一个好的dev"
+    },
+    {
+      "end_seconds": 593.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-408",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.839,
+      "text": "就是可以给你把所有的事情讲清楚"
+    },
+    {
+      "end_seconds": 596.239,
+      "id": "youtube-tx2sB8vrUEQ#cue-409",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.839,
+      "text": "然后并且给你想到各种各样的SK testing"
+    },
+    {
+      "end_seconds": 598.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-410",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 596.239,
+      "text": "我觉得就是会让人觉得很省心"
+    },
+    {
+      "end_seconds": 601.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-411",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 598.559,
+      "text": "闹心的那就太多了"
+    },
+    {
+      "end_seconds": 603.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-412",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 601.199,
+      "text": "我觉得最闹心的就是"
+    },
+    {
+      "end_seconds": 606.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-413",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.679,
+      "text": "可能有一些人他自己被默默的block住了"
+    },
+    {
+      "end_seconds": 607.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-414",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 606.24,
+      "text": "但他不告诉你"
+    },
+    {
+      "end_seconds": 608.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-415",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 607.279,
+      "text": "I don't know why"
+    },
+    {
+      "end_seconds": 609.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-416",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 608.0,
+      "text": "我觉得我是想帮助你的"
+    },
+    {
+      "end_seconds": 611.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-417",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 609.279,
+      "text": "但是他就是你不问他"
+    },
+    {
+      "end_seconds": 612.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-418",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 611.2,
+      "text": "他就不会主动跟你讲话"
+    },
+    {
+      "end_seconds": 615.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-419",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 612.72,
+      "text": "这样就可能拖了很久"
+    },
+    {
+      "end_seconds": 616.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-420",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 615.2,
+      "text": "我才发现戴的乱都快到了"
+    },
+    {
+      "end_seconds": 619.68,
+      "id": "youtube-tx2sB8vrUEQ#cue-421",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 616.72,
+      "text": "可能我就以为这个活基本上做完了"
+    },
+    {
+      "end_seconds": 620.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-422",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 619.68,
+      "text": "结果他就觉得"
+    },
+    {
+      "end_seconds": 621.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-423",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 620.72,
+      "text": "哎呀我就被block住了"
+    },
+    {
+      "end_seconds": 623.44,
+      "id": "youtube-tx2sB8vrUEQ#cue-424",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 621.92,
+      "text": "然后那我就歇着了"
+    },
+    {
+      "end_seconds": 624.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-425",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 623.44,
+      "text": "我这样就是简直崩溃"
+    },
+    {
+      "end_seconds": 625.44,
+      "id": "youtube-tx2sB8vrUEQ#cue-426",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 624.96,
+      "text": "对"
+    },
+    {
+      "end_seconds": 628.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-427",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 625.44,
+      "text": "那我觉得你刚才说的那些例子"
+    },
+    {
+      "end_seconds": 630.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-428",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 628.16,
+      "text": "就跟我们amazon一些一部分的"
+    },
+    {
+      "end_seconds": 632.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-429",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 630.4,
+      "text": "Leadership Principle是一样的"
+    },
+    {
+      "end_seconds": 634.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-430",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 632.0,
+      "text": "就是Customer Obsession"
+    },
+    {
+      "end_seconds": 635.52,
+      "id": "youtube-tx2sB8vrUEQ#cue-431",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 634.0,
+      "text": "然后Deliver Results"
+    },
+    {
+      "end_seconds": 637.52,
+      "id": "youtube-tx2sB8vrUEQ#cue-432",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 635.52,
+      "text": "还有Insist on High Standard"
+    },
+    {
+      "end_seconds": 638.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-433",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 637.52,
+      "text": "这几个principle"
+    },
+    {
+      "end_seconds": 639.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-434",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 638.56,
+      "text": "我觉得很满足"
+    },
+    {
+      "end_seconds": 640.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-435",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 639.36,
+      "text": "刚才我们讨论的这些东西"
+    },
+    {
+      "end_seconds": 643.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-436",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 641.84,
+      "text": "那这样听起来的话"
+    },
+    {
+      "end_seconds": 645.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-437",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 643.12,
+      "text": "好的程序员也非常有ownership"
+    },
+    {
+      "end_seconds": 646.559,
+      "id": "youtube-tx2sB8vrUEQ#cue-438",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 645.2,
+      "text": "也是一个Leadership Principle"
+    },
+    {
+      "end_seconds": 649.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-439",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 646.559,
+      "text": "所以只要follow amazon SDE"
+    },
+    {
+      "end_seconds": 652.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-440",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 649.12,
+      "text": "Leadership Principle基本上是一个好的代表"
+    },
+    {
+      "end_seconds": 654.32,
+      "id": "youtube-tx2sB8vrUEQ#cue-441",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 652.24,
+      "text": "哇就是一个广告"
+    },
+    {
+      "end_seconds": 655.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-442",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 654.32,
+      "text": "真的广告"
+    },
+    {
+      "end_seconds": 657.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-443",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 655.6,
+      "text": "但是这样的话"
+    },
+    {
+      "end_seconds": 659.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-444",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 657.36,
+      "text": "听起来一个好的程序员"
+    },
+    {
+      "end_seconds": 661.919,
+      "id": "youtube-tx2sB8vrUEQ#cue-445",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 659.6,
+      "text": "他把产品经理该做的事都做了"
+    },
+    {
+      "end_seconds": 663.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-446",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 661.919,
+      "text": "其实我自己的经验也是"
+    },
+    {
+      "end_seconds": 664.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-447",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 663.12,
+      "text": "就是一个好的程序员"
+    },
+    {
+      "end_seconds": 666.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-448",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 664.72,
+      "text": "他会从用户的角度出发"
+    },
+    {
+      "end_seconds": 668.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-449",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 666.879,
+      "text": "去设计他要做的功能"
+    },
+    {
+      "end_seconds": 671.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-450",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.96,
+      "text": "他自己也可以做一些基本的底价"
+    },
+    {
+      "end_seconds": 672.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-451",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 671.439,
+      "text": "他可以把这个东西做出来"
+    },
+    {
+      "end_seconds": 674.559,
+      "id": "youtube-tx2sB8vrUEQ#cue-452",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 672.96,
+      "text": "他自己可以task run cache"
+    },
+    {
+      "end_seconds": 676.559,
+      "id": "youtube-tx2sB8vrUEQ#cue-453",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 674.559,
+      "text": "他甚至也可以做数据分析"
+    },
+    {
+      "end_seconds": 677.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-454",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 676.559,
+      "text": "那在这种情况下"
+    },
+    {
+      "end_seconds": 678.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-455",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 677.6,
+      "text": "我们要PM在哪干嘛"
+    },
+    {
+      "end_seconds": 680.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-456",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 678.96,
+      "text": "哇这个问题"
+    },
+    {
+      "end_seconds": 683.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-457",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 680.96,
+      "text": "其实确实是我们"
+    },
+    {
+      "end_seconds": 684.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-458",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 683.279,
+      "text": "就是dev跟PM"
+    },
+    {
+      "end_seconds": 685.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-459",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 684.48,
+      "text": "我们是要做同一个活吗"
+    },
+    {
+      "end_seconds": 687.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-460",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 685.679,
+      "text": "那就假如说我们要做一个球"
+    },
+    {
+      "end_seconds": 688.799,
+      "id": "youtube-tx2sB8vrUEQ#cue-461",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 687.679,
+      "text": "那肯定就是"
+    },
+    {
+      "end_seconds": 690.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-462",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 688.799,
+      "text": "我们要一起把这个球做圆吗"
+    },
+    {
+      "end_seconds": 691.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-463",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 690.639,
+      "text": "PM强一点"
+    },
+    {
+      "end_seconds": 693.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-464",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 691.679,
+      "text": "我就把该撑起来的地方撑起来"
+    },
+    {
+      "end_seconds": 695.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-465",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.84,
+      "text": "但如果dev已经撑起来了"
+    },
+    {
+      "end_seconds": 697.44,
+      "id": "youtube-tx2sB8vrUEQ#cue-466",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 695.279,
+      "text": "那我就少撑一点"
+    },
+    {
+      "end_seconds": 699.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-467",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 697.44,
+      "text": "我们的目标是一个球"
+    },
+    {
+      "end_seconds": 700.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-468",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 699.36,
+      "text": "那你长一点我就短一点"
+    },
+    {
+      "end_seconds": 703.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-469",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 700.48,
+      "text": "大家能够smoothly working together就好"
+    },
+    {
+      "end_seconds": 705.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-470",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 703.2,
+      "text": "但我觉得其实execution work"
+    },
+    {
+      "end_seconds": 707.76,
+      "id": "youtube-tx2sB8vrUEQ#cue-471",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 705.92,
+      "text": "就是我们已经把东西规划好了"
+    },
+    {
+      "end_seconds": 708.8,
+      "id": "youtube-tx2sB8vrUEQ#cue-472",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 707.76,
+      "text": "把它deliver出来"
+    },
+    {
+      "end_seconds": 710.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-473",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 708.8,
+      "text": "这个execution work"
+    },
+    {
+      "end_seconds": 711.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-474",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 710.16,
+      "text": "其实对于junior PM来说"
+    },
+    {
+      "end_seconds": 713.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-475",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 711.92,
+      "text": "是一个很重要的部分"
+    },
+    {
+      "end_seconds": 714.88,
+      "id": "youtube-tx2sB8vrUEQ#cue-476",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 713.12,
+      "text": "但是随着你慢慢往上走"
+    },
+    {
+      "end_seconds": 717.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-477",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 714.88,
+      "text": "其实我老板对我的要求是Clare"
+    },
+    {
+      "end_seconds": 720.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-478",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 717.2,
+      "text": "就是你应该从execution work里面剥离出来"
+    },
+    {
+      "end_seconds": 722.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-479",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 720.56,
+      "text": "因为你要更多的去想"
+    },
+    {
+      "end_seconds": 724.4,
+      "id": "youtube-tx2sB8vrUEQ#cue-480",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 722.08,
+      "text": "我们产品的goal目标规划"
+    },
+    {
+      "end_seconds": 725.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-481",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 724.4,
+      "text": "下一步是什么"
+    },
+    {
+      "end_seconds": 727.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-482",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 725.279,
+      "text": "就是more about strategy"
+    },
+    {
+      "end_seconds": 729.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-483",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 727.039,
+      "text": "instead of everyday small things"
+    },
+    {
+      "end_seconds": 731.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-484",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 729.36,
+      "text": "所以我觉得这可能是很多人对PM的一个误解"
+    },
+    {
+      "end_seconds": 733.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-485",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 731.839,
+      "text": "就说也没看见你干什么活"
+    },
+    {
+      "end_seconds": 734.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-486",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 733.839,
+      "text": "你怎么一天到晚这么忙"
+    },
+    {
+      "end_seconds": 736.559,
+      "id": "youtube-tx2sB8vrUEQ#cue-487",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 734.879,
+      "text": "因为我们可能就是花了很多时间"
+    },
+    {
+      "end_seconds": 737.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-488",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 736.559,
+      "text": "真的在调研"
+    },
+    {
+      "end_seconds": 739.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-489",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 737.679,
+      "text": "我们下一步应该怎么做"
+    },
+    {
+      "end_seconds": 740.559,
+      "id": "youtube-tx2sB8vrUEQ#cue-490",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 739.12,
+      "text": "你可能想十来点"
+    },
+    {
+      "end_seconds": 741.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-491",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 740.559,
+      "text": "九个都是不work了"
+    },
+    {
+      "end_seconds": 742.559,
+      "id": "youtube-tx2sB8vrUEQ#cue-492",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 741.679,
+      "text": "然后你只看到一个"
+    },
+    {
+      "end_seconds": 744.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-493",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 742.559,
+      "text": "你就可能以为我只做了一个"
+    },
+    {
+      "end_seconds": 745.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-494",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 744.0,
+      "text": "但其实PM的贡献"
+    },
+    {
+      "end_seconds": 746.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-495",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.36,
+      "text": "更多的就是应该在"
+    },
+    {
+      "end_seconds": 748.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-496",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 746.639,
+      "text": "帮你的产品方向什么把关上"
+    },
+    {
+      "end_seconds": 749.919,
+      "id": "youtube-tx2sB8vrUEQ#cue-497",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 748.48,
+      "text": "我觉得"
+    },
+    {
+      "end_seconds": 752.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-498",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 749.919,
+      "text": "就是大方向上面把那个把关"
+    },
+    {
+      "end_seconds": 753.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-499",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 752.24,
+      "text": "可能dev只能告诉你"
+    },
+    {
+      "end_seconds": 755.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-500",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 753.759,
+      "text": "这个东西我可以这样做跟那样做"
+    },
+    {
+      "end_seconds": 757.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-501",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 755.759,
+      "text": "但是这些很detail的东西"
+    },
+    {
+      "end_seconds": 758.559,
+      "id": "youtube-tx2sB8vrUEQ#cue-502",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 757.439,
+      "text": "dev是不知道的"
+    },
+    {
+      "end_seconds": 761.919,
+      "id": "youtube-tx2sB8vrUEQ#cue-503",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 758.559,
+      "text": "就是更偏business的东西还是PM来调研"
+    },
+    {
+      "end_seconds": 762.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-504",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 761.919,
+      "text": "会比较"
+    },
+    {
+      "end_seconds": 765.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-505",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 762.639,
+      "text": "因为毕竟dev没有business的background"
+    },
+    {
+      "end_seconds": 767.919,
+      "id": "youtube-tx2sB8vrUEQ#cue-506",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 765.039,
+      "text": "比方说一个产品面向哪一方面的客户群"
+    },
+    {
+      "end_seconds": 769.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-507",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 767.919,
+      "text": "会更加赚钱一点"
+    },
+    {
+      "end_seconds": 770.559,
+      "id": "youtube-tx2sB8vrUEQ#cue-508",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 769.279,
+      "text": "那dev肯定就不知道"
+    },
+    {
+      "end_seconds": 772.559,
+      "id": "youtube-tx2sB8vrUEQ#cue-509",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 770.559,
+      "text": "就需要PM方面去调研了"
+    },
+    {
+      "end_seconds": 775.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-510",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 772.559,
+      "text": "对 我觉得就是我自己的经验"
+    },
+    {
+      "end_seconds": 776.239,
+      "id": "youtube-tx2sB8vrUEQ#cue-511",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 775.199,
+      "text": "是好的PM"
+    },
+    {
+      "end_seconds": 778.959,
+      "id": "youtube-tx2sB8vrUEQ#cue-512",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 776.239,
+      "text": "它一般都是有很强的business的background"
+    },
+    {
+      "end_seconds": 781.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-513",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 778.959,
+      "text": "它有的时候可能是自己创过业"
+    },
+    {
+      "end_seconds": 784.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-514",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 781.36,
+      "text": "有的时候也是在公司去做过一线的活"
+    },
+    {
+      "end_seconds": 786.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-515",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 784.56,
+      "text": "就是它知道客户是怎么想的"
+    },
+    {
+      "end_seconds": 788.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-516",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 786.48,
+      "text": "有很强的共情的能力"
+    },
+    {
+      "end_seconds": 791.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-517",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 788.72,
+      "text": "再就是它本来hire for this work"
+    },
+    {
+      "end_seconds": 794.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-518",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 791.36,
+      "text": "所以说它trend for strategic thinking"
+    },
+    {
+      "end_seconds": 797.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-519",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 794.48,
+      "text": "就是它一方面了解你的产品的顾客"
+    },
+    {
+      "end_seconds": 799.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-520",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 797.28,
+      "text": "另外一方面它有一个比较系统的"
+    },
+    {
+      "end_seconds": 800.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-521",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 799.36,
+      "text": "战略思考的能力"
+    },
+    {
+      "end_seconds": 803.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-522",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 800.72,
+      "text": "所以说这个可能是PM的专长"
+    },
+    {
+      "end_seconds": 806.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-523",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 803.36,
+      "text": "对 所以我觉得规划产品这个事情"
+    },
+    {
+      "end_seconds": 808.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-524",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 806.08,
+      "text": "就还是要留给PM来做"
+    },
+    {
+      "end_seconds": 811.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-525",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 808.96,
+      "text": "因为我team里确实也有很多dev"
+    },
+    {
+      "end_seconds": 814.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-526",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 811.36,
+      "text": "他们就是经常特别兴奋冲上来跟我讲说"
+    },
+    {
+      "end_seconds": 816.48,
+      "id": "youtube-tx2sB8vrUEQ#cue-527",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 814.48,
+      "text": "Claire就是经常有个新突破"
+    },
+    {
+      "end_seconds": 818.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-528",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 816.48,
+      "text": "我们来做一个什么什么什么吧"
+    },
+    {
+      "end_seconds": 819.919,
+      "id": "youtube-tx2sB8vrUEQ#cue-529",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 818.0,
+      "text": "然后我每次看到这种我都很懵"
+    },
+    {
+      "end_seconds": 821.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-530",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 819.919,
+      "text": "Wait a second"
+    },
+    {
+      "end_seconds": 822.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-531",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 821.039,
+      "text": "你这个东西做出来你给谁用"
+    },
+    {
+      "end_seconds": 825.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-532",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 822.879,
+      "text": "就是我觉得它会把这个世界想象的"
+    },
+    {
+      "end_seconds": 826.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-533",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 825.2,
+      "text": "就是very high time"
+    },
+    {
+      "end_seconds": 828.799,
+      "id": "youtube-tx2sB8vrUEQ#cue-534",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 826.639,
+      "text": "我这个技术好了就一定能够有用"
+    },
+    {
+      "end_seconds": 829.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-535",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 828.799,
+      "text": "但不是这样的"
+    },
+    {
+      "end_seconds": 831.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-536",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 829.519,
+      "text": "我们还是应该找到用户的痛点"
+    },
+    {
+      "end_seconds": 833.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-537",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 831.6,
+      "text": "然后再把它就是做出来"
+    },
+    {
+      "end_seconds": 835.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-538",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 833.759,
+      "text": "然后我觉得很多时候"
+    },
+    {
+      "end_seconds": 837.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-539",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 835.6,
+      "text": "我的时间就花在了"
+    },
+    {
+      "end_seconds": 838.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-540",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 837.039,
+      "text": "毙掉我dev不靠谱的idea上"
+    },
+    {
+      "end_seconds": 841.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-541",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 838.879,
+      "text": "然后或者把它们transfer成一个靠谱的idea"
+    },
+    {
+      "end_seconds": 843.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-542",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 841.279,
+      "text": "这个确实也会花我很多时间"
+    },
+    {
+      "end_seconds": 845.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-543",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 844.0,
+      "text": "我就想补充一点"
+    },
+    {
+      "end_seconds": 847.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-544",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 845.12,
+      "text": "其实我观察到有一些PM"
+    },
+    {
+      "end_seconds": 849.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-545",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 847.36,
+      "text": "他们就是特别能说会道那种"
+    },
+    {
+      "end_seconds": 851.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-546",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 849.519,
+      "text": "就比方说他想到一些idea"
+    },
+    {
+      "end_seconds": 853.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-547",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 851.439,
+      "text": "他就能把它吹到天花乱坠"
+    },
+    {
+      "end_seconds": 855.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-548",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 853.36,
+      "text": "但是可能不管就是这个需求"
+    },
+    {
+      "end_seconds": 857.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-549",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 855.279,
+      "text": "到底是不是能满足别人的pain point"
+    },
+    {
+      "end_seconds": 859.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-550",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 857.839,
+      "text": "或者是到底是不是这个产品"
+    },
+    {
+      "end_seconds": 861.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-551",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 859.519,
+      "text": "真的是符合人民的需求"
+    },
+    {
+      "end_seconds": 862.959,
+      "id": "youtube-tx2sB8vrUEQ#cue-552",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 861.36,
+      "text": "然后满足别人的需要的"
+    },
+    {
+      "end_seconds": 865.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-553",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 862.959,
+      "text": "但是感觉他们大部分都在扯淡"
+    },
+    {
+      "end_seconds": 866.399,
+      "id": "youtube-tx2sB8vrUEQ#cue-554",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 865.279,
+      "text": "但是他们太能说了"
+    },
+    {
+      "end_seconds": 869.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-555",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 866.399,
+      "text": "所以这样的人可能升职会比较快一点"
+    },
+    {
+      "end_seconds": 873.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-556",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 869.12,
+      "text": "可能这是PM的世界的一个rule"
+    },
+    {
+      "end_seconds": 873.679,
+      "id": "youtube-tx2sB8vrUEQ#cue-557",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 873.199,
+      "text": "我不知道"
+    },
+    {
+      "end_seconds": 875.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-558",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 873.679,
+      "text": "但是我不太喜欢这样的PM"
+    },
+    {
+      "end_seconds": 877.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-559",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 875.6,
+      "text": "其实我还蛮同意的"
+    },
+    {
+      "end_seconds": 880.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-560",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 877.759,
+      "text": "因为我身边有很多就是PM同事嘛"
+    },
+    {
+      "end_seconds": 882.399,
+      "id": "youtube-tx2sB8vrUEQ#cue-561",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 880.319,
+      "text": "你可能一个idea就一分"
+    },
+    {
+      "end_seconds": 883.919,
+      "id": "youtube-tx2sB8vrUEQ#cue-562",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 882.399,
+      "text": "但是你把它说成十分"
+    },
+    {
+      "end_seconds": 885.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-563",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 883.919,
+      "text": "然后那大家可能就会"
+    },
+    {
+      "end_seconds": 888.159,
+      "id": "youtube-tx2sB8vrUEQ#cue-564",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 885.759,
+      "text": "愿意给你去资源给你去resource"
+    },
+    {
+      "end_seconds": 889.919,
+      "id": "youtube-tx2sB8vrUEQ#cue-565",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 888.159,
+      "text": "虽然那些特别会吹的人"
+    },
+    {
+      "end_seconds": 892.0,
+      "id": "youtube-tx2sB8vrUEQ#cue-566",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 889.919,
+      "text": "就可以经常去抢别人的credit"
+    },
+    {
+      "end_seconds": 893.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-567",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 892.0,
+      "text": "就是slides做的很快"
+    },
+    {
+      "end_seconds": 894.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-568",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 893.439,
+      "text": "然后会上特别会夸自己"
+    },
+    {
+      "end_seconds": 896.639,
+      "id": "youtube-tx2sB8vrUEQ#cue-569",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 894.96,
+      "text": "然后巴拉巴拉一通说就会升职"
+    },
+    {
+      "end_seconds": 899.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-570",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 896.639,
+      "text": "但是其实我觉得对于跟他合作的PM来说"
+    },
+    {
+      "end_seconds": 901.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-571",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 899.759,
+      "text": "对他们也是一个不好的"
+    },
+    {
+      "end_seconds": 903.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-572",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 901.12,
+      "text": "因为就是你的credit可能很容易被他去抢掉"
+    },
+    {
+      "end_seconds": 907.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-573",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 903.92,
+      "text": "我不赞同PM那么会说"
+    },
+    {
+      "end_seconds": 909.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-574",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 907.84,
+      "text": "但是我也不能反驳"
+    },
+    {
+      "end_seconds": 911.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-575",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 909.2,
+      "text": "就是会说的PM真的升得快"
+    },
+    {
+      "end_seconds": 914.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-576",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 912.24,
+      "text": "对我觉得会不会说这个是一个能力"
+    },
+    {
+      "end_seconds": 916.16,
+      "id": "youtube-tx2sB8vrUEQ#cue-577",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 914.56,
+      "text": "也是一个工具吧"
+    },
+    {
+      "end_seconds": 918.32,
+      "id": "youtube-tx2sB8vrUEQ#cue-578",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 916.16,
+      "text": "就是PM有这个工具还是好的"
+    },
+    {
+      "end_seconds": 921.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-579",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 918.32,
+      "text": "但是你怎么样子去运用这个工具很重要"
+    },
+    {
+      "end_seconds": 924.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-580",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 921.12,
+      "text": "好的PM他会用这个工具去做一些真正好的产品"
+    },
+    {
+      "end_seconds": 927.359,
+      "id": "youtube-tx2sB8vrUEQ#cue-581",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 924.639,
+      "text": "但是不好的PM他就是为自己的升职而服务"
+    },
+    {
+      "end_seconds": 929.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-582",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 927.359,
+      "text": "但是他升职去选择做的那些东西"
+    },
+    {
+      "end_seconds": 931.439,
+      "id": "youtube-tx2sB8vrUEQ#cue-583",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 929.839,
+      "text": "对产品反而没有什么好处"
+    },
+    {
+      "end_seconds": 932.719,
+      "id": "youtube-tx2sB8vrUEQ#cue-584",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 931.439,
+      "text": "嗯同意"
+    },
+    {
+      "end_seconds": 935.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-585",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 932.719,
+      "text": "所以就是又要有能力"
+    },
+    {
+      "end_seconds": 937.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-586",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 935.039,
+      "text": "可以找到就很好的产品"
+    },
+    {
+      "end_seconds": 938.959,
+      "id": "youtube-tx2sB8vrUEQ#cue-587",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 937.199,
+      "text": "然后又要能说会道"
+    },
+    {
+      "end_seconds": 940.479,
+      "id": "youtube-tx2sB8vrUEQ#cue-588",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 938.959,
+      "text": "能把自己产品推广出去"
+    },
+    {
+      "end_seconds": 941.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-589",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 940.479,
+      "text": "然后拿到好的funding"
+    },
+    {
+      "end_seconds": 942.959,
+      "id": "youtube-tx2sB8vrUEQ#cue-590",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 941.759,
+      "text": "这样是好的PM"
+    },
+    {
+      "end_seconds": 944.159,
+      "id": "youtube-tx2sB8vrUEQ#cue-591",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 942.959,
+      "text": "而且还有个爱心"
+    },
+    {
+      "end_seconds": 946.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-592",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 945.519,
+      "text": "真的真的真的"
+    },
+    {
+      "end_seconds": 948.159,
+      "id": "youtube-tx2sB8vrUEQ#cue-593",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 946.319,
+      "text": "我觉得就是要从用户角度出发"
+    },
+    {
+      "end_seconds": 950.159,
+      "id": "youtube-tx2sB8vrUEQ#cue-594",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 948.719,
+      "text": "该做什么不做什么还重要"
+    },
+    {
+      "end_seconds": 950.879,
+      "id": "youtube-tx2sB8vrUEQ#cue-595",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 950.159,
+      "text": "对"
+    },
+    {
+      "end_seconds": 952.239,
+      "id": "youtube-tx2sB8vrUEQ#cue-596",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 950.879,
+      "text": "就是东逼一波嘛"
+    },
+    {
+      "end_seconds": 953.839,
+      "id": "youtube-tx2sB8vrUEQ#cue-597",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 952.879,
+      "text": "差不多"
+    },
+    {
+      "end_seconds": 954.399,
+      "id": "youtube-tx2sB8vrUEQ#cue-598",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 953.84,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 955.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-599",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 954.399,
+      "text": "谢谢两位的分享"
+    },
+    {
+      "end_seconds": 957.519,
+      "id": "youtube-tx2sB8vrUEQ#cue-600",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 955.6,
+      "text": "就是俗话说树叶有砖根"
+    },
+    {
+      "end_seconds": 959.92,
+      "id": "youtube-tx2sB8vrUEQ#cue-601",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 957.519,
+      "text": "那我们就是产品经理"
+    },
+    {
+      "end_seconds": 962.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-602",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 959.92,
+      "text": "包括我们这种数据科学家的存在"
+    },
+    {
+      "end_seconds": 963.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-603",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 962.08,
+      "text": "就是为了能帮助程序员"
+    },
+    {
+      "end_seconds": 965.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-604",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 963.759,
+      "text": "把活更好的更快的"
+    },
+    {
+      "end_seconds": 966.56,
+      "id": "youtube-tx2sB8vrUEQ#cue-605",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 965.2,
+      "text": "跟我们的校的干出来"
+    },
+    {
+      "end_seconds": 969.2,
+      "id": "youtube-tx2sB8vrUEQ#cue-606",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 966.56,
+      "text": "可以帮助我们的产品做得更好"
+    },
+    {
+      "end_seconds": 969.84,
+      "id": "youtube-tx2sB8vrUEQ#cue-607",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 969.2,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 972.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-608",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 969.84,
+      "text": "我觉得就是大家在这个合作的过程中"
+    },
+    {
+      "end_seconds": 975.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-609",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 972.96,
+      "text": "互相理解互相学习是非常重要的"
+    },
+    {
+      "end_seconds": 977.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-610",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 975.759,
+      "text": "比如说产品经理"
+    },
+    {
+      "end_seconds": 979.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-611",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 977.36,
+      "text": "他如果可以多理解程序员"
+    },
+    {
+      "end_seconds": 980.32,
+      "id": "youtube-tx2sB8vrUEQ#cue-612",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 979.28,
+      "text": "可以多理解技术"
+    },
+    {
+      "end_seconds": 983.28,
+      "id": "youtube-tx2sB8vrUEQ#cue-613",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 980.32,
+      "text": "他可以知道这个产品的技术边界在哪里"
+    },
+    {
+      "end_seconds": 986.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-614",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 983.36,
+      "text": "可以更有效的把这个东西做出来做得更好"
+    },
+    {
+      "end_seconds": 988.399,
+      "id": "youtube-tx2sB8vrUEQ#cue-615",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 986.24,
+      "text": "然后也可以让大家的生活"
+    },
+    {
+      "end_seconds": 990.319,
+      "id": "youtube-tx2sB8vrUEQ#cue-616",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 988.399,
+      "text": "就是工作的时候做得更愉快一点"
+    },
+    {
+      "end_seconds": 993.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-617",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 990.799,
+      "text": "然后如果程序员更了解产品经理"
+    },
+    {
+      "end_seconds": 997.199,
+      "id": "youtube-tx2sB8vrUEQ#cue-618",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 993.6,
+      "text": "一方面可以多了解一下这个商业需求"
+    },
+    {
+      "end_seconds": 999.12,
+      "id": "youtube-tx2sB8vrUEQ#cue-619",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 997.199,
+      "text": "多了解一下我这个功能为什么要做"
+    },
+    {
+      "end_seconds": 1001.279,
+      "id": "youtube-tx2sB8vrUEQ#cue-620",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 999.12,
+      "text": "可能做起工作来的都有成就感"
+    },
+    {
+      "end_seconds": 1003.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-621",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1001.279,
+      "text": "另外就是在做这个功能的过程中"
+    },
+    {
+      "end_seconds": 1006.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-622",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1003.6,
+      "text": "可以多从产品经理那得到一些商业上的反馈"
+    },
+    {
+      "end_seconds": 1009.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-623",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1006.72,
+      "text": "最后可能就会让这个功能变得更好"
+    },
+    {
+      "end_seconds": 1011.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-624",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1009.759,
+      "text": "那希望我们这期视频"
+    },
+    {
+      "end_seconds": 1013.759,
+      "id": "youtube-tx2sB8vrUEQ#cue-625",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1011.44,
+      "text": "就可以帮助大家互相了解一下"
+    },
+    {
+      "end_seconds": 1015.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-626",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1013.759,
+      "text": "站在对方的角度上"
+    },
+    {
+      "end_seconds": 1017.6,
+      "id": "youtube-tx2sB8vrUEQ#cue-627",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1015.36,
+      "text": "工作中的时候有什么痛点"
+    },
+    {
+      "end_seconds": 1020.08,
+      "id": "youtube-tx2sB8vrUEQ#cue-628",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1017.6,
+      "text": "还有怎么样子从对方上去学习"
+    },
+    {
+      "end_seconds": 1022.24,
+      "id": "youtube-tx2sB8vrUEQ#cue-629",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1020.08,
+      "text": "感谢丹丹和Clare的分享"
+    },
+    {
+      "end_seconds": 1024.96,
+      "id": "youtube-tx2sB8vrUEQ#cue-630",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1022.24,
+      "text": "也感谢柳哥在一开始帮我们贡献了吐槽"
+    },
+    {
+      "end_seconds": 1027.36,
+      "id": "youtube-tx2sB8vrUEQ#cue-631",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1025.519,
+      "text": "如果大家喜欢我们的视频的话"
+    },
+    {
+      "end_seconds": 1028.88,
+      "id": "youtube-tx2sB8vrUEQ#cue-632",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1027.36,
+      "text": "欢迎大家点赞转发关注"
+    },
+    {
+      "end_seconds": 1031.039,
+      "id": "youtube-tx2sB8vrUEQ#cue-633",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1028.88,
+      "text": "尤其希望大家跟我们评论一下"
+    },
+    {
+      "end_seconds": 1033.44,
+      "id": "youtube-tx2sB8vrUEQ#cue-634",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1031.039,
+      "text": "就是互相之间有什么可以学习的"
+    },
+    {
+      "end_seconds": 1034.72,
+      "id": "youtube-tx2sB8vrUEQ#cue-635",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1033.44,
+      "text": "或者吐槽的东西"
+    },
+    {
+      "end_seconds": 1036.799,
+      "id": "youtube-tx2sB8vrUEQ#cue-636",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1034.72,
+      "text": "都希望大家在下面多多讨论"
+    },
+    {
+      "end_seconds": 1038.079,
+      "id": "youtube-tx2sB8vrUEQ#cue-637",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1036.799,
+      "text": "那谢谢大家"
+    },
+    {
+      "end_seconds": 1040.079,
+      "id": "youtube-tx2sB8vrUEQ#cue-638",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1038.079,
+      "text": "好,我们下期见,掰"
+    },
+    {
+      "end_seconds": 1042.099,
+      "id": "youtube-tx2sB8vrUEQ#cue-639",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1041.359,
+      "text": "by bwd6"
+    }
+  ],
+  "video_id": "tx2sB8vrUEQ",
+  "yuzheng_stance_weight": "not-evidence"
+}

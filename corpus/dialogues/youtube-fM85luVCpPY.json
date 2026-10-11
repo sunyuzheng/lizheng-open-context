@@ -1,0 +1,2253 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-fM85luVCpPY",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2020-09-09T22:33:26Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T02:07:03.964677+00:00",
+  "published_at": "2020-09-09",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "7fbbc7d66ed4545f58025608f0637be24bdc02c340ea8f3d198696420bbeea96",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "a887b5c74db8459739fd86cdf0a2f8e9d8b60ab0468cc21fa36888046bd04797",
+    "root_receipt_sha256": "8f8f80b8474a9751f70dc41e2851ae5ea9267db25f5ede91ed9e936e2a0436c5",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=fM85luVCpPY",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=fM85luVCpPY",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "For PhDs interested in industry opportunities",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 15.077,
+      "id": "youtube-fM85luVCpPY#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "So today, I would like to introduce our speaker, who is also a Cornell student. But right now, he, after he graduates from Cornell, he actually has a lot of."
+    },
+    {
+      "end_seconds": 40.387,
+      "id": "youtube-fM85luVCpPY#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.077,
+      "text": "Decisions on how to make a change from one job to another. He was he had experience in building startups, and he also has some intern experience in BCG. So, and later after he chose to not to do consulting anymore and to switch to Amazon. And right now he's a senior data scientist on Facebook. So I feel it's"
+    },
+    {
+      "end_seconds": 62.446,
+      "id": "youtube-fM85luVCpPY#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.387,
+      "text": "You know, he has. This is his name is being tied with so many big names of these, you know, great companies. And especially, I during our personal interaction, I also know Yu Jun had also wanted to stay in academia, but later he made a transition and go to, uh, you know, non-academia world."
+    },
+    {
+      "end_seconds": 70.683,
+      "id": "youtube-fM85luVCpPY#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.446,
+      "text": "所以，我非常兴奋能够有他作为我们第二期的第二位演讲嘉宾。"
+    },
+    {
+      "end_seconds": 90.917,
+      "id": "youtube-fM85luVCpPY#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.683,
+      "text": "And I, I think you will also learn a lot, especially at this stage of your PhD. Probably you are having some, you know, you probably want to stay in academia, and you also want to explore the world outside. And I think you will benefit a lot from today's talk."
+    },
+    {
+      "end_seconds": 101.864,
+      "id": "youtube-fM85luVCpPY#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 90.917,
+      "text": "So Bhe can introduce the rules. Yeah, um, just a couple of housekeeping rules before we start. So we would appreciate it if you mute yourself during the talk."
+    },
+    {
+      "end_seconds": 119.872,
+      "id": "youtube-fM85luVCpPY#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.864,
+      "text": "to eliminate background noise, but you know, feel free to open your camera if you want. And then at the end of the talk, we'll leave a lot of time for Q and A, which I think is going to be very the more the more interesting part where you can actually directly ask Eugenie questions."
+    },
+    {
+      "end_seconds": 134.401,
+      "id": "youtube-fM85luVCpPY#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.872,
+      "text": "If you want to ask directly, then just type \"raise hand\" in the chat box, and then we will give the mic to you. If you're a bit shy, you can type in the questions in the chat box, and then one of us will read it out loud."
+    },
+    {
+      "end_seconds": 159.439,
+      "id": "youtube-fM85luVCpPY#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.401,
+      "text": "Please don't ask too many questions. Maybe not more than two, but definitely encourage everyone to at least ask one question. I think. Oh, last thing. When you're asking questions, it'd be great to turn on your video because it just always feels more personal to see the person face to face. So that's pretty much everything. Should we give the floor to our speaker?"
+    },
+    {
+      "end_seconds": 168.337,
+      "id": "youtube-fM85luVCpPY#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 159.439,
+      "text": "Definitely. So I just stop sharing. You, John, can you start sharing? Hey."
+    },
+    {
+      "end_seconds": 188.604,
+      "id": "youtube-fM85luVCpPY#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.337,
+      "text": "Yeah. So, thank you for inviting and thank you for having this series. I'm going to talk about that in my presentation as well because that is one of the biggest lessons learned. I learned as well, like looking back to my PhD years that I didn't spend much time knowing what's out there."
+    },
+    {
+      "end_seconds": 202.397,
+      "id": "youtube-fM85luVCpPY#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 188.604,
+      "text": "So just stayed on my academia path for too long, and that is one of my biggest regret of my of my life. Otherwise, I'll be much richer than what I am right now."
+    },
+    {
+      "end_seconds": 220.068,
+      "id": "youtube-fM85luVCpPY#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 202.397,
+      "text": "Okay. So, thank you. And one more thing. Sometimes I do not control the pace of my pace of my speak well. And if you find something unclear, feel free to interrupt me and ask me to repeat. What do I actually mean?"
+    },
+    {
+      "end_seconds": 228.421,
+      "id": "youtube-fM85luVCpPY#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.068,
+      "text": "Alright, I'll start sharing."
+    },
+    {
+      "end_seconds": 244.564,
+      "id": "youtube-fM85luVCpPY#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 228.421,
+      "text": "Okay, so from Econ PhD to tech, I guess the first part is going to be an introduction of my journey, and the second is my lessons and kind of my three advices."
+    },
+    {
+      "end_seconds": 259.135,
+      "id": "youtube-fM85luVCpPY#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 244.564,
+      "text": "So self-intro. This is just a screenshot of my LinkedIn. Right now, I'm a senior data scientist on Facebook. I do Facebook e-commerce, not the Facebook shops, the marketplace citizenship. So if you"
+    },
+    {
+      "end_seconds": 284.699,
+      "id": "youtube-fM85luVCpPY#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.135,
+      "text": "I guess most of us are from China. It's kind of闲鱼in the American version. And before that, I was an economist at Amazon. So we do so that okay. So the difference between these two jobs at Amazon as an economist, I get to do a lot of what I do in PhD. So I read academic papers, I do models, I run machine learning causal inference models."
+    },
+    {
+      "end_seconds": 291.956,
+      "id": "youtube-fM85luVCpPY#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 284.699,
+      "text": "But as a data scientist at Facebook, I mostly just do SQL."
+    },
+    {
+      "end_seconds": 307.507,
+      "id": "youtube-fM85luVCpPY#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 291.956,
+      "text": "to get data, and then Tableau to plot two charts. Basically, just plot bar charts, and then I do kind of analytics. So I tell people what does the data mean, and how does that drives our decisions."
+    },
+    {
+      "end_seconds": 333.462,
+      "id": "youtube-fM85luVCpPY#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 307.507,
+      "text": "So I'm basically using, I guess, second-year statistical information. I'm not doing anything that is related to my PhD education, and I'm actually pretty happy about my current job. And I'll talk later about path dependent, and we don't need to just use what we learned. We should unconstrained optimization, but let's save that hug later."
+    },
+    {
+      "end_seconds": 352.167,
+      "id": "youtube-fM85luVCpPY#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 333.462,
+      "text": "And before that, it was Cornell PhD in economics, and it's six years. And I hope this stays as four years. Then I would have much better, much more experience, and join tech companies much earlier. But okay, on the right is my dissertation."
+    },
+    {
+      "end_seconds": 364.488,
+      "id": "youtube-fM85luVCpPY#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.167,
+      "text": "So the dissertation is about firms, investors, and stock market. I my my pitch my job market paper is the real impact of IPO."
+    },
+    {
+      "end_seconds": 393.109,
+      "id": "youtube-fM85luVCpPY#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 364.488,
+      "text": "So using some natural shock happened in China to understand the real impact of IPO on on like the impact of IPO on real economy. But now when I look back into my dissertation, I don't even care about what conclusion I drew because it has no impact on the real world. Okay. And before I graduated, so I graduated in."
+    },
+    {
+      "end_seconds": 422.592,
+      "id": "youtube-fM85luVCpPY#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 393.109,
+      "text": "August 2017， and before I graduate, I spent three months as a summer consultant at BCG in Beijing office. I liked the experience a lot, but for some personal reasons, I chose to came back to United States and do big tech. And during my PhD, so this is during my PhD, I had some very strange, I guess I."
+    },
+    {
+      "end_seconds": 441.257,
+      "id": "youtube-fM85luVCpPY#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 422.592,
+      "text": "Abnormal or not normal experiences as a PhD student. We founded a ramen shop in New York City, and we founded we we did some, I guess, college grocery delivery business at Cornell. So it's almost like Amazon Fresh."
+    },
+    {
+      "end_seconds": 457.771,
+      "id": "youtube-fM85luVCpPY#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 441.257,
+      "text": "We we we run weekly delivery from New York City to Cornell campuses and delivery to student dorms. So definitely raise an eyebrow. These are some screenshots. This is the ramen shop, and we did a holiday market."
+    },
+    {
+      "end_seconds": 483.824,
+      "id": "youtube-fM85luVCpPY#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 457.771,
+      "text": "By a Korean town, that was like we go there every morning, and the market starts at eleven, I think. Then we do, we we just make Japanese ramen, and we close at I I I forgot maybe nine p.m. and then we wash the pots, the dishes, and do it all over again the next day. Not not me, so, but I helped."
+    },
+    {
+      "end_seconds": 497.878,
+      "id": "youtube-fM85luVCpPY#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 483.824,
+      "text": "And this this is the picture for the college grocery. So we made posters. We collaborate with a New York City Chinese grocery store, and we deliver other stuff to campuses. So this is you."
+    },
+    {
+      "end_seconds": 511.871,
+      "id": "youtube-fM85luVCpPY#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 497.878,
+      "text": "You get an order on our website. We get our stuff in New York City, and we deliver to you. And this is kind of our delivery. So this car goes from New York City to Ithaca."
+    },
+    {
+      "end_seconds": 530.343,
+      "id": "youtube-fM85luVCpPY#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.871,
+      "text": "and in up in boxes. So, a harcourcier at New York City puts the stuff into boxes, and then we sort into individual orders. We had to do this because we didn't have a big enough car from New York City to Ithaca. All right, so."
+    },
+    {
+      "end_seconds": 543.747,
+      "id": "youtube-fM85luVCpPY#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 530.343,
+      "text": "All those experiences, right? What, what, what is my biggest lesson? The biggest lesson is I enjoy my life much better than after PhD than was during PhD."
+    },
+    {
+      "end_seconds": 567.22,
+      "id": "youtube-fM85luVCpPY#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.747,
+      "text": "So during PhD, I I also lived, I don't know, like I I like to explore, I like to do different things, but one I have this constant fear of failing. That what if I don't get my PhD? What if I fail at academia? My peers are studying and doing research, and they are so much smarter than me. What I'm doing, you know, enjoying my life."
+    },
+    {
+      "end_seconds": 584.862,
+      "id": "youtube-fM85luVCpPY#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 567.22,
+      "text": "So I like if I go out and just have some fun, I would have a lot of self guilt, and that is not a very pleasant feeling. If you when you are you anxiety and fear, I guess. So."
+    },
+    {
+      "end_seconds": 610.285,
+      "id": "youtube-fM85luVCpPY#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 584.862,
+      "text": "After PhD, because I sell my time to the company, I get to separate work versus life. No matter how much hours I put in my work, I get to enjoy my own life. So an anecdote story is in in BCG Beijing, the hours were quite crazy. So I had to work nine a.m. to about average two two a.m."
+    },
+    {
+      "end_seconds": 630.727,
+      "id": "youtube-fM85luVCpPY#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 610.285,
+      "text": "Sometimes I go home at twelve, and I feel like today is a very lucky day because I can I get to go home, twelve twelve a.m. And sometimes you have to go home at five a.m. and wake up the next day, wake up the same day, sleeping like three hours. But I still felt better than my PhD."
+    },
+    {
+      "end_seconds": 660.437,
+      "id": "youtube-fM85luVCpPY#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 630.727,
+      "text": "That was during my PhD time, like that was before my graduation. I still feel better doing the consulting work with such a long hour than what than my experience during PhD, because I get to separate work and life. So and I get to quite like be myself basically after work, and that felt very good. And the last thing to mention is the living expenses. You get to earn much more after PhD, so that's a big bonus."
+    },
+    {
+      "end_seconds": 678.428,
+      "id": "youtube-fM85luVCpPY#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 660.437,
+      "text": "And this is kind of my Instagram story archive. Just so a lot happening since I graduated from PhD."
+    },
+    {
+      "end_seconds": 705.07,
+      "id": "youtube-fM85luVCpPY#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 678.428,
+      "text": "Yeah, I got to do things. Yeah, the lesson number one. And if I could do my PhD all over again, what would I do? So first, I didn't have this theory. I didn't have this world beyond academia theory when I was in PhD. If I had that, maybe I can realize much sooner that academia is not what I want to do."
+    },
+    {
+      "end_seconds": 730.634,
+      "id": "youtube-fM85luVCpPY#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 705.07,
+      "text": "So the first thing I want to do is admit that I don't want to do academia in my second year instead of my my sixth year. I stayed in PhD for six years because I always think that you know the best people in my best peers they are doing academia, and that is how the how PhD is supposed to do, how how we are supposed to do."
+    },
+    {
+      "end_seconds": 746.641,
+      "id": "youtube-fM85luVCpPY#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 730.634,
+      "text": "Academia， so I came here to do academia. I should do academia. If I feel like I don't want to do academia, that is just because things things are getting too hard. So I'm quitting. I equate."
+    },
+    {
+      "end_seconds": 754.854,
+      "id": "youtube-fM85luVCpPY#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 746.641,
+      "text": "Not interested in academia, as finding excuse for quitting. So I just stayed for too long."
+    },
+    {
+      "end_seconds": 778.175,
+      "id": "youtube-fM85luVCpPY#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 754.854,
+      "text": "If I realize I don't, I like. If I realize that, honestly, do not want to do PhD, I would have told my committee that I don't want to do academia as soon as I found that, and then I'll start looking for industry internships. So I didn't do any industry internships during my PhD. So the BCG is my first kind of internship experience during my PhD."
+    },
+    {
+      "end_seconds": 785.207,
+      "id": "youtube-fM85luVCpPY#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 778.174,
+      "text": "I would have done industry internships, and that would prepare me for much better."
+    },
+    {
+      "end_seconds": 803.275,
+      "id": "youtube-fM85luVCpPY#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 785.207,
+      "text": "Position or situation when I was looking for industry jobs, then I would have finished my PhD in four years instead of six, because I don't think there was any extra value for me or for the society by me staying in my PhD program for six years."
+    },
+    {
+      "end_seconds": 828.049,
+      "id": "youtube-fM85luVCpPY#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 803.275,
+      "text": "And one thing I'm not sure if it's achievable, but maybe if I realize I don't want to do academia, that is during my PhD, I should have separated my work from my life. I should have just have work hours and not think about the research and the the stuff I do after the work hours. Because when I think back, I have self"
+    },
+    {
+      "end_seconds": 850.67,
+      "id": "youtube-fM85luVCpPY#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 828.049,
+      "text": "guilt, I feel guilty not working, so I constantly think about my work, but it did it didn't help my productivity. I feel like looking back, if I separated my work and the life, I could be more productive in work and much be much happier in life. So that is another lesson."
+    },
+    {
+      "end_seconds": 870.023,
+      "id": "youtube-fM85luVCpPY#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 850.67,
+      "text": "Alright, so three advices after having this lesson and spending a couple years after academia. Advice number two is know yourself, because I didn't, and I wasn't completely honest with myself, and I think it's very easy bias, like."
+    },
+    {
+      "end_seconds": 880.643,
+      "id": "youtube-fM85luVCpPY#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 870.023,
+      "text": "Like not knowing yourself is common. Knowing yourself is difficult. So know what is your true interest and your strengths."
+    },
+    {
+      "end_seconds": 905.625,
+      "id": "youtube-fM85luVCpPY#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 880.643,
+      "text": "Like we are all good at studying, we are all good at reading papers, we are all good at doing research. That's why we are here. But beyond that, what is your strength? And most most importantly, what what actually drives you? Like, do you feel excited doing research? Ah, so I was okay. So this part, the re part of the reason I stayed in academia for very long is I I was actually very interested in research."
+    },
+    {
+      "end_seconds": 919.286,
+      "id": "youtube-fM85luVCpPY#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 905.625,
+      "text": "I was in empirical corporate finance, and I actually found the papers very interesting. and I I enjoy reading papers, and I enjoy doing research. But even"
+    },
+    {
+      "end_seconds": 934.951,
+      "id": "youtube-fM85luVCpPY#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 919.286,
+      "text": "Even with that, I still feel like I do not want to do academia because what actually drives me is having an impact on the world. I don't feel like I was doing that."
+    },
+    {
+      "end_seconds": 952.61,
+      "id": "youtube-fM85luVCpPY#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 934.951,
+      "text": "By doing research, like the paper I write, I don't think it it can actually create the impact I wanted to. I I want to I want for myself, yeah. So, understanding your underlying motivation is very important."
+    },
+    {
+      "end_seconds": 972.641,
+      "id": "youtube-fM85luVCpPY#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 952.61,
+      "text": "And then have a like be honest about what are your resources and what you can do, and sometimes knowing this takes trying. Like you don't know what you don't know, right? So you have to try. Like in tech, they have they build this minimal minimal viable products to validate their assumptions."
+    },
+    {
+      "end_seconds": 982.768,
+      "id": "youtube-fM85luVCpPY#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 972.641,
+      "text": "Sometimes it doesn't take much. For example, coming to this series and listen to was beyond academia is a way of knowing."
+    },
+    {
+      "end_seconds": 1007.152,
+      "id": "youtube-fM85luVCpPY#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 982.768,
+      "text": "呃，doing internships is a great way to try if you like to really get to know the day-to-day of different jobs and really understand if that is what you want to do, right? And also, when you try, now there are a lot of two-way door decisions, especially when you are in PhD. So, for example, if you do an internship in industry,"
+    },
+    {
+      "end_seconds": 1031.195,
+      "id": "youtube-fM85luVCpPY#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1007.152,
+      "text": "If you don't like it, you can still come back. You can still do academia. So a lot of decisions are two-way door. That means you can just try and come back. There is no, not much harm for trying. So definitely take those opportunities and try. Like the industry, the industry internship or the industry experiences. If even if you decide to do academia."
+    },
+    {
+      "end_seconds": 1057.366,
+      "id": "youtube-fM85luVCpPY#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1031.195,
+      "text": "Would be good for your research and for academic job because you know, like for example, what kind of data is out there, what people actually care about, and maybe you build some connections. Maybe like the the like having multiple multiple dimension of experiences is going to help you, not going to hurt you. Otherwise, number two is unconstrained optimization is always better than constrained. Maybe a"
+    },
+    {
+      "end_seconds": 1078.881,
+      "id": "youtube-fM85luVCpPY#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1057.366,
+      "text": "Bigger equal to, bigger than equal to, but it's like most of the case is better, right? Sometimes it's equal. And sometimes we stuck in academia for too long, and that is gets echoes because earlier point that a lot of people stay in academia because one, they don't know what they can do outside of academia, and two,"
+    },
+    {
+      "end_seconds": 1094.94,
+      "id": "youtube-fM85luVCpPY#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1078.881,
+      "text": "They want to use. They spend so much time in academia. They spend so much time in research. They want to use that. They want to play that strength, and they don't want to just give it up. But that is, I guess, bias itself."
+    },
+    {
+      "end_seconds": 1111.484,
+      "id": "youtube-fM85luVCpPY#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1094.94,
+      "text": "Like, just think about what makes you happy tomorrow, or in ten years, or in twenty years of your life. It's not going to be like a lot of cases. It's not going to be just you know repeating what you did for the past ten years."
+    },
+    {
+      "end_seconds": 1135.593,
+      "id": "youtube-fM85luVCpPY#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1111.484,
+      "text": "Like if today there are two choices, option number one leads to a better life in ten years or even in in one year. Option number two is doing what you have been doing or what you are good at, but you are going to be less happy in one year. Choose option number one. Don't don't choose option number two just because you did option number two for such a long time, right?"
+    },
+    {
+      "end_seconds": 1160.779,
+      "id": "youtube-fM85luVCpPY#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1135.593,
+      "text": "So do unconstrained optimization. Don't let your past constrain you. So path dependent sunk cost, loss aversion, those are things that stop you from trying new things. And I talk about this earlier. Like really be honest about yourself. Not only like admitting your strengths and your shortcomings, but also you know."
+    },
+    {
+      "end_seconds": 1184.715,
+      "id": "youtube-fM85luVCpPY#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1160.779,
+      "text": "Sometimes it's okay to quit and know that it's okay to quit. I was, I guess, for me, it was my ego and pride, or like my self-discipline, that got into my way of admitting I'm not interested in academia. So it goes both ways, right? So really, be completely honest with yourself."
+    },
+    {
+      "end_seconds": 1195.459,
+      "id": "youtube-fM85luVCpPY#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1184.715,
+      "text": "And the cost, the last, the last, the the second part is the cost. A lot of times, the cost of not not acting is bigger than the risk of acting."
+    },
+    {
+      "end_seconds": 1220.953,
+      "id": "youtube-fM85luVCpPY#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1195.459,
+      "text": "And PhD, the program definitely gives you a shelter and excuse to not act. What do I mean by this? If you are PhD, in Western schools, right, it's five years program. It is it is a very long time, and and the program doesn't ask you much results until the end."
+    },
+    {
+      "end_seconds": 1242.849,
+      "id": "youtube-fM85luVCpPY#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1220.953,
+      "text": "Because they want to give you some freedom to, ah, to really focus and do research, without the worry that you know next week I what I have to do, next month what I have to do. They give you some stipend and they give you a very, ah, lenient environment, and they tell you, you know, just focus on research."
+    },
+    {
+      "end_seconds": 1256.366,
+      "id": "youtube-fM85luVCpPY#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1242.849,
+      "text": "So it's a shelter to not trying different things because, for example, for me, before every summer I stayed at Cornell and did extra research. I, you're um."
+    },
+    {
+      "end_seconds": 1281.683,
+      "id": "youtube-fM85luVCpPY#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1256.366,
+      "text": "Apply for summer RA or TA, and then stay at school and go to lab every day to do research instead of applying for an internship. And I felt pretty good about my decision because I was focusing on research. I didn't waste any of my time. But now, if you ask me, what did I do? Summer of I don't know."
+    },
+    {
+      "end_seconds": 1304.412,
+      "id": "youtube-fM85luVCpPY#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1281.683,
+      "text": "2015， I don't remember. I don't remember what paper I read. I don't remember what research I did. I feel like it's a complete, it's not complete waste of time, but it is a waste of time. So that was the cost of me not having, not acting to apply for summer internship. And I guess."
+    },
+    {
+      "end_seconds": 1326.58,
+      "id": "youtube-fM85luVCpPY#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1304.412,
+      "text": "That's an easy trap for a lot of PhD because the program is set up this way. So think about what is the cost of you not acting, and what is the risk if you actually act. A lot of the time, the risk of acting is very small. You actually benefit from acting, and the cost of not acting is ignored."
+    },
+    {
+      "end_seconds": 1338.924,
+      "id": "youtube-fM85luVCpPY#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1326.58,
+      "text": "Advice number three is know, really know what's out there. And this one, I think, is the, I guess, in terms of risk reward, is definitely everyone should just know."
+    },
+    {
+      "end_seconds": 1364.554,
+      "id": "youtube-fM85luVCpPY#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1338.924,
+      "text": "Like you know, you should know your options beyond academia, right? So coming to this talk again is great. Your options, what industries you can go. Like I hear a lot of you either come from consulting, or come from or want to do consulting. Consulting is a great industry. I later on I'll like post a screenshot to my YouTube channel."
+    },
+    {
+      "end_seconds": 1377.701,
+      "id": "youtube-fM85luVCpPY#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1364.554,
+      "text": "And I talked about the value of consulting that brings to the to to the firm that hires consultants. I think it's a great industry. But beyond consulting,"
+    },
+    {
+      "end_seconds": 1389.256,
+      "id": "youtube-fM85luVCpPY#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1377.701,
+      "text": "There are also a lot of other industries that industries that just hire a PhD because you are a PhD. For example, tech hires all sorts of people."
+    },
+    {
+      "end_seconds": 1414.23,
+      "id": "youtube-fM85luVCpPY#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1389.256,
+      "text": "to solve their problems, whether it's data, whether it's optimization, like some operation research, and sometimes it's even like materials science, mechanical engineering. They have all sorts of PhD. So, know other options. I guess consulting and data, all the PhDs can just get into and try. So."
+    },
+    {
+      "end_seconds": 1432.847,
+      "id": "youtube-fM85luVCpPY#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1414.23,
+      "text": "Know, what's really like? Know, your average salary, know career path, and what do they do day to day? Yeah, really know what do they do? So, then you can fairly assess: Are you going to be interested in this type of job, or should do something else?"
+    },
+    {
+      "end_seconds": 1451.171,
+      "id": "youtube-fM85luVCpPY#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1432.847,
+      "text": "And also, another option if you choose to do something else. For example, if you just take a computer science master, or if you go to go do some internship, or if you prepare an interview for half a year, or maybe you take some."
+    },
+    {
+      "end_seconds": 1474.329,
+      "id": "youtube-fM85luVCpPY#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1451.171,
+      "text": "I don't know machine learning courses, and you build your resume that way. It will open a lot of different options for you. So now, based on your current capacity and based on what you can do in a year, know options, and really do the unconstrained optimization."
+    },
+    {
+      "end_seconds": 1489.465,
+      "id": "youtube-fM85luVCpPY#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1474.329,
+      "text": "And then the, I guess the last part is chance of success, and that leads to my next slide: how to increase your chance of success of getting what you want to, what you try to get."
+    },
+    {
+      "end_seconds": 1510.759,
+      "id": "youtube-fM85luVCpPY#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1489.465,
+      "text": "So, find the gap between what you want to do. The first is know what you want to do, right? And know other industries, know what like what career you want to choose. For example, a lot of you want to do consulting, that's great. Then what is the gap between your current resume, between your current knowledge, experiences, projects? Do you have the right internships?"
+    },
+    {
+      "end_seconds": 1530.934,
+      "id": "youtube-fM85luVCpPY#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1510.759,
+      "text": "To get to consulting, are they going to take your resume and give you an interview? And then you need to prepare for interviews, right? And sometimes building connections can give you either recommendations, referral, or just give you some knowledge and, you know."
+    },
+    {
+      "end_seconds": 1548.908,
+      "id": "youtube-fM85luVCpPY#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1530.934,
+      "text": "Tell you, what's the most effective way to prepare for interview or to bridge a gap? So this is, I guess, an action item. Know what's out there. Have an access, like a fair, honest access. Uh, access."
+    },
+    {
+      "end_seconds": 1567.788,
+      "id": "youtube-fM85luVCpPY#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1548.908,
+      "text": "process of of yourself, and then start acting to close the gap. I have a YouTube video about data science. What data scientists data scientists do. And today I'm going to meet with a friend and shoot another video to talk about how to close the gap."
+    },
+    {
+      "end_seconds": 1583.304,
+      "id": "youtube-fM85luVCpPY#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1567.788,
+      "text": "To get into data scientists, data science. So, what companies are looking for, and how how do you prepare? What materials do you need to do to prepare for to close the gap? So, stay tuned and subscribe."
+    },
+    {
+      "end_seconds": 1605.2,
+      "id": "youtube-fM85luVCpPY#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1583.304,
+      "text": "Alright, so this is a screenshot of my YouTube channel. For example, talk about A/B testing, talk about how AI is applied in big tech companies, what is management consulting, and what is data science. I have some Zhihu articles. Maybe in the future, I will also make videos based on these articles."
+    },
+    {
+      "end_seconds": 1614.803,
+      "id": "youtube-fM85luVCpPY#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1605.2,
+      "text": "But this one, for example, talks about how how you prepare for mock interview. I guess, okay, a little bit about myself."
+    },
+    {
+      "end_seconds": 1621.986,
+      "id": "youtube-fM85luVCpPY#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1614.803,
+      "text": "Maybe here, yeah. It's all going to be okay. Yeah, a little bit about myself in the end. So one."
+    },
+    {
+      "end_seconds": 1646.967,
+      "id": "youtube-fM85luVCpPY#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1621.986,
+      "text": "Because you are Ph.D., you are all smart and diligent. Otherwise, you won't be able to get here. People, a lot of people, like a lot of us, have a imposter syndrome. That you know, we got here because of luck or because. But everyone, all my peers are smarter than me, so I must be the imposter. I must be faking it. No, you deserve the Ph.D."
+    },
+    {
+      "end_seconds": 1673.63,
+      "id": "youtube-fM85luVCpPY#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1646.967,
+      "text": "You're smart, intelligent, and you actually have better resource than most people. I'm not only talking about the your advisors, your professors, the classes you can take. You can take most classes for free as a PhD. So take those classes, do the projects, build your resume. But also, like even if you try to fake, right? If you want to, for example, people, a lot of people in in tech, the"
+    },
+    {
+      "end_seconds": 1686.534,
+      "id": "youtube-fM85luVCpPY#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1673.63,
+      "text": "Like AI is is very easy to fake, not to fake, but very easy to uh to to get to know. For example, machine learning is just uh."
+    },
+    {
+      "end_seconds": 1697.433,
+      "id": "youtube-fM85luVCpPY#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1686.534,
+      "text": "Basically, takes takes a month or or or maybe three months to to get to to know AI well if you really prepare for it."
+    },
+    {
+      "end_seconds": 1722.152,
+      "id": "youtube-fM85luVCpPY#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1697.433,
+      "text": "So if you take three months and prepare, like learn about AI, and then you take another three months, write a paper about AI, maybe it's not, it's useful, maybe it's not. But HR because you are PhD will pay attention to you, and it will add, it will boost your resume and give you a chance to most tech companies. So that is the resource that many people do not have."
+    },
+    {
+      "end_seconds": 1731.03,
+      "id": "youtube-fM85luVCpPY#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1722.152,
+      "text": "Then you can maximize your experience on one dimen. You maximize the experience on one dimension. So I."
+    },
+    {
+      "end_seconds": 1756.749,
+      "id": "youtube-fM85luVCpPY#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1731.03,
+      "text": "When I was doing consulting, I was back in Beijing, and my, I guess my peers, people who are at my same age, I hang out with people who do startups, and a lot of them were quite successful. They started companies that are well-known names, and they they had like if they went to industry, some of them are directors."
+    },
+    {
+      "end_seconds": 1768.614,
+      "id": "youtube-fM85luVCpPY#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1756.749,
+      "text": "They were quite successful, but I feel like I didn't waste my time doing PhD because I also like because I had title of PhD, I maximized my experience on academia."
+    },
+    {
+      "end_seconds": 1789.824,
+      "id": "youtube-fM85luVCpPY#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1768.614,
+      "text": "And so, doing doing PhD in academia is really like playing at a very high level, right? And not many people get to see that. So if you draw an analogy in sports, it's almost like playing a youth team for football club, right? You go to the top level, you know what the top level looks like."
+    },
+    {
+      "end_seconds": 1800.874,
+      "id": "youtube-fM85luVCpPY#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1789.824,
+      "text": "或者，如果你 founded a mildly successful successful startup， I feel like do you know what what does it take to be a to be a true truly successful startup?"
+    },
+    {
+      "end_seconds": 1821.499,
+      "id": "youtube-fM85luVCpPY#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1800.874,
+      "text": "But you like you interact with the best scholars in the world, and you have this title that stays with you for your whole life. That says, you know, you are PhD. You complete a great deal in academia, and you are one of the smartest people in the world. So that's great. It's all going to be okay."
+    },
+    {
+      "end_seconds": 1847.126,
+      "id": "youtube-fM85luVCpPY#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1821.499,
+      "text": "I want to. Oh, one last thing about myself. Yeah, I wasted, not wasted. I spent six years in academia, and only to realize on my sixth year that I don't really want to do academia. So I applied the BCG. Going back to my resume, I applied. I applied the BCG."
+    },
+    {
+      "end_seconds": 1856.254,
+      "id": "youtube-fM85luVCpPY#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1847.126,
+      "text": "Job, I think December 2016, and got the internship."
+    },
+    {
+      "end_seconds": 1881.513,
+      "id": "youtube-fM85luVCpPY#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1856.254,
+      "text": "January twenty seven, uh, sorry, got the interview. January twenty seventeen, I prepared a week for my mock interviews and got the internship and got in. So one is I had article about how to prepare mock interviews, how to prepare the interviews efficiently. But two, I feel like that's a lucky shot."
+    },
+    {
+      "end_seconds": 1897.683,
+      "id": "youtube-fM85luVCpPY#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1881.513,
+      "text": "And then at Amazon, like I didn't apply to any tech jobs. Amazon is the only one applied. I got the interview and I got in. And later I discovered that is kind of one of the."
+    },
+    {
+      "end_seconds": 1918.37,
+      "id": "youtube-fM85luVCpPY#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1897.683,
+      "text": "Best jobs that I can I can ever have. So a lot of this is luck, but I don't think it's purely luck. It's also because I have the title, I had some experiences during PhD, and I actually spend the time and really prepare for the interview. So."
+    },
+    {
+      "end_seconds": 1929.868,
+      "id": "youtube-fM85luVCpPY#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1918.37,
+      "text": "There are a lot of things you can do much better than I I did by starting early. So that was all my advice and lessons. If I knew this in my second year."
+    },
+    {
+      "end_seconds": 1942.36,
+      "id": "youtube-fM85luVCpPY#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1929.868,
+      "text": "I would prepare myself so well that I couldn't fail. So, yeah, that is my lessons and advices. Thank you for listening."
+    },
+    {
+      "end_seconds": 1958.546,
+      "id": "youtube-fM85luVCpPY#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1942.36,
+      "text": "Thank you, Ujan. That's very helpful, and I think you know what's really impressive is how genuine you are in sharing your thoughts and experience, and it's really encouraging to people who who might be having second doubts about themselves."
+    },
+    {
+      "end_seconds": 1984.244,
+      "id": "youtube-fM85luVCpPY#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1958.546,
+      "text": "You know, before, I mean, people in the audience, feel free to ask questions or typing your questions. But we've had a couple coming in, and I feel like because your experience is so broad, people might ask all sorts of questions, and it could be, you know, loosely categorized into your experience as an economist, and then, you know, having startups yourselves."
+    },
+    {
+      "end_seconds": 1999.538,
+      "id": "youtube-fM85luVCpPY#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1984.244,
+      "text": "然后 transitioning into a data scientist, and now you know having your own YouTube channel, and then some people might just want some general advice for you. So let's try to maybe group our questions in this kind of categories."
+    },
+    {
+      "end_seconds": 2015.747,
+      "id": "youtube-fM85luVCpPY#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1999.538,
+      "text": "Anyone wants to be the first person asking a question live? Hello."
+    },
+    {
+      "end_seconds": 2038.633,
+      "id": "youtube-fM85luVCpPY#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2015.747,
+      "text": "Hello. Hi, Fumi. We can hear you. Okay. So, would you advise to someone who is interested in going to the industry later to Sorry, pardon. Enable the video sharing because that's the rule we said for Q and A. If you want to ask question live."
+    },
+    {
+      "end_seconds": 2047.191,
+      "id": "youtube-fM85luVCpPY#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2038.633,
+      "text": "Was the rule? Yeah, there's a rule for Q and A. If you want to ask in person, it's better to just share a video."
+    },
+    {
+      "end_seconds": 2076.424,
+      "id": "youtube-fM85luVCpPY#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2047.191,
+      "text": "哦，To turn on the video. Correct. Oh, unnecessary. All right. Sorry, I didn't prepare. Okay, yeah, feel free. Okay, um, would it be better to try to finish the PhD faster or utilize the summer to do internships? And how would you compare the problems in financial markets to consumer markets?"
+    },
+    {
+      "end_seconds": 2096.283,
+      "id": "youtube-fM85luVCpPY#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2076.424,
+      "text": "Two questions. Yeah, the first one I think is easy, but I didn't get the second one, so I ask for clarification. The first one, like internship, is really to try out, right? And build a resume. If you have a like good enough resume, and if you know what you need to do, then just finish a PhD and do that."
+    },
+    {
+      "end_seconds": 2108.216,
+      "id": "youtube-fM85luVCpPY#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2096.283,
+      "text": "But if you don't, then definitely you know try as many internships until you you have a good enough resume to do the things you know you want to do."
+    },
+    {
+      "end_seconds": 2121.634,
+      "id": "youtube-fM85luVCpPY#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2108.216,
+      "text": "The second question: financial markets and consumer markets was that like, is it choosing between the industry or? How are the problems similar or different?"
+    },
+    {
+      "end_seconds": 2136.452,
+      "id": "youtube-fM85luVCpPY#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2121.634,
+      "text": "The promise. How are the problems similar or different? Oh, okay. I guess it's about how did I apply my my knowledge of."
+    },
+    {
+      "end_seconds": 2146.057,
+      "id": "youtube-fM85luVCpPY#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2136.452,
+      "text": "Finance PhD, like economics, concentrated in finance to consumer markets, right? A lot of tools and skills are"
+    },
+    {
+      "end_seconds": 2171.976,
+      "id": "youtube-fM85luVCpPY#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2146.057,
+      "text": "Can be carried over. For example, I did apply econometrics, I did causal inference for the corporate finance study. For example, matching, difference in difference, all those causal inference stuff, and those tools can be directly applied to solve consumer markets problems. That's why Amazon hired me to do, or what they hired me to do."
+    },
+    {
+      "end_seconds": 2187.094,
+      "id": "youtube-fM85luVCpPY#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2171.976,
+      "text": "But again, going back to not limiting myself, I guess I didn't. This reminds me, I didn't. I promised to talk about the difference between the humanities and economics, and forgot to do that."
+    },
+    {
+      "end_seconds": 2198.711,
+      "id": "youtube-fM85luVCpPY#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2187.094,
+      "text": "Like it doesn't like what drives me is to solve problems and create impact, and it doesn't take complicated model to solve problems."
+    },
+    {
+      "end_seconds": 2224.505,
+      "id": "youtube-fM85luVCpPY#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2198.711,
+      "text": "In a lot of cases, if the problem is worth solving, like comparing the two means or you know finding where the problem is, is much more important than being able to build sophisticated models. Of course, there are problems that needs to be solved by sophisticated models, and I'm also like mildly interested in doing that. But that that is not"
+    },
+    {
+      "end_seconds": 2237.682,
+      "id": "youtube-fM85luVCpPY#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2224.505,
+      "text": "That is not how I think about my career. When I think about my career, it's not about how to apply my past knowledge. It's about what problems excite me."
+    },
+    {
+      "end_seconds": 2256.182,
+      "id": "youtube-fM85luVCpPY#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2237.682,
+      "text": "So, I guess to sum to sum up, some of the skills are transferable, but the domain knowledge, for example, is definitely not relevant. And yeah, I don't feel sorry for that."
+    },
+    {
+      "end_seconds": 2275.232,
+      "id": "youtube-fM85luVCpPY#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2256.182,
+      "text": "Great, thank you. Anyone else got a question? Can everyone help me? Yes. Hi, I'm Ma Chen. I have one question about the startup. So I'm curious, what happened to your startup in the end?"
+    },
+    {
+      "end_seconds": 2296.472,
+      "id": "youtube-fM85luVCpPY#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2275.232,
+      "text": "Oh, we closed closed grocery when we took out because it's actually a very heavy operation. Like, it takes a lot of operations. For example, you have to do customer service. You have to maintain a good relationship with the grocery store. Ah, if you get ah one kind of ah vinegar, but that out of stock, do you replace or do you?"
+    },
+    {
+      "end_seconds": 2318.933,
+      "id": "youtube-fM85luVCpPY#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2296.472,
+      "text": "refunds. There are a lot of like tricky, like things that takes time, and nobody was willing to do that after I left. So just and Bob's Barbers still operating in New York City. Hope the pandemic didn't didn't make them bankrupt. But they had three, I think."
+    },
+    {
+      "end_seconds": 2337.819,
+      "id": "youtube-fM85luVCpPY#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2318.933,
+      "text": "shops in Oxford. Hmm. Okay, I see. Yeah. So I have a second question, which is a little personal. So, what's the incentive when you decided to, uh, uh, like build up a startup? Is it like to try to make"
+    },
+    {
+      "end_seconds": 2350.863,
+      "id": "youtube-fM85luVCpPY#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2337.819,
+      "text": "a lot of money or like just a random decision to try different things. Yeah, good question. Because that's actually my motivation for doing a lot of things, including starting a YouTube channel. It's not. It's not."
+    },
+    {
+      "end_seconds": 2358.407,
+      "id": "youtube-fM85luVCpPY#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2350.863,
+      "text": "It's never about the money. It's just about seeing a problem, and I want to solve it, and I have a huge, like a big drive to solve the problem."
+    },
+    {
+      "end_seconds": 2381.083,
+      "id": "youtube-fM85luVCpPY#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2358.407,
+      "text": "The startup started because I go to New York City quite often, and every time I go there, people ask me, \"Can you bring us some grocery back? I'm willing to pay you like fifty percent above the receipt, like what, like the the market price.\" And I said, \"Okay, there is a real demand. Let's try to solve it.\" and"
+    },
+    {
+      "end_seconds": 2389.303,
+      "id": "youtube-fM85luVCpPY#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2381.083,
+      "text": "That's that's how it started. We started with a Google form, and then turn into a Wix website, and then turn into a Shopify website."
+    },
+    {
+      "end_seconds": 2418.434,
+      "id": "youtube-fM85luVCpPY#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2389.303,
+      "text": "In return, respect, it actually helped a lot of my current experiences, because Facebook is doing the Facebook Shops with Shopify, and my experiences of running a Shopify store actually helped me understand a lot of e-commerce business in general. But that was never the plan. I see. Thank you. Yeah, may I ask one question?"
+    },
+    {
+      "end_seconds": 2446.438,
+      "id": "youtube-fM85luVCpPY#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2418.434,
+      "text": "Okay. Thank you, Regent. I'm also a PhD student in economics, so I know that Amazon has already established the economics team, while Facebook is relatively new in building its its economics team. So I'm curious that how do you feel about working in these two companies? Do you feel more like familiar in Amazon environment compared to in Facebook?"
+    },
+    {
+      "end_seconds": 2474.639,
+      "id": "youtube-fM85luVCpPY#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2446.438,
+      "text": "There are two very different companies, even though they are in tech. I would say there is a more difference between Facebook and Amazon than between Amazon and BCG, even. And I don't think Facebook is going to hire a lot of economists to do the economics because at Facebook it provides a free product, they can run A/B testing for almost everything. And Amazon hires economists mostly to do causal inference."
+    },
+    {
+      "end_seconds": 2484.942,
+      "id": "youtube-fM85luVCpPY#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2474.639,
+      "text": "But Facebook can do A/B testing. They don't. They don't need to do this. But my training of economics PhD helped me to."
+    },
+    {
+      "end_seconds": 2501.915,
+      "id": "youtube-fM85luVCpPY#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2484.942,
+      "text": "I guess the training is helpful. I also have a very short video about this. It forced me to think about equilibrium and think about marginal. And when you solve problem at tech companies, you'll find a lot of people they focus on the first order effect of your policy."
+    },
+    {
+      "end_seconds": 2521.053,
+      "id": "youtube-fM85luVCpPY#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2501.915,
+      "text": "For example, if you set a price floor, right? It will make people sell more expensive stuff, but they didn't think about the substitution effect or the income effect or whatever. They don't care about. They didn't think about the second order problem, and a lot of a lot of the time, the second order uh the second second order impact is more important."
+    },
+    {
+      "end_seconds": 2535.496,
+      "id": "youtube-fM85luVCpPY#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2521.053,
+      "text": "So, I guess the training of economics PhD, if you have the sufficient tech skill, like if you can write SQL well, if you can do analysis fast, if you can do data manipulation in Python."
+    },
+    {
+      "end_seconds": 2548.961,
+      "id": "youtube-fM85luVCpPY#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2535.496,
+      "text": "Then combined with our economics degree, is quite welcomed at at any company, consulting or tech, but."
+    },
+    {
+      "end_seconds": 2563.328,
+      "id": "youtube-fM85luVCpPY#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2548.961,
+      "text": "Yeah, like, don't expect other tech companies to hire economists as Amazon does. Yeah, thank you. I have a related question on that, actually."
+    },
+    {
+      "end_seconds": 2583.071,
+      "id": "youtube-fM85luVCpPY#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2563.328,
+      "text": "When I was when I first joined McKinsey, I actually spent three months working on a data science project, and my role was what they call a data translator. So, our project was around something that's got to do with clinical and pharmaceutical applications of data science, and we had half half of our team."
+    },
+    {
+      "end_seconds": 2590.865,
+      "id": "youtube-fM85luVCpPY#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2583.071,
+      "text": "pure data scientists and data engineers, and the other half people with a medical degree or a PhD in biological sciences."
+    },
+    {
+      "end_seconds": 2618.292,
+      "id": "youtube-fM85luVCpPY#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2590.865,
+      "text": "So I'm wondering that you know, outside of maybe you know consulting-related data science projects, in the real data science industry, is there a need for this kind of roles of people who may not be coding, but they know something about data science to translate the business or clinical or consumer aspect of the industry?"
+    },
+    {
+      "end_seconds": 2629.085,
+      "id": "youtube-fM85luVCpPY#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2618.292,
+      "text": "Yes, and but okay, so the the world of consulting is pretty different than the world of tech."
+    },
+    {
+      "end_seconds": 2652.257,
+      "id": "youtube-fM85luVCpPY#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2629.085,
+      "text": "And related to a question in this way, consulting deals with a lot of companies, right? They they don't necessarily have the expertise to understand those complex analysis or complex research, so they need a translator. In tech, everyone should know tech, like they have a very high hiring bar."
+    },
+    {
+      "end_seconds": 2674.366,
+      "id": "youtube-fM85luVCpPY#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2652.257,
+      "text": "For BA engineers or product manager, so everyone knows their shit basically. They don't need a translator to translate. Otherwise, they will just fail at their job because that's the expectation. They know their stuff. That being said, like for example."
+    },
+    {
+      "end_seconds": 2685.731,
+      "id": "youtube-fM85luVCpPY#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2674.366,
+      "text": "People in business function they don't necessary they are not necessarily well versed in in models. For example, they understand."
+    },
+    {
+      "end_seconds": 2712.44,
+      "id": "youtube-fM85luVCpPY#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2685.731,
+      "text": "What's the difference between correlation and causation? They know to get this, you can you have to overcome selection bias. They know, you know, on very high level what machine learning can do and cannot cannot do. But sometimes, if you want to, for example, translate a debiased mean and like a normal mean, and how does that translate into business impact? They don't know that. They don't they don't have that knowledge."
+    },
+    {
+      "end_seconds": 2721.582,
+      "id": "youtube-fM85luVCpPY#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2712.44,
+      "text": "for granted, so I guess in in order to be successful in tackling a PhD."
+    },
+    {
+      "end_seconds": 2748.149,
+      "id": "youtube-fM85luVCpPY#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2721.582,
+      "text": "Knowing have have the domain expertise and have the knowledge, the skill is important. But being able to communicate to a way that most people, like engineers and PMs, you can expect to have a certain type of level of knowledge, but not as sophistic as sophisticated as you are. Being able to communicate is also important. So that is the skill."
+    },
+    {
+      "end_seconds": 2758.485,
+      "id": "youtube-fM85luVCpPY#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2748.149,
+      "text": "That is not a type of job. That is more of a skill that you you should have in order to be success to be successful."
+    },
+    {
+      "end_seconds": 2765.86,
+      "id": "youtube-fM85luVCpPY#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2758.485,
+      "text": "可以问个问题？"
+    },
+    {
+      "end_seconds": 2790.359,
+      "id": "youtube-fM85luVCpPY#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2765.86,
+      "text": "Sorry, go ahead. As thanks for each very informational talk. So my question is that as a PhD of economics, you have all the backgrounds of the economics and the statistics. So the job for a consultant is kind like fit for you because you have all the knowledges. So as"
+    },
+    {
+      "end_seconds": 2816.959,
+      "id": "youtube-fM85luVCpPY#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2790.359,
+      "text": "You know, engineering student as me, I don't have a lot of you know economics background. So, do you have any advice for me to you know get some resources to get those knowledges to prepare for the you know future consultant or you know potential jobs at these kind of fields? Ah, good question. So the my my friend who prepared me for my interview is a"
+    },
+    {
+      "end_seconds": 2835.858,
+      "id": "youtube-fM85luVCpPY#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2816.959,
+      "text": "Bio biochemistry PhD. The first consultant I worked with is a mechanical engineering PhD. I would say there are less social science PhD at consultant than there are engineering or science PhDs."
+    },
+    {
+      "end_seconds": 2850.354,
+      "id": "youtube-fM85luVCpPY#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2835.858,
+      "text": "啊， so and when I did the consulting interview, they didn't care about my economics background. They care about how I performed in case interviews. They care about how my business sense, but they didn't care about my degree."
+    },
+    {
+      "end_seconds": 2877.83,
+      "id": "youtube-fM85luVCpPY#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2850.354,
+      "text": "And a lot of times, I think having a science, a hard science background, gives you the actual edge because you can actually understand the hard problems that your clients are facing. So, for example, if your client is a auto manufacturer, then being a mechanical engineering PhD is a very good boost."
+    },
+    {
+      "end_seconds": 2888.985,
+      "id": "youtube-fM85luVCpPY#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2877.83,
+      "text": "嗯，So thanks. So is there a fundamental like requirement to to you know let the HR think? Oh, you are at least"
+    },
+    {
+      "end_seconds": 2911.105,
+      "id": "youtube-fM85luVCpPY#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2888.985,
+      "text": "呃，being able to understand those economics fundamentals, is there a class I need to take, or you advise me to take for the internship is the best way to signal that you are qualified to HR. So get a PTA, get an internship at a second tier consulting company, like get a get the best internship you can get. That's how to signal to HR."
+    },
+    {
+      "end_seconds": 2925.478,
+      "id": "youtube-fM85luVCpPY#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2911.105,
+      "text": "I see. Thanks. I guess I can follow up on this question. So, for me personally, I'm considering a chance of future goal is to start a startup."
+    },
+    {
+      "end_seconds": 2951.978,
+      "id": "youtube-fM85luVCpPY#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2925.478,
+      "text": "But there are basically a lot of track, a lot of ways I can take to achieve that goal. So right now I'm thinking about two sense. The first way is to enter consulting for a couple of years, build up my connections, and then use that connections and resources to to help me to build a successful startup. A second, but this this actually one of the sense in the previous talk. The previous speaker was a"
+    },
+    {
+      "end_seconds": 2977.974,
+      "id": "youtube-fM85luVCpPY#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2951.978,
+      "text": "Really, he doesn't like this idea because he's, you know, running startups, and he would recommend that instead of going to consulting, I should consider going into join joining a startup directly. So, how do you compare these two different paths if my future goal is to build a company? So, I think that there are too many variables."
+    },
+    {
+      "end_seconds": 2998.22,
+      "id": "youtube-fM85luVCpPY#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2977.974,
+      "text": "In that decision, like for example, if you know the startup is going to be successful, then do that. But I guess that's uncertainty, right? So the safe path is to join industry, build our experience, and you know, take the chance when you feel you need to, or safer you to, or."
+    },
+    {
+      "end_seconds": 3021.703,
+      "id": "youtube-fM85luVCpPY#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2998.22,
+      "text": "when it is its likelihood of success is like high enough, but I guess different people have this different risk appetite and different expertise, so I I don't know how I can give a recommendation. Okay. Excuse me."
+    },
+    {
+      "end_seconds": 3033.897,
+      "id": "youtube-fM85luVCpPY#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3021.704,
+      "text": "Yes, Desmond. Hi. The question, Tao, Tao, Tao Jin. Yeah, Hi. Uh, I'm curious about the like."
+    },
+    {
+      "end_seconds": 3062.673,
+      "id": "youtube-fM85luVCpPY#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3033.897,
+      "text": "You're as a senior data scientist. I'm curious about what the most important techniques or tools you are using in your daily work. I I wonder if there's any gaps between the just for the data science. Is there a gap between the industry and the lab? Because I'm working on some like a very complicated deep learning or machine learning models. I'm I'm I'm I'm curious if that is useful in your real real work industry."
+    },
+    {
+      "end_seconds": 3086.614,
+      "id": "youtube-fM85luVCpPY#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3062.673,
+      "text": "Yes, yes, very. So I guess my two different jobs, right? Facebook, what I do is I run SQL to get data, and I use Tableau to plot the data, and then I use PPT to present the data. That's almost it. And then I write docs. I guess the writing training I received at PhD was actually quite useful. I'm able to produce high quality notes."
+    },
+    {
+      "end_seconds": 3094.878,
+      "id": "youtube-fM85luVCpPY#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3086.614,
+      "text": "It's almost like a mini research paper at a good speed. So that helped me to land a lot of impact."
+    },
+    {
+      "end_seconds": 3121.199,
+      "id": "youtube-fM85luVCpPY#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3094.878,
+      "text": "I sometimes use Python to do data cleaning and do some simple analysis models, but I often use Tableau because the problem just requires Tableau to solve. A/B testing is a must at Facebook. Being able to do causal inference based on A/B testing, design the experiment, so data are not contaminated. All those things are a must. At Amazon, I use Spark."
+    },
+    {
+      "end_seconds": 3140.863,
+      "id": "youtube-fM85luVCpPY#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3121.199,
+      "text": "Python， mostly because the infrastructure Amazon is not as good as Facebook. So I have to get the data. I have to basically set up the machines, the servers, to get the data and build the data pipeline and clean the data and then use Python to to run some."
+    },
+    {
+      "end_seconds": 3159.52,
+      "id": "youtube-fM85luVCpPY#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3140.863,
+      "text": "What I did is synthetic control and matrix completion. So simple, simple machine learning models, not deep learning models, to draw causal inference based on big data set. But I feel like if you can code a deep learning model."
+    },
+    {
+      "end_seconds": 3171.552,
+      "id": "youtube-fM85luVCpPY#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3159.52,
+      "text": "Other tech requirements should be easy. It's just about preparing for the interview, you know, sharpening our communication. Uh, and we have a video up incoming to talk about that."
+    },
+    {
+      "end_seconds": 3197.008,
+      "id": "youtube-fM85luVCpPY#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3171.552,
+      "text": "Yeah, thank you. Ah, hi, can you hear me? Yeah. Ah, okay. Ah, so thank you for your presentation and your insight so far. And I'm currently a master student. And my question is about getting a job in the US after after having a PhD degree."
+    },
+    {
+      "end_seconds": 3222.622,
+      "id": "youtube-fM85luVCpPY#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3197.008,
+      "text": "And so, as far as I know, in some countries, such as in Germany, sometimes getting a PhD degree is not a good thing because sometimes, sometimes the companies thinks that you are overqualified for the job, and sometimes they don't want to to hire you because they will need to pay you more."
+    },
+    {
+      "end_seconds": 3250.078,
+      "id": "youtube-fM85luVCpPY#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3222.622,
+      "text": "as compared to a a master or a bachelor degree holder, and so sometimes you know having a PhD degree makes you less competitive for the job. So my question is, can you tell me the situation in the US? I mean, can you give me some insight of like having a a"
+    },
+    {
+      "end_seconds": 3278.149,
+      "id": "youtube-fM85luVCpPY#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3250.078,
+      "text": "Is like uh is uh getting a PhD degree uh is a good thing uh and it helps you to to easier uh finding a job in the US. Yeah, thank you. It's my question. Yeah, so that's my my first advice is not to answer questions to don't get a PhD if uh if your purpose is just to boost your job competitiveness or like if if if your purpose is to make it easier to apply for a job, uh."
+    },
+    {
+      "end_seconds": 3305.355,
+      "id": "youtube-fM85luVCpPY#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3278.149,
+      "text": "don't get don't get into PhD. PhD is designed for research for academia. Like we we happen to be trained well to to be able to do other things. But if you don't like research or academia, it's very difficult to survive. Like I found it difficult to survive myself, even though I liked every piece of my research and reading papers. I was able to like just study like do research like for months."
+    },
+    {
+      "end_seconds": 3321.682,
+      "id": "youtube-fM85luVCpPY#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3305.355,
+      "text": "without doing anything else, but even that was not a pleasant experience. So it's not worth it to you know to spend five years in PhD just to be able to increase your likelihood of getting a job. I feel like if you apply to an internship and you know."
+    },
+    {
+      "end_seconds": 3338.326,
+      "id": "youtube-fM85luVCpPY#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3321.682,
+      "text": "climb up the corporate ladder or whatever, it's much easier. No, but yeah, and relat, I guess the relative competition or like, is it easier for PhD to get jobs? I think yes, because"
+    },
+    {
+      "end_seconds": 3355.391,
+      "id": "youtube-fM85luVCpPY#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3338.326,
+      "text": "Most of my PhD friends, if they want to go to industry, if they want they want to find a job, they can always do that. I I haven't seen one case that they want to find a job but they couldn't. Either like even if they couldn't stay in United States, they can easily find a job back home."
+    },
+    {
+      "end_seconds": 3372.402,
+      "id": "youtube-fM85luVCpPY#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3355.391,
+      "text": "Yeah. So one more quick question is that you think that the ranking of the university is a a a critical point? I mean, an important point in in in finding a job. I mean, do the HR people will will will pay a lot of attention to the ranking?"
+    },
+    {
+      "end_seconds": 3382.167,
+      "id": "youtube-fM85luVCpPY#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3372.402,
+      "text": "Yes. Okay. Industry. Yes. Thank you. Oh, hey. Uh, I have a question. Uh, so."
+    },
+    {
+      "end_seconds": 3406.229,
+      "id": "youtube-fM85luVCpPY#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3382.167,
+      "text": "So you you just said that like you are actually very interested in academia and very used to the lifestyle there, but but it's still difficult to survive academia. I wonder, like, is that that difficult? I mean, like, because like you you you graduate from from Cornell and without PhD, I feel like if you want to go go into the academia, you can do that, right? I mean."
+    },
+    {
+      "end_seconds": 3421.535,
+      "id": "youtube-fM85luVCpPY#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3406.229,
+      "text": "So I'm just, and also I feel like actually, like like from your description of your past PhD life, I feel like, yeah, I feel like you you are like it's very suitable. Like, like I just wonder why you changed the path, like you know."
+    },
+    {
+      "end_seconds": 3441.418,
+      "id": "youtube-fM85luVCpPY#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3421.535,
+      "text": "Thanks. If you want to be successful in academia, it's not impossible to do. I guess it's not it's not very hard to do as well. Or like if you want to survive, it's not hard to do. If you want to do well, it's difficult, but it's still possible."
+    },
+    {
+      "end_seconds": 3452.198,
+      "id": "youtube-fM85luVCpPY#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3441.418,
+      "text": "My choice was more related to that. You know, I just I realized academia is not my passion. I'm passionate about a very small part of it."
+    },
+    {
+      "end_seconds": 3471.584,
+      "id": "youtube-fM85luVCpPY#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3452.198,
+      "text": "the part of you know being intellectually challenged, solve the questions nobody have solved before, like those part. But I didn't like you know rewriting the paper a hundred times, going through referee, referee process, you know, discussing all the like."
+    },
+    {
+      "end_seconds": 3497.343,
+      "id": "youtube-fM85luVCpPY#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3471.584,
+      "text": "Detail that nobody care about in seminars or with our peers. All those things were like were painful to me, and that was not my passion. I feel like I can, like for example, consulting is a great place to find the same intellectual challenge, but solve problem that people actually care about. Yeah. I see. Thank you."
+    },
+    {
+      "end_seconds": 3504.128,
+      "id": "youtube-fM85luVCpPY#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3497.343,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 3520.22,
+      "id": "youtube-fM85luVCpPY#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3504.128,
+      "text": "Great. Any other questions from the audience?"
+    },
+    {
+      "end_seconds": 3549.587,
+      "id": "youtube-fM85luVCpPY#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3520.22,
+      "text": "I think I see that there is a debate in the chat box about the requirement for advanced degree, in the necessity of it if you were to go to industry. I think the clarification that we need to make here is, if you think about different career options on the spectrum, and you know you rank it whether it's further away from pure research or closer, and I would probably put industry jobs as on the closer end of."
+    },
+    {
+      "end_seconds": 3568.81,
+      "id": "youtube-fM85luVCpPY#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3549.587,
+      "text": "the spectrum to your actual research, and maybe consulting banking or VC on the other spectrum, and and there's another dimension which is also the requirement of specific knowledge and expertise, and that's kind of the reverse to the spectrum. So maybe"
+    },
+    {
+      "end_seconds": 3580.704,
+      "id": "youtube-fM85luVCpPY#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3568.81,
+      "text": "You probably don't one hundred percent need a PhD to go to industry, but you probably need a master's or related, you know, undergraduate degree. And to be honest."
+    },
+    {
+      "end_seconds": 3607.672,
+      "id": "youtube-fM85luVCpPY#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3580.704,
+      "text": "I would say higher percentage would require a related advanced degree, but if you go to the other spectrum, if you were to go into banking, consulting, or anything else, it's completely not a requirement at all. In that case, they will probably put more weight on other factors in your CV, such as your, you know, the ranking of your university, the diversity of your extracurricular, and any other."
+    },
+    {
+      "end_seconds": 3625.257,
+      "id": "youtube-fM85luVCpPY#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3607.672,
+      "text": "Passion you've shown for their industry or sector. Yeah, that's a good summary. Like, I guess the one end of the spectrum is being a professor, right? You a hundred percent need a PhD, and being a researcher probably a PhD will help."
+    },
+    {
+      "end_seconds": 3651.847,
+      "id": "youtube-fM85luVCpPY#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3625.257,
+      "text": "But I guess the previous question is about, you know, if I want to apply for a job, is PhD going to help me make be more successful? If you want to be a professor or a researcher, you wouldn't ask this question because you know you you need the PhD. So it's also, I guess the my answer was to the case that PhD is an option but not a necessity. Then how should you choose? And my advice is don't do it."
+    },
+    {
+      "end_seconds": 3668.391,
+      "id": "youtube-fM85luVCpPY#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3651.847,
+      "text": "It's not worth it. I have a question. I have one more question on the data science data science career of yours, because a lot of people around me seem to be."
+    },
+    {
+      "end_seconds": 3685.626,
+      "id": "youtube-fM85luVCpPY#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3668.391,
+      "text": "wanting to be a data scientist. Actually, everyone wants to be a data scientist nowadays, and a lot of them have zero background in anything related. They're probably in bioinformatics or in physics, in physics or even chemistry. So I wanted to know from"
+    },
+    {
+      "end_seconds": 3713.316,
+      "id": "youtube-fM85luVCpPY#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3685.626,
+      "text": "people around you who are proper data scientists. What is their background? How many people are actually from non-computer science, non-math, non-economics economics background? And and and you know, what do we see are kind of subjects or or or you know topics or kind of their PhD areas that could be a higher likelihood for them to enter data science?"
+    },
+    {
+      "end_seconds": 3729.501,
+      "id": "youtube-fM85luVCpPY#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3713.316,
+      "text": "So first, data science is not a high bar. If a PhD have done quantitative research, whether psychology PhD or physics PhD, their skill skill set is good enough for a data scientist."
+    },
+    {
+      "end_seconds": 3756.742,
+      "id": "youtube-fM85luVCpPY#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3729.501,
+      "text": "Because data scientist is about application and about solving problems, analytics application solving problems, is not about building the the most sophisticated models, right? And they actually like companies hire specifically for machine learning engineers, research scientists or applied scientists that you know go and build models and solve the cutting edge artificial problems in artificial intelligence."
+    },
+    {
+      "end_seconds": 3774.193,
+      "id": "youtube-fM85luVCpPY#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3756.742,
+      "text": "For example, how to make Amazon's recommendation system better? That requires specific domain knowledge. But for ah for my for my current role, data scientist, ah as I said, like second second year, second ah like sophomore."
+    },
+    {
+      "end_seconds": 3795.238,
+      "id": "youtube-fM85luVCpPY#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3774.193,
+      "text": "Several more level of statistic in college, not in PhD, is enough to handle most cases. So if you have done qualitative quantitative research, you have the skill set. Yeah, like forgot what what the question was. Did that answer the question?"
+    },
+    {
+      "end_seconds": 3820.824,
+      "id": "youtube-fM85luVCpPY#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3795.238,
+      "text": "Yes. Yeah, like most PhDs, they're they're qualified. It's just about the experience, the and the interview. So get your resume to pass the HR stage, and then prepare the interview so the hiring manager hires you. Thank you."
+    },
+    {
+      "end_seconds": 3846.917,
+      "id": "youtube-fM85luVCpPY#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3820.824,
+      "text": "Okay, like I might have a question, like Yuzheng, and you mentioned that it would be much better if you could have start start your job, prepare start preparing for your job, like searching at the second year of your PhD. But my question is that, like usually, like a lot of research takes a long time, like much more than."
+    },
+    {
+      "end_seconds": 3865.403,
+      "id": "youtube-fM85luVCpPY#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3846.917,
+      "text": "Two years to even get on track. So, but how, like, what's your suggestion on like determining like what's the starting point? Like, because I discussed with some of my friends on like when to decide it is the time to quit or to continue."
+    },
+    {
+      "end_seconds": 3890.941,
+      "id": "youtube-fM85luVCpPY#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3865.403,
+      "text": "Like my idea is more like maybe it is more about the rewarding you have. Like the more rewarding your rewards you have during your PhD as a as academic research, and then probably will continue more on this trend, on this this path. Um, like I just want to hear about like your thoughts on when to, you know, decide."
+    },
+    {
+      "end_seconds": 3898.096,
+      "id": "youtube-fM85luVCpPY#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3890.941,
+      "text": "on the on your path, yeah, thank you. Yeah, so."
+    },
+    {
+      "end_seconds": 3923.634,
+      "id": "youtube-fM85luVCpPY#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3898.096,
+      "text": "I guess I need to clarify. That was my own lesson, and what I would have done differently if I started again. Everyone's situation is different. So my advice is: know your interest, know your strengths, and know yourself basically, and then make the decision based on your own scenario, not mine, right? And but for me, the reason I said I wanted to do..."
+    },
+    {
+      "end_seconds": 3949.539,
+      "id": "youtube-fM85luVCpPY#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3923.634,
+      "text": "To start in my second year is, of course, like my research would take a long time to build, but I stayed six years. I wanted to do academia. I had the contravector, right? I wanted to do academia. I I stayed those years, but I wasn't particularly proud of my research paper. Like it is an important topic, I think it's a nicely written paper, but there was no impact and."
+    },
+    {
+      "end_seconds": 3962.812,
+      "id": "youtube-fM85luVCpPY#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3949.539,
+      "text": "Because what drives me is impact, right? So I I don't care. Like if I if I stay in my PhD for four years and had a much crappy paper, much crappy paper, I would actually be happier today. So."
+    },
+    {
+      "end_seconds": 3978.047,
+      "id": "youtube-fM85luVCpPY#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3962.812,
+      "text": "That's why I I said if I do it again I would start in my second year. But I I know everyone's different, so definitely today just uh make a decision based on our own scenario. Yeah, thank you. Yeah, thanks."
+    },
+    {
+      "end_seconds": 4007.738,
+      "id": "youtube-fM85luVCpPY#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3978.047,
+      "text": "I guess to follow up on that, Yuzheng, is there a moment in your current life when you think back, you say, okay, if I were to continue academia, maybe you know I will be a professor. Uh, do you have no? So you have no moments of regretment, right? Just first, it's not helpful to regret things. Like like I said, I would do it. Uh, I would do it differently, but say, uh."
+    },
+    {
+      "end_seconds": 4028.026,
+      "id": "youtube-fM85luVCpPY#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4007.738,
+      "text": "That is more as advice for like those people who are in the PhD program. If I choose my life, I wouldn't necessarily want to do it all over again because I got, I'm happy with my current life, right? So everything that leads to my current life, I I think you know that they're good."
+    },
+    {
+      "end_seconds": 4044.179,
+      "id": "youtube-fM85luVCpPY#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4028.026,
+      "text": "I don't have any particular regrets, and it took me six years to realize I wasn't in academia. Maybe that's that's what I need. If I change my decision in my second year, maybe I will always have self-doubt. You know what?"
+    },
+    {
+      "end_seconds": 4059.941,
+      "id": "youtube-fM85luVCpPY#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4044.179,
+      "text": "Then, then maybe I'll have questions like you just mentioned. You know, what, what, what if today I don't have what if because I suffered those six years and I realize, you know, that's not my passion. Okay, that's a good point."
+    },
+    {
+      "end_seconds": 4085.394,
+      "id": "youtube-fM85luVCpPY#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4059.941,
+      "text": "And of of the jobs you did, I know you had experience startup in some experience in consulting, and now data scientist. What is the job you like most, or you the best, or you saying the best is yet to come? So what, you know, what are you thinking right now? On my current job. Oh. Otherwise, I would have like I."
+    },
+    {
+      "end_seconds": 4098.649,
+      "id": "youtube-fM85luVCpPY#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4085.394,
+      "text": "So, I guess some some data points to back my claim. Amazon has a very particular stock vesting schedule. So, when you go to a tech company, they give you stocks for four years."
+    },
+    {
+      "end_seconds": 4115.417,
+      "id": "youtube-fM85luVCpPY#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4098.649,
+      "text": "But Amazon, the first year it was five percent, second year fifteen percent, third and fourth forty percent each. And when I joined Amazon, Amazon stock was at eight hundred something. Now it's at three thousand. So I was actually underpaid in Facebook."
+    },
+    {
+      "end_seconds": 4129.257,
+      "id": "youtube-fM85luVCpPY#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4115.417,
+      "text": "When I took the Facebook job, and so I I get paid less at Facebook than I was at Amazon, but I wanted to try the job, so I came. Like if I'm not happy at Facebook, I will go to another job."
+    },
+    {
+      "end_seconds": 4140.957,
+      "id": "youtube-fM85luVCpPY#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4129.257,
+      "text": "Great. Any other questions from the audience?"
+    },
+    {
+      "end_seconds": 4167.561,
+      "id": "youtube-fM85luVCpPY#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4140.957,
+      "text": "I guess we have a lot of comments in the chat box. I try to speak because I I cannot. Yeah, yeah, I was muted. I have two buttons need to unmute. So I mute one and the other still muted. So you cannot hear me. Can you hear me now?"
+    },
+    {
+      "end_seconds": 4195.224,
+      "id": "youtube-fM85luVCpPY#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4167.561,
+      "text": "Okay, so I put some text comments because previous some technical problems. Then unmute both. So it's it's it's good. It's good communication. We can talk more. So so today, like I put in the comments, things are changing. Like twenty, thirty years ago, if a PhD, the industry labs would value you more. But today can be different. So."
+    },
+    {
+      "end_seconds": 4206.72,
+      "id": "youtube-fM85luVCpPY#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4195.224,
+      "text": "Yeah, I'm looking at the discussion in the chats. I think there are two things I want to address."
+    },
+    {
+      "end_seconds": 4218.417,
+      "id": "youtube-fM85luVCpPY#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4206.72,
+      "text": "One is like still like we focus on the job that requires a PhD. So if you are a PhD, you know that is our advantage because these jobs are."
+    },
+    {
+      "end_seconds": 4242.706,
+      "id": "youtube-fM85luVCpPY#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4218.417,
+      "text": "You all have a comparative advantage of being a PhD. So as a PhD, definitely focus on those jobs, or not focus, but you know pay more attention to those jobs, and apply, and you'll be successful. I don't know the future, but at least you know that good jobs. But the second is, like for example, a lot of big companies have."
+    },
+    {
+      "end_seconds": 4256.387,
+      "id": "youtube-fM85luVCpPY#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4242.706,
+      "text": "do do research, they have their research department, yes, and but don't take industry job as an escape when you cannot do academia well."
+    },
+    {
+      "end_seconds": 4277.289,
+      "id": "youtube-fM85luVCpPY#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4256.387,
+      "text": "Like, for example, the Google AI or Facebook AI research, those are the they hire the best PhDs, right? So, like, if you want to get into the very very good, the promising industry research career, you need to be."
+    },
+    {
+      "end_seconds": 4291.118,
+      "id": "youtube-fM85luVCpPY#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4277.289,
+      "text": "Very good at academia, at research and creating research that actually has an impact. So, I guess those are my two points."
+    },
+    {
+      "end_seconds": 4307.431,
+      "id": "youtube-fM85luVCpPY#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4291.118,
+      "text": "Yeah, the AI is a unique area because the companies like Google, Amazon, they try to hire the best AI scientists to develop the most advanced algorithms. So."
+    },
+    {
+      "end_seconds": 4336.434,
+      "id": "youtube-fM85luVCpPY#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4307.431,
+      "text": "But to develop the AI applications, they don't need or desire to have PhDs. Yeah, and I talk about that in my YouTube channel as well. I feel like a lot of industry application of machine learning is actually an engineering problem, not a science problem. You don't need to develop algorithm to do that. You just need to apply the Python packages to solve. You need you you need to define the problem. Then you need to apply the right Python packages to to solve it."
+    },
+    {
+      "end_seconds": 4365.307,
+      "id": "youtube-fM85luVCpPY#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4336.434,
+      "text": "Does anyone have any follow-up questions? Yeah, I would like to ask the final question. Okay, yeah, so the final one. Yeah, yeah. Thank you for the talk. It's very sincere and content, and it's your personal experience. So my first, can you hear me? Just to quick confirm. Okay. So my question is after"
+    },
+    {
+      "end_seconds": 4392.047,
+      "id": "youtube-fM85luVCpPY#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4365.307,
+      "text": "After six six year, after six years PhD, um, everyone wants to have gain more from the PhD experience. So right now, you choose to, uh, go to the go to the industry and compete with the master student and some undergraduate student. Some of them are your boss right now. So how do you, uh?"
+    },
+    {
+      "end_seconds": 4410.445,
+      "id": "youtube-fM85luVCpPY#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4392.047,
+      "text": "How do you take this take this situation? How do you accept someone is for someone with only a master's degree? Uh, guide to uh is your boss right now?"
+    },
+    {
+      "end_seconds": 4429.414,
+      "id": "youtube-fM85luVCpPY#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4410.445,
+      "text": "I didn't capture. Can we type maybe? So, so I think he was asking. So, right now, we enter an industry, for example, in Facebook. Or, for example, if your your boss he only has a master's degree, how do you feel about that? Yeah, yeah. Like, uh."
+    },
+    {
+      "end_seconds": 4454.589,
+      "id": "youtube-fM85luVCpPY#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4429.414,
+      "text": "What's that? Meritocracy? Yeah, like the PhD doesn't tell you you are better. Having a PhD title just is a certification that you completed a PhD program. It doesn't mean you are better than master. So, I guess if your boss is better than you, listen to him. If your idea is better than him, try to convince him your idea is better. But I I I don't view the title like the title."
+    },
+    {
+      "end_seconds": 4481.538,
+      "id": "youtube-fM85luVCpPY#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4454.589,
+      "text": "The title doesn't shouldn't mean anything. Okay, thank you. Yes, I I guess so. We are coming to one half hours, and I really appreciate Yuzheng to take this penalty to share the advice with. Oh, is there any other comment?"
+    },
+    {
+      "end_seconds": 4509.5,
+      "id": "youtube-fM85luVCpPY#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4481.538,
+      "text": "Looks like there's another question. So this is definitely the last one. So I can paraphrase. So he was asking, I don't know if the competition between China and the U.S. would inspire more investments to fundamental fundamental research. What what is your take on that? Seems like right now this is a trend. I don't know, and I don't care. Like what what can I do to change that? No, so."
+    },
+    {
+      "end_seconds": 4538.953,
+      "id": "youtube-fM85luVCpPY#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4509.5,
+      "text": "Yeah, I agree on that. So let's thank our speaker again for sharing his useful advice in making these decisions in throughout the PhD, and also thank all the audience for coming today. And especially for we are running this talk series. The next talk is going to be centered around consulting. So if you're interested, just"
+    },
+    {
+      "end_seconds": 4556.765,
+      "id": "youtube-fM85luVCpPY#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4538.953,
+      "text": "Follow our tweet, follow our WeChat accounts. We'll be releasing announcements. And let's thank our speaker again. And hope you have a great weekend. All right, thank you. Good weekend. Thank you, Yuzheng. Let's connect later."
+    },
+    {
+      "end_seconds": 4573.847,
+      "id": "youtube-fM85luVCpPY#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4556.765,
+      "text": "People who are interested in variety of career tracks, and let's keep in touch."
+    },
+    {
+      "end_seconds": 4590.43,
+      "id": "youtube-fM85luVCpPY#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4573.847,
+      "text": "哦，嘿，can can I also introduce myself here? Sure, go ahead. Oh, sure, yeah. So, uh, so my my my name is uh Jiang Jianzhao, and I'm now a PhD student in computer science in Georgia Tech."
+    },
+    {
+      "end_seconds": 4596.946,
+      "id": "youtube-fM85luVCpPY#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4590.43,
+      "text": "And yeah, I I used to be a master student in University of Michigan, and um yeah and."
+    },
+    {
+      "end_seconds": 4620.512,
+      "id": "youtube-fM85luVCpPY#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4596.946,
+      "text": "Glad to see you guys here. And I'm never like, I think thought like too seriously about what I'm going to do in the future. But like, so, but like, accidentally I got added in the WeChat. Very glad. And actually, I I saw some friends who like do consulting jobs, and like it is a very appealing job for me. And I want to explore more and see what it's like. Yeah, thanks."
+    },
+    {
+      "end_seconds": 4639.672,
+      "id": "youtube-fM85luVCpPY#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4620.512,
+      "text": "张然，It's good to see you. I we have been WeChat friends for for a long time, but it's the first time I saw you. Yeah, yeah, nice to see you. Anyone else?"
+    }
+  ],
+  "video_id": "fM85luVCpPY",
+  "yuzheng_stance_weight": "not-evidence"
+}

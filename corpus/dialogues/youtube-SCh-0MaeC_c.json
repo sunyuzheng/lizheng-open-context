@@ -1,0 +1,367 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-SCh-0MaeC_c",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2021-06-12T18:16:21Z",
+  "participant_aliases": [
+    "Tom"
+  ],
+  "participant_entity_ids": [
+    "guest:tom"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Tom",
+  "public_verified_at": "2026-10-11T01:56:29.667728+00:00",
+  "published_at": "2021-06-12",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "b9d6bc20779bf21d7e567a5359fc22a4a323981a1f973428fe481b89a8015a4c",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "c0230b875ea3c77ec7b8a1d3a152d5133899b15a9b2eca932a1dfa37598f8d2e",
+    "root_receipt_sha256": "7199d0fde3336fab32725787f90d724b3e910d2e69d47e2df8313635bb760fab",
+    "unresolved_count": 4
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=SCh-0MaeC_c",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=SCh-0MaeC_c",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "纽约第七帅程序员点评Facebook卷王操作，并补充Startup选法",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 16.0,
+      "id": "youtube-SCh-0MaeC_c#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "大家好,我是Tom,然后我今天是听了课代表立正和可静同学的采访的Into-in版本,大概Draft version大概有一个小时左右,我觉得里面的信息量非常大,然后对我个人来说也有很多的Take away可以思考。"
+    },
+    {
+      "end_seconds": 23.0,
+      "id": "youtube-SCh-0MaeC_c#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.0,
+      "text": "在这里我帮你大家做一下总结,然后也可以作为一个reference point,帮助大家进行更好的reflection。"
+    },
+    {
+      "end_seconds": 39.0,
+      "id": "youtube-SCh-0MaeC_c#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.0,
+      "text": "我个人觉得有三点是非常重要的,我觉得第一点就是说在工作中他的example提供了一个非常好的practical的way to take calculated risk,对吧。"
+    },
+    {
+      "end_seconds": 52.0,
+      "id": "youtube-SCh-0MaeC_c#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.0,
+      "text": "然后第二点就是做他是be very goal driven,就是要非常要,在你的工作中你一定要知道自己where you wanna go,然后be very clear,然后他还提供了很多means,让你怎么去reach out to next level。"
+    },
+    {
+      "end_seconds": 72.0,
+      "id": "youtube-SCh-0MaeC_c#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.0,
+      "text": "第三点就是我觉得他提供了一个非常好的framework,去帮你进行选择公司的下家的时候,你的一些考虑的因素,然后我自己也是刚刚经历了这样的一个experience,然后我希望在他的framework之上帮大家再做一个小的补充。"
+    },
+    {
+      "end_seconds": 94.0,
+      "id": "youtube-SCh-0MaeC_c#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.0,
+      "text": "然后我们就从第一点开始说就是他的example提供了非常practical的way to take calculated risk,为什么呢?就是因为其实作为一个engineer,无论是你个人还是工作的professional要求来讲,都是其实是不太想让你去take risk的,因为人本身就有抗拒未知风险的preference。"
+    },
+    {
+      "end_seconds": 105.0,
+      "id": "youtube-SCh-0MaeC_c#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.0,
+      "text": "第二就是作为工程师,你其实要求做工作的时候,你是一定要去做到highly available,对吧?你的program要run,然后你的system要非常的fault tolerant。"
+    },
+    {
+      "end_seconds": 122.0,
+      "id": "youtube-SCh-0MaeC_c#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.0,
+      "text": "但是他说的其实是从大方向来讲有两点,第一点就是作为去一个大厂,你选组的时候一定要去prioritize那些risk,就是reward非常好的组,为什么这个context要在大公司中呢?"
+    },
+    {
+      "end_seconds": 135.0,
+      "id": "youtube-SCh-0MaeC_c#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 122.0,
+      "text": "因为你去一个小公司,如果你这个业务没有做起来,那你这个团队就被cut掉了,对吧?这个是damage control,你要做好damage control,这个是非常大的对你来说,特别是外国人来讲,你的身份什么工作都没了。"
+    },
+    {
+      "end_seconds": 151.0,
+      "id": "youtube-SCh-0MaeC_c#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.0,
+      "text": "在大厂就不会有这样的发生,因为你在大厂的新service或者说新的team里面,如果业务没做起来,其实你是第一个或者第二批那些人是知道的,这时候公司会有internal transfer,或者是你再去找下家,都是给了你足够的buffer时间。"
+    },
+    {
+      "end_seconds": 175.0,
+      "id": "youtube-SCh-0MaeC_c#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.0,
+      "text": "让你去跳出这个坑,但是如果一旦这个业务做成,你就是这个在大厂里面这个funding member,然后你就是ride along with thisrocket,然后你个人的这个reward是非常高的,无论是promotion来讲还是在大厂里面,你结交到这些得到这个experience都不是那种在一个team做maintenance或者说做这个showbug的体验能够相比的,对吧?"
+    },
+    {
+      "end_seconds": 182.0,
+      "id": "youtube-SCh-0MaeC_c#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 175.0,
+      "text": "这就是造成了这个几年时间人和人的工作时间是一样的,但是得到的这个outcome是完全不同。"
+    },
+    {
+      "end_seconds": 191.0,
+      "id": "youtube-SCh-0MaeC_c#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 182.0,
+      "text": "然后你可以用他这个point来当你去选组啊,或者跟team lead交流的时候,你去作为一个这个筛选的点。"
+    },
+    {
+      "end_seconds": 206.0,
+      "id": "youtube-SCh-0MaeC_c#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 191.0,
+      "text": "然后第二点就是作为engineer来讲,你的怎么把这个principle应用到day to day的work life中,就是当你去选project的时候,你一定要去选一些在自己能力范围之外一点点的那些,这样会能够最好的push to growth。"
+    },
+    {
+      "end_seconds": 217.0,
+      "id": "youtube-SCh-0MaeC_c#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 206.0,
+      "text": "比如说你现在可以deploy一个feature,那你就去own一个project,你现在可以去own一个project,那你就去own一个service,你现在去own一个,可以去own一个service,你就可以去own一个multiple service。"
+    },
+    {
+      "end_seconds": 231.0,
+      "id": "youtube-SCh-0MaeC_c#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 217.0,
+      "text": "这样的话就是即使你就像视频里面说的,即使你的项目没有做好,如果你的项目真的很重要,那老板会和公司会派tech lead别的组的,或者说别的engineer来帮助你把这个项目deploy出去。"
+    },
+    {
+      "end_seconds": 238.0,
+      "id": "youtube-SCh-0MaeC_c#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 231.0,
+      "text": "如果这个公司项目不重要,那即使你做失败了,对你个人来说也没有,除了一些credibility的一些小damage,对吧?"
+    },
+    {
+      "end_seconds": 247.0,
+      "id": "youtube-SCh-0MaeC_c#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.0,
+      "text": "但其实也没有什么别的damage,你跟公司照拿,你的performance review还是可以做得很好。"
+    },
+    {
+      "end_seconds": 253.0,
+      "id": "youtube-SCh-0MaeC_c#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.0,
+      "text": "如果在你这个项目一旦成功了,对你个人来讲rewarding是非常高的。"
+    },
+    {
+      "end_seconds": 262.0,
+      "id": "youtube-SCh-0MaeC_c#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 253.0,
+      "text": "所以我觉得这两点可以作为参考,当我们去做prioritize的时候,怎么去pick up project的时候,包括怎么选组的时候,都可以作为一个参考点。"
+    },
+    {
+      "end_seconds": 267.0,
+      "id": "youtube-SCh-0MaeC_c#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 262.0,
+      "text": "这也是我在论坛上见到比较少的。"
+    },
+    {
+      "end_seconds": 283.0,
+      "id": "youtube-SCh-0MaeC_c#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.0,
+      "text": "第二点就是说要非常要,在大厂be crystal clear on where you wanna go,它的一个promotion level也好,还是一个个人成长的milestone也好,我觉得都是非常重要的。"
+    },
+    {
+      "end_seconds": 290.0,
+      "id": "youtube-SCh-0MaeC_c#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 283.0,
+      "text": "只有这样的话你才知道下一个level的benchmark是哪里,然后你才能看到自己的短板在哪里。"
+    },
+    {
+      "end_seconds": 299.0,
+      "id": "youtube-SCh-0MaeC_c#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 290.0,
+      "text": "然后你才会去shoot for这样刻意练习,然后你才会这样的去找到方式去补足你的短板。"
+    },
+    {
+      "end_seconds": 307.0,
+      "id": "youtube-SCh-0MaeC_c#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 299.0,
+      "text": "如果你有机会,就像他说他发现自己能立的三个人,但是当立的十个人或七个人的project的时候,他就有点短板。"
+    },
+    {
+      "end_seconds": 317.0,
+      "id": "youtube-SCh-0MaeC_c#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 307.0,
+      "text": "然后他就去近距离观察他们组的tech leader是怎么立的十个人,或者说更大的scope的,他就会想方法怎么从中学习,我觉得这是一个非常好的点。"
+    },
+    {
+      "end_seconds": 328.0,
+      "id": "youtube-SCh-0MaeC_c#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 317.0,
+      "text": "就是你肯定还是,如果你有机会去very closely work with这种people,那其实从junior到senior一个barrier就是你怎么去align multiple people to work together。"
+    },
+    {
+      "end_seconds": 340.0,
+      "id": "youtube-SCh-0MaeC_c#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 328.0,
+      "text": "那肯定你就是要再通过,如果你有机会跟这些技术大牛学习的话,那你就可以把握好这个机会,然后从中去maximize你的learning。"
+    },
+    {
+      "end_seconds": 352.0,
+      "id": "youtube-SCh-0MaeC_c#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 341.0,
+      "text": "如果你现在还是处于junior level,就是你没有这样的机会去观察到这种大牛去push这种project,那最好的方式就是说你已经知道这么一个事情,对吧。"
+    },
+    {
+      "end_seconds": 363.0,
+      "id": "youtube-SCh-0MaeC_c#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.0,
+      "text": "future in your career,这是一个非常critical step,然后你就可以刻意练习,在你的日常工作中去找这样的机会去practice自己的skill set。"
+    },
+    {
+      "end_seconds": 374.0,
+      "id": "youtube-SCh-0MaeC_c#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 363.0,
+      "text": "第三点,就像他说的是在跳槽的时候,他提供了一个非常comprehensive framework,他们去选下家,在这里面我只想做一个非常非常小的补充。"
+    },
+    {
+      "end_seconds": 382.0,
+      "id": "youtube-SCh-0MaeC_c#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 374.0,
+      "text": "他的一个论点就是说最好是选5亿到10亿美金,因为这样的公司已经过了product market fit的验证,剩下的就是hypergrowth。"
+    },
+    {
+      "end_seconds": 400.0,
+      "id": "youtube-SCh-0MaeC_c#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 382.0,
+      "text": "从product market fit到hypergrowth中间还有一个临界点叫pivot point,就是一个公司可能已经活得很好的这个行业里面赚到钱了,但是他还没有到一个,因为公司的增长都不是linear,都是exponential的。"
+    },
+    {
+      "end_seconds": 424.0,
+      "id": "youtube-SCh-0MaeC_c#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 400.0,
+      "text": "他还没有到exponential point的临界点,但这个点也很难把握,但是当你知道这么一个concept以后,你就可以在选择现在的时候把pivot point作为一个参考,你可以在看跟创始人聊一聊你们现在和去年的growth大概有多少,他们的growth有没有fit in到exponential chart里面,去帮助你做一个更好的选择。"
+    },
+    {
+      "end_seconds": 445.0,
+      "id": "youtube-SCh-0MaeC_c#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.0,
+      "text": "因为这样的话,你如果说这个公司已经过了exponential point,那你的这一年两年的learning跟你这个公司没有过exponential point之前,这些一年两年的learning我觉得时间上的rewarding和差别还是非常大的,所以这也是对于他做的framework中其他的点的一个小点的补充,希望对大家有所帮助。"
+    }
+  ],
+  "video_id": "SCh-0MaeC_c",
+  "yuzheng_stance_weight": "not-evidence"
+}

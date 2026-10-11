@@ -17,6 +17,7 @@
 | 视频字幕：会员视频 · 本人主讲 | 45 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 视频字幕：会员视频 · 对话 | 170 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
 | 视频字幕：公开视频 · 对话 | 6 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
+| 结构化对谈原文 | 339 份（含既有来源的新版本） | [对谈原文目录](index/dialogues.md) | [corpus/dialogues/](corpus/dialogues/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；说话人待核，不能据此推定立正赞同 |
 | 对话里立正本人的话 | 132 段 | [塑造价值观的对话](index/values-conversations.md) | [corpus/conversation-excerpts/](corpus/conversation-excerpts/) | 会员视频里的：[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；公开视频里的：[CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：源于立正 | 11 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：其他作者 | 39 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md) |
@@ -54,6 +55,7 @@
 - [回答协议](docs/answering-contract.md)：怎样区分原文、综合和推断
 - [自己做一个 Agent](docs/build-your-own-agent.md)：最小可用的检索与推荐流程
 - [来源模型](docs/source-model.md)：字段、来源优先级与时间
+- [对谈资料的两层](docs/dialogue-ingestion.md)：原文、AI 提炼、说话人及收录边界
 - [隐私与权利](docs/privacy-and-rights.md)：什么进仓库、什么不进
 - [release-manifest.json](release-manifest.json)：每个文件的哈希与许可；[REUSE.toml](REUSE.toml)：机器可读的许可对照
 

@@ -1,0 +1,732 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-pnrovCRn3R8",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2023-12-28T14:28:11Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T02:01:14.325503+00:00",
+  "published_at": "2023-12-28",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "d22610c2ef249bbbde13b6b5619210d9c2f86e275ade810a81c8dc72584786a5",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "2ba21e3855604b28ef2b19bc0101fb266c1eeb962c6b146a484437228c9f6ee8",
+    "root_receipt_sha256": "5dc56996d8d202d0c9f003a8047d9a67fb7c5ebffbeffa71bbe5903c976ef541",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=pnrovCRn3R8",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=pnrovCRn3R8",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "创业必看：董事会权力竟然这么大？",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 23.639,
+      "id": "youtube-pnrovCRn3R8#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "独立董事来，你也要给他一定的，就是说报酬嘛。然后给多少啊？好奇一下。啊，这个取决于独立董事在什么阶段进，因为以前我还对商战抱有幻想。我说，难道大家的这个初心不都是为了这公司好吗？为了我们能够一起赚钱，公司能够呃成长成一个超级大的独角兽或单客控啊，然后嗯做成一个伟大的公司。可是人性不是这样的，就是。"
+    },
+    {
+      "end_seconds": 33.194,
+      "id": "youtube-pnrovCRn3R8#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.639,
+      "text": "不论你的公司的技术有多难，你要花很多的时间去琢磨技术、搭建技术团队，把技术进行商业落地。我知道很忙很忙，但是你。"
+    },
+    {
+      "end_seconds": 42.219,
+      "id": "youtube-pnrovCRn3R8#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.194,
+      "text": "另外的三件事你一定要做，这就是一个创始人的修炼。对，就Hello，大家好，欢迎回到《开白账》，今天我们请来了周南。"
+    },
+    {
+      "end_seconds": 68.744,
+      "id": "youtube-pnrovCRn3R8#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.219,
+      "text": "大家好，周南是高通创投（Qualcomm Ventures）的合伙人，对，然后是百度资本，百度资本，对，是在美国的负责人，对，对，在资本圈做了多久了？呃，在VC圈做了七年了，见过了很多创业和资本之间狗血故事的人，呃，很多的这种成长故事的人，对，成长故事，他们很多的这种。"
+    },
+    {
+      "end_seconds": 94.845,
+      "id": "youtube-pnrovCRn3R8#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.744,
+      "text": "奋斗史啊，对的，嗯，对，最近就是 OpenAI 这件事情，呃，出来了以后，也让很多人知道了，其实资本和创业者之间是有很多狗血故事的。嗯，但是我们在讨论的时候就发现嘛，我们在一个群里边，然后大家讨论的时候就发现，很多人会觉得啊，这这个事儿很新鲜，或者说很少发生。其实投资人或者说是对这个公司治理比较了解的人就知道，这种事情就是太常见不过了，天天发生。"
+    },
+    {
+      "end_seconds": 107.87,
+      "id": "youtube-pnrovCRn3R8#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.845,
+      "text": "嗯，怎么说呢？就是资本和创业者者之间，它是一种相辅相成，然后又互相监督。有的时候也会有一些不同的意见和conflict这种一个。"
+    },
+    {
+      "end_seconds": 116.29,
+      "id": "youtube-pnrovCRn3R8#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.87,
+      "text": "我怎么说？一个 ecosystem，那他们之间的这种关系，它是需要有一定的法律法规，就是 corporate governance 来去监督和保护的。"
+    },
+    {
+      "end_seconds": 141.22,
+      "id": "youtube-pnrovCRn3R8#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.29,
+      "text": "呃，这样的话呢，才能够让这个公司能够去，嗯，沿着一个比较正确的方向，不脱轨的去成长。我觉得这是一个资本创业者之间，再加上董事会架构这么一个初心吧。好多高情商的说法呀，我在下面给你加一堆解读。谢谢。你知道昨天加一堆低情商解读，我的低情商解读。但是昨天你知道我跟徐老师聊的时候，他其实给你promote的很好。"
+    },
+    {
+      "end_seconds": 157.69,
+      "id": "youtube-pnrovCRn3R8#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 141.22,
+      "text": "他说，就是公司治理非常的重要，对创业者。然后他说，他相信他说好的lawyer非常重要。然后他说，所有的这个条款，就是你的term sheet和公司的bylaw里边全都有定时炸弹，只不过是多少和这个影响，对吧？很同意。是的。"
+    },
+    {
+      "end_seconds": 181.071,
+      "id": "youtube-pnrovCRn3R8#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.69,
+      "text": "好嘞，那我们今天就从呃，请介绍几个故事吧，讲几个故事来帮大家更具象的理解一下，就是资本和创业呃创业者之间到底有什么样的这种爱恨情仇。我们先不要从小的一个故事开始讲起，我觉得先从一个大的逻辑框架讲起，就是说，呃，其实我们硅谷这些创业者的初心，就是说硅谷。"
+    },
+    {
+      "end_seconds": 192.972,
+      "id": "youtube-pnrovCRn3R8#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 181.071,
+      "text": "你说硅谷这么有魅力，就是因为，呃，创业者有梦想就可以来去实现他的梦想，凭他的真才实学、本事，凭他的技术能力等等去架构一个公司，对吧？嗯。"
+    },
+    {
+      "end_seconds": 199.472,
+      "id": "youtube-pnrovCRn3R8#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 192.972,
+      "text": "然后，但是你去做这件事情，你是需要钱的。那么，谁给你钱呢？就是一些VC投资人来给你钱，对不对？"
+    },
+    {
+      "end_seconds": 222.976,
+      "id": "youtube-pnrovCRn3R8#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 199.472,
+      "text": "可是这些钱他不可能是白给你的，对吧？因为，你创办一个公司，你需要有监督，要不然的话，这个创始人如果他没有什么经验，他很green，他把公司做砸了怎么办？他在他在成长的过程中，他会遇到很多的困难，他也需要呃这些有经验的投资人来帮助他。他们互相帮助，互相成就。其实你从一个积极的层面来看，就是。"
+    },
+    {
+      "end_seconds": 252.803,
+      "id": "youtube-pnrovCRn3R8#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.976,
+      "text": "一个好的case就就是很有才华，呃，技术能力很强，然后呃，就是很有正能量，非常能干，hard working的一个创业者，他需要钱，然后投资人给他钱，然后这个投资人呢也刚好，就是非常懂得公司的呃运作规则，知道怎么把公司从零到一的往上涨，从一到无穷大的去给他扩展，这是一个比较理想的情况。这就是为什么就是说，如果一个好呃成长型的创业者，加上他如果是coachable。"
+    },
+    {
+      "end_seconds": 273.414,
+      "id": "youtube-pnrovCRn3R8#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 252.803,
+      "text": "再加上一个，呃，匹配一个就是非常有经验的，能够理解这个投资人的创业者的投资人，加上董事会，那么这个公司它就会是一个正向的发展。因为一个公司成长过程中，他会遇到太多的困难、挫折和坑，所以它需要一个很好的董事会去扶持、加持，一路陪伴它成长。"
+    },
+    {
+      "end_seconds": 293.511,
+      "id": "youtube-pnrovCRn3R8#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 273.414,
+      "text": "我我们经常会听说，就是财务投资人或者战略投资人区别。然后像你刚刚说的，就是这个董事会除了在提供钱以外，其实你更强调的是对他的帮他避各种坑，加持他的成长，帮助他成长。其实我现在我现在所在的创业公司也看到，就是董事会的meeting，呃，董事会其实是给了很多的建议，给了很多很多建。"
+    },
+    {
+      "end_seconds": 313.902,
+      "id": "youtube-pnrovCRn3R8#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.511,
+      "text": "对，所以说一个好的董事会绝对不是只是给钱这么简单，绝对不是给钱这么简单，也不是去炒创始人这么，绝对不是。我觉得这不是每，这不是这绝对不是投资人和董事会的初心，他一定是想说，我给创始人一些呃帮助，然后给他一些指点。如果这个创始人犯错误的时候，或方向不一致的时候，"
+    },
+    {
+      "end_seconds": 324.293,
+      "id": "youtube-pnrovCRn3R8#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 313.902,
+      "text": "我去及时的把它拨乱反正，给它给纠正回来，然后让这个公司更好的成长。因为董事会它肩负的责任是，就是fiduciary responsibility在。"
+    },
+    {
+      "end_seconds": 349.608,
+      "id": "youtube-pnrovCRn3R8#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.293,
+      "text": "英语中是fiduciary，在中文怎么翻译？我想想，就是监督权。监督呃，并且对所有的投资人负责，因为你想，你这个公司可能有二三十个投资人，对吧？你从种子轮到A轮到B轮，到最后成长壮大，你这中间不可能就几个投资人，你可能最后有的大有的有的融资规模比较大的，你看它的cap table上都会有几十个投资人，但是董事会它一一般就只有呃大概。"
+    },
+    {
+      "end_seconds": 379.602,
+      "id": "youtube-pnrovCRn3R8#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 349.608,
+      "text": "呃，一般是常见是四到五个人，大点可能是五到七个人，就这么几个人的董事会，他要去负担起其监督整个公司的职责，他是代表了整个投资人的利益，所以他身上的任务是很重的。就是说我既要去呃指导这个创业者去好好的把公司做好，又要去代表整个投资人的利益，不然的话，很多投资人的利益可能在这个中间就嗯，你知道，因为人性它不是说完全是善的嘛，可能比如说有的公司，呃。"
+    },
+    {
+      "end_seconds": 391.348,
+      "id": "youtube-pnrovCRn3R8#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.602,
+      "text": "这个财务总监没有好的财务总监，那可能创始人就把钱就是花光啦、私吞啦，也不知道怎么回事儿啊。所以这个董事会一定要起到一个好好的监督公司的作用，这样才能对得起这些投资人的钱嘛。"
+    },
+    {
+      "end_seconds": 411.744,
+      "id": "youtube-pnrovCRn3R8#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 391.348,
+      "text": "才才能够给他们带来正向的 return。对，嗯，就是首先大家都是奔着一个好的方向去，中间既然有利益，肯定会有博弈，然后一定会有博弈，都是很正常的事儿。对，就是大家不要用一个片面的角度去解读，对对，或者说就带着一个嗯，马上贴上了好人坏人的标签去是的，去带入这个故事，就是要理解这件事情的复杂，是的。"
+    },
+    {
+      "end_seconds": 427.08,
+      "id": "youtube-pnrovCRn3R8#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 411.744,
+      "text": "我我，但是我这儿有一个问题，就是现在有更越来越多的公司，它是这个创始人有 controlling rights，嗯，呃，然后在你看来，现在在硅谷这几年是一个常见现象，还是一个嗯不常见现象？就是董事会对创始人。"
+    },
+    {
+      "end_seconds": 449.469,
+      "id": "youtube-pnrovCRn3R8#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.08,
+      "text": "的监管权力到底是一些，比如说你是不是在偷税漏税啊？你是不是在这个做假账啊？还是他们能决定这个公司发展的方向？呃，我觉得取决于创始人的博弈能力和他的融资能力，还有他对呃整个公司的把控能力。那比如说，如果这个创始人他在创业的一开始，他就是一个连续创业者，他已经有成功的记录。"
+    },
+    {
+      "end_seconds": 473.357,
+      "id": "youtube-pnrovCRn3R8#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 449.469,
+      "text": "或者说他自带自带资本进来，就是实力雄厚，有很多的这个自己，比如说呃自己本身就很有钱，呃他的亲朋好友有一个强大的朋友圈，给他很多钱。那可能他在一开始创业的时候，他没有被过度的稀释，他融资的时候就他就不需要去对他就他就不需要去求着资本，就等于说他的掌控权、资金掌控权一直在自己手上。"
+    },
+    {
+      "end_seconds": 495.718,
+      "id": "youtube-pnrovCRn3R8#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 473.357,
+      "text": "这种情况下，这种创始人可能就不会把权利让过过度过多的让渡给董事会。他也可以在融资的时候说：“我不让渡给我，我我就是我的董事会一直都是，比如说 common shareholder，就是创始人。你有席位，但是你没有 voting rights。嗯，一定的 voting rights 还是要给的，但是可能是创始人这边就是管理团队占据董事会绝多绝大多数的席位。"
+    },
+    {
+      "end_seconds": 518.913,
+      "id": "youtube-pnrovCRn3R8#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.718,
+      "text": "然后投资人占据少的席位，这个是在早期的时候，公司成长早期的时候，尽量还是把这个控制权给创始人。That makes sense。对，但是到了，比如说到了成长到B轮以后，那啊，这个时候你需要更多的钱了，你需要去融，去就是说更多的投资人上你的Cap Table。一般我们看到的现象就是，就是到了B轮以后，嗯。"
+    },
+    {
+      "end_seconds": 539.857,
+      "id": "youtube-pnrovCRn3R8#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 518.913,
+      "text": "公公司会相对的把这个董事会的呃这个管控制权会逐渐的过渡到投资人的身上去，嗯，所以可能你会发现你的董事会的table上面，呃，common shareholder大概是两两票左右，嗯，然后包括创始人，然后可能两票以上，两票到三票之间是给了这个投资人，这个是很正常的。"
+    },
+    {
+      "end_seconds": 552.108,
+      "id": "youtube-pnrovCRn3R8#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 539.857,
+      "text": "那么你要去控制好这个平衡呢？那可能就是你会加一个独立董事的席位。那这个独立董事一般就是跟公司没有什么利益关系，他不是投资人，他也不是创始人，他也不是管理层。"
+    },
+    {
+      "end_seconds": 569.862,
+      "id": "youtube-pnrovCRn3R8#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 552.108,
+      "text": "他是从一个业界请来的一个比较有经验的人，就取决于你公司做的是呃什么方向，做什么样的创业类型，那你会从去业界找一个呃大佬来做你的这个独立董事，那这个独立董事他就可能会不偏不倚，我既不偏向呃创始人这边，也不会偏向。"
+    },
+    {
+      "end_seconds": 579.616,
+      "id": "youtube-pnrovCRn3R8#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 569.862,
+      "text": "过度的偏向投资人这边，所以当一旦公司出现矛盾的时候，那这个独立董事他就会起到一个比较关关键性的这个价值，就是这个。"
+    },
+    {
+      "end_seconds": 601.133,
+      "id": "youtube-pnrovCRn3R8#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 579.616,
+      "text": "选票权的作用，因为对，就是说，当你要 voting 一件事情的时候，尤尤其两边出现分歧的时候，有的时候这个独立董事这一票就会决定说，有点像那种部落长老的感觉。对对对，我的这个这一票往哪走？然后通常这个独立董事都会尽量的公正客观的。我们希望就是为什么设立这个独立董事，就是希望他能够在出现分歧的时候公正客观的做出一个决断。"
+    },
+    {
+      "end_seconds": 619.238,
+      "id": "youtube-pnrovCRn3R8#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 601.133,
+      "text": "嗯，因他能这么做，是因为他有这样的 reputation 和业界地位。对他有经验和业界地位，你会发现，就是呃，公司请独立董事，这个独立董事一般都是有一定的 track record 的，他可能在很多的公司做过独立董事，做过董事，那么他的 reference check 就是他的这个，呃，就是。"
+    },
+    {
+      "end_seconds": 647.912,
+      "id": "youtube-pnrovCRn3R8#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 619.238,
+      "text": "reference check中文怎么说？就是大家的推荐吧。啊，推荐，对的，引荐都非常好，口碑非常非常好。然后这样的人，我觉得你请这样的人上公司做独立董事是相对比较安全的。嗯嗯，那其实独立董事一般不会在公司占股票。去呃，这个要看，就看你公司。不需要，不是一个必要条件。呃，不是个必要条，但是独立董事来，你也要给他一定的，就是说报酬嘛。哦。要不就给他钱，要不就给他股票。我觉得给。"
+    },
+    {
+      "end_seconds": 668.996,
+      "id": "youtube-pnrovCRn3R8#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.912,
+      "text": "给股票可能是一个比较好的激励机制，这样这个独立董事的心就是说，对，就 aligned，就是说我公司这个公司好好发展。一般会给多少啊？好奇一下。啊，这个取决于独立董事在什么阶段进来。一轮以后吧。一轮以后的话，一般呃，肯定不到零点五个点，比如说零点零几个点，零点二。对对对，差不多这个点。嗯。"
+    },
+    {
+      "end_seconds": 698.12,
+      "id": "youtube-pnrovCRn3R8#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.996,
+      "text": "对，也基本上就是一个 senior 员工，就是关键员工的。需要 senior 员工，而且肯定也是分好几年 vesting 的嘛，对吧？对。然后，嗯，也取决于说这个独立董事有多帮忙，有有的独立董事能给你带来大客户呀，或者是能给你带来下一轮的融资一些钱呢。对。啊，这种情况，这个独立董事就是帮忙很大的话，你可能占股就比较大。有点 FA 的感觉，呃，就是就是那那种 compensation。那要看他有多就是 active，有的独立董事各自身上的就是宝藏不一样嘛，可能有的就是。"
+    },
+    {
+      "end_seconds": 710.864,
+      "id": "youtube-pnrovCRn3R8#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 698.12,
+      "text": "特别的会管公司，嗯，有公司管理的一套方法论，呃，比如说什么管理咨询出身，能够给创始人很多很多很好建议，可以作为创始人的mentor。那这种独立董事可能会更倾向于就更亲创始人一点。"
+    },
+    {
+      "end_seconds": 732.085,
+      "id": "youtube-pnrovCRn3R8#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 710.864,
+      "text": "如果这独立董事是投资人推荐的，可能他就更亲投资人一点。这也是取决于这个呃，投资人跟创始呃，投资人和创始人之间的一种微妙关系。对，这个就是美国的怎么说呢？到了公司高层，大家在博弈，或者说是对有 connection 博弈，这个时候的 connection 其实就变得尤其重要。就是最后，其实所有 business 都是人，我们在。"
+    },
+    {
+      "end_seconds": 747.803,
+      "id": "youtube-pnrovCRn3R8#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 732.085,
+      "text": "打工初级的时候会发现很多事情都是对事的。我们 promotion 不可能跟人有关，只是跟你做的事儿有关。对。但是越往上，connection networking 的作用就越重要。是的，是的，是的。嗯，你会不会上一个 board？我之前采访也不是采访，就是参加 W 的。"
+    },
+    {
+      "end_seconds": 770.674,
+      "id": "youtube-pnrovCRn3R8#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 747.803,
+      "text": "就是现在是Ancestry CEO，在之前是Facebook，他就说其实他能进董事会就是Sandberg有一个机会，然后就想到了他，然后就说你去跟Intuit CEO聊一下，然后就聊了一下，然后就那个时候他是一个director，就是有Sandberg管几百个director，所以说是的，就是那一个sponsorship，然后最后在又过了若干年之后，他成为了Intuit的board，嗯，对。"
+    },
+    {
+      "end_seconds": 778.448,
+      "id": "youtube-pnrovCRn3R8#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 770.674,
+      "text": "就是这种东西真的是需要时机，需要其实最重要的是人，对，需要人给他引荐，因为他的经验在积累嘛，他。"
+    },
+    {
+      "end_seconds": 805.795,
+      "id": "youtube-pnrovCRn3R8#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 778.448,
+      "text": "在Facebook管团队、管做产品的经验在积累，他的这个经验对Intel有很多的帮助。和他跟Intel CEO的对之间的这种trust，因为你认识了很多很久，你你你在这些年里，你你就是建立起了一种信任。还有Samuel给他的背书，是是是是，这是一系列。对，这就是最后天时地利人和，他就成为了一个。对这个东西，他努力是努力不来的，这个靠人。是的，是的，是的，这很微妙的。然后他可能在Intel的这个case上，他做的很成功，然后。"
+    },
+    {
+      "end_seconds": 828.779,
+      "id": "youtube-pnrovCRn3R8#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 805.795,
+      "text": "几年下来，哦，他说他现在每个州都会打电收到电话，就是说要邀请他去别的波了，因为他就是积累了这样的一种信任资本嘛，就像滚雪球一样，就越滚越大。他他的 profile 在很多的独立董事的这个 candidate pool 里面就会 stand out，就别人就会觉得这就是我理想中的一个独立董事，我就想去找他。对，嗯，好的呀。那我们聊的就是大家。"
+    },
+    {
+      "end_seconds": 856.602,
+      "id": "youtube-pnrovCRn3R8#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 828.779,
+      "text": "这样的一个生态是什么样子的？然后有没有什么其他的想跟大家分享的这种 principle？Before 我们开始讲故事啊，你说的生态是指这个董事会的生态，就是 dynamic，就是大家怎么去正确理解从一个打，因为我其实就是就是我自己在博士的时候是学的 corporate finance，那就读了很多 corporate governance 这方面的 literature，所以说当时也有很多书嘛。我记得我当时还在那边的博士啊，好奇一下，呃，康奈尔，哦，康奈尔，对对对。"
+    },
+    {
+      "end_seconds": 874.454,
+      "id": "youtube-pnrovCRn3R8#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 856.602,
+      "text": "呃，然后我当时本科的时候读了一本书叫《Barbarians at the Gate》，那个是我对这个的启蒙书籍。大门口的野蛮人，对吧？对，就是PE，就是就是这个公司怎么被PE给他控制了，然后以及这里边的商战吧，就是其实我觉得这个商战，对这个这个就是这比OpenAI，我觉得。"
+    },
+    {
+      "end_seconds": 895.861,
+      "id": "youtube-pnrovCRn3R8#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 874.454,
+      "text": "狗血的多，而且以以当时烟草公司的那个量级来说的话，我当时还在群里说，就是这个可能是微软加英伟达，然后绑在一起，然后后就是什么巴菲特也进来了呀，怎么样那种级别的对呃博弈，是的，是的，然后是个写的非常精彩、非常详实的这样一本书，是的，呃，就这种故事其实很多人都不知道，嗯，对我还蛮吃惊的。"
+    },
+    {
+      "end_seconds": 917.268,
+      "id": "youtube-pnrovCRn3R8#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 895.861,
+      "text": "是的，是的。对，所以说就是刚刚说了这个 dynamic，就是这个创投的生态资本，然后董事会到底是如何代表资本的？就是这里边他们可能有的是投资人，尤其是大的这个投资人，那一般会是一个 VC，呃，指定一个人，他们一般是他们内部的一个 partner 去做这个 board，或者是做 deal 的这个 partner。比如说我这个 deal 就是。"
+    },
+    {
+      "end_seconds": 926.646,
+      "id": "youtube-pnrovCRn3R8#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 917.268,
+      "text": "呃，我代表我的基金，我去投的，因为我看好这个公司，看好这个创始人，看好这个故事啊，所以那肯定一般就是你这个partner去上这个董事会。"
+    },
+    {
+      "end_seconds": 937.454,
+      "id": "youtube-pnrovCRn3R8#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 926.646,
+      "text": "对，然后那还有一些独立董事和创始人团队，就是创始人的这个，比如说亲朋好友啊，或者 trusted invited 一些人。对对。"
+    },
+    {
+      "end_seconds": 965.689,
+      "id": "youtube-pnrovCRn3R8#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 937.454,
+      "text": "嗯，那在这种情况下呢，自然而然的就会有一些博弈。就是当大家都好的时候就很简单，都好了，对，就互相帮忙啊。然后你帮我赚钱，然后我信任你，就是都很开心。但是当事情出现分歧，不可避免的，对吧？对，就是不管是经济情况啊，大家对未来的判断出现分歧了呀，这个时候就要互相说服，一起寻找 solution。找不到的时候，有的时候叫刀兵相见，我把你 fired。是的，是的。然后你们这些。"
+    },
+    {
+      "end_seconds": 988.114,
+      "id": "youtube-pnrovCRn3R8#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 965.689,
+      "text": "对，就当时大家很吃惊于，就是 OpenAI 为什么就是什么 announcement 没有，就去把 Sam 给 fired。我说这这是必然的，就是如果你去跟 Sam 沟通一下的话，Sam 先把你给干掉，对吧？对，因为他会发现你们有在本质上有着原则上的不可调和的分歧，这种情况下，一定是他会发生一个商战。"
+    },
+    {
+      "end_seconds": 1012.65,
+      "id": "youtube-pnrovCRn3R8#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 988.114,
+      "text": "然后通常商战商战一开打就是你死我活，必然你死我活，就是因为以前我还对商战抱有幻想，我说难道大家的这个初心不都是为了这公司好吗？为了我们能够一起赚钱，公司能够呃成长成一个超级大的独角兽或戴克空啊，然后嗯做成一个伟大的公司。可是人性不是这样的，所以这个这个很简单，就是大家都是为了这个，但是大家是希望。"
+    },
+    {
+      "end_seconds": 1029.547,
+      "id": "youtube-pnrovCRn3R8#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1012.65,
+      "text": "通过自己，对吧？你不能看到，就是他成为了一个独角兽，然后跟你没有半毛钱关系。商战的结果就是，就是如果对方赢了，那他们以他们的方式成为了好公司，跟你就没有关系了。对，那要看赢了对方能不能再让这个。"
+    },
+    {
+      "end_seconds": 1041.531,
+      "id": "youtube-pnrovCRn3R8#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1029.547,
+      "text": "就是商战中没有胜利的这一方，还还让不让他在一个桌子上一起说话？嗯，很多情况下是不让的，也有一些是，有也有一些格局大的创始人或格局大的董事会。"
+    },
+    {
+      "end_seconds": 1049.52,
+      "id": "youtube-pnrovCRn3R8#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1041.531,
+      "text": "他会让这个输的那一方再回来，因为他看到他的价值。对，但是这个前提一定是赢的这一方控制了全局。"
+    },
+    {
+      "end_seconds": 1072.727,
+      "id": "youtube-pnrovCRn3R8#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1049.52,
+      "text": "对，而且再让输的这一方回来，而且输的这一方还不能有 ego，就你不能心里面总是愤愤不平的说这个。双方都要有格局，然后这个矛盾也能调也能调和。嗯，然后而且一方面不会受到挑战。对的，如果有一和有一丝受到挑战的威胁，就不能就不可能在斩草除根。对对对，就不可能在一个桌子上说话。"
+    },
+    {
+      "end_seconds": 1081.264,
+      "id": "youtube-pnrovCRn3R8#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1072.727,
+      "text": "对，好的，我们已经set up很多了，来讲几个。你一开始可能就是，我觉得就是你职业生涯中，你觉得。"
+    },
+    {
+      "end_seconds": 1096.872,
+      "id": "youtube-pnrovCRn3R8#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1081.264,
+      "text": "比较大的一次，或者说波及比较远的，或者是还有就是你可能入行以后，你第一次经历就是你不是说一开始还有幻想吗？然后打破你幻想的故事是什么？我们可以捡几个说，但是第一个一般大家会印象比较深刻啊。"
+    },
+    {
+      "end_seconds": 1119.301,
+      "id": "youtube-pnrovCRn3R8#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1096.872,
+      "text": "对，好，那因为这里面，因为这个故事涉及到很多，就是说，当事人比较呃蛮有名的一些投资人和创业者，所以我全部都得匿名。对，我觉得这这真的都是呃初初次创业者没有什么经验，他低估了这个商战的残酷性。但是我认为吧，就是说我们作为投资人都有自己的理念，对吧？我是属于那派投资人，我认为。"
+    },
+    {
+      "end_seconds": 1140.199,
+      "id": "youtube-pnrovCRn3R8#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1119.301,
+      "text": "这个公司的创始人总是公司的灵魂，尤其是呃非常非常有技术能力、背景很强的创始人。本身这个这个某个这个公司可能就是个技术型的公司，再加上呃这个创始人又非常非常的hard working，他其实很green。我觉得是，我认为是一定是文化是cultureable的。"
+    },
+    {
+      "end_seconds": 1158.867,
+      "id": "youtube-pnrovCRn3R8#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1140.199,
+      "text": "只是说他需要时间成长，比如说他的这个沟通啊、沟通能力啊、讲故事的能力啊、透明度啊，他都需要去成长。或者你你能够像当年的Facebook，像Zuckerberg就找到了一个他当时的贵人应该是尚吧，我记得，对，就是嗯，就他找到这样一个人去帮他成长。我觉得如果没有尚，那可能。"
+    },
+    {
+      "end_seconds": 1179.789,
+      "id": "youtube-pnrovCRn3R8#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1158.867,
+      "text": "嗯，Zuckerberg 也被董事会干掉无数次了。对对对，早就干被。对对对，所以，我我我觉得就是说，可能这两个我我我经历的这个案例呢，这个创始人就没有像 Zuckerberg 这样的运气。就如果他们有这样的一个投资人，他们应该也不会被干掉。嗯，一命二运三风水啊，真的是，真的是，一命二运三风水。所以我我觉得就是说。"
+    },
+    {
+      "end_seconds": 1207.076,
+      "id": "youtube-pnrovCRn3R8#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1179.789,
+      "text": "一个公司换掉灵魂创始人，他应该也不会死，但是他这个公司的成长后面，嗯，我认为是是，就是比起他有可能会一帆风顺的，嗯，我刚刚是不一样了，他就是整个就被改命了，就对，对，我觉得这是一个很遗憾的故事，这是一个很遗憾的故事，有机会想采访一下那两个创始人。如果如果创始人能够，就是我觉得学到很多的教训哈，就是说创始人就是真的要去加强自己讲讲故事的能力。"
+    },
+    {
+      "end_seconds": 1224.973,
+      "id": "youtube-pnrovCRn3R8#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1207.076,
+      "text": "还有在跟董事会的沟通能力，以及自己的领导力这方面是一定要一定要加强的。就不论你的公司的技术有多难，你要花很多的时间去琢磨技术、搭建技术团队，或者是把商业进行把技术进行商业落地。我知道很忙很忙，但是你。"
+    },
+    {
+      "end_seconds": 1250.463,
+      "id": "youtube-pnrovCRn3R8#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1224.974,
+      "text": "另外的三件事也一定要做，这就是一个创始人的修炼。对，就你不能说我因为我在做事儿，我就忽略了其他的东西，这是不行的。这个世界上的所有东西都是人去构成的，对，是的，不是事情构成的，是的，是的。对，然后我我我之前也出过一个视频，就是说比种族更重要或者同样重要的三十二个因素，是的，而且都是过程因素，对对对，就大家看不见，似乎觉得它不重要，对对对，无比重要，是的，是的。"
+    },
+    {
+      "end_seconds": 1261.169,
+      "id": "youtube-pnrovCRn3R8#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1250.463,
+      "text": "然后，因为以此这个为教训呢，我我后来在投的公司中，我就非常看重这个创始人的，除了技术能力之外的他的一种呃沟通能力、讲故事能力和领导能力。"
+    },
+    {
+      "end_seconds": 1279.703,
+      "id": "youtube-pnrovCRn3R8#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1261.169,
+      "text": "然后也也有一些正面的案例啊，就是好呀。我觉得这两个真的是 night and day，就是而且就是从从你游戏的你的视角对创始人的叙述，就让我们知道了，嗯，创始人不是说技术牛逼就这么简单的做事情就这么简单的，那些 soft skill 其实真的很重要，很难积累，而且很难。"
+    },
+    {
+      "end_seconds": 1307.371,
+      "id": "youtube-pnrovCRn3R8#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1279.703,
+      "text": "而且真的就是你能看出来，和就是能保证这件事情的成功。对，想要掌控自己的命运，真的就是在这些方面上是要提高很多。是的，对。那你就是应该还有很多的其他的故事啊，但是不一定有狗血或者dramatic。但是day to day就是你还有没有什么其他的观察？对创始人的建议，或者说对大家平时吧，就比如说我，我如果不去做founder的话，那好像这些东西对我来说，我知道了。"
+    },
+    {
+      "end_seconds": 1316.655,
+      "id": "youtube-pnrovCRn3R8#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1307.371,
+      "text": "未必跟我有关，你觉得有什么东西其实是对我们每个人都有关的呢？我觉得在这个过程中，你要去多观察，嗯，多去看成功的团队的案例。"
+    },
+    {
+      "end_seconds": 1342.54,
+      "id": "youtube-pnrovCRn3R8#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1316.655,
+      "text": "然后，如果你身边有一些狗血的故事，你也可以总结他们的这种失败的原因和教训。这样的话，当你有一天想去创业或者想做自己的事情的时候，你就会这些故事和这些教训就会浮现出来，然后帮助你成就一个更好的自己。啊，其实就是花野老师那天，他就是说他在他在给斯坦福的上课的时候，第一句话一般都是，呃，我今天会跟你讲很多，嗯，然后你们都不会听。"
+    },
+    {
+      "end_seconds": 1368.424,
+      "id": "youtube-pnrovCRn3R8#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1342.54,
+      "text": "啊，对，这很正常的，不是大家的错，这是人性就是这样子。但是，他希望做到呢，就是在两三年之后，当大家开始犯错、有问题的时候，能回想到这个课的内容，然后去想的更深一点。是的，他最后就当你遇到事情的时候，你之前的一些经验或你学到的一些 lesson，它会浮现出来，然后这个时候就是你可以在这个时候去应用到你当年所学的东西去实践的时候了。嗯嗯嗯嗯。"
+    },
+    {
+      "end_seconds": 1375.713,
+      "id": "youtube-pnrovCRn3R8#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1368.424,
+      "text": "那，呃，我们正常就普通人怎么样子才能去观察到这些故事呢？"
+    },
+    {
+      "end_seconds": 1395.111,
+      "id": "youtube-pnrovCRn3R8#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1375.713,
+      "text": "嗯，这是个好问题。我我因为我觉得你最最大的learning都是你身体力行，你在里面的时候，对对吧？你你人在江湖中的时候，你才会被这个刀光剑影伤到，你才会变得更强大。明白了。所以普通人，我我能够给的建议就是，一旦你心中有一个梦想，你想要做一件事情的时候，因为人生真的很短。"
+    },
+    {
+      "end_seconds": 1413.953,
+      "id": "youtube-pnrovCRn3R8#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1395.111,
+      "text": "我是几个月前刚刚有了宝宝。嗯，当你有了，就是人生中发生一些变化的时候，你就知道，呃，你在你比如说二十到三十、三十到四十岁这个阶段的时间是多么多么宝贵。所以，当你一定找到自己的 passion 和梦想之后，你一定要去实践它，因为你没你错过了这个人生的这十年。"
+    },
+    {
+      "end_seconds": 1441.545,
+      "id": "youtube-pnrovCRn3R8#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1413.953,
+      "text": "嗯，你会很遗憾的，所以一定要去通过去做事儿，然后去学到这些经验，对，去栽跟头，对了，对，就想想的东西没有用，就是那我相信那两个创始人，他们等可能其实也没有这些故事，对吧？对，就是那这两个故事再难受，嗯，呃，总比啥都不做要好。Exactly，对我我相信，就是栽过跟头的创始人，最后都会变得很聪明，就最后都会有一个彻底的改变，会变得成熟。"
+    },
+    {
+      "end_seconds": 1449.413,
+      "id": "youtube-pnrovCRn3R8#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1441.545,
+      "text": "嗯，好的，对，谢谢今天的这种分享，也谢谢给大家的经验，谢谢谢谢，好的，希望对大家有用，我们下期再见，关注。"
+    }
+  ],
+  "video_id": "pnrovCRn3R8",
+  "yuzheng_stance_weight": "not-evidence"
+}

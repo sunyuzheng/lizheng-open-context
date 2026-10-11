@@ -1,0 +1,5930 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-Uf9uzFLpVEc",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2022-10-14T00:16:41Z",
+  "participant_aliases": [
+    "Howie Xu",
+    "硅谷徐老师（Howie Xu）"
+  ],
+  "participant_entity_ids": [
+    "guest:howie-xu"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "硅谷徐老师（Howie Xu）",
+  "public_verified_at": "2026-10-11T01:56:59.391909+00:00",
+  "published_at": "2022-10-14",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "f911bb71fa10f09be26da92a71bc5a925db98a72a4f392a780d934b778376ff7",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "4484206fd3a158e44202df3939d2bf2c5c1c594b4ef05e7a6d9375238b6b0974",
+    "root_receipt_sha256": "410ee8669a43d4eb38a9b143870ffdff20e4ca5db03788263d7f4138b414f768",
+    "unresolved_count": 2
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=Uf9uzFLpVEc",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=Uf9uzFLpVEc",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "大佬亲身经历剖析，中美科技创业差异？｜中国SaaS为什么不赚钱？",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "就是你用不同的滤镜看东西"
+    },
+    {
+      "end_seconds": 3.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.0,
+      "text": "会看出来不一样"
+    },
+    {
+      "end_seconds": 5.52,
+      "id": "youtube-Uf9uzFLpVEc#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.32,
+      "text": "但是你眼睛还是这个眼睛"
+    },
+    {
+      "end_seconds": 6.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.52,
+      "text": "世界还是这个世界"
+    },
+    {
+      "end_seconds": 7.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.879,
+      "text": "然后他就看出来了"
+    },
+    {
+      "end_seconds": 8.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.879,
+      "text": "他说"
+    },
+    {
+      "end_seconds": 9.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.24,
+      "text": "那个Howey"
+    },
+    {
+      "end_seconds": 10.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.0,
+      "text": "你不要embarrassed"
+    },
+    {
+      "end_seconds": 10.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.0,
+      "text": "有pivot"
+    },
+    {
+      "end_seconds": 12.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.48,
+      "text": "没有pivot的公司都不算startup"
+    },
+    {
+      "end_seconds": 13.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.439,
+      "text": "你只有第一个pivot的时候"
+    },
+    {
+      "end_seconds": 15.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.96,
+      "text": "才算是你的startup"
+    },
+    {
+      "end_seconds": 16.08,
+      "id": "youtube-Uf9uzFLpVEc#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.12,
+      "text": "开始第一天"
+    },
+    {
+      "end_seconds": 17.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.08,
+      "text": "但是实际上"
+    },
+    {
+      "end_seconds": 18.76,
+      "id": "youtube-Uf9uzFLpVEc#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.199,
+      "text": "如果你用过去5年的"
+    },
+    {
+      "end_seconds": 20.4,
+      "id": "youtube-Uf9uzFLpVEc#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.76,
+      "text": "10年的眼光去看"
+    },
+    {
+      "end_seconds": 23.08,
+      "id": "youtube-Uf9uzFLpVEc#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.4,
+      "text": "有一方其实也是有一个责任的"
+    },
+    {
+      "end_seconds": 24.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.08,
+      "text": "就投资方"
+    },
+    {
+      "end_seconds": 26.44,
+      "id": "youtube-Uf9uzFLpVEc#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.24,
+      "text": "我们最后给大家一个bonus"
+    },
+    {
+      "end_seconds": 27.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.44,
+      "text": "年底快到了"
+    },
+    {
+      "end_seconds": 29.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.199,
+      "text": "有很多同学在大厂"
+    },
+    {
+      "end_seconds": 31.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.96,
+      "text": "他们也可能会问"
+    },
+    {
+      "end_seconds": 32.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.32,
+      "text": "要不要自己创业"
+    },
+    {
+      "end_seconds": 33.52,
+      "id": "youtube-Uf9uzFLpVEc#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.24,
+      "text": "或者加入创业公司"
+    },
+    {
+      "end_seconds": 35.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.52,
+      "text": "您作为一个连续成功的创业者投资人"
+    },
+    {
+      "end_seconds": 37.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.92,
+      "text": "对这件事有没有一些忠告建议"
+    },
+    {
+      "end_seconds": 38.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.84,
+      "text": "我觉得"
+    },
+    {
+      "end_seconds": 40.64,
+      "id": "youtube-Uf9uzFLpVEc#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.84,
+      "text": "这个大公司"
+    },
+    {
+      "end_seconds": 42.64,
+      "id": "youtube-Uf9uzFLpVEc#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.64,
+      "text": "我可以guarantee"
+    },
+    {
+      "end_seconds": 45.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.64,
+      "text": "在很多观众不远的将来"
+    },
+    {
+      "end_seconds": 46.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.0,
+      "text": "这些公司"
+    },
+    {
+      "end_seconds": 47.64,
+      "id": "youtube-Uf9uzFLpVEc#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.0,
+      "text": "不一定垮掉"
+    },
+    {
+      "end_seconds": 49.76,
+      "id": "youtube-Uf9uzFLpVEc#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.64,
+      "text": "但是就是急剧的走下坡路"
+    },
+    {
+      "end_seconds": 51.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.76,
+      "text": "我觉得这个是"
+    },
+    {
+      "end_seconds": 52.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.48,
+      "text": "我们都已经看了太多了"
+    },
+    {
+      "end_seconds": 54.76,
+      "id": "youtube-Uf9uzFLpVEc#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.96,
+      "text": "你觉得对于创业者来说"
+    },
+    {
+      "end_seconds": 55.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.76,
+      "text": "有多少pmf"
+    },
+    {
+      "end_seconds": 56.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.96,
+      "text": "pmf"
+    },
+    {
+      "end_seconds": 58.719,
+      "id": "youtube-Uf9uzFLpVEc#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.96,
+      "text": "是他创业的时候"
+    },
+    {
+      "end_seconds": 59.88,
+      "id": "youtube-Uf9uzFLpVEc#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.719,
+      "text": "他想到这个想法"
+    },
+    {
+      "end_seconds": 60.76,
+      "id": "youtube-Uf9uzFLpVEc#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.88,
+      "text": "天生就带着的"
+    },
+    {
+      "end_seconds": 62.28,
+      "id": "youtube-Uf9uzFLpVEc#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.76,
+      "text": "有多少是pivot之后找到的"
+    },
+    {
+      "end_seconds": 65.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 63.48,
+      "text": "然后第二个就是中美SaaS的问题"
+    },
+    {
+      "end_seconds": 66.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.879,
+      "text": "就是为什么"
+    },
+    {
+      "end_seconds": 68.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.92,
+      "text": "中国公司不付费"
+    },
+    {
+      "end_seconds": 70.64,
+      "id": "youtube-Uf9uzFLpVEc#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.439,
+      "text": "为什么中国公司什么东西都想自己做"
+    },
+    {
+      "end_seconds": 74.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.799,
+      "text": "我觉得第一个问题"
+    },
+    {
+      "end_seconds": 76.28,
+      "id": "youtube-Uf9uzFLpVEc#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.439,
+      "text": "就是pmf"
+    },
+    {
+      "end_seconds": 78.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.28,
+      "text": "产品市场匹配这个角度"
+    },
+    {
+      "end_seconds": 79.64,
+      "id": "youtube-Uf9uzFLpVEc#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.68,
+      "text": "你的问题就是说"
+    },
+    {
+      "end_seconds": 81.4,
+      "id": "youtube-Uf9uzFLpVEc#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.64,
+      "text": "多少是我在创业的时候"
+    },
+    {
+      "end_seconds": 82.52,
+      "id": "youtube-Uf9uzFLpVEc#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.4,
+      "text": "基本上就想到了"
+    },
+    {
+      "end_seconds": 85.4,
+      "id": "youtube-Uf9uzFLpVEc#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.52,
+      "text": "有多少是经过几个pivot"
+    },
+    {
+      "end_seconds": 86.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.44,
+      "text": "然后才能够找到"
+    },
+    {
+      "end_seconds": 89.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 86.56,
+      "text": "我是觉得一般都是需要经过pivot"
+    },
+    {
+      "end_seconds": 92.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 90.16,
+      "text": "但这个pivot不代表我今天做A"
+    },
+    {
+      "end_seconds": 94.64,
+      "id": "youtube-Uf9uzFLpVEc#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.84,
+      "text": "明天是完全做B"
+    },
+    {
+      "end_seconds": 96.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.64,
+      "text": "有可能今天是做A"
+    },
+    {
+      "end_seconds": 97.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.0,
+      "text": "但是我本来是"
+    },
+    {
+      "end_seconds": 99.44,
+      "id": "youtube-Uf9uzFLpVEc#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.6,
+      "text": "就包括Google"
+    },
+    {
+      "end_seconds": 100.4,
+      "id": "youtube-Uf9uzFLpVEc#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.44,
+      "text": "Google一开始以为"
+    },
+    {
+      "end_seconds": 102.88,
+      "id": "youtube-Uf9uzFLpVEc#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 100.4,
+      "text": "他的赚钱是做一个to B生意的"
+    },
+    {
+      "end_seconds": 105.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.88,
+      "text": "他以为一开始做一个搜索"
+    },
+    {
+      "end_seconds": 107.08,
+      "id": "youtube-Uf9uzFLpVEc#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.8,
+      "text": "给用户用"
+    },
+    {
+      "end_seconds": 107.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.08,
+      "text": "这是免费的"
+    },
+    {
+      "end_seconds": 109.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.96,
+      "text": "他真正赚钱的是"
+    },
+    {
+      "end_seconds": 110.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.0,
+      "text": "可能把这个搜索引擎送到公司里面"
+    },
+    {
+      "end_seconds": 113.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.96,
+      "text": "去搜索公司内部的资料"
+    },
+    {
+      "end_seconds": 114.64,
+      "id": "youtube-Uf9uzFLpVEc#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.2,
+      "text": "这是他1999年的时候"
+    },
+    {
+      "end_seconds": 116.239,
+      "id": "youtube-Uf9uzFLpVEc#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.12,
+      "text": "他在那时候想的"
+    },
+    {
+      "end_seconds": 119.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.879,
+      "text": "做广告是后来的事情"
+    },
+    {
+      "end_seconds": 121.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.68,
+      "text": "他才发现我有这么一个"
+    },
+    {
+      "end_seconds": 123.64,
+      "id": "youtube-Uf9uzFLpVEc#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.84,
+      "text": "一个product market fit"
+    },
+    {
+      "end_seconds": 125.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.64,
+      "text": "能够是profitable的"
+    },
+    {
+      "end_seconds": 127.079,
+      "id": "youtube-Uf9uzFLpVEc#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.519,
+      "text": "我觉得绝大多数的公司"
+    },
+    {
+      "end_seconds": 128.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.079,
+      "text": "知道我观察到的"
+    },
+    {
+      "end_seconds": 128.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.12,
+      "text": "我看到的"
+    },
+    {
+      "end_seconds": 130.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.759,
+      "text": "我自己involved"
+    },
+    {
+      "end_seconds": 131.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 130.24,
+      "text": "我觉得绝大多数是"
+    },
+    {
+      "end_seconds": 134.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.599,
+      "text": "都并不是在第一天就想清楚了"
+    },
+    {
+      "end_seconds": 136.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.8,
+      "text": "但是也没有太多的"
+    },
+    {
+      "end_seconds": 138.08,
+      "id": "youtube-Uf9uzFLpVEc#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.039,
+      "text": "就是我第一天做搜索的"
+    },
+    {
+      "end_seconds": 139.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 138.08,
+      "text": "第二天开始做完全不一样的"
+    },
+    {
+      "end_seconds": 140.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 139.8,
+      "text": "而是说是"
+    },
+    {
+      "end_seconds": 142.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.84,
+      "text": "换一个角度去想问题"
+    },
+    {
+      "end_seconds": 144.319,
+      "id": "youtube-Uf9uzFLpVEc#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 142.24,
+      "text": "所以说很多时候我是觉得"
+    },
+    {
+      "end_seconds": 146.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.319,
+      "text": "要换perspective"
+    },
+    {
+      "end_seconds": 147.639,
+      "id": "youtube-Uf9uzFLpVEc#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 146.12,
+      "text": "换一个lens"
+    },
+    {
+      "end_seconds": 149.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.639,
+      "text": "就是你用不同的滤镜看东西"
+    },
+    {
+      "end_seconds": 150.919,
+      "id": "youtube-Uf9uzFLpVEc#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 149.959,
+      "text": "会看出来不一样"
+    },
+    {
+      "end_seconds": 153.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.919,
+      "text": "但是你眼睛还是这个眼睛"
+    },
+    {
+      "end_seconds": 154.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.12,
+      "text": "世界还是这个世界"
+    },
+    {
+      "end_seconds": 156.4,
+      "id": "youtube-Uf9uzFLpVEc#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.959,
+      "text": "就比如说你是对"
+    },
+    {
+      "end_seconds": 158.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 156.4,
+      "text": "我做AI"
+    },
+    {
+      "end_seconds": 160.079,
+      "id": "youtube-Uf9uzFLpVEc#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.159,
+      "text": "对某些方面特别的有兴趣"
+    },
+    {
+      "end_seconds": 161.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.079,
+      "text": "觉得有一个insight"
+    },
+    {
+      "end_seconds": 162.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.599,
+      "text": "通常来讲这个insight"
+    },
+    {
+      "end_seconds": 163.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 162.84,
+      "text": "不会改变太多"
+    },
+    {
+      "end_seconds": 166.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.799,
+      "text": "就是说你还是复制那个insight"
+    },
+    {
+      "end_seconds": 168.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 166.039,
+      "text": "包括当年我们做VMware"
+    },
+    {
+      "end_seconds": 170.359,
+      "id": "youtube-Uf9uzFLpVEc#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.799,
+      "text": "就是做virtualization"
+    },
+    {
+      "end_seconds": 172.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 170.359,
+      "text": "insight就是X86"
+    },
+    {
+      "end_seconds": 174.719,
+      "id": "youtube-Uf9uzFLpVEc#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 172.84,
+      "text": "就是intel的芯片上面"
+    },
+    {
+      "end_seconds": 176.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 174.719,
+      "text": "已经是不能做virtualization了"
+    },
+    {
+      "end_seconds": 179.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 176.48,
+      "text": "就是说70年代IBM发明的"
+    },
+    {
+      "end_seconds": 180.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.0,
+      "text": "virtualization虚拟化"
+    },
+    {
+      "end_seconds": 183.04,
+      "id": "youtube-Uf9uzFLpVEc#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.84,
+      "text": "到了90年代intel说"
+    },
+    {
+      "end_seconds": 184.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.04,
+      "text": "这个机器太便宜了"
+    },
+    {
+      "end_seconds": 186.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.36,
+      "text": "PC应该人人都有一台"
+    },
+    {
+      "end_seconds": 189.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.8,
+      "text": "芯片上面不需要有虚拟化了"
+    },
+    {
+      "end_seconds": 192.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 189.36,
+      "text": "我就把支持虚拟化的instruction"
+    },
+    {
+      "end_seconds": 193.28,
+      "id": "youtube-Uf9uzFLpVEc#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 192.12,
+      "text": "指令给去掉了"
+    },
+    {
+      "end_seconds": 194.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.28,
+      "text": "那VMware做了一件什么事情呢"
+    },
+    {
+      "end_seconds": 196.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 194.8,
+      "text": "VMware就是说"
+    },
+    {
+      "end_seconds": 198.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 196.2,
+      "text": "尽管你是这么烂的一个芯片上面"
+    },
+    {
+      "end_seconds": 200.72,
+      "id": "youtube-Uf9uzFLpVEc#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 198.36,
+      "text": "我能够仍然把你能够做出虚拟机来"
+    },
+    {
+      "end_seconds": 202.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 200.72,
+      "text": "而且保证执行的正确"
+    },
+    {
+      "end_seconds": 203.719,
+      "id": "youtube-Uf9uzFLpVEc#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 202.479,
+      "text": "这是一个技术"
+    },
+    {
+      "end_seconds": 204.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 203.719,
+      "text": "这是一个insight"
+    },
+    {
+      "end_seconds": 207.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 204.84,
+      "text": "是Stanford的一个professor"
+    },
+    {
+      "end_seconds": 210.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 207.599,
+      "text": "Mendel带着学生给做起来的"
+    },
+    {
+      "end_seconds": 212.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 210.799,
+      "text": "但是一开始做的时候"
+    },
+    {
+      "end_seconds": 215.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 212.599,
+      "text": "没人知道怎么去product market fit"
+    },
+    {
+      "end_seconds": 220.079,
+      "id": "youtube-Uf9uzFLpVEc#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.439,
+      "text": "VMware就是很多人现在回过头去看virtualization"
+    },
+    {
+      "end_seconds": 222.079,
+      "id": "youtube-Uf9uzFLpVEc#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.079,
+      "text": "所有的云都有virtualization"
+    },
+    {
+      "end_seconds": 223.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.079,
+      "text": "然后基本上做技术的人"
+    },
+    {
+      "end_seconds": 225.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.599,
+      "text": "都会用VM或者怎么样"
+    },
+    {
+      "end_seconds": 227.359,
+      "id": "youtube-Uf9uzFLpVEc#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 225.199,
+      "text": "觉得这是一个no brain"
+    },
+    {
+      "end_seconds": 230.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 227.359,
+      "text": "但是90年代末或者说20年前的时候"
+    },
+    {
+      "end_seconds": 231.719,
+      "id": "youtube-Uf9uzFLpVEc#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 230.399,
+      "text": "没人觉得这是一个no brain"
+    },
+    {
+      "end_seconds": 233.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 231.719,
+      "text": "我跟你讲一个"
+    },
+    {
+      "end_seconds": 234.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 233.12,
+      "text": "你不会相信的"
+    },
+    {
+      "end_seconds": 238.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 234.439,
+      "text": "VMware当时候要去找公司做pr"
+    },
+    {
+      "end_seconds": 238.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.36,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 239.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.68,
+      "text": "给公司做宣传"
+    },
+    {
+      "end_seconds": 241.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 239.68,
+      "text": "说我们是做什么技术的"
+    },
+    {
+      "end_seconds": 242.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 241.84,
+      "text": "有什么应用的"
+    },
+    {
+      "end_seconds": 245.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 242.8,
+      "text": "在硅谷就找不到一家公司愿意给我们做"
+    },
+    {
+      "end_seconds": 249.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 245.8,
+      "text": "因为觉得你们这东西太高深了"
+    },
+    {
+      "end_seconds": 250.479,
+      "id": "youtube-Uf9uzFLpVEc#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 249.159,
+      "text": "你们自己玩玩是可以的"
+    },
+    {
+      "end_seconds": 252.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 250.479,
+      "text": "但我就不浪费我的时间了"
+    },
+    {
+      "end_seconds": 254.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 252.36,
+      "text": "尽管你愿意花出钱"
+    },
+    {
+      "end_seconds": 255.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 254.159,
+      "text": "我都不愿意做"
+    },
+    {
+      "end_seconds": 257.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 255.24,
+      "text": "就惨到这么程度"
+    },
+    {
+      "end_seconds": 259.04,
+      "id": "youtube-Uf9uzFLpVEc#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 257.0,
+      "text": "所以说我觉得"
+    },
+    {
+      "end_seconds": 260.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.04,
+      "text": "但是最后virtualization"
+    },
+    {
+      "end_seconds": 264.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 260.8,
+      "text": "虚拟化也做成了一个很大的市场"
+    },
+    {
+      "end_seconds": 265.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 264.199,
+      "text": "所以说我是觉得"
+    },
+    {
+      "end_seconds": 267.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 265.599,
+      "text": "一般来说technical insights"
+    },
+    {
+      "end_seconds": 269.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 267.279,
+      "text": "就是技术上的洞见"
+    },
+    {
+      "end_seconds": 270.639,
+      "id": "youtube-Uf9uzFLpVEc#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.12,
+      "text": "我并不觉得你会说"
+    },
+    {
+      "end_seconds": 272.319,
+      "id": "youtube-Uf9uzFLpVEc#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 270.639,
+      "text": "我完全做不一样的东西"
+    },
+    {
+      "end_seconds": 273.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 272.319,
+      "text": "但你怎么去看"
+    },
+    {
+      "end_seconds": 275.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 273.24,
+      "text": "是给2B的人用2C的人"
+    },
+    {
+      "end_seconds": 277.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.279,
+      "text": "其实vmware当年20多年前也想过做云"
+    },
+    {
+      "end_seconds": 282.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 277.759,
+      "text": "但是当时候大环境没有给VMware做云"
+    },
+    {
+      "end_seconds": 284.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.159,
+      "text": "然后一开始是想做给个人做"
+    },
+    {
+      "end_seconds": 286.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 284.159,
+      "text": "个人其实付费的意愿就低"
+    },
+    {
+      "end_seconds": 287.719,
+      "id": "youtube-Uf9uzFLpVEc#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 286.279,
+      "text": "后来就去做data center"
+    },
+    {
+      "end_seconds": 288.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 287.719,
+      "text": "找到data center"
+    },
+    {
+      "end_seconds": 290.639,
+      "id": "youtube-Uf9uzFLpVEc#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 288.519,
+      "text": "那就是一个product market fit"
+    },
+    {
+      "end_seconds": 291.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 290.639,
+      "text": "就是付费意愿"
+    },
+    {
+      "end_seconds": 292.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 291.68,
+      "text": "这样就很明显"
+    },
+    {
+      "end_seconds": 293.079,
+      "id": "youtube-Uf9uzFLpVEc#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 292.399,
+      "text": "对"
+    },
+    {
+      "end_seconds": 295.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.079,
+      "text": "所以说是给什么样的audience"
+    },
+    {
+      "end_seconds": 296.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 295.199,
+      "text": "什么样的受众"
+    },
+    {
+      "end_seconds": 298.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 296.12,
+      "text": "我觉得pivot是很重要的"
+    },
+    {
+      "end_seconds": 301.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 298.8,
+      "text": "绝大多数的一个很好的技术"
+    },
+    {
+      "end_seconds": 302.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 301.159,
+      "text": "做技术的人"
+    },
+    {
+      "end_seconds": 303.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 302.159,
+      "text": "一个创业者"
+    },
+    {
+      "end_seconds": 304.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 303.279,
+      "text": "我观察到的就是"
+    },
+    {
+      "end_seconds": 307.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 304.759,
+      "text": "对受众一个pivot是一个很大的"
+    },
+    {
+      "end_seconds": 309.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 307.599,
+      "text": "你怎么去用不同的lens"
+    },
+    {
+      "end_seconds": 311.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 309.56,
+      "text": "不同的过滤镜去看东西"
+    },
+    {
+      "end_seconds": 314.719,
+      "id": "youtube-Uf9uzFLpVEc#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 311.879,
+      "text": "这是一个很重要的一点"
+    },
+    {
+      "end_seconds": 316.839,
+      "id": "youtube-Uf9uzFLpVEc#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 314.719,
+      "text": "然后另外一点就是再强调一下"
+    },
+    {
+      "end_seconds": 318.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.839,
+      "text": "就是pivot到底有多重要"
+    },
+    {
+      "end_seconds": 322.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 318.519,
+      "text": "我记得以前我做startup的时候"
+    },
+    {
+      "end_seconds": 323.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 322.16,
+      "text": "有一个mentor"
+    },
+    {
+      "end_seconds": 324.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 323.48,
+      "text": "然后他就"
+    },
+    {
+      "end_seconds": 326.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.68,
+      "text": "其实我当时已经做了几个公司了"
+    },
+    {
+      "end_seconds": 326.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.68,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 329.719,
+      "id": "youtube-Uf9uzFLpVEc#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.879,
+      "text": "已经做过几个也算是serial entrepreneur了"
+    },
+    {
+      "end_seconds": 331.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 329.719,
+      "text": "然后我就去做那个公司"
+    },
+    {
+      "end_seconds": 332.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 331.36,
+      "text": "我说那个我要融资了"
+    },
+    {
+      "end_seconds": 333.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 332.519,
+      "text": "然后他说好啊"
+    },
+    {
+      "end_seconds": 336.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 333.8,
+      "text": "那个后来过了大概几个星期"
+    },
+    {
+      "end_seconds": 338.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.399,
+      "text": "我觉得可能会有pivot"
+    },
+    {
+      "end_seconds": 339.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 338.36,
+      "text": "然后他就看出来了"
+    },
+    {
+      "end_seconds": 340.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 339.36,
+      "text": "他说Howey"
+    },
+    {
+      "end_seconds": 343.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 340.92,
+      "text": "你不要embarrassed有pivot"
+    },
+    {
+      "end_seconds": 344.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.24,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 345.72,
+      "id": "youtube-Uf9uzFLpVEc#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 344.24,
+      "text": "那个没有pivot的公司"
+    },
+    {
+      "end_seconds": 347.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 345.72,
+      "text": "都不算startup还没start"
+    },
+    {
+      "end_seconds": 349.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 347.56,
+      "text": "你只有第一个pivot的时候"
+    },
+    {
+      "end_seconds": 350.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 349.0,
+      "text": "才算是你的startup"
+    },
+    {
+      "end_seconds": 351.479,
+      "id": "youtube-Uf9uzFLpVEc#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 350.199,
+      "text": "开始第一天"
+    },
+    {
+      "end_seconds": 354.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 351.479,
+      "text": "然后就give you a lot of assurance"
+    },
+    {
+      "end_seconds": 357.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.0,
+      "text": "所以说我是觉得pivot是"
+    },
+    {
+      "end_seconds": 359.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 357.159,
+      "text": "我觉得是almost guaranteed"
+    },
+    {
+      "end_seconds": 362.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 359.439,
+      "text": "almost 99.9%的人"
+    },
+    {
+      "end_seconds": 365.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 362.759,
+      "text": "但这个pivot不一定是你的程序pivot"
+    },
+    {
+      "end_seconds": 367.639,
+      "id": "youtube-Uf9uzFLpVEc#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 365.799,
+      "text": "有可能是你的市场在pivot"
+    },
+    {
+      "end_seconds": 369.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 367.639,
+      "text": "你卖的人你的message在pivot"
+    },
+    {
+      "end_seconds": 373.839,
+      "id": "youtube-Uf9uzFLpVEc#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 372.0,
+      "text": "感觉在公司里做产品"
+    },
+    {
+      "end_seconds": 375.719,
+      "id": "youtube-Uf9uzFLpVEc#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 373.839,
+      "text": "这个东西是有点类似的"
+    },
+    {
+      "end_seconds": 376.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 375.719,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 377.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 376.16,
+      "text": "第二个问题"
+    },
+    {
+      "end_seconds": 379.52,
+      "id": "youtube-Uf9uzFLpVEc#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 377.12,
+      "text": "就是那个问题就是"
+    },
+    {
+      "end_seconds": 380.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.52,
+      "text": "中美SaaS公司"
+    },
+    {
+      "end_seconds": 381.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 380.439,
+      "text": "我们看到了美国SaaS公司"
+    },
+    {
+      "end_seconds": 382.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.84,
+      "text": "做得很成功"
+    },
+    {
+      "end_seconds": 384.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 382.6,
+      "text": "然后他们的很多人都可以盈利"
+    },
+    {
+      "end_seconds": 387.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.92,
+      "text": "因为美国企业会给他们付费"
+    },
+    {
+      "end_seconds": 389.72,
+      "id": "youtube-Uf9uzFLpVEc#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 387.92,
+      "text": "但是在中国做SaaS公司"
+    },
+    {
+      "end_seconds": 390.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 389.72,
+      "text": "同样的产品"
+    },
+    {
+      "end_seconds": 391.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 390.48,
+      "text": "或者同样的目标"
+    },
+    {
+      "end_seconds": 393.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 391.68,
+      "text": "结果最后没有公司愿意付费"
+    },
+    {
+      "end_seconds": 394.4,
+      "id": "youtube-Uf9uzFLpVEc#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 393.32,
+      "text": "然后这么做不起来"
+    },
+    {
+      "end_seconds": 396.04,
+      "id": "youtube-Uf9uzFLpVEc#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 394.4,
+      "text": "这是中国SaaS创业公司的"
+    },
+    {
+      "end_seconds": 397.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 396.04,
+      "text": "一个很大的痛苦"
+    },
+    {
+      "end_seconds": 399.44,
+      "id": "youtube-Uf9uzFLpVEc#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 397.32,
+      "text": "想问一下这是为什么"
+    },
+    {
+      "end_seconds": 401.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 399.44,
+      "text": "对这我觉得也是一个"
+    },
+    {
+      "end_seconds": 402.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 401.16,
+      "text": "随着时间的发展会"
+    },
+    {
+      "end_seconds": 404.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 402.6,
+      "text": "会有不断的改变"
+    },
+    {
+      "end_seconds": 406.479,
+      "id": "youtube-Uf9uzFLpVEc#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 404.439,
+      "text": "今天的中国的很多公司"
+    },
+    {
+      "end_seconds": 408.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 406.479,
+      "text": "我的理解是"
+    },
+    {
+      "end_seconds": 410.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 408.959,
+      "text": "最终就是不管是SaaS"
+    },
+    {
+      "end_seconds": 412.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 410.879,
+      "text": "还是一个企业软件"
+    },
+    {
+      "end_seconds": 414.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 412.159,
+      "text": "能够推到一个企业里面去"
+    },
+    {
+      "end_seconds": 415.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 414.24,
+      "text": "要是解决问题"
+    },
+    {
+      "end_seconds": 416.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 415.56,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 417.079,
+      "id": "youtube-Uf9uzFLpVEc#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 416.36,
+      "text": "包括我们说"
+    },
+    {
+      "end_seconds": 418.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 417.079,
+      "text": "product market fit的人"
+    },
+    {
+      "end_seconds": 419.639,
+      "id": "youtube-Uf9uzFLpVEc#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 418.159,
+      "text": "我们问的一个问题就是"
+    },
+    {
+      "end_seconds": 420.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 419.639,
+      "text": "what's the alternative"
+    },
+    {
+      "end_seconds": 422.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 420.599,
+      "text": "就是说如果不用你的东西"
+    },
+    {
+      "end_seconds": 424.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 422.039,
+      "text": "人家的今天的alternative"
+    },
+    {
+      "end_seconds": 425.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.199,
+      "text": "人家今天是什么"
+    },
+    {
+      "end_seconds": 427.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 425.959,
+      "text": "今天之所以SaaS也好"
+    },
+    {
+      "end_seconds": 428.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 427.68,
+      "text": "或者企业软件也好"
+    },
+    {
+      "end_seconds": 430.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 428.8,
+      "text": "相对来讲比起美国的市场"
+    },
+    {
+      "end_seconds": 434.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 430.879,
+      "text": "就是说能够销售的"
+    },
+    {
+      "end_seconds": 436.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 434.159,
+      "text": "不管是销售额"
+    },
+    {
+      "end_seconds": 439.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 436.279,
+      "text": "还是说adoption的level要低"
+    },
+    {
+      "end_seconds": 441.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 439.12,
+      "text": "是因为它有其他alternative"
+    },
+    {
+      "end_seconds": 442.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 441.279,
+      "text": "其他alternative就是说"
+    },
+    {
+      "end_seconds": 443.839,
+      "id": "youtube-Uf9uzFLpVEc#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 442.8,
+      "text": "它的人力便宜"
+    },
+    {
+      "end_seconds": 444.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 443.839,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 447.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 444.36,
+      "text": "中国有句话叫表哥表姐"
+    },
+    {
+      "end_seconds": 448.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 447.12,
+      "text": "就是那个Excel的表哥表姐"
+    },
+    {
+      "end_seconds": 449.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 448.92,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 450.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 449.519,
+      "text": "就是说那些人"
+    },
+    {
+      "end_seconds": 453.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 450.48,
+      "text": "他能够用得炉火纯青"
+    },
+    {
+      "end_seconds": 456.319,
+      "id": "youtube-Uf9uzFLpVEc#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 453.56,
+      "text": "然后还是能够做很多事情"
+    },
+    {
+      "end_seconds": 459.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 456.319,
+      "text": "或者说我有可能是"
+    },
+    {
+      "end_seconds": 461.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 459.48,
+      "text": "做business在美国相对来讲"
+    },
+    {
+      "end_seconds": 463.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.32,
+      "text": "绝大多数的公司"
+    },
+    {
+      "end_seconds": 464.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 463.12,
+      "text": "是属于比较市场化"
+    },
+    {
+      "end_seconds": 464.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 464.439,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 467.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 464.92,
+      "text": "一件事情ABCD这么做下去"
+    },
+    {
+      "end_seconds": 469.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 467.48,
+      "text": "中国相对来讲"
+    },
+    {
+      "end_seconds": 471.4,
+      "id": "youtube-Uf9uzFLpVEc#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 469.36,
+      "text": "有些事情并不是说市场化的"
+    },
+    {
+      "end_seconds": 472.76,
+      "id": "youtube-Uf9uzFLpVEc#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 471.4,
+      "text": "ABCD有些事情"
+    },
+    {
+      "end_seconds": 475.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 472.76,
+      "text": "并不是说A到B到C是因为"
+    },
+    {
+      "end_seconds": 476.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 475.24,
+      "text": "技术的原因"
+    },
+    {
+      "end_seconds": 478.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 476.24,
+      "text": "是因为推理的能够推出来的"
+    },
+    {
+      "end_seconds": 480.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 478.32,
+      "text": "有的时候是因为外界的原因"
+    },
+    {
+      "end_seconds": 482.72,
+      "id": "youtube-Uf9uzFLpVEc#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 480.6,
+      "text": "或者说一个领导的一个"
+    },
+    {
+      "end_seconds": 485.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 482.72,
+      "text": "有很多非市场化的原因在那边"
+    },
+    {
+      "end_seconds": 487.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 485.8,
+      "text": "那也许如果说我的alternative"
+    },
+    {
+      "end_seconds": 489.239,
+      "id": "youtube-Uf9uzFLpVEc#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 487.879,
+      "text": "或者说我花钱"
+    },
+    {
+      "end_seconds": 491.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 489.239,
+      "text": "我去花钱让那些"
+    },
+    {
+      "end_seconds": 494.839,
+      "id": "youtube-Uf9uzFLpVEc#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 491.56,
+      "text": "那些那个非市场化的事情发生了"
+    },
+    {
+      "end_seconds": 498.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 494.839,
+      "text": "那不是照样能够从A到B到C到D到D吗"
+    },
+    {
+      "end_seconds": 499.479,
+      "id": "youtube-Uf9uzFLpVEc#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.519,
+      "text": "一回事情"
+    },
+    {
+      "end_seconds": 501.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.479,
+      "text": "所以说我觉得最终还是一个"
+    },
+    {
+      "end_seconds": 502.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 501.279,
+      "text": "what's the alternative"
+    },
+    {
+      "end_seconds": 504.839,
+      "id": "youtube-Uf9uzFLpVEc#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 502.56,
+      "text": "美国是一个数字化已经是"
+    },
+    {
+      "end_seconds": 506.679,
+      "id": "youtube-Uf9uzFLpVEc#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 504.839,
+      "text": "尤其是在企业里面数字化"
+    },
+    {
+      "end_seconds": 508.559,
+      "id": "youtube-Uf9uzFLpVEc#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 506.679,
+      "text": "已经是几十年了"
+    },
+    {
+      "end_seconds": 511.079,
+      "id": "youtube-Uf9uzFLpVEc#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 508.559,
+      "text": "中国的数字化本身也就是"
+    },
+    {
+      "end_seconds": 513.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.079,
+      "text": "那个相对来讲要要要短一点"
+    },
+    {
+      "end_seconds": 516.679,
+      "id": "youtube-Uf9uzFLpVEc#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 513.48,
+      "text": "那然后还有一些非市场化的"
+    },
+    {
+      "end_seconds": 518.839,
+      "id": "youtube-Uf9uzFLpVEc#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 516.719,
+      "text": "一些步骤在企业里面"
+    },
+    {
+      "end_seconds": 521.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 518.839,
+      "text": "然后再加上相对来讲"
+    },
+    {
+      "end_seconds": 524.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 521.0,
+      "text": "表哥表姐的能力要要要便宜一点"
+    },
+    {
+      "end_seconds": 525.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 524.12,
+      "text": "我为什么一再强调表哥表姐"
+    },
+    {
+      "end_seconds": 527.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 525.799,
+      "text": "你看企业软件"
+    },
+    {
+      "end_seconds": 531.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.959,
+      "text": "过去20年的企业软件"
+    },
+    {
+      "end_seconds": 532.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.279,
+      "text": "有两大部分"
+    },
+    {
+      "end_seconds": 533.839,
+      "id": "youtube-Uf9uzFLpVEc#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 532.159,
+      "text": "一部分是application"
+    },
+    {
+      "end_seconds": 534.639,
+      "id": "youtube-Uf9uzFLpVEc#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 533.839,
+      "text": "应用"
+    },
+    {
+      "end_seconds": 536.919,
+      "id": "youtube-Uf9uzFLpVEc#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 534.639,
+      "text": "另外一块是infrastructure"
+    },
+    {
+      "end_seconds": 538.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 536.919,
+      "text": "就是基础的"
+    },
+    {
+      "end_seconds": 539.239,
+      "id": "youtube-Uf9uzFLpVEc#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 538.199,
+      "text": "基础的软件去掉"
+    },
+    {
+      "end_seconds": 540.639,
+      "id": "youtube-Uf9uzFLpVEc#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 539.239,
+      "text": "像database"
+    },
+    {
+      "end_seconds": 543.839,
+      "id": "youtube-Uf9uzFLpVEc#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 540.639,
+      "text": "像这种虚拟化的这种去掉操作系统"
+    },
+    {
+      "end_seconds": 545.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.839,
+      "text": "那应用的软件"
+    },
+    {
+      "end_seconds": 546.64,
+      "id": "youtube-Uf9uzFLpVEc#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.32,
+      "text": "那就是这种CRM"
+    },
+    {
+      "end_seconds": 547.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 546.64,
+      "text": "给销售人员的"
+    },
+    {
+      "end_seconds": 548.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.6,
+      "text": "给市场的"
+    },
+    {
+      "end_seconds": 549.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 548.32,
+      "text": "给什么的"
+    },
+    {
+      "end_seconds": 550.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 549.48,
+      "text": "那一块的应用的东西"
+    },
+    {
+      "end_seconds": 552.04,
+      "id": "youtube-Uf9uzFLpVEc#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 550.96,
+      "text": "其实很多东西"
+    },
+    {
+      "end_seconds": 552.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 552.04,
+      "text": "再做一件什么"
+    },
+    {
+      "end_seconds": 555.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 552.759,
+      "text": "就是再把excel的功能给提炼出来"
+    },
+    {
+      "end_seconds": 556.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.56,
+      "text": "变成一个workflow"
+    },
+    {
+      "end_seconds": 558.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 556.68,
+      "text": "变成一个很好用的东西"
+    },
+    {
+      "end_seconds": 559.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 558.16,
+      "text": "其实说穿了就是"
+    },
+    {
+      "end_seconds": 561.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 559.16,
+      "text": "是在把excel的市场给拿出来"
+    },
+    {
+      "end_seconds": 562.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 561.24,
+      "text": "变成一个很好的工具"
+    },
+    {
+      "end_seconds": 564.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 562.8,
+      "text": "那如果表哥表姐的alternative"
+    },
+    {
+      "end_seconds": 566.08,
+      "id": "youtube-Uf9uzFLpVEc#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 564.68,
+      "text": "已经是那么强大了"
+    },
+    {
+      "end_seconds": 567.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 566.08,
+      "text": "相对来讲"
+    },
+    {
+      "end_seconds": 569.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 567.48,
+      "text": "就就就大家的motivation就会低一点了"
+    },
+    {
+      "end_seconds": 572.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 569.879,
+      "text": "我觉得这几个是都是综合起来的"
+    },
+    {
+      "end_seconds": 574.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 572.84,
+      "text": "数字化的进程是比较"
+    },
+    {
+      "end_seconds": 575.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 574.799,
+      "text": "比较早"
+    },
+    {
+      "end_seconds": 578.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 575.959,
+      "text": "然后alternative比较多"
+    },
+    {
+      "end_seconds": 579.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.12,
+      "text": "比较便宜"
+    },
+    {
+      "end_seconds": 579.719,
+      "id": "youtube-Uf9uzFLpVEc#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 579.12,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 581.319,
+      "id": "youtube-Uf9uzFLpVEc#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 579.719,
+      "text": "然后非市场化的"
+    },
+    {
+      "end_seconds": 583.559,
+      "id": "youtube-Uf9uzFLpVEc#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 581.319,
+      "text": "在做一个公司在往前走的时候"
+    },
+    {
+      "end_seconds": 586.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 583.559,
+      "text": "非市场化的成分相对来讲多一点"
+    },
+    {
+      "end_seconds": 591.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 588.359,
+      "text": "然后我觉得这些都是"
+    },
+    {
+      "end_seconds": 593.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.24,
+      "text": "我在之前几年"
+    },
+    {
+      "end_seconds": 595.319,
+      "id": "youtube-Uf9uzFLpVEc#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.159,
+      "text": "我曾经也是关注过一些公司"
+    },
+    {
+      "end_seconds": 596.319,
+      "id": "youtube-Uf9uzFLpVEc#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 595.319,
+      "text": "包括就"
+    },
+    {
+      "end_seconds": 597.359,
+      "id": "youtube-Uf9uzFLpVEc#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 596.319,
+      "text": "中国的SaaS公司"
+    },
+    {
+      "end_seconds": 599.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 597.359,
+      "text": "我当时候的第一反应是我觉得"
+    },
+    {
+      "end_seconds": 602.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 599.599,
+      "text": "这个产品本身也是有点问题"
+    },
+    {
+      "end_seconds": 603.679,
+      "id": "youtube-Uf9uzFLpVEc#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 602.959,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 605.479,
+      "id": "youtube-Uf9uzFLpVEc#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.759,
+      "text": "我说的有点问题就不够成熟"
+    },
+    {
+      "end_seconds": 606.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 605.479,
+      "text": "不是说是"
+    },
+    {
+      "end_seconds": 606.919,
+      "id": "youtube-Uf9uzFLpVEc#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 606.279,
+      "text": "哎呀"
+    },
+    {
+      "end_seconds": 607.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 606.919,
+      "text": "产品很好"
+    },
+    {
+      "end_seconds": 610.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 607.799,
+      "text": "就是大家觉得不够appreciate的"
+    },
+    {
+      "end_seconds": 611.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 610.799,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 613.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 611.159,
+      "text": "产品本身也是有很大的缺陷"
+    },
+    {
+      "end_seconds": 615.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 613.759,
+      "text": "就是说不管是易用性也好"
+    },
+    {
+      "end_seconds": 617.719,
+      "id": "youtube-Uf9uzFLpVEc#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 615.879,
+      "text": "成熟度也好还是有很大"
+    },
+    {
+      "end_seconds": 620.079,
+      "id": "youtube-Uf9uzFLpVEc#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 617.719,
+      "text": "但我觉得刚才说的这方面"
+    },
+    {
+      "end_seconds": 621.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 620.079,
+      "text": "其实是一个一个ecosystem"
+    },
+    {
+      "end_seconds": 622.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 621.959,
+      "text": "对"
+    },
+    {
+      "end_seconds": 623.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 622.199,
+      "text": "是不能说是"
+    },
+    {
+      "end_seconds": 625.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 623.399,
+      "text": "哎哟产品做得好不好"
+    },
+    {
+      "end_seconds": 628.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 625.159,
+      "text": "那也有买方的意见"
+    },
+    {
+      "end_seconds": 629.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 628.12,
+      "text": "所以说我觉得"
+    },
+    {
+      "end_seconds": 631.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 629.159,
+      "text": "甲方乙方都是有一定的"
+    },
+    {
+      "end_seconds": 632.839,
+      "id": "youtube-Uf9uzFLpVEc#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 631.039,
+      "text": "都是有一定的责任的"
+    },
+    {
+      "end_seconds": 634.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 632.84,
+      "text": "其实还有一方有点责任"
+    },
+    {
+      "end_seconds": 635.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 634.399,
+      "text": "但你不能怪他们"
+    },
+    {
+      "end_seconds": 636.44,
+      "id": "youtube-Uf9uzFLpVEc#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 635.519,
+      "text": "但是实际上"
+    },
+    {
+      "end_seconds": 638.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 636.44,
+      "text": "如果你用过去5年的"
+    },
+    {
+      "end_seconds": 639.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 638.0,
+      "text": "10年的眼光去看"
+    },
+    {
+      "end_seconds": 642.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 639.68,
+      "text": "有一方其实也是有一个责任的"
+    },
+    {
+      "end_seconds": 644.08,
+      "id": "youtube-Uf9uzFLpVEc#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 642.32,
+      "text": "就投资方"
+    },
+    {
+      "end_seconds": 645.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 644.08,
+      "text": "投资人"
+    },
+    {
+      "end_seconds": 647.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 645.6,
+      "text": "怎么这话怎么说呢"
+    },
+    {
+      "end_seconds": 649.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.68,
+      "text": "其实回到我们今天说的"
+    },
+    {
+      "end_seconds": 650.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 649.12,
+      "text": "第一个话题就是"
+    },
+    {
+      "end_seconds": 653.08,
+      "id": "youtube-Uf9uzFLpVEc#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 650.8,
+      "text": "投资人如果说很容易给你钱"
+    },
+    {
+      "end_seconds": 654.44,
+      "id": "youtube-Uf9uzFLpVEc#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 653.08,
+      "text": "是好事还是坏事"
+    },
+    {
+      "end_seconds": 655.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 654.44,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 656.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 655.12,
+      "text": "投资人不给钱"
+    },
+    {
+      "end_seconds": 658.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 656.0,
+      "text": "像10年前基本上没有什么VC"
+    },
+    {
+      "end_seconds": 659.04,
+      "id": "youtube-Uf9uzFLpVEc#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 658.16,
+      "text": "投"
+    },
+    {
+      "end_seconds": 660.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 659.04,
+      "text": "投币的东西"
+    },
+    {
+      "end_seconds": 662.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 660.12,
+      "text": "投币的东西或者企业软件"
+    },
+    {
+      "end_seconds": 663.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 662.24,
+      "text": "这是一件坏事情"
+    },
+    {
+      "end_seconds": 664.919,
+      "id": "youtube-Uf9uzFLpVEc#cue-372",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 663.96,
+      "text": "但是最近几年"
+    },
+    {
+      "end_seconds": 665.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-373",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 664.919,
+      "text": "可能最近5年"
+    },
+    {
+      "end_seconds": 668.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-374",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 665.879,
+      "text": "我觉得在中国的甲方乙方"
+    },
+    {
+      "end_seconds": 670.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-375",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.879,
+      "text": "有这么一个constraint"
+    },
+    {
+      "end_seconds": 673.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-376",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 670.399,
+      "text": "在这么一个形态下面"
+    },
+    {
+      "end_seconds": 675.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-377",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 673.12,
+      "text": "你砸钱砸进去"
+    },
+    {
+      "end_seconds": 677.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-378",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 675.799,
+      "text": "其实是一个催生"
+    },
+    {
+      "end_seconds": 678.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-379",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 677.12,
+      "text": "或者说是拔苗助长"
+    },
+    {
+      "end_seconds": 680.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-380",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 678.68,
+      "text": "或者说是"
+    },
+    {
+      "end_seconds": 683.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-381",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 680.159,
+      "text": "让很多人的期望值"
+    },
+    {
+      "end_seconds": 683.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-382",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 683.159,
+      "text": "明白了"
+    },
+    {
+      "end_seconds": 685.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-383",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 683.879,
+      "text": "有非常不应该的期望值"
+    },
+    {
+      "end_seconds": 687.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-384",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 685.2,
+      "text": "大家奔着Snowflake这些"
+    },
+    {
+      "end_seconds": 688.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-385",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 687.039,
+      "text": "这些公司的估值去做"
+    },
+    {
+      "end_seconds": 690.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-386",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 688.6,
+      "text": "结果其实软件还没成熟"
+    },
+    {
+      "end_seconds": 691.72,
+      "id": "youtube-Uf9uzFLpVEc#cue-387",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 690.32,
+      "text": "然后软件没成熟的情况下"
+    },
+    {
+      "end_seconds": 692.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-388",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 691.72,
+      "text": "你要做出成绩"
+    },
+    {
+      "end_seconds": 693.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-389",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 692.56,
+      "text": "可能就要去找大顾客"
+    },
+    {
+      "end_seconds": 695.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-390",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 693.92,
+      "text": "然后找标杆案例"
+    },
+    {
+      "end_seconds": 697.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-391",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 695.36,
+      "text": "需要去定制"
+    },
+    {
+      "end_seconds": 699.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-392",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 697.12,
+      "text": "然后做一些uncomfortable的事情"
+    },
+    {
+      "end_seconds": 699.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-393",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 699.16,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 701.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-394",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 699.519,
+      "text": "然后不花时间"
+    },
+    {
+      "end_seconds": 703.04,
+      "id": "youtube-Uf9uzFLpVEc#cue-395",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 701.24,
+      "text": "不一定就愿意沉下心来"
+    },
+    {
+      "end_seconds": 704.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-396",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 703.04,
+      "text": "花时间打造东西"
+    },
+    {
+      "end_seconds": 706.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-397",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 704.2,
+      "text": "而是去有什么short term的goal去做"
+    },
+    {
+      "end_seconds": 709.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-398",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 706.84,
+      "text": "所以我觉得这三方面都有"
+    },
+    {
+      "end_seconds": 709.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-399",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 709.12,
+      "text": "当然了"
+    },
+    {
+      "end_seconds": 711.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-400",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 709.6,
+      "text": "我觉得投资人其实已经做得很好了"
+    },
+    {
+      "end_seconds": 714.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-401",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 711.68,
+      "text": "已经是给了这个领域"
+    },
+    {
+      "end_seconds": 716.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-402",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 714.32,
+      "text": "资金辅导"
+    },
+    {
+      "end_seconds": 718.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-403",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 716.279,
+      "text": "如果说你是问我"
+    },
+    {
+      "end_seconds": 718.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-404",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 718.16,
+      "text": "相对来讲"
+    },
+    {
+      "end_seconds": 722.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-405",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 718.959,
+      "text": "确实是有一定的damage"
+    },
+    {
+      "end_seconds": 723.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-406",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 722.36,
+      "text": "这个damage是什么呢"
+    },
+    {
+      "end_seconds": 726.559,
+      "id": "youtube-Uf9uzFLpVEc#cue-407",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 723.599,
+      "text": "就是说在这个市场还没ready的时候"
+    },
+    {
+      "end_seconds": 728.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-408",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 726.559,
+      "text": "去想催化"
+    },
+    {
+      "end_seconds": 733.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-409",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 728.279,
+      "text": "效果就是那个状态其实比以前可能更加糟糕一点"
+    },
+    {
+      "end_seconds": 735.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-410",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 733.24,
+      "text": "所以说像现在我觉得"
+    },
+    {
+      "end_seconds": 738.639,
+      "id": "youtube-Uf9uzFLpVEc#cue-411",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 735.759,
+      "text": "至少我了解到的这个市场在cool down"
+    },
+    {
+      "end_seconds": 739.679,
+      "id": "youtube-Uf9uzFLpVEc#cue-412",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 738.639,
+      "text": "在冷却下来"
+    },
+    {
+      "end_seconds": 741.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-413",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 739.679,
+      "text": "相对冷却下来一点"
+    },
+    {
+      "end_seconds": 742.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-414",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 741.399,
+      "text": "我觉得这是好事情"
+    },
+    {
+      "end_seconds": 745.639,
+      "id": "youtube-Uf9uzFLpVEc#cue-415",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 742.519,
+      "text": "这就回到我们刚才就是最开始说的"
+    },
+    {
+      "end_seconds": 746.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-416",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.639,
+      "text": "冷却下来"
+    },
+    {
+      "end_seconds": 751.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-417",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 746.6,
+      "text": "其实不管是中国美国全球对创业者"
+    },
+    {
+      "end_seconds": 754.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-418",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 751.24,
+      "text": "对投资人其实都是一件很好的事情"
+    },
+    {
+      "end_seconds": 755.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-419",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 754.12,
+      "text": "刚刚说到催熟"
+    },
+    {
+      "end_seconds": 756.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-420",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 755.0,
+      "text": "那我想到一个想法"
+    },
+    {
+      "end_seconds": 758.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-421",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 756.32,
+      "text": "我忘了是在哪看到的了"
+    },
+    {
+      "end_seconds": 759.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-422",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 758.0,
+      "text": "就是有一个误区"
+    },
+    {
+      "end_seconds": 760.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-423",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 759.36,
+      "text": "他指出来一个常见误区"
+    },
+    {
+      "end_seconds": 764.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-424",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 760.84,
+      "text": "就是很多人会觉得你去先做运营"
+    },
+    {
+      "end_seconds": 766.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-425",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 764.96,
+      "text": "先人力堆积出来一个标杆"
+    },
+    {
+      "end_seconds": 769.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-426",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 766.84,
+      "text": "然后再产品化这条路径是可行的"
+    },
+    {
+      "end_seconds": 770.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-427",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 769.279,
+      "text": "但是说不"
+    },
+    {
+      "end_seconds": 771.08,
+      "id": "youtube-Uf9uzFLpVEc#cue-428",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 770.12,
+      "text": "fundamental"
+    },
+    {
+      "end_seconds": 773.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-429",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 771.08,
+      "text": "你如果先去堆运营堆人力的话"
+    },
+    {
+      "end_seconds": 775.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-430",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 773.24,
+      "text": "你就走不到打磨产品那一天了"
+    },
+    {
+      "end_seconds": 777.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-431",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 775.399,
+      "text": "你永远会被这个legacy给困住"
+    },
+    {
+      "end_seconds": 781.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-432",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 777.12,
+      "text": "然后你这个公司差不多就不再会走打磨产品那条路"
+    },
+    {
+      "end_seconds": 781.679,
+      "id": "youtube-Uf9uzFLpVEc#cue-433",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 781.039,
+      "text": "对"
+    },
+    {
+      "end_seconds": 782.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-434",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 781.679,
+      "text": "我觉得是这样子的"
+    },
+    {
+      "end_seconds": 784.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-435",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 782.759,
+      "text": "其实很多的创业者"
+    },
+    {
+      "end_seconds": 786.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-436",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 784.959,
+      "text": "聪明的人"
+    },
+    {
+      "end_seconds": 789.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-437",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 786.199,
+      "text": "你如果说是给他自己去想"
+    },
+    {
+      "end_seconds": 792.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-438",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 789.159,
+      "text": "什么是一个第一性原理的出发"
+    },
+    {
+      "end_seconds": 793.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-439",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 792.24,
+      "text": "什么事情是应该发生的"
+    },
+    {
+      "end_seconds": 795.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-440",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 793.84,
+      "text": "什么事情是应该一步一步的"
+    },
+    {
+      "end_seconds": 798.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-441",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 795.439,
+      "text": "其实很多人应该能够想到想清楚"
+    },
+    {
+      "end_seconds": 802.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-442",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 798.6,
+      "text": "但是很多人不够intellectual honest"
+    },
+    {
+      "end_seconds": 802.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-443",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 802.12,
+      "text": "是为什么呢"
+    },
+    {
+      "end_seconds": 804.679,
+      "id": "youtube-Uf9uzFLpVEc#cue-444",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 802.799,
+      "text": "就是有各方面的压力"
+    },
+    {
+      "end_seconds": 806.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-445",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 804.679,
+      "text": "投资人给他的压力"
+    },
+    {
+      "end_seconds": 807.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-446",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 806.199,
+      "text": "然后自己给自己的压力"
+    },
+    {
+      "end_seconds": 809.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-447",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 807.799,
+      "text": "那个竞争对手"
+    },
+    {
+      "end_seconds": 809.479,
+      "id": "youtube-Uf9uzFLpVEc#cue-448",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 809.159,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 810.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-449",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 809.479,
+      "text": "客户"
+    },
+    {
+      "end_seconds": 811.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-450",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 810.279,
+      "text": "客户给他的压力"
+    },
+    {
+      "end_seconds": 813.359,
+      "id": "youtube-Uf9uzFLpVEc#cue-451",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 811.799,
+      "text": "竞争对手你刚才也说到了"
+    },
+    {
+      "end_seconds": 816.359,
+      "id": "youtube-Uf9uzFLpVEc#cue-452",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 813.359,
+      "text": "中国有一个情况跟美国稍微不一样的"
+    },
+    {
+      "end_seconds": 820.479,
+      "id": "youtube-Uf9uzFLpVEc#cue-453",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 816.359,
+      "text": "上次广密跟我聊podcast的播客的时候"
+    },
+    {
+      "end_seconds": 821.239,
+      "id": "youtube-Uf9uzFLpVEc#cue-454",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 820.479,
+      "text": "他聊到一点"
+    },
+    {
+      "end_seconds": 825.319,
+      "id": "youtube-Uf9uzFLpVEc#cue-455",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 821.239,
+      "text": "我觉得是反映我了解到的一些情况"
+    },
+    {
+      "end_seconds": 827.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-456",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 825.319,
+      "text": "就是中国只要找到一个use case"
+    },
+    {
+      "end_seconds": 829.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-457",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 827.879,
+      "text": "找到一个应用场景"
+    },
+    {
+      "end_seconds": 830.479,
+      "id": "youtube-Uf9uzFLpVEc#cue-458",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 829.199,
+      "text": "就会有十个人来说"
+    },
+    {
+      "end_seconds": 832.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-459",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 830.479,
+      "text": "我低于你的价格去"
+    },
+    {
+      "end_seconds": 834.359,
+      "id": "youtube-Uf9uzFLpVEc#cue-460",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 832.399,
+      "text": "那个能够做出来"
+    },
+    {
+      "end_seconds": 836.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-461",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 834.36,
+      "text": "这个其实也对"
+    },
+    {
+      "end_seconds": 837.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-462",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 836.0,
+      "text": "如果我是一个创业者"
+    },
+    {
+      "end_seconds": 839.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-463",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 837.32,
+      "text": "我是在头部做"
+    },
+    {
+      "end_seconds": 840.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-464",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 839.159,
+      "text": "其实也有压力"
+    },
+    {
+      "end_seconds": 841.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-465",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 840.12,
+      "text": "那我就得必须往前冲"
+    },
+    {
+      "end_seconds": 843.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-466",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 841.96,
+      "text": "我也得催熟一下"
+    },
+    {
+      "end_seconds": 845.44,
+      "id": "youtube-Uf9uzFLpVEc#cue-467",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 843.68,
+      "text": "那其实从一个长远角度来讲"
+    },
+    {
+      "end_seconds": 847.72,
+      "id": "youtube-Uf9uzFLpVEc#cue-468",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 845.44,
+      "text": "对大家都不是一个很好的"
+    },
+    {
+      "end_seconds": 849.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-469",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 847.72,
+      "text": "总体来讲我觉得"
+    },
+    {
+      "end_seconds": 854.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-470",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 850.36,
+      "text": "确实是SaaS在中国的maturity"
+    },
+    {
+      "end_seconds": 857.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-471",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 854.68,
+      "text": "要比美国要低"
+    },
+    {
+      "end_seconds": 859.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-472",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 857.519,
+      "text": "但这个从某种角度上来讲"
+    },
+    {
+      "end_seconds": 860.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-473",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 859.36,
+      "text": "可能是一个很现实的"
+    },
+    {
+      "end_seconds": 861.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-474",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 860.8,
+      "text": "也是应该的"
+    },
+    {
+      "end_seconds": 863.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-475",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 861.8,
+      "text": "你就遵循自然规律"
+    },
+    {
+      "end_seconds": 865.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-476",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 863.759,
+      "text": "春夏秋冬"
+    },
+    {
+      "end_seconds": 871.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-477",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 865.24,
+      "text": "就遵循自然规律去做事情"
+    },
+    {
+      "end_seconds": 872.559,
+      "id": "youtube-Uf9uzFLpVEc#cue-478",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 871.24,
+      "text": "而不是说是"
+    },
+    {
+      "end_seconds": 873.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-479",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 872.559,
+      "text": "哇我是"
+    },
+    {
+      "end_seconds": 874.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-480",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 873.399,
+      "text": "不要强行比较"
+    },
+    {
+      "end_seconds": 874.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-481",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 874.36,
+      "text": "然后拉到"
+    },
+    {
+      "end_seconds": 876.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-482",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 874.879,
+      "text": "强行比较"
+    },
+    {
+      "end_seconds": 877.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-483",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 876.0,
+      "text": "强行的因为投资人的原因"
+    },
+    {
+      "end_seconds": 880.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-484",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 877.84,
+      "text": "强行的因为竞争者的原因"
+    },
+    {
+      "end_seconds": 880.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-485",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 880.2,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 882.36,
+      "id": "youtube-Uf9uzFLpVEc#cue-486",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 880.759,
+      "text": "也许这个竞争环境就不好"
+    },
+    {
+      "end_seconds": 883.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-487",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 882.36,
+      "text": "那你就不要去做这件事情"
+    },
+    {
+      "end_seconds": 885.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-488",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 883.799,
+      "text": "而不是说是去做一些"
+    },
+    {
+      "end_seconds": 888.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-489",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 885.96,
+      "text": "awkward那些事情"
+    },
+    {
+      "end_seconds": 888.919,
+      "id": "youtube-Uf9uzFLpVEc#cue-490",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 888.039,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 892.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-491",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 888.919,
+      "text": "我们最后给大家一个bonus问题吧"
+    },
+    {
+      "end_seconds": 893.679,
+      "id": "youtube-Uf9uzFLpVEc#cue-492",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 892.279,
+      "text": "没有bonus"
+    },
+    {
+      "end_seconds": 894.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-493",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 894.079,
+      "text": "年底快到了"
+    },
+    {
+      "end_seconds": 898.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-494",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 896.959,
+      "text": "有很多同学在大厂"
+    },
+    {
+      "end_seconds": 901.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-495",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 898.799,
+      "text": "我的频道更多是打工的同学"
+    },
+    {
+      "end_seconds": 903.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-496",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 901.439,
+      "text": "然后他们会有一些创业的想法"
+    },
+    {
+      "end_seconds": 904.559,
+      "id": "youtube-Uf9uzFLpVEc#cue-497",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 903.159,
+      "text": "他们也可能会问"
+    },
+    {
+      "end_seconds": 905.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-498",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 904.559,
+      "text": "要不要自己创业"
+    },
+    {
+      "end_seconds": 906.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-499",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 905.439,
+      "text": "或者加入创业公司"
+    },
+    {
+      "end_seconds": 908.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-500",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 906.799,
+      "text": "您对作为一个"
+    },
+    {
+      "end_seconds": 909.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-501",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 908.12,
+      "text": "连续成功的创业者"
+    },
+    {
+      "end_seconds": 909.559,
+      "id": "youtube-Uf9uzFLpVEc#cue-502",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 909.12,
+      "text": "投资人"
+    },
+    {
+      "end_seconds": 912.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-503",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 909.559,
+      "text": "对这些人有没有一些忠告建议"
+    },
+    {
+      "end_seconds": 913.359,
+      "id": "youtube-Uf9uzFLpVEc#cue-504",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 912.439,
+      "text": "我是这么看的"
+    },
+    {
+      "end_seconds": 915.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-505",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 913.359,
+      "text": "我觉得人跟人不一样"
+    },
+    {
+      "end_seconds": 917.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-506",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 915.12,
+      "text": "就有的人喜欢外向"
+    },
+    {
+      "end_seconds": 918.679,
+      "id": "youtube-Uf9uzFLpVEc#cue-507",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 917.519,
+      "text": "有的人喜欢内向"
+    },
+    {
+      "end_seconds": 920.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-508",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 918.679,
+      "text": "并不是说外向人比内向的好"
+    },
+    {
+      "end_seconds": 921.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-509",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 920.279,
+      "text": "内向人比外向好"
+    },
+    {
+      "end_seconds": 922.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-510",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 921.599,
+      "text": "同样的"
+    },
+    {
+      "end_seconds": 924.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-511",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 922.96,
+      "text": "有些人是觉得"
+    },
+    {
+      "end_seconds": 927.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-512",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 924.48,
+      "text": "创业是一个让他感觉到"
+    },
+    {
+      "end_seconds": 929.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-513",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 927.48,
+      "text": "非常有满足感的"
+    },
+    {
+      "end_seconds": 932.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-514",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 929.12,
+      "text": "有些人觉得是在一个大公司"
+    },
+    {
+      "end_seconds": 933.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-515",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 932.2,
+      "text": "并不是说安补酒吧"
+    },
+    {
+      "end_seconds": 935.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-516",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 933.48,
+      "text": "大公司也有很多"
+    },
+    {
+      "end_seconds": 936.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-517",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 935.16,
+      "text": "那个"
+    },
+    {
+      "end_seconds": 937.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-518",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 936.519,
+      "text": "对也有很多"
+    },
+    {
+      "end_seconds": 938.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-519",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 937.68,
+      "text": "不是说entrepreneur"
+    },
+    {
+      "end_seconds": 940.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-520",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 938.8,
+      "text": "就是稀奇古怪的事情"
+    },
+    {
+      "end_seconds": 940.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-521",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 940.0,
+      "text": "你可以去"
+    },
+    {
+      "end_seconds": 941.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-522",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 940.48,
+      "text": "inter"
+    },
+    {
+      "end_seconds": 941.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-523",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 941.0,
+      "text": "interpreneur"
+    },
+    {
+      "end_seconds": 943.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-524",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 941.92,
+      "text": "对"
+    },
+    {
+      "end_seconds": 945.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-525",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 943.16,
+      "text": "对我的point是说"
+    },
+    {
+      "end_seconds": 947.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-526",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 945.6,
+      "text": "大公司有大公司的一些事情"
+    },
+    {
+      "end_seconds": 949.44,
+      "id": "youtube-Uf9uzFLpVEc#cue-527",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 947.32,
+      "text": "这些公司有自己的挑战"
+    },
+    {
+      "end_seconds": 951.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-528",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 949.44,
+      "text": "并不是说大公司你就躺在那边"
+    },
+    {
+      "end_seconds": 952.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-529",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 951.0,
+      "text": "大公司也有大公司的挑战"
+    },
+    {
+      "end_seconds": 954.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-530",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 952.6,
+      "text": "只是挑战不一样"
+    },
+    {
+      "end_seconds": 955.72,
+      "id": "youtube-Uf9uzFLpVEc#cue-531",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 954.0,
+      "text": "每个人都要问自己"
+    },
+    {
+      "end_seconds": 958.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-532",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 955.72,
+      "text": "对我对你"
+    },
+    {
+      "end_seconds": 959.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-533",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 958.32,
+      "text": "对我们自己来说"
+    },
+    {
+      "end_seconds": 960.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-534",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 959.56,
+      "text": "是哪一个更加那个"
+    },
+    {
+      "end_seconds": 963.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-535",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 960.879,
+      "text": "比如说对我来说"
+    },
+    {
+      "end_seconds": 964.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-536",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 963.0,
+      "text": "其实我也不是很极端"
+    },
+    {
+      "end_seconds": 965.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-537",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 964.399,
+      "text": "但相对可能是"
+    },
+    {
+      "end_seconds": 967.72,
+      "id": "youtube-Uf9uzFLpVEc#cue-538",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 965.48,
+      "text": "对相对于大多数人来讲"
+    },
+    {
+      "end_seconds": 970.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-539",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 967.72,
+      "text": "我是喜欢折腾一点"
+    },
+    {
+      "end_seconds": 970.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-540",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 970.0,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 971.72,
+      "id": "youtube-Uf9uzFLpVEc#cue-541",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 970.399,
+      "text": "就是"
+    },
+    {
+      "end_seconds": 972.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-542",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 971.72,
+      "text": "不是那种"
+    },
+    {
+      "end_seconds": 973.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-543",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 972.84,
+      "text": "很"
+    },
+    {
+      "end_seconds": 975.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-544",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 973.48,
+      "text": "你前面那个提到的"
+    },
+    {
+      "end_seconds": 976.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-545",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 975.0,
+      "text": "不可预测"
+    },
+    {
+      "end_seconds": 976.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-546",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 976.24,
+      "text": "或者说"
+    },
+    {
+      "end_seconds": 978.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-547",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 976.879,
+      "text": "我觉得我是能够去接受"
+    },
+    {
+      "end_seconds": 980.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-548",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 978.84,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 981.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-549",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 980.12,
+      "text": "这个公司"
+    },
+    {
+      "end_seconds": 983.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-550",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 981.0,
+      "text": "现在十个人"
+    },
+    {
+      "end_seconds": 984.32,
+      "id": "youtube-Uf9uzFLpVEc#cue-551",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 983.0,
+      "text": "明年是不是有revenue"
+    },
+    {
+      "end_seconds": 984.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-552",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 984.32,
+      "text": "都不知道"
+    },
+    {
+      "end_seconds": 986.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-553",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 984.96,
+      "text": "或者说客户会不会跑掉"
+    },
+    {
+      "end_seconds": 987.44,
+      "id": "youtube-Uf9uzFLpVEc#cue-554",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 986.48,
+      "text": "都不知道"
+    },
+    {
+      "end_seconds": 989.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-555",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 987.44,
+      "text": "我觉得我愿意去接受"
+    },
+    {
+      "end_seconds": 989.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-556",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 989.039,
+      "text": "而且我觉得"
+    },
+    {
+      "end_seconds": 991.919,
+      "id": "youtube-Uf9uzFLpVEc#cue-557",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 989.96,
+      "text": "从这个打拼当中"
+    },
+    {
+      "end_seconds": 994.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-558",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 991.919,
+      "text": "我找到能量更多"
+    },
+    {
+      "end_seconds": 994.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-559",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 994.24,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 996.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-560",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 994.96,
+      "text": "让我感觉到"
+    },
+    {
+      "end_seconds": 999.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-561",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 996.24,
+      "text": "这是让我能量越来越多的一件事情"
+    },
+    {
+      "end_seconds": 1000.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-562",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 999.039,
+      "text": "但有些人觉得"
+    },
+    {
+      "end_seconds": 1003.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-563",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1000.2,
+      "text": "这个事情不是我应该做的"
+    },
+    {
+      "end_seconds": 1006.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-564",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1003.279,
+      "text": "我是想相对来讲更加stable一点"
+    },
+    {
+      "end_seconds": 1007.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-565",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1006.159,
+      "text": "我没觉得这不好"
+    },
+    {
+      "end_seconds": 1009.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-566",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1007.519,
+      "text": "我觉得不好的是"
+    },
+    {
+      "end_seconds": 1014.159,
+      "id": "youtube-Uf9uzFLpVEc#cue-567",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1009.48,
+      "text": "你明明是不善于去做创业的"
+    },
+    {
+      "end_seconds": 1014.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-568",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1014.159,
+      "text": "你去做创业"
+    },
+    {
+      "end_seconds": 1015.44,
+      "id": "youtube-Uf9uzFLpVEc#cue-569",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1014.879,
+      "text": "或者说"
+    },
+    {
+      "end_seconds": 1016.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-570",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1015.44,
+      "text": "你其实是一个创业的人"
+    },
+    {
+      "end_seconds": 1018.8,
+      "id": "youtube-Uf9uzFLpVEc#cue-571",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1016.84,
+      "text": "但是因为有些误解"
+    },
+    {
+      "end_seconds": 1021.279,
+      "id": "youtube-Uf9uzFLpVEc#cue-572",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1018.8,
+      "text": "你觉得创业太怎么样了"
+    },
+    {
+      "end_seconds": 1022.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-573",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1021.279,
+      "text": "然后你不去创业"
+    },
+    {
+      "end_seconds": 1023.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-574",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1022.2,
+      "text": "有可能以后会后悔"
+    },
+    {
+      "end_seconds": 1025.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-575",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1023.6,
+      "text": "所以说我觉得还是ask yourself"
+    },
+    {
+      "end_seconds": 1027.079,
+      "id": "youtube-Uf9uzFLpVEc#cue-576",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1025.68,
+      "text": "你自己的passion在哪里"
+    },
+    {
+      "end_seconds": 1029.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-577",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1027.079,
+      "text": "你自己是什么擅长怎么样"
+    },
+    {
+      "end_seconds": 1029.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-578",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1029.0,
+      "text": "我觉得这个是很重要"
+    },
+    {
+      "end_seconds": 1032.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-579",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1029.92,
+      "text": "还有包括你的家人"
+    },
+    {
+      "end_seconds": 1033.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-580",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1032.0,
+      "text": "你周围的人是不是support你"
+    },
+    {
+      "end_seconds": 1034.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-581",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1033.96,
+      "text": "也是很重要"
+    },
+    {
+      "end_seconds": 1035.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-582",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1034.759,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 1036.88,
+      "id": "youtube-Uf9uzFLpVEc#cue-583",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1035.0,
+      "text": "因为创业尤其是如果说"
+    },
+    {
+      "end_seconds": 1038.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-584",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1036.88,
+      "text": "你是有家人有孩子的话"
+    },
+    {
+      "end_seconds": 1039.919,
+      "id": "youtube-Uf9uzFLpVEc#cue-585",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1038.599,
+      "text": "就不是一个人创业了"
+    },
+    {
+      "end_seconds": 1040.559,
+      "id": "youtube-Uf9uzFLpVEc#cue-586",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1039.919,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 1042.199,
+      "id": "youtube-Uf9uzFLpVEc#cue-587",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1040.559,
+      "text": "你的决定"
+    },
+    {
+      "end_seconds": 1043.359,
+      "id": "youtube-Uf9uzFLpVEc#cue-588",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1042.199,
+      "text": "对你的孩子"
+    },
+    {
+      "end_seconds": 1045.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-589",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1043.359,
+      "text": "对你的家人都是有影响的"
+    },
+    {
+      "end_seconds": 1046.399,
+      "id": "youtube-Uf9uzFLpVEc#cue-590",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1045.24,
+      "text": "所以我觉得"
+    },
+    {
+      "end_seconds": 1047.639,
+      "id": "youtube-Uf9uzFLpVEc#cue-591",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1046.399,
+      "text": "我个人是觉得"
+    },
+    {
+      "end_seconds": 1048.559,
+      "id": "youtube-Uf9uzFLpVEc#cue-592",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1047.639,
+      "text": "我要说两句话"
+    },
+    {
+      "end_seconds": 1050.959,
+      "id": "youtube-Uf9uzFLpVEc#cue-593",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1048.559,
+      "text": "一个就是要follow your own passion"
+    },
+    {
+      "end_seconds": 1053.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-594",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1050.959,
+      "text": "你的passion不一定是创业是正确的"
+    },
+    {
+      "end_seconds": 1054.599,
+      "id": "youtube-Uf9uzFLpVEc#cue-595",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1053.439,
+      "text": "但如果创业是正确的"
+    },
+    {
+      "end_seconds": 1056.919,
+      "id": "youtube-Uf9uzFLpVEc#cue-596",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1054.599,
+      "text": "也许你应该follow your passion"
+    },
+    {
+      "end_seconds": 1058.879,
+      "id": "youtube-Uf9uzFLpVEc#cue-597",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1056.919,
+      "text": "但另外一个我是觉得"
+    },
+    {
+      "end_seconds": 1060.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-598",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1058.879,
+      "text": "大家对risk"
+    },
+    {
+      "end_seconds": 1063.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-599",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1060.24,
+      "text": "就是对risk的assessment"
+    },
+    {
+      "end_seconds": 1065.359,
+      "id": "youtube-Uf9uzFLpVEc#cue-600",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1063.039,
+      "text": "我觉得很多人是有一些偏差的"
+    },
+    {
+      "end_seconds": 1067.439,
+      "id": "youtube-Uf9uzFLpVEc#cue-601",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1065.359,
+      "text": "怎么叫risk是有一些偏差的"
+    },
+    {
+      "end_seconds": 1070.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-602",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1068.16,
+      "text": "我并不觉得在大公司里面"
+    },
+    {
+      "end_seconds": 1072.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-603",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1070.68,
+      "text": "就是一个risk free"
+    },
+    {
+      "end_seconds": 1073.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-604",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1072.519,
+      "text": "或者说出厂公司"
+    },
+    {
+      "end_seconds": 1077.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-605",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1073.92,
+      "text": "因为我在硅谷也二十多年了"
+    },
+    {
+      "end_seconds": 1078.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-606",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1077.16,
+      "text": "我觉得"
+    },
+    {
+      "end_seconds": 1080.4,
+      "id": "youtube-Uf9uzFLpVEc#cue-607",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1078.2,
+      "text": "这个大公司"
+    },
+    {
+      "end_seconds": 1081.799,
+      "id": "youtube-Uf9uzFLpVEc#cue-608",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1080.4,
+      "text": "其实我们今天说的"
+    },
+    {
+      "end_seconds": 1085.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-609",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1081.799,
+      "text": "Google, Facebook, Apple, Microsoft"
+    },
+    {
+      "end_seconds": 1086.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-610",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1085.24,
+      "text": "对吧 Netflix"
+    },
+    {
+      "end_seconds": 1088.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-611",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1086.6,
+      "text": "这些大公司"
+    },
+    {
+      "end_seconds": 1090.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-612",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1088.2,
+      "text": "我可以guarantee"
+    },
+    {
+      "end_seconds": 1093.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-613",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1090.2,
+      "text": "在很多观众不远的将来"
+    },
+    {
+      "end_seconds": 1094.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-614",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1093.2,
+      "text": "before you know it"
+    },
+    {
+      "end_seconds": 1095.519,
+      "id": "youtube-Uf9uzFLpVEc#cue-615",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1094.519,
+      "text": "这些公司"
+    },
+    {
+      "end_seconds": 1097.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-616",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1095.519,
+      "text": "不一定垮掉"
+    },
+    {
+      "end_seconds": 1099.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-617",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1097.16,
+      "text": "但是就是急剧的走下坡路"
+    },
+    {
+      "end_seconds": 1100.96,
+      "id": "youtube-Uf9uzFLpVEc#cue-618",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1099.24,
+      "text": "我觉得这个是"
+    },
+    {
+      "end_seconds": 1102.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-619",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1100.96,
+      "text": "我们都已经看了太多了"
+    },
+    {
+      "end_seconds": 1104.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-620",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1102.48,
+      "text": "我觉得这不是一个"
+    },
+    {
+      "end_seconds": 1105.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-621",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1104.0,
+      "text": "哇这有可能发生"
+    },
+    {
+      "end_seconds": 1107.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-622",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1105.24,
+      "text": "这是almost guaranteed to happen"
+    },
+    {
+      "end_seconds": 1108.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-623",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1107.48,
+      "text": "所以说你如果说在大公司"
+    },
+    {
+      "end_seconds": 1110.56,
+      "id": "youtube-Uf9uzFLpVEc#cue-624",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1108.92,
+      "text": "比如说当年Microsoft"
+    },
+    {
+      "end_seconds": 1114.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-625",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1111.56,
+      "text": "Microsoft后来又起死复活了"
+    },
+    {
+      "end_seconds": 1116.04,
+      "id": "youtube-Uf9uzFLpVEc#cue-626",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1114.12,
+      "text": "当年的Sun Microsystems"
+    },
+    {
+      "end_seconds": 1116.759,
+      "id": "youtube-Uf9uzFLpVEc#cue-627",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1116.04,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 1118.04,
+      "id": "youtube-Uf9uzFLpVEc#cue-628",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1116.759,
+      "text": "Digital"
+    },
+    {
+      "end_seconds": 1120.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-629",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1118.04,
+      "text": "都是属于如日中天的公司"
+    },
+    {
+      "end_seconds": 1123.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-630",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1120.12,
+      "text": "现在估计很多年轻人都听到没怎么听说过"
+    },
+    {
+      "end_seconds": 1124.88,
+      "id": "youtube-Uf9uzFLpVEc#cue-631",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1123.48,
+      "text": "都不知道是怎么回事情"
+    },
+    {
+      "end_seconds": 1127.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-632",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1124.96,
+      "text": "我相信你现在听到的大公司"
+    },
+    {
+      "end_seconds": 1131.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-633",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1127.48,
+      "text": "过了不久也是会这种情况"
+    },
+    {
+      "end_seconds": 1132.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-634",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1131.16,
+      "text": "在这种情况下"
+    },
+    {
+      "end_seconds": 1134.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-635",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1132.2,
+      "text": "你要去anticipate的一些change"
+    },
+    {
+      "end_seconds": 1135.88,
+      "id": "youtube-Uf9uzFLpVEc#cue-636",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1134.6,
+      "text": "所以说我觉得有些时候"
+    },
+    {
+      "end_seconds": 1138.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-637",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1135.88,
+      "text": "你take a risk"
+    },
+    {
+      "end_seconds": 1139.64,
+      "id": "youtube-Uf9uzFLpVEc#cue-638",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1138.16,
+      "text": "跳出大厂"
+    },
+    {
+      "end_seconds": 1142.12,
+      "id": "youtube-Uf9uzFLpVEc#cue-639",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1139.64,
+      "text": "去做一些看上去是有risk的事情"
+    },
+    {
+      "end_seconds": 1146.4,
+      "id": "youtube-Uf9uzFLpVEc#cue-640",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1142.12,
+      "text": "我并不觉得这是一个不好的事情"
+    },
+    {
+      "end_seconds": 1147.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-641",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1146.4,
+      "text": "对 我是这么看的"
+    },
+    {
+      "end_seconds": 1148.16,
+      "id": "youtube-Uf9uzFLpVEc#cue-642",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1147.68,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 1150.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-643",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1148.16,
+      "text": "我觉得这两条建议都非常的有道理"
+    },
+    {
+      "end_seconds": 1154.2,
+      "id": "youtube-Uf9uzFLpVEc#cue-644",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1150.92,
+      "text": "So sometimes not taking risk is taking bigger risk"
+    },
+    {
+      "end_seconds": 1154.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-645",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1154.24,
+      "text": "是的"
+    },
+    {
+      "end_seconds": 1157.039,
+      "id": "youtube-Uf9uzFLpVEc#cue-646",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1154.68,
+      "text": "这个是很有体会"
+    },
+    {
+      "end_seconds": 1157.68,
+      "id": "youtube-Uf9uzFLpVEc#cue-647",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1157.039,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 1159.6,
+      "id": "youtube-Uf9uzFLpVEc#cue-648",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1157.68,
+      "text": "那这个我们就谢谢哈利"
+    },
+    {
+      "end_seconds": 1161.92,
+      "id": "youtube-Uf9uzFLpVEc#cue-649",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1159.6,
+      "text": "我们上半期就录到这里"
+    },
+    {
+      "end_seconds": 1162.24,
+      "id": "youtube-Uf9uzFLpVEc#cue-650",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1161.92,
+      "text": "好"
+    },
+    {
+      "end_seconds": 1163.0,
+      "id": "youtube-Uf9uzFLpVEc#cue-651",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1162.24,
+      "text": "谢谢"
+    },
+    {
+      "end_seconds": 1163.48,
+      "id": "youtube-Uf9uzFLpVEc#cue-652",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1163.0,
+      "text": "谢谢"
+    },
+    {
+      "end_seconds": 1163.84,
+      "id": "youtube-Uf9uzFLpVEc#cue-653",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1163.48,
+      "text": "拜拜"
+    }
+  ],
+  "video_id": "Uf9uzFLpVEc",
+  "yuzheng_stance_weight": "not-evidence"
+}

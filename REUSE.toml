@@ -343,6 +343,7 @@ SPDX-License-Identifier = "LicenseRef-Lizheng-Reference-Use-1.0"
 
 [[annotations]]
 path = [
+  "corpus/dialogues/**",
   "corpus/videos/20210109-5u3bFKSA5QU.md",
   "corpus/videos/20210114-rGkcNE6ISdQ.md",
   "corpus/videos/20210728-CTcMvIZFQcw.md",

@@ -1,0 +1,2035 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-EHP7JnKBmuA",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2021-11-13T16:08:40Z",
+  "participant_aliases": [
+    "AutoKeras Creator",
+    "AutoKeras嘉宾",
+    "Jin Haifeng",
+    "金海峰"
+  ],
+  "participant_entity_ids": [
+    "guest:jin-haifeng"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "金海峰",
+  "public_verified_at": "2026-10-11T01:53:52.931954+00:00",
+  "published_at": "2021-11-13",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": true,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "23d1326bbd77e0351ed2946e82da1255165faa1e2e22a7eec9fb8e8cf8d5cebc",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "cd195c558148e3a10af09ac544ff2b32f2a6a9e89f733339762c01713dd915d0",
+    "root_receipt_sha256": "c55dbd29a5c4cb56c3ff3a3df3c1e86cd16ce1732ee33c702ca3f64963889d62",
+    "unresolved_count": 11
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=EHP7JnKBmuA",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=EHP7JnKBmuA",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "开源的初心与商业逻辑｜拿谷歌高薪，给自己打工？",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 13.0,
+      "id": "youtube-EHP7JnKBmuA#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "好的,那我们就这个稍稍讲一下这个开源的转变这件事情吧,就是开源曾经是完全你刚也说了就是开源之前是免费的嘛,免费运动是吧,然后他完全和商业是对立的。"
+    },
+    {
+      "end_seconds": 17.0,
+      "id": "youtube-EHP7JnKBmuA#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.0,
+      "text": "有没有一些例子就是来讲一下这个变化。"
+    },
+    {
+      "end_seconds": 28.0,
+      "id": "youtube-EHP7JnKBmuA#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.0,
+      "text": "是,比如说微软,就刚才提到微软,这就是一个很好的例子,就是微软之前是跟这个开源软件打的最狠的,我觉得他们两个人应该是势不两立。"
+    },
+    {
+      "end_seconds": 34.0,
+      "id": "youtube-EHP7JnKBmuA#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.0,
+      "text": "就是之前咱提到那个Linux,他有这个GPL协议,但凡用了他的就。"
+    },
+    {
+      "end_seconds": 35.0,
+      "id": "youtube-EHP7JnKBmuA#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.0,
+      "text": "就。"
+    },
+    {
+      "end_seconds": 55.0,
+      "id": "youtube-EHP7JnKBmuA#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.0,
+      "text": "就,他就强制了很多东西必须要开源,然后这时候微软就把他这个GPL协议称为GPL病毒这样,就是一个不断扩散的病毒,然后说他是知识产权的癌症,就是实际上就说的非常狠。"
+    },
+    {
+      "end_seconds": 60.0,
+      "id": "youtube-EHP7JnKBmuA#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.0,
+      "text": "但是现在你看微软就已经完全拥抱了开源,他认为开源是一件很好的事情。"
+    },
+    {
+      "end_seconds": 63.0,
+      "id": "youtube-EHP7JnKBmuA#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 60.0,
+      "text": "他说GPL是癌症这个事情是什么时候的事情?"
+    },
+    {
+      "end_seconds": 68.0,
+      "id": "youtube-EHP7JnKBmuA#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.0,
+      "text": "啊,鲍尔默时期,具体哪一年我也不是很确定。"
+    },
+    {
+      "end_seconds": 70.0,
+      "id": "youtube-EHP7JnKBmuA#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.0,
+      "text": "啊,就零几年的。"
+    },
+    {
+      "end_seconds": 79.0,
+      "id": "youtube-EHP7JnKBmuA#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.0,
+      "text": "但是现在你看微软收购了Github拥抱开源,他也投入了很多人力物力来做,比如说VSCode的这个。"
+    },
+    {
+      "end_seconds": 88.0,
+      "id": "youtube-EHP7JnKBmuA#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.0,
+      "text": "ide就,editor就做的很好,就是他整个是一个开源完事婚姻,所以现在的微软是完全拥抱这个开源的。"
+    },
+    {
+      "end_seconds": 93.0,
+      "id": "youtube-EHP7JnKBmuA#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.0,
+      "text": "那这背后的这个到底发生了什么转变,这个转变在哪?"
+    },
+    {
+      "end_seconds": 101.0,
+      "id": "youtube-EHP7JnKBmuA#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.0,
+      "text": "就是如果非要找到这一个点的话,就是啊,你的这个代码究竟是在什么地方跑的?"
+    },
+    {
+      "end_seconds": 109.0,
+      "id": "youtube-EHP7JnKBmuA#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.0,
+      "text": "就,这可能听起来有点抽象,就比如说过去他卖Windows,微软卖Office软件,卖Windows操作系统。"
+    },
+    {
+      "end_seconds": 115.0,
+      "id": "youtube-EHP7JnKBmuA#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.0,
+      "text": "这个代码是在哪跑的呢?就是把这个软件交给你,你就在自己的本机上跑就可以了。"
+    },
+    {
+      "end_seconds": 121.0,
+      "id": "youtube-EHP7JnKBmuA#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.0,
+      "text": "但是现在,比如说微软,当然这两个还在卖,他们还是这两个东西还是在卖代码。"
+    },
+    {
+      "end_seconds": 126.0,
+      "id": "youtube-EHP7JnKBmuA#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 122.0,
+      "text": "但是,我刚刚就想问,我们有看到Office开源的那一天吗?"
+    },
+    {
+      "end_seconds": 135.0,
+      "id": "youtube-EHP7JnKBmuA#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 126.0,
+      "text": "很难,也许也有这一天,也许有这一天,因为现在Office和Windows都有很多基于云的服务。"
+    },
+    {
+      "end_seconds": 140.0,
+      "id": "youtube-EHP7JnKBmuA#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.0,
+      "text": "比如说,好像叫Office One还是,或者365之类的Google。"
+    },
+    {
+      "end_seconds": 144.0,
+      "id": "youtube-EHP7JnKBmuA#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.0,
+      "text": "但是就是我刚想想想说的这个东西就是一个怎么说呢?"
+    },
+    {
+      "end_seconds": 153.0,
+      "id": "youtube-EHP7JnKBmuA#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.0,
+      "text": "就是稍稍对刚才的那件事情的一个直观的感受吧,就是我们能看到很多这里边东西不好用,"
+    },
+    {
+      "end_seconds": 158.0,
+      "id": "youtube-EHP7JnKBmuA#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 153.0,
+      "text": "为什么他一直这样使用它?因为你没有其他的替代品,像Office对吧?"
+    },
+    {
+      "end_seconds": 167.0,
+      "id": "youtube-EHP7JnKBmuA#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.0,
+      "text": "然后这个Office它一直是整个这个Windows的一个cash cow,就是它靠这个,就是靠Office,然后就直接坐在那。"
+    },
+    {
+      "end_seconds": 172.0,
+      "id": "youtube-EHP7JnKBmuA#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.0,
+      "text": "我其实软件也不需要改动的特别大,我就可以赚很多钱。"
+    },
+    {
+      "end_seconds": 177.0,
+      "id": "youtube-EHP7JnKBmuA#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.0,
+      "text": "那在这种情况下,我觉得一定会养出来一些不效率。"
+    },
+    {
+      "end_seconds": 183.0,
+      "id": "youtube-EHP7JnKBmuA#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.0,
+      "text": "说实话,我们在西雅图也听说很多Office的程序员们的生活非常的爽,对吧?"
+    },
+    {
+      "end_seconds": 190.0,
+      "id": "youtube-EHP7JnKBmuA#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.0,
+      "text": "不是说他们爽就代表工作不好,但是确实也也也也有一些这样的例子吧。"
+    },
+    {
+      "end_seconds": 197.0,
+      "id": "youtube-EHP7JnKBmuA#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 190.0,
+      "text": "但是可能开源了以后就促进了这个软件本身的发展,是吧?你要把它做得更好,才有可能有立足之地。"
+    },
+    {
+      "end_seconds": 204.0,
+      "id": "youtube-EHP7JnKBmuA#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 198.0,
+      "text": "对,Office如果它有一天开源的话,那一定是因为它的大部分服务挪到了云端上。"
+    },
+    {
+      "end_seconds": 209.0,
+      "id": "youtube-EHP7JnKBmuA#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 204.0,
+      "text": "就是我把代码交给你,你也没有办法影响我在Office软件上的收益。"
+    },
+    {
+      "end_seconds": 214.0,
+      "id": "youtube-EHP7JnKBmuA#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.0,
+      "text": "就是基本上买了Office软件,必须接着买我的云服,这样我不会在利益上有任何损失。"
+    },
+    {
+      "end_seconds": 220.0,
+      "id": "youtube-EHP7JnKBmuA#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.0,
+      "text": "所以我可以把Office代码开放给你,你也不能单独的运行这个代码而不使用我的云服,是吧?"
+    },
+    {
+      "end_seconds": 228.0,
+      "id": "youtube-EHP7JnKBmuA#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.0,
+      "text": "好的,那回到你的这个主线吧,就是你刚刚说它的这个最后最重要的转变,就是从本地变成了云,是吧?"
+    },
+    {
+      "end_seconds": 237.0,
+      "id": "youtube-EHP7JnKBmuA#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.0,
+      "text": "本地变成云是因为如果我在本地开放了以后,我考虑一下,我直接可以使用,那我就没有任何的这个,我就不用给你钱了。"
+    },
+    {
+      "end_seconds": 245.0,
+      "id": "youtube-EHP7JnKBmuA#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.0,
+      "text": "但是云的话呢,因为你这个,但是这是为什么我的云不能我也复制一套Office云,然后来跟你竞争呢?"
+    },
+    {
+      "end_seconds": 247.0,
+      "id": "youtube-EHP7JnKBmuA#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 245.0,
+      "text": "这个几乎是不能的。"
+    },
+    {
+      "end_seconds": 260.0,
+      "id": "youtube-EHP7JnKBmuA#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.0,
+      "text": "首先,有一个职业叫SRE,Site Reality Engineer,就是他们就是每个公司都会雇佣一大群这样的人,专门来负责他云服务的稳定性。"
+    },
+    {
+      "end_seconds": 271.0,
+      "id": "youtube-EHP7JnKBmuA#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 260.0,
+      "text": "所以,运营这个云服务是非常消耗人力的,而且也非常消耗计算资源,它背后有很多很多的服务器在支持。"
+    },
+    {
+      "end_seconds": 275.0,
+      "id": "youtube-EHP7JnKBmuA#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.0,
+      "text": "这不是一个个人通过开源代码能setup起来的吗?"
+    },
+    {
+      "end_seconds": 288.0,
+      "id": "youtube-EHP7JnKBmuA#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 275.0,
+      "text": "嗯,我们说一个,就是因为这个本身是个演化是吧,从个人到了云,那我们能不能在这个,就是project一下未来,未来会不会与这件事情变得越来越简单。"
+    },
+    {
+      "end_seconds": 307.0,
+      "id": "youtube-EHP7JnKBmuA#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 288.0,
+      "text": "然后他从有一天,个人就是你想吗?就是你当时,作为个体是可以在技术上和Google这个大厂直接PK的,然后效果上还不不弱,那会不会未来随着这个硬件和这个软件的这些就是发展。"
+    },
+    {
+      "end_seconds": 313.0,
+      "id": "youtube-EHP7JnKBmuA#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 307.0,
+      "text": "我们个人setup云这件事情也变得就是possible。"
+    },
+    {
+      "end_seconds": 323.0,
+      "id": "youtube-EHP7JnKBmuA#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 313.0,
+      "text": "是的,但是这个仍然不会影响他这个开源的这件事情,因为。"
+    },
+    {
+      "end_seconds": 332.0,
+      "id": "youtube-EHP7JnKBmuA#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 323.0,
+      "text": "云永远是有你即便即便你setup这个云是possible的,但它永远是有cost在的。"
+    },
+    {
+      "end_seconds": 341.0,
+      "id": "youtube-EHP7JnKBmuA#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 332.0,
+      "text": "就你setup云就就永远需要很多服务器的支持,至少这个服务器这个硬件计算资源是实打实的有cost。"
+    },
+    {
+      "end_seconds": 355.0,
+      "id": "youtube-EHP7JnKBmuA#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 341.0,
+      "text": "对对对,所以我明白了,就是他只有是一个在大规模的,就是他可能天生就有一个聚集效应,就是你只有最大的这个云服务器,你的cost才能做到最低,你才能用最合适的价钱提供给消费者。"
+    },
+    {
+      "end_seconds": 362.0,
+      "id": "youtube-EHP7JnKBmuA#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 355.0,
+      "text": "所以说这里边你出来一个competitor很难在这个cost structure上跟一个就是incumbent进行竞争。"
+    },
+    {
+      "end_seconds": 364.0,
+      "id": "youtube-EHP7JnKBmuA#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 362.0,
+      "text": "对,对。"
+    },
+    {
+      "end_seconds": 375.0,
+      "id": "youtube-EHP7JnKBmuA#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 364.0,
+      "text": "好的明白,那其实这也有利于这个开源的开就是商业化开源吧,就是如果说你你已经是一个这个。"
+    },
+    {
+      "end_seconds": 382.0,
+      "id": "youtube-EHP7JnKBmuA#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 375.0,
+      "text": "有了这个最大的服务了,那你把它开源出来以后,其实不会影响你的统治地位,只会增强你的统治地位。"
+    },
+    {
+      "end_seconds": 383.0,
+      "id": "youtube-EHP7JnKBmuA#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 382.0,
+      "text": "是是。"
+    },
+    {
+      "end_seconds": 388.0,
+      "id": "youtube-EHP7JnKBmuA#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 383.0,
+      "text": "嗯,和增加大家对你的这个信任和对你的服务的使用吧。"
+    },
+    {
+      "end_seconds": 389.0,
+      "id": "youtube-EHP7JnKBmuA#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 388.0,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 406.0,
+      "id": "youtube-EHP7JnKBmuA#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 389.0,
+      "text": "嗯,好的呀,我觉得这个东西讲清楚了,让我们还是想听一下你的这些一些个人经历,个人经历我们就从后往前说吧,从后往前说就是你现在在谷歌做这个,做开源是个什么体验,来个知乎标题呢。"
+    },
+    {
+      "end_seconds": 413.0,
+      "id": "youtube-EHP7JnKBmuA#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 406.0,
+      "text": "嗯,啊,其实和谷歌,因为我从来没有做过。"
+    },
+    {
+      "end_seconds": 422.0,
+      "id": "youtube-EHP7JnKBmuA#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 413.0,
+      "text": "非开源的开发,我几乎所有的写的代码都是开源的,所以,呃,可能没有办法直接和做。"
+    },
+    {
+      "end_seconds": 431.0,
+      "id": "youtube-EHP7JnKBmuA#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 422.0,
+      "text": "非开源的软件,就像对比吧,但是呃,可以大概总结一下这个体验是。"
+    },
+    {
+      "end_seconds": 452.0,
+      "id": "youtube-EHP7JnKBmuA#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.0,
+      "text": "首先一个字非常好,好,一个字好,呃,因为这个visibility是非常高的,首先不仅在谷歌内部,呃,大家能看到你的work,在外面也是,大家也都可以知道,呃,所以这样对于提升你的impact还是非常有意义的。"
+    },
+    {
+      "end_seconds": 453.0,
+      "id": "youtube-EHP7JnKBmuA#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 452.0,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 462.0,
+      "id": "youtube-EHP7JnKBmuA#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 453.0,
+      "text": "呃,比如说你想把这个问题打出去讲讲,如果你这个不是开源的,可能又涉及到很多公司的审批流程,你不太容易把自己的东西讲给外人听。"
+    },
+    {
+      "end_seconds": 480.0,
+      "id": "youtube-EHP7JnKBmuA#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 462.0,
+      "text": "但是如果是开源的,这个就留了很多,而且,呃,你还可以和很多外部的用户进行交流,创造很多附加的东西,比如说公司内部,你如果只面向自己公司内部的员工服务的话,那么你想到一个。"
+    },
+    {
+      "end_seconds": 499.0,
+      "id": "youtube-EHP7JnKBmuA#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 480.0,
+      "text": "呃,比如说好的project,有可能公司内部使用的人是非常有限的,但是如果你把它扩大到全世界开源出来,你把这个用户扩大到全世界,即便是很小的一个百分比,可能也会有不少人来用,所以每一个idea在你这过程中产生的新的idea都可能。"
+    },
+    {
+      "end_seconds": 505.0,
+      "id": "youtube-EHP7JnKBmuA#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 499.0,
+      "text": "呃,开源出来的话都是会产生的impact会比内部大。"
+    },
+    {
+      "end_seconds": 530.0,
+      "id": "youtube-EHP7JnKBmuA#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 505.0,
+      "text": "我觉得对,这个是做开源的爽点,然后完全get到这个爽点,但是Google本身对你的这个事情有什么限制吗?就是你你来自Google employee去做这件事和Iz independent contributor,就是完全学术界或者要自己自己在家,就是不在Google拿工资的,就Google给你的工资呃,有什么cost对你来说,就是他带了什么限制吗?"
+    },
+    {
+      "end_seconds": 552.0,
+      "id": "youtube-EHP7JnKBmuA#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.0,
+      "text": "呃,我想想这个还真好像暂时没有发现任何,哈哈哈哈,Google有没有给你任何的限制吗?就除了给你support以外,我觉得好像是没有任何的cost,唯一一个就是他把我们的开源协议从MIT换成了Apache的,但是本质上这两个协议一样的,就是2.0更严谨一点。"
+    },
+    {
+      "end_seconds": 565.0,
+      "id": "youtube-EHP7JnKBmuA#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 553.0,
+      "text": "呃,那所以相当于Google就是花钱养着你去做一个这个,因为你做的东西跟他的利益是一致的,所以说他也愿意花钱养着你去做,让你继续做你的你这些事情。"
+    },
+    {
+      "end_seconds": 572.0,
+      "id": "youtube-EHP7JnKBmuA#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 565.0,
+      "text": "对的,我暂时没有感受到任何cost,反而是有很多的support,反而是有很多support。"
+    },
+    {
+      "end_seconds": 574.0,
+      "id": "youtube-EHP7JnKBmuA#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 572.0,
+      "text": "你的KPI怎么考核?"
+    },
+    {
+      "end_seconds": 592.0,
+      "id": "youtube-EHP7JnKBmuA#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 574.0,
+      "text": "呃,对,首先Google没有KPI这个机制,它是OKR,但是OKR也是different from team to team,呃,我的基本上我所有的OKR都是和Karen那边相关的,就是把这个里面的一些服务提升。"
+    },
+    {
+      "end_seconds": 602.0,
+      "id": "youtube-EHP7JnKBmuA#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 592.0,
+      "text": "相当于有一个公司找了我说,你想办法把你的粉丝涨上去,然后多发你自己想发的内容,然后我们不说你们要发什么内容。"
+    },
+    {
+      "end_seconds": 606.0,
+      "id": "youtube-EHP7JnKBmuA#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 602.0,
+      "text": "对的,就是这种感觉,真的还是挺好的。"
+    },
+    {
+      "end_seconds": 612.0,
+      "id": "youtube-EHP7JnKBmuA#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 606.0,
+      "text": "想挖你是挖不到的感觉,太爽了。"
+    },
+    {
+      "end_seconds": 617.0,
+      "id": "youtube-EHP7JnKBmuA#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 612.0,
+      "text": "你的钱和Google的正常的employee拿的钱是一样多或者更多的吗?"
+    },
+    {
+      "end_seconds": 620.0,
+      "id": "youtube-EHP7JnKBmuA#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 617.0,
+      "text": "就标准呗,差不多。"
+    },
+    {
+      "end_seconds": 622.0,
+      "id": "youtube-EHP7JnKBmuA#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 620.0,
+      "text": "很多的意思。"
+    },
+    {
+      "end_seconds": 632.0,
+      "id": "youtube-EHP7JnKBmuA#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 622.0,
+      "text": "好,那但是那你的这个,比如说你刚刚提到了,那你刚刚提到了这个Keras之父也是在这个Google是吧?"
+    },
+    {
+      "end_seconds": 640.0,
+      "id": "youtube-EHP7JnKBmuA#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 632.0,
+      "text": "那大家就是这种呃,开源软件在公司内部的考核,就是说实话,你的目标是你自己说了算。"
+    },
+    {
+      "end_seconds": 647.0,
+      "id": "youtube-EHP7JnKBmuA#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 640.0,
+      "text": "你最懂怎么evaluating自己,那你的升职怎么大家公司怎么evaluating你呢?"
+    },
+    {
+      "end_seconds": 660.0,
+      "id": "youtube-EHP7JnKBmuA#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.0,
+      "text": "就和其他员工一样,就是定OKR的时候,你肯定也要和manager商量,这个也是要align到整个大的org下面,就跟整个大的org的OKR要保持一致才行。"
+    },
+    {
+      "end_seconds": 668.0,
+      "id": "youtube-EHP7JnKBmuA#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 660.0,
+      "text": "但是整个大的org的OKR肯定也想把tensorflow这个生态系统做好,对吧?"
+    },
+    {
+      "end_seconds": 671.0,
+      "id": "youtube-EHP7JnKBmuA#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.0,
+      "text": "所以我们的利益基本上是可以保持一致的。"
+    },
+    {
+      "end_seconds": 684.0,
+      "id": "youtube-EHP7JnKBmuA#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 671.0,
+      "text": "至于升职这件事情,无论你做开源闭源,做自己的项目,别人的项目,都可以体现出升职需要的那几条能力,只要你这几条能力达到了它的标准,这样就可以升职。"
+    },
+    {
+      "end_seconds": 698.0,
+      "id": "youtube-EHP7JnKBmuA#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 684.0,
+      "text": "有道理,还是一个利他利己的事情,就是我是说,作为Google本身啊,就是做一个tensorflow利他利己,然后在这里边,其实你一个利他的目标和公司的目标,最后还是要align的。"
+    },
+    {
+      "end_seconds": 712.0,
+      "id": "youtube-EHP7JnKBmuA#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 698.0,
+      "text": "嗯,那我之前你说的地方还有一个点啊,就是你说AutoML那边可能降了价,说明你不知道他们有没有降价,你们公司内部没有一个这个听起来就没有一个非常强的合作。"
+    },
+    {
+      "end_seconds": 717.0,
+      "id": "youtube-EHP7JnKBmuA#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 712.0,
+      "text": "至少定价这个问题是business team来做的。"
+    },
+    {
+      "end_seconds": 728.0,
+      "id": "youtube-EHP7JnKBmuA#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 717.0,
+      "text": "我我可以我们这边应该是和business team没有直接的合作。但是,对,和那边的技术团队我们是有交流的。"
+    },
+    {
+      "end_seconds": 739.0,
+      "id": "youtube-EHP7JnKBmuA#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 728.0,
+      "text": "有交流,嗯,这是你一开始你记得吗?就是媒体找到你是一把你们做成了这个AutoML的一个竞争对手,然后去用来讲他们多evil,对吧?"
+    },
+    {
+      "end_seconds": 760.0,
+      "id": "youtube-EHP7JnKBmuA#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 739.0,
+      "text": "那现在你们没有这种竞争关系,或者说是一个就是尴尬的关系吗?没有,还真没有。我不知道这个是不是Google的一个比较特殊的状况。我我怀疑所有的大公司可能都是这样,就是给下面的这些engineer足够的freedom,只要觉得你这个项目。"
+    },
+    {
+      "end_seconds": 780.0,
+      "id": "youtube-EHP7JnKBmuA#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 760.0,
+      "text": "嗯,有价值有意义就会允许你去做,而不是说非要align到整个公司某一个领域就只能有这一个项目,只能有这个服务。然后但凡多出来一个大家就实际上的关系,实际上至少在Google不是这样的。"
+    },
+    {
+      "end_seconds": 809.0,
+      "id": "youtube-EHP7JnKBmuA#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 780.0,
+      "text": "可是你觉得事实上有竞争关系吗?可能还是我们的项目还没有真正做的那么大,暂时没有。但如果真的要投入很多人力在我们这个项目上,那时候可能公司上面的management就会说两个类似的项目,那都投这么多人力,可能就要决定一下。但是这个离我们还非常远,至少离我还非常远,我我我看不到这个。"
+    },
+    {
+      "end_seconds": 812.0,
+      "id": "youtube-EHP7JnKBmuA#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 810.0,
+      "text": "在短暂的未来里会遇到这种。"
+    },
+    {
+      "end_seconds": 838.0,
+      "id": "youtube-EHP7JnKBmuA#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 813.0,
+      "text": "嗯,我这儿倒不是说公司投公司投这是第三层啊,第一层是消费者,第二层是这个云服务的这个support,我就是这样子的。就是从消费者的角度来说,我要遇到一个问题,就是我是用你AutoKeras的服务,还是我要用AutoML的服务。然后你第二层说的这个商业就是为什么AutoML能收钱收钱,因为它跟Google Cloud有深度整合。"
+    },
+    {
+      "end_seconds": 844.0,
+      "id": "youtube-EHP7JnKBmuA#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 838.0,
+      "text": "嗯,但是我用AutoKeras的话,Google Cloud会不会来深度整合我?这两件事。"
+    },
+    {
+      "end_seconds": 855.0,
+      "id": "youtube-EHP7JnKBmuA#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 844.0,
+      "text": "这两件事。哦,我理解你的问题吧。首先啊,我们也要整合Google Cloud,就我们也要允许用户在Google Cloud上跑AutoKeras。"
+    },
+    {
+      "end_seconds": 863.0,
+      "id": "youtube-EHP7JnKBmuA#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 855.0,
+      "text": "嗯,首先这个就本身就给Cloud是potential的也会增加它的用户和它服务的质量。"
+    },
+    {
+      "end_seconds": 874.0,
+      "id": "youtube-EHP7JnKBmuA#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 863.0,
+      "text": "其次仍然是使用这个企业级服务和使用Google Cloud加AutoKeras的用户,仍然不是完全overlap,还是有很大区别。"
+    },
+    {
+      "end_seconds": 887.0,
+      "id": "youtube-EHP7JnKBmuA#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 874.0,
+      "text": "因为,因为企业级的服务真的是做得很难上,就针对特定的行业特定问题就真的要做得很深,要深入理解一个行业才能把它做好。"
+    },
+    {
+      "end_seconds": 891.0,
+      "id": "youtube-EHP7JnKBmuA#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 887.0,
+      "text": "而我们还是一个更general的tool,可能就是。"
+    },
+    {
+      "end_seconds": 904.0,
+      "id": "youtube-EHP7JnKBmuA#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 892.0,
+      "text": "对,但是在当前的这个stage还是大家做一个quick experiment,或者是在实验室环境下获取一些结果的这样一个阶段,所以这个用户还是完全不一样。"
+    },
+    {
+      "end_seconds": 917.0,
+      "id": "youtube-EHP7JnKBmuA#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 905.0,
+      "text": "了解了,了解了,对,所以说就是稍稍总结一下的话,是其实归根结底啊,去使用开源软件的人和去购买那些企业级服务的人是很不一样的。"
+    },
+    {
+      "end_seconds": 930.0,
+      "id": "youtube-EHP7JnKBmuA#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 918.0,
+      "text": "他这中间可能会有一些对公司就是一个宏观的层面上来说,是有一些就是因为我开源能做得很好,你也看到了我在这里边做的什么东西,所以说你对我其他的东西能产生信任。"
+    },
+    {
+      "end_seconds": 940.0,
+      "id": "youtube-EHP7JnKBmuA#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 930.0,
+      "text": "他有这样一个相互促进的作用,另外就是他也开放了自己更多生态的可能性,因为本身你就不应该用企业的服务去服务个人,你也不应该去用个人的服务去服务企业。"
+    },
+    {
+      "end_seconds": 946.0,
+      "id": "youtube-EHP7JnKBmuA#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 941.0,
+      "text": "本质上还是两件就是有点correlation,但是其实还是差挺远的东西的。"
+    },
+    {
+      "end_seconds": 960.0,
+      "id": "youtube-EHP7JnKBmuA#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 947.0,
+      "text": "对,其实任何一个开源软件,就是只要他最后有服务,他既有开源又有服务的都会面临像你说的这个问题,就所有的他的用户都可以选择不用他的服务。"
+    },
+    {
+      "end_seconds": 966.0,
+      "id": "youtube-EHP7JnKBmuA#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 960.0,
+      "text": "就比如说我自己再费点劲把这个服务的部分做好,我只用你的开源软件。"
+    },
+    {
+      "end_seconds": 980.0,
+      "id": "youtube-EHP7JnKBmuA#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 966.0,
+      "text": "但是但凡能买得起这个服务需要一个高质量服务的这样的用户,一定会去买那个服务的,因为他没有必要自己花那个额外的时间为人力去建立这个东西。"
+    },
+    {
+      "end_seconds": 990.0,
+      "id": "youtube-EHP7JnKBmuA#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 980.0,
+      "text": "不如直接用你,服务本身是比拼服务质量,然后你自己作为一个使用者,你很难比这个服务的提供更好的质量。"
+    },
+    {
+      "end_seconds": 999.0,
+      "id": "youtube-EHP7JnKBmuA#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 990.0,
+      "text": "所以说我把这套工具,就说实话,我把一个餐馆开源了,你自己这样炒菜,你不应该炒菜,是吧?你不如厨子炒的好,你不如这个服务生提供的质量高。"
+    },
+    {
+      "end_seconds": 1002.0,
+      "id": "youtube-EHP7JnKBmuA#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 999.0,
+      "text": "对对对,非常恰当这个比。"
+    },
+    {
+      "end_seconds": 1010.0,
+      "id": "youtube-EHP7JnKBmuA#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1002.0,
+      "text": "哎,哈哈,我一个人放到最前面,对,想象一下餐馆开源,你也不会去炒菜。"
+    },
+    {
+      "end_seconds": 1021.0,
+      "id": "youtube-EHP7JnKBmuA#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1010.0,
+      "text": "那这儿最后两个问题吧,就是一个是你从学术界和谷歌,这种工业界的这个开源做事情,有没有什么区别?但刚才听起来好像没有区别。"
+    },
+    {
+      "end_seconds": 1030.0,
+      "id": "youtube-EHP7JnKBmuA#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1021.0,
+      "text": "嗯,对,呃,学术界当然就如果你只是做开源的这个开发,你指这个工作的话,那肯定是没有区别。"
+    },
+    {
+      "end_seconds": 1038.0,
+      "id": "youtube-EHP7JnKBmuA#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1030.0,
+      "text": "但是学术界你还有很多别的事情要做,比如说publication,对吧?哦,想到想到一个区别,不好意思,刚才没想到。"
+    },
+    {
+      "end_seconds": 1047.0,
+      "id": "youtube-EHP7JnKBmuA#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1038.0,
+      "text": "呃,就是学术界通常在做开源的时候和企业不一样的地方,就是他们同时要追求学术影响力。"
+    },
+    {
+      "end_seconds": 1054.0,
+      "id": "youtube-EHP7JnKBmuA#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1047.0,
+      "text": "所以我在追求一个开源软件好用,能服务到很多用户,实际把它用起来。"
+    },
+    {
+      "end_seconds": 1065.0,
+      "id": "youtube-EHP7JnKBmuA#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1054.0,
+      "text": "这个之外,我还要追求这个软件里用的技术绝对要有innovation,主要要很强的创新性,这样才能体现我一个实验室的学术能力。"
+    },
+    {
+      "end_seconds": 1067.0,
+      "id": "youtube-EHP7JnKBmuA#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1065.0,
+      "text": "这个也是两者的区别。"
+    },
+    {
+      "end_seconds": 1075.0,
+      "id": "youtube-EHP7JnKBmuA#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1067.0,
+      "text": "所以你觉得在企业界反而比更简单了,因为innovation这种东西,它是有的时候为了追求innovation,它会牺牲很多东西,对吧?"
+    },
+    {
+      "end_seconds": 1086.0,
+      "id": "youtube-EHP7JnKBmuA#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1075.0,
+      "text": "或者说它的innovation是一个呃,就是怎么说学术,就是呃,你的referrer吧,就是那个reviewer是必须要认可的,但未必是一个真的innovation。"
+    },
+    {
+      "end_seconds": 1094.0,
+      "id": "youtube-EHP7JnKBmuA#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1087.0,
+      "text": "对,当然如果你做得好的话,innovation是一个big plus,但是如果做得不好的话,可能就会成为你的一个burden。"
+    },
+    {
+      "end_seconds": 1100.0,
+      "id": "youtube-EHP7JnKBmuA#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1094.0,
+      "text": "嗯,好,对,那就是总结来说,总之就是在企业里面做更爽。"
+    },
+    {
+      "end_seconds": 1111.0,
+      "id": "youtube-EHP7JnKBmuA#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1100.0,
+      "text": "嗯,那最后一个问题就是你当时可以选择这个MIT的这种完全开放协议,你也可以选择一个,呃,有一点商就是商业化的这个协议。"
+    },
+    {
+      "end_seconds": 1125.0,
+      "id": "youtube-EHP7JnKBmuA#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1111.0,
+      "text": "然后不知道,你在学术界可能不允许,你一会儿可以纠正我,然后你当时职业上面,你可能也可以选择吧,就是进行做一个startup,然后去做一个这个,呃,auto auto deep的第一人。"
+    },
+    {
+      "end_seconds": 1136.0,
+      "id": "youtube-EHP7JnKBmuA#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1125.0,
+      "text": "然后去做一些东西,你也可以选择,就在学术界你可以去Google,最后你这些选择的,呃,到你现在的这个选择是为什么呢?"
+    },
+    {
+      "end_seconds": 1150.0,
+      "id": "youtube-EHP7JnKBmuA#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1137.0,
+      "text": "呃,首先这个原因有两个,有两个比较关键的因素,一个是我们这个东西到底适不适合做startup,这是一个非常值得讨论的问题,在不同人眼里可能有不一样的答案。"
+    },
+    {
+      "end_seconds": 1161.0,
+      "id": "youtube-EHP7JnKBmuA#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1150.0,
+      "text": "呃,我们先来聊前面这个选择开源协议这个问题,这可能比较简单一点,就是这个取决,取决什么协议,取决于你开源的目的到底是什么。"
+    },
+    {
+      "end_seconds": 1169.0,
+      "id": "youtube-EHP7JnKBmuA#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1162.0,
+      "text": "我们当时开源的目的就是扩大impact,一个是学术impact,再一个是我们这个开源软件影响力的impact。"
+    },
+    {
+      "end_seconds": 1175.0,
+      "id": "youtube-EHP7JnKBmuA#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1170.0,
+      "text": "所以这时候做越多的限制,这个impact就会越小,做越少的限制impact就会越大。"
+    },
+    {
+      "end_seconds": 1184.0,
+      "id": "youtube-EHP7JnKBmuA#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1175.0,
+      "text": "所以我们就选择了一个最开放的,最能让大家随便用的这样的协议,就选择了mit这个协议。"
+    },
+    {
+      "end_seconds": 1197.0,
+      "id": "youtube-EHP7JnKBmuA#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1185.0,
+      "text": "然后从我个人的眼光来看,这个东西不适合做startup,当然现在有很多startup在做这件事情,但是他们可能有各自的优势。"
+    },
+    {
+      "end_seconds": 1204.0,
+      "id": "youtube-EHP7JnKBmuA#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1197.0,
+      "text": "但是从我现在手里掌握的资源以及我们的情况来看,我认为我们是不适合的。"
+    },
+    {
+      "end_seconds": 1214.0,
+      "id": "youtube-EHP7JnKBmuA#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1205.0,
+      "text": "在我看来,AutoML这件事情最终的赢家肯定是云服务的提供商。"
+    },
+    {
+      "end_seconds": 1222.0,
+      "id": "youtube-EHP7JnKBmuA#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1215.0,
+      "text": "因为AutoML永远要消耗大量的计算资源,谁手里握着最大量的计算资源,谁就有话语权。"
+    },
+    {
+      "end_seconds": 1228.0,
+      "id": "youtube-EHP7JnKBmuA#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1222.0,
+      "text": "他做出来的东西肯定是比其他跟这些计算资源一个是整合的更好。"
+    },
+    {
+      "end_seconds": 1237.0,
+      "id": "youtube-EHP7JnKBmuA#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1229.0,
+      "text": "再一个,他也可以通过手里的计算资源进一步提供更高质量的服务。"
+    },
+    {
+      "end_seconds": 1245.0,
+      "id": "youtube-EHP7JnKBmuA#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1238.0,
+      "text": "因为他的计算资源不会轻易的受到价格什么的限制,比如说你用别人的服务,可能价格上还有很多限制。"
+    },
+    {
+      "end_seconds": 1253.0,
+      "id": "youtube-EHP7JnKBmuA#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1245.0,
+      "text": "这个也是我大概在18年左右吧,当时有很多人去做这个ml的solution provider。"
+    },
+    {
+      "end_seconds": 1257.0,
+      "id": "youtube-EHP7JnKBmuA#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1254.0,
+      "text": "就是ml说实话已经开源了嘛,就是就整个事情都是开源的。"
+    },
+    {
+      "end_seconds": 1269.0,
+      "id": "youtube-EHP7JnKBmuA#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1258.0,
+      "text": "然后大家就说啊,我看到很多行业还没有进行ml的应用,所以说我去做一个给大家提供人工智能的这样的一个,不然是consultant也好吧,或者solution provider。"
+    },
+    {
+      "end_seconds": 1280.0,
+      "id": "youtube-EHP7JnKBmuA#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1269.0,
+      "text": "然后当时就觉得不是很make sense,就大概先想一想,我就觉得大公司去做ml solution是make sense的,小公司做在这里边你没有办法有自己的这个edge的。"
+    },
+    {
+      "end_seconds": 1290.0,
+      "id": "youtube-EHP7JnKBmuA#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1281.0,
+      "text": "当然起来一些这个这个CVC小公司嘛,是吧,但是往后看吧,这是他们能不能pk过真的大厂也是一回事。"
+    },
+    {
+      "end_seconds": 1314.0,
+      "id": "youtube-EHP7JnKBmuA#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1290.0,
+      "text": "好的,其实不好意思,刚才说的是最最后一个问题,但我想起来之前我们还说了就是你们当时几个这个,几个个人的这个就是做AutoKeras会做的比我们不说跟google比了,因为google你刚说的是两个side out,但是会有一些当时市场上有一些这种做这些的startup去做。"
+    },
+    {
+      "end_seconds": 1315.0,
+      "id": "youtube-EHP7JnKBmuA#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1314.0,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 1322.0,
+      "id": "youtube-EHP7JnKBmuA#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1316.0,
+      "text": "就虽然说不跟google比,但我想知道就是这这的技术为什么你们可以做的最好,就是因为整个ml都是开源的这件事吗?"
+    },
+    {
+      "end_seconds": 1338.0,
+      "id": "youtube-EHP7JnKBmuA#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1322.0,
+      "text": "首先对,这个是一个必要条件,就因为我们是基于tensorflow这个生态系统来做的,所以如果没有tensorflow这个生态系统,我们至少也要有一个alternative,如果没有我们整个自己开发的话,肯定是完成不了这个项目的。"
+    },
+    {
+      "end_seconds": 1344.0,
+      "id": "youtube-EHP7JnKBmuA#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1338.0,
+      "text": "至少他有一个比较成熟的ml生态系统在这里,有很多工具我们直接从里面拿就可以了。"
+    },
+    {
+      "end_seconds": 1346.0,
+      "id": "youtube-EHP7JnKBmuA#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1345.0,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 1362.0,
+      "id": "youtube-EHP7JnKBmuA#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1347.0,
+      "text": "再一个,我觉得毕竟我们也是在这个topic里面做了一段时间,也参与了一些这个大的alternative项目,可能就取决于你怎么phrase这个问题,如果你认为我们为什么能把这个做的这么好呢,是这样的。"
+    },
+    {
+      "end_seconds": 1373.0,
+      "id": "youtube-EHP7JnKBmuA#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1362.0,
+      "text": "但实际上这里真正的问题是为什么其他能把这个项目做到这么好的人没有来做这个项目,这个才是一个真正关键的问题,我觉得。"
+    },
+    {
+      "end_seconds": 1374.0,
+      "id": "youtube-EHP7JnKBmuA#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1373.0,
+      "text": "为什么呢?"
+    },
+    {
+      "end_seconds": 1383.0,
+      "id": "youtube-EHP7JnKBmuA#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1374.0,
+      "text": "总结成也是两个关键因素吧,一个是你拿到这个topic真的要足够的早,就真的得很早很早才行。"
+    },
+    {
+      "end_seconds": 1391.0,
+      "id": "youtube-EHP7JnKBmuA#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1383.0,
+      "text": "我们是16年开始做项目,但差不多从这个项目两年前,你就要想到拿到这个topic开始申请这个项目的方底。"
+    },
+    {
+      "end_seconds": 1406.0,
+      "id": "youtube-EHP7JnKBmuA#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1392.0,
+      "text": "所以就是这个实验室的一个实验室的导师真的很重要,就是他得在最开始的时候,想到这个idea理解到它的价值,把这个项目申请写出来,然后并且拿到这个方顶。"
+    },
+    {
+      "end_seconds": 1412.0,
+      "id": "youtube-EHP7JnKBmuA#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1406.0,
+      "text": "这是整个你能最早的把这个项目做出来的一个前提。"
+    },
+    {
+      "end_seconds": 1414.0,
+      "id": "youtube-EHP7JnKBmuA#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1412.0,
+      "text": "这是一个非常关键的因素。"
+    },
+    {
+      "end_seconds": 1427.0,
+      "id": "youtube-EHP7JnKBmuA#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1414.0,
+      "text": "就像我们开始做了几个月google一个企业级的服务就已经出来了,说明就实际上已经没有那么早了,我们认为我们都已经很早了,但实际上也已经没有那么早。"
+    },
+    {
+      "end_seconds": 1434.0,
+      "id": "youtube-EHP7JnKBmuA#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1427.0,
+      "text": "所以这个绝对要很早,这个其他人可能没有我们那么早,可能差几个月的窗口就已经。"
+    },
+    {
+      "end_seconds": 1435.0,
+      "id": "youtube-EHP7JnKBmuA#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1434.0,
+      "text": "没了。"
+    },
+    {
+      "end_seconds": 1437.0,
+      "id": "youtube-EHP7JnKBmuA#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1435.0,
+      "text": "这个机会就已经没了。"
+    },
+    {
+      "end_seconds": 1439.0,
+      "id": "youtube-EHP7JnKBmuA#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1437.0,
+      "text": "这是第一点。"
+    },
+    {
+      "end_seconds": 1456.0,
+      "id": "youtube-EHP7JnKBmuA#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1439.0,
+      "text": "对,而且这个是一个相当于是从学术界拿到这个最新最前沿的topic,然后向下游用户进行降维打击的这样一个操作,就是这个topic可能真的最开始只在学术界能接触的,因为太新了,然后。"
+    },
+    {
+      "end_seconds": 1457.0,
+      "id": "youtube-EHP7JnKBmuA#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1456.0,
+      "text": "然后。"
+    },
+    {
+      "end_seconds": 1471.0,
+      "id": "youtube-EHP7JnKBmuA#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1457.0,
+      "text": "从这里把它拿出来,那这样就这个就涉及到的,我刚才说的第二个因素是什么呢?就是学术界得有一个人,他的background是非常契合的,恰好能把学术界的成果转化成一个。"
+    },
+    {
+      "end_seconds": 1472.0,
+      "id": "youtube-EHP7JnKBmuA#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1471.0,
+      "text": "呃。"
+    },
+    {
+      "end_seconds": 1483.0,
+      "id": "youtube-EHP7JnKBmuA#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1472.0,
+      "text": "开源软件把它做出这个似乎就可能我们通常理解吧,做成这样一个开源软件,假如说你理解了里面所有的技术,你把这个开源软件做出来不是特别难,对吧?不是特别难。"
+    },
+    {
+      "end_seconds": 1484.0,
+      "id": "youtube-EHP7JnKBmuA#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1483.0,
+      "text": "没觉得。"
+    },
+    {
+      "end_seconds": 1488.0,
+      "id": "youtube-EHP7JnKBmuA#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1484.0,
+      "text": "没觉得,假设它不是特别难啊。"
+    },
+    {
+      "end_seconds": 1494.0,
+      "id": "youtube-EHP7JnKBmuA#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1488.0,
+      "text": "那为什么我刚才说的这个流程就很多人不愿意做或者没有做呢?"
+    },
+    {
+      "end_seconds": 1505.0,
+      "id": "youtube-EHP7JnKBmuA#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1494.0,
+      "text": "就是因为在学术界通常做这个work的人是谁,这很重要,就是一群PhD student。PhD student的background基本上就是。"
+    },
+    {
+      "end_seconds": 1506.0,
+      "id": "youtube-EHP7JnKBmuA#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1505.0,
+      "text": "呃。"
+    },
+    {
+      "end_seconds": 1518.0,
+      "id": "youtube-EHP7JnKBmuA#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1506.0,
+      "text": "一路都在学校里,就念大学,念硕士博士,一路都在学校里,所以他们整个的这个代码质量的这个能力,是要照工业界有工业界经验的人稍微差一点。"
+    },
+    {
+      "end_seconds": 1522.0,
+      "id": "youtube-EHP7JnKBmuA#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1518.0,
+      "text": "可能这个项目你真要追求。"
+    },
+    {
+      "end_seconds": 1535.0,
+      "id": "youtube-EHP7JnKBmuA#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1522.0,
+      "text": "说到极致,它的这个工程能力的要求,可能就是一个比较好的L5的级别,Google L5的级别差不多就够了,就足够把这个成果转化出来。"
+    },
+    {
+      "end_seconds": 1546.0,
+      "id": "youtube-EHP7JnKBmuA#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1535.0,
+      "text": "但是你在很多这些前沿的实验室,大部分都是非常优秀的PhD student,一直在学校里,还没有到工业界去积累人生经验的。"
+    },
+    {
+      "end_seconds": 1555.0,
+      "id": "youtube-EHP7JnKBmuA#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1546.0,
+      "text": "所以这个时候实际上这个代码质量的这个代码能力,保证这个代码质量的能力,工程能力是一个比较稀缺的,在这些前沿的实验室里比较稀缺的。"
+    },
+    {
+      "end_seconds": 1562.0,
+      "id": "youtube-EHP7JnKBmuA#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1555.0,
+      "text": "所以对,这个也是里面的一个关键因素,就是为什么其他人没有赶到这个时间。"
+    },
+    {
+      "end_seconds": 1566.0,
+      "id": "youtube-EHP7JnKBmuA#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1562.0,
+      "text": "就是你的这个科学能力和工程能力不能短板。"
+    },
+    {
+      "end_seconds": 1568.0,
+      "id": "youtube-EHP7JnKBmuA#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1566.0,
+      "text": "对。"
+    },
+    {
+      "end_seconds": 1569.0,
+      "id": "youtube-EHP7JnKBmuA#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1568.0,
+      "text": "对。"
+    },
+    {
+      "end_seconds": 1570.0,
+      "id": "youtube-EHP7JnKBmuA#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1569.0,
+      "text": "嗯。"
+    },
+    {
+      "end_seconds": 1573.0,
+      "id": "youtube-EHP7JnKBmuA#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1571.0,
+      "text": "所以就是机会很好。"
+    },
+    {
+      "end_seconds": 1579.0,
+      "id": "youtube-EHP7JnKBmuA#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1573.0,
+      "text": "我觉得有的时候这个人就是需要机会去塑造人,然后遇到了一个机会就抓到了这上。"
+    },
+    {
+      "end_seconds": 1581.0,
+      "id": "youtube-EHP7JnKBmuA#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1580.0,
+      "text": "对。"
+    },
+    {
+      "end_seconds": 1582.0,
+      "id": "youtube-EHP7JnKBmuA#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1581.0,
+      "text": "好的。"
+    },
+    {
+      "end_seconds": 1588.0,
+      "id": "youtube-EHP7JnKBmuA#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1582.0,
+      "text": "那真的就是因为因为因为遇到了这些机会,然后你做了现在这样一件事情,所以说就是采访你,特别有意义吗?"
+    },
+    {
+      "end_seconds": 1595.0,
+      "id": "youtube-EHP7JnKBmuA#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1588.0,
+      "text": "就是你可以告诉我们这些故事,绝大多数人是没有办法就是去告诉我们这些故事的。"
+    },
+    {
+      "end_seconds": 1601.0,
+      "id": "youtube-EHP7JnKBmuA#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1595.0,
+      "text": "那我就是我我这边的问题已经问完了,你那还有什么觉得需要补充的地方吗?"
+    },
+    {
+      "end_seconds": 1604.0,
+      "id": "youtube-EHP7JnKBmuA#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1601.0,
+      "text": "呃,我大概看一下。"
+    },
+    {
+      "end_seconds": 1612.0,
+      "id": "youtube-EHP7JnKBmuA#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1604.0,
+      "text": "哦,对,还有就是我刚才那个就是这个项目的影响力比较大,还有一个非常关键的因素,刚才我没提到。"
+    },
+    {
+      "end_seconds": 1620.0,
+      "id": "youtube-EHP7JnKBmuA#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1612.0,
+      "text": "呃,就是一定我们就是在做开源的,所以一定要以开源开放的心态来面对这个项目。"
+    },
+    {
+      "end_seconds": 1630.0,
+      "id": "youtube-EHP7JnKBmuA#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1620.0,
+      "text": "比如说我找实习的时候,这个Keras之父对我们发出要求,愿不愿意把这个项目,挪到整个生态系统,挪到Keras Team这个Organization项目的时候。"
+    },
+    {
+      "end_seconds": 1638.0,
+      "id": "youtube-EHP7JnKBmuA#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1630.0,
+      "text": "这时候,一定要以一个开放的心态,我们愿意和其他人合作,共同来把这个项目做好。"
+    },
+    {
+      "end_seconds": 1649.0,
+      "id": "youtube-EHP7JnKBmuA#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1638.0,
+      "text": "这样一个心态来面对,所以我们选择了毫不犹豫的展开了这次合作,把它挪了过去,然后我们把这个项目做得更好,获得了更多的支持。"
+    },
+    {
+      "end_seconds": 1662.0,
+      "id": "youtube-EHP7JnKBmuA#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1649.0,
+      "text": "但是我觉得可能很多人面临这样一个选择的时候,会有一定的犹豫,就是比如说会不会说Google卡了我的Credit,或者是这个最后Credit怎么分配怎么归属的问题。"
+    },
+    {
+      "end_seconds": 1667.0,
+      "id": "youtube-EHP7JnKBmuA#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1662.0,
+      "text": "我觉得可能很多人会有这样的concern,就是我觉得在做开发项目的时候。"
+    },
+    {
+      "end_seconds": 1676.0,
+      "id": "youtube-EHP7JnKBmuA#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1667.0,
+      "text": "还是要想清楚你手里掌握了多少资源,怎么才能把你这个项目的impact最大化。"
+    },
+    {
+      "end_seconds": 1679.0,
+      "id": "youtube-EHP7JnKBmuA#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1676.0,
+      "text": "所以还是要以一个合作开放的心态来面对。"
+    },
+    {
+      "end_seconds": 1688.0,
+      "id": "youtube-EHP7JnKBmuA#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1679.0,
+      "text": "- 稍稍Follow-up一个问题,就是你刚刚说的这个concern在很多地方成立,但是我以为在开源不成立,因为你的所有的contribution是透明的。"
+    },
+    {
+      "end_seconds": 1690.0,
+      "id": "youtube-EHP7JnKBmuA#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1688.0,
+      "text": "也成立吗?"
+    },
+    {
+      "end_seconds": 1703.0,
+      "id": "youtube-EHP7JnKBmuA#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1691.0,
+      "text": "- 我觉得非常成立,因为contribution是透明的,但是外界对你的认可是没有那么。"
+    },
+    {
+      "end_seconds": 1708.0,
+      "id": "youtube-EHP7JnKBmuA#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1703.0,
+      "text": "- 也是不可能每个人都去你那个repo里查哪行代码是你写的,对吧。"
+    },
+    {
+      "end_seconds": 1722.0,
+      "id": "youtube-EHP7JnKBmuA#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1708.0,
+      "text": "- 就连现在这个深度学习三巨头都会被质疑说最开始这个东西是不是你提出来的,那paper也都是摆在那里,但是大家还是会质疑说这个深度学习网络是不是你提出来的。"
+    },
+    {
+      "end_seconds": 1734.0,
+      "id": "youtube-EHP7JnKBmuA#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1722.0,
+      "text": "- 对,大家可能对这件事情只有一个5分钟的理解,不会有一个5年的理解。明白明白,就是开放的心态,就整个开发的事情都很重要。"
+    },
+    {
+      "end_seconds": 1737.0,
+      "id": "youtube-EHP7JnKBmuA#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1734.0,
+      "text": "- 嗯,初心嘛,对吧,开发初心就是这样子的。"
+    },
+    {
+      "end_seconds": 1747.0,
+      "id": "youtube-EHP7JnKBmuA#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1737.0,
+      "text": "- 好的呀,今天的这个我觉得采访真的非常的价值,让我特别清楚的理解了这整个背后的各种各样的事情。"
+    },
+    {
+      "end_seconds": 1754.0,
+      "id": "youtube-EHP7JnKBmuA#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1747.0,
+      "text": "- 然后有机会的话,还是想采访一下就是对这个ML,AutoML的这些看法。"
+    },
+    {
+      "end_seconds": 1766.0,
+      "id": "youtube-EHP7JnKBmuA#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1754.0,
+      "text": "- 对,包括你的这个当时这个学术界到这个业界里边看到的ML的应用的一些这个就是state of art也好,或者说一些innovation包括他未来的发展的情况吧。"
+    },
+    {
+      "end_seconds": 1775.0,
+      "id": "youtube-EHP7JnKBmuA#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1766.0,
+      "text": "- 因为我觉得做AutoML前提就是你要对ML整个都很熟,所以说你才能在里面选出来一个比较,就是你要有很通用的支持。"
+    },
+    {
+      "end_seconds": 1778.0,
+      "id": "youtube-EHP7JnKBmuA#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1775.0,
+      "text": "- 所以说这儿我也挺想采访的,我们回头。"
+    },
+    {
+      "end_seconds": 1792.0,
+      "id": "youtube-EHP7JnKBmuA#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1778.0,
+      "text": "- 嗯,好的,没问题。这次课代表这个采访也是让我重新思考,仔细思考了很多问题,因为把这些问题想得更清楚了,其实我自己也是有很多受益的,也非常感谢你这次的采访我。"
+    },
+    {
+      "end_seconds": 1794.0,
+      "id": "youtube-EHP7JnKBmuA#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1792.0,
+      "text": "接下来是荐书环节。"
+    },
+    {
+      "end_seconds": 1800.0,
+      "id": "youtube-EHP7JnKBmuA#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1794.0,
+      "text": "首先,给想要了解深度学习的小伙伴推荐这本Keras之父的最新力作Deep Learning with Python第二版。"
+    },
+    {
+      "end_seconds": 1803.0,
+      "id": "youtube-EHP7JnKBmuA#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1800.0,
+      "text": "他的第一版就广受好评,叫Python深度学习。"
+    },
+    {
+      "end_seconds": 1810.0,
+      "id": "youtube-EHP7JnKBmuA#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1803.0,
+      "text": "他的特点就是没有数学公式,用工程师的语言把深度学习讲清楚,让你直接用起来解决实际问题。"
+    },
+    {
+      "end_seconds": 1816.0,
+      "id": "youtube-EHP7JnKBmuA#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1810.0,
+      "text": "再来推荐一本关于自动化机器学习的书,叫Automated Machine Learning in Action。"
+    },
+    {
+      "end_seconds": 1824.0,
+      "id": "youtube-EHP7JnKBmuA#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1816.0,
+      "text": "他讲了怎么使用Keras Tuner和AutoKeras两个项目来用自动化机器学习的方法提升算法工程师的工作效率。"
+    },
+    {
+      "end_seconds": 1830.0,
+      "id": "youtube-EHP7JnKBmuA#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1825.0,
+      "text": "我是这两个项目的负责人,也是这本书的共同作者,所以可以确定能把他们讲的清楚。"
+    },
+    {
+      "end_seconds": 1833.0,
+      "id": "youtube-EHP7JnKBmuA#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1830.0,
+      "text": "欢迎大家点击视频下方的链接查看。"
+    },
+    {
+      "end_seconds": 1840.0,
+      "id": "youtube-EHP7JnKBmuA#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1833.0,
+      "text": "最后欢迎大家关注我的知乎账号金海峰,谷歌Keras团队软件工程师,定期有干货退出。"
+    }
+  ],
+  "video_id": "EHP7JnKBmuA",
+  "yuzheng_stance_weight": "not-evidence"
+}

@@ -1,0 +1,633 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-2dzE4GsFCD8",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2022-11-11T12:45:39Z",
+  "participant_aliases": [],
+  "participant_entity_ids": [],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "",
+  "public_verified_at": "2026-10-11T01:51:33.108304+00:00",
+  "published_at": "2022-11-11",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "b2acabf477f3d6212756cedc9aed3d24db76106e314ecdb3f98c0531f295d21c",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "4fd95234965e5adc714ed4346bffdadcb2a7ac4615a79c53d3b9ad5ae358a9d3",
+    "root_receipt_sha256": "1adcddcdecfb1ad84dbc30aa07457bc67d42ec8929386daac70bf7a286328e33",
+    "unresolved_count": 0
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=2dzE4GsFCD8",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=2dzE4GsFCD8",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "[中字] When is precision a bad thing in AB testing? | Interview with Statsig founder - Part 1/2",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 18.246,
+      "id": "youtube-2dzE4GsFCD8#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "所以它变得极其重要，像，no，okay，well，which team should I double down on， or which team should I wind down， which project should I wind down？ Welcome back， welcome back to Fantastic， yeah， it's good to have you， it's good to see the company after a year， yeah。"
+    },
+    {
+      "end_seconds": 47.479,
+      "id": "youtube-2dzE4GsFCD8#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.246,
+      "text": "I think the last time you were here, we were in the Kirkland office, right? Yeah. Yeah, that was a. You have about ten to fifteen people. Yeah, now we have over forty-five, forty-six people. It's grown quite a bit. By the time you post the video, it'll probably be fifty. And how much you'll grow by valuation and revenue? I think so. The last time we were Series A, so we raised Series B. You probably saw we raised forty-three million dollars and a pretty good valuation. So we're pretty happy."
+    },
+    {
+      "end_seconds": 55.226,
+      "id": "youtube-2dzE4GsFCD8#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.479,
+      "text": "Do you have have real customers now? Yeah, we have lots of customers now, so we're pretty we're doing well in terms of like customer attraction."
+    },
+    {
+      "end_seconds": 78.713,
+      "id": "youtube-2dzE4GsFCD8#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.226,
+      "text": "你知道，它是一些东西，就是早期阶段，当你在建立公司，第一四到五个月，你很担心有人会使用你的产品。每个创始人的噩梦就是这个，对吧？你建立一个你相信的东西，然后你等待有人使用它。然后，当你真正有用户使用产品的时候，下一个阶段就是：他们是否愿意支付费用？"
+    },
+    {
+      "end_seconds": 95.96,
+      "id": "youtube-2dzE4GsFCD8#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.713,
+      "text": "So getting paying customers is the next level of validation, and so that was nerve-wracking. But then once you get one of those, then you write a contract and kind of like then it becomes like okay, whatever we're building is actually still valuable for people to the point where they're willing to pay."
+    },
+    {
+      "end_seconds": 121.2,
+      "id": "youtube-2dzE4GsFCD8#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.96,
+      "text": "a good amount of money for a contract, which is great. And then the next step is like repeat that, like you know, make them make them feel like the tool is valuable, retain them, and then grow that, make it into a repeatable motion, and so on. So so far, we've been very fortunate to get a lot of customers that find value in what we're building. So when did all those steps happen?"
+    },
+    {
+      "end_seconds": 134.897,
+      "id": "youtube-2dzE4GsFCD8#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 121.2,
+      "text": "Yeah, I think over time. So I think our first one, first last interview, I think you were like two, three months into building the company. Yeah. And our first contract, how when did it come?"
+    },
+    {
+      "end_seconds": 161.549,
+      "id": "youtube-2dzE4GsFCD8#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.897,
+      "text": "所以，第一个客户来四个月了，所以那我是，我想Take App，那是个小App，那是由一个前Facebook工程师在新加坡做的，然后他推出了，然后我们开始看到流量，所以那很棒，因为第一次我们看到客户使用我们的产品，然后最终用户使用产品或者。"
+    },
+    {
+      "end_seconds": 170.654,
+      "id": "youtube-2dzE4GsFCD8#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.549,
+      "text": "feeling the effect of the product, which is great. And then about six months in, we got the first major customer."
+    },
+    {
+      "end_seconds": 193.684,
+      "id": "youtube-2dzE4GsFCD8#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 170.654,
+      "text": "And that was Headspace, and they were trying the product out. And there was also an ex-Facebook team that loved the product, kind of like they missed the tools inside Facebook, right? So it was good to to to have that kind of validation, and then that subsequently ended up in a contract and so on. And subsequently, like you know, one of the good things is the"
+    },
+    {
+      "end_seconds": 209.963,
+      "id": "youtube-2dzE4GsFCD8#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.684,
+      "text": "The ex Facebook, ex Uber, ex Google, ex Airbnb, these folks have used tools like this before, and they miss the tools. And so when they see Statsig, it kind of resonates really, really well. And I feel like it's not only."
+    },
+    {
+      "end_seconds": 223.831,
+      "id": "youtube-2dzE4GsFCD8#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 209.963,
+      "text": "Do they miss the infrastructure? Miss the missing the tool? They also have conviction of what the tool can help them achieve. Yeah, yeah, and that is important though, because having an intuitive feeling for"
+    },
+    {
+      "end_seconds": 243.727,
+      "id": "youtube-2dzE4GsFCD8#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 223.831,
+      "text": "How profound these tools can have an impact on your product culture, product shipping culture, the velocity with you ship, even to the element of like you know engineering happiness, because instead of like debating your product features on the merits of like your debate."
+    },
+    {
+      "end_seconds": 270.815,
+      "id": "youtube-2dzE4GsFCD8#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 243.727,
+      "text": "You actually are able to test it out. Everyone can have ideas. Everyone can have autonomy to test something out in production, and then if the impact is there, then it stays. If the impact is not there, you you wind it down and then you move on. Yeah, it's such a powerful way of running or building software, and the cultural impact doesn't stop with that. I think it's it like continues on. Like you know, I remember when I used to"
+    },
+    {
+      "end_seconds": 280.362,
+      "id": "youtube-2dzE4GsFCD8#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 270.815,
+      "text": "Set up goals. The goals for the end of the half used to be like shipping goals, right? Yeah. Yeah. Oh, by the end of this half, I'm gonna ship these features."
+    },
+    {
+      "end_seconds": 302.299,
+      "id": "youtube-2dzE4GsFCD8#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 280.362,
+      "text": "And then I remember at Facebook, we never talked about shipping things. It's always about like what impact did it have? Did it actually meaningfully? If you ship garbage, then it just does garbage work. It doesn't matter, right? So I think it's important to like, okay, did we add value to our users, to the customers, and how can we quantify that becomes important."
+    },
+    {
+      "end_seconds": 319.486,
+      "id": "youtube-2dzE4GsFCD8#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 302.299,
+      "text": "I remember like seeing this number in the trustworthy online control experiment. Yeah. Like ninety percent of business business ideas are either negative or just insignificant. Yeah. Yeah, and I think we saw very similar numbers at at Facebook too. I feel like."
+    },
+    {
+      "end_seconds": 347.003,
+      "id": "youtube-2dzE4GsFCD8#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 319.486,
+      "text": "Unless you're really good, you know, in product sense, I think there should be a level of humility to have. Like, you know, maybe we don't know everything that we don't know about how customers are going to use our product. And I think a good way to think about is like, you know, one third of the features you believe you ship are going to be positive for your metrics. One third are going to be neutral, and then about a third is actually hurting."
+    },
+    {
+      "end_seconds": 357.768,
+      "id": "youtube-2dzE4GsFCD8#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 347.003,
+      "text": "But if you don't know which ones, third, you don't know. We don't. We never know, right? I remember like another another Twitter like from Naval."
+    },
+    {
+      "end_seconds": 370.629,
+      "id": "youtube-2dzE4GsFCD8#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 357.768,
+      "text": "Like the famous AngelList founder. Yeah, yeah. He developed a mental model about the complexity of decisions, and his sense is just humans are very bad at making complex decisions. Yeah."
+    },
+    {
+      "end_seconds": 392.074,
+      "id": "youtube-2dzE4GsFCD8#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 370.629,
+      "text": "especially if there's an element of subjective, like you know, look, I came up with the idea, and I feel so personally invested in the idea, it becomes very hard to like without data, yeah, to be able to like you know actually make the right decision. Yeah. Now the with the current economic climate, it's also it becomes extremely important, like you know, okay, well, which teams should I"
+    },
+    {
+      "end_seconds": 414.488,
+      "id": "youtube-2dzE4GsFCD8#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 392.074,
+      "text": "Double down on, or which teams should I wind down, or which projects should I wind down? It's it's important. Like you know, if you just go and wind down the projects that are actually beneficial to the product, then that's actually worse. Yeah. It never hurts to like understand the impact of the effort that you're putting in. Yeah, I feel like A/B testing is the ultimate tool for achieving intellectual honesty. I think so. Now."
+    },
+    {
+      "end_seconds": 424.675,
+      "id": "youtube-2dzE4GsFCD8#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 414.488,
+      "text": "One thing I would say is like you know, A/B testing is the I think the state of the art, the way to identify which ones work, which ones don't."
+    },
+    {
+      "end_seconds": 449.17,
+      "id": "youtube-2dzE4GsFCD8#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 424.675,
+      "text": "Now, but the problem with A/B testing is that it is a time-consuming process. The process of A/B testing comes up with like first you have to come up with the hypothesis, and then you have to build the variants for those validating those hypotheses. Then you have to ship those variants, and then you have to allocate samples, isolate the experiment, run the experiment for like I don't know two three weeks, depending on like how many samples you have, and then you have to have your"
+    },
+    {
+      "end_seconds": 461.645,
+      "id": "youtube-2dzE4GsFCD8#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 449.17,
+      "text": "数据科学 team go back and analyze it, and then you know verify it, all to like whether you validate or invalidate the hypothesis that you originally had. That entire process takes so long that most people don't run."
+    },
+    {
+      "end_seconds": 485.326,
+      "id": "youtube-2dzE4GsFCD8#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.645,
+      "text": "experiments as many times as they should, because then what they do is they save the big decisions for experiments, and the rest of them they rely on product intuition. What the convenient decisions? Yeah, right, right. And so, I think it becomes important to like for tools to make it so simple. Yeah, it should be automatic. The whole idea of like every code feature release."
+    },
+    {
+      "end_seconds": 498.272,
+      "id": "youtube-2dzE4GsFCD8#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 485.326,
+      "text": "should automatically be subscribed into an A/B test, and the tools should take the work or the burden of like analyzing those and giving you back numbers that you can then use to make product decisions."
+    },
+    {
+      "end_seconds": 510.628,
+      "id": "youtube-2dzE4GsFCD8#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.271,
+      "text": "Is that the biggest selling point for Statsig? Yeah, so the the idea behind Statsig is like we think that A/B testing is great, but A/B testing is such a time-consuming and manual process that."
+    },
+    {
+      "end_seconds": 528.012,
+      "id": "youtube-2dzE4GsFCD8#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 510.628,
+      "text": "Most people don't run as many A/B tests as they should, and so it is it is important for a tool like Statsig to come in and say like, look, you focus on building features because that's what you're really good at. That's what you should be spending time on. Let the tools take over the idea of like, okay, any time."
+    },
+    {
+      "end_seconds": 545.052,
+      "id": "youtube-2dzE4GsFCD8#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 528.012,
+      "text": "我们 see a rollout, and that is that generates an opportunity for us to go in and understand. Okay, here's a split in an otherwise statistically random sample that we can take the people that are exposed to the feature as your treatment, and the people that are not exposed to the feature as control."
+    },
+    {
+      "end_seconds": 556.297,
+      "id": "youtube-2dzE4GsFCD8#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 545.052,
+      "text": "Let's compare. Yep. Let's compare all the metrics, the hundreds of metrics, and then see if there's any statistical differences between those metrics. And that is useful information for you, right? So that gives you"
+    },
+    {
+      "end_seconds": 577.527,
+      "id": "youtube-2dzE4GsFCD8#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 556.297,
+      "text": "Because, why would you build a feature in the first place? You would build a feature because you believe that feature is good for your users, or customers, or business, or anything. Something about the feature is good, and that's your hypothesis. Let's validate that. So I have two questions. I think both are linked to your market size or your total, total addressable markets. The first question is."
+    },
+    {
+      "end_seconds": 596.179,
+      "id": "youtube-2dzE4GsFCD8#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 577.527,
+      "text": "Kind of how many of your current customers are X Facebook, X Google, and X Uber because they have all used A/B testing platform. But I found it is difficult for people that never use this kind of A/B testing platform to realize the the value behind it."
+    },
+    {
+      "end_seconds": 603.003,
+      "id": "youtube-2dzE4GsFCD8#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 596.179,
+      "text": "Yeah. So this is a really interesting question because whenever we talk to someone new."
+    },
+    {
+      "end_seconds": 627.798,
+      "id": "youtube-2dzE4GsFCD8#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 603.003,
+      "text": "We can quickly tell if we're selling, you know, in in the realm of selling, right? And are we selling a Tylenol or are we selling a vitamin? I'll explain what that is. Like, you know, Tylenol is a painkiller. So imagine someone comes to you and says, like, \"Look, I have a headache and I need a Tylenol.\" It's easy for you to, like, \"Look, here's a Tylenol. It's solved for your pain, and I can sell it to you.\""
+    },
+    {
+      "end_seconds": 641.776,
+      "id": "youtube-2dzE4GsFCD8#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 627.798,
+      "text": "whereas a vitamin is a little bit different because you have to first convince people that it is important for you to have the vitamin. but the moment you try a vitamin, then you feel the benefit of it, and you're never gonna, you know, not want it. and so"
+    },
+    {
+      "end_seconds": 665.004,
+      "id": "youtube-2dzE4GsFCD8#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 641.776,
+      "text": "When we talk to like the the ex Facebook, ex Uber, ex Airbnb, it it is very clear like they they realize the value intuitively of a tool like Statsig, and it becomes a much easier conversation. And then when when we talk to the other set of folks, there is an element of like for us, we have a lot of awareness to build."
+    },
+    {
+      "end_seconds": 694.587,
+      "id": "youtube-2dzE4GsFCD8#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 665.004,
+      "text": "We need to like be out there, do some content, build, write, you know, write blog posts and go to conferences and talk to educate or to build awareness for a different way of building, measuring, and then using the data to inform your product decisions. And that is a large market, and that we are starting to slowly still fill it up. But for us, so far, the"
+    },
+    {
+      "end_seconds": 721.667,
+      "id": "youtube-2dzE4GsFCD8#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 694.587,
+      "text": "The success have come from you know the people that already understand the value of the tool. So we're super early. We're only like eighteen months in. So right now we're kind of like in the you know we're happy just serving the Tylenol market. Yeah. Eventually we want to address the vitamin market. Yeah, I think it's just it is just a very hard problem to solve. Yeah. Like getting people to realize the value of"
+    },
+    {
+      "end_seconds": 734.843,
+      "id": "youtube-2dzE4GsFCD8#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 721.667,
+      "text": "Lighter means. Yeah, no, it is, and there are companies that have done that really, really well. I think, you know, even just feature flagging, right? You know, some of our competitors have done a pretty great job of like."
+    },
+    {
+      "end_seconds": 742.383,
+      "id": "youtube-2dzE4GsFCD8#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 734.843,
+      "text": "convincing people that feature flagging is a great way to build products. you know it decouples code shipments."
+    },
+    {
+      "end_seconds": 767.545,
+      "id": "youtube-2dzE4GsFCD8#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 742.383,
+      "text": "Code releases from feature releases. You don't have to tie those two things together. That's a very powerful concept. And so, the people before us have done a pretty good job of like bringing awareness. And now it's on us to like build the awareness to the next level, which is like it's not just enough if you just put people, you know, features behind a feature flag. It is important for you to understand how each feature is performing. Is it beneficial for your customers, your users, your business?"
+    },
+    {
+      "end_seconds": 784.808,
+      "id": "youtube-2dzE4GsFCD8#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 767.545,
+      "text": "You talk about the competitors. What is the biggest difference between you and other, like Optimizely? And I think there are a couple split. Yeah. So, like I said, one of the things that I have observed was the"
+    },
+    {
+      "end_seconds": 802.939,
+      "id": "youtube-2dzE4GsFCD8#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 784.808,
+      "text": "Whenever people talk about product experimentation, the state of the art is A/B testing, yeah, and that's where it stops. Yeah. Whereas what we all learned inside Facebook is like A/B testing is is great, but it's it's it favors precision over decision. Uh-huh. And so."
+    },
+    {
+      "end_seconds": 820.943,
+      "id": "youtube-2dzE4GsFCD8#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 802.939,
+      "text": "What ends up happening is people obsess so much about like the precision of the A/B test, and in practice, what ends up happening, you need to be making a lot more product decisions. And so, where Statsig comes in is like, you know, automates the entirety of like running an A/B test so much so that"
+    },
+    {
+      "end_seconds": 834.211,
+      "id": "youtube-2dzE4GsFCD8#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 820.943,
+      "text": "我们相信，当我们的客户现在正在运行十倍更多的实验，比他们之前运行的要多。我理解，实验的效率，是的，实验的效率，实验的效率，实验的效率，实验的效率"
+    },
+    {
+      "end_seconds": 860.571,
+      "id": "youtube-2dzE4GsFCD8#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 834.211,
+      "text": "Differentiators are how simple our tool is for you to like just get those metrics right away. Two lines of code, right? Well, yeah. And and and then everything else flows from there. The second part is you don't need to occupy your data science team to like constantly be analyzing and making product decisions. The engineers, the product managers, and the designers can make these decisions using Statsig. And what it does is like"
+    },
+    {
+      "end_seconds": 870.793,
+      "id": "youtube-2dzE4GsFCD8#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 860.571,
+      "text": "It's pretty important because it's hard enough to find good data scientists. Good data scientists are, see, you know, there's not very many. It's very difficult."
+    },
+    {
+      "end_seconds": 897.931,
+      "id": "youtube-2dzE4GsFCD8#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 870.793,
+      "text": "And then what happens is most of the companies that we talk to hire these great data scientists, and then what do they put them on? They put them on go analyze this A/B test. Yeah. And what you what ends up happening is these these teams of data scientists are looking backwards and analyzing and diagnosing and running queries on an experiment, and then you know making like okay, here's a report and make your product decision."
+    },
+    {
+      "end_seconds": 911.122,
+      "id": "youtube-2dzE4GsFCD8#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 897.931,
+      "text": "instead, those people, I mean, obviously, I don't think people enjoy doing that. They should be looking forward. They should be like analyzing, okay, what should the product be going forward into versus like looking backwards. And so,"
+    },
+    {
+      "end_seconds": 927.66,
+      "id": "youtube-2dzE4GsFCD8#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 911.122,
+      "text": "What Statsig does is also relieves these data scientists from, you know, the grunt work and lets them do creative work, which is what everybody wants to do. Yeah, as a data scientist, I really thank you for. Yeah, yeah. Building this is important. You know, we see so many of our customers like."
+    },
+    {
+      "end_seconds": 937.656,
+      "id": "youtube-2dzE4GsFCD8#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 927.66,
+      "text": "You you have such an amazing data science, team. But what are they doing? They're doing grunt work. Yeah, I think this is a very good angle, like looking backwards versus looking forwards."
+    },
+    {
+      "end_seconds": 958.89,
+      "id": "youtube-2dzE4GsFCD8#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 937.656,
+      "text": "I think all the great data scientists wants to, you know, help shape shape the future. Shape the future strategy, what the product should evolve into, not what the product was already done. Like, you know, so better decisions. Yeah. Looking at the past is only taking information for the future. Correct. Yeah. Correct. All right. Okay. The second question also about our total addressable market."
+    },
+    {
+      "end_seconds": 973.812,
+      "id": "youtube-2dzE4GsFCD8#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 958.89,
+      "text": "We know at Facebook is is very easy to do A/B testing because of the traffic size, right? You have billions of billions of people using the. Oh yeah. But it's not the case for most companies. Yeah, yeah. Then how? Yeah."
+    },
+    {
+      "end_seconds": 999.893,
+      "id": "youtube-2dzE4GsFCD8#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 973.812,
+      "text": "This is a common myth. The myth is that you need to have large sample sizes, like Facebook, in order to run experiments. And I think that's that's not true at all. So if you're looking for .01% improvements in your MAU or DAU metric or your revenue metric, then you do need millions of billions of samples. The obviously you know this better than anyone else, which is"
+    },
+    {
+      "end_seconds": 1010.465,
+      "id": "youtube-2dzE4GsFCD8#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 999.893,
+      "text": "In order to get sample size or the what is the the statistical power, you have two factors going, and there's the"
+    },
+    {
+      "end_seconds": 1025.63,
+      "id": "youtube-2dzE4GsFCD8#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1010.465,
+      "text": "minimum detectable effect， and then the baseline conversion rate as well as the sample size. It turns out that the minimum detectable effect has a much higher bearing on like the your statistical power, and so"
+    },
+    {
+      "end_seconds": 1053.787,
+      "id": "youtube-2dzE4GsFCD8#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1025.63,
+      "text": "When small companies with like only a few thousands of samples, what they're looking for is ten percent wins, yeah, twenty percent wins. They're not looking for point zero one percent. If you're if you're a small company with only thousand samples, if you're looking for point one percent, I would say like yeah, you should stop. You should like go look for larger wins. And so when you're looking for ten twenty percent wins, you don't need millions of samples. That's true. And and so we we we we have to bust this myth because you know this comes up a lot of times."
+    },
+    {
+      "end_seconds": 1070.826,
+      "id": "youtube-2dzE4GsFCD8#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1053.787,
+      "text": "39% of our customers are B2B companies, and B2B companies they don't have when when when they generally talk to us, they're like, oh, we don't have that many samples, and how do we run experiments? You can definitely run experiments, and these are all like still valid. I would still say like, look."
+    },
+    {
+      "end_seconds": 1092.179,
+      "id": "youtube-2dzE4GsFCD8#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1070.826,
+      "text": "You should still put every feature behind a feature flag, and then still validate the impact of those features. Because sometimes what happens is you introduce a bug without really noticing, and those bugs have this massive MDE. And those those MDEs will manifest itself as a as a as a change with statistical significance."
+    },
+    {
+      "end_seconds": 1112.761,
+      "id": "youtube-2dzE4GsFCD8#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1092.179,
+      "text": "instantly. You don't have to wait for two weeks. It'll, you'll get back that right away. And you should be looking at that and capturing those and then fixing the, the bugs and not wait until like your experiment is done, to look at those. So I, I generally say, you know, it would be beneficial if the entire data science community comes together and like actually busts this myth."
+    },
+    {
+      "end_seconds": 1138.839,
+      "id": "youtube-2dzE4GsFCD8#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1112.761,
+      "text": "Yeah, you need to have lots of lots of samples. Yeah, I remember at Facebook, I always tell the engineers, don't look at the the final metrics, revenue, MAUs at first. Look at adoption at different layers. Yeah, and that often tells you more information. Oh, absolutely. The that's another good technique where you look at the top of the funnel and correlating metrics. You know, things that are that have less inertia, things that can move."
+    },
+    {
+      "end_seconds": 1149.75,
+      "id": "youtube-2dzE4GsFCD8#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1138.839,
+      "text": "Right away. It's also a pretty good, you know, way to pick the right metric for how you measure the success of your own product. You know, sometimes if you pick too"
+    },
+    {
+      "end_seconds": 1174.729,
+      "id": "youtube-2dzE4GsFCD8#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1149.75,
+      "text": "too deep of a funnel metric. Say if you pick at the bottom of the funnel metric, you know it's very hard to move those metrics, and you don't know if the if the work you're doing is actually impacting. Sometimes people pick like you know thirty day average metrics, and then those metrics have inertia. Then what happens is like you know whatever changes you're making don't immediately manifest. You have to wait a long time for it to see. So my general philosophy is like you know pick top of the funnel metrics."
+    },
+    {
+      "end_seconds": 1187.143,
+      "id": "youtube-2dzE4GsFCD8#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1174.729,
+      "text": "generally, the ones that are correlated to the ones that you want to move, and if they're moving in the right direction, then that's a good sign."
+    }
+  ],
+  "video_id": "2dzE4GsFCD8",
+  "yuzheng_stance_weight": "not-evidence"
+}

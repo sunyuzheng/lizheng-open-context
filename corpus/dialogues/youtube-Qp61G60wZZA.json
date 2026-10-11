@@ -1,0 +1,7253 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-Qp61G60wZZA",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2021-05-18T06:04:24Z",
+  "participant_aliases": [
+    "Wu Jingchen",
+    "吴晶辰"
+  ],
+  "participant_entity_ids": [
+    "guest:wu-jingchen"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "吴晶辰",
+  "public_verified_at": "2026-10-11T01:56:16.311273+00:00",
+  "published_at": "2021-05-18",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "059d6d4962f2a977920bc30e8676666905cfc9f3a315a864d494a7a89a30d271",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "4216353ec57e664af17d9e248e99241fc447bdab47f013a052afe28154ed63f1",
+    "root_receipt_sha256": "556d83e0c40e54d9764dcd11ca3e0dacd4c597229f0a9b7ad49eef2c19ec5616",
+    "unresolved_count": 2
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=Qp61G60wZZA",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=Qp61G60wZZA",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "「算法」能帮我找女朋友？听「戏精」科学家用故事帮你理解算法～",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 2.439,
+      "id": "youtube-Qp61G60wZZA#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "往后一点"
+    },
+    {
+      "end_seconds": 5.32,
+      "id": "youtube-Qp61G60wZZA#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.36,
+      "text": "不会站到的"
+    },
+    {
+      "end_seconds": 8.359,
+      "id": "youtube-Qp61G60wZZA#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.64,
+      "text": "不会可以"
+    },
+    {
+      "end_seconds": 9.0,
+      "id": "youtube-Qp61G60wZZA#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.359,
+      "text": "就不动"
+    },
+    {
+      "end_seconds": 11.4,
+      "id": "youtube-Qp61G60wZZA#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.0,
+      "text": "停停停"
+    },
+    {
+      "end_seconds": 16.96,
+      "id": "youtube-Qp61G60wZZA#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.28,
+      "text": "大家好"
+    },
+    {
+      "end_seconds": 17.719,
+      "id": "youtube-Qp61G60wZZA#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.96,
+      "text": "我是孙煜征"
+    },
+    {
+      "end_seconds": 19.0,
+      "id": "youtube-Qp61G60wZZA#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.719,
+      "text": "感谢大家对我的"
+    },
+    {
+      "end_seconds": 21.359,
+      "id": "youtube-Qp61G60wZZA#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.0,
+      "text": "感谢大家对我频道的支持"
+    },
+    {
+      "end_seconds": 24.879,
+      "id": "youtube-Qp61G60wZZA#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.359,
+      "text": "然后我今天能达到100万的订阅用户"
+    },
+    {
+      "end_seconds": 25.92,
+      "id": "youtube-Qp61G60wZZA#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.879,
+      "text": "我显得非常高兴"
+    },
+    {
+      "end_seconds": 29.519,
+      "id": "youtube-Qp61G60wZZA#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.92,
+      "text": "今天我们有幸请来了吴晶辰来给大家"
+    },
+    {
+      "end_seconds": 31.239,
+      "id": "youtube-Qp61G60wZZA#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.519,
+      "text": "我们今天一块来做这些视频"
+    },
+    {
+      "end_seconds": 36.32,
+      "id": "youtube-Qp61G60wZZA#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.399,
+      "text": "大家好"
+    },
+    {
+      "end_seconds": 39.759,
+      "id": "youtube-Qp61G60wZZA#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.799,
+      "text": "我们今天有幸请来的吴晶辰同学"
+    },
+    {
+      "end_seconds": 41.039,
+      "id": "youtube-Qp61G60wZZA#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.759,
+      "text": "来给我们讲算法"
+    },
+    {
+      "end_seconds": 43.119,
+      "id": "youtube-Qp61G60wZZA#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.039,
+      "text": "算法这个话题虽然听上去很高深"
+    },
+    {
+      "end_seconds": 46.039,
+      "id": "youtube-Qp61G60wZZA#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.119,
+      "text": "但是其实跟我们的生活是息息相关的"
+    },
+    {
+      "end_seconds": 47.92,
+      "id": "youtube-Qp61G60wZZA#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.039,
+      "text": "吴晶辰同学也在得到上了一门课"
+    },
+    {
+      "end_seconds": 50.56,
+      "id": "youtube-Qp61G60wZZA#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.92,
+      "text": "然后现在已经有1万多个人去买这门课了"
+    },
+    {
+      "end_seconds": 51.96,
+      "id": "youtube-Qp61G60wZZA#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.56,
+      "text": "所以说今天来免费"
+    },
+    {
+      "end_seconds": 54.92,
+      "id": "youtube-Qp61G60wZZA#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.96,
+      "text": "今天来免费给大家介绍一下这门课都讲什么的"
+    },
+    {
+      "end_seconds": 55.879,
+      "id": "youtube-Qp61G60wZZA#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.92,
+      "text": "好"
+    },
+    {
+      "end_seconds": 56.32,
+      "id": "youtube-Qp61G60wZZA#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.879,
+      "text": "大家好"
+    },
+    {
+      "end_seconds": 56.92,
+      "id": "youtube-Qp61G60wZZA#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.32,
+      "text": "我是吴晶辰"
+    },
+    {
+      "end_seconds": 58.6,
+      "id": "youtube-Qp61G60wZZA#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.92,
+      "text": "很高兴来到孙煜征的频道"
+    },
+    {
+      "end_seconds": 61.64,
+      "id": "youtube-Qp61G60wZZA#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.64,
+      "text": "然后也希望大家多多支持孙煜征的YouTube频道"
+    },
+    {
+      "end_seconds": 64.92,
+      "id": "youtube-Qp61G60wZZA#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.64,
+      "text": "为了点赞评论加关注一键三连"
+    },
+    {
+      "end_seconds": 65.359,
+      "id": "youtube-Qp61G60wZZA#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.92,
+      "text": "谢谢"
+    },
+    {
+      "end_seconds": 65.879,
+      "id": "youtube-Qp61G60wZZA#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.359,
+      "text": "谢谢"
+    },
+    {
+      "end_seconds": 66.32,
+      "id": "youtube-Qp61G60wZZA#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.879,
+      "text": "谢谢"
+    },
+    {
+      "end_seconds": 68.4,
+      "id": "youtube-Qp61G60wZZA#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.0,
+      "text": "那金诚同学你做一下自我介绍吧"
+    },
+    {
+      "end_seconds": 69.12,
+      "id": "youtube-Qp61G60wZZA#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.4,
+      "text": "好好好"
+    },
+    {
+      "end_seconds": 70.24,
+      "id": "youtube-Qp61G60wZZA#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.12,
+      "text": "我叫吴晶辰"
+    },
+    {
+      "end_seconds": 71.56,
+      "id": "youtube-Qp61G60wZZA#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.24,
+      "text": "然后今天很有意思"
+    },
+    {
+      "end_seconds": 74.04,
+      "id": "youtube-Qp61G60wZZA#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.56,
+      "text": "今天拿了这么一个小玩偶是孙煜征家的"
+    },
+    {
+      "end_seconds": 76.0,
+      "id": "youtube-Qp61G60wZZA#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.04,
+      "text": "然后我是北京大学毕业的"
+    },
+    {
+      "end_seconds": 79.4,
+      "id": "youtube-Qp61G60wZZA#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.0,
+      "text": "然后我是在北京大学学的是数学系"
+    },
+    {
+      "end_seconds": 81.48,
+      "id": "youtube-Qp61G60wZZA#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.4,
+      "text": "然后方向是计算数学"
+    },
+    {
+      "end_seconds": 83.319,
+      "id": "youtube-Qp61G60wZZA#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.48,
+      "text": "后来我到了美国密歇根大学"
+    },
+    {
+      "end_seconds": 85.439,
+      "id": "youtube-Qp61G60wZZA#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 83.319,
+      "text": "读的是应用数学的博士"
+    },
+    {
+      "end_seconds": 88.359,
+      "id": "youtube-Qp61G60wZZA#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.439,
+      "text": "然后我的研究方向是跟库存管理有关"
+    },
+    {
+      "end_seconds": 89.76,
+      "id": "youtube-Qp61G60wZZA#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.359,
+      "text": "然后跟优化算法"
+    },
+    {
+      "end_seconds": 91.159,
+      "id": "youtube-Qp61G60wZZA#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.959,
+      "text": "然后跟运筹学有关"
+    },
+    {
+      "end_seconds": 93.959,
+      "id": "youtube-Qp61G60wZZA#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.159,
+      "text": "后来我就到了亚马逊的库存管理部门"
+    },
+    {
+      "end_seconds": 95.68,
+      "id": "youtube-Qp61G60wZZA#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 93.959,
+      "text": "然后也是它的供应链管理部门"
+    },
+    {
+      "end_seconds": 98.239,
+      "id": "youtube-Qp61G60wZZA#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.68,
+      "text": "在那做算法方面的优化研究"
+    },
+    {
+      "end_seconds": 99.039,
+      "id": "youtube-Qp61G60wZZA#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 98.239,
+      "text": "我听了这么多"
+    },
+    {
+      "end_seconds": 99.799,
+      "id": "youtube-Qp61G60wZZA#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.039,
+      "text": "我觉得脑子都晕了"
+    },
+    {
+      "end_seconds": 102.12,
+      "id": "youtube-Qp61G60wZZA#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.799,
+      "text": "但是听起来大家网上盛传"
+    },
+    {
+      "end_seconds": 104.28,
+      "id": "youtube-Qp61G60wZZA#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.12,
+      "text": "北大数学系都是一些很神奇的人"
+    },
+    {
+      "end_seconds": 105.799,
+      "id": "youtube-Qp61G60wZZA#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 104.28,
+      "text": "你觉得怎么样"
+    },
+    {
+      "end_seconds": 106.799,
+      "id": "youtube-Qp61G60wZZA#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.799,
+      "text": "是对的吗"
+    },
+    {
+      "end_seconds": 109.359,
+      "id": "youtube-Qp61G60wZZA#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 106.799,
+      "text": "我觉得北大数学系有很多很厉害"
+    },
+    {
+      "end_seconds": 110.12,
+      "id": "youtube-Qp61G60wZZA#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.359,
+      "text": "很神奇的人"
+    },
+    {
+      "end_seconds": 112.519,
+      "id": "youtube-Qp61G60wZZA#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 110.12,
+      "text": "然后我其实不算"
+    },
+    {
+      "end_seconds": 113.48,
+      "id": "youtube-Qp61G60wZZA#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.519,
+      "text": "我其实不算"
+    },
+    {
+      "end_seconds": 114.76,
+      "id": "youtube-Qp61G60wZZA#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.48,
+      "text": "得到助理讲师"
+    },
+    {
+      "end_seconds": 116.879,
+      "id": "youtube-Qp61G60wZZA#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 114.76,
+      "text": "我觉得我是一个比较稍微"
+    },
+    {
+      "end_seconds": 118.719,
+      "id": "youtube-Qp61G60wZZA#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 117.0,
+      "text": "有点斜杠青年的那种感觉"
+    },
+    {
+      "end_seconds": 123.079,
+      "id": "youtube-Qp61G60wZZA#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.719,
+      "text": "我自己是做算法方面的研究"
+    },
+    {
+      "end_seconds": 125.599,
+      "id": "youtube-Qp61G60wZZA#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.079,
+      "text": "但是我自己是一个特别喜欢演戏"
+    },
+    {
+      "end_seconds": 128.56,
+      "id": "youtube-Qp61G60wZZA#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.599,
+      "text": "然后在表演舞台的这么一个人"
+    },
+    {
+      "end_seconds": 129.879,
+      "id": "youtube-Qp61G60wZZA#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 128.56,
+      "text": "所以我经常会参加一些"
+    },
+    {
+      "end_seconds": 130.519,
+      "id": "youtube-Qp61G60wZZA#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 129.879,
+      "text": "铁"
+    },
+    {
+      "end_seconds": 131.759,
+      "id": "youtube-Qp61G60wZZA#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 130.519,
+      "text": "脱口秀西雅图脱口秀"
+    },
+    {
+      "end_seconds": 132.68,
+      "id": "youtube-Qp61G60wZZA#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.759,
+      "text": "没有"
+    },
+    {
+      "end_seconds": 133.479,
+      "id": "youtube-Qp61G60wZZA#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 132.68,
+      "text": "我们不是脱口秀"
+    },
+    {
+      "end_seconds": 134.919,
+      "id": "youtube-Qp61G60wZZA#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 133.479,
+      "text": "西雅图非著名脱口秀"
+    },
+    {
+      "end_seconds": 135.84,
+      "id": "youtube-Qp61G60wZZA#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.919,
+      "text": "不是脱口秀"
+    },
+    {
+      "end_seconds": 137.84,
+      "id": "youtube-Qp61G60wZZA#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 135.84,
+      "text": "西雅图非著名戏剧演员"
+    },
+    {
+      "end_seconds": 140.0,
+      "id": "youtube-Qp61G60wZZA#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.84,
+      "text": "非著名戏剧演员"
+    },
+    {
+      "end_seconds": 140.68,
+      "id": "youtube-Qp61G60wZZA#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.0,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 143.159,
+      "id": "youtube-Qp61G60wZZA#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 140.68,
+      "text": "所以你觉得学算法对你演话剧有帮助吗"
+    },
+    {
+      "end_seconds": 144.639,
+      "id": "youtube-Qp61G60wZZA#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 143.159,
+      "text": "一点帮助都没有"
+    },
+    {
+      "end_seconds": 146.4,
+      "id": "youtube-Qp61G60wZZA#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 144.639,
+      "text": "如果你想当一个好的话剧演员"
+    },
+    {
+      "end_seconds": 147.24,
+      "id": "youtube-Qp61G60wZZA#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 146.4,
+      "text": "不要去学算法"
+    },
+    {
+      "end_seconds": 147.52,
+      "id": "youtube-Qp61G60wZZA#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.24,
+      "text": "没有"
+    },
+    {
+      "end_seconds": 148.52,
+      "id": "youtube-Qp61G60wZZA#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.52,
+      "text": "那好"
+    },
+    {
+      "end_seconds": 150.92,
+      "id": "youtube-Qp61G60wZZA#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 148.52,
+      "text": "那学算法会对我的什么有帮助呢"
+    },
+    {
+      "end_seconds": 154.439,
+      "id": "youtube-Qp61G60wZZA#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.92,
+      "text": "算法实际上有意思的一件事是"
+    },
+    {
+      "end_seconds": 157.319,
+      "id": "youtube-Qp61G60wZZA#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.439,
+      "text": "它的一个帮助你的思维逻辑"
+    },
+    {
+      "end_seconds": 159.04,
+      "id": "youtube-Qp61G60wZZA#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.319,
+      "text": "当然它又跟数学不是"
+    },
+    {
+      "end_seconds": 160.36,
+      "id": "youtube-Qp61G60wZZA#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 159.04,
+      "text": "不是简单的数学有关"
+    },
+    {
+      "end_seconds": 160.92,
+      "id": "youtube-Qp61G60wZZA#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.36,
+      "text": "真的"
+    },
+    {
+      "end_seconds": 162.24,
+      "id": "youtube-Qp61G60wZZA#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 160.92,
+      "text": "那所以什么是算法"
+    },
+    {
+      "end_seconds": 163.52,
+      "id": "youtube-Qp61G60wZZA#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 162.719,
+      "text": "算法"
+    },
+    {
+      "end_seconds": 165.4,
+      "id": "youtube-Qp61G60wZZA#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 163.52,
+      "text": "如果你一定要看它的定义的话"
+    },
+    {
+      "end_seconds": 167.68,
+      "id": "youtube-Qp61G60wZZA#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 165.4,
+      "text": "算法就是为了解决一定的问题"
+    },
+    {
+      "end_seconds": 169.4,
+      "id": "youtube-Qp61G60wZZA#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 167.68,
+      "text": "遵照一定的步骤"
+    },
+    {
+      "end_seconds": 170.64,
+      "id": "youtube-Qp61G60wZZA#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 169.4,
+      "text": "执行一些命令"
+    },
+    {
+      "end_seconds": 173.0,
+      "id": "youtube-Qp61G60wZZA#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 170.64,
+      "text": "最后得到一个答案"
+    },
+    {
+      "end_seconds": 173.68,
+      "id": "youtube-Qp61G60wZZA#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.0,
+      "text": "这么一个过程"
+    },
+    {
+      "end_seconds": 174.28,
+      "id": "youtube-Qp61G60wZZA#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 173.68,
+      "text": "这个叫算法"
+    },
+    {
+      "end_seconds": 175.879,
+      "id": "youtube-Qp61G60wZZA#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 174.28,
+      "text": "就是把人变成机器人的过程吗"
+    },
+    {
+      "end_seconds": 178.28,
+      "id": "youtube-Qp61G60wZZA#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 177.12,
+      "text": "如果你一定要这么做"
+    },
+    {
+      "end_seconds": 180.24,
+      "id": "youtube-Qp61G60wZZA#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 179.28,
+      "text": "可以说是"
+    },
+    {
+      "end_seconds": 183.2,
+      "id": "youtube-Qp61G60wZZA#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 180.24,
+      "text": "但上我们每个人都有作为人性的一面"
+    },
+    {
+      "end_seconds": 186.48,
+      "id": "youtube-Qp61G60wZZA#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 183.2,
+      "text": "和解决问题的时候那种追求效率高效的那一面"
+    },
+    {
+      "end_seconds": 189.599,
+      "id": "youtube-Qp61G60wZZA#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 186.48,
+      "text": "如果说你想特别高效的解决一些问题"
+    },
+    {
+      "end_seconds": 191.599,
+      "id": "youtube-Qp61G60wZZA#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 189.599,
+      "text": "那学一些算法实际上是好的"
+    },
+    {
+      "end_seconds": 193.28,
+      "id": "youtube-Qp61G60wZZA#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 191.599,
+      "text": "如果我想高效再找女朋友"
+    },
+    {
+      "end_seconds": 195.28,
+      "id": "youtube-Qp61G60wZZA#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 193.28,
+      "text": "就有一个这样的算法帮助"
+    },
+    {
+      "end_seconds": 195.719,
+      "id": "youtube-Qp61G60wZZA#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 195.28,
+      "text": "可以"
+    },
+    {
+      "end_seconds": 196.719,
+      "id": "youtube-Qp61G60wZZA#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 195.719,
+      "text": "我觉得是可以的"
+    },
+    {
+      "end_seconds": 199.52,
+      "id": "youtube-Qp61G60wZZA#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 196.719,
+      "text": "你这世间有这么多时间管理大师是吧"
+    },
+    {
+      "end_seconds": 201.84,
+      "id": "youtube-Qp61G60wZZA#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 199.52,
+      "text": "我觉得算法比较厉害"
+    },
+    {
+      "end_seconds": 202.48,
+      "id": "youtube-Qp61G60wZZA#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 201.84,
+      "text": "对"
+    },
+    {
+      "end_seconds": 203.599,
+      "id": "youtube-Qp61G60wZZA#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 202.48,
+      "text": "我给算法大师试试看"
+    },
+    {
+      "end_seconds": 207.0,
+      "id": "youtube-Qp61G60wZZA#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 204.28,
+      "text": "那我们知道了"
+    },
+    {
+      "end_seconds": 210.519,
+      "id": "youtube-Qp61G60wZZA#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 207.0,
+      "text": "就是算法是帮我提高我做事情的效率是吧"
+    },
+    {
+      "end_seconds": 212.56,
+      "id": "youtube-Qp61G60wZZA#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 210.519,
+      "text": "然后有一套怎么说呢"
+    },
+    {
+      "end_seconds": 214.24,
+      "id": "youtube-Qp61G60wZZA#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 212.56,
+      "text": "规定的方法"
+    },
+    {
+      "end_seconds": 216.079,
+      "id": "youtube-Qp61G60wZZA#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 214.24,
+      "text": "或者说提炼出来的方法"
+    },
+    {
+      "end_seconds": 217.639,
+      "id": "youtube-Qp61G60wZZA#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 216.079,
+      "text": "对这个又是一个非常有意思的事情"
+    },
+    {
+      "end_seconds": 219.519,
+      "id": "youtube-Qp61G60wZZA#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 217.639,
+      "text": "当然我们说经常我们要做事情"
+    },
+    {
+      "end_seconds": 220.799,
+      "id": "youtube-Qp61G60wZZA#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 219.519,
+      "text": "想做事情做的效率高"
+    },
+    {
+      "end_seconds": 222.719,
+      "id": "youtube-Qp61G60wZZA#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 220.799,
+      "text": "但是我们是遇到的问题很不一样"
+    },
+    {
+      "end_seconds": 222.919,
+      "id": "youtube-Qp61G60wZZA#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.719,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 224.4,
+      "id": "youtube-Qp61G60wZZA#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 222.919,
+      "text": "你有时候要去看这个事情"
+    },
+    {
+      "end_seconds": 225.319,
+      "id": "youtube-Qp61G60wZZA#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 224.4,
+      "text": "就说找女朋友"
+    },
+    {
+      "end_seconds": 227.28,
+      "id": "youtube-Qp61G60wZZA#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 225.319,
+      "text": "有时候你在工作当中要安排工作"
+    },
+    {
+      "end_seconds": 229.479,
+      "id": "youtube-Qp61G60wZZA#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 227.28,
+      "text": "当然每件事都不一样"
+    },
+    {
+      "end_seconds": 230.719,
+      "id": "youtube-Qp61G60wZZA#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 229.479,
+      "text": "所以你采取的方法也不一样"
+    },
+    {
+      "end_seconds": 232.0,
+      "id": "youtube-Qp61G60wZZA#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 230.719,
+      "text": "你用的算法肯定不一样"
+    },
+    {
+      "end_seconds": 235.879,
+      "id": "youtube-Qp61G60wZZA#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 232.039,
+      "text": "这个时候就需要我们对一些经典的问题有些了解"
+    },
+    {
+      "end_seconds": 237.199,
+      "id": "youtube-Qp61G60wZZA#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 235.879,
+      "text": "让你遇到类似问题的时候"
+    },
+    {
+      "end_seconds": 237.8,
+      "id": "youtube-Qp61G60wZZA#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.199,
+      "text": "你说"
+    },
+    {
+      "end_seconds": 238.879,
+      "id": "youtube-Qp61G60wZZA#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.8,
+      "text": "我就遇到过这个问题"
+    },
+    {
+      "end_seconds": 239.639,
+      "id": "youtube-Qp61G60wZZA#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 238.879,
+      "text": "我学过这个问题"
+    },
+    {
+      "end_seconds": 240.36,
+      "id": "youtube-Qp61G60wZZA#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 239.639,
+      "text": "这个问题当中"
+    },
+    {
+      "end_seconds": 242.4,
+      "id": "youtube-Qp61G60wZZA#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 240.36,
+      "text": "用这个模型用这个算法比较合适"
+    },
+    {
+      "end_seconds": 244.479,
+      "id": "youtube-Qp61G60wZZA#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 242.4,
+      "text": "那这个时候你就能把你以前学到的知识"
+    },
+    {
+      "end_seconds": 246.12,
+      "id": "youtube-Qp61G60wZZA#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 244.479,
+      "text": "用到无论是你生活当中"
+    },
+    {
+      "end_seconds": 247.919,
+      "id": "youtube-Qp61G60wZZA#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 246.12,
+      "text": "或者是工作当中去"
+    },
+    {
+      "end_seconds": 250.52,
+      "id": "youtube-Qp61G60wZZA#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 247.919,
+      "text": "其实我提女朋友这件事情是因为"
+    },
+    {
+      "end_seconds": 254.039,
+      "id": "youtube-Qp61G60wZZA#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 250.52,
+      "text": "我之前有一个学弟他在学校教书"
+    },
+    {
+      "end_seconds": 255.92,
+      "id": "youtube-Qp61G60wZZA#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 254.039,
+      "text": "他就用这个来引出算法的"
+    },
+    {
+      "end_seconds": 259.439,
+      "id": "youtube-Qp61G60wZZA#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 255.92,
+      "text": "他是说算法可以告诉你在什么时候"
+    },
+    {
+      "end_seconds": 261.519,
+      "id": "youtube-Qp61G60wZZA#cue-140",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 259.439,
+      "text": "有子偶是最佳的时机"
+    },
+    {
+      "end_seconds": 263.0,
+      "id": "youtube-Qp61G60wZZA#cue-141",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.68,
+      "text": "因为你会不断explore"
+    },
+    {
+      "end_seconds": 265.56,
+      "id": "youtube-Qp61G60wZZA#cue-142",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 263.0,
+      "text": "但是你要去开始explore"
+    },
+    {
+      "end_seconds": 266.68,
+      "id": "youtube-Qp61G60wZZA#cue-143",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 265.56,
+      "text": "然后在这个过程中的话"
+    },
+    {
+      "end_seconds": 268.12,
+      "id": "youtube-Qp61G60wZZA#cue-144",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 266.68,
+      "text": "是用一个optimal trade off"
+    },
+    {
+      "end_seconds": 268.519,
+      "id": "youtube-Qp61G60wZZA#cue-145",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 268.12,
+      "text": "对"
+    },
+    {
+      "end_seconds": 269.599,
+      "id": "youtube-Qp61G60wZZA#cue-146",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.359,
+      "text": "对"
+    },
+    {
+      "end_seconds": 271.56,
+      "id": "youtube-Qp61G60wZZA#cue-147",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 269.599,
+      "text": "有这么一个理论"
+    },
+    {
+      "end_seconds": 271.919,
+      "id": "youtube-Qp61G60wZZA#cue-148",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.56,
+      "text": "就是说"
+    },
+    {
+      "end_seconds": 273.839,
+      "id": "youtube-Qp61G60wZZA#cue-149",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 271.919,
+      "text": "范莱茵是代表大师的老婆"
+    },
+    {
+      "end_seconds": 276.079,
+      "id": "youtube-Qp61G60wZZA#cue-150",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 274.879,
+      "text": "是我通过算法找到的"
+    },
+    {
+      "end_seconds": 278.0,
+      "id": "youtube-Qp61G60wZZA#cue-151",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 277.199,
+      "text": "没有"
+    },
+    {
+      "end_seconds": 279.079,
+      "id": "youtube-Qp61G60wZZA#cue-152",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 278.0,
+      "text": "这有一个"
+    },
+    {
+      "end_seconds": 281.399,
+      "id": "youtube-Qp61G60wZZA#cue-153",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 279.079,
+      "text": "一个不用secretary的一个问题"
+    },
+    {
+      "end_seconds": 282.599,
+      "id": "youtube-Qp61G60wZZA#cue-154",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 281.399,
+      "text": "就是说你如果说"
+    },
+    {
+      "end_seconds": 284.599,
+      "id": "youtube-Qp61G60wZZA#cue-155",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 282.599,
+      "text": "你会interview 100个secretary"
+    },
+    {
+      "end_seconds": 285.599,
+      "id": "youtube-Qp61G60wZZA#cue-156",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 284.599,
+      "text": "我忘了具体是多少"
+    },
+    {
+      "end_seconds": 287.959,
+      "id": "youtube-Qp61G60wZZA#cue-157",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 285.599,
+      "text": "第37个还是第几个"
+    },
+    {
+      "end_seconds": 289.159,
+      "id": "youtube-Qp61G60wZZA#cue-158",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 287.959,
+      "text": "我具体忘了第几个"
+    },
+    {
+      "end_seconds": 290.799,
+      "id": "youtube-Qp61G60wZZA#cue-159",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 289.159,
+      "text": "就是说如果你要找女朋友"
+    },
+    {
+      "end_seconds": 293.36,
+      "id": "youtube-Qp61G60wZZA#cue-160",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 290.8,
+      "text": "然后你知道你这一辈子可能会遇到10个人"
+    },
+    {
+      "end_seconds": 294.84,
+      "id": "youtube-Qp61G60wZZA#cue-161",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 293.36,
+      "text": "然后可能从"
+    },
+    {
+      "end_seconds": 297.079,
+      "id": "youtube-Qp61G60wZZA#cue-162",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 294.84,
+      "text": "你可能先去认识三到四个"
+    },
+    {
+      "end_seconds": 298.68,
+      "id": "youtube-Qp61G60wZZA#cue-163",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 297.079,
+      "text": "然后你看一下哪个人最好"
+    },
+    {
+      "end_seconds": 300.639,
+      "id": "youtube-Qp61G60wZZA#cue-164",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 298.68,
+      "text": "你不一定要去选他们"
+    },
+    {
+      "end_seconds": 302.84,
+      "id": "youtube-Qp61G60wZZA#cue-165",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 300.639,
+      "text": "之后你一旦发现了一个比你之前"
+    },
+    {
+      "end_seconds": 304.72,
+      "id": "youtube-Qp61G60wZZA#cue-166",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 302.84,
+      "text": "遇到跟你最合适的一个人"
+    },
+    {
+      "end_seconds": 305.72,
+      "id": "youtube-Qp61G60wZZA#cue-167",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 304.72,
+      "text": "更合适的一个人"
+    },
+    {
+      "end_seconds": 306.68,
+      "id": "youtube-Qp61G60wZZA#cue-168",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 305.72,
+      "text": "那你就抓住机会"
+    },
+    {
+      "end_seconds": 308.28,
+      "id": "youtube-Qp61G60wZZA#cue-169",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 306.68,
+      "text": "然后你就不用再浪费时间了"
+    },
+    {
+      "end_seconds": 309.519,
+      "id": "youtube-Qp61G60wZZA#cue-170",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 308.28,
+      "text": "这就是你最好的选择"
+    },
+    {
+      "end_seconds": 312.24,
+      "id": "youtube-Qp61G60wZZA#cue-171",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 309.519,
+      "text": "否则你有可能一辈子都找不到对象了"
+    },
+    {
+      "end_seconds": 313.12,
+      "id": "youtube-Qp61G60wZZA#cue-172",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 312.24,
+      "text": "找不到好的对象了"
+    },
+    {
+      "end_seconds": 315.96,
+      "id": "youtube-Qp61G60wZZA#cue-173",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 315.24,
+      "text": "换一个话题吧"
+    },
+    {
+      "end_seconds": 316.519,
+      "id": "youtube-Qp61G60wZZA#cue-174",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 315.96,
+      "text": "换一个话题"
+    },
+    {
+      "end_seconds": 317.04,
+      "id": "youtube-Qp61G60wZZA#cue-175",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.519,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 318.68,
+      "id": "youtube-Qp61G60wZZA#cue-176",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 317.08,
+      "text": "那好的"
+    },
+    {
+      "end_seconds": 321.08,
+      "id": "youtube-Qp61G60wZZA#cue-177",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 318.68,
+      "text": "就是算法在我们生活中无处不在"
+    },
+    {
+      "end_seconds": 324.36,
+      "id": "youtube-Qp61G60wZZA#cue-178",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 321.08,
+      "text": "那可是我觉得就是大家不用算法也可以活得很好"
+    },
+    {
+      "end_seconds": 326.8,
+      "id": "youtube-Qp61G60wZZA#cue-179",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 324.36,
+      "text": "那肯定算法用来听起来"
+    },
+    {
+      "end_seconds": 329.04,
+      "id": "youtube-Qp61G60wZZA#cue-180",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 326.8,
+      "text": "就是算法是用来解决一些更复杂的问题的"
+    },
+    {
+      "end_seconds": 329.92,
+      "id": "youtube-Qp61G60wZZA#cue-181",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 329.04,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 330.16,
+      "id": "youtube-Qp61G60wZZA#cue-182",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 329.92,
+      "text": "对"
+    },
+    {
+      "end_seconds": 333.64,
+      "id": "youtube-Qp61G60wZZA#cue-183",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 330.16,
+      "text": "我觉得应用算法实际上它有两个特别典型的目的"
+    },
+    {
+      "end_seconds": 335.64,
+      "id": "youtube-Qp61G60wZZA#cue-184",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 333.64,
+      "text": "一个是"
+    },
+    {
+      "end_seconds": 337.52,
+      "id": "youtube-Qp61G60wZZA#cue-185",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 336.72,
+      "text": "你说对"
+    },
+    {
+      "end_seconds": 340.6,
+      "id": "youtube-Qp61G60wZZA#cue-186",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 337.52,
+      "text": "我觉得有两个主要的解决方向"
+    },
+    {
+      "end_seconds": 342.2,
+      "id": "youtube-Qp61G60wZZA#cue-187",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 340.6,
+      "text": "一个是自动化一些事情"
+    },
+    {
+      "end_seconds": 343.16,
+      "id": "youtube-Qp61G60wZZA#cue-188",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 342.2,
+      "text": "就是很多东西需要"
+    },
+    {
+      "end_seconds": 344.4,
+      "id": "youtube-Qp61G60wZZA#cue-189",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 343.16,
+      "text": "是我们经常要去labor"
+    },
+    {
+      "end_seconds": 345.72,
+      "id": "youtube-Qp61G60wZZA#cue-190",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 344.4,
+      "text": "我们就是手工做一些事情"
+    },
+    {
+      "end_seconds": 348.88,
+      "id": "youtube-Qp61G60wZZA#cue-191",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 345.76,
+      "text": "比如说我要看一眼以前看"
+    },
+    {
+      "end_seconds": 350.68,
+      "id": "youtube-Qp61G60wZZA#cue-192",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 348.88,
+      "text": "比如说你以前FBI干一些事情"
+    },
+    {
+      "end_seconds": 352.2,
+      "id": "youtube-Qp61G60wZZA#cue-193",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 350.68,
+      "text": "可能它有很多人的照片"
+    },
+    {
+      "end_seconds": 354.68,
+      "id": "youtube-Qp61G60wZZA#cue-194",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 352.2,
+      "text": "然后你要看这个照片拿过来看看是谁"
+    },
+    {
+      "end_seconds": 356.0,
+      "id": "youtube-Qp61G60wZZA#cue-195",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 354.68,
+      "text": "然后这个照片拿过来看看是谁"
+    },
+    {
+      "end_seconds": 357.0,
+      "id": "youtube-Qp61G60wZZA#cue-196",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 356.0,
+      "text": "这可能都是人工做"
+    },
+    {
+      "end_seconds": 358.32,
+      "id": "youtube-Qp61G60wZZA#cue-197",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 357.0,
+      "text": "那现在我们就有可能"
+    },
+    {
+      "end_seconds": 360.2,
+      "id": "youtube-Qp61G60wZZA#cue-198",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 358.32,
+      "text": "就可以有一些机器学习的算法"
+    },
+    {
+      "end_seconds": 362.68,
+      "id": "youtube-Qp61G60wZZA#cue-199",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 360.2,
+      "text": "然后能帮你直接去识别出这个人脸是谁"
+    },
+    {
+      "end_seconds": 364.88,
+      "id": "youtube-Qp61G60wZZA#cue-200",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 362.68,
+      "text": "那这个就把这个过程就完全自动化了"
+    },
+    {
+      "end_seconds": 368.48,
+      "id": "youtube-Qp61G60wZZA#cue-201",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 364.88,
+      "text": "然后在算法还经常干的一件事情是优化"
+    },
+    {
+      "end_seconds": 369.8,
+      "id": "youtube-Qp61G60wZZA#cue-202",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 368.48,
+      "text": "就比如说再举个例子"
+    },
+    {
+      "end_seconds": 371.6,
+      "id": "youtube-Qp61G60wZZA#cue-203",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 369.8,
+      "text": "就比如说我们开车"
+    },
+    {
+      "end_seconds": 374.64,
+      "id": "youtube-Qp61G60wZZA#cue-204",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 371.6,
+      "text": "现在有很多帮助我们开车的一些算法"
+    },
+    {
+      "end_seconds": 377.279,
+      "id": "youtube-Qp61G60wZZA#cue-205",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 374.68,
+      "text": "然后一方面它提供了自动化的一个过程"
+    },
+    {
+      "end_seconds": 378.319,
+      "id": "youtube-Qp61G60wZZA#cue-206",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 377.279,
+      "text": "它帮助我们开车"
+    },
+    {
+      "end_seconds": 379.919,
+      "id": "youtube-Qp61G60wZZA#cue-207",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 378.319,
+      "text": "另外一部分它还优化"
+    },
+    {
+      "end_seconds": 381.599,
+      "id": "youtube-Qp61G60wZZA#cue-208",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 379.919,
+      "text": "它试图开的更安全"
+    },
+    {
+      "end_seconds": 384.719,
+      "id": "youtube-Qp61G60wZZA#cue-209",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 381.599,
+      "text": "虽然我们现在可能在经常新闻当中"
+    },
+    {
+      "end_seconds": 387.24,
+      "id": "youtube-Qp61G60wZZA#cue-210",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 384.719,
+      "text": "可能看到有些开车的这些算法"
+    },
+    {
+      "end_seconds": 388.479,
+      "id": "youtube-Qp61G60wZZA#cue-211",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 387.24,
+      "text": "并不一定显得那么安全"
+    },
+    {
+      "end_seconds": 392.0,
+      "id": "youtube-Qp61G60wZZA#cue-212",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 388.479,
+      "text": "但是如果真的和人开车出事故的比例比较一下的话"
+    },
+    {
+      "end_seconds": 393.439,
+      "id": "youtube-Qp61G60wZZA#cue-213",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 392.0,
+      "text": "可能还是算法更安全"
+    },
+    {
+      "end_seconds": 395.399,
+      "id": "youtube-Qp61G60wZZA#cue-214",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 393.439,
+      "text": "这个实际上是一个优化的过程"
+    },
+    {
+      "end_seconds": 398.039,
+      "id": "youtube-Qp61G60wZZA#cue-215",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 395.399,
+      "text": "所以我觉得算法在我们生活当中"
+    },
+    {
+      "end_seconds": 400.039,
+      "id": "youtube-Qp61G60wZZA#cue-216",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 398.039,
+      "text": "很多时候起到这两个方面的作用"
+    },
+    {
+      "end_seconds": 403.039,
+      "id": "youtube-Qp61G60wZZA#cue-217",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 400.039,
+      "text": "你要说我们不用算法是不是可以生活下去呢"
+    },
+    {
+      "end_seconds": 404.12,
+      "id": "youtube-Qp61G60wZZA#cue-218",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 403.039,
+      "text": "我觉得没问题"
+    },
+    {
+      "end_seconds": 405.199,
+      "id": "youtube-Qp61G60wZZA#cue-219",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 404.12,
+      "text": "我觉得没有问题"
+    },
+    {
+      "end_seconds": 408.28,
+      "id": "youtube-Qp61G60wZZA#cue-220",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 405.199,
+      "text": "只不过我自己的看法是从工业革命之后"
+    },
+    {
+      "end_seconds": 411.519,
+      "id": "youtube-Qp61G60wZZA#cue-221",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 408.28,
+      "text": "我们的整个社会就越来越多的追求效率"
+    },
+    {
+      "end_seconds": 414.6,
+      "id": "youtube-Qp61G60wZZA#cue-222",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 411.519,
+      "text": "而你看机器上是追求效率的"
+    },
+    {
+      "end_seconds": 415.72,
+      "id": "youtube-Qp61G60wZZA#cue-223",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 414.6,
+      "text": "然后我们现在这个时代"
+    },
+    {
+      "end_seconds": 418.28,
+      "id": "youtube-Qp61G60wZZA#cue-224",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 415.72,
+      "text": "算法也是极其追求效率的"
+    },
+    {
+      "end_seconds": 420.199,
+      "id": "youtube-Qp61G60wZZA#cue-225",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 418.28,
+      "text": "如果你的工作或者你要做的事情"
+    },
+    {
+      "end_seconds": 421.8,
+      "id": "youtube-Qp61G60wZZA#cue-226",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 420.199,
+      "text": "你对效率有要求的话"
+    },
+    {
+      "end_seconds": 423.639,
+      "id": "youtube-Qp61G60wZZA#cue-227",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 421.8,
+      "text": "那算法很有可能能是你的好朋友"
+    },
+    {
+      "end_seconds": 425.439,
+      "id": "youtube-Qp61G60wZZA#cue-228",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 423.639,
+      "text": "但是如果你对这些没有要求"
+    },
+    {
+      "end_seconds": 426.639,
+      "id": "youtube-Qp61G60wZZA#cue-229",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 425.439,
+      "text": "比如说我是一个艺术家"
+    },
+    {
+      "end_seconds": 429.12,
+      "id": "youtube-Qp61G60wZZA#cue-230",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 426.639,
+      "text": "我就喜欢做一些天马行空的东西"
+    },
+    {
+      "end_seconds": 430.0,
+      "id": "youtube-Qp61G60wZZA#cue-231",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 429.12,
+      "text": "无论是音乐"
+    },
+    {
+      "end_seconds": 430.959,
+      "id": "youtube-Qp61G60wZZA#cue-232",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 430.0,
+      "text": "无论是绘画"
+    },
+    {
+      "end_seconds": 432.04,
+      "id": "youtube-Qp61G60wZZA#cue-233",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 430.959,
+      "text": "这个是需要你的想象力"
+    },
+    {
+      "end_seconds": 432.84,
+      "id": "youtube-Qp61G60wZZA#cue-234",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.04,
+      "text": "你可能不需要说"
+    },
+    {
+      "end_seconds": 435.0,
+      "id": "youtube-Qp61G60wZZA#cue-235",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 432.839,
+      "text": "我要在多少时间之内做出多少幅画"
+    },
+    {
+      "end_seconds": 437.0,
+      "id": "youtube-Qp61G60wZZA#cue-236",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 435.0,
+      "text": "效率不是我想做的事情"
+    },
+    {
+      "end_seconds": 438.359,
+      "id": "youtube-Qp61G60wZZA#cue-237",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 437.0,
+      "text": "我也不想自动化这个过程"
+    },
+    {
+      "end_seconds": 439.599,
+      "id": "youtube-Qp61G60wZZA#cue-238",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 438.359,
+      "text": "那你就不需要算法"
+    },
+    {
+      "end_seconds": 442.239,
+      "id": "youtube-Qp61G60wZZA#cue-239",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 439.599,
+      "text": "这个时候你完全没有算法可以活得很好"
+    },
+    {
+      "end_seconds": 442.719,
+      "id": "youtube-Qp61G60wZZA#cue-240",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 442.239,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 444.679,
+      "id": "youtube-Qp61G60wZZA#cue-241",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 442.719,
+      "text": "所以我这样说一下的话"
+    },
+    {
+      "end_seconds": 445.399,
+      "id": "youtube-Qp61G60wZZA#cue-242",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 444.679,
+      "text": "或者说这样"
+    },
+    {
+      "end_seconds": 447.079,
+      "id": "youtube-Qp61G60wZZA#cue-243",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 445.399,
+      "text": "我觉得有一个例子就是"
+    },
+    {
+      "end_seconds": 448.679,
+      "id": "youtube-Qp61G60wZZA#cue-244",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 447.079,
+      "text": "有一些这些所谓的life hacker"
+    },
+    {
+      "end_seconds": 451.239,
+      "id": "youtube-Qp61G60wZZA#cue-245",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 448.679,
+      "text": "他们就把自己的人生做得特别精准"
+    },
+    {
+      "end_seconds": 453.199,
+      "id": "youtube-Qp61G60wZZA#cue-246",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 451.239,
+      "text": "然后很多东西吃了卡路里"
+    },
+    {
+      "end_seconds": 455.719,
+      "id": "youtube-Qp61G60wZZA#cue-247",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 453.199,
+      "text": "然后锻炼的时候产出的消耗的卡路里"
+    },
+    {
+      "end_seconds": 457.159,
+      "id": "youtube-Qp61G60wZZA#cue-248",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.719,
+      "text": "什么的都算得特别清楚"
+    },
+    {
+      "end_seconds": 459.959,
+      "id": "youtube-Qp61G60wZZA#cue-249",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 457.159,
+      "text": "他甚至对自己的精力值什么都有估计"
+    },
+    {
+      "end_seconds": 461.199,
+      "id": "youtube-Qp61G60wZZA#cue-250",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 459.959,
+      "text": "然后他就基于这些东西"
+    },
+    {
+      "end_seconds": 463.199,
+      "id": "youtube-Qp61G60wZZA#cue-251",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 461.199,
+      "text": "把自己的人生变得非常optimized"
+    },
+    {
+      "end_seconds": 465.039,
+      "id": "youtube-Qp61G60wZZA#cue-252",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 463.199,
+      "text": "他就利用时间的效率非常高"
+    },
+    {
+      "end_seconds": 465.959,
+      "id": "youtube-Qp61G60wZZA#cue-253",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 465.039,
+      "text": "未必值得鼓励"
+    },
+    {
+      "end_seconds": 467.959,
+      "id": "youtube-Qp61G60wZZA#cue-254",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 465.959,
+      "text": "但是我觉得这种人就是"
+    },
+    {
+      "end_seconds": 468.92,
+      "id": "youtube-Qp61G60wZZA#cue-255",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 467.959,
+      "text": "其实算法大师"
+    },
+    {
+      "end_seconds": 470.279,
+      "id": "youtube-Qp61G60wZZA#cue-256",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 468.92,
+      "text": "可以这么说"
+    },
+    {
+      "end_seconds": 472.36,
+      "id": "youtube-Qp61G60wZZA#cue-257",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 470.279,
+      "text": "每个人有自己的人生选择"
+    },
+    {
+      "end_seconds": 474.719,
+      "id": "youtube-Qp61G60wZZA#cue-258",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 472.36,
+      "text": "然后他每个人有自己的方法论"
+    },
+    {
+      "end_seconds": 474.959,
+      "id": "youtube-Qp61G60wZZA#cue-259",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 474.719,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 477.12,
+      "id": "youtube-Qp61G60wZZA#cue-260",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 474.959,
+      "text": "他可能说我学了很多跟算法有关的东西"
+    },
+    {
+      "end_seconds": 478.959,
+      "id": "youtube-Qp61G60wZZA#cue-261",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 477.12,
+      "text": "所以我就愿意把这方面的东西"
+    },
+    {
+      "end_seconds": 481.0,
+      "id": "youtube-Qp61G60wZZA#cue-262",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 478.959,
+      "text": "量化的一些东西用到生活当中去"
+    },
+    {
+      "end_seconds": 482.48,
+      "id": "youtube-Qp61G60wZZA#cue-263",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 481.0,
+      "text": "然后当然不是每个人都这样"
+    },
+    {
+      "end_seconds": 483.959,
+      "id": "youtube-Qp61G60wZZA#cue-264",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 482.48,
+      "text": "其实你也可以学了之后你不用"
+    },
+    {
+      "end_seconds": 484.959,
+      "id": "youtube-Qp61G60wZZA#cue-265",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 483.959,
+      "text": "但是这是你自己的"
+    },
+    {
+      "end_seconds": 486.719,
+      "id": "youtube-Qp61G60wZZA#cue-266",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 484.959,
+      "text": "相当于是你自己最终的一个选择"
+    },
+    {
+      "end_seconds": 487.439,
+      "id": "youtube-Qp61G60wZZA#cue-267",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 486.719,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 489.199,
+      "id": "youtube-Qp61G60wZZA#cue-268",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 487.439,
+      "text": "那这是我们人生"
+    },
+    {
+      "end_seconds": 492.199,
+      "id": "youtube-Qp61G60wZZA#cue-269",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 489.24,
+      "text": "就是人生感觉对我来说不是那么复杂"
+    },
+    {
+      "end_seconds": 493.56,
+      "id": "youtube-Qp61G60wZZA#cue-270",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 492.199,
+      "text": "但是可能管理公司"
+    },
+    {
+      "end_seconds": 495.439,
+      "id": "youtube-Qp61G60wZZA#cue-271",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 493.56,
+      "text": "或者说是管理机器"
+    },
+    {
+      "end_seconds": 498.199,
+      "id": "youtube-Qp61G60wZZA#cue-272",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 495.439,
+      "text": "或者说是利用很大的算力去完成一些任务"
+    },
+    {
+      "end_seconds": 500.639,
+      "id": "youtube-Qp61G60wZZA#cue-273",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 498.199,
+      "text": "或者说操作很多机器去完成很多任务"
+    },
+    {
+      "end_seconds": 502.24,
+      "id": "youtube-Qp61G60wZZA#cue-274",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 500.639,
+      "text": "那这个时候可能算法就很重要了"
+    },
+    {
+      "end_seconds": 502.839,
+      "id": "youtube-Qp61G60wZZA#cue-275",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 502.24,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 506.079,
+      "id": "youtube-Qp61G60wZZA#cue-276",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 502.839,
+      "text": "我记得就是我之前去亚马逊的仓库"
+    },
+    {
+      "end_seconds": 506.8,
+      "id": "youtube-Qp61G60wZZA#cue-277",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 506.079,
+      "text": "参观过"
+    },
+    {
+      "end_seconds": 507.879,
+      "id": "youtube-Qp61G60wZZA#cue-278",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 506.8,
+      "text": "就是一进去"
+    },
+    {
+      "end_seconds": 509.48,
+      "id": "youtube-Qp61G60wZZA#cue-279",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 507.879,
+      "text": "好多好多仓库里边"
+    },
+    {
+      "end_seconds": 511.8,
+      "id": "youtube-Qp61G60wZZA#cue-280",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 509.48,
+      "text": "然后就几十万种商品放在一层"
+    },
+    {
+      "end_seconds": 513.919,
+      "id": "youtube-Qp61G60wZZA#cue-281",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 511.8,
+      "text": "那这个时候怎么样子把这个商品存进去"
+    },
+    {
+      "end_seconds": 515.48,
+      "id": "youtube-Qp61G60wZZA#cue-282",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 513.919,
+      "text": "或者取出来"
+    },
+    {
+      "end_seconds": 517.399,
+      "id": "youtube-Qp61G60wZZA#cue-283",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 515.48,
+      "text": "感觉就是很需要算法才能解决"
+    },
+    {
+      "end_seconds": 517.799,
+      "id": "youtube-Qp61G60wZZA#cue-284",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 517.439,
+      "text": "对"
+    },
+    {
+      "end_seconds": 519.84,
+      "id": "youtube-Qp61G60wZZA#cue-285",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 517.799,
+      "text": "这实际上是很有意思的一个问题"
+    },
+    {
+      "end_seconds": 521.399,
+      "id": "youtube-Qp61G60wZZA#cue-286",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 519.84,
+      "text": "就是说如果你想一下仓库"
+    },
+    {
+      "end_seconds": 523.6,
+      "id": "youtube-Qp61G60wZZA#cue-287",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 521.399,
+      "text": "仓库上有点像supermarket"
+    },
+    {
+      "end_seconds": 524.679,
+      "id": "youtube-Qp61G60wZZA#cue-288",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 523.6,
+      "text": "有点像超级市场"
+    },
+    {
+      "end_seconds": 526.319,
+      "id": "youtube-Qp61G60wZZA#cue-289",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 524.679,
+      "text": "然后里面有很多货物"
+    },
+    {
+      "end_seconds": 527.799,
+      "id": "youtube-Qp61G60wZZA#cue-290",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 526.319,
+      "text": "然后工作人员"
+    },
+    {
+      "end_seconds": 528.559,
+      "id": "youtube-Qp61G60wZZA#cue-291",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 527.799,
+      "text": "你要order"
+    },
+    {
+      "end_seconds": 529.399,
+      "id": "youtube-Qp61G60wZZA#cue-292",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 528.559,
+      "text": "你要买什么东西的话"
+    },
+    {
+      "end_seconds": 531.679,
+      "id": "youtube-Qp61G60wZZA#cue-293",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 529.399,
+      "text": "工作人员要到这个仓库里面去把这个东西拿出来"
+    },
+    {
+      "end_seconds": 532.799,
+      "id": "youtube-Qp61G60wZZA#cue-294",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 531.679,
+      "text": "你可能再一想"
+    },
+    {
+      "end_seconds": 534.759,
+      "id": "youtube-Qp61G60wZZA#cue-295",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 532.799,
+      "text": "这个仓库可能它就是一个跟supermarket"
+    },
+    {
+      "end_seconds": 536.079,
+      "id": "youtube-Qp61G60wZZA#cue-296",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 534.759,
+      "text": "一样的一个东西"
+    },
+    {
+      "end_seconds": 538.319,
+      "id": "youtube-Qp61G60wZZA#cue-297",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 536.079,
+      "text": "但是如果你真正到亚马逊的仓库里面去看的话"
+    },
+    {
+      "end_seconds": 539.24,
+      "id": "youtube-Qp61G60wZZA#cue-298",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 538.319,
+      "text": "就完全不是这样"
+    },
+    {
+      "end_seconds": 542.84,
+      "id": "youtube-Qp61G60wZZA#cue-299",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 539.24,
+      "text": "亚马逊的仓库里面货品的摆放都是非常随机的"
+    },
+    {
+      "end_seconds": 543.279,
+      "id": "youtube-Qp61G60wZZA#cue-300",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 542.84,
+      "text": "random"
+    },
+    {
+      "end_seconds": 543.72,
+      "id": "youtube-Qp61G60wZZA#cue-301",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.279,
+      "text": "对"
+    },
+    {
+      "end_seconds": 544.879,
+      "id": "youtube-Qp61G60wZZA#cue-302",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 543.72,
+      "text": "我去了以后也很吃惊"
+    },
+    {
+      "end_seconds": 547.0,
+      "id": "youtube-Qp61G60wZZA#cue-303",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 544.879,
+      "text": "这样子的话为什么会更有效率呢"
+    },
+    {
+      "end_seconds": 547.519,
+      "id": "youtube-Qp61G60wZZA#cue-304",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.039,
+      "text": "对"
+    },
+    {
+      "end_seconds": 547.759,
+      "id": "youtube-Qp61G60wZZA#cue-305",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.519,
+      "text": "对"
+    },
+    {
+      "end_seconds": 550.639,
+      "id": "youtube-Qp61G60wZZA#cue-306",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 547.759,
+      "text": "就是首先你要取货物的时候"
+    },
+    {
+      "end_seconds": 551.759,
+      "id": "youtube-Qp61G60wZZA#cue-307",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 550.639,
+      "text": "就是如果你是一个工人"
+    },
+    {
+      "end_seconds": 553.72,
+      "id": "youtube-Qp61G60wZZA#cue-308",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 551.759,
+      "text": "你然后我order了一个卫生纸"
+    },
+    {
+      "end_seconds": 555.44,
+      "id": "youtube-Qp61G60wZZA#cue-309",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 553.72,
+      "text": "然后你进去找卫生纸"
+    },
+    {
+      "end_seconds": 557.48,
+      "id": "youtube-Qp61G60wZZA#cue-310",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 555.44,
+      "text": "当然找东西实际上并不麻烦"
+    },
+    {
+      "end_seconds": 563.679,
+      "id": "youtube-Qp61G60wZZA#cue-311",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 557.48,
+      "text": "那个所有这些卫生纸在这个仓库的什么位置上都是已经注册或者定义好了的"
+    },
+    {
+      "end_seconds": 566.08,
+      "id": "youtube-Qp61G60wZZA#cue-312",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 563.679,
+      "text": "你让在自己的手机上面或者一个电脑上面一看"
+    },
+    {
+      "end_seconds": 568.2,
+      "id": "youtube-Qp61G60wZZA#cue-313",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 566.08,
+      "text": "他就告诉你最近的卫生纸在这个地方"
+    },
+    {
+      "end_seconds": 570.48,
+      "id": "youtube-Qp61G60wZZA#cue-314",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 568.2,
+      "text": "你作为一个取货的一个工人的话"
+    },
+    {
+      "end_seconds": 572.879,
+      "id": "youtube-Qp61G60wZZA#cue-315",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 570.48,
+      "text": "你就可以走最近的路径去那个地方就可以了"
+    },
+    {
+      "end_seconds": 573.36,
+      "id": "youtube-Qp61G60wZZA#cue-316",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 572.879,
+      "text": "这个地方"
+    },
+    {
+      "end_seconds": 575.799,
+      "id": "youtube-Qp61G60wZZA#cue-317",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 573.36,
+      "text": "这个这件取这个东西呢"
+    },
+    {
+      "end_seconds": 576.96,
+      "id": "youtube-Qp61G60wZZA#cue-318",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 575.799,
+      "text": "还挺容易的"
+    },
+    {
+      "end_seconds": 578.24,
+      "id": "youtube-Qp61G60wZZA#cue-319",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 576.96,
+      "text": "但是你放东西的时候"
+    },
+    {
+      "end_seconds": 581.84,
+      "id": "youtube-Qp61G60wZZA#cue-320",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 578.24,
+      "text": "如果卫生纸全都放在仓库的一个指定的位置的话"
+    },
+    {
+      "end_seconds": 583.48,
+      "id": "youtube-Qp61G60wZZA#cue-321",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 581.84,
+      "text": "你叫你走很远"
+    },
+    {
+      "end_seconds": 584.4,
+      "id": "youtube-Qp61G60wZZA#cue-322",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 583.48,
+      "text": "所有东西都放在那"
+    },
+    {
+      "end_seconds": 586.92,
+      "id": "youtube-Qp61G60wZZA#cue-323",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 584.4,
+      "text": "但是每次要有新的要有卫生纸要拿的时候"
+    },
+    {
+      "end_seconds": 588.68,
+      "id": "youtube-Qp61G60wZZA#cue-324",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 586.92,
+      "text": "你都要走一个很远的地方去那"
+    },
+    {
+      "end_seconds": 591.0,
+      "id": "youtube-Qp61G60wZZA#cue-325",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 588.68,
+      "text": "但是如果我我作为customer"
+    },
+    {
+      "end_seconds": 593.04,
+      "id": "youtube-Qp61G60wZZA#cue-326",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 591.0,
+      "text": "我买了一卷卫生纸和一个牙刷"
+    },
+    {
+      "end_seconds": 593.4,
+      "id": "youtube-Qp61G60wZZA#cue-327",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.04,
+      "text": "然后呢"
+    },
+    {
+      "end_seconds": 595.12,
+      "id": "youtube-Qp61G60wZZA#cue-328",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 593.4,
+      "text": "这两个东西又恰恰放在了不一样的地方"
+    },
+    {
+      "end_seconds": 596.28,
+      "id": "youtube-Qp61G60wZZA#cue-329",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 595.12,
+      "text": "那就要先到A地点"
+    },
+    {
+      "end_seconds": 597.68,
+      "id": "youtube-Qp61G60wZZA#cue-330",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 596.28,
+      "text": "再到B地点再回来"
+    },
+    {
+      "end_seconds": 600.92,
+      "id": "youtube-Qp61G60wZZA#cue-331",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 597.68,
+      "text": "但是如果这些东西在整个仓库里面是随机摆放的话"
+    },
+    {
+      "end_seconds": 602.6,
+      "id": "youtube-Qp61G60wZZA#cue-332",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 600.92,
+      "text": "就算比较均匀的随机摆放的话"
+    },
+    {
+      "end_seconds": 606.48,
+      "id": "youtube-Qp61G60wZZA#cue-333",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 602.6,
+      "text": "你就会发现你可以很容易找到两个非常近的地方"
+    },
+    {
+      "end_seconds": 607.56,
+      "id": "youtube-Qp61G60wZZA#cue-334",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 606.519,
+      "text": "然后就把这个取出来了"
+    },
+    {
+      "end_seconds": 610.639,
+      "id": "youtube-Qp61G60wZZA#cue-335",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 607.56,
+      "text": "实际上这样的话就可以提高效率"
+    },
+    {
+      "end_seconds": 610.879,
+      "id": "youtube-Qp61G60wZZA#cue-336",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 610.639,
+      "text": "对"
+    },
+    {
+      "end_seconds": 613.32,
+      "id": "youtube-Qp61G60wZZA#cue-337",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 610.879,
+      "text": "而这这就是对效率的一个追求"
+    },
+    {
+      "end_seconds": 614.56,
+      "id": "youtube-Qp61G60wZZA#cue-338",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 613.32,
+      "text": "而背后这个算法呢"
+    },
+    {
+      "end_seconds": 616.159,
+      "id": "youtube-Qp61G60wZZA#cue-339",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 614.56,
+      "text": "他有一套一套理论啊"
+    },
+    {
+      "end_seconds": 617.84,
+      "id": "youtube-Qp61G60wZZA#cue-340",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 616.159,
+      "text": "一套算法来支持这件事情"
+    },
+    {
+      "end_seconds": 618.159,
+      "id": "youtube-Qp61G60wZZA#cue-341",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 617.84,
+      "text": "对"
+    },
+    {
+      "end_seconds": 620.279,
+      "id": "youtube-Qp61G60wZZA#cue-342",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 618.159,
+      "text": "所以说背后的其实大家已经算好了"
+    },
+    {
+      "end_seconds": 622.2,
+      "id": "youtube-Qp61G60wZZA#cue-343",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 620.279,
+      "text": "这样子摆放是最有效率的"
+    },
+    {
+      "end_seconds": 623.92,
+      "id": "youtube-Qp61G60wZZA#cue-344",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 622.2,
+      "text": "而且其实我用了同样的资源是吧"
+    },
+    {
+      "end_seconds": 624.92,
+      "id": "youtube-Qp61G60wZZA#cue-345",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 623.92,
+      "text": "我同样的空间"
+    },
+    {
+      "end_seconds": 626.36,
+      "id": "youtube-Qp61G60wZZA#cue-346",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 624.92,
+      "text": "然后同样的东西"
+    },
+    {
+      "end_seconds": 629.519,
+      "id": "youtube-Qp61G60wZZA#cue-347",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 626.36,
+      "text": "可是我可以让我这个事情做的更快"
+    },
+    {
+      "end_seconds": 631.32,
+      "id": "youtube-Qp61G60wZZA#cue-348",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 629.519,
+      "text": "那这个就是挺神奇的一个地方"
+    },
+    {
+      "end_seconds": 631.6,
+      "id": "youtube-Qp61G60wZZA#cue-349",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 631.32,
+      "text": "对"
+    },
+    {
+      "end_seconds": 634.44,
+      "id": "youtube-Qp61G60wZZA#cue-350",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 631.6,
+      "text": "这个效率这件事是算法特别追求的一个目标"
+    },
+    {
+      "end_seconds": 635.8,
+      "id": "youtube-Qp61G60wZZA#cue-351",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 634.44,
+      "text": "就是首先要把事情做成"
+    },
+    {
+      "end_seconds": 637.679,
+      "id": "youtube-Qp61G60wZZA#cue-352",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 635.799,
+      "text": "其次就是说我们要追求效率"
+    },
+    {
+      "end_seconds": 639.599,
+      "id": "youtube-Qp61G60wZZA#cue-353",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 637.679,
+      "text": "再把事情做成的情况下效率尽量的高"
+    },
+    {
+      "end_seconds": 640.279,
+      "id": "youtube-Qp61G60wZZA#cue-354",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 639.599,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 641.839,
+      "id": "youtube-Qp61G60wZZA#cue-355",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 640.279,
+      "text": "就我想起来以前韩信点兵"
+    },
+    {
+      "end_seconds": 643.12,
+      "id": "youtube-Qp61G60wZZA#cue-356",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 641.839,
+      "text": "这是不是也是一个算法"
+    },
+    {
+      "end_seconds": 645.399,
+      "id": "youtube-Qp61G60wZZA#cue-357",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 643.12,
+      "text": "韩信点兵多多益善是吧"
+    },
+    {
+      "end_seconds": 646.679,
+      "id": "youtube-Qp61G60wZZA#cue-358",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 645.399,
+      "text": "韩信将兵多多益善"
+    },
+    {
+      "end_seconds": 647.799,
+      "id": "youtube-Qp61G60wZZA#cue-359",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 646.679,
+      "text": "那韩信点兵是什么"
+    },
+    {
+      "end_seconds": 649.839,
+      "id": "youtube-Qp61G60wZZA#cue-360",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 647.799,
+      "text": "好像就是说他用了一个很快的方法"
+    },
+    {
+      "end_seconds": 650.719,
+      "id": "youtube-Qp61G60wZZA#cue-361",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 649.839,
+      "text": "然后下面的人报数"
+    },
+    {
+      "end_seconds": 653.399,
+      "id": "youtube-Qp61G60wZZA#cue-362",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 650.719,
+      "text": "然后就知道了这练兵场上多少个人"
+    },
+    {
+      "end_seconds": 654.919,
+      "id": "youtube-Qp61G60wZZA#cue-363",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 653.399,
+      "text": "哦"
+    },
+    {
+      "end_seconds": 657.919,
+      "id": "youtube-Qp61G60wZZA#cue-364",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 654.919,
+      "text": "那我那我听起来应该应该是一个很有意思的一个算法"
+    },
+    {
+      "end_seconds": 658.639,
+      "id": "youtube-Qp61G60wZZA#cue-365",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 657.919,
+      "text": "哎呀不可"
+    },
+    {
+      "end_seconds": 659.799,
+      "id": "youtube-Qp61G60wZZA#cue-366",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 658.639,
+      "text": "我这人们这是不够"
+    },
+    {
+      "end_seconds": 660.639,
+      "id": "youtube-Qp61G60wZZA#cue-367",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 659.799,
+      "text": "不够不够"
+    },
+    {
+      "end_seconds": 661.639,
+      "id": "youtube-Qp61G60wZZA#cue-368",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 660.639,
+      "text": "哈哈哈哈"
+    },
+    {
+      "end_seconds": 663.519,
+      "id": "youtube-Qp61G60wZZA#cue-369",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 662.559,
+      "text": "但大概有一个意思"
+    },
+    {
+      "end_seconds": 664.039,
+      "id": "youtube-Qp61G60wZZA#cue-370",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 663.519,
+      "text": "我觉得应该是"
+    },
+    {
+      "end_seconds": 665.199,
+      "id": "youtube-Qp61G60wZZA#cue-371",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 664.039,
+      "text": "你来解释解释"
+    },
+    {
+      "end_seconds": 665.919,
+      "id": "youtube-Qp61G60wZZA#cue-372",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 665.199,
+      "text": "你来解释解释"
+    },
+    {
+      "end_seconds": 666.839,
+      "id": "youtube-Qp61G60wZZA#cue-373",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 665.919,
+      "text": "其实也就记得这个"
+    },
+    {
+      "end_seconds": 667.439,
+      "id": "youtube-Qp61G60wZZA#cue-374",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 666.839,
+      "text": "哈哈哈哈"
+    },
+    {
+      "end_seconds": 668.079,
+      "id": "youtube-Qp61G60wZZA#cue-375",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 667.439,
+      "text": "都不记得了"
+    },
+    {
+      "end_seconds": 668.679,
+      "id": "youtube-Qp61G60wZZA#cue-376",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.079,
+      "text": "哈哈哈哈"
+    },
+    {
+      "end_seconds": 669.519,
+      "id": "youtube-Qp61G60wZZA#cue-377",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 668.679,
+      "text": "大概就是一个算法"
+    },
+    {
+      "end_seconds": 671.24,
+      "id": "youtube-Qp61G60wZZA#cue-378",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 670.519,
+      "text": "就算你"
+    },
+    {
+      "end_seconds": 673.12,
+      "id": "youtube-Qp61G60wZZA#cue-379",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 671.24,
+      "text": "那我这还有两个问题吧"
+    },
+    {
+      "end_seconds": 673.399,
+      "id": "youtube-Qp61G60wZZA#cue-380",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 673.12,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 675.719,
+      "id": "youtube-Qp61G60wZZA#cue-381",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 673.399,
+      "text": "第一个就是大家讲到算法的时候"
+    },
+    {
+      "end_seconds": 677.439,
+      "id": "youtube-Qp61G60wZZA#cue-382",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 675.719,
+      "text": "其实好像很多定义的样子"
+    },
+    {
+      "end_seconds": 678.399,
+      "id": "youtube-Qp61G60wZZA#cue-383",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 677.439,
+      "text": "比如说你刚刚说"
+    },
+    {
+      "end_seconds": 679.679,
+      "id": "youtube-Qp61G60wZZA#cue-384",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 678.399,
+      "text": "我们生产论语是一种算法"
+    },
+    {
+      "end_seconds": 680.079,
+      "id": "youtube-Qp61G60wZZA#cue-385",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 679.679,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 682.079,
+      "id": "youtube-Qp61G60wZZA#cue-386",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 680.079,
+      "text": "然后大家在刷题的时候"
+    },
+    {
+      "end_seconds": 683.679,
+      "id": "youtube-Qp61G60wZZA#cue-387",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 682.079,
+      "text": "也会要学算法数据结构"
+    },
+    {
+      "end_seconds": 684.36,
+      "id": "youtube-Qp61G60wZZA#cue-388",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 683.679,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 686.559,
+      "id": "youtube-Qp61G60wZZA#cue-389",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 684.36,
+      "text": "然后国内现在很多这个"
+    },
+    {
+      "end_seconds": 688.039,
+      "id": "youtube-Qp61G60wZZA#cue-390",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 686.559,
+      "text": "工程师叫算法工程师"
+    },
+    {
+      "end_seconds": 689.399,
+      "id": "youtube-Qp61G60wZZA#cue-391",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 688.039,
+      "text": "专门叫算法工程师"
+    },
+    {
+      "end_seconds": 690.919,
+      "id": "youtube-Qp61G60wZZA#cue-392",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 689.399,
+      "text": "这个都是一个意思吗"
+    },
+    {
+      "end_seconds": 693.439,
+      "id": "youtube-Qp61G60wZZA#cue-393",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 690.919,
+      "text": "还是其实大家是指的这个算法的不同部分"
+    },
+    {
+      "end_seconds": 695.919,
+      "id": "youtube-Qp61G60wZZA#cue-394",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 695.039,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 696.639,
+      "id": "youtube-Qp61G60wZZA#cue-395",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 695.919,
+      "text": "可能有一"
+    },
+    {
+      "end_seconds": 697.959,
+      "id": "youtube-Qp61G60wZZA#cue-396",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 696.639,
+      "text": "还有很多相同的部分"
+    },
+    {
+      "end_seconds": 700.599,
+      "id": "youtube-Qp61G60wZZA#cue-397",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 697.959,
+      "text": "就是算法实际上是一种解决问题的一种"
+    },
+    {
+      "end_seconds": 701.879,
+      "id": "youtube-Qp61G60wZZA#cue-398",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 700.599,
+      "text": "类似于思维逻辑"
+    },
+    {
+      "end_seconds": 703.399,
+      "id": "youtube-Qp61G60wZZA#cue-399",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 701.879,
+      "text": "然后你要是说在网上刷题"
+    },
+    {
+      "end_seconds": 704.559,
+      "id": "youtube-Qp61G60wZZA#cue-400",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 703.399,
+      "text": "也有做一些算法题"
+    },
+    {
+      "end_seconds": 706.879,
+      "id": "youtube-Qp61G60wZZA#cue-401",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 704.559,
+      "text": "实际上它背后有一些"
+    },
+    {
+      "end_seconds": 707.48,
+      "id": "youtube-Qp61G60wZZA#cue-402",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 706.879,
+      "text": "呃"
+    },
+    {
+      "end_seconds": 710.159,
+      "id": "youtube-Qp61G60wZZA#cue-403",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 707.48,
+      "text": "有几个一定数量的一些思维逻辑"
+    },
+    {
+      "end_seconds": 711.519,
+      "id": "youtube-Qp61G60wZZA#cue-404",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 710.159,
+      "text": "然后比如说动态规划呀"
+    },
+    {
+      "end_seconds": 712.439,
+      "id": "youtube-Qp61G60wZZA#cue-405",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 711.519,
+      "text": "或者二分法呀"
+    },
+    {
+      "end_seconds": 713.12,
+      "id": "youtube-Qp61G60wZZA#cue-406",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 712.439,
+      "text": "这类东西"
+    },
+    {
+      "end_seconds": 715.199,
+      "id": "youtube-Qp61G60wZZA#cue-407",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 713.12,
+      "text": "如果你把这些思维逻辑理解的话"
+    },
+    {
+      "end_seconds": 715.799,
+      "id": "youtube-Qp61G60wZZA#cue-408",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 715.199,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 716.719,
+      "id": "youtube-Qp61G60wZZA#cue-409",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 715.799,
+      "text": "解决这些问题"
+    },
+    {
+      "end_seconds": 717.679,
+      "id": "youtube-Qp61G60wZZA#cue-410",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 716.719,
+      "text": "实际上就是说"
+    },
+    {
+      "end_seconds": 719.199,
+      "id": "youtube-Qp61G60wZZA#cue-411",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 717.679,
+      "text": "特别特别问题特别处理"
+    },
+    {
+      "end_seconds": 720.799,
+      "id": "youtube-Qp61G60wZZA#cue-412",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 719.199,
+      "text": "但是我的这个"
+    },
+    {
+      "end_seconds": 722.799,
+      "id": "youtube-Qp61G60wZZA#cue-413",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 720.799,
+      "text": "general的背后的逻辑是一样的"
+    },
+    {
+      "end_seconds": 723.079,
+      "id": "youtube-Qp61G60wZZA#cue-414",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 722.799,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 724.639,
+      "id": "youtube-Qp61G60wZZA#cue-415",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 723.08,
+      "text": "然后你要说算法工程师"
+    },
+    {
+      "end_seconds": 726.4,
+      "id": "youtube-Qp61G60wZZA#cue-416",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 724.639,
+      "text": "算法工程师必须得懂这些逻辑"
+    },
+    {
+      "end_seconds": 728.32,
+      "id": "youtube-Qp61G60wZZA#cue-417",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 726.4,
+      "text": "他才能真正遇到一个问题的时候"
+    },
+    {
+      "end_seconds": 730.2,
+      "id": "youtube-Qp61G60wZZA#cue-418",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 728.32,
+      "text": "设计出一个好的方法解决它"
+    },
+    {
+      "end_seconds": 731.48,
+      "id": "youtube-Qp61G60wZZA#cue-419",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 730.2,
+      "text": "并且解决的更快"
+    },
+    {
+      "end_seconds": 732.44,
+      "id": "youtube-Qp61G60wZZA#cue-420",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 731.48,
+      "text": "当然作为工程师呢"
+    },
+    {
+      "end_seconds": 735.16,
+      "id": "youtube-Qp61G60wZZA#cue-421",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 732.44,
+      "text": "你还肯定要把这个东西要真正写成代码"
+    },
+    {
+      "end_seconds": 736.0,
+      "id": "youtube-Qp61G60wZZA#cue-422",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 735.16,
+      "text": "写成产品"
+    },
+    {
+      "end_seconds": 737.72,
+      "id": "youtube-Qp61G60wZZA#cue-423",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 736.0,
+      "text": "让它真正在计算机上的运行"
+    },
+    {
+      "end_seconds": 739.08,
+      "id": "youtube-Qp61G60wZZA#cue-424",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 737.72,
+      "text": "而不是只是停留在"
+    },
+    {
+      "end_seconds": 740.32,
+      "id": "youtube-Qp61G60wZZA#cue-425",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 739.08,
+      "text": "就像是你做饭"
+    },
+    {
+      "end_seconds": 741.36,
+      "id": "youtube-Qp61G60wZZA#cue-426",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 740.32,
+      "text": "我给你一个recipe"
+    },
+    {
+      "end_seconds": 742.24,
+      "id": "youtube-Qp61G60wZZA#cue-427",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 741.36,
+      "text": "你知道怎么做"
+    },
+    {
+      "end_seconds": 743.2,
+      "id": "youtube-Qp61G60wZZA#cue-428",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 742.24,
+      "text": "但是你从来没做过"
+    },
+    {
+      "end_seconds": 744.48,
+      "id": "youtube-Qp61G60wZZA#cue-429",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 743.2,
+      "text": "那你也不是一个厨师"
+    },
+    {
+      "end_seconds": 745.759,
+      "id": "youtube-Qp61G60wZZA#cue-430",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 744.48,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 746.84,
+      "id": "youtube-Qp61G60wZZA#cue-431",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 745.759,
+      "text": "所以算法是一个逻辑"
+    },
+    {
+      "end_seconds": 749.6,
+      "id": "youtube-Qp61G60wZZA#cue-432",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 746.84,
+      "text": "然后你通过代码把这个逻辑变成一个"
+    },
+    {
+      "end_seconds": 750.4,
+      "id": "youtube-Qp61G60wZZA#cue-433",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 749.6,
+      "text": "程序"
+    },
+    {
+      "end_seconds": 750.84,
+      "id": "youtube-Qp61G60wZZA#cue-434",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 750.4,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 753.12,
+      "id": "youtube-Qp61G60wZZA#cue-435",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 750.879,
+      "text": "那第二个就是"
+    },
+    {
+      "end_seconds": 755.44,
+      "id": "youtube-Qp61G60wZZA#cue-436",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 753.12,
+      "text": "算法就是为什么让你这么"
+    },
+    {
+      "end_seconds": 756.96,
+      "id": "youtube-Qp61G60wZZA#cue-437",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 755.44,
+      "text": "就是你为什么对算法这么interested"
+    },
+    {
+      "end_seconds": 758.8,
+      "id": "youtube-Qp61G60wZZA#cue-438",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 756.96,
+      "text": "是不是它因为它设计很精巧"
+    },
+    {
+      "end_seconds": 760.6,
+      "id": "youtube-Qp61G60wZZA#cue-439",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 758.8,
+      "text": "给你一种秩序上的快感"
+    },
+    {
+      "end_seconds": 761.36,
+      "id": "youtube-Qp61G60wZZA#cue-440",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 760.6,
+      "text": "对"
+    },
+    {
+      "end_seconds": 761.96,
+      "id": "youtube-Qp61G60wZZA#cue-441",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 761.36,
+      "text": "有"
+    },
+    {
+      "end_seconds": 762.92,
+      "id": "youtube-Qp61G60wZZA#cue-442",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 761.96,
+      "text": "绝对是有的"
+    },
+    {
+      "end_seconds": 763.6,
+      "id": "youtube-Qp61G60wZZA#cue-443",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 762.92,
+      "text": "就首先"
+    },
+    {
+      "end_seconds": 764.6,
+      "id": "youtube-Qp61G60wZZA#cue-444",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 763.6,
+      "text": "实际上有两点"
+    },
+    {
+      "end_seconds": 765.8,
+      "id": "youtube-Qp61G60wZZA#cue-445",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 764.6,
+      "text": "我们说到算法的时候"
+    },
+    {
+      "end_seconds": 766.759,
+      "id": "youtube-Qp61G60wZZA#cue-446",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 765.8,
+      "text": "我会经常说"
+    },
+    {
+      "end_seconds": 768.519,
+      "id": "youtube-Qp61G60wZZA#cue-447",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 766.759,
+      "text": "有一部分是数学模型的部分"
+    },
+    {
+      "end_seconds": 769.759,
+      "id": "youtube-Qp61G60wZZA#cue-448",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 768.519,
+      "text": "就是你要解决一个实际问题"
+    },
+    {
+      "end_seconds": 771.04,
+      "id": "youtube-Qp61G60wZZA#cue-449",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 769.759,
+      "text": "你首先得理解这个问题"
+    },
+    {
+      "end_seconds": 772.36,
+      "id": "youtube-Qp61G60wZZA#cue-450",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 771.04,
+      "text": "你要用一种量化的方法"
+    },
+    {
+      "end_seconds": 774.32,
+      "id": "youtube-Qp61G60wZZA#cue-451",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 772.36,
+      "text": "用一种逻辑的方法把它刻画出来"
+    },
+    {
+      "end_seconds": 775.48,
+      "id": "youtube-Qp61G60wZZA#cue-452",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 774.32,
+      "text": "这个是模型的部分"
+    },
+    {
+      "end_seconds": 776.84,
+      "id": "youtube-Qp61G60wZZA#cue-453",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 775.48,
+      "text": "一旦你刻画出来之后"
+    },
+    {
+      "end_seconds": 777.36,
+      "id": "youtube-Qp61G60wZZA#cue-454",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 776.84,
+      "text": "你会发现"
+    },
+    {
+      "end_seconds": 779.96,
+      "id": "youtube-Qp61G60wZZA#cue-455",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 777.36,
+      "text": "我要解决其中的某一个特别的一个问题"
+    },
+    {
+      "end_seconds": 781.519,
+      "id": "youtube-Qp61G60wZZA#cue-456",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 780.0,
+      "text": "那这个时候你可能就要用"
+    },
+    {
+      "end_seconds": 782.8,
+      "id": "youtube-Qp61G60wZZA#cue-457",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 781.519,
+      "text": "用算法来做"
+    },
+    {
+      "end_seconds": 784.32,
+      "id": "youtube-Qp61G60wZZA#cue-458",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 782.8,
+      "text": "但是算法有很多种"
+    },
+    {
+      "end_seconds": 785.6,
+      "id": "youtube-Qp61G60wZZA#cue-459",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 784.32,
+      "text": "你可能能最开始先设计"
+    },
+    {
+      "end_seconds": 786.84,
+      "id": "youtube-Qp61G60wZZA#cue-460",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 785.6,
+      "text": "我用一个特别蠢的算法"
+    },
+    {
+      "end_seconds": 787.4,
+      "id": "youtube-Qp61G60wZZA#cue-461",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 786.84,
+      "text": "比如说"
+    },
+    {
+      "end_seconds": 788.68,
+      "id": "youtube-Qp61G60wZZA#cue-462",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 787.4,
+      "text": "那个暴力解法"
+    },
+    {
+      "end_seconds": 789.24,
+      "id": "youtube-Qp61G60wZZA#cue-463",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 788.68,
+      "text": "那个"
+    },
+    {
+      "end_seconds": 790.639,
+      "id": "youtube-Qp61G60wZZA#cue-464",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 789.24,
+      "text": "我要猜你的密码是什么"
+    },
+    {
+      "end_seconds": 792.96,
+      "id": "youtube-Qp61G60wZZA#cue-465",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 790.639,
+      "text": "当然猜密码也没有什么更好的别的方法去猜"
+    },
+    {
+      "end_seconds": 793.6,
+      "id": "youtube-Qp61G60wZZA#cue-466",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 792.96,
+      "text": "就是说"
+    },
+    {
+      "end_seconds": 794.04,
+      "id": "youtube-Qp61G60wZZA#cue-467",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 793.6,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 795.04,
+      "id": "youtube-Qp61G60wZZA#cue-468",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 794.04,
+      "text": "那"
+    },
+    {
+      "end_seconds": 797.16,
+      "id": "youtube-Qp61G60wZZA#cue-469",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 795.04,
+      "text": "我们举一个什么例子变化"
+    },
+    {
+      "end_seconds": 798.84,
+      "id": "youtube-Qp61G60wZZA#cue-470",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 797.16,
+      "text": "韩信点兵的例子"
+    },
+    {
+      "end_seconds": 799.32,
+      "id": "youtube-Qp61G60wZZA#cue-471",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 798.84,
+      "text": "哦"
+    },
+    {
+      "end_seconds": 801.28,
+      "id": "youtube-Qp61G60wZZA#cue-472",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 799.32,
+      "text": "点还是"
+    },
+    {
+      "end_seconds": 802.12,
+      "id": "youtube-Qp61G60wZZA#cue-473",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 801.28,
+      "text": "对"
+    },
+    {
+      "end_seconds": 803.519,
+      "id": "youtube-Qp61G60wZZA#cue-474",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 802.12,
+      "text": "韩信点兵算不懂"
+    },
+    {
+      "end_seconds": 803.96,
+      "id": "youtube-Qp61G60wZZA#cue-475",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 803.519,
+      "text": "就是说"
+    },
+    {
+      "end_seconds": 804.48,
+      "id": "youtube-Qp61G60wZZA#cue-476",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 803.96,
+      "text": "韩信点兵"
+    },
+    {
+      "end_seconds": 808.2,
+      "id": "youtube-Qp61G60wZZA#cue-477",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 804.48,
+      "text": "我们可以韩信一个人过去一个一个一个一个一个人的点"
+    },
+    {
+      "end_seconds": 809.16,
+      "id": "youtube-Qp61G60wZZA#cue-478",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 808.2,
+      "text": "这样的效率很低"
+    },
+    {
+      "end_seconds": 809.56,
+      "id": "youtube-Qp61G60wZZA#cue-479",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 809.16,
+      "text": "然后呢"
+    },
+    {
+      "end_seconds": 811.119,
+      "id": "youtube-Qp61G60wZZA#cue-480",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 809.559,
+      "text": "但是他他新想出一个好方法"
+    },
+    {
+      "end_seconds": 812.319,
+      "id": "youtube-Qp61G60wZZA#cue-481",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 811.119,
+      "text": "说我告诉你们两个将军"
+    },
+    {
+      "end_seconds": 813.959,
+      "id": "youtube-Qp61G60wZZA#cue-482",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 812.319,
+      "text": "你们各自把自己队伍点完了"
+    },
+    {
+      "end_seconds": 814.879,
+      "id": "youtube-Qp61G60wZZA#cue-483",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 813.959,
+      "text": "然后这两个将军也说"
+    },
+    {
+      "end_seconds": 815.0,
+      "id": "youtube-Qp61G60wZZA#cue-484",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 814.879,
+      "text": "哎"
+    },
+    {
+      "end_seconds": 816.439,
+      "id": "youtube-Qp61G60wZZA#cue-485",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 815.0,
+      "text": "这哥就给这两个旅长"
+    },
+    {
+      "end_seconds": 818.079,
+      "id": "youtube-Qp61G60wZZA#cue-486",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 816.439,
+      "text": "你们把我这个东西点完了"
+    },
+    {
+      "end_seconds": 819.639,
+      "id": "youtube-Qp61G60wZZA#cue-487",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 818.079,
+      "text": "然后效率就最高"
+    },
+    {
+      "end_seconds": 820.759,
+      "id": "youtube-Qp61G60wZZA#cue-488",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 819.639,
+      "text": "我要搜一下韩信点兵"
+    },
+    {
+      "end_seconds": 821.639,
+      "id": "youtube-Qp61G60wZZA#cue-489",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 820.759,
+      "text": "哈哈"
+    },
+    {
+      "end_seconds": 821.959,
+      "id": "youtube-Qp61G60wZZA#cue-490",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 821.639,
+      "text": "好"
+    },
+    {
+      "end_seconds": 823.359,
+      "id": "youtube-Qp61G60wZZA#cue-491",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 821.959,
+      "text": "暂停五分钟啊"
+    },
+    {
+      "end_seconds": 825.239,
+      "id": "youtube-Qp61G60wZZA#cue-492",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 823.359,
+      "text": "A few moments later"
+    },
+    {
+      "end_seconds": 829.959,
+      "id": "youtube-Qp61G60wZZA#cue-493",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 829.239,
+      "text": "好"
+    },
+    {
+      "end_seconds": 830.199,
+      "id": "youtube-Qp61G60wZZA#cue-494",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 829.959,
+      "text": "好了"
+    },
+    {
+      "end_seconds": 832.879,
+      "id": "youtube-Qp61G60wZZA#cue-495",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 830.199,
+      "text": "我们用五分钟的时间看了一下韩信点兵是什么"
+    },
+    {
+      "end_seconds": 835.439,
+      "id": "youtube-Qp61G60wZZA#cue-496",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 832.879,
+      "text": "但好像跟我们要讲的东西没有太大的关系"
+    },
+    {
+      "end_seconds": 836.199,
+      "id": "youtube-Qp61G60wZZA#cue-497",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 835.439,
+      "text": "哈哈哈"
+    },
+    {
+      "end_seconds": 837.079,
+      "id": "youtube-Qp61G60wZZA#cue-498",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 836.199,
+      "text": "可以把它剪掉了"
+    },
+    {
+      "end_seconds": 839.0,
+      "id": "youtube-Qp61G60wZZA#cue-499",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 837.079,
+      "text": "整个整个韩信点兵的都剪掉了"
+    },
+    {
+      "end_seconds": 840.279,
+      "id": "youtube-Qp61G60wZZA#cue-500",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 839.0,
+      "text": "我们再找一个什么其他的例子吧"
+    },
+    {
+      "end_seconds": 841.559,
+      "id": "youtube-Qp61G60wZZA#cue-501",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 840.279,
+      "text": "啊"
+    },
+    {
+      "end_seconds": 844.039,
+      "id": "youtube-Qp61G60wZZA#cue-502",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 841.559,
+      "text": "愚蠢的愚蠢的算法到高级的算法"
+    },
+    {
+      "end_seconds": 845.24,
+      "id": "youtube-Qp61G60wZZA#cue-503",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 844.039,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 845.96,
+      "id": "youtube-Qp61G60wZZA#cue-504",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 845.24,
+      "text": "的例子"
+    },
+    {
+      "end_seconds": 848.32,
+      "id": "youtube-Qp61G60wZZA#cue-505",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 845.96,
+      "text": "我们就还说刚才就还说刚才那件事吧"
+    },
+    {
+      "end_seconds": 850.0,
+      "id": "youtube-Qp61G60wZZA#cue-506",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 848.32,
+      "text": "叫还是韩信点兵这件事"
+    },
+    {
+      "end_seconds": 851.399,
+      "id": "youtube-Qp61G60wZZA#cue-507",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 850.0,
+      "text": "如果有两种做法去做"
+    },
+    {
+      "end_seconds": 852.84,
+      "id": "youtube-Qp61G60wZZA#cue-508",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 851.399,
+      "text": "韩信有一个傻的韩信"
+    },
+    {
+      "end_seconds": 855.6,
+      "id": "youtube-Qp61G60wZZA#cue-509",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 854.2,
+      "text": "有一个傻的韩信呢"
+    },
+    {
+      "end_seconds": 857.679,
+      "id": "youtube-Qp61G60wZZA#cue-510",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 855.6,
+      "text": "然后韩信就会一个一个一个人"
+    },
+    {
+      "end_seconds": 858.919,
+      "id": "youtube-Qp61G60wZZA#cue-511",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 857.679,
+      "text": "那一共如果有一万个人"
+    },
+    {
+      "end_seconds": 861.159,
+      "id": "youtube-Qp61G60wZZA#cue-512",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 858.919,
+      "text": "他就要点一万次"
+    },
+    {
+      "end_seconds": 862.84,
+      "id": "youtube-Qp61G60wZZA#cue-513",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 862.2,
+      "text": "但是呢"
+    },
+    {
+      "end_seconds": 865.559,
+      "id": "youtube-Qp61G60wZZA#cue-514",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 862.84,
+      "text": "那然后并且花的时间就可能是一万秒"
+    },
+    {
+      "end_seconds": 865.799,
+      "id": "youtube-Qp61G60wZZA#cue-515",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 865.559,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 866.639,
+      "id": "youtube-Qp61G60wZZA#cue-516",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 865.799,
+      "text": "就很长时间了"
+    },
+    {
+      "end_seconds": 868.879,
+      "id": "youtube-Qp61G60wZZA#cue-517",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 866.639,
+      "text": "但是如果他把这个任务分派给两个人去做"
+    },
+    {
+      "end_seconds": 870.559,
+      "id": "youtube-Qp61G60wZZA#cue-518",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 869.279,
+      "text": "这个这个军长"
+    },
+    {
+      "end_seconds": 871.279,
+      "id": "youtube-Qp61G60wZZA#cue-519",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 870.559,
+      "text": "你就点这边的"
+    },
+    {
+      "end_seconds": 872.639,
+      "id": "youtube-Qp61G60wZZA#cue-520",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 871.279,
+      "text": "那个军长你去点那边的"
+    },
+    {
+      "end_seconds": 875.519,
+      "id": "youtube-Qp61G60wZZA#cue-521",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 872.639,
+      "text": "然后这两个军长又可以同时的去"
+    },
+    {
+      "end_seconds": 877.439,
+      "id": "youtube-Qp61G60wZZA#cue-522",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 875.519,
+      "text": "再把这个任务分配给底下两个师长"
+    },
+    {
+      "end_seconds": 877.559,
+      "id": "youtube-Qp61G60wZZA#cue-523",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 877.439,
+      "text": "哎"
+    },
+    {
+      "end_seconds": 878.0,
+      "id": "youtube-Qp61G60wZZA#cue-524",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 877.559,
+      "text": "这个师长"
+    },
+    {
+      "end_seconds": 879.12,
+      "id": "youtube-Qp61G60wZZA#cue-525",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 878.0,
+      "text": "你就点你们是有多少人"
+    },
+    {
+      "end_seconds": 880.919,
+      "id": "youtube-Qp61G60wZZA#cue-526",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 879.12,
+      "text": "这个事让你点你们是只有几个人"
+    },
+    {
+      "end_seconds": 883.48,
+      "id": "youtube-Qp61G60wZZA#cue-527",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 880.919,
+      "text": "这些东这些信息全部分散化"
+    },
+    {
+      "end_seconds": 885.439,
+      "id": "youtube-Qp61G60wZZA#cue-528",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 883.48,
+      "text": "然后最后再到每个班"
+    },
+    {
+      "end_seconds": 887.919,
+      "id": "youtube-Qp61G60wZZA#cue-529",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 885.439,
+      "text": "每个班长就数自己班有几个人十个人数完了以后"
+    },
+    {
+      "end_seconds": 888.879,
+      "id": "youtube-Qp61G60wZZA#cue-530",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 887.919,
+      "text": "告诉自己的上级"
+    },
+    {
+      "end_seconds": 890.879,
+      "id": "youtube-Qp61G60wZZA#cue-531",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 888.879,
+      "text": "这样的话就可以并行去计算这件事"
+    },
+    {
+      "end_seconds": 892.039,
+      "id": "youtube-Qp61G60wZZA#cue-532",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 890.879,
+      "text": "那整个花的时间就少了"
+    },
+    {
+      "end_seconds": 893.48,
+      "id": "youtube-Qp61G60wZZA#cue-533",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 892.039,
+      "text": "这就是一个"
+    },
+    {
+      "end_seconds": 896.44,
+      "id": "youtube-Qp61G60wZZA#cue-534",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 893.48,
+      "text": "典型的一个蠢的方法和一个稍微聪明一点方法"
+    },
+    {
+      "end_seconds": 899.12,
+      "id": "youtube-Qp61G60wZZA#cue-535",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 896.44,
+      "text": "那其实我在学计算机的过程中"
+    },
+    {
+      "end_seconds": 901.4,
+      "id": "youtube-Qp61G60wZZA#cue-536",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 899.12,
+      "text": "一直对这个动态规划这个东西"
+    },
+    {
+      "end_seconds": 903.0,
+      "id": "youtube-Qp61G60wZZA#cue-537",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 901.4,
+      "text": "就是你学了以后"
+    },
+    {
+      "end_seconds": 905.6,
+      "id": "youtube-Qp61G60wZZA#cue-538",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 903.0,
+      "text": "可是我觉得我没有一个很直观的理解"
+    },
+    {
+      "end_seconds": 907.28,
+      "id": "youtube-Qp61G60wZZA#cue-539",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 905.6,
+      "text": "要不来这个做个例子"
+    },
+    {
+      "end_seconds": 909.04,
+      "id": "youtube-Qp61G60wZZA#cue-540",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 907.28,
+      "text": "给我们讲讲动态规划的思想是什么吧"
+    },
+    {
+      "end_seconds": 912.96,
+      "id": "youtube-Qp61G60wZZA#cue-541",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 910.64,
+      "text": "那那那先点定了"
+    },
+    {
+      "end_seconds": 914.0,
+      "id": "youtube-Qp61G60wZZA#cue-542",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 912.96,
+      "text": "不是先点定的例子"
+    },
+    {
+      "end_seconds": 915.04,
+      "id": "youtube-Qp61G60wZZA#cue-543",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 914.0,
+      "text": "我说就是在这个"
+    },
+    {
+      "end_seconds": 918.48,
+      "id": "youtube-Qp61G60wZZA#cue-544",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 915.04,
+      "text": "在这这次正好来给我们讲讲动态规划是干什么的吧"
+    },
+    {
+      "end_seconds": 920.04,
+      "id": "youtube-Qp61G60wZZA#cue-545",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 918.48,
+      "text": "我不知道你原来玩没玩过一个游戏"
+    },
+    {
+      "end_seconds": 921.08,
+      "id": "youtube-Qp61G60wZZA#cue-546",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 920.04,
+      "text": "叫做大航海时代四"
+    },
+    {
+      "end_seconds": 922.12,
+      "id": "youtube-Qp61G60wZZA#cue-547",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 921.08,
+      "text": "是一个特别好玩的游戏"
+    },
+    {
+      "end_seconds": 922.88,
+      "id": "youtube-Qp61G60wZZA#cue-548",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 922.12,
+      "text": "如果你没玩过的话"
+    },
+    {
+      "end_seconds": 924.56,
+      "id": "youtube-Qp61G60wZZA#cue-549",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 922.88,
+      "text": "我极度推荐你去玩一玩"
+    },
+    {
+      "end_seconds": 925.72,
+      "id": "youtube-Qp61G60wZZA#cue-550",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 924.56,
+      "text": "然后其中有一个桥段"
+    },
+    {
+      "end_seconds": 930.36,
+      "id": "youtube-Qp61G60wZZA#cue-551",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 926.2,
+      "text": "其中有个桥段是你作为主人公"
+    },
+    {
+      "end_seconds": 931.48,
+      "id": "youtube-Qp61G60wZZA#cue-552",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 930.36,
+      "text": "你会走到一个酒馆"
+    },
+    {
+      "end_seconds": 932.84,
+      "id": "youtube-Qp61G60wZZA#cue-553",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 931.48,
+      "text": "然后酒馆里面有一个人"
+    },
+    {
+      "end_seconds": 935.44,
+      "id": "youtube-Qp61G60wZZA#cue-554",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 932.84,
+      "text": "然后这个这个人会给你玩一个抓硬币的游戏"
+    },
+    {
+      "end_seconds": 936.96,
+      "id": "youtube-Qp61G60wZZA#cue-555",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 935.44,
+      "text": "这桌子上面有一堆硬币"
+    },
+    {
+      "end_seconds": 937.399,
+      "id": "youtube-Qp61G60wZZA#cue-556",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 936.96,
+      "text": "然后呢"
+    },
+    {
+      "end_seconds": 940.6,
+      "id": "youtube-Qp61G60wZZA#cue-557",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 937.399,
+      "text": "你每次可以抓一个硬币两个硬币或者三个硬币"
+    },
+    {
+      "end_seconds": 941.2,
+      "id": "youtube-Qp61G60wZZA#cue-558",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 940.6,
+      "text": "你不能不抓"
+    },
+    {
+      "end_seconds": 943.08,
+      "id": "youtube-Qp61G60wZZA#cue-559",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 941.2,
+      "text": "你必须抓一二三当中的一个"
+    },
+    {
+      "end_seconds": 944.0,
+      "id": "youtube-Qp61G60wZZA#cue-560",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 943.08,
+      "text": "然后呢"
+    },
+    {
+      "end_seconds": 945.6,
+      "id": "youtube-Qp61G60wZZA#cue-561",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 944.0,
+      "text": "你的对手也是同样的规则"
+    },
+    {
+      "end_seconds": 946.48,
+      "id": "youtube-Qp61G60wZZA#cue-562",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 945.6,
+      "text": "你先抓"
+    },
+    {
+      "end_seconds": 948.68,
+      "id": "youtube-Qp61G60wZZA#cue-563",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 946.48,
+      "text": "谁抓到了最后那个硬币"
+    },
+    {
+      "end_seconds": 950.12,
+      "id": "youtube-Qp61G60wZZA#cue-564",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 948.68,
+      "text": "谁就输了比赛"
+    },
+    {
+      "end_seconds": 952.04,
+      "id": "youtube-Qp61G60wZZA#cue-565",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 950.12,
+      "text": "请问这时候你该怎么抓"
+    },
+    {
+      "end_seconds": 953.759,
+      "id": "youtube-Qp61G60wZZA#cue-566",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 952.04,
+      "text": "你如果说你遇到这个问题的"
+    },
+    {
+      "end_seconds": 954.72,
+      "id": "youtube-Qp61G60wZZA#cue-567",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 953.759,
+      "text": "那你说我抓一个"
+    },
+    {
+      "end_seconds": 955.16,
+      "id": "youtube-Qp61G60wZZA#cue-568",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 954.759,
+      "text": "抓两个"
+    },
+    {
+      "end_seconds": 955.519,
+      "id": "youtube-Qp61G60wZZA#cue-569",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 955.16,
+      "text": "抓三个"
+    },
+    {
+      "end_seconds": 957.48,
+      "id": "youtube-Qp61G60wZZA#cue-570",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 955.519,
+      "text": "你不会知道有什么Consequence"
+    },
+    {
+      "end_seconds": 959.08,
+      "id": "youtube-Qp61G60wZZA#cue-571",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 957.48,
+      "text": "你不知道将来会发生什么"
+    },
+    {
+      "end_seconds": 960.08,
+      "id": "youtube-Qp61G60wZZA#cue-572",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 959.08,
+      "text": "但是如果告诉你"
+    },
+    {
+      "end_seconds": 962.0,
+      "id": "youtube-Qp61G60wZZA#cue-573",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 960.08,
+      "text": "现在桌上只有一个硬币了"
+    },
+    {
+      "end_seconds": 962.96,
+      "id": "youtube-Qp61G60wZZA#cue-574",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 962.0,
+      "text": "然后要你抓"
+    },
+    {
+      "end_seconds": 963.519,
+      "id": "youtube-Qp61G60wZZA#cue-575",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 962.96,
+      "text": "我死了"
+    },
+    {
+      "end_seconds": 964.24,
+      "id": "youtube-Qp61G60wZZA#cue-576",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 963.519,
+      "text": "你就死了"
+    },
+    {
+      "end_seconds": 965.36,
+      "id": "youtube-Qp61G60wZZA#cue-577",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 964.24,
+      "text": "如果这两个硬币的话"
+    },
+    {
+      "end_seconds": 965.759,
+      "id": "youtube-Qp61G60wZZA#cue-578",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 965.36,
+      "text": "抓一个"
+    },
+    {
+      "end_seconds": 966.44,
+      "id": "youtube-Qp61G60wZZA#cue-579",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 965.759,
+      "text": "你抓一个"
+    },
+    {
+      "end_seconds": 967.32,
+      "id": "youtube-Qp61G60wZZA#cue-580",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 966.44,
+      "text": "三个硬币"
+    },
+    {
+      "end_seconds": 968.16,
+      "id": "youtube-Qp61G60wZZA#cue-581",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 967.32,
+      "text": "抓两个四个硬币"
+    },
+    {
+      "end_seconds": 968.8,
+      "id": "youtube-Qp61G60wZZA#cue-582",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 968.16,
+      "text": "好"
+    },
+    {
+      "end_seconds": 969.32,
+      "id": "youtube-Qp61G60wZZA#cue-583",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 968.8,
+      "text": "五个硬币呢"
+    },
+    {
+      "end_seconds": 971.92,
+      "id": "youtube-Qp61G60wZZA#cue-584",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 969.32,
+      "text": "抓一个"
+    },
+    {
+      "end_seconds": 972.2,
+      "id": "youtube-Qp61G60wZZA#cue-585",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 971.92,
+      "text": "对"
+    },
+    {
+      "end_seconds": 974.639,
+      "id": "youtube-Qp61G60wZZA#cue-586",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 974.36,
+      "text": "对吗"
+    },
+    {
+      "end_seconds": 978.04,
+      "id": "youtube-Qp61G60wZZA#cue-587",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 976.24,
+      "text": "四个硬币的时候你抓三个"
+    },
+    {
+      "end_seconds": 978.8,
+      "id": "youtube-Qp61G60wZZA#cue-588",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 978.04,
+      "text": "然后呢"
+    },
+    {
+      "end_seconds": 981.36,
+      "id": "youtube-Qp61G60wZZA#cue-589",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 978.8,
+      "text": "等到上一个的时候死的话"
+    },
+    {
+      "end_seconds": 983.04,
+      "id": "youtube-Qp61G60wZZA#cue-590",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 981.36,
+      "text": "就抓一个的时候死"
+    },
+    {
+      "end_seconds": 984.48,
+      "id": "youtube-Qp61G60wZZA#cue-591",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 983.04,
+      "text": "你如果五个硬币的时候"
+    },
+    {
+      "end_seconds": 986.32,
+      "id": "youtube-Qp61G60wZZA#cue-592",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 984.48,
+      "text": "你抓一个"
+    },
+    {
+      "end_seconds": 986.72,
+      "id": "youtube-Qp61G60wZZA#cue-593",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 986.32,
+      "text": "你抓"
+    },
+    {
+      "end_seconds": 990.039,
+      "id": "youtube-Qp61G60wZZA#cue-594",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 989.8,
+      "text": "对啊"
+    },
+    {
+      "end_seconds": 991.24,
+      "id": "youtube-Qp61G60wZZA#cue-595",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 990.039,
+      "text": "五个硬币的时候我又死了"
+    },
+    {
+      "end_seconds": 991.72,
+      "id": "youtube-Qp61G60wZZA#cue-596",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 991.24,
+      "text": "不不不"
+    },
+    {
+      "end_seconds": 993.639,
+      "id": "youtube-Qp61G60wZZA#cue-597",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 991.72,
+      "text": "因为我抓一二三"
+    },
+    {
+      "end_seconds": 995.96,
+      "id": "youtube-Qp61G60wZZA#cue-598",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 993.639,
+      "text": "对手剩下的就是四三二"
+    },
+    {
+      "end_seconds": 996.32,
+      "id": "youtube-Qp61G60wZZA#cue-599",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 995.96,
+      "text": "对"
+    },
+    {
+      "end_seconds": 997.2,
+      "id": "youtube-Qp61G60wZZA#cue-600",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 996.32,
+      "text": "他都能解法"
+    },
+    {
+      "end_seconds": 997.56,
+      "id": "youtube-Qp61G60wZZA#cue-601",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 997.2,
+      "text": "对"
+    },
+    {
+      "end_seconds": 997.84,
+      "id": "youtube-Qp61G60wZZA#cue-602",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 997.56,
+      "text": "完了"
+    },
+    {
+      "end_seconds": 998.519,
+      "id": "youtube-Qp61G60wZZA#cue-603",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 997.84,
+      "text": "这段得重说"
+    },
+    {
+      "end_seconds": 1001.159,
+      "id": "youtube-Qp61G60wZZA#cue-604",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 999.84,
+      "text": "不用重说"
+    },
+    {
+      "end_seconds": 1001.759,
+      "id": "youtube-Qp61G60wZZA#cue-605",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1001.159,
+      "text": "所以你发现"
+    },
+    {
+      "end_seconds": 1002.92,
+      "id": "youtube-Qp61G60wZZA#cue-606",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1001.759,
+      "text": "抓到五个硬币的时候"
+    },
+    {
+      "end_seconds": 1003.56,
+      "id": "youtube-Qp61G60wZZA#cue-607",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1002.92,
+      "text": "我就死了"
+    },
+    {
+      "end_seconds": 1004.56,
+      "id": "youtube-Qp61G60wZZA#cue-608",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1003.56,
+      "text": "你又死了"
+    },
+    {
+      "end_seconds": 1005.84,
+      "id": "youtube-Qp61G60wZZA#cue-609",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1004.56,
+      "text": "你抓一个硬币的时候"
+    },
+    {
+      "end_seconds": 1007.279,
+      "id": "youtube-Qp61G60wZZA#cue-610",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1005.84,
+      "text": "剩一个硬币的时候你会死"
+    },
+    {
+      "end_seconds": 1009.12,
+      "id": "youtube-Qp61G60wZZA#cue-611",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1007.279,
+      "text": "剩五个硬币的时候你会死"
+    },
+    {
+      "end_seconds": 1010.24,
+      "id": "youtube-Qp61G60wZZA#cue-612",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1009.12,
+      "text": "六个的时候你又活了"
+    },
+    {
+      "end_seconds": 1011.32,
+      "id": "youtube-Qp61G60wZZA#cue-613",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1010.24,
+      "text": "七个时候又活了"
+    },
+    {
+      "end_seconds": 1011.96,
+      "id": "youtube-Qp61G60wZZA#cue-614",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1011.32,
+      "text": "八个时候又活了"
+    },
+    {
+      "end_seconds": 1013.2,
+      "id": "youtube-Qp61G60wZZA#cue-615",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1011.96,
+      "text": "九个时候"
+    },
+    {
+      "end_seconds": 1013.68,
+      "id": "youtube-Qp61G60wZZA#cue-616",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1013.2,
+      "text": "你又死了"
+    },
+    {
+      "end_seconds": 1016.039,
+      "id": "youtube-Qp61G60wZZA#cue-617",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1015.48,
+      "text": "对"
+    },
+    {
+      "end_seconds": 1016.759,
+      "id": "youtube-Qp61G60wZZA#cue-618",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1016.039,
+      "text": "因为九个硬币"
+    },
+    {
+      "end_seconds": 1018.0,
+      "id": "youtube-Qp61G60wZZA#cue-619",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1016.759,
+      "text": "你无论抓几个的时候"
+    },
+    {
+      "end_seconds": 1019.48,
+      "id": "youtube-Qp61G60wZZA#cue-620",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1018.0,
+      "text": "对方都可以把剩下的一些硬币"
+    },
+    {
+      "end_seconds": 1020.8,
+      "id": "youtube-Qp61G60wZZA#cue-621",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1019.48,
+      "text": "抓完剩到五个"
+    },
+    {
+      "end_seconds": 1021.68,
+      "id": "youtube-Qp61G60wZZA#cue-622",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1020.8,
+      "text": "但是你知道五个"
+    },
+    {
+      "end_seconds": 1022.8,
+      "id": "youtube-Qp61G60wZZA#cue-623",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1021.68,
+      "text": "你一定会死"
+    },
+    {
+      "end_seconds": 1024.36,
+      "id": "youtube-Qp61G60wZZA#cue-624",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1022.8,
+      "text": "所以这个"
+    },
+    {
+      "end_seconds": 1025.4,
+      "id": "youtube-Qp61G60wZZA#cue-625",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1024.36,
+      "text": "这你会发现了"
+    },
+    {
+      "end_seconds": 1026.16,
+      "id": "youtube-Qp61G60wZZA#cue-626",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1025.4,
+      "text": "你之后剩"
+    },
+    {
+      "end_seconds": 1026.839,
+      "id": "youtube-Qp61G60wZZA#cue-627",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1026.16,
+      "text": "你剩"
+    },
+    {
+      "end_seconds": 1028.4,
+      "id": "youtube-Qp61G60wZZA#cue-628",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1026.839,
+      "text": "现在剩N个硬币的时候"
+    },
+    {
+      "end_seconds": 1030.12,
+      "id": "youtube-Qp61G60wZZA#cue-629",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1028.4,
+      "text": "你是活还是死"
+    },
+    {
+      "end_seconds": 1031.72,
+      "id": "youtube-Qp61G60wZZA#cue-630",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1030.12,
+      "text": "取决于N-1"
+    },
+    {
+      "end_seconds": 1032.48,
+      "id": "youtube-Qp61G60wZZA#cue-631",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1031.72,
+      "text": "N-2"
+    },
+    {
+      "end_seconds": 1034.039,
+      "id": "youtube-Qp61G60wZZA#cue-632",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1032.48,
+      "text": "N-3的情形的时候"
+    },
+    {
+      "end_seconds": 1035.079,
+      "id": "youtube-Qp61G60wZZA#cue-633",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1034.039,
+      "text": "会发生什么事情"
+    },
+    {
+      "end_seconds": 1036.24,
+      "id": "youtube-Qp61G60wZZA#cue-634",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1035.079,
+      "text": "那解决这类的问题"
+    },
+    {
+      "end_seconds": 1038.16,
+      "id": "youtube-Qp61G60wZZA#cue-635",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1036.24,
+      "text": "你只要从小向大的来解决"
+    },
+    {
+      "end_seconds": 1039.759,
+      "id": "youtube-Qp61G60wZZA#cue-636",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1038.16,
+      "text": "先看N等于1的时候怎么解决"
+    },
+    {
+      "end_seconds": 1040.839,
+      "id": "youtube-Qp61G60wZZA#cue-637",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1039.759,
+      "text": "N-2上怎么解决"
+    },
+    {
+      "end_seconds": 1041.88,
+      "id": "youtube-Qp61G60wZZA#cue-638",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1040.839,
+      "text": "这样的话往上推"
+    },
+    {
+      "end_seconds": 1042.599,
+      "id": "youtube-Qp61G60wZZA#cue-639",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1041.88,
+      "text": "到N等于1"
+    },
+    {
+      "end_seconds": 1043.16,
+      "id": "youtube-Qp61G60wZZA#cue-640",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1042.599,
+      "text": "一万的时候"
+    },
+    {
+      "end_seconds": 1044.12,
+      "id": "youtube-Qp61G60wZZA#cue-641",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1043.16,
+      "text": "你也能把这个问题解决了"
+    },
+    {
+      "end_seconds": 1045.159,
+      "id": "youtube-Qp61G60wZZA#cue-642",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1044.199,
+      "text": "这是动态规划吗"
+    },
+    {
+      "end_seconds": 1045.759,
+      "id": "youtube-Qp61G60wZZA#cue-643",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1045.159,
+      "text": "这是动态规划"
+    },
+    {
+      "end_seconds": 1046.719,
+      "id": "youtube-Qp61G60wZZA#cue-644",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1045.759,
+      "text": "它和递归有什么区别"
+    },
+    {
+      "end_seconds": 1049.239,
+      "id": "youtube-Qp61G60wZZA#cue-645",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1048.319,
+      "text": "递归"
+    },
+    {
+      "end_seconds": 1050.919,
+      "id": "youtube-Qp61G60wZZA#cue-646",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1049.239,
+      "text": "递归是一种关系"
+    },
+    {
+      "end_seconds": 1053.0,
+      "id": "youtube-Qp61G60wZZA#cue-647",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1052.039,
+      "text": "递归是一种关系"
+    },
+    {
+      "end_seconds": 1055.0,
+      "id": "youtube-Qp61G60wZZA#cue-648",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1053.0,
+      "text": "比如说N的时候的情况"
+    },
+    {
+      "end_seconds": 1056.119,
+      "id": "youtube-Qp61G60wZZA#cue-649",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1055.0,
+      "text": "基于N-1的情况"
+    },
+    {
+      "end_seconds": 1056.839,
+      "id": "youtube-Qp61G60wZZA#cue-650",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1056.119,
+      "text": "基于N-2的情况"
+    },
+    {
+      "end_seconds": 1058.119,
+      "id": "youtube-Qp61G60wZZA#cue-651",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1056.839,
+      "text": "这是一种递归关系"
+    },
+    {
+      "end_seconds": 1060.119,
+      "id": "youtube-Qp61G60wZZA#cue-652",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1058.119,
+      "text": "动态规划是解决问题的一个方法"
+    },
+    {
+      "end_seconds": 1061.279,
+      "id": "youtube-Qp61G60wZZA#cue-653",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1060.119,
+      "text": "递归定义的只是关系"
+    },
+    {
+      "end_seconds": 1063.0,
+      "id": "youtube-Qp61G60wZZA#cue-654",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1061.279,
+      "text": "定义的不是解决问题的方法"
+    },
+    {
+      "end_seconds": 1063.479,
+      "id": "youtube-Qp61G60wZZA#cue-655",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1063.0,
+      "text": "OK"
+    },
+    {
+      "end_seconds": 1064.439,
+      "id": "youtube-Qp61G60wZZA#cue-656",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1063.479,
+      "text": "嗯"
+    },
+    {
+      "end_seconds": 1067.479,
+      "id": "youtube-Qp61G60wZZA#cue-657",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1064.439,
+      "text": "那动态规划里面是不是一定会包含递归关系"
+    },
+    {
+      "end_seconds": 1067.719,
+      "id": "youtube-Qp61G60wZZA#cue-658",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1067.479,
+      "text": "会"
+    },
+    {
+      "end_seconds": 1068.959,
+      "id": "youtube-Qp61G60wZZA#cue-659",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1068.719,
+      "text": "会"
+    },
+    {
+      "end_seconds": 1071.959,
+      "id": "youtube-Qp61G60wZZA#cue-660",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1070.279,
+      "text": "动态规划是基于递归关系"
+    },
+    {
+      "end_seconds": 1073.799,
+      "id": "youtube-Qp61G60wZZA#cue-661",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1071.959,
+      "text": "它首先有递归关系存在"
+    },
+    {
+      "end_seconds": 1074.319,
+      "id": "youtube-Qp61G60wZZA#cue-662",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1073.799,
+      "text": "然后呢"
+    },
+    {
+      "end_seconds": 1076.279,
+      "id": "youtube-Qp61G60wZZA#cue-663",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1074.319,
+      "text": "从小到大构筑一个解"
+    },
+    {
+      "end_seconds": 1078.2,
+      "id": "youtube-Qp61G60wZZA#cue-664",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1076.279,
+      "text": "这个是动态规划的一个"
+    },
+    {
+      "end_seconds": 1079.639,
+      "id": "youtube-Qp61G60wZZA#cue-665",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1078.2,
+      "text": "从算法上面的一个问题"
+    },
+    {
+      "end_seconds": 1081.399,
+      "id": "youtube-Qp61G60wZZA#cue-666",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1079.639,
+      "text": "但是为什么叫动态规划"
+    },
+    {
+      "end_seconds": 1083.839,
+      "id": "youtube-Qp61G60wZZA#cue-667",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1081.399,
+      "text": "因为动态规划最初解决的问题"
+    },
+    {
+      "end_seconds": 1085.48,
+      "id": "youtube-Qp61G60wZZA#cue-668",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1083.839,
+      "text": "大部分的时候都有不同时间的概念"
+    },
+    {
+      "end_seconds": 1088.399,
+      "id": "youtube-Qp61G60wZZA#cue-669",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1086.599,
+      "text": "就比如说你现在做一件什么事情"
+    },
+    {
+      "end_seconds": 1090.639,
+      "id": "youtube-Qp61G60wZZA#cue-670",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1088.399,
+      "text": "你现在做一件事情会影响"
+    },
+    {
+      "end_seconds": 1093.759,
+      "id": "youtube-Qp61G60wZZA#cue-671",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1090.639,
+      "text": "将来会把你的状态在下一个时间的时候发生改变"
+    },
+    {
+      "end_seconds": 1095.279,
+      "id": "youtube-Qp61G60wZZA#cue-672",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1093.759,
+      "text": "然后你下个时间段再做一个事情"
+    },
+    {
+      "end_seconds": 1097.839,
+      "id": "youtube-Qp61G60wZZA#cue-673",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1095.279,
+      "text": "又会把你带到下一个时间的另外一个状态"
+    },
+    {
+      "end_seconds": 1098.44,
+      "id": "youtube-Qp61G60wZZA#cue-674",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1097.839,
+      "text": "而这个时候"
+    },
+    {
+      "end_seconds": 1100.96,
+      "id": "youtube-Qp61G60wZZA#cue-675",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1098.44,
+      "text": "你如果想最终达到某一个状态的时候"
+    },
+    {
+      "end_seconds": 1103.24,
+      "id": "youtube-Qp61G60wZZA#cue-676",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1100.96,
+      "text": "你需要倒着来推"
+    },
+    {
+      "end_seconds": 1106.799,
+      "id": "youtube-Qp61G60wZZA#cue-677",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1103.24,
+      "text": "这个是就有不同的时间段的这个问题叫做动态规划问题"
+    },
+    {
+      "end_seconds": 1108.559,
+      "id": "youtube-Qp61G60wZZA#cue-678",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1106.799,
+      "text": "当然你用这个模型"
+    },
+    {
+      "end_seconds": 1112.24,
+      "id": "youtube-Qp61G60wZZA#cue-679",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1108.559,
+      "text": "并不一定要解决那些有不同时间段的那些问题"
+    },
+    {
+      "end_seconds": 1116.0,
+      "id": "youtube-Qp61G60wZZA#cue-680",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1114.24,
+      "text": "因为时间只不过是一个变量"
+    },
+    {
+      "end_seconds": 1117.64,
+      "id": "youtube-Qp61G60wZZA#cue-681",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1116.0,
+      "text": "对"
+    },
+    {
+      "end_seconds": 1118.24,
+      "id": "youtube-Qp61G60wZZA#cue-682",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1117.64,
+      "text": "OK"
+    },
+    {
+      "end_seconds": 1119.64,
+      "id": "youtube-Qp61G60wZZA#cue-683",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1118.88,
+      "text": "所以说"
+    },
+    {
+      "end_seconds": 1120.0,
+      "id": "youtube-Qp61G60wZZA#cue-684",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1119.64,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 1121.519,
+      "id": "youtube-Qp61G60wZZA#cue-685",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1120.0,
+      "text": "刚才我觉得就是一个很好的例子"
+    },
+    {
+      "end_seconds": 1123.2,
+      "id": "youtube-Qp61G60wZZA#cue-686",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1121.519,
+      "text": "就是我之前我可能要想"
+    },
+    {
+      "end_seconds": 1124.0,
+      "id": "youtube-Qp61G60wZZA#cue-687",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1123.2,
+      "text": "我看到了一堆硬币"
+    },
+    {
+      "end_seconds": 1125.079,
+      "id": "youtube-Qp61G60wZZA#cue-688",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1124.0,
+      "text": "我就在想我拿一个"
+    },
+    {
+      "end_seconds": 1125.44,
+      "id": "youtube-Qp61G60wZZA#cue-689",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1125.079,
+      "text": "拿两个"
+    },
+    {
+      "end_seconds": 1126.0,
+      "id": "youtube-Qp61G60wZZA#cue-690",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1125.44,
+      "text": "拿三个"
+    },
+    {
+      "end_seconds": 1127.559,
+      "id": "youtube-Qp61G60wZZA#cue-691",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1126.0,
+      "text": "但是如果从最小的倒推的话"
+    },
+    {
+      "end_seconds": 1129.0,
+      "id": "youtube-Qp61G60wZZA#cue-692",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1127.559,
+      "text": "这个问题其实就有解了"
+    },
+    {
+      "end_seconds": 1129.48,
+      "id": "youtube-Qp61G60wZZA#cue-693",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1129.0,
+      "text": "对吧"
+    },
+    {
+      "end_seconds": 1131.64,
+      "id": "youtube-Qp61G60wZZA#cue-694",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1129.48,
+      "text": "我就知道我在拿到14硬币的时候"
+    },
+    {
+      "end_seconds": 1132.559,
+      "id": "youtube-Qp61G60wZZA#cue-695",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1131.64,
+      "text": "我到底应该拿几个"
+    },
+    {
+      "end_seconds": 1132.92,
+      "id": "youtube-Qp61G60wZZA#cue-696",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1132.559,
+      "text": "对"
+    },
+    {
+      "end_seconds": 1134.36,
+      "id": "youtube-Qp61G60wZZA#cue-697",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1132.92,
+      "text": "你有多个硬币的时候"
+    },
+    {
+      "end_seconds": 1135.4,
+      "id": "youtube-Qp61G60wZZA#cue-698",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1134.36,
+      "text": "你多硬币的解"
+    },
+    {
+      "end_seconds": 1136.759,
+      "id": "youtube-Qp61G60wZZA#cue-699",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1135.4,
+      "text": "实际上基于少硬币的解"
+    },
+    {
+      "end_seconds": 1138.4,
+      "id": "youtube-Qp61G60wZZA#cue-700",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1136.759,
+      "text": "这个是你跟他说的递归关系"
+    },
+    {
+      "end_seconds": 1139.72,
+      "id": "youtube-Qp61G60wZZA#cue-701",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1138.4,
+      "text": "有这个递归关系之后"
+    },
+    {
+      "end_seconds": 1141.8,
+      "id": "youtube-Qp61G60wZZA#cue-702",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1139.72,
+      "text": "你知道你要从后往前解决这个问题"
+    },
+    {
+      "end_seconds": 1143.92,
+      "id": "youtube-Qp61G60wZZA#cue-703",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1141.8,
+      "text": "这是动态规划的算法解法"
+    },
+    {
+      "end_seconds": 1147.44,
+      "id": "youtube-Qp61G60wZZA#cue-704",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1145.44,
+      "text": "所以怎么样是用动态规划去追女朋友"
+    },
+    {
+      "end_seconds": 1153.12,
+      "id": "youtube-Qp61G60wZZA#cue-705",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1150.92,
+      "text": "那就是先想清楚你最后要什么"
+    },
+    {
+      "end_seconds": 1155.16,
+      "id": "youtube-Qp61G60wZZA#cue-706",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1153.12,
+      "text": "从倒着来看"
+    },
+    {
+      "end_seconds": 1158.2,
+      "id": "youtube-Qp61G60wZZA#cue-707",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1155.16,
+      "text": "然后看看这个遇到的这个女孩合不合适"
+    },
+    {
+      "end_seconds": 1159.12,
+      "id": "youtube-Qp61G60wZZA#cue-708",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1158.2,
+      "text": "然后你想知道"
+    },
+    {
+      "end_seconds": 1160.4,
+      "id": "youtube-Qp61G60wZZA#cue-709",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1159.12,
+      "text": "到什么程度上我求婚"
+    },
+    {
+      "end_seconds": 1161.0,
+      "id": "youtube-Qp61G60wZZA#cue-710",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1160.4,
+      "text": "他会同意"
+    },
+    {
+      "end_seconds": 1162.64,
+      "id": "youtube-Qp61G60wZZA#cue-711",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1161.0,
+      "text": "需要满足哪些条件"
+    },
+    {
+      "end_seconds": 1164.84,
+      "id": "youtube-Qp61G60wZZA#cue-712",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1163.2,
+      "text": "那我先实现哪个后实现哪个"
+    },
+    {
+      "end_seconds": 1166.56,
+      "id": "youtube-Qp61G60wZZA#cue-713",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1165.52,
+      "text": "从后向前推"
+    },
+    {
+      "end_seconds": 1167.52,
+      "id": "youtube-Qp61G60wZZA#cue-714",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1166.56,
+      "text": "这就是动态规划"
+    },
+    {
+      "end_seconds": 1168.68,
+      "id": "youtube-Qp61G60wZZA#cue-715",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1167.52,
+      "text": "这真的没说出来"
+    },
+    {
+      "end_seconds": 1171.12,
+      "id": "youtube-Qp61G60wZZA#cue-716",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1170.44,
+      "text": "估计不管用"
+    },
+    {
+      "end_seconds": 1173.08,
+      "id": "youtube-Qp61G60wZZA#cue-717",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1172.56,
+      "text": "能用吗"
+    },
+    {
+      "end_seconds": 1173.68,
+      "id": "youtube-Qp61G60wZZA#cue-718",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1173.08,
+      "text": "不管用"
+    },
+    {
+      "end_seconds": 1175.92,
+      "id": "youtube-Qp61G60wZZA#cue-719",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1175.2,
+      "text": "不是成功了吗"
+    },
+    {
+      "end_seconds": 1177.4,
+      "id": "youtube-Qp61G60wZZA#cue-720",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1176.32,
+      "text": "那还要帮忙"
+    },
+    {
+      "end_seconds": 1178.16,
+      "id": "youtube-Qp61G60wZZA#cue-721",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1177.4,
+      "text": "对不是"
+    },
+    {
+      "end_seconds": 1178.48,
+      "id": "youtube-Qp61G60wZZA#cue-722",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1178.16,
+      "text": "什么法法"
+    },
+    {
+      "end_seconds": 1179.04,
+      "id": "youtube-Qp61G60wZZA#cue-723",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1178.48,
+      "text": "贪心法"
+    },
+    {
+      "end_seconds": 1180.48,
+      "id": "youtube-Qp61G60wZZA#cue-724",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1179.88,
+      "text": "暴力法"
+    },
+    {
+      "end_seconds": 1181.36,
+      "id": "youtube-Qp61G60wZZA#cue-725",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1180.96,
+      "text": "什么"
+    },
+    {
+      "end_seconds": 1181.72,
+      "id": "youtube-Qp61G60wZZA#cue-726",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1181.36,
+      "text": "不是"
+    },
+    {
+      "end_seconds": 1182.36,
+      "id": "youtube-Qp61G60wZZA#cue-727",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1181.72,
+      "text": "要看"
+    },
+    {
+      "end_seconds": 1185.72,
+      "id": "youtube-Qp61G60wZZA#cue-728",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1185.28,
+      "text": "什么"
+    },
+    {
+      "end_seconds": 1187.64,
+      "id": "youtube-Qp61G60wZZA#cue-729",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1186.96,
+      "text": "没有"
+    },
+    {
+      "end_seconds": 1189.28,
+      "id": "youtube-Qp61G60wZZA#cue-730",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1187.64,
+      "text": "我找我老婆没有用到算法"
+    },
+    {
+      "end_seconds": 1191.44,
+      "id": "youtube-Qp61G60wZZA#cue-731",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1190.8,
+      "text": "大家记得了"
+    },
+    {
+      "end_seconds": 1193.039,
+      "id": "youtube-Qp61G60wZZA#cue-732",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1191.44,
+      "text": "算法家是找老婆也不是用算法家"
+    },
+    {
+      "end_seconds": 1194.6,
+      "id": "youtube-Qp61G60wZZA#cue-733",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1193.039,
+      "text": "所以我们这些课其实是没什么用的"
+    },
+    {
+      "end_seconds": 1199.799,
+      "id": "youtube-Qp61G60wZZA#cue-734",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1199.4,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 1200.759,
+      "id": "youtube-Qp61G60wZZA#cue-735",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1199.799,
+      "text": "其实可以了"
+    },
+    {
+      "end_seconds": 1201.36,
+      "id": "youtube-Qp61G60wZZA#cue-736",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1200.759,
+      "text": "可以了"
+    },
+    {
+      "end_seconds": 1202.2,
+      "id": "youtube-Qp61G60wZZA#cue-737",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1201.36,
+      "text": "我们最后"
+    },
+    {
+      "end_seconds": 1203.2,
+      "id": "youtube-Qp61G60wZZA#cue-738",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1202.2,
+      "text": "这视频最后"
+    },
+    {
+      "end_seconds": 1204.44,
+      "id": "youtube-Qp61G60wZZA#cue-739",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1203.2,
+      "text": "就是我们刚刚讲了"
+    },
+    {
+      "end_seconds": 1205.799,
+      "id": "youtube-Qp61G60wZZA#cue-740",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1204.44,
+      "text": "那我们稍微总结一下"
+    },
+    {
+      "end_seconds": 1207.039,
+      "id": "youtube-Qp61G60wZZA#cue-741",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1205.799,
+      "text": "就是我们视频刚刚讲了"
+    },
+    {
+      "end_seconds": 1209.039,
+      "id": "youtube-Qp61G60wZZA#cue-742",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1207.039,
+      "text": "就是算法在我们生活中有什么用"
+    },
+    {
+      "end_seconds": 1211.68,
+      "id": "youtube-Qp61G60wZZA#cue-743",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1209.039,
+      "text": "但是它更重要的是用来解决什么样的问题的"
+    },
+    {
+      "end_seconds": 1214.2,
+      "id": "youtube-Qp61G60wZZA#cue-744",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1211.68,
+      "text": "它可以提高我们的效率"
+    },
+    {
+      "end_seconds": 1214.48,
+      "id": "youtube-Qp61G60wZZA#cue-745",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1214.2,
+      "text": "是吧"
+    },
+    {
+      "end_seconds": 1216.32,
+      "id": "youtube-Qp61G60wZZA#cue-746",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1214.48,
+      "text": "它可以帮助我们优化"
+    },
+    {
+      "end_seconds": 1218.12,
+      "id": "youtube-Qp61G60wZZA#cue-747",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1216.32,
+      "text": "然后它可以把一些东西自动化"
+    },
+    {
+      "end_seconds": 1218.599,
+      "id": "youtube-Qp61G60wZZA#cue-748",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1218.159,
+      "text": "停下来"
+    },
+    {
+      "end_seconds": 1222.959,
+      "id": "youtube-Qp61G60wZZA#cue-749",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1218.599,
+      "text": "让我们去使用更大的力量"
+    },
+    {
+      "end_seconds": 1224.199,
+      "id": "youtube-Qp61G60wZZA#cue-750",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1222.959,
+      "text": "比如说算力"
+    },
+    {
+      "end_seconds": 1227.239,
+      "id": "youtube-Qp61G60wZZA#cue-751",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1224.199,
+      "text": "那它也有一些很精巧的数学构思在"
+    },
+    {
+      "end_seconds": 1228.239,
+      "id": "youtube-Qp61G60wZZA#cue-752",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1227.239,
+      "text": "比如说这个动态规划了"
+    },
+    {
+      "end_seconds": 1229.679,
+      "id": "youtube-Qp61G60wZZA#cue-753",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1228.239,
+      "text": "就是你如果从前往前的话"
+    },
+    {
+      "end_seconds": 1231.319,
+      "id": "youtube-Qp61G60wZZA#cue-754",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1229.679,
+      "text": "就刚才那个例子确实很难解"
+    },
+    {
+      "end_seconds": 1232.119,
+      "id": "youtube-Qp61G60wZZA#cue-755",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1231.319,
+      "text": "但是从前往后的话"
+    },
+    {
+      "end_seconds": 1233.679,
+      "id": "youtube-Qp61G60wZZA#cue-756",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1232.119,
+      "text": "它就有一个解法"
+    },
+    {
+      "end_seconds": 1234.399,
+      "id": "youtube-Qp61G60wZZA#cue-757",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1233.679,
+      "text": "从前往前"
+    },
+    {
+      "end_seconds": 1235.519,
+      "id": "youtube-Qp61G60wZZA#cue-758",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1234.399,
+      "text": "从前往前就有解法"
+    },
+    {
+      "end_seconds": 1236.039,
+      "id": "youtube-Qp61G60wZZA#cue-759",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1235.519,
+      "text": "如果对"
+    },
+    {
+      "end_seconds": 1237.279,
+      "id": "youtube-Qp61G60wZZA#cue-760",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1236.039,
+      "text": "如果从前往后没有解"
+    },
+    {
+      "end_seconds": 1238.519,
+      "id": "youtube-Qp61G60wZZA#cue-761",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1237.279,
+      "text": "从前往前就有解法了"
+    },
+    {
+      "end_seconds": 1238.759,
+      "id": "youtube-Qp61G60wZZA#cue-762",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1238.519,
+      "text": "对"
+    },
+    {
+      "end_seconds": 1239.919,
+      "id": "youtube-Qp61G60wZZA#cue-763",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1238.759,
+      "text": "所以说就是这个时候"
+    },
+    {
+      "end_seconds": 1241.919,
+      "id": "youtube-Qp61G60wZZA#cue-764",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1239.919,
+      "text": "就是学会了算法"
+    },
+    {
+      "end_seconds": 1244.199,
+      "id": "youtube-Qp61G60wZZA#cue-765",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1241.919,
+      "text": "有的时候真的可以让你的生活变得更简单"
+    },
+    {
+      "end_seconds": 1246.279,
+      "id": "youtube-Qp61G60wZZA#cue-766",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1244.199,
+      "text": "或者说这就是一个很好的hack"
+    },
+    {
+      "end_seconds": 1247.199,
+      "id": "youtube-Qp61G60wZZA#cue-767",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1246.279,
+      "text": "就是在别人"
+    },
+    {
+      "end_seconds": 1249.16,
+      "id": "youtube-Qp61G60wZZA#cue-768",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1247.24,
+      "text": "不知道怎么解决这个问题的时候"
+    },
+    {
+      "end_seconds": 1250.4,
+      "id": "youtube-Qp61G60wZZA#cue-769",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1249.16,
+      "text": "你是有一个很好的解答"
+    },
+    {
+      "end_seconds": 1251.88,
+      "id": "youtube-Qp61G60wZZA#cue-770",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1250.4,
+      "text": "你是有一个最好的解答"
+    },
+    {
+      "end_seconds": 1253.4,
+      "id": "youtube-Qp61G60wZZA#cue-771",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1251.88,
+      "text": "下回别人要再问你"
+    },
+    {
+      "end_seconds": 1255.6,
+      "id": "youtube-Qp61G60wZZA#cue-772",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1253.4,
+      "text": "怎么用算法的方法找女朋友"
+    },
+    {
+      "end_seconds": 1256.559,
+      "id": "youtube-Qp61G60wZZA#cue-773",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1255.6,
+      "text": "找老婆"
+    },
+    {
+      "end_seconds": 1259.16,
+      "id": "youtube-Qp61G60wZZA#cue-774",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1256.559,
+      "text": "你也可以装逼的跟人说一说"
+    },
+    {
+      "end_seconds": 1260.68,
+      "id": "youtube-Qp61G60wZZA#cue-775",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1259.16,
+      "text": "但是估计没有用"
+    },
+    {
+      "end_seconds": 1262.72,
+      "id": "youtube-Qp61G60wZZA#cue-776",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1260.68,
+      "text": "我觉得应该是没什么用"
+    },
+    {
+      "end_seconds": 1263.72,
+      "id": "youtube-Qp61G60wZZA#cue-777",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1262.72,
+      "text": "那好"
+    },
+    {
+      "end_seconds": 1267.12,
+      "id": "youtube-Qp61G60wZZA#cue-778",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1263.72,
+      "text": "这个金晨同学在得到的课程叫什么名字"
+    },
+    {
+      "end_seconds": 1268.92,
+      "id": "youtube-Qp61G60wZZA#cue-779",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1267.12,
+      "text": "叫做"
+    },
+    {
+      "end_seconds": 1269.64,
+      "id": "youtube-Qp61G60wZZA#cue-780",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1268.92,
+      "text": "叫做什么"
+    },
+    {
+      "end_seconds": 1271.559,
+      "id": "youtube-Qp61G60wZZA#cue-781",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1269.64,
+      "text": "算法通识16讲"
+    },
+    {
+      "end_seconds": 1271.759,
+      "id": "youtube-Qp61G60wZZA#cue-782",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1271.559,
+      "text": "对"
+    },
+    {
+      "end_seconds": 1274.2,
+      "id": "youtube-Qp61G60wZZA#cue-783",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1271.759,
+      "text": "我在得到的课程叫做算法通识16讲"
+    },
+    {
+      "end_seconds": 1275.12,
+      "id": "youtube-Qp61G60wZZA#cue-784",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1274.2,
+      "text": "欢迎大家关注"
+    },
+    {
+      "end_seconds": 1277.319,
+      "id": "youtube-Qp61G60wZZA#cue-785",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1275.159,
+      "text": "里面都讲了些什么东西"
+    },
+    {
+      "end_seconds": 1278.239,
+      "id": "youtube-Qp61G60wZZA#cue-786",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1277.319,
+      "text": "在这个课程里面"
+    },
+    {
+      "end_seconds": 1280.679,
+      "id": "youtube-Qp61G60wZZA#cue-787",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1278.239,
+      "text": "我们会讲一些算法是什么"
+    },
+    {
+      "end_seconds": 1282.039,
+      "id": "youtube-Qp61G60wZZA#cue-788",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1280.679,
+      "text": "算法关注的东西是什么"
+    },
+    {
+      "end_seconds": 1283.279,
+      "id": "youtube-Qp61G60wZZA#cue-789",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1282.039,
+      "text": "怎么理解算法"
+    },
+    {
+      "end_seconds": 1287.239,
+      "id": "youtube-Qp61G60wZZA#cue-790",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1283.279,
+      "text": "有那些我们常见的一些算法当中用到的一些思维"
+    },
+    {
+      "end_seconds": 1290.079,
+      "id": "youtube-Qp61G60wZZA#cue-791",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1287.239,
+      "text": "到最后的时候也会讲一下机器学习算法"
+    },
+    {
+      "end_seconds": 1292.519,
+      "id": "youtube-Qp61G60wZZA#cue-792",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1290.079,
+      "text": "有什么特别有意思的地方"
+    },
+    {
+      "end_seconds": 1293.839,
+      "id": "youtube-Qp61G60wZZA#cue-793",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1292.519,
+      "text": "好的"
+    },
+    {
+      "end_seconds": 1296.119,
+      "id": "youtube-Qp61G60wZZA#cue-794",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1293.839,
+      "text": "那大家有如果感兴趣的话"
+    },
+    {
+      "end_seconds": 1298.279,
+      "id": "youtube-Qp61G60wZZA#cue-795",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1296.119,
+      "text": "欢迎去subscribe金晨同学的课"
+    },
+    {
+      "end_seconds": 1300.279,
+      "id": "youtube-Qp61G60wZZA#cue-796",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1298.279,
+      "text": "只要70人民币是吧"
+    },
+    {
+      "end_seconds": 1304.359,
+      "id": "youtube-Qp61G60wZZA#cue-797",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1300.279,
+      "text": "两杯奶茶钱就可以去学到这么多高级的算法知识"
+    },
+    {
+      "end_seconds": 1305.759,
+      "id": "youtube-Qp61G60wZZA#cue-798",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1304.399,
+      "text": "感谢大家关注"
+    },
+    {
+      "end_seconds": 1308.519,
+      "id": "youtube-Qp61G60wZZA#cue-799",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1305.759,
+      "text": "希望大家更多的关注孙煜征的YouTube频道"
+    },
+    {
+      "end_seconds": 1309.759,
+      "id": "youtube-Qp61G60wZZA#cue-800",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1308.519,
+      "text": "有本事在你的课里边说"
+    }
+  ],
+  "video_id": "Qp61G60wZZA",
+  "yuzheng_stance_weight": "not-evidence"
+}

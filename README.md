@@ -70,7 +70,8 @@ python3 scripts/search.py "如何建立信念" --license open
 1. [`docs/answering-contract.md`](docs/answering-contract.md)：回答时怎样区分原文、综合判断和推断；
 2. [`docs/build-your-own-agent.md`](docs/build-your-own-agent.md)：最小可用的检索与推荐流程；
 3. [`docs/source-model.md`](docs/source-model.md)：来源优先级、时间与字段；
-4. [`AGENTS.md`](AGENTS.md)：可直接交给 coding agent 的行为说明。
+4. [`docs/dialogue-ingestion.md`](docs/dialogue-ingestion.md)：对谈原文与提炼分层、说话人归属、本地候选与公开收录边界；
+5. [`AGENTS.md`](AGENTS.md)：可直接交给 coding agent 的行为说明。
 
 ## 已有参考实现
 

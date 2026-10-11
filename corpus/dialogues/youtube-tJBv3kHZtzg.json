@@ -1,0 +1,1303 @@
+{
+  "attribution_note": "本节目含多人或归属未决的发言。参与者名单仅供查找，不能据此指定任何一句的说话人；嘉宾发言不证明立正赞同。字幕经 AI 文字校对及实际改动复核，尚未逐句听校；待核片段须回到原视频。",
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "id": "youtube-tJBv3kHZtzg",
+  "inclusion_authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
+  "language": "mixed",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "original_published_at": "2025-10-18T02:11:36Z",
+  "participant_aliases": [
+    "Riley Shu"
+  ],
+  "participant_entity_ids": [
+    "guest:riley-shu"
+  ],
+  "participant_metadata_basis": "Programme association from public author metadata and reviewed source introductions; aliases aid discovery, never assign speaker turns or endorsement.",
+  "participant_names": "Riley Shu",
+  "public_verified_at": "2026-10-11T02:01:36.392845+00:00",
+  "published_at": "2025-10-18",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "complete_speech_coverage_verified": false,
+    "full_original_source_read": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "original_source_sha256": "6c21e6065b4ab0365f9663791d9178ba31a52b94f49de81c3dd12a54ef7538fd",
+    "root_edit_review_verified": true,
+    "root_output_sha256": "9b8158371c9c342b29a2d1de8b5144f5f26af9bdabd453b635fb1cce54ebc2d5",
+    "root_receipt_sha256": "c41f907f7d3de20ed95ae5d83023e3aafaea656032945753b4839cdf961b4796",
+    "unresolved_count": 1
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_family": "https://www.youtube.com/watch?v=tJBv3kHZtzg",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=tJBv3kHZtzg",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "title": "OpenAI+YC Hackathon双料冠军，脱颖而出的五条干货",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "units": [
+    {
+      "end_seconds": 23.795,
+      "id": "youtube-tJBv3kHZtzg#cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "Okay. Well, just wait for another minute and we'll start. There is recording. So if you want to share this with your friend, you probably just joined from Maven the Lightning course. You can just share that, and we'll upload the recording, and you can access, get access to the recording that way. Yep. How is everyone? So let's."
+    },
+    {
+      "end_seconds": 30.225,
+      "id": "youtube-tJBv3kHZtzg#cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.795,
+      "text": "Like, where let's type in chat. Where are you from?"
+    },
+    {
+      "end_seconds": 43.51,
+      "id": "youtube-tJBv3kHZtzg#cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.225,
+      "text": "I found that to be like a interesting engagement."
+    },
+    {
+      "end_seconds": 58.389,
+      "id": "youtube-tJBv3kHZtzg#cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.51,
+      "text": "And because we have a lot of stuff to cover, and we have a large audience, so I'll take questions at the end."
+    },
+    {
+      "end_seconds": 80.792,
+      "id": "youtube-tJBv3kHZtzg#cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.389,
+      "text": "呃，you can just type your question uh in chat, or if you know how to do that, there is a Q and A a function, and you can type your question over there, or just leave in chat, and I'll try to uh I'll do my best to uh cover those questions. All right, let's start. Riley, you can take over and start presenting."
+    },
+    {
+      "end_seconds": 89.154,
+      "id": "youtube-tJBv3kHZtzg#cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.792,
+      "text": "Okay. Ah, okay. Let me."
+    },
+    {
+      "end_seconds": 97.048,
+      "id": "youtube-tJBv3kHZtzg#cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.154,
+      "text": "呃，让我 share 我的 screen。"
+    },
+    {
+      "end_seconds": 106.363,
+      "id": "youtube-tJBv3kHZtzg#cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.048,
+      "text": "Can you see it? Yep. Yep. Okay. So I know this uh webinar is about like my experience about."
+    },
+    {
+      "end_seconds": 127.373,
+      "id": "youtube-tJBv3kHZtzg#cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 106.363,
+      "text": "Going to hackathons. So today I'm gonna share my experience of going to all these hackathons. They actually boils down to like five key key principles. So hopefully, like um, after this, you will feel more confident going to different hackathons, and you will like squeeze the most value of all these events that you go to."
+    },
+    {
+      "end_seconds": 136.553,
+      "id": "youtube-tJBv3kHZtzg#cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 127.373,
+      "text": "啊， okay， so a little bit about myself， ah I um right now a monetization product at Fortnite app."
+    },
+    {
+      "end_seconds": 158.271,
+      "id": "youtube-tJBv3kHZtzg#cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 136.553,
+      "text": "games and this is all also my little RedNote. I post some things on RedNote too. I so my job is remote, so I mostly stayed in Bay Area. And you know, like there's a lot of events going on on Bay Area, so I usually go to hackathons with my friends and all these different events."
+    },
+    {
+      "end_seconds": 184.55,
+      "id": "youtube-tJBv3kHZtzg#cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 158.271,
+      "text": "Yeah. Um, is there anything else I should talk about myself? Like, why are you talking about your successful hackathons? What is your achievements at different hackathons? Yeah. Um, I started going to hackathons maybe in twenty twenty three ish. Um, so I'm actually a pretty late starter on hackathons, and um, I think in total I've been winning maybe around like."
+    },
+    {
+      "end_seconds": 208.415,
+      "id": "youtube-tJBv3kHZtzg#cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 184.55,
+      "text": "Um, eighty-five k like credits plus cash. I just happened to find like I'm my winning rate of hackathon is like pretty high, and I started posting like notes on RedNote, and then I got a lot of questions. So um, we think it's it might be a good idea do a webinar and share with like what I've learned in different hackathons."
+    },
+    {
+      "end_seconds": 237.74,
+      "id": "youtube-tJBv3kHZtzg#cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 208.415,
+      "text": "And most notably, you won first place at two of the most competitive hackathons, right? The YC and Open Hackathon. Yeah, there was like a cognition hackathon, cognition and windsurf. So we got the first place of that one. That one is also have like the highest, the like the biggest prize pool. That one single-handedly contributed sixty four k um like credits and cash to my entire hackathon reward pool."
+    },
+    {
+      "end_seconds": 261.865,
+      "id": "youtube-tJBv3kHZtzg#cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 237.74,
+      "text": "Yeah, we also got another one um project that's called Oriole. In we actually got win kind of like two YC hackathon. The first one project is called Showa AI. That one got the third prize uh the third place of the entire hackathon. In the another YC hackathon, our project Oriole got um the best user of Convex and the best user of Basel."
+    },
+    {
+      "end_seconds": 276.601,
+      "id": "youtube-tJBv3kHZtzg#cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 261.865,
+      "text": "And in addition to the you know the winning and the credits and the cash, you also got the meeting time with Andrew Capacity, CEO at Vercel. I think pronounce his name."
+    },
+    {
+      "end_seconds": 287.14,
+      "id": "youtube-tJBv3kHZtzg#cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 276.601,
+      "text": "Yeah. Uh, we got like um. Yeah, it's it's interesting. Like, not only do we get like cash and rewards, we also got a lot of meaningful networking out of those things."
+    },
+    {
+      "end_seconds": 316.795,
+      "id": "youtube-tJBv3kHZtzg#cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 287.14,
+      "text": "For example, in one one the first YC hackathon, we got invited to lunch with the Wordware CTO, and then uh we also like in the cognition hackathon, we got invited to the cognition hacker house to have dinner with the entire team. Um, and then in the third hackathon, I think we got invited to a lot of convex events. Uh, we got connected with the Vercel CEO. Uh, we also got invited um to like a private chat with a YC partner."
+    },
+    {
+      "end_seconds": 333.633,
+      "id": "youtube-tJBv3kHZtzg#cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 316.795,
+      "text": "Nice, can't wait. Let's start. Yeah, okay. Um, so here, let me just do a little bit demo because this is I'm very proud of this project. It's a working demo. This is the project I was talking about that won the first place of."
+    },
+    {
+      "end_seconds": 361.604,
+      "id": "youtube-tJBv3kHZtzg#cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 333.633,
+      "text": "嗯，The Windsurf and cognition hackathon is called Over Easy. So I will give this demo as in a very similar way that how we give this demo and the the final presentation in the hackathon. So you will have like if so for those who have never been to a hackathon, you will have an idea of how um the final presentation at least what it looks for us. So Over Easy is a"
+    },
+    {
+      "end_seconds": 369.738,
+      "id": "youtube-tJBv3kHZtzg#cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 361.604,
+      "text": "呃，Vibe hacking agent that we build to help people evaluate if their Vibe coded apps are, um."
+    },
+    {
+      "end_seconds": 388.844,
+      "id": "youtube-tJBv3kHZtzg#cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 369.738,
+      "text": "Are secure or not? So all of things you can see are built in seven hours in the hackathon on the spot. Um, and then after that, we did a little bit deployment to make it a little better. But I would say ninety five percent is the same, including that like killed killed animation."
+    },
+    {
+      "end_seconds": 400.263,
+      "id": "youtube-tJBv3kHZtzg#cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 388.843,
+      "text": "So to use this, um, you start a new test round. You put in a website URL that you want to test. So here I just picked a lovable project, um."
+    },
+    {
+      "end_seconds": 423.662,
+      "id": "youtube-tJBv3kHZtzg#cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 400.263,
+      "text": "And then you follow the instructions. You would do some um activities on the website, and in the end, you can paste the logs here to help the agents um kind of like do its job. So for time purpose, I'm not gonna do the entire demo, uh, but I will show you like the result of some previous rounds that we did."
+    },
+    {
+      "end_seconds": 441.856,
+      "id": "youtube-tJBv3kHZtzg#cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 423.662,
+      "text": "So you can see, um, so how this works is that we have a very simple agent that's going through all the APIs that you paste into it. It will just keep go through every API endpoint and see if it can find any new posts. And in the end, it will summarize the results here."
+    },
+    {
+      "end_seconds": 455.881,
+      "id": "youtube-tJBv3kHZtzg#cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 441.856,
+      "text": "The UI is not perfect. We try our best. It's like a very short, limited time. But you can see it finds some very high critical, uh, loopholes. First is anyone can read all private messages from all users."
+    },
+    {
+      "end_seconds": 466.007,
+      "id": "youtube-tJBv3kHZtzg#cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 455.881,
+      "text": "So if we go to the one of the network request um calls, you can see the results. It's actually like all the messages of the users."
+    },
+    {
+      "end_seconds": 486.852,
+      "id": "youtube-tJBv3kHZtzg#cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 466.007,
+      "text": "From this um lovable app that was very popular a couple weeks ago, it says Chad burn and finish. So it's supposed to destroy all the messages that you send, but it actually didn't. Ah, you can see like people are saying all this weird stuff like on the website that they're not supposed to be exposed. So"
+    },
+    {
+      "end_seconds": 505.232,
+      "id": "youtube-tJBv3kHZtzg#cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 486.852,
+      "text": "Yeah, and then we also built like a shared page to help people share this with, um, like other friends. You see, like we run some examples there. So that's the example. Uh, that's what OverEasy looks like, for the um for our demo there."
+    },
+    {
+      "end_seconds": 530.707,
+      "id": "youtube-tJBv3kHZtzg#cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 505.232,
+      "text": "And now we can, I guess. Um, do you have any questions for the demo where I can talk a little bit more on like what are hackathons? Let's talk about. Uh, continue. I'll interrupt you if I have. Okay, sounds good. So I know many people like you must have heard about hackathons. That's why you sign up for this um class and then you think it's very interesting. But maybe not a lot of people have been to hackathons."
+    },
+    {
+      "end_seconds": 542.333,
+      "id": "youtube-tJBv3kHZtzg#cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 530.707,
+      "text": "So, um, I was introduce a little bit like what hackathons are. Um, so it's actually a very interesting term, like hack plus marathon. I believe it's born out of"
+    },
+    {
+      "end_seconds": 562.587,
+      "id": "youtube-tJBv3kHZtzg#cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 542.333,
+      "text": "some internal events in Yahoo where like all the engineers get together, like spend a lot of time non-break to build some very challenging engineering task. And as time went by, it evolves into events. Um, in the early days, it was mostly for students, and they would go to this events."
+    },
+    {
+      "end_seconds": 586.357,
+      "id": "youtube-tJBv3kHZtzg#cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 562.587,
+      "text": "build some project on the spot, maybe like forty eight hours nonstop, and then uh the judges will compete the final results on like which projects the best. And then after a few years, like maybe since twenty twenty three, when ChatGPT gets like really popular, um there are a lot of AI tools that's like born out of nowhere."
+    },
+    {
+      "end_seconds": 594.111,
+      "id": "youtube-tJBv3kHZtzg#cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 586.357,
+      "text": "There are a lot of companies start sponsoring more hackathons to try to encourage people build and try different AI tools."
+    },
+    {
+      "end_seconds": 618.876,
+      "id": "youtube-tJBv3kHZtzg#cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 594.111,
+      "text": "That's why I would say, like after ChatGPT gets popular, we see more and more of these hackathons, and it's also changed a little bit from like in the past. It's more focused on engineering skill set more for students, and now it's like more working people are participating in hackathons, and it's not that um engineering focused anymore."
+    },
+    {
+      "end_seconds": 632.891,
+      "id": "youtube-tJBv3kHZtzg#cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 618.876,
+      "text": "嗯， yeah， so which means like there's a lot of vibe coding things. You don't have to really know a lot of coding to participate in hackathons. And usually the way hackathon works is that um there will be a"
+    },
+    {
+      "end_seconds": 650.201,
+      "id": "youtube-tJBv3kHZtzg#cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 632.891,
+      "text": "Like a host, um, there will be a theme, and then there will be a lot of sponsors. This, uh, the sponsors will like putting money, putting prize, and uh, there are some requirements whether you have to use their tools or not. And then for participants, uh, people."
+    },
+    {
+      "end_seconds": 674.276,
+      "id": "youtube-tJBv3kHZtzg#cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 650.201,
+      "text": "Go in teams, or you can go in solo, and they have to build something in within like a certain time. It's usually like five to seven hours for a short one. Some of the hackathons can go like overnights, like two days or even three days. So I'm talking mostly about in-person hackathons. Um, yeah, like virtual hackathons is like another thing. It's more like"
+    },
+    {
+      "end_seconds": 696.826,
+      "id": "youtube-tJBv3kHZtzg#cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 674.276,
+      "text": "Just like competition, so in-person hackathons, it's usually like people going teams, build something within certain time periods, and you submit your project, and the judges and the sponsors will judge that like on the spot, and then reveal the results. Who are the winner? Um, what are the winners of different tracks? And that's like usually the event."
+    },
+    {
+      "end_seconds": 719.642,
+      "id": "youtube-tJBv3kHZtzg#cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 696.826,
+      "text": "Yeah. Um, so I'm gonna next. I'm gonna talk about like the. I'm gonna go dive into the like everything that people are most interested about, which is like the five key principles that I personally find very useful with like all the hackathons that I go to."
+    },
+    {
+      "end_seconds": 748.407,
+      "id": "youtube-tJBv3kHZtzg#cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 719.642,
+      "text": "So, I see hackathons like the backbone of a good hackathon project is just idea plus execution. So the first principle is about how to, what is a good idea and how to get there. So people keep saying things like, \"Oh, this is really cool. This is like such a cool project.\" So what are the aspects of that makes a cool project? I think there are two."
+    },
+    {
+      "end_seconds": 768.31,
+      "id": "youtube-tJBv3kHZtzg#cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 748.407,
+      "text": "aspect of that's making idea really good. One is how useful it is. You can if you can make the judges or the audience look at this and their eyes light up and they say, \"Oh, that's something I would use. That actually solves my problem.\" That's a very good standard of useful."
+    },
+    {
+      "end_seconds": 779.173,
+      "id": "youtube-tJBv3kHZtzg#cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 768.31,
+      "text": "And the other aspect is about how different it is, like how innovative it is. Did did it use something new? Did it use some tools in a very"
+    },
+    {
+      "end_seconds": 788.508,
+      "id": "youtube-tJBv3kHZtzg#cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 779.173,
+      "text": "Like in a way that no one has used it before. Is it like um realization of the philosophical ideas that people thought about it, but no one has."
+    },
+    {
+      "end_seconds": 797.975,
+      "id": "youtube-tJBv3kHZtzg#cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 788.508,
+      "text": "Actually, build it. So our project Shoya was a good example. It was not very useful. It was using LM as complete interpreter."
+    },
+    {
+      "end_seconds": 819.597,
+      "id": "youtube-tJBv3kHZtzg#cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 797.975,
+      "text": "So there's no code. You use LLM to understand every interaction that user did. So it's a highly philosophical experiment that we did. A lot of people have similar ideas, but no one has ever built it. So when people go to hackathons, they see this project, they really like it. But it's not very useful because every time you click on the application, it takes"
+    },
+    {
+      "end_seconds": 831.295,
+      "id": "youtube-tJBv3kHZtzg#cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 819.597,
+      "text": "almost like one minute, oh, and to react and do something. And on the contrary, the over easy hacking agent that you just see is a very useful one because everyone is vibe coding."
+    },
+    {
+      "end_seconds": 846.035,
+      "id": "youtube-tJBv3kHZtzg#cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 831.295,
+      "text": "website，no one really knows how secure they are. So that's something when we show the demo, everyone is like, \"Oh, that's such an interesting project. You should open it to public.\" Um, like I bet, like my company will use it. Like I really need it."
+    },
+    {
+      "end_seconds": 868.484,
+      "id": "youtube-tJBv3kHZtzg#cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 846.035,
+      "text": "So there's like a two elements of a cool idea. I would say, like in different hackathons, people might focus on different things. Like sometimes you might find the judges and audience like the practical aspect of the idea more. Sometimes people are just looking for like really cool things that've never seen before."
+    },
+    {
+      "end_seconds": 890.417,
+      "id": "youtube-tJBv3kHZtzg#cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 868.484,
+      "text": "So it's a little bit of an art and balance of like how do you want to balance these two things, and there's also like some randomness. Like you never really know what the judges like, and you might never know what kind of good network it will get you by doing different ideas. So how to get a good idea?"
+    },
+    {
+      "end_seconds": 903.149,
+      "id": "youtube-tJBv3kHZtzg#cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 890.417,
+      "text": "It's not, I would say, like it's not easy. Um, I a lot of times, but my personal experiences, brainstorming ideas on the spot doesn't really quite work."
+    },
+    {
+      "end_seconds": 921.046,
+      "id": "youtube-tJBv3kHZtzg#cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 903.149,
+      "text": "So, usually, all the ideas that's been working really well for us are the ideas we've been thinking a lot. For example, OverEasy is born out of the idea that was helping with my friend's um vibe coding agent, and we're comparing the security level of all these different."
+    },
+    {
+      "end_seconds": 936.382,
+      "id": "youtube-tJBv3kHZtzg#cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 921.046,
+      "text": "Vibe Coding Tool Platform like Base Forty Four, Lovable, Replit Agent, and then we found so many loopholes by manually doing things. Then I was like, Oh, can we just build some agent that will help us to test the security of all these?"
+    },
+    {
+      "end_seconds": 945.968,
+      "id": "youtube-tJBv3kHZtzg#cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 936.382,
+      "text": "Um website, so I don't have to manually do it. And then everyone really likes the idea, so we decided to build it out as a as a hackathon project."
+    },
+    {
+      "end_seconds": 960.636,
+      "id": "youtube-tJBv3kHZtzg#cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 945.968,
+      "text": "And the other one, like the showy, the philosophical LLMs interpreter idea, is also something my friend has been passionate. I've been thinking about it for weeks, and so he really wants to try to build it out in a hackathon."
+    },
+    {
+      "end_seconds": 983.061,
+      "id": "youtube-tJBv3kHZtzg#cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 960.636,
+      "text": "So it's, I would say, it boils down to it's something that you experience daily, and then you're trying to solve your problem, like a daily problem you've been experiencing it, thinking about it for a while, or something you're very obsessed or passionate about, like you really want to try and build it. Usually, those ideas work pretty well."
+    },
+    {
+      "end_seconds": 993.587,
+      "id": "youtube-tJBv3kHZtzg#cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 983.061,
+      "text": "So, but not like we don't really have those ideas all the time. Like, what if you just don't have those ideas? Ah, one way if you like, if you don't."
+    },
+    {
+      "end_seconds": 1014.258,
+      "id": "youtube-tJBv3kHZtzg#cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 993.587,
+      "text": "Go with ideas is totally fine too. And when you're teaming up with people and you're like brainstorming, one very useful angle is to try to dig into their experience and ask questions about, oh, do you have all these like everyday problems that you want to solve, or do you have this"
+    },
+    {
+      "end_seconds": 1031.943,
+      "id": "youtube-tJBv3kHZtzg#cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1014.258,
+      "text": "thing that you're very obsessed or passionate about. Can we build something for for those two things? So it's like digging into a teammate's personal experience. So we we saw a project that was doing really well, which is um they have like a community school."
+    },
+    {
+      "end_seconds": 1047.472,
+      "id": "youtube-tJBv3kHZtzg#cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1031.943,
+      "text": "like a like I forgot what she works for, but she works for a community school, so she keeps seeing all these people suffering from like not being able to, um, pick the courses in community school. So they built a little tool to help her students to."
+    },
+    {
+      "end_seconds": 1070.118,
+      "id": "youtube-tJBv3kHZtzg#cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1047.472,
+      "text": "Better do that. It's not something that we usually experience every day, but it's like her everyday life, and she is like very passionate about this topic. She knows all the user problem, and their project ended up doing pretty well. So that's how you can get the good idea, either from your own personal experience or dig into other people's personal experience."
+    },
+    {
+      "end_seconds": 1081.063,
+      "id": "youtube-tJBv3kHZtzg#cue-62",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1070.118,
+      "text": "Yeah, and then the next part is about execution. I talk about hackathon is about idea plus execution."
+    },
+    {
+      "end_seconds": 1109.319,
+      "id": "youtube-tJBv3kHZtzg#cue-63",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1081.063,
+      "text": "we if you have a really good idea, but you can't really build anything. That's not the point of hackathon. The hackathon is a little bit like a because it's like a marathon. It's a little bit like a sports, but something different is like for other sports, you do the practice, like like everything happened um before that competition. But for hackathon, a lot of things will have to happen on the spot. It's like um like a building thing, so you have to show something."
+    },
+    {
+      "end_seconds": 1121.095,
+      "id": "youtube-tJBv3kHZtzg#cue-64",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1109.319,
+      "text": "It's one funny example is that in one of the the hackathon final presentation, there's a team doing something really cool, but they don't actually have anything that they can demo."
+    },
+    {
+      "end_seconds": 1140.002,
+      "id": "youtube-tJBv3kHZtzg#cue-65",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1121.095,
+      "text": "There's no visual, no demo, like nothing at all. They just have like this idea and this backend API that's kind of working. So like even if the idea is really good, the judges just like can't really give them a very high score or like a good result because that's not really presentable."
+    },
+    {
+      "end_seconds": 1169.483,
+      "id": "youtube-tJBv3kHZtzg#cue-66",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1140.002,
+      "text": "So one strategy that I find really helpful is to always think about the demo. Like think about what do you want to show to people. Like everyone understands six or seven hours, even two days, are not enough to build a completely working product. And so it's important to pick and choose your battle. Like how do you want to show this thing? What should this three-minute demo look like?"
+    },
+    {
+      "end_seconds": 1182.408,
+      "id": "youtube-tJBv3kHZtzg#cue-67",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1169.483,
+      "text": "Um, after the user logging, what should the user do, and how do you want to, like, tell the story and emphasize your point? Um, for example, in the OverEasy demo."
+    },
+    {
+      "end_seconds": 1191.196,
+      "id": "youtube-tJBv3kHZtzg#cue-68",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1182.408,
+      "text": "we like we've when we thought about the what should the demo look like, with we think that it should expose the vulnerabilities."
+    },
+    {
+      "end_seconds": 1201.475,
+      "id": "youtube-tJBv3kHZtzg#cue-69",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1191.195,
+      "text": "of the website that it's able to find, so it's just as simple as that. Because you can have all kinds of different approaches to do a little hacking agent, but by"
+    },
+    {
+      "end_seconds": 1223.844,
+      "id": "youtube-tJBv3kHZtzg#cue-70",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1201.475,
+      "text": "Think aligning on what a demo should look like. Everyone is more targeted on, oh, do we need this front end? Do we need this page? Do we need this API? Then, like everything is for that demo. Because in the end, even if the product didn't quite work by the end, if the demo works, it's like a working product to everyone."
+    },
+    {
+      "end_seconds": 1247.084,
+      "id": "youtube-tJBv3kHZtzg#cue-71",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1223.844,
+      "text": "Yeah, and yeah, that's like the execution part. So the idea and the execution is like what makes a successful hackathon project. I personally don't really like slides for final presentation. I don't think I ever made any deck for final presentation. I'm always just go in with um a demo."
+    },
+    {
+      "end_seconds": 1269.536,
+      "id": "youtube-tJBv3kHZtzg#cue-72",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1247.084,
+      "text": "But you kind of stage the live demo, right? Yes. Yes, we we definitely staged a little bit the demo. Like in like something might not work, so you practice the demo to make sure like the dummy data works, the flow works. It's it should be like kind of like a performance of how the idea should look like. Yeah. Nice."
+    },
+    {
+      "end_seconds": 1296.678,
+      "id": "youtube-tJBv3kHZtzg#cue-73",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1269.536,
+      "text": "Yep. Um, so the the third point is like how to how do we make that idea plus execution combo work? So a lot of people ask me how do they find a teammate. Um, like I have the privilege of knowing a lot of really good people. Like they're my friends, and I see hackathon as a way. Like I also I personally really like"
+    },
+    {
+      "end_seconds": 1312.747,
+      "id": "youtube-tJBv3kHZtzg#cue-74",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1296.678,
+      "text": "hang out with my friends by building projects. So it just happened to be a way that I hang out with all the all the people. And the way I make new friends is also I will ask, oh, do you want to do a hackathon together? And so yeah, like um."
+    },
+    {
+      "end_seconds": 1331.838,
+      "id": "youtube-tJBv3kHZtzg#cue-75",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1312.747,
+      "text": "I would say it's like very interesting to do projects with your friends. You learn a lot, like you also go through a lot of things. I really like it. But if you don't really have friends in real life that you can do it, and you kind of have to find them on the spot, it's always like um."
+    },
+    {
+      "end_seconds": 1338.988,
+      "id": "youtube-tJBv3kHZtzg#cue-76",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1331.838,
+      "text": "like a crapshoot, like you don't, you don't really know what kind of people you will get, um, so like."
+    },
+    {
+      "end_seconds": 1366.341,
+      "id": "youtube-tJBv3kHZtzg#cue-77",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1338.988,
+      "text": "Like it's it's just like hard to always get the best people on the spot. I would if you want to win the hackathon, I would suggest like going people you kind of know already. Especially like uh, people should have different skill sets. Um, actually, not um, believer of like huge team. Like in all the winning hackathons, our team usually just have like two people, like me and plus my engineering."
+    },
+    {
+      "end_seconds": 1375.606,
+      "id": "youtube-tJBv3kHZtzg#cue-78",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1366.341,
+      "text": "friend， so my friend will work on all the engineering stuff， and I will work on all the non-engineering stuff， including um like."
+    },
+    {
+      "end_seconds": 1397.12,
+      "id": "youtube-tJBv3kHZtzg#cue-79",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1375.606,
+      "text": "Like all the design, you see, like the egg thing, like the animation. There's also a lot of logistics. There's like a lot of design. How do we face the demo? And including some networking with people and judges. Um, so I got a lot of questions about people asking me, \"Oh, I'm non-technical. Like, what should I do in a hackathon?\""
+    },
+    {
+      "end_seconds": 1414.429,
+      "id": "youtube-tJBv3kHZtzg#cue-80",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1397.12,
+      "text": "Like, is that for me? Like, if I don't know how to code, can I go? Um, that like the answer is for sure. Especially when AI is so popular, you don't really need to know how to code to participate in a hackathon. In fact, I think a team."
+    },
+    {
+      "end_seconds": 1436.252,
+      "id": "youtube-tJBv3kHZtzg#cue-81",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1414.429,
+      "text": "I don't think a team can like at least for my personal opinion. I don't know how well if two engineers are working on the same team. I usually talk to people. Um, a lot of the frustration is that when you have two engineering, two engineer work on the same codebase, you spend the majority of your time resolving merging conflict."
+    },
+    {
+      "end_seconds": 1451.21,
+      "id": "youtube-tJBv3kHZtzg#cue-82",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1436.252,
+      "text": "and especially when time is so tight, like if like any little thing doesn't work, you spend too much time on like communicating. So if you have one really good engineer, that usually works way better than if you have like two engineers."
+    },
+    {
+      "end_seconds": 1476.043,
+      "id": "youtube-tJBv3kHZtzg#cue-83",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1451.21,
+      "text": "try to work with each other, unless you can divide and conquer the stuff really, really well. So to make sure you can maximize everyone's productivity. But for non-engineering people, it's actually a lot easier. Like there are like so many things you can do. Like people can think about the demo idea, the user journey. You can do design. You can do like"
+    },
+    {
+      "end_seconds": 1500.184,
+      "id": "youtube-tJBv3kHZtzg#cue-84",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1476.043,
+      "text": "different art asset on the part. Ah, you can talk to people. You can even like interview other people on the hackathon to get some user feedback. Interview the judges. But in the end, I I think an ideal size is maybe like two to three people. Ah, because the more people you have, the more you need to put in like communication, dividing up the work."
+    },
+    {
+      "end_seconds": 1512.998,
+      "id": "youtube-tJBv3kHZtzg#cue-85",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1500.184,
+      "text": "So it's not always like the more people the better, but of course the more people you have, you can have like spread them out in different areas, depending on how complicated your project is. But I think the"
+    },
+    {
+      "end_seconds": 1533.32,
+      "id": "youtube-tJBv3kHZtzg#cue-86",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1512.998,
+      "text": "It boils down to like if you are non-technical, like it's totally fine. Like it's very fun to go into the hackathon because you actually get to have more fun meeting new people and engineering. When engineering has to like always like heads down coding, you can actually like do a lot of more stuff."
+    },
+    {
+      "end_seconds": 1555.651,
+      "id": "youtube-tJBv3kHZtzg#cue-87",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1533.32,
+      "text": "嗯，yes. So I talk a little bit about networking. So, like networking hackathon, I think it's not a topic that people like talk about a lot, but I find it like very, very useful. Uh, both for my personal goal, which is to make more friends and like."
+    },
+    {
+      "end_seconds": 1570.824,
+      "id": "youtube-tJBv3kHZtzg#cue-88",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1555.651,
+      "text": "discover more interesting stuff happening in life, and it's also about winning the hackathon. So for some, so more, let's be more utilitarian. If you want to win the um hackathon, it's more like"
+    },
+    {
+      "end_seconds": 1592.766,
+      "id": "youtube-tJBv3kHZtzg#cue-89",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1570.824,
+      "text": "The judges will have the final say in in your final project. And if the judges don't get a lot of time, like they don't, like there is so many projects. The OverEasy one had like a hundred. I think the YC one always have maybe like two hundred projects at the same time. The judges just don't get that much time understanding your project. Where like"
+    },
+    {
+      "end_seconds": 1613.708,
+      "id": "youtube-tJBv3kHZtzg#cue-90",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1592.766,
+      "text": "maybe you have a lot of really great ideas, but it's just hard to say everything in the three minutes demo. And whatever your demo doesn't work, so it's a lot of things going on. If you can get any time talking to the judges during the hackathon, um, get their feedback on your project, get their advice. Like it's it's a great way to."
+    },
+    {
+      "end_seconds": 1627.475,
+      "id": "youtube-tJBv3kHZtzg#cue-91",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1613.708,
+      "text": "Kind of get more um exposure for yourself, and also for the judges to understand your project more. In case India, maybe they don't even get to see your project in the final judging, because they always like spread it out."
+    },
+    {
+      "end_seconds": 1637.44,
+      "id": "youtube-tJBv3kHZtzg#cue-92",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1627.475,
+      "text": "Sorry, question. Like, are they at the hackathon, or do they just come at the end to uh to the judge, and are they allowed to talk to participants?"
+    },
+    {
+      "end_seconds": 1659.412,
+      "id": "youtube-tJBv3kHZtzg#cue-93",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1637.44,
+      "text": "Yeah, so, um, for all the hackathons I went to, only one very weird structured hackathon said, \"Oh, we don't want you to talk to the judge because it's not fair.\" But most of the time, the sponsors and judges, uh, especially the sponsors, which are also the judges at the same time, they are there to."
+    },
+    {
+      "end_seconds": 1676.05,
+      "id": "youtube-tJBv3kHZtzg#cue-94",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1659.412,
+      "text": "Talk to all the participants. So, in that case, like everyone is encouraged to talk to them to learn about their company, to ask questions about how to use their company tool in your project. So, I would say, like it's mostly encouraged to talk to them."
+    },
+    {
+      "end_seconds": 1700.909,
+      "id": "youtube-tJBv3kHZtzg#cue-95",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1676.05,
+      "text": "And, um, yeah, that's for like utilitarian reason. And but another thing I also find it's just like very interesting to talk to them. You can talk to judges and sponsors. You can talk to your fellow other hackers. Maybe when you're getting food, when you're getting drinks, just asking, oh, what are you building here? Um, like you miss, I met a lot of my really good friends during hackathon, and it's."
+    },
+    {
+      "end_seconds": 1729.297,
+      "id": "youtube-tJBv3kHZtzg#cue-96",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1700.909,
+      "text": "Like it's very hard to meet new friends, I would say, like these days. And you don't really have, you don't always have something like interesting you can talk about. But in hackathon, everyone is here to try to build something. Everyone is willing to talk about what I'm here for, what I'm building, what do I work on when I'm not doing hackathon. So people are more open-minded to make new friends. So yeah, it's like a great opportunity to just meet a lot of friends. It's like new student orientation."
+    },
+    {
+      "end_seconds": 1740.347,
+      "id": "youtube-tJBv3kHZtzg#cue-97",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1729.297,
+      "text": "Yes, yes, yeah, totally. And people they're doing hackathons are kind of like that too. They also want to meet new friends. I would say most people do. Yeah."
+    },
+    {
+      "end_seconds": 1749.575,
+      "id": "youtube-tJBv3kHZtzg#cue-98",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1740.347,
+      "text": "Yep. So that's networking. Um. So the last point is about like how to deal with not winning. I think it's also the"
+    },
+    {
+      "end_seconds": 1757.707,
+      "id": "youtube-tJBv3kHZtzg#cue-99",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1749.575,
+      "text": "Like it's it's a cliche, but it's like one of the most important thing for doing hackathons, because if you cannot"
+    },
+    {
+      "end_seconds": 1781.486,
+      "id": "youtube-tJBv3kHZtzg#cue-100",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1757.707,
+      "text": "deal with not winning, it's actually very hard to start doing hackathons, and then or like to keep doing hackathons. I think I it's like I also learned this through like all my experiences of doing other hackathons that didn't really win, end up winning. Um, I I think for myself, one of the biggest learning that I know is that"
+    },
+    {
+      "end_seconds": 1793.542,
+      "id": "youtube-tJBv3kHZtzg#cue-101",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1781.486,
+      "text": "Like a lot of the things I would I'm doing is not gonna work, and I have to know that like, I have to be okay with things not working, and so."
+    },
+    {
+      "end_seconds": 1817.598,
+      "id": "youtube-tJBv3kHZtzg#cue-102",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1793.542,
+      "text": "When I first start doing hackathon, if I didn't win, I feel really bad. I feel like oh, I'm not good. I'm not as good as other people. But as I do more, I realize there's such a randomness in all these hackathons. Maybe someone, for example, I talked about our highly philosophical LLMs interpreter project, Shoya. I really like that project."
+    },
+    {
+      "end_seconds": 1841.092,
+      "id": "youtube-tJBv3kHZtzg#cue-103",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1817.598,
+      "text": "But that project only got the third place in the first uh YC hackathon. I think because that YC partner didn't like the idea. She wants more practical idea that she can actually invest or she would use. But we got such good network result out of that project because the Wordware people really like it. It aligns with their philosophy, and"
+    },
+    {
+      "end_seconds": 1865.071,
+      "id": "youtube-tJBv3kHZtzg#cue-104",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1841.092,
+      "text": "Yeah, like it's just like it's like it's a lot of randomness. Like if you didn't win, it doesn't really mean your project is not good. It could just be like the judges that would have liked your project a lot more didn't get to see it. And the fun is in the entire process of like doing it with friends, meeting new people, testing out different ideas, and."
+    },
+    {
+      "end_seconds": 1877.21,
+      "id": "youtube-tJBv3kHZtzg#cue-105",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1865.071,
+      "text": "not winning is just like one result, um of out of that. And I I also learned how to deal with like the failures. Before I will think like every failure is like a"
+    },
+    {
+      "end_seconds": 1905.762,
+      "id": "youtube-tJBv3kHZtzg#cue-106",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1877.21,
+      "text": "It's like a sm like a smear on my very pretty journey. Like my journey should be perfect, like everything should look great. But then, as I fail more and more, I I cherish all these failures even more. I feel like if I fail, that means I'm like trying hard enough. That's my way of feeling more secure with my life. If I don't fail enough, I actually feel a little bit uncomfortable. That means I'm not"
+    },
+    {
+      "end_seconds": 1928.527,
+      "id": "youtube-tJBv3kHZtzg#cue-107",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1905.762,
+      "text": "Trying enough things, I'm not actually reaching my full potential. So every little failure is not that negative anymore, and that actually also, um, like that's something that keeps motivating me to go to hackathon. Of course, I'm not winning every one. If I get really discouraged from not winning one of them, it's very hard to keep going."
+    },
+    {
+      "end_seconds": 1952.43,
+      "id": "youtube-tJBv3kHZtzg#cue-108",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1928.527,
+      "text": "Yeah, so yeah, I think that's the five key principles I have for going to hackathons. Nice, thank you. And let's go to question and answers. I think you actually answer a lot of questions in chat. For example, how to recruit a team, like how to distribute work, and what motivates you to join a hackathon, right? You just mention all of that. I think one question from Shuai is."
+    },
+    {
+      "end_seconds": 1970.542,
+      "id": "youtube-tJBv3kHZtzg#cue-109",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1952.43,
+      "text": "呃，like how to balance ideas? Like, do you have to kind of please the judge? Do you go? Do you have to sacrifice usefulness in order for like uh ideas that attract more attention? Like, do you think? Like, have you ever abandoned an idea that you feel like is useful but may not win a hackathon?"
+    },
+    {
+      "end_seconds": 1995.404,
+      "id": "youtube-tJBv3kHZtzg#cue-110",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1970.542,
+      "text": "Yeah, like I would say, that's a very good problem to have. If you have to like balance between ideas, that means you have many, many good ideas. Um, I like it's not a very common problem to me, but I have a little list of whenever I think about something that could be a good hackathon project, I put that in in the little list. But um, I also have this discussion with my"
+    },
+    {
+      "end_seconds": 2013.043,
+      "id": "youtube-tJBv3kHZtzg#cue-111",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 1995.404,
+      "text": "friend like which idea we should do, I find the most rewarding thing is always to do something that you really want to build. Um, if because in the end, if we talk about like how random it is to win the hackathon, if and it's always like."
+    },
+    {
+      "end_seconds": 2027.904,
+      "id": "youtube-tJBv3kHZtzg#cue-112",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2013.043,
+      "text": "If you want to build, if you build something you think people will like it, then it should be something you really want to build too. If it the it's not the thing that you really want, it's hard to assume that other people will really want that."
+    },
+    {
+      "end_seconds": 2051.101,
+      "id": "youtube-tJBv3kHZtzg#cue-113",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2027.904,
+      "text": "And in the end, if it doesn't win, if it's something that you really want to do, you will not feel like it's a waste of time, too. Yeah, like I would say, just build something that's like very close to your heart and you are very passionate about is the most important thing, and that that is usually a very good project, and that will like touch a lot of people too."
+    },
+    {
+      "end_seconds": 2068.565,
+      "id": "youtube-tJBv3kHZtzg#cue-114",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2051.101,
+      "text": "Or at least, if you try to just please the judge, you get nothing, right? Okay, that you you don't win that way. Yeah, like you should please yourself and the judge. If something that you think will please the judge, but it doesn't really please you, I doubt that will actually please the judges too."
+    },
+    {
+      "end_seconds": 2079.537,
+      "id": "youtube-tJBv3kHZtzg#cue-115",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2068.565,
+      "text": "Cool. Uh, a question from Ba Ba Mo. How many times have you tried? And what is the first win looks like for you? I guess how many times you tried before you winning the first hackathon."
+    },
+    {
+      "end_seconds": 2101.815,
+      "id": "youtube-tJBv3kHZtzg#cue-116",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2079.537,
+      "text": "嗯，I think I got very lucky. Um, my first hackathon, like I win, it's like a crypto hackathon. They have a lot of um cash reward. I won like sixteen k out of that hackathon with my friends. So that was I was lucky. That was my first hackathon. But after that, I definitely went to some hackathons. I didn't win. Um."
+    },
+    {
+      "end_seconds": 2117.174,
+      "id": "youtube-tJBv3kHZtzg#cue-117",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2101.815,
+      "text": "Like I was, I I forgot like how many times, but there are a lot of times I end up with nothing and going back home. Yeah. How many hackathons have you been to? I didn't really count, but maybe around like."
+    },
+    {
+      "end_seconds": 2138.969,
+      "id": "youtube-tJBv3kHZtzg#cue-118",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2117.174,
+      "text": "ten ish like twelve thirteen. See, uh, one question from now, and maybe we can ask one more, and then uh close it. Uh, so uh, leave your question uh in the chat if you want to. So the question from now is, uh, what do you think has contributed most to your win wins in multiple hackathon?"
+    },
+    {
+      "end_seconds": 2147.654,
+      "id": "youtube-tJBv3kHZtzg#cue-119",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2138.969,
+      "text": "I guess the question is like for any single one's idea plus execution, but if you can win multiple one, then what?"
+    },
+    {
+      "end_seconds": 2173.648,
+      "id": "youtube-tJBv3kHZtzg#cue-120",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2147.654,
+      "text": "Yeah, I think it's like um, I will say because like it's a lot of factors coming into play, but I think it's because because execution is kind of a given if you pick the right person. Like you know how to work together, they have like certain engineering skills, so that's not really the factor for me. So I would say um."
+    },
+    {
+      "end_seconds": 2201.397,
+      "id": "youtube-tJBv3kHZtzg#cue-121",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2173.648,
+      "text": "I think the most important part for my hackathon wins are the ideas. Like if I pay a lot of attention to the daily problems or other people's daily problems, I oft I often end up with pretty good ideas. And then we can just um maneuver the demo to make it look good. And then in the end, it's like a good hackathon project. So I think like observing what could be"
+    },
+    {
+      "end_seconds": 2209.892,
+      "id": "youtube-tJBv3kHZtzg#cue-122",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2201.397,
+      "text": "Like what could please everyone in everyday life and turning into a hackathon project is pretty important. Because product sense."
+    },
+    {
+      "end_seconds": 2219.866,
+      "id": "youtube-tJBv3kHZtzg#cue-123",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2209.892,
+      "text": "Yeah, yeah. So a lot of both questions that are coming up, but we can only pick one. So I'll let you pick one. The first is during your hackathon projects."
+    },
+    {
+      "end_seconds": 2240.955,
+      "id": "youtube-tJBv3kHZtzg#cue-124",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2219.866,
+      "text": "Have you ever encountered an area of knowledge or skill that you initially initially lacked, but realized was critical to your goal? And then, if so, how did you quickly get up to speed and apply the new knowledge? The second question is: After all the hackathons accumulated, do you have a list of tools that you leverage the most?"
+    },
+    {
+      "end_seconds": 2251.01,
+      "id": "youtube-tJBv3kHZtzg#cue-125",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2240.955,
+      "text": "The first is how to overcome information or knowledge gap. The second is a list of tools."
+    },
+    {
+      "end_seconds": 2278.555,
+      "id": "youtube-tJBv3kHZtzg#cue-126",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2251.01,
+      "text": "I think the first one is pretty interesting because I definitely learned a lot of things in the hackathon too. Um, and I think like learning by doing is such a cliche, but it's it's real. So, um, because I I told you like my friend is usually engineering and I'm responsible for all the non-engineering stuff. I need to learn like design, like how to do design, how to do product, how to do user journey, like a lot of things, how to network."
+    },
+    {
+      "end_seconds": 2286.232,
+      "id": "youtube-tJBv3kHZtzg#cue-127",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2278.555,
+      "text": "嗯，I learned a lot of different things when I'm doing it. I I think, okay, I think the most."
+    },
+    {
+      "end_seconds": 2307.203,
+      "id": "youtube-tJBv3kHZtzg#cue-128",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2286.232,
+      "text": "useful thing for me is just to talk to ChatGPT or like any AI. I think usually you, like you and Yago, also had like a episode about how to ask ChatGPT, how to yeah for all these questions. It will give you a very good, even above average answer for different things."
+    },
+    {
+      "end_seconds": 2325.359,
+      "id": "youtube-tJBv3kHZtzg#cue-129",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2307.203,
+      "text": "And then you can keep building on top of that. So I think a lot of things, even like rocket science, you can learn it like step by step. A lot of things are not as difficult as you think. For example, um, I was I really wanted to do a very cute animation of like the little egg doing doing things."
+    },
+    {
+      "end_seconds": 2340.481,
+      "id": "youtube-tJBv3kHZtzg#cue-130",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2325.359,
+      "text": "And then, but I'm no, I'm not a designer. I don't really know how to do that. Then I started like pulling random pictures and feed it into ChatGPT and ask it to give me like cute egg. And I use a Veo three to build that."
+    },
+    {
+      "end_seconds": 2352.602,
+      "id": "youtube-tJBv3kHZtzg#cue-131",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2340.481,
+      "text": "video animation， and then sometimes it doesn't work. So I try different things. I give it like all the elements and ask it to do a video, or not giving anything. Like I just try different things, and you will realize some."
+    },
+    {
+      "end_seconds": 2374.84,
+      "id": "youtube-tJBv3kHZtzg#cue-132",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2352.602,
+      "text": "Some things are working. So the good things with AI is that it has so many information um in the LM that it will give you average answer. And the tools also make everything way easier than before. Like you don't really have to be a designer to build something that's very cute, or you don't have to be an animator to actually build a good animation."
+    },
+    {
+      "end_seconds": 2385.414,
+      "id": "youtube-tJBv3kHZtzg#cue-133",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2374.84,
+      "text": "Cool, let's go to the next slide, and I'll do my two minutes pitch. So, a lot of principles you just mentioned, like for example, trying, learning from mistakes."
+    },
+    {
+      "end_seconds": 2394.623,
+      "id": "youtube-tJBv3kHZtzg#cue-134",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2385.414,
+      "text": "And asking the right question, iterate, right? Those are the key skills in the era of AI, and how to leverage the most out of these AI tools."
+    },
+    {
+      "end_seconds": 2418.961,
+      "id": "youtube-tJBv3kHZtzg#cue-135",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2394.623,
+      "text": "So our course, built with AI, is kind of on this principle. I'll show you what's possible with AI, and then how to get there. And not only through the success, the successful demos, but also the guided mistakes. And we'll build things together with a lot of prototype, and I'll show you what works and how to get over that. Then what doesn't work, and then how to unblock yourself. And it's a very hands-on."
+    },
+    {
+      "end_seconds": 2446.671,
+      "id": "youtube-tJBv3kHZtzg#cue-136",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2418.961,
+      "text": "Course and it will show you principles as well. Like a lot of principles holds true, holds true like during this rapid development of AI, which is not common. Like we teach you principles from a year ago. This is our tenth cohort, and if you look at our first cohort, for example, we do not teach RAG, and now it turns out RAG is not the best way to do things. So that is the course, and our next cohort is November third."
+    },
+    {
+      "end_seconds": 2468.758,
+      "id": "youtube-tJBv3kHZtzg#cue-137",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2446.671,
+      "text": "Also dropped a link of the community. So in the community, you can have discussions and ask lifetime question questions Q and A. We'll answer your questions. If you register by the course, you'll get access to the community. But you can also get into the community for free. You just follow the like."
+    },
+    {
+      "end_seconds": 2482.947,
+      "id": "youtube-tJBv3kHZtzg#cue-138",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2468.758,
+      "text": "We, I, I don't want to just say, you know, how to get into the community, but there is a way to get into the community for free. And I will invite Riley to answer a question if you have question for her. Like for example, the toolkits that she leveraged the most."
+    },
+    {
+      "end_seconds": 2510.379,
+      "id": "youtube-tJBv3kHZtzg#cue-139",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2482.948,
+      "text": "Alright, thank you for coming to this lightning course, and have a happy weekend. Bye. Thank you, Riley. Thank you, Arvind. Bye."
+    }
+  ],
+  "video_id": "tJBv3kHZtzg",
+  "yuzheng_stance_weight": "not-evidence"
+}
