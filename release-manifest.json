@@ -71,20 +71,20 @@
     "english_community_full_text_files": 49,
     "english_community_original_yuzheng": 11,
     "english_community_third_party_or_unresolved": 39,
-    "english_video_translations": 77
+    "english_video_translations": 76
   },
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 572
+      "files": 568
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
-      "files": 38
+      "files": 39
     },
     "LicenseRef-Lizheng-Reference-Use-1.0": {
       "text": "LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md",
-      "files": 620
+      "files": 623
     },
     "LicenseRef-Original-Rights-Retained": {
       "text": "LICENSES/LicenseRef-Original-Rights-Retained.md",
@@ -110,8 +110,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 16512,
-      "sha256": "854b6b16b3cfbc8580f0db501d1f4e381914e6fac88cbfe7d295cb6f19afbb55",
+      "bytes": 16655,
+      "sha256": "1638533dafa95961717eb952603c6c86fabdca416a3952fe871edd2d82aa5efb",
       "license": "MIT"
     },
     {
@@ -128,8 +128,8 @@
     },
     {
       "path": "INDEX.md",
-      "bytes": 7200,
-      "sha256": "896ea00a77e018255bcb9ce54840a58a413f0b17561ad51ff8b74a5bf8994009",
+      "bytes": 7210,
+      "sha256": "70bd6a67cff11ff7215940d40d828d22f33d71df317aff94db8bacb5c6b50899",
       "license": "CC0-1.0"
     },
     {
@@ -183,7 +183,7 @@
     {
       "path": "REUSE.toml",
       "bytes": 23863,
-      "sha256": "e202f5120566e3a1d07100ae72f90cdec91c9f27d60e8e5c29aa32e0eca17c1c",
+      "sha256": "cd986e4bf5025a588e5b7f3ce80f57189101b85980f9733821d11feb2937d6d7",
       "license": null
     },
     {
@@ -230,8 +230,8 @@
     },
     {
       "path": "catalog/english-translations.jsonl",
-      "bytes": 142967,
-      "sha256": "cdb91143f728857966eb73a298ac248dc597593977282a940e9408e39658dacf",
+      "bytes": 141098,
+      "sha256": "0a8b28e1b365ffa6f2bfebcaec552bfb5f84c1b6ed6ed057c8d108cf407e28c5",
       "license": "CC0-1.0"
     },
     {
@@ -254,8 +254,8 @@
     },
     {
       "path": "catalog/videos.jsonl",
-      "bytes": 1153492,
-      "sha256": "42aa3a0e6c477d5b946b16866bcc4bccbb435bcd93942f64111573dcfa23d6ff",
+      "bytes": 1153558,
+      "sha256": "225284018e9ea7cd88b751d753f25d43f7db2c2ce22aa429b1f2159a558160b7",
       "license": "CC0-1.0"
     },
     {
@@ -338,8 +338,8 @@
     },
     {
       "path": "config/video-transcript-allowlist.txt",
-      "bytes": 3060,
-      "sha256": "519aa192c8c25e0d8dc6fe9eb90afaec26662b56c7c85b366daf6b5349fb8a1a",
+      "bytes": 3024,
+      "sha256": "97cb656332440e0ffad929b74eaf372d7849539eb26d893230935c6a78f36b26",
       "license": "CC0-1.0"
     },
     {
@@ -4699,12 +4699,6 @@
       "license": "LicenseRef-Original-Rights-Retained"
     },
     {
-      "path": "corpus/english-translations/20240102-Tk49xo6i-04-en.md",
-      "bytes": 25594,
-      "sha256": "4a9c63355a9723d47f2c819873c29bd9aaf3bdf582f6654323110a661d553733",
-      "license": "CC-BY-4.0"
-    },
-    {
       "path": "corpus/english-translations/20240104-Cj5R_l3jI_Q-en.md",
       "bytes": 25279,
       "sha256": "587f98f896d1c8f8b6727b950a92e4ad07b27ad226f403f40e84cfbc523e8dbe",
@@ -5738,9 +5732,9 @@
     },
     {
       "path": "corpus/videos/20230330-mxLXVdSmduE.md",
-      "bytes": 9426,
-      "sha256": "f205da9878c0db01d4245f2623b67cb4a1b1b3d192c5fa7b8504f89e70708037",
-      "license": "CC-BY-4.0"
+      "bytes": 9253,
+      "sha256": "96d6c015f8b148916fc8384cef2205cf2c70baa416965d311d40cfce897f28eb",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
       "path": "corpus/videos/20230402-e_h6aIPBXKw.md",
@@ -6146,9 +6140,9 @@
     },
     {
       "path": "corpus/videos/20231212-7IhS6Qx5gHI.md",
-      "bytes": 4568,
-      "sha256": "40e89d140328babacf8914bbb232c5e5dd79763be751a2a570c8b0fca4f86b87",
-      "license": "CC-BY-4.0"
+      "bytes": 4395,
+      "sha256": "088f55e464a0c7def2127417c5e5e441d0da749877b970310cfbbf4ac9011c20",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
       "path": "corpus/videos/20231214-KS7V-uK7B8w.md",
@@ -6242,9 +6236,9 @@
     },
     {
       "path": "corpus/videos/20240102-Tk49xo6i-04.md",
-      "bytes": 24806,
-      "sha256": "be0c1bea1a6143f75bc863fec1f3af4e4a15ed15414424cf5f377c07f6df01ae",
-      "license": "CC-BY-4.0"
+      "bytes": 24633,
+      "sha256": "04f514094e0d2037a7ce1237befe6ebb5002a5324f781ce3116bfb303f2ce4a4",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
       "path": "corpus/videos/20240104-Cj5R_l3jI_Q.md",
@@ -7802,8 +7796,8 @@
     },
     {
       "path": "index/english.md",
-      "bytes": 31895,
-      "sha256": "242b7714ebc293bef3ff862928dc43b73a0d00bc33883a5cc8e9b8c64cdae8fa",
+      "bytes": 31673,
+      "sha256": "40b96937eceb91743efd970066574f0dde1c32ac1bc49a36ff244d9a8e8da0c4",
       "license": "CC0-1.0"
     },
     {
@@ -7816,6 +7810,12 @@
       "path": "index/knowledge-bank.md",
       "bytes": 33860,
       "sha256": "41e0c0ad10a84aa62e73a6f888eb6cd4ff391dff30c5c799789c7ecd32c625f5",
+      "license": "CC0-1.0"
+    },
+    {
+      "path": "index/solo-videos.md",
+      "bytes": 49357,
+      "sha256": "527bb677e76062ea7142c4c64ebe37555bd2c8048764eef9bf72fa3b7ad4ee3e",
       "license": "CC0-1.0"
     },
     {
@@ -7832,8 +7832,8 @@
     },
     {
       "path": "index/videos.md",
-      "bytes": 139182,
-      "sha256": "5034d59189aed99d35c51aec3d8c800b9ffc96e90ae90c1917106ac01cf1171b",
+      "bytes": 139194,
+      "sha256": "1b3e53bbd8aaecfbfaf891e939110bfff6ab1d0ecf4f4855851795678287b9c2",
       "license": "CC0-1.0"
     },
     {
@@ -7850,8 +7850,8 @@
     },
     {
       "path": "scripts/build_index.py",
-      "bytes": 33360,
-      "sha256": "6305f6e2dab427287039ba193c04e244ebebdd32f54e70506fefae81ff4045bf",
+      "bytes": 34397,
+      "sha256": "26f1f0b2b18a37964fa26ec0e78860cf9502aa8ee978b4b4ad3fc752f21b5a50",
       "license": "MIT"
     },
     {
@@ -7868,8 +7868,8 @@
     },
     {
       "path": "scripts/export_public_corpus.py",
-      "bytes": 51290,
-      "sha256": "14845ca943e91312f5c80b1cb62f68ade99a579e11e4737a913517852e988ac9",
+      "bytes": 51687,
+      "sha256": "500e77e9dabe3f1bf92e27c414d78a5cc8d5987f542faa8826008f669ab01965",
       "license": "MIT"
     },
     {
@@ -7946,8 +7946,8 @@
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 61528,
-      "sha256": "a503424fd416d10bf87c86dc5b50a6e32a00ae226ffc4c3275e17ed441799424",
+      "bytes": 62470,
+      "sha256": "8ea36c431a9d189a694e1e17efdc8f64b53302dc68d527fb6500674433667080",
       "license": "MIT"
     },
     {
@@ -7994,8 +7994,8 @@
     },
     {
       "path": "tests/test_index.py",
-      "bytes": 3381,
-      "sha256": "511decfa4a8c613f3e2e10c9254a8006bfc14e24e73a7a5b2f9f1372b6e04a95",
+      "bytes": 3988,
+      "sha256": "cfe50d1f39cbcea91e198c964105351e915de88bbbd19c348c0c0a5202851d85",
       "license": "MIT"
     },
     {
@@ -8012,8 +8012,8 @@
     },
     {
       "path": "tests/test_member_transcripts.py",
-      "bytes": 8453,
-      "sha256": "481ca0461b615b30c874f167dbfa78bdd57f976de2344daeb3195448a76798f9",
+      "bytes": 9768,
+      "sha256": "46acaa18b6737e35536ff749e13582da0e5883f15ce085f998405361778c532f",
       "license": "MIT"
     },
     {

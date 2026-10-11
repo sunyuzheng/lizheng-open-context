@@ -147,6 +147,25 @@ class MemberTranscriptTests(unittest.TestCase):
         self.assertEqual(len(rows), 1)
         self.assertEqual(rows[0]["membership_verified_at"], "2026-10-02")
 
+    def test_public_export_keeps_authorized_dialogue_snapshot_without_solo_upgrade(self):
+        _, writes, rows = self.import_local()
+        row=rows[0]
+        row.update(inclusion_authorization="maintainer-request-2026-10-10-dialogue-transcripts", source_visibility="public")
+        (self.root / "catalog/videos.jsonl").write_text(json.dumps(row)+"\n")
+        (self.root / "config").mkdir(exist_ok=True)
+        (self.root / "config/public-dialogue-policy.json").write_text(json.dumps({"records": [{"video_id": ID}]}))
+        before=writes[0][0].read_bytes()
+        channel=Path(self.temp.name)/"channel"
+        (channel/"logs/library_manifest").mkdir(parents=True)
+        (channel/"logs/library_manifest/library_manifest.json").write_text('{"records": []}')
+        (self.root/"catalog/guests.json").write_text(json.dumps({"schema_version": 1, "entities": [], "sources": [], "appearances": []}))
+        with patch.object(exporter,"ROOT",self.root):
+            exporter.export_videos(channel,"2026-10-11",{},set())
+        self.assertEqual(writes[0][0].read_bytes(),before)
+        actual=json.loads((self.root/"catalog/videos.jsonl").read_text())
+        self.assertEqual(actual["content_origin"],"mixed-or-unresolved-speech")
+        self.assertEqual(actual["yuzheng_stance_weight"],"not-evidence")
+
 
 if __name__ == "__main__":
     unittest.main()

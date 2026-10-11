@@ -13,15 +13,15 @@
 | Statsig博客文章中文版 | 19 篇 | [按日期](index/statsig-blog.md) | [corpus/blog-posts/](corpus/blog-posts/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 社区帖子 | 252 篇 | [按年份](index/community-posts.md) | [corpus/community-posts/](corpus/community-posts/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 社区评论 | 10 条 | [在帖子目录末尾](index/community-posts.md#评论10-条) | [corpus/community-comments/](corpus/community-comments/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
-| 视频字幕：本人主讲 | 207 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
-| 视频字幕：会员视频 · 本人主讲 | 45 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
+| 视频字幕：本人主讲 | 204 份 | [主讲目录](index/solo-videos.md) | [corpus/videos/](corpus/videos/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| 视频字幕：会员视频 · 本人主讲 | 45 份 | [主讲目录](index/solo-videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 视频字幕：会员视频 · 对话 | 170 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
-| 视频字幕：公开视频 · 对话 | 6 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
+| 视频字幕：公开视频 · 对话 | 9 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
 | 结构化对谈原文 | 339 份（含既有来源的新版本） | [对谈原文目录](index/dialogues.md) | [corpus/dialogues/](corpus/dialogues/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；说话人待核，不能据此推定立正赞同 |
 | 对话里立正本人的话 | 132 段 | [塑造价值观的对话](index/values-conversations.md) | [corpus/conversation-excerpts/](corpus/conversation-excerpts/) | 会员视频里的：[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；公开视频里的：[CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：源于立正 | 11 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：其他作者 | 39 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md) |
-| 英文 AI 译稿 | 77 份 | [英文资料](index/english.md) | [corpus/english-translations/](corpus/english-translations/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| 英文 AI 译稿 | 76 份 | [英文资料](index/english.md) | [corpus/english-translations/](corpus/english-translations/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | AI 整理与《真本事》框架 | 9 份 | [见下文](#ai-整理与真本事框架) | [context/](context/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 
 许可的意思：[CC BY 4.0](LICENSES/CC-BY-4.0.txt)注明作者和出处即可转载、改编、商用；[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)可以阅读、搜索、放进不收费的 AI 问答工具和短引用，不能整篇转载、收费使用或训练模型；[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)只供阅读和检索参考。

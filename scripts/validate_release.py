@@ -761,6 +761,9 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
     excerpt_rows = read_jsonl(excerpt_catalog_path) if excerpt_catalog_path.is_file() else []
     public_conversations = validate_values_conversations(video_rows, excerpt_rows, values_policy, member_ids, errors)
     dialogue_stats = validate_dialogues(ROOT, member_ids, errors)
+    dialogue_path = ROOT / "config/public-dialogue-policy.json"
+    dialogue_policy = read_json_object_without_duplicate_keys(dialogue_path) if dialogue_path.is_file() else {}
+    dialogue_ids = {record["video_id"] for record in dialogue_policy.get("records", [])}
     try:
         guest_stats = validate_guest_catalog(ROOT, verify_manifest=verify_existing_manifest)
     except (OSError, ValueError, KeyError, TypeError, AttributeError) as exc:
@@ -853,16 +856,22 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
         is_member = row.get("video_id") in member_ids
         # One of the six public conversations the publisher opened on 2026-10-04 (checked above).
         is_conversation = row.get("video_id") in public_conversations
+        is_dialogue = row.get("video_id") in dialogue_ids
+        if is_dialogue and not is_conversation and row.get("transcript_included"):
+            expected = dict(PUBLIC_CONVERSATION_FIELDS, inclusion_authorization=dialogue_policy.get("authorization"))
+            for field, value in expected.items():
+                if row.get(field) != value:
+                    errors.append(f"{row.get('id')}: structured dialogue conflicts with video metadata {field}")
         if is_member:
             validate_member_video(row, member_policy, errors, solo_ids)
-        if row.get("transcript_included") and not (is_member or is_conversation) and row.get("rights_scope") != "first-party":
+        if row.get("transcript_included") and not (is_member or is_conversation or is_dialogue) and row.get("rights_scope") != "first-party":
             errors.append(f"{row.get('id')}: mixed-speaker transcript included")
-        if row.get("transcript_included") and not is_conversation and (not is_member or row.get("rights_scope") == "first-party") and (
+        if row.get("transcript_included") and not (is_conversation or is_dialogue) and (not is_member or row.get("rights_scope") == "first-party") and (
             row.get("speaker_classification") != "solo-yuzheng"
             or row.get("review_status") != "approved"
         ):
             errors.append(f"{row.get('id')}: transcript lacks positive speaker-rights approval")
-        if row.get("transcript_included") and not (is_member or is_conversation) and row.get("guest_names"):
+        if row.get("transcript_included") and not (is_member or is_conversation or is_dialogue) and row.get("guest_names"):
             errors.append(f"{row.get('id')}: known guest transcript included")
         if not str(row.get("url", "")).startswith("https://www.youtube.com/watch?v="):
             errors.append(f"{row.get('id')}: unexpected video source URL")
@@ -870,7 +879,7 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
     included_video_ids = {
         row.get("video_id") for row in video_rows if row.get("transcript_included")
     }
-    expected_video_ids = transcript_allowlist | member_ids | public_conversations
+    expected_video_ids = transcript_allowlist | member_ids | public_conversations | (included_video_ids & dialogue_ids)
     if included_video_ids != expected_video_ids:
         missing = sorted(expected_video_ids - included_video_ids)
         unexpected = sorted(included_video_ids - expected_video_ids)
@@ -902,7 +911,8 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
             identity = str(meta.get("id", "")).removeprefix("youtube-")
             member_reference = (meta.get("rights_scope") == "publisher-authorized-transcript" and (
                 (meta.get("inclusion_authorization") == member_policy.get("authorization") and identity in member_ids)
-                or (meta.get("inclusion_authorization") == VALUES_AUTHORIZATION and identity in public_conversations)))
+                or (meta.get("inclusion_authorization") == VALUES_AUTHORIZATION and identity in public_conversations)
+                or (meta.get("inclusion_authorization") == dialogue_policy.get("authorization") and identity in dialogue_ids)))
             if not member_reference and (not authorized_publisher_text(meta) or meta.get("license") != "CC-BY-4.0"):
                 errors.append(f"{pattern.relative_to(ROOT)}: missing first-party attribution/license")
             if meta.get("third_party_exclusions") is not True:

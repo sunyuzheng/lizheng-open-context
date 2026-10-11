@@ -63,7 +63,7 @@
 
 ## 英文 AI 译稿
 
-立正本人主讲视频的 77 份英文 AI 译稿，按[CC BY 4.0](../LICENSES/CC-BY-4.0.txt)开放。它们是阅读辅助，不是立正的英文原话；引用前请回到原视频核实。
+立正本人主讲视频的 76 份英文 AI 译稿，按[CC BY 4.0](../LICENSES/CC-BY-4.0.txt)开放。它们是阅读辅助，不是立正的英文原话；引用前请回到原视频核实。
 
 机器可读：[catalog/english-translations.jsonl](../catalog/english-translations.jsonl)
 
@@ -145,4 +145,3 @@
 | 2024-01-18 | [Small Tips to Significantly Boost Your Networking Success](../corpus/english-translations/20240118-tv1DJDMxjIA-en.md) | [YouTube](https://www.youtube.com/watch?v=tv1DJDMxjIA) |
 | 2024-01-13 | [Helpful Connections = Coachable: How to Find Them? \| Spicy Takes on Cheng Qian f8IAAxmiU w](../corpus/english-translations/20240113-f8IAAxmiU_w-en.md) | [YouTube](https://www.youtube.com/watch?v=f8IAAxmiU_w) |
 | 2024-01-04 | [A Necklace to Boost Your AI Skills? Cj5R l3jI Q](../corpus/english-translations/20240104-Cj5R_l3jI_Q-en.md) | [YouTube](https://www.youtube.com/watch?v=Cj5R_l3jI_Q) |
-| 2024-01-02 | [How to Get Your Boss’s Support and Mentorship \| Kedaibiao’s “Heavenly” Bosses](../corpus/english-translations/20240102-Tk49xo6i-04-en.md) | [YouTube](https://www.youtube.com/watch?v=Tk49xo6i-04) |

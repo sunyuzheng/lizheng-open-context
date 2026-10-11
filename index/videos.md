@@ -6,10 +6,10 @@
 
 | 类型 | 数量 | 字幕的许可 |
 | --- | ---: | --- |
-| 本人主讲（含 3 条早先收录的会员视频） | 207 | [CC BY 4.0](../LICENSES/CC-BY-4.0.txt) |
+| 本人主讲（含 3 条早先收录的会员视频） | 204 | [CC BY 4.0](../LICENSES/CC-BY-4.0.txt) |
 | 会员 · 本人主讲 | 45 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 会员 · 对话 | 170 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
-| 公开 · 对话 | 6 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
+| 公开 · 对话 | 9 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
 | 只有目录 | 333 | 没有字幕全文；标题、日期和链接按[CC0 1.0](../LICENSES/CC0-1.0.txt)开放 |
 
 会员视频需要频道会员才能观看，字幕文字已获授权开放。「会员 · 本人主讲」经人工核对只有立正一人讲述；「会员 · 对话」和「公开 · 对话」里嘉宾、主持人和提问者的话归他们本人。「公开 · 对话」是立正 2026-10-04 指定收录的、塑造他价值观的几场公开对话，这些对话里他本人的话另见[塑造价值观的对话](../index/values-conversations.md)。「只有目录」多是嘉宾访谈、多人对话或尚未复核说话人的视频。
@@ -424,7 +424,7 @@
 | 2024-01-10 | [2024剧变之年，如何抓住人生机会？\| 硅谷徐老师（中）](https://www.youtube.com/watch?v=PWqmRub9wdI) | — | 只有目录 |
 | 2024-01-06 | [四十万粉了，为什么还要靠打工赚钱？ @hackbearterry](https://www.youtube.com/watch?v=YbCmJJ2SZOE) | — | 只有目录 |
 | 2024-01-04 | [帮你提升AI能力的项链？](https://www.youtube.com/watch?v=Cj5R_l3jI_Q) | [全文](../corpus/videos/20240104-Cj5R_l3jI_Q.md) | 本人主讲 |
-| 2024-01-02 | [如何取得老板的帮助和培养？｜课代表的神仙老板们](https://www.youtube.com/watch?v=Tk49xo6i-04) | [全文](../corpus/videos/20240102-Tk49xo6i-04.md) | 本人主讲 |
+| 2024-01-02 | [如何取得老板的帮助和培养？｜课代表的神仙老板们](https://www.youtube.com/watch?v=Tk49xo6i-04) | [全文](../corpus/videos/20240102-Tk49xo6i-04.md) | 公开 · 对话 |
 
 ## 2023（194 条）
 
@@ -451,7 +451,7 @@
 | 2023-12-15 | [对DS manager们的建议](https://www.youtube.com/watch?v=M20Pw63eOGY) | [全文](../corpus/videos/20231215-M20Pw63eOGY.md) | 会员 · 对话 |
 | 2023-12-14 | [什么是manager心中好IC，和promotion游戏怎么玩？｜Facebook Marketplace三级别DS managers访谈](https://www.youtube.com/watch?v=KS7V-uK7B8w) | [全文](../corpus/videos/20231214-KS7V-uK7B8w.md) | 会员 · 对话 |
 | 2023-12-13 | [被海王玩弄感情，如何自救？](https://www.youtube.com/watch?v=3kTWRH-RT3s) | — | 只有目录 |
-| 2023-12-12 | [宽容是胜利者的特权](https://www.youtube.com/watch?v=7IhS6Qx5gHI) | [全文](../corpus/videos/20231212-7IhS6Qx5gHI.md) | 本人主讲 |
+| 2023-12-12 | [宽容是胜利者的特权](https://www.youtube.com/watch?v=7IhS6Qx5gHI) | [全文](../corpus/videos/20231212-7IhS6Qx5gHI.md) | 公开 · 对话 |
 | 2023-12-11 | [湾区dating，为什么互相看不上？](https://www.youtube.com/watch?v=gm959-Q0Vbw) | [全文](../corpus/videos/20231211-gm959-Q0Vbw.md) | 会员 · 对话 |
 | 2023-12-11 | [数据科学对公司的真正价值，以及向上管理秘籍](https://www.youtube.com/watch?v=vEXP5gIZiz4) | [全文](../corpus/videos/20231211-vEXP5gIZiz4.md) | 会员 · 对话 |
 | 2023-12-10 | [国内劳动力还有出路吗？｜许辉访谈2/2](https://www.youtube.com/watch?v=XqaLlZVoNFo) | — | 只有目录 |
@@ -604,7 +604,7 @@
 | 2023-04-06 | [TechTalk @statsig\_official : What's ChatGPT?](https://www.youtube.com/watch?v=mQveBlevbZo) | — | 只有目录 |
 | 2023-04-05 | [国产ChatGPT有戏吗？](https://www.youtube.com/watch?v=b-SJBCYKOOw) | [全文](../corpus/videos/20230405-b-SJBCYKOOw.md) | 本人主讲 |
 | 2023-04-02 | [盖茨和Altman眼中的GPT，是什么？](https://www.youtube.com/watch?v=e_h6aIPBXKw) | [全文](../corpus/videos/20230402-e_h6aIPBXKw.md) | 本人主讲 |
-| 2023-03-30 | [简简单单，不当韭菜](https://www.youtube.com/watch?v=mxLXVdSmduE) | [全文](../corpus/videos/20230330-mxLXVdSmduE.md) | 本人主讲 |
+| 2023-03-30 | [简简单单，不当韭菜](https://www.youtube.com/watch?v=mxLXVdSmduE) | [全文](../corpus/videos/20230330-mxLXVdSmduE.md) | 公开 · 对话 |
 | 2023-03-24 | [不接商单，假清高还是下大棋？讨厌的观众能不能骂？](https://www.youtube.com/watch?v=DICRxsSlCu0) | — | 只有目录 |
 | 2023-03-18 | [如何不被ChatGPT卷掉？｜脑艺人](https://www.youtube.com/watch?v=mCpQ3XCt9JQ) | [全文](../corpus/videos/20230318-mCpQ3XCt9JQ.md) | 本人主讲 |
 | 2023-03-17 | [网红心得！](https://www.youtube.com/watch?v=yEjvPBCxPeE) | — | 只有目录 |

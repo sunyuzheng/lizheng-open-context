@@ -50,6 +50,17 @@ class IndexTests(unittest.TestCase):
             for row in catalog(name):
                 self.assertIn(f"({row['url']})", pages[page], f"{name}:{row['id']}")
 
+    def test_solo_index_lists_only_available_first_party_solo_transcripts(self):
+        page = build_index.solo_video_page(ROOT)
+        rows = catalog("videos")
+        own = [r for r in rows if r.get("transcript_included") and r.get("speaker_classification") == "solo-yuzheng"]
+        self.assertEqual(len(own), 249)
+        for row in rows:
+            video_link = f"({row['url']})"
+            self.assertEqual(page.count(video_link), 1 if row in own else 0, row["id"])
+            if row in own:
+                self.assertIn(build_index.relative("index/solo-videos.md", row["corpus_path"]), page)
+
     def test_every_full_text_file_is_linked_from_an_index_page(self):
         text = "\n".join(build_index.pages(ROOT).values())
         for path in sorted((ROOT / "corpus").rglob("*.md")):

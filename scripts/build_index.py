@@ -220,6 +220,21 @@ def transcript_groups(videos: list[dict]) -> dict[str, int]:
     return groups
 
 
+def solo_video_page(root: Path) -> str:
+    page = "index/solo-videos.md"
+    videos = [row for row in read_jsonl(root / "catalog/videos.jsonl")
+              if row.get("transcript_included") and row.get("speaker_classification") == "solo-yuzheng"]
+    out = [GENERATED, "", "# 立正主讲文字稿", "",
+           f"{len(videos)} 份单人主讲文字稿，按发布时间从新到旧排列。",
+           "", "文字稿可直接阅读；会员视频的观看权限见原视频。",
+           "", link(page, "对谈索引", "index/dialogues.md") + " · " + link(page, "全部视频目录", "index/videos.md")]
+    for year, rows in by_year(videos):
+        body = [[day(row.get("published_at")), link(page, row["title"], row["corpus_path"]),
+                 f"[原视频]({row['url']})", video_kind(row)] for row in rows]
+        out += ["", f"## {year}（{len(rows)} 份）", "", *table(["日期", "文字稿", "视频", "类型"], body)]
+    return "\n".join(out) + "\n"
+
+
 def video_page(root: Path) -> str:
     page = "index/videos.md"
     videos = read_jsonl(root / "catalog/videos.jsonl")
@@ -417,8 +432,8 @@ def hub_page(root: Path) -> str:
         ["Statsig博客文章中文版", f"{count('blog-posts')} 篇", link(page, "按日期", "index/statsig-blog.md"), link(page, "corpus/blog-posts/", "corpus/blog-posts/"), reference],
         ["社区帖子", f"{count('community-posts')} 篇", link(page, "按年份", "index/community-posts.md"), link(page, "corpus/community-posts/", "corpus/community-posts/"), cc_by],
         ["社区评论", f"{comments} 条", f"[在帖子目录末尾](index/community-posts.md#{comments_anchor})", link(page, "corpus/community-comments/", "corpus/community-comments/"), cc_by],
-        ["视频字幕：本人主讲", f"{groups['open-solo']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), cc_by],
-        ["视频字幕：会员视频 · 本人主讲", f"{groups['member-solo']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), reference],
+        ["视频字幕：本人主讲", f"{groups['open-solo']} 份", link(page, "主讲目录", "index/solo-videos.md"), link(page, "corpus/videos/", "corpus/videos/"), cc_by],
+        ["视频字幕：会员视频 · 本人主讲", f"{groups['member-solo']} 份", link(page, "主讲目录", "index/solo-videos.md"), link(page, "corpus/videos/", "corpus/videos/"), reference],
         ["视频字幕：会员视频 · 对话", f"{groups['member-mixed']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), f"{reference}；嘉宾的话归嘉宾"],
         ["视频字幕：公开视频 · 对话", f"{groups['public-mixed']} 份", link(page, "视频目录", "index/videos.md"), link(page, "corpus/videos/", "corpus/videos/"), f"{reference}；嘉宾的话归嘉宾"],
         ["对话里立正本人的话", f"{sum(int(row.get('excerpt_count') or 0) for row in excerpts)} 段", link(page, "塑造价值观的对话", "index/values-conversations.md"), link(page, "corpus/conversation-excerpts/", "corpus/conversation-excerpts/"), f"会员视频里的：{reference}；公开视频里的：{cc_by}"],
@@ -520,6 +535,7 @@ PAGES = {
     "index/statsig-blog.md": blog_page,
     "index/community-posts.md": community_page,
     "index/videos.md": video_page,
+    "index/solo-videos.md": solo_video_page,
     "index/english.md": english_page,
     "index/knowledge-bank.md": knowledge_bank_page,
 }
