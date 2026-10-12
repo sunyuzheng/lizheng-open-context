@@ -1407,6 +1407,16 @@
       ]
     },
     {
+      "name": "Ryo",
+      "key": "ryo",
+      "entity_ids": [
+        "guest:ryo-lu"
+      ],
+      "kinds": [
+        "alias"
+      ]
+    },
+    {
       "name": "Ryo Lu",
       "key": "ryolu",
       "entity_ids": [
