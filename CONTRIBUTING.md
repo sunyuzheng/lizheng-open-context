@@ -19,7 +19,7 @@ Before opening a pull request:
 
 A new full video transcript also requires a deliberate entry in `config/video-transcript-allowlist.txt`. Absence from the guest index is not approval. If a title, guest record, or manual exclusion conflicts with the allowlist, the export must fail until a maintainer resolves the classification.
 
-New community comments must pass `config/community-comment-policy.json`. Do not work around the filter by manually copying a member name, surrounding conversation, contact detail, or private-context fragment into the corpus.
+New community comments must pass the rules in `config/community-comment-policy.json` and a pinned review: run `scripts/review_community_comments.py --export`, which records each decision against the exact published text in `config/community-comment-review.json`. Do not work around the filter by manually copying a member name, surrounding conversation, contact detail, or private-context fragment into the corpus.
 
 Do not open a public issue containing the sensitive material you want removed. Identify only the repository path and the reason at the minimum level needed for maintainers to act.
 

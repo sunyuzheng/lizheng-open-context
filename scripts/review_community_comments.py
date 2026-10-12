@@ -5,9 +5,12 @@ scripts/export_public_corpus.py publishes a comment only when config/community-c
 holds a decision for its exact published text, in one of the include categories. This script asks a
 model about every candidate without such a decision (a new comment, or one whose text changed), then
 checks each one it would include a second time against a stricter reading, and writes the file;
-decisions already made are kept. Needs AI_BUILDER_TOKEN.
+decisions already made are kept. Needs AI_BUILDER_TOKEN when there is anything to review. With
+--export it then regenerates only the comment corpus, its catalog and policy, leaving the rest of
+the release alone.
 
-  AI_BUILDER_TOKEN=... python3 scripts/review_community_comments.py
+  AI_BUILDER_TOKEN=... python3 scripts/review_community_comments.py --export
+  python3 scripts/validate_release.py --write-manifest
 """
 
 from __future__ import annotations
@@ -108,11 +111,38 @@ async def review(unjudged: list[dict], unchecked: list[dict], token: str) -> tup
     return {**first, **{key: value for key, value in second.items() if value != "keep"}}, set(second)
 
 
+def export(cache: Path) -> dict:
+    """Write the reviewed comments with their provenance; posts come from the committed post catalog."""
+    import enrich_provenance as provenance
+
+    posts = [json.loads(line) for line in (ROOT / "catalog/community-posts.jsonl").read_text(encoding="utf-8").splitlines()]
+    author_posts = {int(row["id"].removeprefix("circle-")): {"title": row["title"]} for row in posts}
+    comments = cache / "circle-author-comments.json"
+    stats = corpus.export_community_comments(comments, cache / "circle-author-comment-bodies", cache / "circle-spaces.json",
+                                             author_posts, json.loads(comments.read_text(encoding="utf-8"))["snapshot_at"])
+    overrides = json.loads((ROOT / "config/attribution-overrides.json").read_text(encoding="utf-8"))
+    by_id = {}
+    for path in sorted((ROOT / "corpus/community-comments").glob("*.md")):
+        meta, body = provenance.read_markdown(path)
+        meta.update(provenance.default_provenance(meta, body))
+        meta.update(overrides.get(meta["id"], {}))
+        provenance.write_markdown(path, meta, body)
+        by_id[meta["id"]] = meta
+    catalog = ROOT / "catalog/community-comments.jsonl"
+    rows = [json.loads(line) for line in catalog.read_text(encoding="utf-8").splitlines()]
+    for row in rows:
+        row.update({key: by_id[row["id"]][key] for key in provenance.PROVENANCE_KEYS if key in by_id[row["id"]]})
+    catalog.write_text("".join(json.dumps(row, ensure_ascii=False, sort_keys=True) + "\n" for row in rows), encoding="utf-8")
+    return stats
+
+
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--cache-dir", type=Path, default=ROOT / ".source-cache", help="Directory holding the sanitized Circle caches")
+    parser.add_argument("--export", action="store_true", help="Then regenerate the comment corpus, catalog and policy")
     args = parser.parse_args(argv)
-    found = candidates(args.cache_dir.expanduser().resolve())
+    cache = args.cache_dir.expanduser().resolve()
+    found = candidates(cache)
     path = corpus.COMMENT_REVIEW_PATH
     data = json.loads(path.read_text(encoding="utf-8")) if path.is_file() else {"schema_version": 1, "runs": [], "decisions": {}}
     decisions = data["decisions"]
@@ -146,6 +176,8 @@ def main(argv=None) -> int:
     print(json.dumps({"candidates": len(found), "judged_now": len(unjudged), "checked_now": len(checked),
                       "categories": dict(sorted(counts.items())),
                       "included": sum(n for c, n in counts.items() if c in corpus.COMMENT_REVIEW_INCLUDE)}, ensure_ascii=False))
+    if args.export:
+        print(json.dumps(export(cache), ensure_ascii=False))
     return 0
 
 

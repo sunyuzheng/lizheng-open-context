@@ -26,7 +26,7 @@ The committed policies bind the approved public snapshots. New material follows 
 
 | Material | Inclusion contract |
 |---|---|
-| First-party posts and public comments | `config/community-comment-policy.json`; preserve authorship and source links, remove surrounding member/private information |
+| First-party posts and public comments | `config/community-comment-policy.json`; comments also need a pinned decision in `config/community-comment-review.json` (`scripts/review_community_comments.py --export`); preserve authorship and source links, remove surrounding member/private information |
 | Solo-video text | `config/video-transcript-allowlist.txt` and the video rights policies |
 | Member-video snapshot | `config/member-video-policy.json`; solo classifications in `config/member-solo-review.json` |
 | Named conversation texts and quotations | `config/values-conversations-policy.json`; quoted text must match its source and time |
