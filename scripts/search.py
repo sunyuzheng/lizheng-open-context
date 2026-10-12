@@ -125,6 +125,7 @@ def is_catalog_record(meta: dict) -> bool:
 
 
 TIMED_CUE = re.compile(r"(?m)^\[(\d{2}:\d{2}:\d{2})\]\((https://www\.youtube\.com/watch\?v=[^)]+)\)\s+(.+)$")
+TIMED_LINK_PREFIX = re.compile(r"(?m)^\[(\d{2}:\d{2}:\d{2})\]\(https://www\.youtube\.com/watch\?v=[^)]+\)\s+")
 
 
 def excerpt_blocks(body: str) -> list[tuple[str, str, str]]:
@@ -352,6 +353,11 @@ def parse_markdown(path: Path) -> list[Document]:
             r"\[\d{2}:\d{2}:\d{2}\]\((https://www\.youtube\.com/watch\?v=[^)]+)\)",
             text,
         )
+        chunk_url = timestamp_link.group(1) if timestamp_link else source_url
+        if source_type == "video-transcript":
+            # Chunks are cut as before; then each line keeps its time only ("00:01:23 words", as
+            # it reads once its link is dropped). Its link is the chunk URL's video at that second.
+            text = TIMED_LINK_PREFIX.sub(r"\1 ", text)
         documents.append(
             Document(
                 id=f"{source_id}#chunk-{index}",
@@ -359,7 +365,7 @@ def parse_markdown(path: Path) -> list[Document]:
                 title=str(meta.get("title") or path.stem),
                 section=section,
                 source_type=source_type,
-                source_url=timestamp_link.group(1) if timestamp_link else source_url,
+                source_url=chunk_url,
                 published_at=str(meta.get("published_at") or ""),
                 text=text,
                 path=str(path.relative_to(ROOT)),
