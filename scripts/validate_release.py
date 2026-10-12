@@ -833,13 +833,25 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
     if int(comment_policy.get("source_comments_reviewed") or 0) < len(community_comment_rows):
         errors.append("community comment policy reviewed count is invalid")
 
+    community_post_ids = {row.get("id") for row in community_post_rows}
     for row in community_comment_rows:
         if not re.fullmatch(r"circle-\d+", str(row.get("parent_post_id") or "")):
             errors.append(f"{row.get('id')}: comment parent post is not recorded")
-        if row.get("source_visibility") != "public":
-            errors.append(f"{row.get('id')}: comment source is not public")
-        if not row.get("parent_post_title"):
-            errors.append(f"{row.get('id')}: comment is missing its parent post title")
+        visibility = row.get("source_visibility")
+        if visibility == "public":
+            if not row.get("parent_post_title"):
+                errors.append(f"{row.get('id')}: comment is missing its parent post title")
+        elif visibility == "members-only":
+            # Under another member's post in a members-only space, neither the title nor the post's
+            # address (its slug comes from the title) may appear; the reply links to its space.
+            if row.get("parent_post_title") and row.get("parent_post_id") not in community_post_ids:
+                errors.append(f"{row.get('id')}: members-only comment names a post that is not Yuzheng's")
+            comment_number = str(row.get("id") or "").removeprefix("circle-comment-")
+            if not row.get("parent_post_title") and not re.fullmatch(
+                    r"https://www\.superlinear\.academy/c/[a-z0-9-]+#comment-" + re.escape(comment_number), str(row.get("url") or "")):
+                errors.append(f"{row.get('id')}: members-only comment must link to its space, not the post")
+        else:
+            errors.append(f"{row.get('id')}: comment source is neither public nor members-only")
         corpus_path = ROOT / str(row.get("corpus_path") or "")
         if not corpus_path.is_file():
             continue
@@ -1009,7 +1021,7 @@ def build_manifest(stats: dict[str, int], license_map: dict[str, tuple[str, str]
         "source_snapshots": snapshot["source_snapshots"],
         "filters": {
             "community_posts_full_text": "current Circle-search posts authored by YZ｜立正 plus one first-party Knowledge Bank item preserved from the earlier public snapshot; archived and hidden test spaces excluded; contact data redacted",
-            "community_comments_full_text": "first-party comments under any post in a public space except member introductions and events, with at least 20 effective characters, kept when a pinned review finds a view, advice, an explanation, his own experience or useful information; member mentions, contact data, other people's private circumstances, third-party leading quotations, and all inline links removed",
+            "community_comments_full_text": "first-party comments under any post in a public or members-only space except member introductions and events, with at least 20 effective characters, kept when a pinned review finds a view, advice, an explanation, his own experience or useful information; under another member's post in a members-only space the post is neither named nor linked; member mentions, contact data, other people's private circumstances, third-party leading quotations, and all inline links removed",
             "knowledge_bank_full_text": "first-party Knowledge Bank posts point to the unified community-post corpus; other authors remain metadata-only",
             "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
             "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact member-video-policy and six values-conversations-policy snapshots; new structured public dialogues require the exact public-dialogue-policy snapshot; mixed/unresolved speech is under the Lizheng Reference Use License, guests keep their own rights, and it cannot independently establish Yuzheng's stance",

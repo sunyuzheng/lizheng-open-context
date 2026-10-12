@@ -179,18 +179,21 @@ def community_page(root: Path) -> str:
             body.append([day(row.get("published_at")), link(page, row["title"], row["corpus_path"]), " · ".join(t for t in tags if t), f"[原帖]({row['url']})"])
         out += ["", f"### {year}（{len(rows)} 篇）", "", *table(["日期", "标题", "空间", "原帖"], body)]
     body = [
-        [day(row.get("published_at")), link(page, row["title"], row["corpus_path"]), f"[原评论]({row['url']})"]
+        [day(row.get("published_at")), link(page, row["title"], row["corpus_path"]),
+         "会员空间" if row.get("source_visibility") == "members-only" else "",
+         f"[{'所在空间' if '#comment-' in row['url'] else '原评论'}]({row['url']})"]
         for row in newest_first(comments)
     ]
     out += [
         "",
         f"## 评论（{len(comments)} 条）",
         "",
-        "立正在公开空间的回复，不论帖子是谁发的，只要说了看法、建议、解释、他自己的经历或有用的信息就收；"
-        "寒暄、事务、闲聊、离开原帖读不懂的和谈到成员私事的不收，新人介绍和活动区不收，会员空间的回复也不收。"
+        "立正在公开空间和会员空间的回复，不论帖子是谁发的，只要说了看法、建议、解释、他自己的经历或有用的信息就收；"
+        "寒暄、事务、闲聊、离开原帖读不懂的和谈到成员私事的不收，新人介绍和活动区不收。"
+        "会员空间里别人帖子下的回复，不写帖子标题、不链接到帖子，只链接到所在空间，谈到发帖成员本人情况的不收。"
         f"成员提及、联系方式和正文链接已移除。规则见 {link(page, 'config/community-comment-policy.json', 'config/community-comment-policy.json')}。",
         "",
-        *table(["日期", "评论", "原评论"], body),
+        *table(["日期", "评论", "空间", "原评论"], body),
     ]
     return "\n".join(out) + "\n"
 

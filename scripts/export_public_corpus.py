@@ -39,11 +39,12 @@ BARE_DOMAIN = re.compile(
     re.IGNORECASE,
 )
 # A display name: one word, then an optional capitalized surname or initial ("Allen Z"), then any
-# tags members add after a bar ("Moses | INTP").
+# tags members add after a bar ("Moses | INTP") or credentials after a comma ("Lee, CFP®, CPA").
 CIRCLE_MENTION = re.compile(
     r"@[A-Za-z0-9_\u3400-\u9fff｜|·.-]{1,40}"
     r"(?:[ \t]+[A-Z][A-Za-z0-9_.-]{0,39})?"
     r"(?:[ \t]*[｜|][ \t]*[A-Za-z0-9_\u3400-\u9fff.-]{1,20})*"
+    r"(?:[ \t]*,[ \t]*[A-Z]{2,6}[®™]?)*"
 )
 COMMENT_EXCLUDED_HINT = re.compile(
     r"(?:微信|wechat|私信|私聊|群聊|微信群|在群里|群内|群中|加群|短信|"
@@ -51,11 +52,13 @@ COMMENT_EXCLUDED_HINT = re.compile(
     r"(?:跟|和|与).{0,12}(?:聊完|聊天|交流))",
     re.IGNORECASE,
 )
-# Comments: what Yuzheng wrote under any post in a public space, when it says something on its
-# own. The rules below remove what is never published: contact details and private channels,
-# introduction and hiring threads, and other people's private circumstances. A model then sorts
-# the rest into substance and small talk (scripts/review_community_comments.py); its decisions
-# are pinned to the exact published text in config/community-comment-review.json.
+# Comments: what Yuzheng wrote under any post in a public or members-only space, when it says
+# something on its own. The rules below remove what is never published: contact details and private
+# channels, introduction and hiring threads, and other people's private circumstances. A model then
+# sorts the rest into substance and small talk (scripts/review_community_comments.py); its decisions
+# are pinned to the exact published text in config/community-comment-review.json. Under another
+# member's post in a members-only space, neither the post's title nor its address (whose slug comes
+# from the title) is published: the reply links to its space.
 COMMENT_EXCLUDED_POST_HINT = re.compile(
     r"(?:自我介绍|新人报[到道]|新同学|say hello|招聘|招人|求职|内推|岗位|hiring|job opening)",
     re.IGNORECASE,
@@ -641,7 +644,7 @@ def comment_candidate(record: dict[str, Any], space: dict[str, Any], raw: str) -
     return (
         record.get("author") == YUZHENG_NAME
         and bool(space)
-        and source_visibility(space) == "public"
+        and source_visibility(space) in {"public", "members-only"}
         and post_content_status(space) == "current"
         and record.get("space_slug") not in COMMENT_EXCLUDED_SPACES
         and len(comment_effective_text(raw)) >= COMMENT_MIN_EFFECTIVE_CHARS
@@ -685,6 +688,7 @@ def comment_candidates(
         parent_title = own_titles[post_id] if own else sanitize_first_party_text(str(record.get("post_name") or ""))
         if not parent_title.strip():
             continue
+        visibility = source_visibility(space)
         text = sanitize_first_party_text(raw, comment=True)
         yield {
             "id": f"circle-comment-{comment_id}",
@@ -692,10 +696,13 @@ def comment_candidates(
             "post_id": post_id,
             "record": record,
             "space": space,
+            "visibility": visibility,
             "text": text,
             "text_sha256": hashlib.sha256(text.encode("utf-8")).hexdigest(),
+            # The review sees every title; the corpus shows it only for his own or public posts.
             "parent_title": parent_title.strip(),
             "own_parent": own,
+            "title_shown": own or visibility == "public",
             "body_source": "circle-comment-html" if authoritative else "circle-search-text",
         }
 
@@ -744,22 +751,38 @@ def export_community_comments(
             left_out[category] = left_out.get(category, 0) + 1
             continue
         record = item["record"]
-        title = (f"对《{item['parent_title']}》的补充" if item["own_parent"]
-                 else f"在《{item['parent_title']}》下的回复")
+        space = item["space"]
         date = (record.get("created_at") or "undated")[:10]
+        shown = item["parent_title"] if item["title_shown"] else None
+        if item["own_parent"]:
+            title = f"对《{shown}》的补充"
+        elif shown:
+            title = f"在《{shown}》下的回复"
+        else:
+            title = f"会员讨论区的回复（{date}）"
+        if item["title_shown"]:
+            source_url = record["url"]
+            note = f"[查看原评论及上下文]({source_url}) · 发布于 {date} · " + (
+                "原始讨论公开可见。" if item["visibility"] == "public" else "原始讨论在会员空间，需要会员权限查看。")
+        else:
+            # Each reply keeps its own address, so it stays a separate source; no post slug appears.
+            space_url = str(space.get("url") or f"https://www.superlinear.academy/c/{record.get('space_slug')}")
+            source_url = f"{space_url}#comment-{item['comment_id']}"
+            note = (f"[会员空间：{space.get('name') or record.get('space_slug')}]({source_url}) · 发布于 {date} · "
+                    "原评论在会员空间，需要会员权限查看；这里不显示它所在的帖子。")
         target = corpus_dir / f"{date.replace('-', '')}-{item['comment_id']}.md"
         fields = {
             "id": item["id"],
             "title": title,
             "author": "Yuzheng Sun",
             "source_type": "community-comment",
-            "source_url": record["url"],
+            "source_url": source_url,
             "published_at": record.get("created_at"),
             "snapshot_at": snapshot_at,
             "community_space_slug": record.get("space_slug"),
-            "source_visibility": "public",
+            "source_visibility": item["visibility"],
             "parent_post_id": f"circle-{item['post_id']}",
-            "parent_post_title": item["parent_title"],
+            "parent_post_title": shown,
             "selection_rule": "reviewed-comment-v2",
             "review_category": category,
             "body_source": item["body_source"],
@@ -769,28 +792,27 @@ def export_community_comments(
             "privacy_redactions": True,
         }
         source_note = (
-            f"\n> [查看原评论及上下文]({record['url']}) · 发布于 {date} · 原始讨论公开可见。"
-            "仓库只收立正本人的回复，已移除成员提及名称、联系方式和正文链接；"
+            f"\n> {note}仓库只收立正本人的回复，已移除成员提及名称、联系方式和正文链接；"
             "原帖和其他成员的话不在本仓库许可范围内。\n\n"
         )
         target.write_text(front_matter(fields) + source_note + item["text"] + "\n", encoding="utf-8")
-        catalog_rows.append(
-            {
-                "id": item["id"],
-                "title": title,
-                "author": "Yuzheng Sun",
-                "url": record["url"],
-                "published_at": record.get("created_at"),
-                "space_slug": record.get("space_slug"),
-                "source_visibility": "public",
-                "parent_post_id": f"circle-{item['post_id']}",
-                "parent_post_title": item["parent_title"],
-                "review_category": category,
-                "rights_scope": "first-party",
-                "full_text_included": True,
-                "corpus_path": str(target.relative_to(ROOT)),
-            }
-        )
+        row = {
+            "id": item["id"],
+            "title": title,
+            "author": "Yuzheng Sun",
+            "url": source_url,
+            "published_at": record.get("created_at"),
+            "space_slug": record.get("space_slug"),
+            "source_visibility": item["visibility"],
+            "parent_post_id": f"circle-{item['post_id']}",
+            "review_category": category,
+            "rights_scope": "first-party",
+            "full_text_included": True,
+            "corpus_path": str(target.relative_to(ROOT)),
+        }
+        if shown:
+            row["parent_post_title"] = shown
+        catalog_rows.append(row)
 
     with catalog_path.open("w", encoding="utf-8") as handle:
         for row in catalog_rows:
@@ -808,7 +830,8 @@ def export_community_comments(
         "source_comments_reviewed": len(records),
         "comment_candidates": len(candidates),
         "comments_included": len(catalog_rows),
-        "scope": "comments under any post in a public, current space, except member introductions and events",
+        "scope": ("comments under any post in a current public or members-only space, except member introductions "
+                  "and events; under another member's post in a members-only space the post title and address are withheld"),
         "excluded_space_slugs": sorted(COMMENT_EXCLUDED_SPACES),
         "minimum_effective_characters": COMMENT_MIN_EFFECTIVE_CHARS,
         "excluded_private_context_hints": [
@@ -845,8 +868,9 @@ def export_community_comments(
             "circumstances, leading third-party quotations and comments under the minimum length; a pinned "
             "review then keeps each comment that states a view, advice, an explanation, his own experience "
             "or useful information, and leaves out small talk, administration, chat, replies that cannot be "
-            "read without the thread, and anything about a member's private situation. Comments in "
-            "members-only spaces are not included."
+            "read without the thread, and anything about a member's private situation. In members-only spaces "
+            "a reply under another member's post must stand without the post, which is neither named nor linked, "
+            "and anything about that member's own circumstances is left out."
         ),
     }
     policy_path = ROOT / "config" / "community-comment-policy.json"

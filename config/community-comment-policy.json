@@ -3,9 +3,9 @@
   "snapshot_at": "2026-08-30",
   "source_author": "YZ｜立正",
   "source_comments_reviewed": 2519,
-  "comment_candidates": 617,
-  "comments_included": 273,
-  "scope": "comments under any post in a public, current space, except member introductions and events",
+  "comment_candidates": 1044,
+  "comments_included": 362,
+  "scope": "comments under any post in a current public or members-only space, except member introductions and events; under another member's post in a members-only space the post title and address are withheld",
   "excluded_space_slugs": [
     "events",
     "say-hello"
@@ -44,11 +44,11 @@
       "private": "谈到某位成员的健康、家庭、感情、收入数字、移民身份、被裁或与人冲突等敏感私事"
     },
     "left_out": {
-      "admin": 237,
-      "chat": 36,
-      "context": 19,
-      "private": 7,
-      "social": 45
+      "admin": 326,
+      "chat": 63,
+      "context": 42,
+      "private": 173,
+      "social": 78
     }
   },
   "privacy_redactions": [
@@ -57,5 +57,5 @@
     "mainland mobile numbers",
     "all inline links and bare domains (the canonical Circle comment link is retained)"
   ],
-  "rationale": "Every comment Yuzheng wrote under a post in a public space is considered. Rules first remove contact details and private channels, introduction and hiring threads, other people's private circumstances, leading third-party quotations and comments under the minimum length; a pinned review then keeps each comment that states a view, advice, an explanation, his own experience or useful information, and leaves out small talk, administration, chat, replies that cannot be read without the thread, and anything about a member's private situation. Comments in members-only spaces are not included."
+  "rationale": "Every comment Yuzheng wrote under a post in a public space is considered. Rules first remove contact details and private channels, introduction and hiring threads, other people's private circumstances, leading third-party quotations and comments under the minimum length; a pinned review then keeps each comment that states a view, advice, an explanation, his own experience or useful information, and leaves out small talk, administration, chat, replies that cannot be read without the thread, and anything about a member's private situation. In members-only spaces a reply under another member's post must stand without the post, which is neither named nor linked, and anything about that member's own circumstances is left out."
 }

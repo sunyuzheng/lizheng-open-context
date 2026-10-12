@@ -24,7 +24,7 @@
   },
   "filters": {
     "community_posts_full_text": "current Circle-search posts authored by YZ｜立正 plus one first-party Knowledge Bank item preserved from the earlier public snapshot; archived and hidden test spaces excluded; contact data redacted",
-    "community_comments_full_text": "first-party comments under any post in a public space except member introductions and events, with at least 20 effective characters, kept when a pinned review finds a view, advice, an explanation, his own experience or useful information; member mentions, contact data, other people's private circumstances, third-party leading quotations, and all inline links removed",
+    "community_comments_full_text": "first-party comments under any post in a public or members-only space except member introductions and events, with at least 20 effective characters, kept when a pinned review finds a view, advice, an explanation, his own experience or useful information; under another member's post in a members-only space the post is neither named nor linked; member mentions, contact data, other people's private circumstances, third-party leading quotations, and all inline links removed",
     "knowledge_bank_full_text": "first-party Knowledge Bank posts point to the unified community-post corpus; other authors remain metadata-only",
     "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
     "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact member-video-policy and six values-conversations-policy snapshots; new structured public dialogues require the exact public-dialogue-policy snapshot; mixed/unresolved speech is under the Lizheng Reference Use License, guests keep their own rights, and it cannot independently establish Yuzheng's stance",
@@ -52,7 +52,7 @@
     "guest_introductions": 154,
     "community_posts_catalog": 252,
     "community_posts_full_text": 252,
-    "community_comments_included": 273,
+    "community_comments_included": 362,
     "member_course_lessons": 23,
     "book_chapters_zh": 12,
     "public_conversation_transcripts": 6,
@@ -78,7 +78,7 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 831
+      "files": 920
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
@@ -131,7 +131,7 @@
     {
       "path": "INDEX.md",
       "bytes": 7211,
-      "sha256": "bd7dd62ed53550368e43497cb0aac0d7734e5aafe63858fa061cca7ed7806273",
+      "sha256": "c54b33dc043ece5ef02b0dbd5b5edf00d3bef1f7212209798bb1340354ebf508",
       "license": "CC0-1.0"
     },
     {
@@ -202,8 +202,8 @@
     },
     {
       "path": "catalog/community-comments.jsonl",
-      "bytes": 384852,
-      "sha256": "52647251f3f5b166a9858025472bb0db280a2a318f8e88a790e145a486670606",
+      "bytes": 494664,
+      "sha256": "2eacf32996de0b53c1eb6355008b49b0758329afddbec8708dd9237c1a572411",
       "license": "CC0-1.0"
     },
     {
@@ -286,14 +286,14 @@
     },
     {
       "path": "config/community-comment-policy.json",
-      "bytes": 2759,
-      "sha256": "675a23a5c12eb3b54bacfd9e90d0727fc05aad6da54a01714fc67295c4ecb13b",
+      "bytes": 3007,
+      "sha256": "cb1a08663aac6bede5bcf95707833003631ae4f82bad2435cfc052b71cb755b7",
       "license": "CC0-1.0"
     },
     {
       "path": "config/community-comment-review.json",
-      "bytes": 106123,
-      "sha256": "2f0d800a108c2941ba4ef46c314571069f85f678f6e22d88b09b0f2bef3298c0",
+      "bytes": 183506,
+      "sha256": "3a069ac8efe1410ddbc4b34be9d4f859c55456c1e0680d92111ac16214b230a5",
       "license": "CC0-1.0"
     },
     {
@@ -633,6 +633,18 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20240813-41867422.md",
+      "bytes": 1971,
+      "sha256": "e72fcc76a68a126a2e1cde93014c5f641e689760fe8aa37bf4f6b37ed7878acf",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240814-41885605.md",
+      "bytes": 2255,
+      "sha256": "c1c23a2c6790d3956f60e0000f17f914f00139c7d0afbc5c9682509fb3c05b57",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20240816-42069427.md",
       "bytes": 2088,
       "sha256": "aa0ac0b12b25c0a000e8b654a98fb40800e38cdd1b3df4b46e849d8f04aef847",
@@ -642,6 +654,18 @@
       "path": "corpus/community-comments/20240816-42070381.md",
       "bytes": 2076,
       "sha256": "6e300d9d23a8215ad71757b9377f4ab74fc173a87f6b9bf1640f93ac4cba29bd",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240818-42241019.md",
+      "bytes": 2058,
+      "sha256": "d28aff613482ae85b770be0afb6c108e749090475088d1034fba29307a57d997",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240818-42247384.md",
+      "bytes": 2185,
+      "sha256": "4c51d436b790e6c48ffc23cd89b04ef68e9afc974b857a3616c049fdd4392f8e",
       "license": "CC-BY-4.0"
     },
     {
@@ -657,6 +681,48 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20240819-42333415.md",
+      "bytes": 2026,
+      "sha256": "500c065231afb9bad2ff0ae2373b5542d0a547f9ea3a21149b513b0d8c28fcbe",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240819-42334971.md",
+      "bytes": 2399,
+      "sha256": "8146a0ac6298c3cd6e5b242fb6b5cbf144eda53e4273aacb278cefa0f9f0c724",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240819-42354032.md",
+      "bytes": 2097,
+      "sha256": "736021ad8b65376edb22385723f3341e4906fca6246809081a7c84320ff1fb6a",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240820-42449109.md",
+      "bytes": 1983,
+      "sha256": "23d89c5217268f9d38ae05633bd55e62e16e34a417d505088a349612e060b699",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240822-42549499.md",
+      "bytes": 2019,
+      "sha256": "978e19aa6aec53e3a93bb40b5e6916db7e5265cfa1e9b5d97997558a7ec1fe24",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240824-42722902.md",
+      "bytes": 2235,
+      "sha256": "8f26afff5424937142d6d1854e3c28a9c343d91b332a6cf4921f211ccfd6381b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240825-42967764.md",
+      "bytes": 2173,
+      "sha256": "b1790d6879f771267a84b34026813129829d7e6d3e574e60350fba9e141faa7c",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20240830-43392068.md",
       "bytes": 2036,
       "sha256": "410f17cdbbb1f70c1e64bf850cfe82c6afc27e13fe878445664386b220b201ce",
@@ -669,9 +735,27 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20240831-43437004.md",
+      "bytes": 2080,
+      "sha256": "7ee6b5538844e0624f470271e8a008899d3e4642631f3fa102d53e6c40b2058b",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20240831-43475722.md",
       "bytes": 2082,
       "sha256": "a8aef8c7f8948032e93176292d2feb16842dab3f56dab67d3e9dae1a002caa9a",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240901-43523325.md",
+      "bytes": 1968,
+      "sha256": "820f38f0771f2d9b9762cb48806f689adc6823e2c8524dd569b618f9babe73fa",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240902-43554621.md",
+      "bytes": 2194,
+      "sha256": "c3f7982081c7edfe1ade499659a1552ee97eb44bd2d34a463378b6568ed80e05",
       "license": "CC-BY-4.0"
     },
     {
@@ -699,9 +783,51 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20240924-45410096.md",
+      "bytes": 2746,
+      "sha256": "d5125ef512611a397fdc56e47433fe64488cf1225baf949ec923b2f790b4aad0",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240926-45575951.md",
+      "bytes": 2143,
+      "sha256": "187262339a9685da535f9567c7e4cbdd1f60e9d788e00b4882b5f7ea80751adf",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240926-45621674.md",
+      "bytes": 2041,
+      "sha256": "3d9329fd96632fa3f2816aacb76865fff721dec0de5f3b3ee2f2701367fc90e8",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240926-45621974.md",
+      "bytes": 2041,
+      "sha256": "b2a2b3ce8aadcda73c669e78570e00616ac53057f0b4d321c2549b47b4a7da66",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20240926-45644038.md",
+      "bytes": 2097,
+      "sha256": "e74a053c681befbe665884935d68ace6e894ac37d7d2593829fee952d58f0132",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20241001-46025438.md",
       "bytes": 2215,
       "sha256": "a09549c6120a70d695ebb31f2a23c51fa92f397289eac08c1885e3921226cef9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241011-46930616.md",
+      "bytes": 2193,
+      "sha256": "29692aed041fc9b80fcdd5ffec5728f1e5fa9670c5317fed0188f9e472c1032b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241013-47100567.md",
+      "bytes": 2039,
+      "sha256": "799c135c540361042f612714991b5513713cda36a3581a586cd6cc02938a7fb9",
       "license": "CC-BY-4.0"
     },
     {
@@ -717,9 +843,69 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20241020-47721041.md",
+      "bytes": 2001,
+      "sha256": "6d23cda88b3372335c5f1874380bf1bc7d598183acf3ba46213492ab782c47da",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241022-47881840.md",
+      "bytes": 2072,
+      "sha256": "21570119f3fcffbb5682a1e6ed25e5136d72545e19d70fd9ff9bbcd065bfd856",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241023-48031161.md",
+      "bytes": 2295,
+      "sha256": "ab72f5bfba5a8b6bd29ea9d9d59070b1d2f04cb85f95f32213ce5d2f7af031b0",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20241023-48031892.md",
       "bytes": 2160,
       "sha256": "d274ee7a5d3bbf2084ff7f12d09ef3090d7a64ae1e7de9d5fb5d22eb69662124",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241105-49166883.md",
+      "bytes": 2321,
+      "sha256": "1f8fd6a6d1993fb5b3b43b18e7bd39dd44f7a6bac0e7804e0d73ad1319216754",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241111-49724281.md",
+      "bytes": 3846,
+      "sha256": "d2acd744c82f278a096fc3a98e5a8b7d9df02466dee6986da82b13d718c6386b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241209-52092035.md",
+      "bytes": 2120,
+      "sha256": "17c547b7b746fd6b9e33999f38e7187ae6cacc53bf4d4c88e00c10719958f792",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241210-52250246.md",
+      "bytes": 2105,
+      "sha256": "a9cb56888c11b7b10f83acfe228e6c4544a8a7ba14b8ff002b6fff192df45cf0",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241212-52365299.md",
+      "bytes": 2046,
+      "sha256": "cb11bd672353159d41c90c49ce227308427ed4cea8a5cc34550934b55de17f04",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241215-52618912.md",
+      "bytes": 2221,
+      "sha256": "04bf613ecb0bab4b65e31440392a78cedde87e08fe8d60c2183d590baf2491e3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241218-52916740.md",
+      "bytes": 2604,
+      "sha256": "d79e73cac8da78a3ff755d60e04e46cbd2728bd72e9d174e886f71856f871812",
       "license": "CC-BY-4.0"
     },
     {
@@ -729,9 +915,39 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20241224-53338002.md",
+      "bytes": 2166,
+      "sha256": "5e79260c8733a2d6a69c8a8d4f0e819afc4006ca7f496fc2421743820b7da6b4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241224-53338342.md",
+      "bytes": 2007,
+      "sha256": "62c53b63c07610c08c44460a76dd9edc254757d2323f7439a93e93c2d294163c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241224-53360229.md",
+      "bytes": 2026,
+      "sha256": "7a3d82e8df3d9bb85a9128b186101b45faa1f6600ed3075d6408df30b42192ce",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241225-53370230.md",
+      "bytes": 2385,
+      "sha256": "088c4b47f13ce503724f94c02018f669295eb5b1d99a6978944a7860c707ff6c",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20241228-53574087.md",
       "bytes": 2243,
       "sha256": "1bdf32b006597c555c8c7ce1aa3958d8c0d178ad6181178285410128f03d6097",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20241229-53616353.md",
+      "bytes": 2210,
+      "sha256": "22b1545e65a78dcc6d6a56db071b355cda36571472bc4eae055867257a2834dc",
       "license": "CC-BY-4.0"
     },
     {
@@ -741,9 +957,27 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20241231-53829849.md",
+      "bytes": 1977,
+      "sha256": "cced96a4eb1ee6412710b49536f9402f1030bbba855bf11c8fa4e303551ad62f",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20241231-53830783.md",
       "bytes": 2123,
       "sha256": "11bb35e518dcf9e7d159c774cbf6be0ff06fc6f55f5451086e9f639358758361",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250101-53839209.md",
+      "bytes": 2096,
+      "sha256": "df63e5d35243b3cf74677e0f559a36a257ab2b208e159fd37d192b2df9dedbb8",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250101-53844734.md",
+      "bytes": 1988,
+      "sha256": "2187ba6eaa67edd8dd0de4c284c6677917a6498511f177fbe10c0258052f0e24",
       "license": "CC-BY-4.0"
     },
     {
@@ -759,9 +993,33 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20250103-54003513.md",
+      "bytes": 2101,
+      "sha256": "92d019ca7d956d64ab61d25310d0bfb610916ff46ff603462bd79e9c0ae0f257",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250103-54053935.md",
+      "bytes": 2125,
+      "sha256": "1279db7501b276b39bfc0f0b20aa402518edc8a6d6e92a2b2083ad6e8185c2a9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250105-54186749.md",
+      "bytes": 2020,
+      "sha256": "7dd63fed79a3dbe384fc939091a344e1c7ec131a96630244df7e89b8fe8553eb",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20250109-54534598.md",
       "bytes": 2179,
       "sha256": "79fc5b0f30c43cabb3d05039cec31c31a2fa4e18ebe24bc7be53af78c316da72",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250112-54827286.md",
+      "bytes": 2090,
+      "sha256": "793e1e42c92f7bbd1807f80d0ab974560e4afbe7d9194f7886d57f2bce6b50c9",
       "license": "CC-BY-4.0"
     },
     {
@@ -789,15 +1047,39 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20250126-56291123.md",
+      "bytes": 2672,
+      "sha256": "6f39da4eccf24cb6c162d1be2127bb5693304922bbfd40ca584a66adc9bbd4dd",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20250128-56564227.md",
       "bytes": 2359,
       "sha256": "aa01a5b8801c743e28c68e69196662318efddd4f23218918c870ea24931ac88d",
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20250128-56601858.md",
+      "bytes": 2034,
+      "sha256": "fbffd743fa1e197070e940ec20d5d52dd88cc830c0e79bbb99ea149004f92328",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250130-56801133.md",
+      "bytes": 2924,
+      "sha256": "bdb735e4731f45064ac80c6d5dded9b86e74a5691c895e0c3cd618b9721e7d9d",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20250131-56852905.md",
       "bytes": 2227,
       "sha256": "d5e940e3ab26d41f3e66063d5f81d68388b6088f8992926a961a2d739c2dbfb0",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250203-57148237.md",
+      "bytes": 2035,
+      "sha256": "163a404ed6f4ed05c439b5756fa89516a20bc1fc3775c4c0e11cba09afd15768",
       "license": "CC-BY-4.0"
     },
     {
@@ -840,6 +1122,12 @@
       "path": "corpus/community-comments/20250214-58380343.md",
       "bytes": 2173,
       "sha256": "913a836c103f5ba7c73d513ec6a32bbcafdfd6296c7f2b36eb1d8cde2acff9be",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250216-58530984.md",
+      "bytes": 2227,
+      "sha256": "263a9d029e89bcb13d7cfea955a1ef26b21b7c5dd38c68340d40a07f1cbc17af",
       "license": "CC-BY-4.0"
     },
     {
@@ -921,6 +1209,12 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20250314-63057913.md",
+      "bytes": 2087,
+      "sha256": "c175d36f1b7d565e308e1d976a8a729ee21eaf68eb72100222ed256889998253",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20250315-63234919.md",
       "bytes": 2931,
       "sha256": "8dbfabaab81e45ed2f24e8da807e0f22112bde4116924d9f3f898910d759bd7c",
@@ -954,6 +1248,12 @@
       "path": "corpus/community-comments/20250331-66067373.md",
       "bytes": 2041,
       "sha256": "f231297d1e4496c792489eb3a55742a0977ac8ec2a9c732ff8ad211d989aa22c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250331-66150414.md",
+      "bytes": 2045,
+      "sha256": "dbdf8953f0402f63f1c0a4801c1f796a2dd0ada67185e8593943d1f19bd9f5ba",
       "license": "CC-BY-4.0"
     },
     {
@@ -1077,6 +1377,18 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20250503-71828933.md",
+      "bytes": 2154,
+      "sha256": "f53740ce1450d733d7cb10ed40704cd61cf221b0bcdaf2b856de18f452b11e2a",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250506-71985789.md",
+      "bytes": 2121,
+      "sha256": "a3486e25a0e3c428f923a6a224255d4fecb912cb3d07ca2dca835135604cafa1",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20250507-72072955.md",
       "bytes": 2131,
       "sha256": "5a5c3c68bc157001f33ef18f217749c52b087d08ea8e9b7976c95fc0bee4d94b",
@@ -1095,9 +1407,27 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20250511-72405663.md",
+      "bytes": 2161,
+      "sha256": "8c0e8a5c871e5788ab84213539477b5cec1d0acf672cadb431965a9c4ddc2c8e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250519-72949927.md",
+      "bytes": 2047,
+      "sha256": "05590e21e99d2045b79559952a64c711710d701094ee2cdf8be64215a2dc4453",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20250520-73042450.md",
       "bytes": 2362,
       "sha256": "03b37de751fd96ad5f58bfd45f88ebdd75e2aceacc95ad841776353ff6473b52",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250522-73234298.md",
+      "bytes": 2052,
+      "sha256": "a1315e6ed54a91b4ae3b3435128f33e3c33e5e7a0f7de741cfd1b643d222b662",
       "license": "CC-BY-4.0"
     },
     {
@@ -1119,9 +1449,27 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20250616-75147955.md",
+      "bytes": 2088,
+      "sha256": "3320ba07d681d96802a0d7d6dca5181bb8ae36e424d5779631288b207a0dc581",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250627-75985099.md",
+      "bytes": 2114,
+      "sha256": "ebbe33150c5c00505f66115430f45b9d63c8c31dd5dd0d3bc27b11a1cdca6975",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20250627-75985493.md",
       "bytes": 2095,
       "sha256": "09db2726c92a9207355b3309bd42c716a18e2d4010438db07a234bb80895ca9d",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250628-76112708.md",
+      "bytes": 2225,
+      "sha256": "118d0b26ea5eae2f08c8d6ccf6079b71e55de05b5d5b87b5b377ec13405025b8",
       "license": "CC-BY-4.0"
     },
     {
@@ -1161,6 +1509,18 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20250801-79026733.md",
+      "bytes": 2297,
+      "sha256": "e14853c9e8d87b4568931e685e5ffcd4e1d3326ed88d166f304f01c13ab6ca77",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20250813-80021163.md",
+      "bytes": 1959,
+      "sha256": "daad37b0f9d3cbbf4dfddb4685e5a317b29e51c76773174cddbd8dde44e60c8f",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20250815-80214688.md",
       "bytes": 2142,
       "sha256": "941263f79b08cf05f8bc82cbe108313a471bace398e7dc5b18d0472638ed0aac",
@@ -1179,6 +1539,12 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20251028-86565901.md",
+      "bytes": 2328,
+      "sha256": "e189bc578c1960f845ece6842706d2ff3b09c771e9bfab3abbda1d364507bdf0",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20251101-86871826.md",
       "bytes": 2182,
       "sha256": "f18eca2db4afc27fa4376b23106097db433e81d7b1c69f5817c4033b40a2e30b",
@@ -1194,6 +1560,12 @@
       "path": "corpus/community-comments/20251108-87482197.md",
       "bytes": 2362,
       "sha256": "ed10f0afc17c4a8ec808a6cf7d2e3269f5fdcea478d604033be9925c61beedc4",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20251109-87597597.md",
+      "bytes": 2025,
+      "sha256": "4b040ef3b23e1f7a62875f38ee9aaaa06c205d009a9d8c6ec3ccf875832e98bf",
       "license": "CC-BY-4.0"
     },
     {
@@ -1218,6 +1590,18 @@
       "path": "corpus/community-comments/20251114-88058371.md",
       "bytes": 2204,
       "sha256": "e3f6e8288a05755711727f109edf701bd1a10c1214bc3789a0155a9df47da63e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20251116-88203441.md",
+      "bytes": 2008,
+      "sha256": "ea8019a67ad6c61b7c39410398e707614b1f23254aba748fbdf953673bb7e557",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20251117-88262089.md",
+      "bytes": 2005,
+      "sha256": "a4e7ee34d48e79cb9618a6abcb1b439947233676e2ad3b604873c1cb50b31015",
       "license": "CC-BY-4.0"
     },
     {
@@ -1290,6 +1674,12 @@
       "path": "corpus/community-comments/20251127-89037410.md",
       "bytes": 2268,
       "sha256": "0b4c15dd5d3a9ff6ba33af575d0e00cd81be0364ffc1df320ae5b37f31634f82",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20251128-89100649.md",
+      "bytes": 2013,
+      "sha256": "f418aa68653aeb2eb8035ef537f4fba307085ff340dfba6d4e32f6ca85f968df",
       "license": "CC-BY-4.0"
     },
     {
@@ -1395,6 +1785,12 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20251218-90654737.md",
+      "bytes": 1964,
+      "sha256": "de21aa3aeaebf3d72ff8c924e2a166884a59f86db542f45926d3fe979906114c",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20251219-90728854.md",
       "bytes": 2265,
       "sha256": "8daa4647056614877604e26bbb5a41e0f04b67945cfc6c7bac3cea8106072bcc",
@@ -1422,6 +1818,12 @@
       "path": "corpus/community-comments/20251224-91012068.md",
       "bytes": 2144,
       "sha256": "8601528d3179444f73ab53bc44b2d243cbcda862fb330da82019850a96f0ecf1",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20251225-91057384.md",
+      "bytes": 1990,
+      "sha256": "0427e60f7831c701c03281097dfdcbf08bc1870f0a7cb3edea05bf490293c424",
       "license": "CC-BY-4.0"
     },
     {
@@ -1467,6 +1869,30 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20260115-92636797.md",
+      "bytes": 2022,
+      "sha256": "7870319fc54029588c149cb7db28806dbe92fdc6ec105e4644928586a6391786",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260115-92676167.md",
+      "bytes": 2174,
+      "sha256": "67e94bdf3436fee54e4a44d71bdfb981634558ef8d323f607cca532a206ebf33",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260115-92676494.md",
+      "bytes": 2151,
+      "sha256": "0ce282b097c2147c62936046d91d6e550d2d545cd7d03e05fd77d0fea22329c9",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260117-92792852.md",
+      "bytes": 2005,
+      "sha256": "341d090c12a300523ff9fdfd7ecf0b021f967b9d85d743d79fd965d4aa096734",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20260117-92824253.md",
       "bytes": 2242,
       "sha256": "682ff94442dd1badec5f5abbab7df6a757f52c533313bfc41414ebe39bed61d9",
@@ -1494,6 +1920,18 @@
       "path": "corpus/community-comments/20260123-93377613.md",
       "bytes": 2088,
       "sha256": "f852128193d871d3e5da7b4a002e8360c2d8ef48c20667658e66c542183c738f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260124-93479167.md",
+      "bytes": 2085,
+      "sha256": "f370e47475c7cf9c900de77d67445b4a0eae39886db6fbd8b0009fa2d929837f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260124-93492335.md",
+      "bytes": 2040,
+      "sha256": "2aa1f071a38f1ef7c1a55d52244a20a21f8c941c2cee2d918a75b840c0cd50d9",
       "license": "CC-BY-4.0"
     },
     {
@@ -1725,6 +2163,24 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20260209-95008343.md",
+      "bytes": 1987,
+      "sha256": "47a7e3bcc4a310cb797453b40c1480c050a0e167636291ec1fd7d2d101213351",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260215-95613006.md",
+      "bytes": 2087,
+      "sha256": "010b6d06c3a1ecb941a93d7097aa4b19b97eefd5f9bf332a7d22eaf0b782dbba",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260217-95799159.md",
+      "bytes": 2072,
+      "sha256": "794a9dc945e0f4d56d7aa4cdd46979e8d4a19d59f29e7966b49c00860093025a",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20260219-95984047.md",
       "bytes": 2287,
       "sha256": "34a6a0198a4562e23220fd797d13d90d1c17158b46d05895c3f16cef078a3257",
@@ -1809,6 +2265,12 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20260323-98909342.md",
+      "bytes": 2123,
+      "sha256": "16360ab5f63427a4f65e7e42e45a86e2d31bde2a84d49793676577f7c489008e",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20260325-99091568.md",
       "bytes": 2231,
       "sha256": "287083813c6836564e3b8dab996e258ccfbf7a93cc9cccf18b473e139b1ae199",
@@ -1821,9 +2283,21 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20260326-99240014.md",
+      "bytes": 2010,
+      "sha256": "766a0b15f12ad3184068c2e6fed30437958aa2ca7b4eec8112129ba57b24ff30",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20260326-99240408.md",
       "bytes": 2264,
       "sha256": "1f413dc0e8c7f00e974515eea3d0f02e45cc4b62c06061c2a84faa0c77324c36",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260326-99241531.md",
+      "bytes": 2056,
+      "sha256": "cb4963d4d40d85e2dffb24c986b1d37929cca93d838192c53058b05866ca4b96",
       "license": "CC-BY-4.0"
     },
     {
@@ -1845,9 +2319,33 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20260401-99716854.md",
+      "bytes": 2173,
+      "sha256": "27b515589cdd30257f2c6c922923f0a11e3045efaf417074b166bad58212744b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260405-100140524.md",
+      "bytes": 2151,
+      "sha256": "3999874d4719eb593056ed314f434845d5e36dbaa7d8af7dad93b3487d6f669f",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260409-100491330.md",
+      "bytes": 2143,
+      "sha256": "1c49ddac27bc806cc11aad62d22ce2b28754d893a80d28e0af272801f69f35fb",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20260409-100519673.md",
       "bytes": 2220,
       "sha256": "58c93812ab64f6d44bf88b488bea130d751f641462d61f40ef439391971495e5",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260419-101397635.md",
+      "bytes": 2181,
+      "sha256": "711b0bf49fea2abba8a9c1aa51351d8ff985760e00c5b2877b6e266b185af98d",
       "license": "CC-BY-4.0"
     },
     {
@@ -1905,6 +2403,12 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20260508-103192342.md",
+      "bytes": 2070,
+      "sha256": "0d99632e2fbbe8db7a08cf9747590e1c99cc314327a7ad0853320e2b068f1293",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20260511-103391700.md",
       "bytes": 2133,
       "sha256": "e554d4a367c9f41be90685ac4c707d7b794335a37cddec6e7a421c772b294e7f",
@@ -1917,6 +2421,12 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20260513-103572496.md",
+      "bytes": 2153,
+      "sha256": "02efb2f4dd2fb42942e1e6fd54f8d910dd8a738353168ed74926b7410947fcd1",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20260518-104069844.md",
       "bytes": 2101,
       "sha256": "c279ac01ac1bb4b2c095f39200d159f16495c4cb86ee53d5af9766013697b09f",
@@ -1926,6 +2436,12 @@
       "path": "corpus/community-comments/20260519-104153120.md",
       "bytes": 2143,
       "sha256": "8aa7b25efc52f906d7f3a537ad1c001da1d752a3f2796d80b16110f0f03979a2",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260521-104348332.md",
+      "bytes": 2282,
+      "sha256": "ece1de058ba7a99cc8aade21d623317fc6b75504c784eb90e3d44b198c76a0b9",
       "license": "CC-BY-4.0"
     },
     {
@@ -1950,6 +2466,12 @@
       "path": "corpus/community-comments/20260601-105268010.md",
       "bytes": 2215,
       "sha256": "793e4d8e38bc79b9461416e00d6f7c4566c7932a4d5b6cf14714866bd13bcf33",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260607-105987061.md",
+      "bytes": 2254,
+      "sha256": "610ac8c06eb11193c7b441b71c96699531b6c0f2bc06ee982d52f04c0182de1c",
       "license": "CC-BY-4.0"
     },
     {
@@ -2013,6 +2535,12 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-comments/20260616-106825482.md",
+      "bytes": 1945,
+      "sha256": "830fb438e6fcf5757e16cd9ef3bfa64bb65e78eebeefcaf45f562dcb29ff9e8b",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/community-comments/20260617-106920388.md",
       "bytes": 2161,
       "sha256": "68926b9297865d6d5f67ccfc13229a0f1c779d792c066e9692bc3c0f5d507a0e",
@@ -2052,6 +2580,12 @@
       "path": "corpus/community-comments/20260623-107423834.md",
       "bytes": 2884,
       "sha256": "c0d90a53c4c51e02090c52bc4efc3bb3f03d30e5f1ae3a0cf2df82420f3c0416",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/community-comments/20260703-108318115.md",
+      "bytes": 2209,
+      "sha256": "effb68eb724dab97f142f1b7999f4389d442947ad97cb9b1cbf55e438d3e46c8",
       "license": "CC-BY-4.0"
     },
     {
@@ -9364,8 +9898,8 @@
     },
     {
       "path": "docs/privacy-and-rights.md",
-      "bytes": 9661,
-      "sha256": "847284210f1d6e7464556f52a49f675321bc0a569ed86460ad55e985297ddd91",
+      "bytes": 10000,
+      "sha256": "c7d8fae30beffd87fc32286e4eafe2cb842c4c04f750b30d1549c55c9458b65f",
       "license": "MIT"
     },
     {
@@ -9388,8 +9922,8 @@
     },
     {
       "path": "index/community-posts.md",
-      "bytes": 132477,
-      "sha256": "286332e1904c830d7b9e330067e7b40a23b68b434008b35215358aa04f7159eb",
+      "bytes": 152160,
+      "sha256": "7d03219726961583fc7f8398eb8fd12f791c58df55b61dab83dbcd4be67f6885",
       "license": "CC0-1.0"
     },
     {
@@ -9454,8 +9988,8 @@
     },
     {
       "path": "scripts/build_index.py",
-      "bytes": 35249,
-      "sha256": "5d8b8a855ac436802f9282d4570572ddc9f43fd3c60d78d658f3672ece404f51",
+      "bytes": 35550,
+      "sha256": "1d70c794f5f765ab9958daff2582d9be5185cae7f27ae348ceb95decae2e3fb5",
       "license": "MIT"
     },
     {
@@ -9478,8 +10012,8 @@
     },
     {
       "path": "scripts/export_public_corpus.py",
-      "bytes": 54914,
-      "sha256": "578b085c11c64c571c045962be08f6c0c106f7eb99432132022eb744926568fa",
+      "bytes": 56601,
+      "sha256": "33eab3ca771cf5f790d68468accf4c0dc075038fee851ec327f63dc2cdeb734f",
       "license": "MIT"
     },
     {
@@ -9532,8 +10066,8 @@
     },
     {
       "path": "scripts/review_community_comments.py",
-      "bytes": 11665,
-      "sha256": "21a44b2e98dbb46cfee1017daebe9c850924a5410f9c62a447e196af966fb62f",
+      "bytes": 15355,
+      "sha256": "b3b6e8e3f2520f3c474bfd69080eaaf0acab70833bab9e55a93369fc27323e15",
       "license": "MIT"
     },
     {
@@ -9562,8 +10096,8 @@
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 65170,
-      "sha256": "2ec4634c9213edaa3a30de00188a8a64bd2046a49dbab9f57e89d3db697794b4",
+      "bytes": 66271,
+      "sha256": "6ca9f8ccb462b30d1be655d3306caf24dac23e2294c758bd5d8602e4411c5781",
       "license": "MIT"
     },
     {
@@ -9604,8 +10138,8 @@
     },
     {
       "path": "tests/test_export.py",
-      "bytes": 13096,
-      "sha256": "b51a0a52aa360d14027ae2404f464415e2719b1e955244a1d87a2792783a62a2",
+      "bytes": 14792,
+      "sha256": "6675d3ed9bdc7661f7ae70d4b05c6d7f8e6b7faf1e5d4c5c834f37b8d4ed1a7c",
       "license": "MIT"
     },
     {

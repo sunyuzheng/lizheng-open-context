@@ -160,7 +160,9 @@ class ExportTests(unittest.TestCase):
         self.assertFalse(MODULE.comment_candidate(valid, space, "“" + body))
         self.assertFalse(MODULE.comment_candidate({**valid, "post_name": "招聘：寻找新同事"}, space, body))
         self.assertFalse(MODULE.comment_candidate({**valid, "space_slug": "say-hello"}, {**space, "slug": "say-hello"}, body))
-        self.assertFalse(MODULE.comment_candidate(valid, {**space, "is_private": True}, body))
+        self.assertTrue(MODULE.comment_candidate(valid, {**space, "is_private": True}, body))
+        self.assertFalse(MODULE.comment_candidate(valid, {**space, "is_hidden": True}, body))
+        self.assertFalse(MODULE.comment_candidate(valid, {**space, "name": "删除和归档", "slug": "1a40ca"}, body))
         self.assertFalse(MODULE.comment_candidate(valid, {}, body))
 
     def test_export_publishes_only_reviewed_substance(self):
@@ -169,7 +171,9 @@ class ExportTests(unittest.TestCase):
             cache = root / "cache"
             (cache / "bodies").mkdir(parents=True)
             (root / "config").mkdir()
-            spaces = [{"id": 1, "name": "论坛", "slug": "posts", "is_private": False}]
+            spaces = [{"id": 1, "name": "论坛", "slug": "posts", "is_private": False},
+                      {"id": 2, "name": "Main Community", "slug": "main", "is_private": True,
+                       "url": "https://www.superlinear.academy/c/main"}]
             (cache / "spaces.json").write_text(json.dumps({"records": spaces}))
             # Single-comment HTML is cached only for some comments; the others use the search text.
             (cache / "bodies" / "001.json").write_text(json.dumps({"records": [
@@ -180,29 +184,44 @@ class ExportTests(unittest.TestCase):
                         "post_name": "怎么学AI", "space_id": "1", "space_slug": "posts"}
             advice = "@Ann Lee 先挑一个每周都要做的任务，用AI做完它，再看哪一步最省时间。"
             thanks = "谢谢你的分享，写得很认真，期待你后面的更新和更多的项目进展！"
-            (cache / "comments.json").write_text(json.dumps({"records": [comment(11, advice), comment(12, thanks)]}))
+            view = "复利来自重复做同一件难事，而不是每次换一个新方向。"
+            member_thread = {**comment(13, view), "space_id": "2", "space_slug": "main", "post_name": "我该不该辞职创业",
+                             "url": "https://www.superlinear.academy/c/main/gai-bu-gai-ci-zhi#comment_wrapper_13"}
+            (cache / "comments.json").write_text(json.dumps({"records": [comment(11, advice), comment(12, thanks), member_thread]}))
             texts = {f"circle-comment-{cid}": MODULE.sanitize_first_party_text(text, comment=True)
-                     for cid, text in ((11, advice), (12, thanks))}
+                     for cid, text in ((11, advice), (12, thanks), (13, view))}
             sha = {key: hashlib.sha256(text.encode("utf-8")).hexdigest() for key, text in texts.items()}
             review = root / "review.json"
             review.write_text(json.dumps({"decisions": {
                 "circle-comment-11": {"category": "advice", "text_sha256": sha["circle-comment-11"]},
-                "circle-comment-12": {"category": "social", "text_sha256": sha["circle-comment-12"]}}}))
+                "circle-comment-12": {"category": "social", "text_sha256": sha["circle-comment-12"]},
+                "circle-comment-13": {"category": "view", "text_sha256": sha["circle-comment-13"]}}}))
             previous = MODULE.ROOT
             MODULE.ROOT = root
             try:
                 stats = MODULE.export_community_comments(cache / "comments.json", cache / "bodies", cache / "spaces.json",
                                                          {}, "2026-08-30", review_path=review)
-                self.assertEqual((stats["candidates"], stats["included"], stats["left_out_by_review"]), (2, 1, {"social": 1}))
-                [row] = [json.loads(line) for line in (root / "catalog/community-comments.jsonl").read_text().splitlines()]
+                self.assertEqual((stats["candidates"], stats["included"], stats["left_out_by_review"]), (3, 2, {"social": 1}))
+                rows = {json.loads(line)["id"]: json.loads(line)
+                        for line in (root / "catalog/community-comments.jsonl").read_text().splitlines()}
+                row = rows["circle-comment-11"]
                 self.assertEqual((row["title"], row["review_category"]), ("在《怎么学AI》下的回复", "advice"))
                 published = (root / row["corpus_path"]).read_text()
                 self.assertIn("[社区成员] 先挑一个每周都要做的任务", published)
                 self.assertNotIn("Ann Lee", published)
+                # Another member's post in a members-only space: no title, no post address, only the space.
+                member = rows["circle-comment-13"]
+                self.assertEqual((member["title"], member["source_visibility"], member["url"]),
+                                 ("会员讨论区的回复（2026-01-02）", "members-only", "https://www.superlinear.academy/c/main#comment-13"))
+                self.assertNotIn("parent_post_title", member)
+                published = (root / member["corpus_path"]).read_text()
+                self.assertNotIn("辞职", published)
+                self.assertNotIn("gai-bu-gai", published)
                 # A comment whose text changed since its review is not published on an old decision.
                 review.write_text(json.dumps({"decisions": {
                     "circle-comment-11": {"category": "advice", "text_sha256": "0" * 64},
-                    "circle-comment-12": {"category": "social", "text_sha256": sha["circle-comment-12"]}}}))
+                    "circle-comment-12": {"category": "social", "text_sha256": sha["circle-comment-12"]},
+                    "circle-comment-13": {"category": "view", "text_sha256": sha["circle-comment-13"]}}}))
                 with self.assertRaises(SystemExit):
                     MODULE.export_community_comments(cache / "comments.json", cache / "bodies", cache / "spaces.json",
                                                      {}, "2026-08-30", review_path=review)

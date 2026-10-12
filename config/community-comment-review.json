@@ -23,12 +23,60 @@
       "check_prompt_sha256": "1f23dcdcc19dcb988547dd109dbe18ab3de779c9b1c46cf6f354cdd61aeff736",
       "judged": 4,
       "checked": 4
+    },
+    {
+      "reviewed_at": "2026-10-12",
+      "model": "gpt-5",
+      "prompt_sha256": "98838a3f662c592d16e9540acc910cf18b78bb8becf74c349d334e5af2f162ef",
+      "check_prompt_sha256": "82cd9ba547c4decd6620d6953bb238ac3bd52dc71a24c40c19c45c4a09e3fbf3",
+      "judged": 430,
+      "checked": 272
+    },
+    {
+      "reviewed_at": "2026-10-12",
+      "model": "gpt-5",
+      "prompt_sha256": "98838a3f662c592d16e9540acc910cf18b78bb8becf74c349d334e5af2f162ef",
+      "check_prompt_sha256": "82cd9ba547c4decd6620d6953bb238ac3bd52dc71a24c40c19c45c4a09e3fbf3",
+      "privacy_prompt_sha256": "1a888fba9ac01e5c4085dcb9b4c70cc681ffc0ad1d3241aa4b21cef19f2a0f9d",
+      "judged": 0,
+      "checked": 0,
+      "screened": 209
+    },
+    {
+      "reviewed_at": "2026-10-12",
+      "model": "gpt-5",
+      "prompt_sha256": "98838a3f662c592d16e9540acc910cf18b78bb8becf74c349d334e5af2f162ef",
+      "check_prompt_sha256": "82cd9ba547c4decd6620d6953bb238ac3bd52dc71a24c40c19c45c4a09e3fbf3",
+      "privacy_prompt_sha256": "65383ab29d8615afb328db4b7c385d9796513510c73dc64d32472187d1e9677b",
+      "judged": 2,
+      "checked": 1,
+      "screened": 120
+    },
+    {
+      "reviewed_at": "2026-10-12",
+      "by": "maintainer",
+      "set_private": 6,
+      "reason": "members-only replies that still showed the member's own situation after the privacy screen"
     }
   ],
   "decisions": {
+    "circle-comment-100123899": {
+      "category": "chat",
+      "text_sha256": "b35be83991ee6f49748642d122d1b7faddbf32311dc3dd2d32c1907167ca4d94"
+    },
+    "circle-comment-100140524": {
+      "category": "advice",
+      "text_sha256": "219b11e65c20d8f206dc8d60465c81232d6a9e996e3996ebf690e9080794bc12",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-100291906": {
       "category": "social",
       "text_sha256": "925a2a0766218b335719ad2082e412f9129bb8aa325ee956e783b624834d3114"
+    },
+    "circle-comment-100316721": {
+      "category": "admin",
+      "text_sha256": "6d458528d9b2712ed0f0a0aa5aa91d28f7b215553b32dd46549e0fd97509f667"
     },
     "circle-comment-100317100": {
       "category": "admin",
@@ -38,6 +86,16 @@
     "circle-comment-100381720": {
       "category": "admin",
       "text_sha256": "4c99056ee9d44d1d12220dc70d4d35ae6529ba7d38e3d900059a24a58075e682"
+    },
+    "circle-comment-100421442": {
+      "category": "admin",
+      "text_sha256": "00c3ddd2d8cc825cadd741a707f3fc47f13be102ab2f3873ed488900f50ec829"
+    },
+    "circle-comment-100491330": {
+      "category": "experience",
+      "text_sha256": "98e2e5f30ceaf2ca5db11792d354340795437925cc6abdf3a03ab1799186c0db",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-100519673": {
       "category": "experience",
@@ -92,18 +150,40 @@
       "text_sha256": "c9ab2bc31ed2a57f6ace13a32f8bef150fb1909337f08a5cd1d83369276cc0c3",
       "checked": true
     },
+    "circle-comment-101397635": {
+      "category": "explanation",
+      "text_sha256": "2a4413136e4d1f8a4065742b1c6f2188c02681b73b5288900bbcbc0501ffd0cc",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-101398480": {
+      "category": "admin",
+      "text_sha256": "1b210091ebc4bbce005f2580ed50525da1ac0550882473f5b9a71e637c4a5300"
+    },
     "circle-comment-101436635": {
       "category": "context",
       "text_sha256": "a811fa88f25b278a88041a68926bdf9a184017eb2c52ca405800dc74ff92a444"
+    },
+    "circle-comment-101441242": {
+      "category": "admin",
+      "text_sha256": "0280c172408d30e0a817742592efba46314e02d3930f1d94bd79b95c03be98c3"
     },
     "circle-comment-101497428": {
       "category": "admin",
       "text_sha256": "857fec606e0ec79f421a444110ee6d8ab3f8e827eded35f06f93d46588205397"
     },
+    "circle-comment-101894082": {
+      "category": "social",
+      "text_sha256": "87b027a12159a47a4c24cf154767771330ab48ffe08340eb189acda66a56e798"
+    },
     "circle-comment-101933164": {
       "category": "advice",
       "text_sha256": "6d03a15d5c2af18793b44be73696a433e7bf2274c10f1ec4b7ede0cb20f7f71f",
       "checked": true
+    },
+    "circle-comment-101936311": {
+      "category": "context",
+      "text_sha256": "97dfb686b8dd446e4bfdcd4513fff785300633150dda929c7bd0f0e74228d26b"
     },
     "circle-comment-101978545": {
       "category": "explanation",
@@ -124,6 +204,10 @@
       "text_sha256": "17718477458918edef1d5db54a90f5af415ed24e724bd9579002417d13372d80",
       "checked": true
     },
+    "circle-comment-102383566": {
+      "category": "private",
+      "text_sha256": "35ac4c0ce119a8562f5ff4c565a7c5151ad2a47a15d63b394c720426a54b91c8"
+    },
     "circle-comment-102393993": {
       "category": "advice",
       "text_sha256": "f706692c64091711314c69df76b9cd38ee6006fdc5174e3ca02139d215f090bd",
@@ -133,15 +217,36 @@
       "category": "chat",
       "text_sha256": "c2b06dae6bcd7088e5bacea2cd8c5f29f2b3de698b6e49ec485c65ba515c2cec"
     },
+    "circle-comment-102458436": {
+      "category": "private",
+      "text_sha256": "7f080ce8814c8e3aa04630ab3e0a18104d93043c2f303be20c34f753d43dfd7d"
+    },
+    "circle-comment-102591737": {
+      "category": "social",
+      "text_sha256": "37212e9a2867cc68abcf0a0b4dcefce4168185e3e422a1ffd8fbd003bd47e191"
+    },
     "circle-comment-102641435": {
       "category": "experience",
       "text_sha256": "e5cd73d6235794f2f4b0f48d5f3dfe31219ccd2fd7f607c5762bedf4c5e9170f",
+      "checked": true
+    },
+    "circle-comment-102693965": {
+      "category": "private",
+      "text_sha256": "f4d8b077a347820c06f23461b7bd022fc19cd6f31e3d7087f36f47b34dadfe3b",
       "checked": true
     },
     "circle-comment-102694017": {
       "category": "context",
       "text_sha256": "cb187f1530cf2168e0de2b0afc0e3d2509e59d246990e588a6158764d514c62c",
       "checked": true
+    },
+    "circle-comment-102743828": {
+      "category": "chat",
+      "text_sha256": "79627430daa9cc22c612d1baf70068fdc0d710621a7ad7a8abe44f70ef332d15"
+    },
+    "circle-comment-102756940": {
+      "category": "chat",
+      "text_sha256": "ecf94d606d90e1d4132154138da359041e7feee1ffc4b01dec37bd4646e3791b"
     },
     "circle-comment-102910276": {
       "category": "view",
@@ -166,6 +271,12 @@
       "category": "admin",
       "text_sha256": "0ca81006c59e6052bd527581ea63bae1258633a23eadf6e2d5433bef231860e9"
     },
+    "circle-comment-103192342": {
+      "category": "view",
+      "text_sha256": "7a478a50e8e45d0331d2e8d0b158d99a22b3fbae851d3742a955e010f5c32f25",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-103222123": {
       "category": "admin",
       "text_sha256": "792b8b241932846bf1ec60f45b647bfe722ce2b92360b633fa04c042ece3d546",
@@ -189,9 +300,25 @@
       "category": "social",
       "text_sha256": "99ff9ddc2738fb1d04db2a960f9ae66b12f97ff0b88e08a9cbf3f961f92a78e1"
     },
+    "circle-comment-103464989": {
+      "category": "private",
+      "text_sha256": "21af09b53508611aaae5d5c0914e02e95edba04fce98a09c2510b861c95cfef8",
+      "checked": true
+    },
+    "circle-comment-103572496": {
+      "category": "view",
+      "text_sha256": "607d949bec17b65bf71d5961946769fbc8eb17fd04c8a073db216b86b27ba7d2",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-103722262": {
       "category": "social",
       "text_sha256": "2155a4f05c5e96082327d352a4d984a80c58403581c4c20fc0c3db20cf31342d",
+      "checked": true
+    },
+    "circle-comment-103846395": {
+      "category": "private",
+      "text_sha256": "626e972d64910cf6961b3a9335707baec0574930bd3c4405c14cbdb4852bc2d6",
       "checked": true
     },
     "circle-comment-103882499": {
@@ -213,6 +340,16 @@
       "category": "experience",
       "text_sha256": "b5d9fffbdeaa2166b7227cee02d4b41f2c39bfbddf7156fc7ec4ddd308a571a7",
       "checked": true
+    },
+    "circle-comment-104246102": {
+      "category": "admin",
+      "text_sha256": "9c203cae7936b0c49c7bda2626c58157e485ce4938c72d5d07a2df9089eab7cf"
+    },
+    "circle-comment-104348332": {
+      "category": "explanation",
+      "text_sha256": "dc10fd3569e501b86c13ce84e781ada423ca59bc04b678a950c24be2f8548f27",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-104611270": {
       "category": "explanation",
@@ -238,6 +375,11 @@
       "text_sha256": "1e1cf7302befbfc842a2f6c644798b6c12c4d7e7b2901f254482c3eff0664369",
       "checked": true
     },
+    "circle-comment-105192557": {
+      "category": "context",
+      "text_sha256": "e6aec1b2d7ee2067df45836a8e25c834f344fb7a4b166920090face23ecdc020",
+      "checked": true
+    },
     "circle-comment-105268010": {
       "category": "advice",
       "text_sha256": "746e74eb220507355cc8f4661309dbf7b5c8f8ababba75a8aef781007e929db7",
@@ -250,6 +392,12 @@
     "circle-comment-105772653": {
       "category": "admin",
       "text_sha256": "b86028eec57b5a45b79d7c7dd039db84967271549fc25bac8bfb1a69e94cf509"
+    },
+    "circle-comment-105987061": {
+      "category": "explanation",
+      "text_sha256": "0f14a56965a291264c7fade19ce93e676ba8873d208b098e54ba7d2eb99463c6",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-106015487": {
       "category": "explanation",
@@ -295,9 +443,18 @@
       "text_sha256": "1601e9d60ce65d5fbb92e186229902cded58469a77fb370a60854a9738b63148",
       "checked": true
     },
+    "circle-comment-106492766": {
+      "category": "admin",
+      "text_sha256": "1b532e6378d900aea2cc79b1369fa470e3b116cdf6b74aa5eebba21d4d72413e"
+    },
     "circle-comment-106499819": {
       "category": "advice",
       "text_sha256": "e4add8280c88b87b20fcb4209d064e6b3424fbfbb6eb16c670dd21ddd0107356",
+      "checked": true
+    },
+    "circle-comment-106501729": {
+      "category": "admin",
+      "text_sha256": "a4415ae9ba419b3d20717f9d454dabcbfed7cf3e3319c7cf84b9c97a8950336e",
       "checked": true
     },
     "circle-comment-106702399": {
@@ -313,6 +470,12 @@
     "circle-comment-106760149": {
       "category": "admin",
       "text_sha256": "18c639fce9a06ae3aa75b2d6572a368172bebb8ec191f9b7c88a3eea35855185"
+    },
+    "circle-comment-106825482": {
+      "category": "view",
+      "text_sha256": "cbc8f17dc88619a092b8caaa15ca6dada5342aa20b1b8819f8da7d30a5d636c8",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-106919580": {
       "category": "admin",
@@ -381,6 +544,24 @@
     "circle-comment-107972625": {
       "category": "admin",
       "text_sha256": "bc806d11ea5fc0f81c5b5969065feb8b0d18d4db79447c97c3ef8cd626cf9b57"
+    },
+    "circle-comment-108040601": {
+      "category": "social",
+      "text_sha256": "8b40495625fc9122a648976b1b99517594f26ea82258e0e3ac950421dc76acdb"
+    },
+    "circle-comment-108318115": {
+      "category": "explanation",
+      "text_sha256": "adf7c9a51e6c21df3c3c5cfd922a8fd59350cfce797752ce3ed2909fe2662251",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-108318156": {
+      "category": "admin",
+      "text_sha256": "ef01e2f903aef5a36dde06c89ccd83c4267ce9840276241454f67df8d68412a6"
+    },
+    "circle-comment-108353335": {
+      "category": "context",
+      "text_sha256": "1d0f119deab1fd5a8f1861365889a5c5ddae8c84e100b861473d482fd175da80"
     },
     "circle-comment-108415065": {
       "category": "advice",
@@ -517,6 +698,11 @@
       "text_sha256": "3333ccbafc1e886215721790851e8c3a7e5891aa9726250d9f3b3a02edd308f5",
       "checked": true
     },
+    "circle-comment-109595820": {
+      "category": "private",
+      "text_sha256": "cbcc861690f079cf1692f4697a06bbcf9c253b4a2103bbb67bd22e9338b65baf",
+      "checked": true
+    },
     "circle-comment-109613913": {
       "category": "admin",
       "text_sha256": "42728c9a5d611319c2879f1a53dabb91a8533f54001e63acd45513dda33b65c5"
@@ -596,6 +782,16 @@
       "category": "admin",
       "text_sha256": "dba827197a2ac41995524a6c129f3a017bfa4d1d135f64dd0e4a881c850950be"
     },
+    "circle-comment-110127215": {
+      "category": "private",
+      "text_sha256": "58093ab9c7db07991d1212be28f790ecb8119567dacf1635bc939b11e68b3b6d",
+      "checked": true
+    },
+    "circle-comment-110134853": {
+      "category": "private",
+      "text_sha256": "87cf3ccc6dc993bff9e7b4dbf0141590e33394879f7b9c8e6eb8a3e71d0836e1",
+      "checked": true
+    },
     "circle-comment-110137066": {
       "category": "admin",
       "text_sha256": "78c09238834874c8f8aec72704d3f2ead10cb61fccc0be9c7970190dbff1fc82"
@@ -635,6 +831,11 @@
     "circle-comment-110184718": {
       "category": "admin",
       "text_sha256": "bc1c4873d191c4322f62821ab66aa87d318e299b3367600feb80fd5a36b4b4e9"
+    },
+    "circle-comment-110208600": {
+      "category": "private",
+      "text_sha256": "9d49f28af8f99f8322bc7a64217dd83dd09327cf9d81b9734663923f0a216d31",
+      "checked": true
     },
     "circle-comment-110236665": {
       "category": "advice",
@@ -694,6 +895,11 @@
       "text_sha256": "60560db35776be405aefa0976e091660f921edcc7f888be4661d1efbf3bb972b",
       "checked": true
     },
+    "circle-comment-110646782": {
+      "category": "social",
+      "text_sha256": "332f3f1968dbc4fbe1a530e486baccb705e2a6357326c4e7cd6ebe91e46c7b9e",
+      "checked": true
+    },
     "circle-comment-110670090": {
       "category": "view",
       "text_sha256": "cd5b7f93d25ce1d5940173abf3280de67b03acb6ddf039482c4c7dbd229b854b",
@@ -703,6 +909,10 @@
       "category": "admin",
       "text_sha256": "ace238b61ea39140afc36161692dcf22264d7ec275cb89876e5df0b1fdb173e9",
       "checked": true
+    },
+    "circle-comment-110721048": {
+      "category": "private",
+      "text_sha256": "37af91af40bdcbeac6732399bfd982388d102d58b4821000c9fe97b9f619940d"
     },
     "circle-comment-110721155": {
       "category": "explanation",
@@ -714,6 +924,10 @@
       "text_sha256": "8914ef7b708cd89e9d2328b8d3e4b7916c8131827808e2e6c2b4c60ab7e2dc5a",
       "checked": true
     },
+    "circle-comment-111086405": {
+      "category": "private",
+      "text_sha256": "924f43f791d3713a90f8850b2d5f0fb8302827b71f91e4dc25db353dbcbe5ef0"
+    },
     "circle-comment-111189169": {
       "category": "advice",
       "text_sha256": "1f494f944b5c70582a0b9361bae0e7f304092e05cf06c1aa38bdec35cbf48043",
@@ -722,6 +936,11 @@
     "circle-comment-111190312": {
       "category": "advice",
       "text_sha256": "a179be219c26f0db010dec9f0cd26c126e2f9606fd00388d224fcd26b723ccd8",
+      "checked": true
+    },
+    "circle-comment-111202751": {
+      "category": "private",
+      "text_sha256": "a542e5f1b4bb58652ff781459db321bea3d9daec4fd99141b87aadec28d84e81",
       "checked": true
     },
     "circle-comment-111203535": {
@@ -741,6 +960,16 @@
       "text_sha256": "c959182ac246da20d4afd78802cb501f0b482362a738aace87b7fde118c7f7cf",
       "checked": true
     },
+    "circle-comment-111425005": {
+      "category": "private",
+      "text_sha256": "f69a78a1c8e3ba6295933c13b532ef1e749fc1e80acc2d1487c5d2096af86ca7",
+      "checked": true
+    },
+    "circle-comment-111458901": {
+      "category": "private",
+      "text_sha256": "3f2a9f38c37c69f205cf2b586cfa33a73fdca12396c2e32cca98bd119a1b92c6",
+      "checked": true
+    },
     "circle-comment-111467983": {
       "category": "admin",
       "text_sha256": "3f1a5943d55bd07d7641593077504d25fc00024b04d23b9c0224ae83bd66a199"
@@ -749,9 +978,22 @@
       "category": "admin",
       "text_sha256": "149efca520e81fd63469d029b1d514cc0a7588183c9120f084474f05e6f7259d"
     },
+    "circle-comment-111567574": {
+      "category": "social",
+      "text_sha256": "da6b13ab1d37bfd58323314c276c073f5c4f179edb65561ed6653425fa731c43",
+      "checked": true
+    },
     "circle-comment-111712787": {
       "category": "social",
       "text_sha256": "3891d126a63f9309ff1c7ae3ae6100761e33f7c25c5caa5ba0dbc1ad9253a1fa"
+    },
+    "circle-comment-111714445": {
+      "category": "social",
+      "text_sha256": "70e89bf8df3276a234765adbfd057f19838d7a3614f4ff4185d6f04ef7f9b4f4"
+    },
+    "circle-comment-111719494": {
+      "category": "social",
+      "text_sha256": "25a734a7208c23b29ce4d85677e2cb02dff2690963767fc3ec26b6897dc8d435"
     },
     "circle-comment-111787997": {
       "category": "admin",
@@ -760,6 +1002,11 @@
     "circle-comment-111788583": {
       "category": "advice",
       "text_sha256": "9d8a91154ed1483c9bfab8dfbe9971cb085c167ba072f7e011e97d3d9d9778cc",
+      "checked": true
+    },
+    "circle-comment-111963940": {
+      "category": "admin",
+      "text_sha256": "6c97e25814c20a35def6c4c3155fb2a18f2093694c26d6879c24b14dab1aba97",
       "checked": true
     },
     "circle-comment-112059149": {
@@ -791,6 +1038,14 @@
       "text_sha256": "f47c6a52e520b58a889346f33bba0f642489b1ecb798c2a0cb2f4a715446eb8e",
       "checked": true
     },
+    "circle-comment-112740241": {
+      "category": "admin",
+      "text_sha256": "69e9337ea78ca1c6cf3629c789f40ea3f13decc79e23f1c6e239af61a73b1d6c"
+    },
+    "circle-comment-112810178": {
+      "category": "admin",
+      "text_sha256": "6012e47803c5722e455ff7181a82768ab335a31c6ea45993bfaed572d23e6bba"
+    },
     "circle-comment-112834416": {
       "category": "admin",
       "text_sha256": "2fe0692f94bafe820092d38b54284745a08cbaa365d71359ad8207be2911f8fd"
@@ -813,6 +1068,11 @@
     "circle-comment-113023683": {
       "category": "admin",
       "text_sha256": "e9d2068c90bec390a422352b36582094701755c3893605408f29ca3541d643d1",
+      "checked": true
+    },
+    "circle-comment-113023904": {
+      "category": "private",
+      "text_sha256": "c65fc349522b217a4778ace9c329a4c497149c7f23030e01ba197fc6e08adad5",
       "checked": true
     },
     "circle-comment-113025052": {
@@ -851,9 +1111,19 @@
       "category": "admin",
       "text_sha256": "00a19cb13710319ce4281e512cd6acf37d37ddc2171ecae1b164b71d2ef25f1a"
     },
+    "circle-comment-113138331": {
+      "category": "private",
+      "text_sha256": "27ab5b411faeafa29e6a1252fe5e5b6ea86857c02fcc917489677160fa70985c",
+      "checked": true
+    },
     "circle-comment-113142676": {
       "category": "explanation",
       "text_sha256": "9b841ddce76d62204653d8080a21b32121fd622d4a53f3334ef1995d0553babc",
+      "checked": true
+    },
+    "circle-comment-113161318": {
+      "category": "context",
+      "text_sha256": "1eb02c518bbeb81a7745d5850a4309b4663345fbe297cbbabfef86eabe579ba9",
       "checked": true
     },
     "circle-comment-113163523": {
@@ -864,6 +1134,14 @@
       "category": "admin",
       "text_sha256": "4a55bde6b65158470ef64319990cac8462d4a06826dd787509bab9551ea1937d",
       "checked": true
+    },
+    "circle-comment-41481564": {
+      "category": "admin",
+      "text_sha256": "2a48e96abf020f32cb16ebcba8c77a1f4409f80509cb85d4ae3e3052ed08e702"
+    },
+    "circle-comment-41565312": {
+      "category": "chat",
+      "text_sha256": "ba1474cb564e30357496d91c6424b80ad27e7dcc3af68d18868ce2f33f5f25c0"
     },
     "circle-comment-41570659": {
       "category": "admin",
@@ -888,10 +1166,51 @@
       "category": "admin",
       "text_sha256": "a12a2915088d2319884306f17bb7ed18e60fdfe3dcae5e33f6ed7d153f80172b"
     },
+    "circle-comment-41720189": {
+      "category": "chat",
+      "text_sha256": "6e936a9b47e558b78701eaf5567a222b74f5cdba6f423f8fff466fdf4ea84732"
+    },
     "circle-comment-41826320": {
       "category": "view",
       "text_sha256": "9c33dc63a7e25e31b2f453b337ea794c34ee4857f7377e1d89ffc2b473dcd364",
       "checked": true
+    },
+    "circle-comment-41826455": {
+      "category": "social",
+      "text_sha256": "1f1e3cd720d176160ca34b356fd85d79e8009689e5c180419d1c89067fcaa993"
+    },
+    "circle-comment-41867422": {
+      "category": "advice",
+      "text_sha256": "026f5fdbc350bf57ba281031ff2a90168a5e43677099b3fe538db305ca16ac7a",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-41880277": {
+      "category": "social",
+      "text_sha256": "cf5bc1ffe53604a520529fb968f0f96c57d785db6ec06f0a90a185d417c5a4e0",
+      "checked": true
+    },
+    "circle-comment-41885605": {
+      "category": "explanation",
+      "text_sha256": "bfa72550f0a7791ee8f7b76f5e1ff1815f87704e5a39657fd6cfdf0dc6b3d2b0",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-41906351": {
+      "category": "private",
+      "text_sha256": "7e174489e4dc61304377452f402225cfe90bf64a186a3f7ec8978659d885c9da"
+    },
+    "circle-comment-42010053": {
+      "category": "private",
+      "text_sha256": "542590b85b4849a62c8ec2b5f3a818712141e98b72aefb0720380fb9386b5753"
+    },
+    "circle-comment-42042202": {
+      "category": "admin",
+      "text_sha256": "abbee70c31a32691ded4fe2c67da811b80301744e9abc598ff40ebf8c8c0cb6e"
+    },
+    "circle-comment-42062801": {
+      "category": "admin",
+      "text_sha256": "db79fd08c0017ab1d9158e49c2c25a190d655925e18b163e89bc2bc800f22f75"
     },
     "circle-comment-42069427": {
       "category": "view",
@@ -903,6 +1222,29 @@
       "text_sha256": "3a70d9fe7d89abbdca2b4931f721c117a61ca0847a7714c201ed922f2fb0c971",
       "checked": true
     },
+    "circle-comment-42070450": {
+      "category": "private",
+      "text_sha256": "1da3bb84e03fd7c344ce6bd13ec141d83ca1f409ce4ae842df41a63a5d390024",
+      "checked": true
+    },
+    "circle-comment-42241019": {
+      "category": "explanation",
+      "text_sha256": "8d13a3bde937b67968ee5ab51bbd64e41c226c85cb031c184fc8b8c6c6685f0c",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-42241713": {
+      "category": "private",
+      "text_sha256": "a114707d157ba6a1cda2c866f5bdb226c35d05a69814b117fe476c7c4a4ac9c3",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-42247384": {
+      "category": "experience",
+      "text_sha256": "5c1e7458c040b59bf8fa70a20c1a461ca3f190347bb78f5d40eaae1e05e554e5",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-42247998": {
       "category": "advice",
       "text_sha256": "2bf12e87328bf9829744b4294b13454c33212984494d48bab9de84c3a4c2a17b",
@@ -913,15 +1255,138 @@
       "text_sha256": "707e5f30f8ce248be269773a733818b60fdf9f529529e0f9a011ad9f07ce4929",
       "checked": true
     },
+    "circle-comment-42270427": {
+      "category": "admin",
+      "text_sha256": "da1990698ac0f4b2beadb9eed32a6600b7cd8b2299d442bea9ea62caf07e3d5e"
+    },
+    "circle-comment-42271878": {
+      "category": "chat",
+      "text_sha256": "72d0d0f7a7936e8e3c5276f3e5b9461b3d393c70019311bfee2ecc995fa563e2"
+    },
+    "circle-comment-42275766": {
+      "category": "private",
+      "text_sha256": "52414530adb6beea6ca63ed29e1e4349fdadf1571a4f2cb25ca82294104a96a3"
+    },
+    "circle-comment-42333415": {
+      "category": "information",
+      "text_sha256": "140be76bfc6c221c402ff3d6713b12c9ddc2b0d35cffad61763698cd859f5537",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-42334971": {
+      "category": "explanation",
+      "text_sha256": "d4dd28eba3c001640e767390d16b29b6e834664f5d9e152420585118d5b24a63",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-42354032": {
+      "category": "advice",
+      "text_sha256": "a5aafa9a606a16e66288ddd1515a59379254bf585c31bbb3cf595c0cc35f19f8",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-42370275": {
+      "category": "private",
+      "text_sha256": "fc65d4f255d4bb5cca24f23b91a08f79cf50f52d0f80dd08092900daaa16a90d",
+      "checked": true
+    },
+    "circle-comment-42449109": {
+      "category": "advice",
+      "text_sha256": "b3a7c8c6e21337afd62f83647ace769985767e32748fd1ffe783fb997db4068e",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-42458042": {
+      "category": "chat",
+      "text_sha256": "814afaf82de39c364d363c3cf8a01f029486f2f0d4e66c1e263e1b3a252eab98",
+      "checked": true
+    },
     "circle-comment-42514920": {
       "category": "admin",
       "text_sha256": "e1d2f0e06fc3b43e73d5d2189ac4d89f0debf0b358fd02611815effb0c15befd",
       "checked": true
     },
+    "circle-comment-42549499": {
+      "category": "advice",
+      "text_sha256": "63ce6facc86a6c19b8c3c33c81b7548c265832b499cfe00ced88a949a990c418",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-42675342": {
+      "category": "admin",
+      "text_sha256": "6cce4f3301582d9c969d07221ef96c27724b65aa20b313a8b2b182467c2d10ea",
+      "checked": true
+    },
+    "circle-comment-42722902": {
+      "category": "view",
+      "text_sha256": "df377eb4ff67df82bcdf25d64c4e5299826f64dbf63ac04af1c14fdc491bb20f",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-42724215": {
+      "category": "private",
+      "text_sha256": "e271af9472863725c57b8a81841dbead5b11280c34f4413a65b9683b719ffdcc"
+    },
+    "circle-comment-42732192": {
+      "category": "private",
+      "text_sha256": "047e21063750d312c32c33908522c71cd61728147c2d82aee8ff43a394c00707"
+    },
+    "circle-comment-42863806": {
+      "category": "social",
+      "text_sha256": "555b8d4ca55bea868b514a4b632c19a01a92f9a921f0573f411a00f5ff7c8304"
+    },
+    "circle-comment-42913918": {
+      "category": "social",
+      "text_sha256": "d54ddd4ddf7727e0670e618b16942620abe6de2c08b90f13d2c5cfbc24ea54c0"
+    },
+    "circle-comment-42914739": {
+      "category": "private",
+      "text_sha256": "67158b4aa1c81f43f786a4ade9b2c10abe10a337a727f36d7a718eeade44c496"
+    },
+    "circle-comment-42915515": {
+      "category": "private",
+      "text_sha256": "da5f3fe1864c2b50a998e9d2f57505e313abfeb24b7b11555d3b4fc02b585546",
+      "checked": true
+    },
+    "circle-comment-42945408": {
+      "category": "private",
+      "text_sha256": "859076133ff00c3aa3db8a23fc9052e5eb99c9b6c47babf8e5de090328ac55ce"
+    },
+    "circle-comment-42945545": {
+      "category": "private",
+      "text_sha256": "8a2cdca5f7d726555b32c54144cf252c34963cc0799f102f5e434336f3021cbb"
+    },
+    "circle-comment-42953075": {
+      "category": "social",
+      "text_sha256": "12449652e3e9918a2236413303f766abc83a18f5d3c38c72e7a11aeaf6ab04e4"
+    },
+    "circle-comment-42967764": {
+      "category": "view",
+      "text_sha256": "63cd9f1e12c2e176e3bb2b43197614c55bc15164b7baf8bc785dd6e5b0952aa0",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-43006196": {
+      "category": "admin",
+      "text_sha256": "26412406eb28b88b321202afbbdd913d50fb7e3238b1baad3aac39ddc0d47412"
+    },
+    "circle-comment-43017628": {
+      "category": "chat",
+      "text_sha256": "218be396a6c6af5615ccd22d72c90701a7f545157cdb80a8fada6ee057874f99"
+    },
     "circle-comment-43229133": {
       "category": "admin",
       "text_sha256": "3151ee0a1bd6fffeb288cfc3340122fd9f821c5d12b5ad5fc3f21475b755a0a2",
       "checked": true
+    },
+    "circle-comment-43280522": {
+      "category": "chat",
+      "text_sha256": "d22297319031155e5300f52814253e031598b382ee0a90eaa2e16d96c49a51fc",
+      "checked": true
+    },
+    "circle-comment-43308314": {
+      "category": "social",
+      "text_sha256": "c7ec8233ba4a2005d37739fd8e30808597b8d1178ea286fc2af5c900510f13d9"
     },
     "circle-comment-43392019": {
       "category": "admin",
@@ -942,10 +1407,76 @@
       "text_sha256": "69b67f0021b70485784ab25be1e7f5e92b665a2ff2af796579ca71dd5bf89ee2",
       "checked": true
     },
+    "circle-comment-43437004": {
+      "category": "explanation",
+      "text_sha256": "c3d2c91b8f7506f67dd3fd257cb10d34691581d81b03a168abd396182bb74147",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-43452274": {
+      "category": "social",
+      "text_sha256": "09e99f6fdca36b74e945e295b45a18d2119f1711d8093c19857cded0ec72375b"
+    },
+    "circle-comment-43452458": {
+      "category": "private",
+      "text_sha256": "b4e55acfe67ce816f29d3c2a5adff158d68af19c5cc833247c45ff0d8c5ed6cc",
+      "checked": true
+    },
     "circle-comment-43475722": {
       "category": "advice",
       "text_sha256": "c85445663a0fd4dc5fd848ad54c0a803fef386966de4cd2169ddb14ab898d541",
       "checked": true
+    },
+    "circle-comment-43495089": {
+      "category": "private",
+      "text_sha256": "73fa0758645ca25fd64f415c498ad4ff602029055dba2a8dc60ff279a9269cbb",
+      "checked": true
+    },
+    "circle-comment-43512481": {
+      "category": "admin",
+      "text_sha256": "7358fcbfca92769c69daadcee87b80ce89c3ca16d328348a590ebbadf0daebcd"
+    },
+    "circle-comment-43512556": {
+      "category": "private",
+      "text_sha256": "16916139d908d20fbb5059339ca1f1e6ff4353ecf2f4efdbad1170a87567c2bb",
+      "checked": true
+    },
+    "circle-comment-43516914": {
+      "category": "private",
+      "text_sha256": "e16294f448ec237c4aa3adefbf5451a8404a462d4a9e81d94ac0ad1777e977a0"
+    },
+    "circle-comment-43522570": {
+      "category": "admin",
+      "text_sha256": "30ccc133c1d6fd22d434b872824e60c4fc9bbb4918c6bdba08a97b35c40c882a"
+    },
+    "circle-comment-43523325": {
+      "category": "advice",
+      "text_sha256": "eb98297850f0d3fd65cd5ba65edcf3d5ce39acffc2cd26644c5bb0f3b05ebf05",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-43552396": {
+      "category": "admin",
+      "text_sha256": "d147c3a04a2a3ac9f9747ddbeba74e26c150acca4f51a0a7e636ac5ca022b593"
+    },
+    "circle-comment-43554621": {
+      "category": "explanation",
+      "text_sha256": "7ae95f1e5de1484ca76456f3e526de779f8a63e13c7820b14576cab1f8cfe8c2",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-43594153": {
+      "category": "admin",
+      "text_sha256": "eef8ef218452d62e299805f61e3452f78869b1e8dbdec5f5c140a7cd26897433"
+    },
+    "circle-comment-43596225": {
+      "category": "context",
+      "text_sha256": "42535c804fb087dc4fd41581c0ce10a062d6dcfa38ec5cc6a88da46f6905622f",
+      "checked": true
+    },
+    "circle-comment-43640835": {
+      "category": "private",
+      "text_sha256": "1a6a48fccdf3b36e91cc03834ef97ea7ca83f0d9adfd208653a8d9cf4f373d0e"
     },
     "circle-comment-43642410": {
       "category": "admin",
@@ -956,14 +1487,36 @@
       "category": "social",
       "text_sha256": "40a04695cbf474d32f4f74d9e732ec5d69b2e4920ac6e7ee9c06c425abfac242"
     },
+    "circle-comment-43698444": {
+      "category": "private",
+      "text_sha256": "0d766135626a72072333b29697d94217701bf66a04d0b03b885a2ee191f50693",
+      "checked": true
+    },
+    "circle-comment-43705057": {
+      "category": "context",
+      "text_sha256": "faa8c22fcc3e42e2ca4cf6b9aaa7b055bcd330a747acba67f9a87a2a6ee8458c",
+      "checked": true
+    },
+    "circle-comment-43811045": {
+      "category": "chat",
+      "text_sha256": "6ddc4432acffd2c98ff9f1fd2e63b6490cca850b5699b7308531ebf0e39fd59a"
+    },
     "circle-comment-43838200": {
       "category": "admin",
       "text_sha256": "62815ec6362d90344bb318c544c9870adff7323814cb54186014f8f31b169483",
       "checked": true
     },
+    "circle-comment-43846132": {
+      "category": "social",
+      "text_sha256": "62c6a89fcbd11c68a76b70fbb3f8df13ddc2cfe8a1a4e792536bb29056993865"
+    },
     "circle-comment-43865771": {
       "category": "admin",
       "text_sha256": "dd9ef7d7c4bdd75aa7146bc478014b72db3a7f9a0b4300da826e4b9f297565e8"
+    },
+    "circle-comment-43865916": {
+      "category": "admin",
+      "text_sha256": "7ffb9e426bd79c6c5da247c692a20aeb06095091b96e5452b22f36e86945f86e"
     },
     "circle-comment-43945927": {
       "category": "advice",
@@ -974,6 +1527,27 @@
       "category": "admin",
       "text_sha256": "782cca163b77fd242047b0c780f3cc1809d19143c1e16d0ff2fe546dbe9e9d46",
       "checked": true
+    },
+    "circle-comment-44003213": {
+      "category": "social",
+      "text_sha256": "746e724ec05a3cce57c45ead6d25dbb51e9fb4afb69fa0fa679314d4031826a5"
+    },
+    "circle-comment-44008169": {
+      "category": "admin",
+      "text_sha256": "51c609be3d71fb319e47eb3781c254d38cfdade6aa9882bcb46dd092edaa4dbf"
+    },
+    "circle-comment-44022281": {
+      "category": "chat",
+      "text_sha256": "5d18535797477b830a4dbccbf062dbf01b0bef82babfddf5588c4fc0bf6f65a1"
+    },
+    "circle-comment-44022453": {
+      "category": "private",
+      "text_sha256": "d377fce023d8f1065375d08f4b362b90eb77fc0b4cb44c34c914739da003cfed",
+      "checked": true
+    },
+    "circle-comment-44070841": {
+      "category": "context",
+      "text_sha256": "d5901fe792e0e025c0600f0bd5feec9b63cc44024f16982d405eb9790b9ee86a"
     },
     "circle-comment-44231341": {
       "category": "view",
@@ -989,6 +1563,39 @@
       "category": "social",
       "text_sha256": "0e14e622eb572fbe9d8c4a5bd7763b5471048a3bd0da02666a20cbbd29e0790d"
     },
+    "circle-comment-44646189": {
+      "category": "private",
+      "text_sha256": "91c210963831920f55d451193157be060cf25755e3ae0379f2be8007663304e0",
+      "checked": true
+    },
+    "circle-comment-44724900": {
+      "category": "admin",
+      "text_sha256": "1c2f92c1823f1ada94d12ffd6f700b59fd4f3976e06d6023575320500d79b998"
+    },
+    "circle-comment-45098197": {
+      "category": "private",
+      "text_sha256": "1e277ef5877a8ab23adbf49d904b8041615183afef2de0dc53722e97bfb6bf66",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-45098384": {
+      "category": "private",
+      "text_sha256": "38020b269addbd2df21b170695f02a4b88bf707ac78548dca1a4ad5cd661ab8d",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-45148849": {
+      "category": "context",
+      "text_sha256": "7f4c250e76eff30bc4ab4d5af66e33563766478678df7040777ec872f8bdefdb"
+    },
+    "circle-comment-45149038": {
+      "category": "chat",
+      "text_sha256": "233f8e42faeb4c4bc3b87d5453415b22be76289bcf1421809b8a45ff53b74b83"
+    },
+    "circle-comment-45169364": {
+      "category": "chat",
+      "text_sha256": "27886ce9ec7056e1952c9670b821725cc4e1c8aa345556cdc0ad985e676800da"
+    },
     "circle-comment-45172941": {
       "category": "advice",
       "text_sha256": "71ae52ac27e2a52aff40fc485d5a3f76314c3ca686f11c834e9ecdaaca3cca94",
@@ -999,10 +1606,40 @@
       "text_sha256": "e031c31d004fab18d5db183fc6e7c3b18b49b6c1a6b714593fc05c8b09d364b4",
       "checked": true
     },
+    "circle-comment-45410096": {
+      "category": "advice",
+      "text_sha256": "36f1ac1898f197bf4fa9e19b0919af0f2dd03cf9fec36a24d1baad31d1db711d",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-45410427": {
       "category": "admin",
       "text_sha256": "e6462fcafe03c721b2381c0df15b0e8332412f2726b2788305b25ff6d8de8943",
       "checked": true
+    },
+    "circle-comment-45575951": {
+      "category": "experience",
+      "text_sha256": "bf5321c262f0167812bcafaf6c553ba080ca853f15a2e81f259a4868ffb70d2a",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-45621674": {
+      "category": "explanation",
+      "text_sha256": "0cada0df35c4b45e430f93be42450defcc10acb37a6582fc8968eb6896388dba",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-45621974": {
+      "category": "view",
+      "text_sha256": "1500d0dca9af9445e180d6e5cb658ed8d0e273cd68402ab5127f897cad1429eb",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-45644038": {
+      "category": "explanation",
+      "text_sha256": "a4db2dc29fafde9370a4a6df5be6d4d256f703f8ea055d895d24c5132240da74",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-46025438": {
       "category": "information",
@@ -1012,6 +1649,68 @@
     "circle-comment-46132233": {
       "category": "admin",
       "text_sha256": "bd1f4484f9b6f4b41f303609305c62d16ab794cbeb4598c105417da105360a24"
+    },
+    "circle-comment-46133552": {
+      "category": "admin",
+      "text_sha256": "3b1143801ff80ee5bd0f56669a12a0c7535355f644cb684693162f19b00ff230"
+    },
+    "circle-comment-46133715": {
+      "category": "private",
+      "text_sha256": "17ee969f2f764d56fbac0ba9e2fde03cc32820e93f92f5d397e21feacb73a63d",
+      "checked": true
+    },
+    "circle-comment-46134988": {
+      "category": "private",
+      "text_sha256": "793cfe414e60e6811543edd2e678e33330c9c2963df83d711b3b9b615ba313ee"
+    },
+    "circle-comment-46135291": {
+      "category": "private",
+      "text_sha256": "d11ceb6d5a970fcdf975d5ac6530bb9c4667d369c3cd64683a8b8ab3e3685bfe"
+    },
+    "circle-comment-46475419": {
+      "category": "admin",
+      "text_sha256": "35d7459d02863297db71cfb0bb7b034e3059fe2e44c30effd11f289fee9a82d5",
+      "checked": true
+    },
+    "circle-comment-46875797": {
+      "category": "admin",
+      "text_sha256": "3013665b5480f8072db5d27d2d81989a14911ec3911963bbd97da54da2177ba3",
+      "checked": true
+    },
+    "circle-comment-46875910": {
+      "category": "admin",
+      "text_sha256": "b0e115886123c944331d776f52907900d046a08f6c1cb669161e033a9d2d6622"
+    },
+    "circle-comment-46891152": {
+      "category": "chat",
+      "text_sha256": "42a6bb62b460af43de7fb49f70e6ae421d247ac946d0d2d1397a21e69ccc4b0d"
+    },
+    "circle-comment-46891955": {
+      "category": "chat",
+      "text_sha256": "66483d1388b3812174cdec4fb9ada3a6d291bc2702693352b472f1939eb54d77"
+    },
+    "circle-comment-46892503": {
+      "category": "private",
+      "text_sha256": "5adeb6e8c31b8209762ab0b8808846a0408d5ba41488b5a41b6c39134479d957",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-46930616": {
+      "category": "explanation",
+      "text_sha256": "7915e1d49b389fecf1737130b99a6ee7d6bc7f1a96ed58f4a3176d61e351ada9",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-47027173": {
+      "category": "admin",
+      "text_sha256": "9926c35c986e80c70bd3e3e9c9d38bcb589d597c0b2734855d3b2d33da6a5833",
+      "checked": true
+    },
+    "circle-comment-47100567": {
+      "category": "view",
+      "text_sha256": "4a647255f2375d00267798967d87b9ed70e15643da0820074c4d305f9d62caa0",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-47200069": {
       "category": "admin",
@@ -1027,6 +1726,37 @@
       "text_sha256": "76e30814f9138b357979d1dd6e5213a3c180fb2a581d00c247c2dfe434d4a5d4",
       "checked": true
     },
+    "circle-comment-47720992": {
+      "category": "chat",
+      "text_sha256": "cc5bda5f40c673fb8c30358424058ddc6cff91fe22a7f5842ce827f39bcadd94"
+    },
+    "circle-comment-47721041": {
+      "category": "explanation",
+      "text_sha256": "99138cb86a34366a117bc64157d6e5a0ad9ca401d1b4a40c091146169b1d535e",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-47727353": {
+      "category": "private",
+      "text_sha256": "1e0cca7cb3f3572c5f0912970c9c1e0747ad142fd305fd78bc6f443030001307",
+      "checked": true
+    },
+    "circle-comment-47881840": {
+      "category": "explanation",
+      "text_sha256": "876778c3e4e91f2da8e4587403756786124c65c44b819d0b130a6c5d21d49609",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-47902221": {
+      "category": "admin",
+      "text_sha256": "1a14e44f7e7728000ca851c2ab40b34e8130e6083e0ed9449215922084d97ffd"
+    },
+    "circle-comment-48031161": {
+      "category": "explanation",
+      "text_sha256": "9595f9428d30b18bb3da4b809a632ff31a64c42331fd847f60b9a5fd7ef79cd2",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-48031223": {
       "category": "context",
       "text_sha256": "24d424131cf35203df828bb4678beefba0988760c76b74f9db879510e211dd23",
@@ -1037,13 +1767,274 @@
       "text_sha256": "b6b1e5e59a57185c36fd723a21d0565816143504e5d687e0851b7acd1058cb42",
       "checked": true
     },
+    "circle-comment-48064934": {
+      "category": "admin",
+      "text_sha256": "3deea5d8499aefdfaab7f4a683db0f864586bd32ba755a90681772e245309c70"
+    },
+    "circle-comment-48191039": {
+      "category": "admin",
+      "text_sha256": "f12f009edd5c4a6f6441a75664252b5f71d015472de63953bf717e7a9693ca35"
+    },
     "circle-comment-48386651": {
       "category": "admin",
       "text_sha256": "42a4c4782b1994e6b772f9b3d6e157ffecde5082fa691ef937e623935b761465"
     },
+    "circle-comment-48613558": {
+      "category": "social",
+      "text_sha256": "2accd59093e52c62dad01d0d7ecc2f6f9f06ef0c3c24c5181a98fbf0ca02bf60"
+    },
+    "circle-comment-48799453": {
+      "category": "admin",
+      "text_sha256": "daae9303f7fb8e5cfc1d2ef82a9a555da9957d48a59ff7057a72d661a1d34664"
+    },
+    "circle-comment-49017905": {
+      "category": "private",
+      "text_sha256": "6cf294b4fa9aa0367ab22e5e570df2cf7270ad0a307086f61d76f4e5d2f5576e",
+      "checked": true
+    },
+    "circle-comment-49017961": {
+      "category": "private",
+      "text_sha256": "2f47952d8a3dec006c878d1588c2393aba35731166345c04a74f2964f2e0d162",
+      "checked": true
+    },
+    "circle-comment-49059472": {
+      "category": "private",
+      "text_sha256": "cdd2900e5f8d59fd13cc31214cbfccfda5848d46779c34be46c82bd4133cbb98",
+      "checked": true
+    },
+    "circle-comment-49166883": {
+      "category": "explanation",
+      "text_sha256": "ee46ebd5491e3a2717f8b48a15abd1653b3fb4aec1017e393222181295b5325a",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-49166996": {
+      "category": "private",
+      "text_sha256": "3363f3b189f8ee262cab2117bf2181126d0ac50b1d5e92b2bf93e25e41df4bd0",
+      "checked": true
+    },
+    "circle-comment-49167370": {
+      "category": "private",
+      "text_sha256": "90ef2ab1c8245b865ed075e49493aa542b44449a203ed50b4050bc2d70dede33",
+      "checked": true
+    },
+    "circle-comment-49167544": {
+      "category": "private",
+      "text_sha256": "00a6361f5eb0dccd9718c3dd98272d5b1a52f4b4434a95763f9243f837ae78c1",
+      "checked": true
+    },
+    "circle-comment-49167613": {
+      "category": "private",
+      "text_sha256": "41f056a58f8931e94a92ba9d299d7b1c1b572e374a8cfdfbed10e3443f2eb96c",
+      "checked": true
+    },
+    "circle-comment-49167741": {
+      "category": "admin",
+      "text_sha256": "6336fb204d4f917c17c8f692faeeeda591245be78c0a51871ad39b23a331ed98"
+    },
+    "circle-comment-49168122": {
+      "category": "private",
+      "text_sha256": "30c8c77209ecb98dbfe69f6262ccfd989f8756cced749419d8a5fac8ad337222",
+      "checked": true
+    },
+    "circle-comment-49509036": {
+      "category": "admin",
+      "text_sha256": "1d65464fa774ae7bd448a7915d450e648748ed44dfb922ad5d752cba232dbc98",
+      "checked": true
+    },
+    "circle-comment-49509056": {
+      "category": "admin",
+      "text_sha256": "2ff333da642ddb132ecee7756f3411ea8062fba7fe9d745d4efd4a2d7eb3db4d",
+      "checked": true
+    },
+    "circle-comment-49724281": {
+      "category": "explanation",
+      "text_sha256": "db627ba3c6dd8725259cd90ec53afdd385ab1abe3031ec42c237cab95eeef9bf",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-49748887": {
+      "category": "private",
+      "text_sha256": "e14c5d1716dcca3eebe7c4e0e37a54bbf968caf633d65a8bc37274e688465991",
+      "checked": true
+    },
+    "circle-comment-49842349": {
+      "category": "private",
+      "text_sha256": "8deb46825920b5d96f6e3d0ca3ecb0d98533059bbd719e12126f848f95a8af42",
+      "checked": true
+    },
+    "circle-comment-49849861": {
+      "category": "admin",
+      "text_sha256": "d5f5b355197840ddb103267da0241b010a9496ecb04131191a82d163894a1f7f"
+    },
+    "circle-comment-50054571": {
+      "category": "social",
+      "text_sha256": "46573d67a108fb9fdbb7d60514d5042b39223c9614b8ce4b04178df1524e8849",
+      "checked": true
+    },
+    "circle-comment-50054659": {
+      "category": "chat",
+      "text_sha256": "255fffae1e591f11742f6be723ff074603d8b1b99da19dac8993752f7789e536"
+    },
+    "circle-comment-50305730": {
+      "category": "private",
+      "text_sha256": "8d6cdb9662b0ea96941453250facbc9bbb4a2a1a95f8db748cf11195f59b722f",
+      "checked": true
+    },
+    "circle-comment-50488344": {
+      "category": "admin",
+      "text_sha256": "0ddf5faf9bdb2b50361d050804cb9d56f2b381f8ff89e59447f13156b760b0db",
+      "checked": true
+    },
     "circle-comment-50608719": {
       "category": "admin",
       "text_sha256": "6103321607db447d72fecb632e23be7ac1556bb048c2c0874430f33341d662c4",
+      "checked": true
+    },
+    "circle-comment-50797762": {
+      "category": "private",
+      "text_sha256": "c496d2071f4b08e43f883afecb72803b11251cc35393a9dfb4d930ba6fba617a",
+      "checked": true
+    },
+    "circle-comment-50798647": {
+      "category": "private",
+      "text_sha256": "b8b31418d511febf6ab9bba4cba06f3a952525e1956b3553b11112fe714753c9",
+      "checked": true
+    },
+    "circle-comment-50844675": {
+      "category": "private",
+      "text_sha256": "d75fd43b6c431e6f6f6620032ccecb52604b0aed1ebd01624b3768b01da3358c",
+      "checked": true
+    },
+    "circle-comment-50994036": {
+      "category": "chat",
+      "text_sha256": "5f432f353ff04f39203f7493b0842cc5b170d60bfd0529fd20eb0a7345d11bc5"
+    },
+    "circle-comment-51581322": {
+      "category": "private",
+      "text_sha256": "461a0e4c9d0373adc0db438dc91211b04c3be7e831cb1e0c234dab1a5f7d4fbb",
+      "checked": true
+    },
+    "circle-comment-51621258": {
+      "category": "private",
+      "text_sha256": "b441e475cda5ed35be3bd01fbffdb58e45f0c2b7ccd243f7ea9e10baa4fded03",
+      "checked": true
+    },
+    "circle-comment-51820338": {
+      "category": "admin",
+      "text_sha256": "cf26284c36d65156147538fd71e099078ccdbf0394803ae9149f8f444ee71239"
+    },
+    "circle-comment-51973813": {
+      "category": "admin",
+      "text_sha256": "70e1ebe5442878dc49ae6413d6af8aa144afed70cf82eb70cde91ef08848d1a3"
+    },
+    "circle-comment-52091757": {
+      "category": "admin",
+      "text_sha256": "357c68b3cc1670d40f6797066e88b1f9c951b86c08581b6ceae3bf3d0b9af098",
+      "checked": true
+    },
+    "circle-comment-52091974": {
+      "category": "admin",
+      "text_sha256": "af2de628275ee10cd633d23093c2a6056be4a93e34e67ce34bd8d97d80dd9b5b",
+      "checked": true
+    },
+    "circle-comment-52092035": {
+      "category": "advice",
+      "text_sha256": "57368beaec4d60fa8e4821b7b4a17224abe8528068125f6a0894dcb9c1752124",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-52160819": {
+      "category": "admin",
+      "text_sha256": "f94f3c28c7b61614ceec014ee017940646e17c93510da019611740fd54cc06ea",
+      "checked": true
+    },
+    "circle-comment-52161361": {
+      "category": "private",
+      "text_sha256": "d7d991ea286e27e7efac93ab3fa6a0cddd185575b2fc2b6fd3c05dbde9a3150f",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-52164903": {
+      "category": "private",
+      "text_sha256": "d05505fbea0f23a24369b0a0f34de300ccfbeba828de92a8129a9784f72fa3e5",
+      "checked": true
+    },
+    "circle-comment-52185923": {
+      "category": "admin",
+      "text_sha256": "bdf1952799bf13ce452be60e896422bc683530b56ee2bfc1f5694372d35c3779",
+      "checked": true
+    },
+    "circle-comment-52249593": {
+      "category": "admin",
+      "text_sha256": "b8595e1d47b147db23c5c09c2debc116bd623aacbf21552d0204e49157c4d6eb"
+    },
+    "circle-comment-52250246": {
+      "category": "advice",
+      "text_sha256": "0143492eb2f18c3ea3533d7285d1acbc57efa93903befd37edb382d360c0fa8d",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-52251368": {
+      "category": "social",
+      "text_sha256": "1b120d62c6dbd838d315638f6d4840590ff521d6aca22aab6a4f3e561e0e877d"
+    },
+    "circle-comment-52365299": {
+      "category": "view",
+      "text_sha256": "fb3c87b108903b1da8064cf31376c45614b8843bbbd22e0a81c2e7fefc31aac2",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-52416797": {
+      "category": "context",
+      "text_sha256": "92fc39888089462273d8524ac9fa69cc5bfee4b16ec094ac49a5dc8a5a2bc1f4"
+    },
+    "circle-comment-52593177": {
+      "category": "private",
+      "text_sha256": "109ce05a7ca9620931d4c0f6100f2a537bdf1a3a78b395f929626d2918234e0b"
+    },
+    "circle-comment-52594307": {
+      "category": "private",
+      "text_sha256": "84ed4344bead81315e82d5e29a30a097c16530fb58de0dc028ed84787dc470be"
+    },
+    "circle-comment-52594408": {
+      "category": "private",
+      "text_sha256": "27d3a5aee706b182d769411379b83627fa46a134ec484d0aec017dc90057dd16"
+    },
+    "circle-comment-52618912": {
+      "category": "experience",
+      "text_sha256": "266585b7d41a912935acb3c02ea30b484151da4c61638fb5785d12a62fe1c067",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-52620048": {
+      "category": "private",
+      "text_sha256": "3ecc82dcfa1e55e7274e4507e4dc8c99be9651754b0c9c5866065dd59f1e24b6",
+      "checked": true
+    },
+    "circle-comment-52677850": {
+      "category": "private",
+      "text_sha256": "e88f30505fae591e585451e94f8560a80270341456fafe7e55d69b1bc602b7c2",
+      "checked": true
+    },
+    "circle-comment-52734339": {
+      "category": "private",
+      "text_sha256": "86e5938b5c430fccb69036abf0fd3414f1b13f2e1f5867c1360ae3a071e13919"
+    },
+    "circle-comment-52916740": {
+      "category": "explanation",
+      "text_sha256": "aa25667c38edd855ff6d3fac952807624e124ea45a739014cd2fa18b1e8febb2",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-52982253": {
+      "category": "private",
+      "text_sha256": "f2b5999ac11d9bfc0b9b4d98a5fcd3fe86b7cb148778951adfd1102a178c5cb3",
+      "checked": true
+    },
+    "circle-comment-53049876": {
+      "category": "private",
+      "text_sha256": "75affa504500ed7b28a3fbee8ddc4b70df6570f874568a2bde7eba289aedd1d8",
       "checked": true
     },
     "circle-comment-53126984": {
@@ -1055,9 +2046,52 @@
       "text_sha256": "6f6fb04ece1b729ac3073c2a10186f75080d2a626d36a6e728c46dad77dbb8e8",
       "checked": true
     },
+    "circle-comment-53247457": {
+      "category": "chat",
+      "text_sha256": "7c61e28de43fa4514b199bdaf4c19487a1b36b1e9eaaa218432f67d5adc136aa",
+      "checked": true
+    },
     "circle-comment-53254366": {
       "category": "view",
       "text_sha256": "a7773855ba036e399bf7a118c913928a1644e629bc208ed43672213eb0a1a28e",
+      "checked": true
+    },
+    "circle-comment-53254654": {
+      "category": "admin",
+      "text_sha256": "4e074fcc21cd3a000d145140ca2fde447b0b2c0e3e8542f90926f8f0e066ce22",
+      "checked": true
+    },
+    "circle-comment-53254706": {
+      "category": "private",
+      "text_sha256": "d092524d8419da2c863ef68613628a1d05e3f62c3557cf579858bfe2ea0fe2ba",
+      "checked": true
+    },
+    "circle-comment-53338002": {
+      "category": "explanation",
+      "text_sha256": "51f572c2b10862a5593986b31ebd0e01b0fdd9551c5d2580bbcc60a7e3cd495b",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-53338342": {
+      "category": "view",
+      "text_sha256": "42addf24b29395d655a430f8d5b5ab3c96b3e4a613933fa084224060271eaed2",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-53360229": {
+      "category": "view",
+      "text_sha256": "55f49afd751938467b943aa693393266c909233de0164999b73e30997732acab",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-53360410": {
+      "category": "social",
+      "text_sha256": "e77bef39a58699f7a916e660f59cc195bb6a22b7a299f64ff7fd1ae58f9c0c30",
+      "checked": true
+    },
+    "circle-comment-53360531": {
+      "category": "private",
+      "text_sha256": "cc7eff0630871b20869cd94adf799656a4babf226d11cea3dfdb683059228e24",
       "checked": true
     },
     "circle-comment-53366694": {
@@ -1065,10 +2099,29 @@
       "text_sha256": "92bc541769c9189d4ced28a41e6271836ec75e9c82b8c855476664abc33ac908",
       "checked": true
     },
+    "circle-comment-53370120": {
+      "category": "admin",
+      "text_sha256": "f4b1badd3d1b97947c021040331ad6b8029bbeac24b284fe9b5cfd46fd037a99",
+      "checked": true
+    },
+    "circle-comment-53370230": {
+      "category": "advice",
+      "text_sha256": "f87734dc12b0b12838b6164cf70add78a8b6d64724e3046608a9992bb20a3c39",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-53412329": {
+      "category": "social",
+      "text_sha256": "c562eacac609b20765d44f103e354a1e62bfd754101f5952249365faffad3ef5"
+    },
     "circle-comment-53427702": {
       "category": "admin",
       "text_sha256": "ec360209722424422ce79dbf9f1fd19e8fba0535318a9739d5c49de5035d695a",
       "checked": true
+    },
+    "circle-comment-53460782": {
+      "category": "admin",
+      "text_sha256": "f167594ebea38185248e0c661cc5946fe9c5e8ae2141db538d2fdef507024aa8"
     },
     "circle-comment-53512487": {
       "category": "admin",
@@ -1094,20 +2147,148 @@
       "text_sha256": "b52903f595a85f1461e5ddf2dceeec82dd6e57239c56bb0eabc8fcd1b01a02d9",
       "checked": true
     },
+    "circle-comment-53574675": {
+      "category": "admin",
+      "text_sha256": "209ff5a4eff4e508e9925c1fa9a382c44b7862c29c0de44b77e2638652cb3566",
+      "checked": true
+    },
+    "circle-comment-53616353": {
+      "category": "explanation",
+      "text_sha256": "557ab6bd520fc1bdcd04ebf7c2783e288e0c1728f395e2de054dff5a333ba92d",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-53667814": {
+      "category": "private",
+      "text_sha256": "6df4ce8fdcb3ee42001a07612349a4486f1b7c8bb1c1d24cc5fb3604ef0ab46e",
+      "checked": true
+    },
+    "circle-comment-53667862": {
+      "category": "private",
+      "text_sha256": "98f97c7e8b75d85add78ff4343245254bbc195fd17e7cdceabf906511253c2bb",
+      "checked": true,
+      "set_by": "maintainer"
+    },
+    "circle-comment-53669085": {
+      "category": "admin",
+      "text_sha256": "bae68fe93cb82800972d8d26cfbcc57458fdbb92ce2be9d4bd0ff4a333f85ddd"
+    },
+    "circle-comment-53669342": {
+      "category": "private",
+      "text_sha256": "fd13f4e2f03f93f450f6abe678994d1c51b11f4b8f69e2ea6a915f8cb295cf38",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-53669408": {
+      "category": "admin",
+      "text_sha256": "3b7b32fc0dc2abf817bcd52cd2cb0814d8710f672a592d2a1d48c3c1abcd0ab6"
+    },
+    "circle-comment-53669697": {
+      "category": "private",
+      "text_sha256": "bfb38d3381e428b42ff9fa1928f38ac36a92768de72ef5fe3d5544f4bc9b0b57",
+      "checked": true
+    },
+    "circle-comment-53670117": {
+      "category": "private",
+      "text_sha256": "cf0f18678bd94c5d7d636b28f446cbedeff09e1f971865428cb09949b96e4b21",
+      "checked": true
+    },
+    "circle-comment-53670261": {
+      "category": "admin",
+      "text_sha256": "caded9714c25617cdb2eb924cbf01905fe3def4d4c8b14673fcb8bb7f6049aa6"
+    },
+    "circle-comment-53670877": {
+      "category": "private",
+      "text_sha256": "d77c92b25bab44aac1d313b375b504bf81fb475a03b0ab5499ec765f316ba49b",
+      "checked": true
+    },
+    "circle-comment-53671013": {
+      "category": "private",
+      "text_sha256": "30ad1a85809567db642fe7bbc5c30b0a646eb45a2705593fc09e8cf42889442e",
+      "checked": true
+    },
+    "circle-comment-53674756": {
+      "category": "private",
+      "text_sha256": "07e00f8ba2b779509bef0f9f72ba322f093d4c198b698c360c5d917f1c57ffd1",
+      "checked": true
+    },
+    "circle-comment-53752210": {
+      "category": "private",
+      "text_sha256": "c210249071beaefc11769f6489dcc6d2fa8b582d87fc2956edc6d196b20f0c90",
+      "checked": true
+    },
     "circle-comment-53785425": {
       "category": "view",
       "text_sha256": "6cd435012e4be431794ff042b23e63776568fecc12ce34e6b9b938e02a7cb67c",
       "checked": true
+    },
+    "circle-comment-53786652": {
+      "category": "private",
+      "text_sha256": "a9adc170853e9e41e0c20dada64edde65daac2fc11dbd4d3a71d2c5706feebb1",
+      "checked": true
+    },
+    "circle-comment-53786973": {
+      "category": "private",
+      "text_sha256": "d8f3154ed0a36f807cbf7f8b3cbca32f956a9dd577397b4f85431b4eaa93df5c",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-53829849": {
+      "category": "advice",
+      "text_sha256": "0e0c42edb4d796473e581bba6a196758709c39af8ae7fd62e8dae9508099305e",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-53830783": {
       "category": "view",
       "text_sha256": "be10bb014fb58569c6da8fffe9db3b12d0226c5a10d814ff46c52330f58a35b9",
       "checked": true
     },
+    "circle-comment-53834485": {
+      "category": "social",
+      "text_sha256": "0a34c60b25942a327f93748839d2836702f1901da242d3942849f18ad3529a9a"
+    },
     "circle-comment-53838118": {
       "category": "chat",
       "text_sha256": "6e1e83f63d9dc9f108ebf7d59ce8502c4b6b693a3fb05b6bae75b18e76cdc78b",
       "checked": true
+    },
+    "circle-comment-53838420": {
+      "category": "private",
+      "text_sha256": "5d19390cfc7d3bea2694d9102757e0f9bec0a4baa3209b39a3641c2559ace881",
+      "checked": true
+    },
+    "circle-comment-53838493": {
+      "category": "private",
+      "text_sha256": "6c723306c172302e604b96f6a8e9dd4ec42c34adfa713faad93a53105baec02d",
+      "checked": true
+    },
+    "circle-comment-53838923": {
+      "category": "private",
+      "text_sha256": "24abce49a51866f577241cf801a002780b66fe697eb48cb96722095ec830ebd4",
+      "checked": true
+    },
+    "circle-comment-53839209": {
+      "category": "explanation",
+      "text_sha256": "0c332c2d02f780d878b26a445406554ec278195fa31177698fde7714f7a559a3",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-53844734": {
+      "category": "view",
+      "text_sha256": "1035d0b2e5d6681e834c7f1101c0acaeeb158af3c741f7fbba7bd502f49d1953",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-53844959": {
+      "category": "private",
+      "text_sha256": "8aafb1c3e236e25f269947b1c785c7efd4d4049f2c5e95ea48ec233dc228c66b",
+      "checked": true,
+      "set_by": "maintainer"
+    },
+    "circle-comment-53845403": {
+      "category": "admin",
+      "text_sha256": "44abd9fa669c46f9a22ee377729b7445950ececa1e9be8017b3e9523555c7130"
     },
     "circle-comment-53847870": {
       "category": "chat",
@@ -1122,23 +2303,145 @@
       "category": "private",
       "text_sha256": "f2e45d1bdd57be033d9dd50a1ff4276613c4f482ea99196943d034403f5fef57"
     },
+    "circle-comment-53962343": {
+      "category": "private",
+      "text_sha256": "45c6c0329ccd022bc54cbadfb5cc1b788aa154b3ad0eacf08ec30f18ec5757e1",
+      "checked": true
+    },
     "circle-comment-53997340": {
       "category": "experience",
       "text_sha256": "8ee96a2a4124ba94d8bbdb2b062313789608937da9c2f6d710cdf2145906fc58",
       "checked": true
     },
+    "circle-comment-54003513": {
+      "category": "view",
+      "text_sha256": "2ed4a13452d8667126c9a9c12cf6a62004e424ba74694aa7bc87aab611e531f4",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-54003751": {
+      "category": "private",
+      "text_sha256": "22081d709bd42c7b7748977e00d1d503f5a3c47ecdd1c75269ff38f592917200",
+      "checked": true
+    },
+    "circle-comment-54003855": {
+      "category": "private",
+      "text_sha256": "d544e62a101e60d5e6394f7225ce83c02fbe82df870807a0c6848af1a9449a78",
+      "checked": true
+    },
+    "circle-comment-54003879": {
+      "category": "private",
+      "text_sha256": "3d39d17d9ba8dddd624d8b46ee4cacfeb60d44414e5a8e7922f45bdc20e04b16",
+      "checked": true
+    },
+    "circle-comment-54003928": {
+      "category": "private",
+      "text_sha256": "c252447dac54aeea32004ff9e57b5f6e13e8826f219b94557f623eab57360392"
+    },
+    "circle-comment-54003974": {
+      "category": "private",
+      "text_sha256": "3ca948423fcf444c8e52103d2308e30a7fd5d5bbd5be5748e317b5871a840dca",
+      "checked": true
+    },
+    "circle-comment-54004053": {
+      "category": "private",
+      "text_sha256": "87f6a9a8161c2e8d923ad3b9be85223be9227c8036c617aa9f242671e72e5f89",
+      "checked": true
+    },
+    "circle-comment-54031687": {
+      "category": "admin",
+      "text_sha256": "47141cdb3f1909e4199bd1e1982699ce37ea8170a83d2efee35412295887841c"
+    },
+    "circle-comment-54033433": {
+      "category": "private",
+      "text_sha256": "95781c089135d8598dd24705e13c5ec7f6544f6f7a4362069389a4280380b348",
+      "checked": true
+    },
+    "circle-comment-54036210": {
+      "category": "chat",
+      "text_sha256": "fe8cd18680313934712dc8a0ea804388a7a4571883fb004527b2e3bb02094e69"
+    },
+    "circle-comment-54053935": {
+      "category": "experience",
+      "text_sha256": "f23503b34f0be87827bb2ae791101c521a07ece70a46b6ebc336fe4806cec6a5",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-54101800": {
       "category": "admin",
       "text_sha256": "53389cc5f60d7112551627ac1ea6912baa0e3059bdbe4dca935838e16d7d3a26"
+    },
+    "circle-comment-54112482": {
+      "category": "private",
+      "text_sha256": "23ee18fc500f78460f48cd9176b907b2298d4e08950efb93962f72bad2e10be6",
+      "checked": true,
+      "set_by": "maintainer"
+    },
+    "circle-comment-54186481": {
+      "category": "private",
+      "text_sha256": "5c167c01166139a73f58a2fef78bf548e971ef9dccbc6c4c91c91a7b9c05e59f",
+      "checked": true
+    },
+    "circle-comment-54186693": {
+      "category": "private",
+      "text_sha256": "558c92ad120336156485f70a665e8fbf49b03dadeb76b6fe158c7ee390ff16c6",
+      "checked": true
+    },
+    "circle-comment-54186749": {
+      "category": "experience",
+      "text_sha256": "42b77986bfe98657d72961d85070cf897cfb7c83625647417bf1042fe715c5b9",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-54201639": {
+      "category": "private",
+      "text_sha256": "c83ea4c2a4a004364e9753de8c6c0210cf7337f82fd909ea55bbea60c76d13db",
+      "checked": true
+    },
+    "circle-comment-54204934": {
+      "category": "private",
+      "text_sha256": "aa2fa311fbac400eee88c6b3f2a3a8e6e480e178fe11d3cc02d92628fd0efa09",
+      "checked": true
+    },
+    "circle-comment-54292862": {
+      "category": "private",
+      "text_sha256": "685b18e19ee4176079d7aaf2a7fc46b3330dbb0178c81e6fc54a509d485fcb47"
     },
     "circle-comment-54531087": {
       "category": "private",
       "text_sha256": "23bed4091fea2a6cf1744458ed1c92e5b762b6878a4a1214de6c1397bf492d9a"
     },
+    "circle-comment-54532790": {
+      "category": "social",
+      "text_sha256": "d693cf37cef1ef646243fb2e18c8f70bc7d40844284aabdedd294c65c4d10812"
+    },
     "circle-comment-54534598": {
       "category": "experience",
       "text_sha256": "b2fb6ede7862c9a2db2729d3f858c23b84ce57ee9f91654782cf792e8c0b47b4",
       "checked": true
+    },
+    "circle-comment-54684281": {
+      "category": "social",
+      "text_sha256": "ab2617fcac20ab35cfc5068b9f1bd4562d5a75f6ad163b31657aa5219b48d3fe"
+    },
+    "circle-comment-54816102": {
+      "category": "private",
+      "text_sha256": "cb8432d2a63d82b911e1c8128d0519165c759479f29406db57ab0cc5ec684f2c",
+      "checked": true
+    },
+    "circle-comment-54826753": {
+      "category": "chat",
+      "text_sha256": "778cc214e2c7e94b3a1cb8fb711a38770c63951358dbb7a52affe25ea56d93c7"
+    },
+    "circle-comment-54827286": {
+      "category": "explanation",
+      "text_sha256": "975df1aa0a3f0e97eeeb05d4368d94dd2f8bdaececc05b79df727477b4527af1",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-54864616": {
+      "category": "social",
+      "text_sha256": "8a884339347128f1c620fa4cb94a82431ee7a12064f5e98cf74c27abd6f20fca"
     },
     "circle-comment-54909440": {
       "category": "advice",
@@ -1149,6 +2452,17 @@
       "category": "view",
       "text_sha256": "1225ba8d6318a0ba411dfe111b5931d2c822ff7c3b380a9eea4e7cfd1ca1d058",
       "checked": true
+    },
+    "circle-comment-55017898": {
+      "category": "private",
+      "text_sha256": "ac1c6cc60d70f4c3d096aeccd5733767304761858dd49d452aafe10e9838897f",
+      "checked": true
+    },
+    "circle-comment-55121137": {
+      "category": "private",
+      "text_sha256": "5503c12ad22289553ae8e9595b0752acdc20858da9066243cd8c2b6223d90c42",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-55359325": {
       "category": "experience",
@@ -1183,6 +2497,15 @@
       "category": "admin",
       "text_sha256": "0be0012a500a0de20c11377a0c56dabbd2801338a17943b45c0d1d84fa67dd81"
     },
+    "circle-comment-55472181": {
+      "category": "private",
+      "text_sha256": "631f9f2503788bbcc37f3df5bdcaf5f008edf2aca39748011c3a543ae8bd2a1b",
+      "checked": true
+    },
+    "circle-comment-55575279": {
+      "category": "context",
+      "text_sha256": "dc124c85dff604d92c388c341e1bab1c0e48e21c87369d92753027d138ae58a9"
+    },
     "circle-comment-55669743": {
       "category": "view",
       "text_sha256": "8c81c110c0d8506d6078a82d8843dea92a37a7e72fc54c4e15947623193e28b9",
@@ -1196,9 +2519,20 @@
       "category": "admin",
       "text_sha256": "6a40a0151478ebaa3343bbdabc23f85152086d989af2cb021781cdd4d4f560d5"
     },
+    "circle-comment-56016591": {
+      "category": "private",
+      "text_sha256": "84717fd2f2a8d3be0b00617bee155775ca65b16953b6dfc186404029cbddf819",
+      "checked": true
+    },
     "circle-comment-56217845": {
       "category": "admin",
       "text_sha256": "1ea3dd20054c476fe028fee93052bf2cd2a79ce4eefe93e13cc9da689bea8aa3"
+    },
+    "circle-comment-56291123": {
+      "category": "advice",
+      "text_sha256": "3e2d45270ccbd5df58a983778580d685b51ec785f92f87c0512bbe11b0f036a8",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-56506949": {
       "category": "admin",
@@ -1208,9 +2542,29 @@
       "category": "admin",
       "text_sha256": "2daf03911a4da12aefc1d63457b42487ca521fe0eab8ee55dc95e66601b7d63a"
     },
+    "circle-comment-56553338": {
+      "category": "admin",
+      "text_sha256": "034263436a36fc59a9925118f00feb1af1d0d331091f154b46f6c6fb72a57890"
+    },
     "circle-comment-56564227": {
       "category": "view",
       "text_sha256": "7640f2021592ac87f732d7b5b282a7a4c1b4b9947ef99492bc3c0d5d5bc3a677",
+      "checked": true
+    },
+    "circle-comment-56600883": {
+      "category": "private",
+      "text_sha256": "bb857d24b58a19438ea3d63d0c556351e49a687780264d382125bfd12b867d70",
+      "checked": true
+    },
+    "circle-comment-56601858": {
+      "category": "information",
+      "text_sha256": "4102fce13064f7967ecae2a4b584c5b7ab8363f9bbefc5e0c74cfcd3f912954f",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-56606772": {
+      "category": "context",
+      "text_sha256": "57e21ac8cd2dcf6e73ca095148e8eae4022f6ec220fc115fa2baf67bce87f5ef",
       "checked": true
     },
     "circle-comment-56676173": {
@@ -1225,6 +2579,17 @@
       "category": "admin",
       "text_sha256": "e393dc1cff7ce6a1223f483620be9d158ccc8acf56f79ac245a16d77312a9a0f"
     },
+    "circle-comment-56800538": {
+      "category": "context",
+      "text_sha256": "8e7b49b5de4b1440bd73bd08a9e5f64e3b4a7ea1a5e75ba94e4da7ef00a963f1",
+      "checked": true
+    },
+    "circle-comment-56801133": {
+      "category": "experience",
+      "text_sha256": "4d57d03c8fb475e8dc3a221964926955e898bd4bd542a8677633a8d8c3da20ba",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-56852905": {
       "category": "advice",
       "text_sha256": "b64386ca9ca6f89f8afce1313df041203b412006b65fc3bae3604e49ac964bbf",
@@ -1238,14 +2603,38 @@
       "category": "social",
       "text_sha256": "92277bfed80ae7937410912a6aba548393517f270cebdb3cc0627e587ac15a9c"
     },
+    "circle-comment-57148237": {
+      "category": "view",
+      "text_sha256": "a5175683d6c42de7a1771d9787d4353a0f53316bdf4c05db7f5df3fb6d743dec",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-57190887": {
+      "category": "admin",
+      "text_sha256": "405046384037d1ebcda0411ad5538f380617f9ee8977ec154fee46bb1afe7f43"
+    },
     "circle-comment-57198929": {
       "category": "explanation",
       "text_sha256": "d9bf5ceae2a941ed1f98ac7ab93de5b09152478762dce2616ab6fb2a50cc64cb",
       "checked": true
     },
+    "circle-comment-57379579": {
+      "category": "private",
+      "text_sha256": "d92f26349705b231a0023e14084922b95d61ec9cd12f2e42936a4f563b7a4fb5",
+      "checked": true
+    },
+    "circle-comment-57491254": {
+      "category": "admin",
+      "text_sha256": "92c05f20bc9116b6ee8aea424b1cd18818c98eae883f3ada5af57c058acb4b76"
+    },
     "circle-comment-57518648": {
       "category": "chat",
       "text_sha256": "467ebdb79b6e6b1ecd1e329ca90376db7a342f58909bfc5c349f743b54ad957c"
+    },
+    "circle-comment-57570843": {
+      "category": "private",
+      "text_sha256": "b61cb1a35c6016ccfa3d00dc9b58460c009c8099c2ed4a0c64c7b63084e62840",
+      "checked": true
     },
     "circle-comment-57616459": {
       "category": "chat",
@@ -1256,6 +2645,15 @@
       "text_sha256": "d68f83c7dad1ae1661bbcd531bac24aaad957ec3f819c9da099ed597c83c4095",
       "checked": true
     },
+    "circle-comment-57760375": {
+      "category": "admin",
+      "text_sha256": "4ca1bddc10e144134a2e66b12b2b6be33d147659b9ce57505d9b64f9fbb44d3b",
+      "checked": true
+    },
+    "circle-comment-57870456": {
+      "category": "social",
+      "text_sha256": "acbb0b58938559340f150202c9530bdab53aac2f23cd6def7e830daf437cf594"
+    },
     "circle-comment-57880771": {
       "category": "advice",
       "text_sha256": "2b857c00b139a223a26c6fc08c12ff3aa050500738ae0f036fa4e67fa9a337b8",
@@ -1265,6 +2663,12 @@
       "category": "advice",
       "text_sha256": "940e226a4ae08d29edf127f9244c805e186868258c6b3b62bbc22e7e39c0a47f",
       "checked": true
+    },
+    "circle-comment-58276006": {
+      "category": "private",
+      "text_sha256": "469e983e2eab3c3b1b3de38643ee5317ece0e3d27e031948ef3f3d816efb1fe0",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-58351281": {
       "category": "explanation",
@@ -1290,9 +2694,41 @@
       "text_sha256": "6d228d26ad9b17bd917dd86f02adaf275bcd002c8bab66b25e0413ef5f1170b8",
       "checked": true
     },
+    "circle-comment-58481097": {
+      "category": "admin",
+      "text_sha256": "dcab13b04e8513dbbf69aa1341787be350827f46bb744794b3641b3a1955e350"
+    },
+    "circle-comment-58492147": {
+      "category": "private",
+      "text_sha256": "99a2159789f8919c5a4f2d5ca082545405d34a2e50a566348d732376f11698c9",
+      "checked": true
+    },
+    "circle-comment-58530295": {
+      "category": "private",
+      "text_sha256": "05beb981c488ed1ed931e8c3412911caffd8be33b7b896905b7a941821b54bb6",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-58530984": {
+      "category": "explanation",
+      "text_sha256": "7fe43359297f25954714f96d950cfa5fad64ec82312e2c1853d926d34c581df2",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-58531061": {
+      "category": "chat",
+      "text_sha256": "1a55f7199f5c7495a0ecf9b747e11f2e1d94470f8517420cb09e225229a5866f",
+      "checked": true
+    },
     "circle-comment-58531136": {
       "category": "admin",
       "text_sha256": "31ade21d530593838efdb934d7cc6fa0286136bebafbf9876abefd2d78409fb1"
+    },
+    "circle-comment-58551590": {
+      "category": "private",
+      "text_sha256": "c2752c1743e2cdaade281ce1dddfa4eb08837d88edd233e196988d851a7b714b",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-58713915": {
       "category": "admin",
@@ -1311,6 +2747,10 @@
       "category": "admin",
       "text_sha256": "2e1d1c38037efec8ec37df93a5e13ee9f0bd8aeac91eeea29583eb929982ce93"
     },
+    "circle-comment-58999935": {
+      "category": "admin",
+      "text_sha256": "2e1d1c38037efec8ec37df93a5e13ee9f0bd8aeac91eeea29583eb929982ce93"
+    },
     "circle-comment-58999969": {
       "category": "admin",
       "text_sha256": "34ab660c724f2020cf6b8d569ce5fa4479b5eeaeac9af2b2372d1dcf20435fbc"
@@ -1323,6 +2763,10 @@
       "category": "admin",
       "text_sha256": "2e1d1c38037efec8ec37df93a5e13ee9f0bd8aeac91eeea29583eb929982ce93"
     },
+    "circle-comment-59000182": {
+      "category": "admin",
+      "text_sha256": "2e1d1c38037efec8ec37df93a5e13ee9f0bd8aeac91eeea29583eb929982ce93"
+    },
     "circle-comment-59000194": {
       "category": "admin",
       "text_sha256": "2e1d1c38037efec8ec37df93a5e13ee9f0bd8aeac91eeea29583eb929982ce93"
@@ -1331,7 +2775,15 @@
       "category": "admin",
       "text_sha256": "2e1d1c38037efec8ec37df93a5e13ee9f0bd8aeac91eeea29583eb929982ce93"
     },
+    "circle-comment-59000249": {
+      "category": "admin",
+      "text_sha256": "2e1d1c38037efec8ec37df93a5e13ee9f0bd8aeac91eeea29583eb929982ce93"
+    },
     "circle-comment-59000278": {
+      "category": "admin",
+      "text_sha256": "2e1d1c38037efec8ec37df93a5e13ee9f0bd8aeac91eeea29583eb929982ce93"
+    },
+    "circle-comment-59000295": {
       "category": "admin",
       "text_sha256": "2e1d1c38037efec8ec37df93a5e13ee9f0bd8aeac91eeea29583eb929982ce93"
     },
@@ -1378,10 +2830,19 @@
       "text_sha256": "3d457d46311b60e7801e9a2abce280ce15a5c2566ba2a365bb06159716ecf4ce",
       "checked": true
     },
+    "circle-comment-60873036": {
+      "category": "private",
+      "text_sha256": "f0f70a46a04ce212cc3fc91de695ebb40b35a9e3d1cd06a57383c00acd4df354",
+      "checked": true
+    },
     "circle-comment-60924780": {
       "category": "advice",
       "text_sha256": "690f840ce6e560b4bb68d98960a38421b9eca4e67ddfbe2e208237bd8b18ca6b",
       "checked": true
+    },
+    "circle-comment-60927820": {
+      "category": "admin",
+      "text_sha256": "3a1014ea4d92f498b29891f19250303011b3812fe9b02712df53f2f8d216d917"
     },
     "circle-comment-61118582": {
       "category": "admin",
@@ -1468,20 +2929,97 @@
       "text_sha256": "d143c4444f4fab140ed17290903e2ac1903af1f7389ad8026e83dbc6cc9c128f",
       "checked": true
     },
+    "circle-comment-62810676": {
+      "category": "admin",
+      "text_sha256": "1f8b8d36e6ce8263ba4f4c52e1078e88ccbbe5aa24b1a510105ef5245ac3463f"
+    },
     "circle-comment-62982888": {
       "category": "information",
       "text_sha256": "7a899425f8ac255f7639721888bd3c5424607fc354b82f46986078d6d07136b2",
       "checked": true
+    },
+    "circle-comment-63057913": {
+      "category": "explanation",
+      "text_sha256": "9346390b141feddceedce5f3c057db4d5cbf5d490f9f68c001a15cd1de0c7bde",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-63059161": {
+      "category": "private",
+      "text_sha256": "ecb63b0288c15fc17659a90ffa08d0ab731e944738ebcc49881a8844b5299798",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-63061257": {
+      "category": "private",
+      "text_sha256": "1636a415644021156fc483fafbc53df72d225f664c20720a89a817054914a36a",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-63213688": {
+      "category": "admin",
+      "text_sha256": "04e54f2dcb0d2b38d1588fc7d0df54bb07ceb4f8cc18128b2456c2318fbec04d"
+    },
+    "circle-comment-63214128": {
+      "category": "private",
+      "text_sha256": "33caa4aa075fd94083131a124c72b6210dacc717b46194f2c3b4a6535d0b543c",
+      "checked": true
+    },
+    "circle-comment-63234321": {
+      "category": "private",
+      "text_sha256": "ee5cea0203865d42e2e6640c1115a3177bba96007d71e879768a805c20494e7f",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-63234919": {
       "category": "view",
       "text_sha256": "63c844c2047a490cb57fb4d330f7a8a654457e5e37a186e16e3474109165739e",
       "checked": true
     },
+    "circle-comment-63364112": {
+      "category": "admin",
+      "text_sha256": "920557848163fd7ecf711ec8a00a888cca2b36fcb68a8999c62aa6b7c3ab25b7"
+    },
+    "circle-comment-63708455": {
+      "category": "context",
+      "text_sha256": "ea09c6fd51cfdb800cf5d6fe16c80ee501d070b604458ef8dc066e6191ba8d6c"
+    },
+    "circle-comment-63833899": {
+      "category": "private",
+      "text_sha256": "2a4a7bb5b810e9088ed133d1715558f99c9031ec04b62a3d2280c0de0692395c",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-64040696": {
+      "category": "private",
+      "text_sha256": "c7d1357c5d1c2d951610c54dfd75e59351c25b82fca602733a2bbfddb0357876",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-64221054": {
+      "category": "private",
+      "text_sha256": "f5bd9fa2f3d0818050d5201625424a6303c6ccf474fa5921be571251368b4a63",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-64355782": {
+      "category": "context",
+      "text_sha256": "a6df00533d9076a46665597850e33c7498b47011b945b6defdbb54a8a6e976ed"
+    },
+    "circle-comment-64469948": {
+      "category": "private",
+      "text_sha256": "a7b7544a099dae51ba1704abe41f4c8b8da85ed0d2568daf744791e5f898381a",
+      "checked": true,
+      "set_by": "maintainer"
+    },
     "circle-comment-64599532": {
       "category": "view",
       "text_sha256": "a5cf34484e872fea4d11173441c1f8338d2dca44a7a0c3ee5a183ef377f30057",
       "checked": true
+    },
+    "circle-comment-64857327": {
+      "category": "admin",
+      "text_sha256": "e68e9ab06ca9e2609b0de39528e00792065c167917782a3032d2db5b05dd3258"
     },
     "circle-comment-64895010": {
       "category": "admin",
@@ -1492,9 +3030,30 @@
       "text_sha256": "8fa98e54543f479ee32b3bd930e0e584d580955c26ca37130cffc73fe2c0ef9d",
       "checked": true
     },
+    "circle-comment-65264721": {
+      "category": "chat",
+      "text_sha256": "a1fbf4933e873a375f00ebf196e751bdf69c39d6e7d4e4a01ba7d160516205b1",
+      "checked": true
+    },
+    "circle-comment-65270692": {
+      "category": "private",
+      "text_sha256": "996f8845b29eac26d8ebe88910737ea8cd331827bc3fa6699cf1a33f29a60fd0",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-65363500": {
       "category": "view",
       "text_sha256": "22a8ad20b51365bdf6168bf800626d72d8caeee120218f82064fedb6395bdae9",
+      "checked": true
+    },
+    "circle-comment-65627510": {
+      "category": "private",
+      "text_sha256": "76a5d66b82c8de7f09f13c9b0b7ce4c109cf34d0cd893fa4eee59644fafb207d",
+      "checked": true
+    },
+    "circle-comment-65873314": {
+      "category": "private",
+      "text_sha256": "4a36c78c9d627e2c80574fec16374b6747ec1965ddb081541a2df944851a6db5",
       "checked": true
     },
     "circle-comment-65977114": {
@@ -1516,9 +3075,30 @@
       "text_sha256": "f051022e3dd7cb9a4a33ccb8c15c5faeddfb6488ce3467442531132460d5fe3e",
       "checked": true
     },
+    "circle-comment-66126186": {
+      "category": "context",
+      "text_sha256": "8d7f0bafbffe21e68ab7ed40a0b177e1fcf9baecb5e9f7828d78cb371bc2a668",
+      "checked": true
+    },
+    "circle-comment-66130897": {
+      "category": "private",
+      "text_sha256": "1e2bca81efa76fd9e2f8512347b79ab1fdf962c5f907f89ba1ee18c0582bfde0",
+      "checked": true
+    },
+    "circle-comment-66131002": {
+      "category": "context",
+      "text_sha256": "a8df763beefda3aa10ba98dc812f06d3b24a53d6a3089e9ac479f3a0111ce46b",
+      "checked": true
+    },
     "circle-comment-66141120": {
       "category": "admin",
       "text_sha256": "a3276f82df69411afe5797c57e50d4d82cb771b7d8fd425d16f802c81b5ea91b"
+    },
+    "circle-comment-66150414": {
+      "category": "view",
+      "text_sha256": "b3558b7eafa57b4157a0089ce5ec628475e84a0681a6d6da54cdf1284db38817",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-66312592": {
       "category": "admin",
@@ -1541,6 +3121,11 @@
     "circle-comment-66512127": {
       "category": "view",
       "text_sha256": "8363e5b3f3bb7141adbf45c24695fab7d3a72af4c9b5f40282d2ea8b04ffa40d",
+      "checked": true
+    },
+    "circle-comment-66514110": {
+      "category": "private",
+      "text_sha256": "83b6d4a0a8b1ab80f29e005922772b89145f7fd8b53ba4a5f0e517a1687c00b0",
       "checked": true
     },
     "circle-comment-66612740": {
@@ -1572,6 +3157,21 @@
     "circle-comment-67091897": {
       "category": "advice",
       "text_sha256": "b89e97b1f42566f60ef60e49350e4b0b83790cf71a34c4acb4a69ba1a7bf7985",
+      "checked": true
+    },
+    "circle-comment-67092856": {
+      "category": "admin",
+      "text_sha256": "4f8198a341a8ecf8d6770f88b3cf114226980e091490aa6405de7bb7f7c7cee3",
+      "checked": true
+    },
+    "circle-comment-67256565": {
+      "category": "private",
+      "text_sha256": "f9a59170d6b608bffc7886de024e123e467aca409d7209b9277aa171702adb52",
+      "checked": true
+    },
+    "circle-comment-67261002": {
+      "category": "private",
+      "text_sha256": "281cf872a6ecbc539023bf10e7bbc510a86e621a53547495fb8399fb63fa201a",
       "checked": true
     },
     "circle-comment-67334382": {
@@ -1665,6 +3265,27 @@
       "text_sha256": "3774ade32059b73a83ca2db66516dbd4b47cf8e641e2c11caa33b7ad03c4ee46",
       "checked": true
     },
+    "circle-comment-69690535": {
+      "category": "private",
+      "text_sha256": "c97726ced5d6e2b1e201e569098405c918946be5bc9097b8de1f377622b22af0",
+      "checked": true
+    },
+    "circle-comment-69717984": {
+      "category": "private",
+      "text_sha256": "c3e4dfe9f4127351c82cbd6c2fb256e85f02d30549d8d97a12061b15c619c143",
+      "checked": true
+    },
+    "circle-comment-69837422": {
+      "category": "private",
+      "text_sha256": "59965b6e160bd047d60fcd1757d95386a2f949af00486a56b49a224ccb47620f",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-69894523": {
+      "category": "private",
+      "text_sha256": "0b3be76afa86f420341d372f8bab00d1bad01cbb529a02c09d8f29632c077592",
+      "checked": true
+    },
     "circle-comment-70175229": {
       "category": "advice",
       "text_sha256": "ec771477ccd79acd071a25acde7c4a6e92079cdb83b68670a90d697ac1eff680",
@@ -1679,6 +3300,10 @@
       "category": "view",
       "text_sha256": "bcd0afc83187133d1e21eb8ea1e763289a59faa043d052ceadc2256dcdfd981b",
       "checked": true
+    },
+    "circle-comment-70732584": {
+      "category": "admin",
+      "text_sha256": "10ec6d7bc95b6098fb76cd40a8fdb6f04affbcfac9b75217fe717cc4eae51469"
     },
     "circle-comment-71713206": {
       "category": "admin",
@@ -1717,13 +3342,34 @@
       "category": "admin",
       "text_sha256": "120cb2eb5412f1c932fee7cfce466c9ed8241e7485dcc7350f0d1ebdf4c52f1f"
     },
+    "circle-comment-71828933": {
+      "category": "view",
+      "text_sha256": "f0470a6c1e3535fd93c75de2f615110cdaf2328828c08edeef3fcd0d4367e6c9",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-71829928": {
       "category": "admin",
       "text_sha256": "189e9949f8d86ec71911213cb7ca560e812479055899b79b3c29734847b544a1"
     },
+    "circle-comment-71919901": {
+      "category": "chat",
+      "text_sha256": "a2c166874fd087bcd4c08441ce83d87bc4f3363ce4450e8fa648ca37d721550a"
+    },
+    "circle-comment-71963711": {
+      "category": "private",
+      "text_sha256": "c6bd24852a509239e7c3e92de2e1771117c5c13f8f868fceeae5096e79bc9a6c",
+      "checked": true
+    },
     "circle-comment-71984026": {
       "category": "chat",
       "text_sha256": "7d4330d3bcf27234eaf777249e2a5bd67637ff6f966e34d972a502b5243269fd"
+    },
+    "circle-comment-71985789": {
+      "category": "advice",
+      "text_sha256": "8067d4974d038df60e504f1180bedbdb5597462a4f765d3820ca39005172697e",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-72072955": {
       "category": "advice",
@@ -1744,6 +3390,12 @@
       "category": "social",
       "text_sha256": "8f33812ef244d00066b4057c1dbcf8c926c25ff1604d1bb8a486d0ae60c394ce"
     },
+    "circle-comment-72405663": {
+      "category": "explanation",
+      "text_sha256": "ca611cfc3802e7f4f5ece34c289f49fc30201f9de96b9f5d738b1dc203d16410",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-72816155": {
       "category": "admin",
       "text_sha256": "a4a5ef9bd5f34c7306b3f34a16b18b836bf217f9726f7b6a38247a3bccb54d82"
@@ -1753,10 +3405,35 @@
       "text_sha256": "0a1e37594da080bba3ecb17f2f9b7d78d0820dd76d3ae638376972447bcee317",
       "checked": true
     },
+    "circle-comment-72949927": {
+      "category": "view",
+      "text_sha256": "b515f21d62826c8ec6cd25fcb17f38fec4d0822c6d1fb9beeebbb1c879587b27",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-73042450": {
       "category": "advice",
       "text_sha256": "2988e79de3f74eb0a1ab6eafc16927c0bd2ae67d2511dcebdb50ae68cab2aed0",
       "checked": true
+    },
+    "circle-comment-73234298": {
+      "category": "advice",
+      "text_sha256": "1ad0b18b01bdcd001fb2a36fe68a15e6c983c376f659999639918710da61ed53",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-73236314": {
+      "category": "private",
+      "text_sha256": "0de49164f76e302144eb464034dfa3d796eff4fc12f7843333627e48d3e33fc3",
+      "checked": true
+    },
+    "circle-comment-73280309": {
+      "category": "social",
+      "text_sha256": "0f4bea66a1603dfb764877dcbb4a450fc8fcb41a850aff2c0a5e11ff0bb7ada6"
+    },
+    "circle-comment-73440863": {
+      "category": "admin",
+      "text_sha256": "1315f0aa58f79ac2436a551c3bdced3bdac7a05b373c7de863c8d7708c48de9b"
     },
     "circle-comment-73696267": {
       "category": "advice",
@@ -1777,14 +3454,91 @@
       "category": "context",
       "text_sha256": "2dfb62cbe0e263213d0313a2424107ac88924ddf0242b1f9c3cc01220f6e25b5"
     },
+    "circle-comment-74563224": {
+      "category": "private",
+      "text_sha256": "0669cfd7a4f1df3a9979192a207ebda0a0d19d98e2e8a8c2ff331e995eaa426c",
+      "checked": true
+    },
+    "circle-comment-74742760": {
+      "category": "private",
+      "text_sha256": "e548fc31f9acf7e0e173c397e8ab42bc88c6aa6c9dfdd4d4b07ecfa108565039",
+      "checked": true
+    },
+    "circle-comment-74743248": {
+      "category": "context",
+      "text_sha256": "812c8e43c8c678a0dc94ceb5beda35646fdf0ca1c211626ea42ebb0f7817ba7e",
+      "checked": true
+    },
+    "circle-comment-74890365": {
+      "category": "private",
+      "text_sha256": "02d8dac0bf75f2809eba0b8218164e61943def59c9e89c710d63157908544a55",
+      "checked": true
+    },
+    "circle-comment-74892607": {
+      "category": "context",
+      "text_sha256": "b5b55b67c9d670752e4d7dfa6f8da6b2dfd2f3d1c5e4b4283b8ab82f80abde8f",
+      "checked": true
+    },
+    "circle-comment-74905774": {
+      "category": "admin",
+      "text_sha256": "610f681a78f123c665f403a359970c9b38948236b84dbdd1f0fd2e74f0409fe2"
+    },
+    "circle-comment-74905839": {
+      "category": "context",
+      "text_sha256": "2c485da457353e0d3bb3cd82054601d9beb90aad0471170acfe8fdf60affacb5",
+      "checked": true
+    },
+    "circle-comment-74910014": {
+      "category": "context",
+      "text_sha256": "dc5b95a15a4de8a8937de48a841a6491a88c7656a927eafa0ec5a7c96bc3de2b"
+    },
+    "circle-comment-75124579": {
+      "category": "chat",
+      "text_sha256": "8dcf6c53db3fab46fd29f89475cdce1ff8035d4dbc89c108f7d656e4ed76d3f3"
+    },
+    "circle-comment-75147955": {
+      "category": "explanation",
+      "text_sha256": "747ebd7b1f5deb980a19bca03b89042aedc25db6c6bc2f7a1ceae22914e52064",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-75985099": {
+      "category": "experience",
+      "text_sha256": "1d43d2892f40247ce30d4477598c2379956949974f53d1b7b1a69f15c648e1d6",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-75985493": {
       "category": "view",
       "text_sha256": "573c6dca1bf73e67fdc7e3db8f71f61a739d98fe66c56154695b26fb47f28162",
       "checked": true
     },
+    "circle-comment-76112708": {
+      "category": "view",
+      "text_sha256": "48022e0bca7a97007f6f0e11e6c8a4a474dd0bbb193506d3b4576df52397c023",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-76202632": {
       "category": "admin",
       "text_sha256": "5ddfcf268b3ba0fed6fbdce32c9e4aff4c588043702d3daeff27a3fcbe5134d5"
+    },
+    "circle-comment-76611549": {
+      "category": "admin",
+      "text_sha256": "5283788c5b6d1c2ba4cd4e2a4e67450257e5e55ccf9e6a66c3502a4b69d01718"
+    },
+    "circle-comment-76966780": {
+      "category": "context",
+      "text_sha256": "c8594f040f1e77c3707a54b0a917a96e3dd5cad4f613af428650e5a2a7a1313e"
+    },
+    "circle-comment-77084032": {
+      "category": "private",
+      "text_sha256": "e5e8858b3a112676d3fa3e2a3d88ddbc2578549f279300613f0701fd5f6381af",
+      "checked": true
+    },
+    "circle-comment-77319686": {
+      "category": "private",
+      "text_sha256": "3a69ad12e4c54c4275b3b60459c21dd8fe5692d1db42693acb3d98f462905294"
     },
     "circle-comment-77446459": {
       "category": "advice",
@@ -1799,6 +3553,11 @@
     "circle-comment-77505965": {
       "category": "advice",
       "text_sha256": "1e298bbe675bda92d08e90cd82b5f74862c7951130525203d16056d487bb5312",
+      "checked": true
+    },
+    "circle-comment-77508996": {
+      "category": "private",
+      "text_sha256": "a9a8c602835cef9e5bc87b4ca697a2c08f1720b048b0c14103dc350e0a2b2396",
       "checked": true
     },
     "circle-comment-77509078": {
@@ -1824,10 +3583,43 @@
       "category": "social",
       "text_sha256": "c5833e76fba13d5c6a28a7ebf8ed452db40bc48e9d9f7069367102ca2d8f0ce7"
     },
+    "circle-comment-78673148": {
+      "category": "admin",
+      "text_sha256": "836d51bba25495454e98d07be2e27856745ebe39d60c1ce56945b2bcae615349"
+    },
+    "circle-comment-79026733": {
+      "category": "view",
+      "text_sha256": "33055d343a8283c7b7c2dc91d7fc3e59377c8da59bb12300473decae68a7874c",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-79095186": {
+      "category": "chat",
+      "text_sha256": "e24304a64e31b2ba9cf9e8f3816c4d2c27651d836973cadd826ec377875b58ab"
+    },
+    "circle-comment-79104901": {
+      "category": "private",
+      "text_sha256": "7bb4d3425b59441ac2ed8014df852e9a36cfbf4506636499284d8fb49a1377d3",
+      "checked": true
+    },
     "circle-comment-79166650": {
       "category": "admin",
       "text_sha256": "2dc137b2e78f582fbfe366016ddedada56eb01d7a0ee49e93b4095a5ed78e998",
       "checked": true
+    },
+    "circle-comment-79188482": {
+      "category": "admin",
+      "text_sha256": "f443190622b87a652f4900121c7fd762bc1feca2e0e56dac155da5e8d993db40"
+    },
+    "circle-comment-79466398": {
+      "category": "private",
+      "text_sha256": "bcad6bfdd34223dcbd3ad5577dce6218a336ccd0c34d4b2832ad918ab0fd0fd5"
+    },
+    "circle-comment-80021163": {
+      "category": "view",
+      "text_sha256": "dfe36e4e266b29e172a36e114c7a07c9147cf66df90d0ba0ca61229fa2aa8d9a",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-80214688": {
       "category": "view",
@@ -1850,9 +3642,47 @@
       "category": "chat",
       "text_sha256": "01b4d2bfb9cdf41ed115676068427e679e190e98d1226200b1a57168ac5e48a6"
     },
+    "circle-comment-81968737": {
+      "category": "social",
+      "text_sha256": "031900ef6453b0e2f5bbb9bacef5e3f5a49194e47fcb4a9509c2d83e788ecd1c"
+    },
+    "circle-comment-82012205": {
+      "category": "social",
+      "text_sha256": "749f959f107296d46c53dc5fe05c8d3f941c7181fbc348c9de2493b4448311af"
+    },
+    "circle-comment-82278994": {
+      "category": "chat",
+      "text_sha256": "9e0952b50648a0b365ec0697ef9a1f4d271c95c383b74920f6ec0bca4d17769b",
+      "checked": true
+    },
+    "circle-comment-83431230": {
+      "category": "private",
+      "text_sha256": "6d524876280149a9f73f7347bd74ddb2ebc649d4f401d276c31fa468f43df309",
+      "checked": true
+    },
+    "circle-comment-83490179": {
+      "category": "private",
+      "text_sha256": "cc07e14d2892bdc994d89728c97e5a16ef15e2f0ec14fee77a63b131319bb7a0",
+      "checked": true
+    },
+    "circle-comment-84113869": {
+      "category": "admin",
+      "text_sha256": "36ab5c2df5cf78c8068ffe6871e39d552ec60a54cf5e36f4e1821736357c9a45"
+    },
+    "circle-comment-84114583": {
+      "category": "private",
+      "text_sha256": "b8f32b2c2d7694fbd30c89cb557a6b56945d9f3c5b47a75800ff482100865857",
+      "checked": true
+    },
     "circle-comment-84211678": {
       "category": "admin",
       "text_sha256": "ae7be0d5680039360f3ebd87bc8208b4a0f3438b0c0e7fad7030afad080e09a6"
+    },
+    "circle-comment-84593404": {
+      "category": "private",
+      "text_sha256": "6463fa5ff2f4294b3b922ea70aa4201d1e011cdb31be2d68c255c5fa7250509e",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-84897289": {
       "category": "view",
@@ -1863,9 +3693,24 @@
       "category": "chat",
       "text_sha256": "aaaf0ff3890aea457fc8455936ad3423ba41114d6040c451aad07a32b1dcd516"
     },
+    "circle-comment-85009223": {
+      "category": "private",
+      "text_sha256": "75cb7c4087aca4b731e83e9c8d9c790a88abc2da37b200647ac294551d93c09d",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-85011415": {
+      "category": "social",
+      "text_sha256": "dab9110308bd485bd039e8fb6cc4d3e540e4f7ac6e8b6aab2ed4eac6d66e71e4"
+    },
     "circle-comment-85206256": {
       "category": "chat",
       "text_sha256": "bb36a240912e3d6ad9816d1081c14821ce47aa39d98f686a65759682e1aefbec",
+      "checked": true
+    },
+    "circle-comment-85393171": {
+      "category": "private",
+      "text_sha256": "d4f3e7d9a503c5fd2d95d2cc7939bd76e744be71791b6b6d5ba5fa4bc10336b0",
       "checked": true
     },
     "circle-comment-85673496": {
@@ -1877,6 +3722,10 @@
       "category": "context",
       "text_sha256": "0c0da72aabb261a9ff136ab575b028e6e4f22091a43a10719f0a1c21892eadd3",
       "checked": true
+    },
+    "circle-comment-85711023": {
+      "category": "context",
+      "text_sha256": "ce92bb689da6c16128e943ab4c89f43084251eecaa59a62f9146eb199495b9e2"
     },
     "circle-comment-85831422": {
       "category": "view",
@@ -1891,6 +3740,16 @@
     "circle-comment-86328635": {
       "category": "admin",
       "text_sha256": "f09aa7db7c19e112093451d812256c069634b8c7c12415838745867a3c93a28d"
+    },
+    "circle-comment-86512183": {
+      "category": "admin",
+      "text_sha256": "50e2c7518546a3f60d2ce461737ed8ab88bd6bdc424142d03dbeb411abe34745"
+    },
+    "circle-comment-86565901": {
+      "category": "explanation",
+      "text_sha256": "cab97c060350c47d1c1baf31bf1a6033cfe5e818b39fcba394e5a6192402ab8e",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-86859579": {
       "category": "social",
@@ -1925,10 +3784,26 @@
       "text_sha256": "fb3c4f2b1dbd61ab9faf604715c10645c410d9074085705c760a06b6e4e46079",
       "checked": true
     },
+    "circle-comment-87195391": {
+      "category": "admin",
+      "text_sha256": "e6947ecc2854036d5dce232a0bfd92e8eb58f6b08b15cac03108ba2fd2d1b3f2"
+    },
     "circle-comment-87482197": {
       "category": "information",
       "text_sha256": "5bec5d1eb528086de4ca8c654914ececc695efd4e81d3904fe0ea229fc1f9f61",
       "checked": true
+    },
+    "circle-comment-87597597": {
+      "category": "experience",
+      "text_sha256": "3396d7db89dab5e9252775680bcba752b1f68c9ee179d6abfe03a0b9311b220b",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-87598202": {
+      "category": "private",
+      "text_sha256": "a7becb3a7d1be2d75def62f0f7264e253a214fe012d181547e54bace5af9c3dc",
+      "checked": true,
+      "set_by": "maintainer"
     },
     "circle-comment-87942198": {
       "category": "explanation",
@@ -1938,11 +3813,6 @@
     "circle-comment-88003405": {
       "category": "information",
       "text_sha256": "9aa9944fb0f779c0022beb33222601721c9b8751bcdb45f17acfea32b72ec4f3",
-      "checked": true
-    },
-    "circle-comment-88007102": {
-      "category": "context",
-      "text_sha256": "e98aca1399a37c178a54ebf48142fc4b2a6ba51f31fe6873dd1d9f1621a8400d",
       "checked": true
     },
     "circle-comment-88015138": {
@@ -1958,6 +3828,18 @@
       "category": "view",
       "text_sha256": "8506a2a0e705b5ca875f7e69f7092a07ec6a5f9860104bae73822dd179e988e9",
       "checked": true
+    },
+    "circle-comment-88203441": {
+      "category": "experience",
+      "text_sha256": "1e20ffcfad35e0834c28afb5a63d9f5c8e9a88b401717abb335b2998f05e10cc",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-88262089": {
+      "category": "view",
+      "text_sha256": "c5140aa7bcb611b1947f9348aeb191fec16890881ea98628b260654042368173",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-88262391": {
       "category": "explanation",
@@ -1994,6 +3876,11 @@
       "text_sha256": "2fc51630b01624826256cfca5e23d43eed354ccd98c195ee7ddb9dd048270095",
       "checked": true
     },
+    "circle-comment-88540271": {
+      "category": "admin",
+      "text_sha256": "ef3d88d5b79668c194fe355cdeab7ee977c1a5cd9d93365448af1e4df6836d24",
+      "checked": true
+    },
     "circle-comment-88543916": {
       "category": "experience",
       "text_sha256": "fc5250c05f0c341bcd0ab5d1e768ebe5e9d07552547c251d47fc748224a0dc60",
@@ -2014,9 +3901,17 @@
       "text_sha256": "dfad754546bff71e82ad8b129fa0fef7b89a41fb61cf3c22e8c4d0f8f645a932",
       "checked": true
     },
+    "circle-comment-88591963": {
+      "category": "admin",
+      "text_sha256": "84c01d136863b7adfce4f1610e0ebaeda082ff8be85de137f41068efd52878f2"
+    },
     "circle-comment-88745497": {
       "category": "admin",
       "text_sha256": "c0cab900a631a892bdead7c6dfef7c932b19efd07f7df4c707afaeeba5913555"
+    },
+    "circle-comment-88853096": {
+      "category": "admin",
+      "text_sha256": "347dcf0f90877aec892b33760116abff0ae62c53d77a7fce0b9cc222077c82fb"
     },
     "circle-comment-88857577": {
       "category": "admin",
@@ -2078,6 +3973,12 @@
     "circle-comment-89039865": {
       "category": "admin",
       "text_sha256": "e64d09171f3e7f98ad36b7eda9932337ac583d5cb40a0e6175fea62243e0b206"
+    },
+    "circle-comment-89100649": {
+      "category": "information",
+      "text_sha256": "c72c32d61543dd19bef6e5ceca591a3f1d2a72acdfbf3a87969f38ab976f4ffb",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-89220231": {
       "category": "information",
@@ -2170,6 +4071,10 @@
       "category": "admin",
       "text_sha256": "535f158dd145ee88ee59155475dc72c42101f0e5378fb61083cba582dc8f1c6f"
     },
+    "circle-comment-89891398": {
+      "category": "admin",
+      "text_sha256": "4eb738d4bb06991945b5759da85fb59513545e03b86df12be83826f670f2d90a"
+    },
     "circle-comment-89898377": {
       "category": "explanation",
       "text_sha256": "cb3ff3fb451bebbf5c2fb38fea46535265db84298cea975d56281fc5dd8599c2",
@@ -2184,6 +4089,14 @@
       "category": "social",
       "text_sha256": "c31f1df401cfff369c1c14802beef6cc11fa30f27f183dd0925eee1e5a1000f3",
       "checked": true
+    },
+    "circle-comment-90202280": {
+      "category": "admin",
+      "text_sha256": "212971045b434321389a64c876700a123ec552e810639d17e0619be1a178e857"
+    },
+    "circle-comment-90202340": {
+      "category": "admin",
+      "text_sha256": "2cc1a5f7162c8f7664e263f6231a96305c761bbd380d88d14291e53d3ba80acf"
     },
     "circle-comment-90268795": {
       "category": "admin",
@@ -2243,6 +4156,37 @@
       "category": "social",
       "text_sha256": "2165de7ac176d687ba3d73be145c200805db5615b6561ff62e6d28d65d5dde54"
     },
+    "circle-comment-90654737": {
+      "category": "view",
+      "text_sha256": "53aa62337d15275b947f2ade0a342dd6503e94e1c4ea15fff09413ba2fe18942",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-90658553": {
+      "category": "private",
+      "text_sha256": "f265b4bc6ad016f05ce71c99c77ca52d32975997a46cda11acc3fdcf20176bf3",
+      "checked": true
+    },
+    "circle-comment-90663335": {
+      "category": "context",
+      "text_sha256": "a138c6a234fb43f277594b5e9428a93ce05ad69939f14e7b26bf28ed65358237",
+      "checked": true
+    },
+    "circle-comment-90663441": {
+      "category": "admin",
+      "text_sha256": "69851c3e599538a50ee65464fda93e5434ece5b66bca8dae18677d43491f754f"
+    },
+    "circle-comment-90676861": {
+      "category": "private",
+      "text_sha256": "3da0b59d54a81d9b1f63659d42490b977a37b54b648047e67651d445a1ad5341",
+      "checked": true
+    },
+    "circle-comment-90677026": {
+      "category": "private",
+      "text_sha256": "dd6d4afb6a058ee58b02c5f6dc7da719fc2177fc5766e3bdfb76283597c932f2",
+      "checked": true,
+      "set_by": "maintainer"
+    },
     "circle-comment-90728854": {
       "category": "experience",
       "text_sha256": "c7010d72604c3155cb73654016be5b00fd179f510a44868bf0f2e12df0254c59",
@@ -2263,6 +4207,10 @@
       "text_sha256": "766ab1b5a526a2440ceecf14c6ca6a0d5005fc0c340edee33a1a05d51c27e47a",
       "checked": true
     },
+    "circle-comment-90867406": {
+      "category": "social",
+      "text_sha256": "cf1ff22e384843e2946af112d8aba1ea172103ef1a9a5aac46c8cbc5297c55f8"
+    },
     "circle-comment-90891300": {
       "category": "admin",
       "text_sha256": "62f0c234c4bcc90cb78d18969f1d2e9d54861e4988da003bbea89347049b7a26",
@@ -2273,9 +4221,19 @@
       "text_sha256": "af53d6083b5149a45289d2382302c93d4d023eea992da1a737b4a27858e23c9a",
       "checked": true
     },
+    "circle-comment-90982093": {
+      "category": "context",
+      "text_sha256": "e711a0f1dc4ddffbcac56532a5d172cf8737334a7ecff3ef0ec4110bf10c108d",
+      "checked": true
+    },
     "circle-comment-90989114": {
       "category": "explanation",
       "text_sha256": "aee20559ddffdeabf7054e5f384c00ca98a8ea5a5d8f0d6212a302d63349a6da",
+      "checked": true
+    },
+    "circle-comment-90989212": {
+      "category": "private",
+      "text_sha256": "f00072a198e20337401a751ae816c5140aea6ad61c06024439415d3b66be04f7",
       "checked": true
     },
     "circle-comment-91012068": {
@@ -2286,6 +4244,17 @@
     "circle-comment-91023630": {
       "category": "chat",
       "text_sha256": "07b9afd35882701f0eba58f9de214a85554e6d26aa6c883ed44d42d3b1c75832"
+    },
+    "circle-comment-91033651": {
+      "category": "private",
+      "text_sha256": "e76a0ccebed5559b9fe1ae0e85b3bb01b4badb4a2a36d28b91ace3a67cae2411",
+      "checked": true
+    },
+    "circle-comment-91057384": {
+      "category": "view",
+      "text_sha256": "a94b8be150dfa61b0d976d220f910e7497c2ee2c0523608683ffd2ad367337e8",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-91057458": {
       "category": "admin",
@@ -2379,6 +4348,12 @@
       "text_sha256": "3fa5aa2a66b2b8bcd519d963148d3823b3bca094e25bbe39e7839c200fdf9dc2",
       "checked": true
     },
+    "circle-comment-91794340": {
+      "category": "private",
+      "text_sha256": "9b28946a8e2a1c9e0cf827b25a6afa75a93e626de2d7988215983a2a22586b99",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-91998713": {
       "category": "explanation",
       "text_sha256": "865721aecf3800b116d79806ca137401ab8c1b5f4e38581be7b48ee848fe2a0f",
@@ -2388,6 +4363,10 @@
       "category": "view",
       "text_sha256": "85dfab79d05470639beffed399b0e8492256dc6ce2055ac778f26e45ddf49862",
       "checked": true
+    },
+    "circle-comment-92125378": {
+      "category": "admin",
+      "text_sha256": "69e2ea10ef8231b9ea52143decd59ad00e19c86ce749a8408a380505461d9ba1"
     },
     "circle-comment-92186300": {
       "category": "social",
@@ -2415,6 +4394,42 @@
     "circle-comment-92585714": {
       "category": "admin",
       "text_sha256": "98e5f9c3d4ddd2b8971ca3aa686d3bedbb7444b51b6f2d64cbaa4f06751fed73"
+    },
+    "circle-comment-92636797": {
+      "category": "advice",
+      "text_sha256": "7baff81670746fb5224db9f43ec89932aa613b348af25f3a7ca92eea99fff898",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-92637687": {
+      "category": "private",
+      "text_sha256": "a423da95bacabbd16e48fe3ebada7babcb18a0b569c1722a0cf1136625e4763c",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-92641910": {
+      "category": "private",
+      "text_sha256": "e75605d2e446f2d0791a89f2786af7b983b08f1d2f2a54ebc37b91715e662c1b",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-92676167": {
+      "category": "explanation",
+      "text_sha256": "81276fbd6e511a548fae47b743ba6a2a319ecbb45f38e9d571a1520161ea29e0",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-92676494": {
+      "category": "explanation",
+      "text_sha256": "9ef2c62a7f34cbdd77482f65eae32703c420411905ea52fb69b90fd367f49bfa",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-92792852": {
+      "category": "view",
+      "text_sha256": "41f54a31d842cbfa83a7a1e2ff1ef751d78f759b4a762fa8ab53203a006a1b6f",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-92824253": {
       "category": "view",
@@ -2446,9 +4461,31 @@
       "text_sha256": "478e76f910ab927785b4d395e2a1aa4d1d0470aceb0c6d84278c6e7dd093374d",
       "checked": true
     },
+    "circle-comment-93479167": {
+      "category": "explanation",
+      "text_sha256": "25dcc007866ac282df612089900453c13f9ddf11009535aaa68580892b29c811",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-93492335": {
+      "category": "advice",
+      "text_sha256": "5992e3eae4db92b3c4cf322234eae2c495eb0335e0a4455a591fdc2e040b7e0e",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-93526235": {
+      "category": "private",
+      "text_sha256": "3b4c1f894153a2ba8d6a63955ceb645b6916dd0ad2bc7efa23986b2a810ed427",
+      "checked": true
+    },
     "circle-comment-93534149": {
       "category": "advice",
       "text_sha256": "8a7847d532c0cf47598d62ddb8cef8e09e9b215508c3906b382b8678c9dd1827",
+      "checked": true
+    },
+    "circle-comment-93540158": {
+      "category": "private",
+      "text_sha256": "79ac3c53b47eb49787a4d72cd58a36dbab4e8a773b94afd1d669fa3a682b333e",
       "checked": true
     },
     "circle-comment-93551010": {
@@ -2463,6 +4500,15 @@
     "circle-comment-93581657": {
       "category": "explanation",
       "text_sha256": "5290083b4574f8850b1ae27108196b0dfaee72c65efd35d863d0ba8874f55c91",
+      "checked": true
+    },
+    "circle-comment-93582443": {
+      "category": "private",
+      "text_sha256": "1938ae239b54181e10a18e9ec60af36b11d8eb643a072f85ae31949601e4e26d"
+    },
+    "circle-comment-93610996": {
+      "category": "admin",
+      "text_sha256": "ce21284dd783b3145effc85b50b99a623d04aba33f2292206522897b3540d9b5",
       "checked": true
     },
     "circle-comment-93666919": {
@@ -2702,6 +4748,11 @@
       "text_sha256": "20751afb74d6ac93939af34609620cbf8ed060d5e08efa2fcb315027ae562b8c",
       "checked": true
     },
+    "circle-comment-94782321": {
+      "category": "private",
+      "text_sha256": "4a6b6e056fe8858e6cc0ae9b01eafa5dc9ddc0db2df2984207944f6179f704df",
+      "checked": true
+    },
     "circle-comment-94882873": {
       "category": "view",
       "text_sha256": "14ff52ccfe899f70c8a44391813fa077a951491e728e789ea5392724e5bfa393",
@@ -2730,6 +4781,16 @@
       "category": "admin",
       "text_sha256": "b87c6c0e6b5b9436394526f774b02c809e159e900d1b9985031a41f11b77d192"
     },
+    "circle-comment-94998631": {
+      "category": "social",
+      "text_sha256": "4ba2c873abf84f839b9e3ebea04b9433acaff8026e4a18f9d1bb8d37d4600cf6"
+    },
+    "circle-comment-95008343": {
+      "category": "information",
+      "text_sha256": "bf71cbf96ce4045c33e6fa306bcf94b6c99391bbcc422d0179df990781a4f01d",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-95528560": {
       "category": "social",
       "text_sha256": "eee4741d83602c4201c7c4d92cdd2bbb757cef8b0f1d4dc2b2ed8f180357dd02"
@@ -2738,6 +4799,18 @@
       "category": "context",
       "text_sha256": "38beedae80a4b67399ba4f6e703249280bf4ae3f63b2259c72e3c91e24d4ba31",
       "checked": true
+    },
+    "circle-comment-95613006": {
+      "category": "advice",
+      "text_sha256": "52b903af9fd20ea8008e557305b9719cc451e234c872ca72fe1c9851ac8569e8",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-95799159": {
+      "category": "view",
+      "text_sha256": "bad4dda15319eb59d383e7842d89aacd6b8fc5a1bf0e185ae40014afd1ef0ffb",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-95984047": {
       "category": "view",
@@ -2776,6 +4849,11 @@
     "circle-comment-96478354": {
       "category": "experience",
       "text_sha256": "3d9af67099880c93f3e676f22ac197e5bcfa1e407a41bcaafb23a86c830cb7fc",
+      "checked": true
+    },
+    "circle-comment-96584039": {
+      "category": "private",
+      "text_sha256": "75b196ca3430dc452edf4621b953ea76d317520432fb922d80937caa7c0ddd63",
       "checked": true
     },
     "circle-comment-96704578": {
@@ -2822,9 +4900,19 @@
       "text_sha256": "52e3ba1eb6019537f24791e69def60f1f489786aa1e6215ba8cdff12b482e4c1",
       "checked": true
     },
+    "circle-comment-97381144": {
+      "category": "private",
+      "text_sha256": "1f99fd633d0b9e5e4bad3c1cdd2f77fa7fd3fdc2421705c64352b6b10c0cce3b",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-98328376": {
       "category": "context",
       "text_sha256": "94002e325c18d132eb648ed7e3bf2b1f28e356e5fd9fe785d8d3d991247fcc65"
+    },
+    "circle-comment-98608478": {
+      "category": "social",
+      "text_sha256": "a1abeb4cf03336cf750cea8af9ed49fe65ced3cbd8f43d1290e0eb1588bf7875"
     },
     "circle-comment-98804412": {
       "category": "experience",
@@ -2835,6 +4923,12 @@
       "category": "view",
       "text_sha256": "c64940aa4f96fe3fab58563212105b94082ac53c4911dcc9c7c068f8b63c407c",
       "checked": true
+    },
+    "circle-comment-98909342": {
+      "category": "explanation",
+      "text_sha256": "ea433b3a3472d54037713ef11289bd34cac41621d215f76822b054b2042c8959",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-99091568": {
       "category": "information",
@@ -2854,10 +4948,22 @@
       "text_sha256": "b14b8749a1106678b7331f944bcf2a4a482c29f6ce3dc8dbb4cc599084539297",
       "checked": true
     },
+    "circle-comment-99240014": {
+      "category": "explanation",
+      "text_sha256": "1c41a842096c5e372ffaec9c6ba885da73c34fc8c9c25a546775f9c4895df6d7",
+      "checked": true,
+      "screened": true
+    },
     "circle-comment-99240408": {
       "category": "advice",
       "text_sha256": "e9a1036fdde0c92f79d28011b41bf34b634dfcadd69b5f5cccb7c35a85c733c1",
       "checked": true
+    },
+    "circle-comment-99241531": {
+      "category": "advice",
+      "text_sha256": "3a3855077da35fa91d6409fa1923a411144c4f478aa00a4c162492bd192286a2",
+      "checked": true,
+      "screened": true
     },
     "circle-comment-99241835": {
       "category": "advice",
@@ -2873,9 +4979,36 @@
       "text_sha256": "700eafa1af5697a294a3a1b3e3df130a08c26f72eb38563aeb7b3e9ff3c2b005",
       "checked": true
     },
+    "circle-comment-99298636": {
+      "category": "private",
+      "text_sha256": "9083965ff3cb8f594a492465b9dbd4df768c7bc594bb0fa14448c8d1c424943b"
+    },
+    "circle-comment-99302530": {
+      "category": "private",
+      "text_sha256": "45f4ac4d4b97a1247dc2825242006ee64a17fbbbf45d21bbbf7c115e5cb48d7c"
+    },
+    "circle-comment-99339786": {
+      "category": "admin",
+      "text_sha256": "45aa2b6d98680f8b3ed4cd5d5b8a9dcc6dbddd8940724a32c6ca7801cc0e2f34"
+    },
     "circle-comment-99344474": {
       "category": "explanation",
       "text_sha256": "ff794322344979ff3127691f7444af6e94b84d781b847221528a608ec1bcb4d2",
+      "checked": true
+    },
+    "circle-comment-99412578": {
+      "category": "admin",
+      "text_sha256": "f79b1eb8ea879f7b7d990dabb28135941d615e8ab87d732d3cc30f8c0e7bab38"
+    },
+    "circle-comment-99716854": {
+      "category": "explanation",
+      "text_sha256": "0c7464496078111929e505d409c8a7d59d2b34e06e87c02e61fe78c1d6a6294c",
+      "checked": true,
+      "screened": true
+    },
+    "circle-comment-99901250": {
+      "category": "private",
+      "text_sha256": "a8a79e38509a4f02df4c9c9094aec3f3ec4de049db3de23e4d43f7ac97111fbe",
       "checked": true
     }
   }
