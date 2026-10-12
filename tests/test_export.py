@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import hashlib
 import importlib.util
 import json
 import tempfile
@@ -146,24 +147,67 @@ class ExportTests(unittest.TestCase):
         self.assertNotIn("/Users/", result)
         self.assertNotIn("C:\\Users\\", result)
 
-    def test_comment_selection_prefers_substantive_discussion(self):
-        valid = {
-            "author": MODULE.YUZHENG_NAME,
-            "space_slug": "ai-resources",
-            "body": "这是一个可以独立理解的评论。" * 12,
-        }
-        self.assertTrue(MODULE.comment_is_included(valid))
-        self.assertFalse(MODULE.comment_is_included({**valid, "body": "谢谢分享"}))
-        self.assertFalse(
-            MODULE.comment_is_included({**valid, "body": "这是微信群里的私人讨论。" * 12})
-        )
-        self.assertFalse(
-            MODULE.comment_is_included({**valid, "body": "这是通过 DM 继续沟通的内容。" * 12})
-        )
-        self.assertFalse(
-            MODULE.comment_is_included({**valid, "post_name": "招聘：寻找新同事"})
-        )
-        self.assertFalse(MODULE.comment_is_included({**valid, "space_slug": "say-hello"}))
+    def test_comment_rules_leave_substance_to_the_review(self):
+        space = {"id": 1, "name": "论坛", "slug": "posts", "is_private": False}
+        valid = {"author": MODULE.YUZHENG_NAME, "space_slug": "posts", "post_name": "怎么学AI"}
+        body = "先挑一个每周都要做的任务，用AI做完它，再看哪一步最省时间。"
+        self.assertTrue(MODULE.comment_candidate(valid, space, body))
+        # Course and membership business is no longer a rule: the review decides it.
+        self.assertTrue(MODULE.comment_candidate(valid, space, body + "课程里也讲过这个顺序。"))
+        self.assertFalse(MODULE.comment_candidate(valid, space, "谢谢分享"))
+        self.assertFalse(MODULE.comment_candidate(valid, space, body + "细节加我微信聊。"))
+        self.assertFalse(MODULE.comment_candidate(valid, space, body + "你刚被裁，先休息一下。"))
+        self.assertFalse(MODULE.comment_candidate(valid, space, "“" + body))
+        self.assertFalse(MODULE.comment_candidate({**valid, "post_name": "招聘：寻找新同事"}, space, body))
+        self.assertFalse(MODULE.comment_candidate({**valid, "space_slug": "say-hello"}, {**space, "slug": "say-hello"}, body))
+        self.assertFalse(MODULE.comment_candidate(valid, {**space, "is_private": True}, body))
+        self.assertFalse(MODULE.comment_candidate(valid, {}, body))
+
+    def test_export_publishes_only_reviewed_substance(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            cache = root / "cache"
+            (cache / "bodies").mkdir(parents=True)
+            (root / "config").mkdir()
+            spaces = [{"id": 1, "name": "论坛", "slug": "posts", "is_private": False}]
+            (cache / "spaces.json").write_text(json.dumps({"records": spaces}))
+            # Single-comment HTML is cached only for some comments; the others use the search text.
+            (cache / "bodies" / "001.json").write_text(json.dumps({"records": [
+                {"id": "99", "author": MODULE.YUZHENG_NAME, "body_html": "<p>别的评论</p>"}]}))
+            def comment(cid, text):
+                return {"id": str(cid), "author": MODULE.YUZHENG_NAME, "body": text, "created_at": "2026-01-02T03:04:05Z",
+                        "url": f"https://www.superlinear.academy/c/posts/p#comment_wrapper_{cid}", "post_id": "9",
+                        "post_name": "怎么学AI", "space_id": "1", "space_slug": "posts"}
+            advice = "@Ann Lee 先挑一个每周都要做的任务，用AI做完它，再看哪一步最省时间。"
+            thanks = "谢谢你的分享，写得很认真，期待你后面的更新和更多的项目进展！"
+            (cache / "comments.json").write_text(json.dumps({"records": [comment(11, advice), comment(12, thanks)]}))
+            texts = {f"circle-comment-{cid}": MODULE.sanitize_first_party_text(text, comment=True)
+                     for cid, text in ((11, advice), (12, thanks))}
+            sha = {key: hashlib.sha256(text.encode("utf-8")).hexdigest() for key, text in texts.items()}
+            review = root / "review.json"
+            review.write_text(json.dumps({"decisions": {
+                "circle-comment-11": {"category": "advice", "text_sha256": sha["circle-comment-11"]},
+                "circle-comment-12": {"category": "social", "text_sha256": sha["circle-comment-12"]}}}))
+            previous = MODULE.ROOT
+            MODULE.ROOT = root
+            try:
+                stats = MODULE.export_community_comments(cache / "comments.json", cache / "bodies", cache / "spaces.json",
+                                                         {}, "2026-08-30", review_path=review)
+                self.assertEqual((stats["candidates"], stats["included"], stats["left_out_by_review"]), (2, 1, {"social": 1}))
+                [row] = [json.loads(line) for line in (root / "catalog/community-comments.jsonl").read_text().splitlines()]
+                self.assertEqual((row["title"], row["review_category"]), ("在《怎么学AI》下的回复", "advice"))
+                published = (root / row["corpus_path"]).read_text()
+                self.assertIn("[社区成员] 先挑一个每周都要做的任务", published)
+                self.assertNotIn("Ann Lee", published)
+                # A comment whose text changed since its review is not published on an old decision.
+                review.write_text(json.dumps({"decisions": {
+                    "circle-comment-11": {"category": "advice", "text_sha256": "0" * 64},
+                    "circle-comment-12": {"category": "social", "text_sha256": sha["circle-comment-12"]}}}))
+                with self.assertRaises(SystemExit):
+                    MODULE.export_community_comments(cache / "comments.json", cache / "bodies", cache / "spaces.json",
+                                                     {}, "2026-08-30", review_path=review)
+            finally:
+                MODULE.ROOT = previous
 
     def test_archived_and_test_spaces_are_not_current_content(self):
         self.assertEqual(

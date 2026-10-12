@@ -3,14 +3,16 @@
 
 The exporter deliberately needs explicit source paths. Circle inventory inputs must
 contain only posts and comments authored by YZ｜立正 plus non-sensitive space metadata;
-authoritative text comes from sanitized single-post and single-comment HTML caches so
-search-indexed attachments cannot become corpus text. It never reads credentials, member
-profiles, other people's comment bodies, messages, or raw media.
+post text comes from sanitized single-post HTML caches so search-indexed attachments cannot
+become corpus text. Comment text comes from the single-comment HTML when it is cached and
+otherwise from the search export's comment text. It never reads credentials, member profiles,
+other people's comment bodies, messages, or raw media.
 """
 
 from __future__ import annotations
 
 import argparse
+import hashlib
 import html
 import json
 import re
@@ -36,9 +38,12 @@ BARE_DOMAIN = re.compile(
     r"(?<![@\w])(?:[A-Za-z0-9-]+\.)+(?:com|org|net|io|ai|co|cn)(?:/[^\s]*)?",
     re.IGNORECASE,
 )
+# A display name: one word, then an optional capitalized surname or initial ("Allen Z"), then any
+# tags members add after a bar ("Moses | INTP").
 CIRCLE_MENTION = re.compile(
     r"@[A-Za-z0-9_\u3400-\u9fff｜|·.-]{1,40}"
-    r"(?:[ \t]+[A-Z][A-Za-z0-9_.-]{1,39})?"
+    r"(?:[ \t]+[A-Z][A-Za-z0-9_.-]{0,39})?"
+    r"(?:[ \t]*[｜|][ \t]*[A-Za-z0-9_\u3400-\u9fff.-]{1,20})*"
 )
 COMMENT_EXCLUDED_HINT = re.compile(
     r"(?:微信|wechat|私信|私聊|群聊|微信群|在群里|群内|群中|加群|短信|"
@@ -46,34 +51,39 @@ COMMENT_EXCLUDED_HINT = re.compile(
     r"(?:跟|和|与).{0,12}(?:聊完|聊天|交流))",
     re.IGNORECASE,
 )
+# Comments: what Yuzheng wrote under any post in a public space, when it says something on its
+# own. The rules below remove what is never published: contact details and private channels,
+# introduction and hiring threads, and other people's private circumstances. A model then sorts
+# the rest into substance and small talk (scripts/review_community_comments.py); its decisions
+# are pinned to the exact published text in config/community-comment-review.json.
 COMMENT_EXCLUDED_POST_HINT = re.compile(
-    r"(?:自我介绍|新人报[到道]|新同学|say hello|招聘|招人|求职|内推|岗位|"
-    r"hiring|job opening|活动|直播|新课|课程|退款|refund|福利|early access|会员|"
-    r"\bcourse\b|\bmaven\b|\bcohort\b|self[- ]paced|作业提交|office hours?|答疑通知)",
+    r"(?:自我介绍|新人报[到道]|新同学|say hello|招聘|招人|求职|内推|岗位|hiring|job opening)",
     re.IGNORECASE,
 )
 COMMENT_SENSITIVE_REVIEW_HINT = re.compile(
     r"(?:therapist|治疗师|心理咨询|抑郁|sponsor(?:ship)?|月收入|工资|薪资|报酬|"
     r"财务状况|PERM|EB-?1A|绿卡|被裁|裁员|未成年|\b17\s*岁|生病|离世|去世|"
-    r"戒烟|伴侣|老婆|老公|男朋友|女朋友|私下|社群不赚钱|接管.{0,12}运营|"
-    r"退款|refund|老学员|新学员|购买|优惠|折扣|报名|名额|课程|qualify|"
-    r"付款|price|价格|预算|订单|客服|发票|上课|开课|lifetime|"
-    r"\bcourse\b|\bmaven\b|\bcohort\b|self[- ]paced|"
-    r"每月\s*\$?\s*\d+|\$\s*\d+.{0,12}(?:month|月))",
+    r"戒烟|康复|伴侣|老婆|老公|男朋友|女朋友|私下|社群不赚钱|接管.{0,12}运营)",
     re.IGNORECASE,
 )
-COMMENT_INCLUDED_SPACES = {
-    "main",
-    "posts",
-    "share-your-projects",
-    "ai-resources",
-    "notes",
-    "tools",
-    "news",
-    "guji",
-    "recording",
+# Member introductions and event logistics.
+COMMENT_EXCLUDED_SPACES = {"say-hello", "events"}
+COMMENT_MIN_EFFECTIVE_CHARS = 20
+COMMENT_REVIEW_PATH = ROOT / "config" / "community-comment-review.json"
+COMMENT_REVIEW_INCLUDE = {
+    "view": "他自己的判断或看法",
+    "advice": "给提问者或读者的具体建议",
+    "explanation": "解释原因、机制、概念或取舍",
+    "experience": "他本人的经历、做法或观察",
+    "information": "有用的事实或资源，不是事务通知",
 }
-COMMENT_MIN_EFFECTIVE_CHARS = 80
+COMMENT_REVIEW_EXCLUDE = {
+    "social": "欢迎、感谢、夸奖、祝贺，没有说出看法或理由",
+    "admin": "搬帖、排期、链接指路，以及课程、会员、报名、付款、退款等事务",
+    "chat": "玩笑、闲聊，或只是提问",
+    "context": "不看原帖和其他成员的话就读不懂",
+    "private": "谈到某位成员的健康、家庭、感情、收入数字、移民身份、被裁或与人冲突等敏感私事",
+}
 MIXED_SPEAKER_HINT = re.compile(
     r"(?:访谈|专访|采访|圆桌|对谈|对话|聊天|闲扯|实况|播客|podcast|interview|"
     r"和.{1,18}聊|与.{1,18}聊|课代表.{0,8}×|鸭哥演示|冯老师品酒课|master sommelier)",
@@ -625,18 +635,75 @@ def export_community_posts(
     return stats, paths, public_records
 
 
-def comment_is_included(record: dict[str, Any]) -> bool:
-    body = str(record.get("body") or "")
+def comment_candidate(record: dict[str, Any], space: dict[str, Any], raw: str) -> bool:
+    """Rules only: whether the substance review may consider this comment at all."""
+    title = str(record.get("post_name") or "")
     return (
         record.get("author") == YUZHENG_NAME
-        and record.get("space_slug") in COMMENT_INCLUDED_SPACES
-        and len(comment_effective_text(body)) >= COMMENT_MIN_EFFECTIVE_CHARS
-        and not COMMENT_EXCLUDED_HINT.search(body)
-        and not COMMENT_EXCLUDED_POST_HINT.search(str(record.get("post_name") or ""))
-        and not COMMENT_SENSITIVE_REVIEW_HINT.search(body)
-        and not body.lstrip().startswith(("“", '"'))
-        and not re.search(r"(?m)^\s*>", body)
+        and bool(space)
+        and source_visibility(space) == "public"
+        and post_content_status(space) == "current"
+        and record.get("space_slug") not in COMMENT_EXCLUDED_SPACES
+        and len(comment_effective_text(raw)) >= COMMENT_MIN_EFFECTIVE_CHARS
+        and not COMMENT_EXCLUDED_HINT.search(raw)
+        and not COMMENT_EXCLUDED_POST_HINT.search(title)
+        and not COMMENT_SENSITIVE_REVIEW_HINT.search(raw)
+        and not COMMENT_SENSITIVE_REVIEW_HINT.search(title)
+        and not raw.lstrip().startswith(("“", '"'))
+        and not re.search(r"(?m)^\s*>", raw)
     )
+
+
+def comment_candidates(
+    records: list[dict[str, Any]],
+    authoritative_by_id: dict[int, dict[str, Any]],
+    spaces: dict[int, dict[str, Any]],
+    own_titles: dict[int, str],
+) -> Iterable[dict[str, Any]]:
+    """Comments that pass the rules, each with the exact text the corpus would publish.
+
+    The text comes from the single-comment HTML when it is cached (comments under Yuzheng's own
+    posts), otherwise from the search export, whose text matches the HTML except where a member
+    later changed the display name a mention shows; mentions are redacted either way.
+    """
+    for record in sorted(records, key=lambda item: (item.get("created_at") or "", int(item["id"]))):
+        if record.get("author") != YUZHENG_NAME:
+            raise ValueError(f"circle-comment-{record.get('id')}: unexpected author")
+        comment_id = int(record["id"])
+        authoritative = authoritative_by_id.get(comment_id)
+        if authoritative and authoritative.get("author") != YUZHENG_NAME:
+            raise ValueError(f"circle-comment-{comment_id}: unexpected authoritative author")
+        if authoritative:
+            raw = html_to_markdown(authoritative.get("body_html") or "", redact_member_links=True)
+        else:
+            raw = str(record.get("body") or "")
+        space = spaces.get(int(record.get("space_id") or 0), {})
+        if not comment_candidate(record, space, raw):
+            continue
+        post_id = int(record.get("post_id") or 0)
+        own = post_id in own_titles
+        parent_title = own_titles[post_id] if own else sanitize_first_party_text(str(record.get("post_name") or ""))
+        if not parent_title.strip():
+            continue
+        text = sanitize_first_party_text(raw, comment=True)
+        yield {
+            "id": f"circle-comment-{comment_id}",
+            "comment_id": comment_id,
+            "post_id": post_id,
+            "record": record,
+            "space": space,
+            "text": text,
+            "text_sha256": hashlib.sha256(text.encode("utf-8")).hexdigest(),
+            "parent_title": parent_title.strip(),
+            "own_parent": own,
+            "body_source": "circle-comment-html" if authoritative else "circle-search-text",
+        }
+
+
+def load_comment_review(path: Path = COMMENT_REVIEW_PATH) -> dict[str, dict[str, str]]:
+    if not path.is_file():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8")).get("decisions") or {}
 
 
 def export_community_comments(
@@ -645,7 +712,8 @@ def export_community_comments(
     spaces_cache_path: Path,
     author_posts: dict[int, dict[str, Any]],
     snapshot_at: str,
-) -> dict[str, int]:
+    review_path: Path = COMMENT_REVIEW_PATH,
+) -> dict[str, Any]:
     records = json.loads(comments_cache_path.read_text(encoding="utf-8"))["records"]
     authoritative_records = load_cache_directory(
         authoritative_bodies_dir, "authoritative Circle comment bodies"
@@ -655,53 +723,33 @@ def export_community_comments(
         int(space["id"]): space
         for space in json.loads(spaces_cache_path.read_text(encoding="utf-8"))["records"]
     }
+    own_titles = {int(post_id): str(post["title"]) for post_id, post in author_posts.items()}
+    candidates = list(comment_candidates(records, authoritative_by_id, spaces, own_titles))
+    decisions = load_comment_review(review_path)
+    unreviewed = [item["id"] for item in candidates
+                  if (decisions.get(item["id"]) or {}).get("text_sha256") != item["text_sha256"]]
+    if unreviewed:
+        raise SystemExit(f"{len(unreviewed)} comments have no review of their current text "
+                         f"(first: {unreviewed[0]}); run scripts/review_community_comments.py")
     corpus_dir = ROOT / "corpus" / "community-comments"
     catalog_path = ROOT / "catalog" / "community-comments.jsonl"
     reset_generated_dir(corpus_dir)
     catalog_path.parent.mkdir(parents=True, exist_ok=True)
     catalog_rows: list[dict[str, Any]] = []
-    excluded_private_hint = 0
-    excluded_non_author_parent = 0
-    excluded_non_public_source = 0
-    excluded_low_signal_or_space = 0
+    left_out: dict[str, int] = {}
 
-    for record in sorted(
-        records, key=lambda item: (item.get("created_at") or "", int(item["id"]))
-    ):
-        if record.get("author") != YUZHENG_NAME:
-            raise ValueError(f"circle-comment-{record.get('id')}: unexpected author")
-        comment_id = int(record["id"])
-        post_id = int(record.get("post_id") or 0)
-        if post_id not in author_posts:
-            excluded_non_author_parent += 1
+    for item in candidates:
+        category = decisions[item["id"]]["category"]
+        if category not in COMMENT_REVIEW_INCLUDE:
+            left_out[category] = left_out.get(category, 0) + 1
             continue
-        space = spaces.get(int(record.get("space_id") or 0), {})
-        if source_visibility(space) != "public":
-            excluded_non_public_source += 1
-            continue
-        authoritative = authoritative_by_id.get(comment_id)
-        if not authoritative:
-            raise ValueError(f"circle-comment-{comment_id}: missing authoritative comment body")
-        if authoritative.get("author") != YUZHENG_NAME:
-            raise ValueError(f"circle-comment-{comment_id}: unexpected authoritative author")
-        record = dict(record)
-        record["body"] = html_to_markdown(
-            authoritative.get("body_html") or "", redact_member_links=True
-        )
-        if COMMENT_EXCLUDED_HINT.search(str(record.get("body") or "")):
-            excluded_private_hint += 1
-            continue
-        if not comment_is_included(record):
-            excluded_low_signal_or_space += 1
-            continue
-        own_parent = author_posts.get(post_id)
-        visibility = source_visibility(space)
-        body = sanitize_first_party_text(str(record.get("body") or ""), comment=True)
-        title = f"对《{own_parent['title']}》的补充" if own_parent else "社区讨论补充"
+        record = item["record"]
+        title = (f"对《{item['parent_title']}》的补充" if item["own_parent"]
+                 else f"在《{item['parent_title']}》下的回复")
         date = (record.get("created_at") or "undated")[:10]
-        target = corpus_dir / f"{date.replace('-', '')}-{comment_id}.md"
+        target = corpus_dir / f"{date.replace('-', '')}-{item['comment_id']}.md"
         fields = {
-            "id": f"circle-comment-{comment_id}",
+            "id": item["id"],
             "title": title,
             "author": "Yuzheng Sun",
             "source_type": "community-comment",
@@ -709,38 +757,38 @@ def export_community_comments(
             "published_at": record.get("created_at"),
             "snapshot_at": snapshot_at,
             "community_space_slug": record.get("space_slug"),
-            "source_visibility": visibility,
-            "parent_post_id": f"circle-{post_id}",
-            "parent_post_title": own_parent.get("title") if own_parent else None,
-            "selection_rule": "substantive-comment-v1",
+            "source_visibility": "public",
+            "parent_post_id": f"circle-{item['post_id']}",
+            "parent_post_title": item["parent_title"],
+            "selection_rule": "reviewed-comment-v2",
+            "review_category": category,
+            "body_source": item["body_source"],
             "rights_scope": "first-party",
             "license": "CC-BY-4.0",
             "third_party_exclusions": True,
             "privacy_redactions": True,
         }
-        access_note = "原始讨论公开可见" if visibility == "public" else "原始讨论可能需要社区权限"
         source_note = (
-            f"\n> [查看原评论及上下文]({record['url']}) · "
-            f"发布于 {date} · {access_note}。"
-            "仓库只保留立正本人在自己帖子下的评论，并已移除成员提及名称、联系方式和正文链接；"
-            "周围成员内容不在本仓库许可范围内。\n\n"
+            f"\n> [查看原评论及上下文]({record['url']}) · 发布于 {date} · 原始讨论公开可见。"
+            "仓库只收立正本人的回复，已移除成员提及名称、联系方式和正文链接；"
+            "原帖和其他成员的话不在本仓库许可范围内。\n\n"
         )
-        target.write_text(front_matter(fields) + source_note + body + "\n", encoding="utf-8")
-        corpus_path = str(target.relative_to(ROOT))
+        target.write_text(front_matter(fields) + source_note + item["text"] + "\n", encoding="utf-8")
         catalog_rows.append(
             {
-                "id": f"circle-comment-{comment_id}",
+                "id": item["id"],
                 "title": title,
                 "author": "Yuzheng Sun",
                 "url": record["url"],
                 "published_at": record.get("created_at"),
                 "space_slug": record.get("space_slug"),
-                "source_visibility": visibility,
-                "parent_post_id": f"circle-{post_id}",
-                "parent_post_title": own_parent.get("title") if own_parent else None,
+                "source_visibility": "public",
+                "parent_post_id": f"circle-{item['post_id']}",
+                "parent_post_title": item["parent_title"],
+                "review_category": category,
                 "rights_scope": "first-party",
                 "full_text_included": True,
-                "corpus_path": corpus_path,
+                "corpus_path": str(target.relative_to(ROOT)),
             }
         )
 
@@ -749,21 +797,20 @@ def export_community_comments(
             handle.write(json.dumps(row, ensure_ascii=False, sort_keys=True) + "\n")
     stats = {
         "reviewed": len(records),
+        "candidates": len(candidates),
         "included": len(catalog_rows),
-        "excluded_private_hint": excluded_private_hint,
-        "excluded_non_author_parent": excluded_non_author_parent,
-        "excluded_non_public_source": excluded_non_public_source,
-        "excluded_low_signal_or_space": excluded_low_signal_or_space,
+        "left_out_by_review": dict(sorted(left_out.items())),
     }
     policy = {
-        "schema_version": 1,
+        "schema_version": 2,
         "snapshot_at": snapshot_at,
         "source_author": YUZHENG_NAME,
         "source_comments_reviewed": len(records),
+        "comment_candidates": len(candidates),
         "comments_included": len(catalog_rows),
-        "included_space_slugs": sorted(COMMENT_INCLUDED_SPACES),
+        "scope": "comments under any post in a public, current space, except member introductions and events",
+        "excluded_space_slugs": sorted(COMMENT_EXCLUDED_SPACES),
         "minimum_effective_characters": COMMENT_MIN_EFFECTIVE_CHARS,
-        "parent_scope": "public-source comments on included Yuzheng-authored posts only",
         "excluded_private_context_hints": [
             "微信 / WeChat",
             "私信、私聊、群聊、短信或 DM",
@@ -773,15 +820,19 @@ def export_community_comments(
         "excluded_parent_post_hints": [
             "自我介绍与新人报道",
             "招聘、求职与内推",
-            "活动、直播、课程、作业与答疑通知",
         ],
-        "sensitive_context_review_hints": [
+        "excluded_sensitive_context": [
             "health, bereavement, minor status, immigration or layoff context",
             "personal income, compensation or financial context",
             "partner or private-conversation context",
             "internal community operations or sponsorship context",
-            "course purchase, eligibility, discount, refund or support operations",
         ],
+        "review": {
+            "file": "config/community-comment-review.json",
+            "include": COMMENT_REVIEW_INCLUDE,
+            "exclude": COMMENT_REVIEW_EXCLUDE,
+            "left_out": dict(sorted(left_out.items())),
+        },
         "privacy_redactions": [
             "Circle member mention names",
             "email addresses",
@@ -789,11 +840,13 @@ def export_community_comments(
             "all inline links and bare domains (the canonical Circle comment link is retained)",
         ],
         "rationale": (
-            "Comments are included only when they carry enough standalone substance for retrieval. "
-            "Only public-source replies on included Yuzheng-authored posts are eligible by default. Short reactions, "
-            "welcomes, administrative replies, member-introduction threads, jobs, events, leading "
-            "third-party quotations, sensitive-personal context, archived/test spaces, and "
-            "private-context hints stay out of the public corpus."
+            "Every comment Yuzheng wrote under a post in a public space is considered. Rules first remove "
+            "contact details and private channels, introduction and hiring threads, other people's private "
+            "circumstances, leading third-party quotations and comments under the minimum length; a pinned "
+            "review then keeps each comment that states a view, advice, an explanation, his own experience "
+            "or useful information, and leaves out small talk, administration, chat, replies that cannot be "
+            "read without the thread, and anything about a member's private situation. Comments in "
+            "members-only spaces are not included."
         ),
     }
     policy_path = ROOT / "config" / "community-comment-policy.json"

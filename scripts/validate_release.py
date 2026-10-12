@@ -61,17 +61,16 @@ BARE_DOMAIN_PATTERN = re.compile(
     r"(?<![@\w])(?:[A-Za-z0-9-]+\.)+(?:com|org|net|io|ai|co|cn)(?:/[^\s]*)?",
     re.IGNORECASE,
 )
+# Other people's private circumstances and private channels never reach a published comment;
+# course and membership business is left to the pinned substance review.
 COMMENT_SENSITIVE_PATTERN = re.compile(
     r"(?:therapist|治疗师|心理咨询|抑郁|sponsor(?:ship)?|月收入|工资|薪资|报酬|"
     r"财务状况|PERM|EB-?1A|绿卡|被裁|裁员|未成年|\b17\s*岁|生病|离世|去世|"
-    r"戒烟|伴侣|老婆|老公|男朋友|女朋友|私下|社群不赚钱|接管.{0,12}运营|"
-    r"退款|refund|老学员|新学员|购买|优惠|折扣|报名|名额|课程|qualify|"
-    r"付款|price|价格|预算|订单|客服|发票|上课|开课|lifetime|"
-    r"\bcourse\b|\bmaven\b|\bcohort\b|self[- ]paced|"
-    r"每月\s*\$?\s*\d+|\$\s*\d+.{0,12}(?:month|月)|"
+    r"戒烟|康复|伴侣|老婆|老公|男朋友|女朋友|私下|社群不赚钱|接管.{0,12}运营|"
     r"(?:跟|和|与).{0,12}(?:聊完|聊天|交流))",
     re.IGNORECASE,
 )
+COMMENT_REVIEW_INCLUDE = {"view", "advice", "explanation", "experience", "information"}
 PROVENANCE_FIELDS = (
     "author", "publisher", "original_author", "original_source_url", "original_published_at",
     "content_origin", "generation_method", "evidence_role", "yuzheng_stance_weight",
@@ -705,6 +704,9 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
         comment_policy = {}
     else:
         comment_policy = read_json_object_without_duplicate_keys(comment_policy_path)
+    comment_review_path = ROOT / "config" / "community-comment-review.json"
+    comment_decisions = (read_json_object_without_duplicate_keys(comment_review_path).get("decisions") or {}
+                         if comment_review_path.is_file() else {})
 
     allowlist_path = ROOT / "config" / "video-transcript-allowlist.txt"
     overrides_path = ROOT / "config" / "video-rights-overrides.json"
@@ -831,14 +833,13 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
     if int(comment_policy.get("source_comments_reviewed") or 0) < len(community_comment_rows):
         errors.append("community comment policy reviewed count is invalid")
 
-    community_post_ids = {row.get("id") for row in community_post_rows}
     for row in community_comment_rows:
-        if row.get("parent_post_id") not in community_post_ids:
-            errors.append(f"{row.get('id')}: comment parent is not an included Yuzheng post")
+        if not re.fullmatch(r"circle-\d+", str(row.get("parent_post_id") or "")):
+            errors.append(f"{row.get('id')}: comment parent post is not recorded")
         if row.get("source_visibility") != "public":
             errors.append(f"{row.get('id')}: comment source is not public")
         if not row.get("parent_post_title"):
-            errors.append(f"{row.get('id')}: comment is missing first-party parent title")
+            errors.append(f"{row.get('id')}: comment is missing its parent post title")
         corpus_path = ROOT / str(row.get("corpus_path") or "")
         if not corpus_path.is_file():
             continue
@@ -850,10 +851,17 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
         without_urls = URL_PATTERN.sub("", body)
         if BARE_DOMAIN_PATTERN.search(without_urls):
             errors.append(f"{row.get('id')}: comment contains a bare domain")
-        # Inspect the original comment after its title and canonical source note.
-        body = body.split("\n\n", 2)[-1]
+        # The comment itself follows its canonical source note (read_markdown drops the attribution block).
+        body = body.split("\n\n", 1)[-1]
+        decision = comment_decisions.get(str(row.get("id"))) or {}
+        if decision.get("category") not in COMMENT_REVIEW_INCLUDE or row.get("review_category") != decision.get("category"):
+            errors.append(f"{row.get('id')}: comment has no include decision in config/community-comment-review.json")
+        elif decision.get("text_sha256") != hashlib.sha256(body.strip().encode("utf-8")).hexdigest():
+            errors.append(f"{row.get('id')}: comment text differs from the reviewed text")
         if COMMENT_SENSITIVE_PATTERN.search(body):
             errors.append(f"{row.get('id')}: comment contains sensitive-context hint")
+        if re.search(r"@[A-Za-z\u3400-\u9fff]", body):
+            errors.append(f"{row.get('id')}: comment contains an unredacted member mention")
         if body.lstrip().startswith(("“", '"')):
             errors.append(f"{row.get('id')}: comment begins with a possible third-party quotation")
         if re.search(r"(?m)^\s*>", body):
@@ -1001,7 +1009,7 @@ def build_manifest(stats: dict[str, int], license_map: dict[str, tuple[str, str]
         "source_snapshots": snapshot["source_snapshots"],
         "filters": {
             "community_posts_full_text": "current Circle-search posts authored by YZ｜立正 plus one first-party Knowledge Bank item preserved from the earlier public snapshot; archived and hidden test spaces excluded; contact data redacted",
-            "community_comments_full_text": "first-party comments on included Yuzheng-authored posts, from discussion spaces with at least 80 effective characters; member mentions, contact data, sensitive/private context, third-party leading quotations, and all inline links removed",
+            "community_comments_full_text": "first-party comments under any post in a public space except member introductions and events, with at least 20 effective characters, kept when a pinned review finds a view, advice, an explanation, his own experience or useful information; member mentions, contact data, other people's private circumstances, third-party leading quotations, and all inline links removed",
             "knowledge_bank_full_text": "first-party Knowledge Bank posts point to the unified community-post corpus; other authors remain metadata-only",
             "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
             "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact member-video-policy and six values-conversations-policy snapshots; new structured public dialogues require the exact public-dialogue-policy snapshot; mixed/unresolved speech is under the Lizheng Reference Use License, guests keep their own rights, and it cannot independently establish Yuzheng's stance",

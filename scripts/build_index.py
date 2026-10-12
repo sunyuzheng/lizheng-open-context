@@ -186,7 +186,9 @@ def community_page(root: Path) -> str:
         "",
         f"## 评论（{len(comments)} 条）",
         "",
-        "只收立正自己公开帖子下、原本就公开的本人评论；成员提及、联系方式和正文链接已移除。",
+        "立正在公开空间的回复，不论帖子是谁发的，只要说了看法、建议、解释、他自己的经历或有用的信息就收；"
+        "寒暄、事务、闲聊、离开原帖读不懂的和谈到成员私事的不收，新人介绍和活动区不收，会员空间的回复也不收。"
+        f"成员提及、联系方式和正文链接已移除。规则见 {link(page, 'config/community-comment-policy.json', 'config/community-comment-policy.json')}。",
         "",
         *table(["日期", "评论", "原评论"], body),
     ]

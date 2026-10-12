@@ -12,7 +12,7 @@
 | 《Growth Data Analytics Playbook》中文版 | 12 份 | [按章节](index/growth-data-analytics-playbook-zh.md) | [corpus/book-chapters/](corpus/book-chapters/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | Statsig博客文章中文版 | 19 篇 | [按日期](index/statsig-blog.md) | [corpus/blog-posts/](corpus/blog-posts/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 社区帖子 | 252 篇 | [按年份](index/community-posts.md) | [corpus/community-posts/](corpus/community-posts/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
-| 社区评论 | 10 条 | [在帖子目录末尾](index/community-posts.md#评论10-条) | [corpus/community-comments/](corpus/community-comments/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| 社区评论 | 273 条 | [在帖子目录末尾](index/community-posts.md#评论273-条) | [corpus/community-comments/](corpus/community-comments/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 视频字幕：本人主讲 | 204 份 | [主讲目录](index/solo-videos.md) | [corpus/videos/](corpus/videos/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 视频字幕：会员视频 · 本人主讲 | 45 份 | [主讲目录](index/solo-videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 视频字幕：会员视频 · 对话 | 170 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |

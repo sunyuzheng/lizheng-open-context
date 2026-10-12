@@ -1,22 +1,16 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "snapshot_at": "2026-08-30",
   "source_author": "YZ｜立正",
   "source_comments_reviewed": 2519,
-  "comments_included": 10,
-  "included_space_slugs": [
-    "ai-resources",
-    "guji",
-    "main",
-    "news",
-    "notes",
-    "posts",
-    "recording",
-    "share-your-projects",
-    "tools"
+  "comment_candidates": 617,
+  "comments_included": 273,
+  "scope": "comments under any post in a public, current space, except member introductions and events",
+  "excluded_space_slugs": [
+    "events",
+    "say-hello"
   ],
-  "minimum_effective_characters": 80,
-  "parent_scope": "public-source comments on included Yuzheng-authored posts only",
+  "minimum_effective_characters": 20,
   "excluded_private_context_hints": [
     "微信 / WeChat",
     "私信、私聊、群聊、短信或 DM",
@@ -25,21 +19,43 @@
   ],
   "excluded_parent_post_hints": [
     "自我介绍与新人报道",
-    "招聘、求职与内推",
-    "活动、直播、课程、作业与答疑通知"
+    "招聘、求职与内推"
   ],
-  "sensitive_context_review_hints": [
+  "excluded_sensitive_context": [
     "health, bereavement, minor status, immigration or layoff context",
     "personal income, compensation or financial context",
     "partner or private-conversation context",
-    "internal community operations or sponsorship context",
-    "course purchase, eligibility, discount, refund or support operations"
+    "internal community operations or sponsorship context"
   ],
+  "review": {
+    "file": "config/community-comment-review.json",
+    "include": {
+      "view": "他自己的判断或看法",
+      "advice": "给提问者或读者的具体建议",
+      "explanation": "解释原因、机制、概念或取舍",
+      "experience": "他本人的经历、做法或观察",
+      "information": "有用的事实或资源，不是事务通知"
+    },
+    "exclude": {
+      "social": "欢迎、感谢、夸奖、祝贺，没有说出看法或理由",
+      "admin": "搬帖、排期、链接指路，以及课程、会员、报名、付款、退款等事务",
+      "chat": "玩笑、闲聊，或只是提问",
+      "context": "不看原帖和其他成员的话就读不懂",
+      "private": "谈到某位成员的健康、家庭、感情、收入数字、移民身份、被裁或与人冲突等敏感私事"
+    },
+    "left_out": {
+      "admin": 237,
+      "chat": 36,
+      "context": 19,
+      "private": 7,
+      "social": 45
+    }
+  },
   "privacy_redactions": [
     "Circle member mention names",
     "email addresses",
     "mainland mobile numbers",
     "all inline links and bare domains (the canonical Circle comment link is retained)"
   ],
-  "rationale": "Comments are included only when they carry enough standalone substance for retrieval. Only public-source replies on included Yuzheng-authored posts are eligible by default. Short reactions, welcomes, administrative replies, member-introduction threads, jobs, events, leading third-party quotations, sensitive-personal context, archived/test spaces, and private-context hints stay out of the public corpus."
+  "rationale": "Every comment Yuzheng wrote under a post in a public space is considered. Rules first remove contact details and private channels, introduction and hiring threads, other people's private circumstances, leading third-party quotations and comments under the minimum length; a pinned review then keeps each comment that states a view, advice, an explanation, his own experience or useful information, and leaves out small talk, administration, chat, replies that cannot be read without the thread, and anything about a member's private situation. Comments in members-only spaces are not included."
 }
