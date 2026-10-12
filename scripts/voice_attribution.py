@@ -505,7 +505,7 @@ def stage_apply(root: Path, work: Path, meta: dict, checks: dict):
                                "unresolved": sum(u["speaker_id"] == "unknown" for u in units)},
                     "maintainer_check": checks.get("confirmed", {}).get(vid)})
         data["units"] = units
-        raw = (json.dumps(data, ensure_ascii=False, indent=2) + "\n").encode()
+        raw = (json.dumps(data, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode()
         if raw != path.read_bytes():
             path.write_bytes(raw)
         rows[vid]["sha256"] = sha256_bytes(raw)
