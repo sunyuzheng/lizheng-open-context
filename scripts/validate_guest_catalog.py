@@ -15,6 +15,10 @@ TYPES = {"person", "group", "virtual-character", "anonymous-label", "unresolved"
 PROFILE_STRINGS = {"guest_en_name", "guest_title", "guest_company", "guest_bio", "guest_bio_en", "interview_date"}
 PROFILE_URLS = {"xiaohongshu_url", "linkedin_url", "youtube_playlist_url"}
 MEMBER_FIELDS = frozenset({"name", "en_name", "entity_id"})
+INTRO_FIELDS = frozenset({"source_id", "text", "quote", "locator", "start_seconds"})
+UNIT_LOCATOR = re.compile(r"youtube-[A-Za-z0-9_-]{11}#cue-\d+\Z")
+LINE_LOCATOR = re.compile(r"(corpus/videos/[^@\s]+\.md)@(\d+)\Z")
+TIMED_LINE = re.compile(r"(?m)^\[(\d{2}):(\d{2}):(\d{2})\]\(https://www\.youtube\.com/watch\?v=[^)]+\)\s+(.+)$")
 CATALOG_FIELDS = frozenset({"participant_entity_ids", "participant_names", "participant_aliases", "participant_metadata_basis", "attribution_note"})
 
 
@@ -84,7 +88,7 @@ def validate_catalog(catalog, articles):
         require(isinstance(catalog[name], list), "catalog_array_invalid")
     entities, sources, slugs, pairs = {}, {}, {}, set()
     required = {"entity_id", "entity_type", "display_name", "aliases", "slug", "alias_slugs", "primary_source_id", "thumbnail_url"}
-    allowed = required | PROFILE_STRINGS | PROFILE_URLS | {"community_resources", "members"}
+    allowed = required | PROFILE_STRINGS | PROFILE_URLS | {"community_resources", "members", "introductions"}
     for e in catalog["entities"]:
         require(isinstance(e, dict) and required <= set(e) <= allowed, "entity_fields_invalid")
         eid = e["entity_id"]
@@ -152,6 +156,18 @@ def validate_catalog(catalog, articles):
         pairs.add(pair); covered.add(pair[1])
     require(primaries == set(entities) and covered == set(sources), "catalog_coverage_incomplete")
     for e in entities.values():
+        # Each introduction quotes, word for word, where a programme of theirs says who they are.
+        seen_sources = set()
+        for intro in e.get("introductions", []):
+            require(isinstance(intro, dict) and set(intro) == INTRO_FIELDS, "introduction_fields_invalid")
+            require(isinstance(intro["text"], str) and 0 < len(intro["text"].strip()) <= 60 and isinstance(intro["quote"], str) and intro["quote"].strip(),
+                    "introduction_text_invalid")
+            require((e["entity_id"], intro["source_id"]) in pairs and intro["source_id"] not in seen_sources, "introduction_source_invalid")
+            require(isinstance(intro["locator"], list) and intro["locator"] and len(intro["locator"]) <= 20
+                    and all(isinstance(x, str) and (UNIT_LOCATOR.fullmatch(x) or LINE_LOCATOR.fullmatch(x)) for x in intro["locator"]),
+                    "introduction_locator_invalid")
+            require(type(intro["start_seconds"]) is int and intro["start_seconds"] >= 0, "introduction_time_invalid")
+            seen_sources.add(intro["source_id"])
         for m in e.get("members", []):
             if "entity_id" in m:
                 require(all((m["entity_id"], sid) in pairs for gid, sid in pairs if gid == e["entity_id"]), "member_appearance_missing")
@@ -227,7 +243,58 @@ def validate_guest_catalog(root, verify_raw=True, verify_manifest=True):
             require(raw.get("video_id") == r.get("video_id"), "raw_policy_identity_mismatch")
             records.append(raw)
         counts["public_raw_records"] = verify_raw_metadata(catalog, records)
+        counts["introductions"] = verify_introductions(root, catalog)
     return counts
+
+
+def verify_introductions(root, catalog):
+    """Every quoted introduction is exactly the transcript lines its locator names, from that programme."""
+    transcripts = {}
+    videos = {}
+
+    def transcript_path(video):
+        # Read only when a quote comes from a full-text video transcript.
+        if not videos:
+            for line in safe_file(root, "catalog/videos.jsonl").read_text(encoding="utf-8").splitlines():
+                if line.strip():
+                    row = json.loads(line)
+                    videos[row["video_id"]] = row.get("corpus_path")
+        return videos.get(video)
+    sources = {s["source_id"]: s for s in catalog["sources"]}
+    count = 0
+    for e in catalog["entities"]:
+        for intro in e.get("introductions", []):
+            first = intro["locator"][0]
+            if UNIT_LOCATOR.fullmatch(first):
+                require(all(UNIT_LOCATOR.fullmatch(x) and x.startswith(intro["source_id"] + "#") for x in intro["locator"]), "introduction_locator_source_mismatch")
+                if intro["source_id"] not in transcripts:
+                    units = strict_json(safe_file(root, f"corpus/dialogues/{intro['source_id']}.json").read_bytes())["units"]
+                    transcripts[intro["source_id"]] = {u["id"]: (index, u) for index, u in enumerate(units)}
+                table = transcripts[intro["source_id"]]
+                require(all(x in table for x in intro["locator"]), "introduction_unit_missing")
+                indexes = [table[x][0] for x in intro["locator"]]
+                require(indexes == list(range(indexes[0], indexes[0] + len(indexes))), "introduction_units_not_consecutive")
+                texts = [table[x][1]["text"] for x in intro["locator"]]
+                start = int(table[first][1]["start_seconds"])
+            else:
+                path = LINE_LOCATOR.fullmatch(first).group(1)
+                video = sources[intro["source_id"]].get("video_id")
+                require(transcript_path(video) == path and all(LINE_LOCATOR.fullmatch(x) and x.startswith(path + "@") for x in intro["locator"]),
+                        "introduction_locator_source_mismatch")
+                if path not in transcripts:
+                    lines = {}
+                    for m in TIMED_LINE.finditer(safe_file(root, path).read_text(encoding="utf-8")):
+                        lines.setdefault(int(m.group(1)) * 3600 + int(m.group(2)) * 60 + int(m.group(3)), m.group(4))
+                    transcripts[path] = lines
+                table = transcripts[path]
+                seconds = [int(LINE_LOCATOR.fullmatch(x).group(2)) for x in intro["locator"]]
+                require(all(t in table for t in seconds) and seconds == sorted(seconds), "introduction_line_missing")
+                texts = [table[t] for t in seconds]
+                start = seconds[0]
+            require(" ".join(t.strip() for t in texts) == intro["quote"], "introduction_quote_not_verbatim")
+            require(start == intro["start_seconds"], "introduction_time_mismatch")
+            count += 1
+    return count
 
 
 if __name__ == "__main__":

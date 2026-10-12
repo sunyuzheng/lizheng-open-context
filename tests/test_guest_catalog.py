@@ -54,6 +54,39 @@ class CatalogTests(unittest.TestCase):
         c["appearances"].append({"entity_id": "guest:alpha", "source_id": extra["source_id"], "index": 1, "is_primary": False})
         self.assertEqual(v.validate_catalog(c, a)["appearances"], 4)
 
+    def introduced(self, **change):
+        c, a = fixture()
+        intro = {"source_id": "youtube-abcdefghijk", "text": "Synthetic founder", "quote": "I founded Synthetic", "locator": ["youtube-abcdefghijk#cue-2"], "start_seconds": 4}
+        intro.update(change)
+        c["entities"][0]["introductions"] = [intro]
+        return c, a
+
+    def test_introductions_name_their_programme_and_words(self):
+        c, a = self.introduced()
+        self.assertEqual(v.validate_catalog(c, a)["entities"], 1)
+        for change, code in [({"source_id": "youtube-bbbbbbbbbbb"}, "introduction_source_invalid"), ({"text": ""}, "introduction_text_invalid"),
+                             ({"locator": ["somewhere"]}, "introduction_locator_invalid"), ({"start_seconds": -1}, "introduction_time_invalid")]:
+            with self.subTest(code=code):
+                c, a = self.introduced(**change)
+                with self.assertRaisesRegex(ValueError, code): v.validate_catalog(c, a)
+
+    def test_introduction_quotes_are_the_transcript_word_for_word(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp).resolve()
+            (root / "corpus/dialogues").mkdir(parents=True); (root / "catalog").mkdir()
+            units = [{"id": f"youtube-abcdefghijk#cue-{i}", "text": text, "start_seconds": i * 2, "end_seconds": i * 2 + 2}
+                     for i, text in enumerate(["Hello", "Today our guest", "I founded Synthetic"], 1)]
+            (root / "corpus/dialogues/youtube-abcdefghijk.json").write_text(json.dumps({"units": units}))
+            (root / "catalog/videos.jsonl").write_text(json.dumps({"video_id": "abcdefghijk"}) + "\n")
+            c, _ = self.introduced(quote="Today our guest I founded Synthetic", locator=["youtube-abcdefghijk#cue-2", "youtube-abcdefghijk#cue-3"])
+            self.assertEqual(v.verify_introductions(root, c), 1)
+            for change, code in [({"quote": "Today our guest founded Synthetic"}, "not_verbatim"),
+                                 ({"locator": ["youtube-abcdefghijk#cue-1", "youtube-abcdefghijk#cue-3"], "quote": "Hello I founded Synthetic", "start_seconds": 2}, "not_consecutive"),
+                                 ({"start_seconds": 9}, "time_mismatch")]:
+                with self.subTest(code=code):
+                    c, _ = self.introduced(**{"quote": "Today our guest I founded Synthetic", "locator": ["youtube-abcdefghijk#cue-2", "youtube-abcdefghijk#cue-3"], **change})
+                    with self.assertRaisesRegex(ValueError, code): v.verify_introductions(root, c)
+
     def test_duplicate_entity_or_pair(self):
         for field in ("entities", "appearances", "sources"):
             c, a = fixture(); c[field].append(copy.deepcopy(c[field][0]))

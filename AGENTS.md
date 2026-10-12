@@ -31,6 +31,7 @@ The committed policies bind the approved public snapshots. New material follows 
 | Member-video snapshot | `config/member-video-policy.json`; solo classifications in `config/member-solo-review.json` |
 | Named conversation texts and quotations | `config/values-conversations-policy.json`; quoted text must match its source and time |
 | Structured public dialogues | `config/public-dialogue-policy.json`; source identity, exact file hashes, visibility and rights |
+| Dialogue speaker attribution | text review in `config/raw-turn-attribution-policy.json`; voice match in `config/audio-speaker-policy.json`, produced locally by `scripts/voice_attribution.py` (never publish the voice profile itself) |
 | Course texts | `config/member-course-policy.json` |
 | Chinese book and blog editions | `config/chinese-editions-policy.json`; retain original authors and translation status |
 | English community articles | `config/english-source-policy.json`; retain authors, translator, publisher and rights |

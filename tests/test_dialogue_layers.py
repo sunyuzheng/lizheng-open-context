@@ -84,8 +84,8 @@ speaker_classification: "mixed-or-unresolved"
         data = dict(schema_version=1, data_layer="raw", id="youtube-ABCDEFGHIJK", title="Conversation",
                     source_url="https://www.youtube.com/watch?v=ABCDEFGHIJK", content_origin="mixed-or-unresolved-speech",
                     evidence_role="speaker-attributed-speech", units=[
-                        dict(id="1", start_seconds=1.25, end_seconds=2.5, text="first speech", speaker_id="yuzheng", speaker_name="立正", speaker_status="reviewed-source-attribution"),
-                        dict(id="2", start_seconds=2.5, end_seconds=4.5, text="other speech", speaker_id="guest", speaker_name="Guest", speaker_status="audio-anchor-reviewed"),
+                        dict(id="1", start_seconds=1.25, end_seconds=2.5, text="first speech", speaker_id="yuzheng", speaker_name="立正", speaker_status="reviewed-source-attribution", speech_act="statement"),
+                        dict(id="2", start_seconds=2.5, end_seconds=4.5, text="other speech", speaker_id="guest", speaker_name="Guest", speaker_status="audio-voice-match", speech_act="statement"),
                         dict(id="3", start_seconds=4.5, end_seconds=6.5, text="unresolved speech", speaker_id="unknown", speaker_status="unresolved")])
         data.update(overrides)
         path = self.root / "raw.json"
@@ -95,12 +95,38 @@ speaker_classification: "mixed-or-unresolved"
     def test_chunks_never_merge_speakers_or_upgrade_unknown(self):
         path, _ = self.structured()
         docs = search.parse_raw_dialogue(path)
-        self.assertEqual([doc.speaker_id for doc in docs], ["yuzheng", "guest", "unknown"])
-        self.assertEqual([doc.text.split(") ", 1)[1] for doc in docs], ["first speech", "other speech", "unresolved speech"])
-        self.assertEqual(docs[0].content_origin, "yuzheng-spoken-source")
-        for doc in docs[1:]:
+        # The transcript as recorded claims no speaker; each attributed speaker's statements stand alone.
+        self.assertEqual([doc.speaker_id for doc in docs], ["unknown", "yuzheng", "guest"])
+        self.assertEqual([line.split("] ", 1)[1] for line in docs[0].text.split("\n\n")], ["first speech", "other speech", "unresolved speech"])
+        self.assertEqual([doc.text.split("] ", 1)[1] for doc in docs[1:]], ["first speech", "other speech"])
+        self.assertEqual(docs[1].content_origin, "yuzheng-spoken-source")
+        self.assertEqual(docs[1].speaker_status, "reviewed-source-attribution")
+        self.assertEqual(docs[2].speaker_status, "audio-voice-match")
+        for doc in (docs[0], docs[2]):
             self.assertEqual(doc.yuzheng_stance_weight, "not-evidence")
+        self.assertEqual(docs[0].author, "说话人待核")
         self.assertTrue(all(doc.data_layer == "raw" for doc in docs))
+
+    def test_only_statements_stand_as_a_speakers_words(self):
+        path, data = self.structured()
+        for act in ("question", "introduction", "acknowledgement", "joke", "reported-other"):
+            with self.subTest(act=act):
+                data["units"][0]["speech_act"] = act
+                path.write_text(json.dumps(data, ensure_ascii=False))
+                docs = search.parse_raw_dialogue(path)
+                own = next(doc for doc in docs if doc.speaker_id == "yuzheng")
+                # Still his, with its act, but never his view.
+                self.assertEqual((own.speech_act, own.yuzheng_stance_weight), (act, "not-evidence"))
+                self.assertIn("first speech", docs[0].text)
+        data["units"][0]["speech_act"] = "statement"
+        data["units"].insert(1, dict(id="1b", start_seconds=2.5, end_seconds=2.5, text="later statement", speaker_id="yuzheng",
+                                     speaker_name="立正", speaker_status="audio-voice-match", speech_act="statement"))
+        path.write_text(json.dumps(data, ensure_ascii=False))
+        docs = search.parse_raw_dialogue(path)
+        # A change of attribution status starts a new statement chunk.
+        self.assertEqual([(d.speaker_id, d.speaker_status) for d in docs[1:]],
+                         [("yuzheng", "reviewed-source-attribution"), ("yuzheng", "audio-voice-match"), ("guest", "audio-voice-match")])
+        self.assertEqual(docs[2].speaker_classification, "yuzheng-turns-voice-matched")
 
     def test_no_derived_data_required_for_loading_or_search(self):
         path, _ = self.structured()
@@ -108,7 +134,7 @@ speaker_classification: "mixed-or-unresolved"
         results = search.search_documents(documents, "other speech")
         self.assertTrue(results)
         self.assertEqual(results[0]["data_layer"], "raw")
-        self.assertEqual(results[0]["speaker_id"], "guest")
+        self.assertIn("guest", {row["speaker_id"] for row in results})
 
     def test_unreviewed_named_speaker_is_refused(self):
         path, data = self.structured()
@@ -135,7 +161,7 @@ speaker_classification: "mixed-or-unresolved"
         data["units"][0].update(text="< No Speech >", speaker_id="unknown", speaker_name="", speaker_status="unresolved")
         path.write_text(json.dumps(data)); before = path.read_bytes()
         docs = search.parse_raw_dialogue(path)
-        self.assertEqual(len(docs), 2)
+        self.assertEqual(len(docs), 2)  # the transcript and the guest's statement
         self.assertTrue(all("No Speech" not in doc.text for doc in docs))
         self.assertEqual(path.read_bytes(), before)
         self.assertEqual(len(json.loads(path.read_bytes())["units"]), 3)
@@ -226,7 +252,7 @@ speaker_classification: "mixed-or-unresolved"
             self.assertEqual({k: v for k, v in old.items() if k not in metadata_fields},
                              {k: v for k, v in after.items() if k not in metadata_fields})
             self.assertEqual(doc.participant_aliases, "合成别名")
-        self.assertEqual(docs[-1].speaker_id, "unknown")
+        self.assertEqual(docs[0].speaker_id, "unknown")
         self.assertEqual(path.read_bytes(), before)
 
     def test_catalog_only_programme_is_discovery_without_speech(self):

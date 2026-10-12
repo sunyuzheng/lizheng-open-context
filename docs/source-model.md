@@ -27,7 +27,7 @@ python3 scripts/search.py "问题" --layer derived --json
 
 ## 作者与发言者
 
-原作者、发布者、翻译者和整理者分别记录。节目参与关系属于目录数据；字幕单元记录具体发言者及确认状态。人物别名用于发现节目，引用采用实际发言归属。
+原作者、发布者、翻译者和整理者分别记录。节目参与关系属于目录数据；字幕单元记录具体发言者及确认状态（`reviewed-source-attribution`文字核对、`audio-voice-match`声纹比对、`unresolved`待核）。人物别名用于发现节目，引用采用实际发言归属。
 
 单人主讲按整份文件归属：视频里朗读或播放的他人内容也带着立正的`speaker_id`，引用时须读懂语境。对谈原稿按字幕单元归属。
 
@@ -62,6 +62,8 @@ RAG切块继承这些字段。原文与翻译按source family关联，多个片�
 | `catalog/guests.json`参与关系的`index`（每人按节目日期从0编号） | 节目日期 |
 | 组合成员（有自己页面的）在组合节目里的参与关系 | 组合的`members`与组合的参与关系 |
 | `catalog/guest-names.json`（名字表） | `catalog/guests.json`与`config/speaker-names.json` |
+
+人物的`introductions`记录节目里怎样介绍这位嘉宾：每条有节目`source_id`、一句简短介绍`text`、字幕原话`quote`、原话所在的字幕单元或时间`locator`和开始时间`start_seconds`。原话必须和公开字幕逐字一致（按单元或行连接），由校验核对；介绍只能用原话里说出的事实，由AI按原话撰写，原话的识别错字可在介绍里改正。介绍反映节目当时的身份，按节目从新到旧排列；`guest_title`、`guest_company`是不带出处的目录简介，网站只在没有节目介绍时把它们作为“简介”显示。
 
 组合（`entity_type: group`）用`members`写明成员：每位成员有`name`，可加英文名`en_name`；成员自己有人物页时用`entity_id`指向它。组合的显示名和别名里列出的名字（「王臻 & Nick」「The Tech Roast Show（Austin、Jesse、Nikita）」）必须都是声明过的成员，校验同时检查成员确实出现在组合名字里。有人物页的成员自动列入组合的每期节目，网站的组合页和成员页互相链接；组合名字里没写成员时`members`为空列表。
 

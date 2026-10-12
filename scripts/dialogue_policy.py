@@ -8,7 +8,7 @@ from datetime import datetime
 from pathlib import Path
 
 import search
-from raw_turn_policy import reviewed_policy, validate_units
+from raw_turn_policy import reviewed_policy, validate_units, voice_policy
 from rights import REFERENCE_USE
 from validate_guest_catalog import CATALOG_FIELDS, programme_participants
 
@@ -61,6 +61,7 @@ def validate_dialogues(root: Path, member_ids: set[str], errors: list[str]) -> d
         if not isinstance(rows, list):
             raise ValueError("invalid_public_dialogue_records")
         turns = reviewed_policy(root, policy, read_object)
+        voices = voice_policy(root, policy, read_object)
         catalog_path = root / "catalog/guests.json"
         participants = programme_participants(read_object(catalog_path)) if catalog_path.exists() else {}
         identities = set()
@@ -108,7 +109,7 @@ def validate_dialogues(root: Path, member_ids: set[str], errors: list[str]) -> d
                     or type(quality.get("unresolved_count")) is not int or quality["unresolved_count"] < 0
                     or any(not HASH.fullmatch(str(quality.get(key, ""))) for key in ("original_source_sha256", "root_output_sha256", "root_receipt_sha256"))):
                 raise ValueError("dialogue_quality_overclaim_or_missing_proof")
-            validate_units(data, turns.get(identity), participants.get(data["id"], set()))
+            validate_units(data, turns.get(identity), participants.get(data["id"], set()), voices.get(identity))
             previous = search.ROOT
             search.ROOT = root
             try:

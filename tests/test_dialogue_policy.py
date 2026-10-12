@@ -129,13 +129,23 @@ class DialoguePolicyTests(unittest.TestCase):
             docs = policy.search.parse_raw_dialogue(self.path)
         finally:
             policy.search.ROOT = previous
-        self.assertEqual(docs[0].speaker_id, "yuzheng")
-        self.assertEqual(docs[0].speech_act, "question")
-        self.assertEqual(docs[0].yuzheng_stance_weight, "not-evidence")
+        # A reviewed question is his, and stays a question: it carries no stance.
+        self.assertEqual([(doc.speaker_id, doc.speech_act) for doc in docs], [("unknown", "unclassified"), ("yuzheng", "question")])
+        self.assertEqual(docs[1].yuzheng_stance_weight, "not-evidence")
+        self.save_reviewed_turn(act="statement")
+        self.assertEqual(self.check()[1], [])
+        policy.search.ROOT = self.root
+        try:
+            docs = policy.search.parse_raw_dialogue(self.path)
+        finally:
+            policy.search.ROOT = previous
+        self.assertEqual([doc.speaker_id for doc in docs], ["unknown", "yuzheng"])
+        self.assertEqual(docs[1].speech_act, "statement")
+        self.assertEqual(docs[1].yuzheng_stance_weight, "direct-with-quotation-boundaries")
 
     def test_reviewed_turn_rejects_body_timing_identity_and_speech_act_changes(self):
         for field, value in [("text", "Invented words"), ("start_seconds", 2), ("speaker_id", "guest:other"),
-                             ("speech_act", "statement"), ("speaker_status", "audio-anchor-reviewed")]:
+                             ("speech_act", "statement"), ("speaker_status", "audio-voice-match")]:
             with self.subTest(field=field):
                 self.data["units"][0].update(speaker_id="unknown", speaker_name="", speaker_status="unresolved")
                 self.data["units"][0].pop("speech_act", None)
@@ -144,6 +154,55 @@ class DialoguePolicyTests(unittest.TestCase):
                 self.row["sha256"] = hashlib.sha256(self.path.read_bytes()).hexdigest()
                 self.policy_path.write_text(json.dumps(self.config))
                 self.assertTrue(self.check()[1])
+
+    def save_voice(self, speaker="yuzheng", act="statement", **record):
+        baseline = turns.digest(turns.unknown_units(self.data["units"]))
+        self.data["units"][0].update(speaker_id=speaker, speaker_name="立正" if speaker == "yuzheng" else "Synthetic guest",
+                                     speaker_status=turns.VOICE, speech_act=act)
+        self.save()
+        row = {"video_id": ID, "unknown_units_sha256": baseline, "labels_sha256": turns.digest(turns.voice_labels(self.data["units"])),
+               "audio_sha256": "e" * 64, "counts": {"yuzheng": int(speaker == "yuzheng"), "guest": int(speaker != "yuzheng"), "unresolved": 0},
+               "maintainer_check": None, **record}
+        self.voice_data = {"schema_version": 1, "method": turns.VOICE_METHOD, "human_audio_review": False, "full_precision_certified": False,
+                           "model": {"name": "synthetic"}, "profile": {"basis": "synthetic"}, "thresholds": {"margin": 0.1},
+                           "speech_acts": {"model": "synthetic"}, "evaluation": {"gold": "synthetic"}, "records": [row]}
+        self.save_voice_policy()
+
+    def save_voice_policy(self):
+        path = self.root / turns.VOICE_POLICY
+        path.write_text(json.dumps(self.voice_data))
+        self.config["audio_attribution_policy"] = {"path": turns.VOICE_POLICY, "sha256": hashlib.sha256(path.read_bytes()).hexdigest()}
+        self.policy_path.write_text(json.dumps(self.config))
+
+    def test_voice_attribution_is_bound_to_its_text_and_labels(self):
+        self.save_voice()
+        self.assertEqual(self.check()[1], [])
+        previous = policy.search.ROOT
+        policy.search.ROOT = self.root
+        try:
+            docs = policy.search.parse_raw_dialogue(self.path)
+        finally:
+            policy.search.ROOT = previous
+        self.assertEqual([(d.speaker_id, d.speaker_status) for d in docs], [("unknown", "unresolved"), ("yuzheng", turns.VOICE)])
+        for field, value, code in [("speech_act", "question", "labels_changed"), ("text", "Edited words", "source_units_changed"),
+                                   ("speaker_name", "Someone", "labels_changed")]:
+            with self.subTest(field=field):
+                self.save_voice()
+                self.data["units"][0][field] = value; self.save(); self.save_voice_policy()
+                self.assertIn(code, self.check()[1][0])
+
+    def test_voice_attribution_needs_a_record_a_participant_and_true_counts(self):
+        self.save_voice()
+        self.voice_data["records"] = []; self.save_voice_policy()
+        self.assertIn("requires_policy_record", self.check()[1][0])
+        self.save_voice(speaker="guest:not-in-catalog")
+        self.assertIn("audio_attribution_unit_invalid", self.check()[1][0])
+        self.save_voice(counts={"yuzheng": 5, "guest": 0, "unresolved": 0})
+        self.assertIn("counts_mismatch", self.check()[1][0])
+        self.save_voice(); self.voice_data["human_audio_review"] = True; self.save_voice_policy()
+        self.assertIn("audio_attribution_policy_invalid", self.check()[1][0])
+        self.save_voice(); self.config.pop("audio_attribution_policy"); self.policy_path.write_text(json.dumps(self.config))
+        self.assertIn("unbound_audio_attribution_policy", self.check()[1][0])
 
     def test_turn_policy_rejects_unbound_and_overclaimed_evidence(self):
         self.save_reviewed_turn()

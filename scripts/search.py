@@ -476,8 +476,21 @@ def apply_guest_catalog(documents: list[Document]) -> list[Document]:
     return documents
 
 
+ATTRIBUTED_STATUSES = frozenset({"reviewed-source-attribution", "audio-voice-match"})
+NON_STANCE_ACTS = frozenset({"question", "introduction", "acknowledgement", "joke", "reported-other"})
+ACT_LABELS = {"statement": "陈述", "question": "提问", "introduction": "介绍", "acknowledgement": "回应",
+              "joke": "玩笑", "reported-other": "转述"}
+
+
 def parse_raw_dialogue(path: Path) -> list[Document]:
     """Load an explicitly supplied structured source, preserving unknown speakers.
+
+    Two kinds of chunks come from one file, each line "[hh:mm:ss] words". Transcript chunks hold
+    every unit in order and never claim a speaker, whatever the units record. Speaker chunks hold
+    one attributed speaker's units of one speech act from this programme, in order: a chunk exists
+    only for units whose speaker is recorded with an accepted attribution status, and only a
+    statement chunk can stand for the speaker's view; questions, introductions and the like keep
+    their act and carry no stance.
 
     This is not an admission or publication decision. Public callers still verify
     their release manifest; the offline candidate tool remains local-only.
@@ -492,50 +505,8 @@ def parse_raw_dialogue(path: Path) -> list[Document]:
     if not identity or not str(data.get("source_url") or "").startswith("https://www.youtube.com/watch?v="):
         raise ValueError("Raw dialogue source identity is missing")
     source_hash = hashlib.sha256(path.read_bytes()).hexdigest()
-    documents = []
+    base_url = str(data["source_url"]).split("&t=", 1)[0]
     seen = set()
-    current = []
-    speaker = None
-    size = 0
-    def emit():
-        if not current:
-            return
-        # Keep placeholders in the canonical source units, but they are not
-        # searchable speech. This does not establish silence in the media.
-        if all(re.fullmatch(r"<\s*No Speech\s*>", unit["text"].strip(), flags=re.I) for unit in current):
-            return
-        first = current[0]
-        start = int(first["start_seconds"])
-        stamp = f"{start // 3600:02}:{start % 3600 // 60:02}:{start % 60:02}"
-        url = str(data["source_url"]).split("&t=", 1)[0] + f"&t={start}s"
-        fields = provenance_fields(data)
-        known = first["speaker_id"] != "unknown"
-        fields.update(data_layer="raw", speaker_id=first["speaker_id"], speaker_name=first.get("speaker_name", ""),
-                      speaker_status=first.get("speaker_status", "unresolved"), source_snapshot_sha256=source_hash,
-                      speech_act=first.get("speech_act", "unclassified"),
-                      fragment_id=f"{identity}#{current[0]['id']}-{current[-1]['id']}")
-        if known:
-            fields.update(author=first.get("speaker_name") or first["speaker_id"], original_author=first.get("speaker_name") or first["speaker_id"])
-        else:
-            fields.update(author="说话人待核", original_author="说话人待核")
-        if first["speaker_id"] == "yuzheng":
-            fields.update(content_origin="yuzheng-spoken-source", evidence_role="primary-speech",
-                          yuzheng_stance_weight="direct-with-quotation-boundaries", speaker_classification="yuzheng-turns-reviewed")
-        if first["speaker_id"] != "yuzheng":
-            fields.update(content_origin="mixed-or-unresolved-speech", evidence_role="speaker-attributed-speech",
-                          yuzheng_stance_weight="not-evidence")
-        if first.get("speech_act") in {"question", "introduction", "acknowledgement", "joke", "reported-other"}:
-            fields["yuzheng_stance_weight"] = "not-evidence"
-        texts = []
-        for unit in current:
-            t = int(unit["start_seconds"])
-            timestamp = f"{t // 3600:02}:{t % 3600 // 60:02}:{t % 60:02}"
-            link = str(data["source_url"]).split("&t=", 1)[0] + f"&t={t}s"
-            texts.append(f"[{timestamp}]({link}) {unit['text']}")
-        documents.append(Document(id=fields["fragment_id"], source_id=identity, title=str(data.get("title") or identity),
-                                  section="", source_type="video-transcript", source_url=url,
-                                  published_at=str(data.get("published_at") or ""), text="\n\n".join(texts),
-                                  path=str(path.relative_to(ROOT)), **fields))
     for unit in units:
         if (not isinstance(unit, dict) or not isinstance(unit.get("text"), str) or not unit["text"].strip()
                 or not isinstance(unit.get("id"), str) or unit["id"] in seen
@@ -545,14 +516,72 @@ def parse_raw_dialogue(path: Path) -> list[Document]:
                 or not math.isfinite(unit["end_seconds"]) or unit["end_seconds"] < unit["start_seconds"]
                 or not isinstance(unit.get("speaker_id"), str) or not unit["speaker_id"]):
             raise ValueError("Invalid raw dialogue source unit")
-        if unit["speaker_id"] != "unknown" and unit.get("speaker_status") not in {"reviewed-source-attribution", "audio-anchor-reviewed"}:
+        if unit["speaker_id"] != "unknown" and unit.get("speaker_status") not in ATTRIBUTED_STATUSES:
             raise ValueError("Named raw speaker lacks reviewed attribution")
         seen.add(unit["id"])
-        owner = (unit["speaker_id"], unit.get("speaker_name", ""), unit.get("speaker_status", "unresolved"), unit.get("speech_act", "unclassified"))
-        if current and (owner != speaker or size + len(unit["text"]) > 2600):
-            emit(); current = []; size = 0
-        current.append(unit); size += len(unit["text"]); speaker = owner
-    emit()
+
+    def line(unit):
+        # The time only: every line's link is the chunk's source URL at that second, and
+        # repeating it on each line would triple the text a reader of the chunk holds.
+        t = int(unit["start_seconds"])
+        return f"[{t // 3600:02}:{t % 3600 // 60:02}:{t % 60:02}] {unit['text']}"
+
+    def document(chunk, fields, fragment_id, section=""):
+        start = int(chunk[0]["start_seconds"])
+        return Document(id=fragment_id, source_id=identity, title=str(data.get("title") or identity),
+                        section=section, source_type="video-transcript", source_url=f"{base_url}&t={start}s",
+                        published_at=str(data.get("published_at") or ""), text="\n\n".join(line(u) for u in chunk),
+                        path=str(path.relative_to(ROOT)), **fields)
+
+    def sized(rows):
+        chunk, size = [], 0
+        for unit in rows:
+            if chunk and size + len(unit["text"]) > 2600:
+                yield chunk
+                chunk, size = [], 0
+            chunk.append(unit); size += len(unit["text"])
+        if chunk:
+            yield chunk
+
+    documents = []
+    # Transcript chunks: the programme as recorded. Placeholders stay in the units but are not
+    # searchable speech; this does not establish silence in the media.
+    speech = [u for u in units if not re.fullmatch(r"<\s*No Speech\s*>", u["text"].strip(), flags=re.I)]
+    for chunk in sized(speech):
+        fields = provenance_fields(data)
+        fields.update(data_layer="raw", speaker_id="unknown", speaker_name="", speaker_status="unresolved",
+                      source_snapshot_sha256=source_hash, speech_act="unclassified",
+                      fragment_id=f"{identity}#{chunk[0]['id']}-{chunk[-1]['id']}",
+                      author="说话人待核", original_author="说话人待核",
+                      content_origin="mixed-or-unresolved-speech", evidence_role="speaker-attributed-speech",
+                      yuzheng_stance_weight="not-evidence")
+        documents.append(document(chunk, fields, fields["fragment_id"]))
+    # Speaker chunks: one attributed speaker's units of one speech act, in order, split where the
+    # attribution status changes. Only statement chunks can stand for the speaker's view.
+    speakers = {}
+    for unit in units:
+        if unit["speaker_id"] != "unknown" and unit.get("speech_act"):
+            key = (unit["speaker_id"], unit.get("speaker_name", ""), unit["speaker_status"], unit["speech_act"])
+            speakers.setdefault(key, []).append(unit)
+    for (speaker_id, speaker_name, status, act), rows in speakers.items():
+        for chunk in sized(rows):
+            fields = provenance_fields(data)
+            name = speaker_name or speaker_id
+            fields.update(data_layer="raw", speaker_id=speaker_id, speaker_name=speaker_name, speaker_status=status,
+                          source_snapshot_sha256=source_hash, speech_act=act,
+                          fragment_id=f"{identity}#{speaker_id}:{act}:{chunk[0]['id']}-{chunk[-1]['id']}",
+                          author=name, original_author=name)
+            if speaker_id == "yuzheng":
+                fields.update(content_origin="yuzheng-spoken-source", evidence_role="primary-speech",
+                              yuzheng_stance_weight="direct-with-quotation-boundaries",
+                              speaker_classification="yuzheng-turns-reviewed" if status == "reviewed-source-attribution"
+                              else "yuzheng-turns-voice-matched")
+            else:
+                fields.update(content_origin="mixed-or-unresolved-speech", evidence_role="speaker-attributed-speech",
+                              yuzheng_stance_weight="not-evidence")
+            if act in NON_STANCE_ACTS:
+                fields["yuzheng_stance_weight"] = "not-evidence"
+            documents.append(document(chunk, fields, fields["fragment_id"], section=f"{name}在本期的{ACT_LABELS.get(act, act)}"))
     return documents
 
 
