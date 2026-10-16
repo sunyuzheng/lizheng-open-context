@@ -17,6 +17,8 @@
 
 `catalog/guests.json`分别保存实体、来源与参与关系，`catalog/guest-articles.json`保存已发表伴读文章的链接，`catalog/guest-names.json`是由它们生成的名字表。人物ID稳定，姓名、别名、介绍和链接可持续校准。结构化对谈原稿保留字幕单元及各自的时间码、发言者和质量。
 
+立正作为嘉宾参加其他节目的记录另存于[`catalog/guest-appearances.jsonl`](catalog/guest-appearances.jsonl)，区分主持人、录制版、剪辑版及各自时间轴。已收录精校字幕的版本回指`corpus/dialogues/`，尚无可靠原稿的节目保留目录状态。观点提炼另见[`context/guest-appearance-reading-map.md`](context/guest-appearance-reading-map.md)。
+
 当前资料数量、时间与许可由数据生成，见[目录](INDEX.md)；文件版本由[`release-manifest.json`](release-manifest.json)固定。
 
 ## 使用

@@ -456,11 +456,16 @@ def hub_page(root: Path) -> str:
         structured = json.loads(policy_path.read_text())["records"]
         full_text.insert(9, ["结构化对谈原文", f"{len(structured)} 份（含既有来源的新版本）",
             link(page, "对谈原文目录", "index/dialogues.md"), link(page, "corpus/dialogues/", "corpus/dialogues/"),
-            f"{reference}；说话人待核，不能据此推定立正赞同"])
+            f"按文件分别标明{reference}或{retained}；发言归属以单元记录为准"])
     listed = [
         ["视频目录", f"{len(videos)} 条", link(page, "视频目录", "index/videos.md"), link(page, "catalog/videos.jsonl", "catalog/videos.jsonl"), f"{groups['listed']} 条只有目录、没有字幕"],
         ["Knowledge Bank", f"{len(kb)} 篇", link(page, "Knowledge Bank 目录", "index/knowledge-bank.md"), link(page, "catalog/knowledge-bank.jsonl", "catalog/knowledge-bank.jsonl"), f"立正的 {sum(bool(r.get('full_text_included')) for r in kb)} 篇有全文，其他作者只列标题和链接"],
     ]
+    appearances_path = root / "catalog/guest-appearances.jsonl"
+    if appearances_path.exists():
+        appearances = read_jsonl(appearances_path)
+        listed.append(["立正做客其他节目", f"{len(appearances)} 期", link(page, "做客记录", "catalog/guest-appearances.jsonl"),
+            link(page, "catalog/guest-appearances.jsonl", "catalog/guest-appearances.jsonl"), "目录与各发布版本分开；已收录原稿的版本另见对谈目录"])
     contexts = []
     for path in context_files:
         title = front_matter(path).get("title") if path.suffix == ".md" else "判断卡：按问题加载的推理导航"
@@ -521,18 +526,23 @@ def dialogue_page(root: Path) -> str:
     participants = {}
     for relation in catalog["appearances"]:
         participants.setdefault(relation["source_id"], []).append(entities[relation["entity_id"]])
+    appearances_path = root / "catalog/guest-appearances.jsonl"
+    if appearances_path.exists():
+        for appearance in read_jsonl(appearances_path):
+            if appearance.get("transcript_id"):
+                participants[appearance["transcript_id"]] = [p["speaker_name"] for p in appearance["participants"]]
     rows = []
     for binding in policy["records"]:
         data = json.loads((root / binding["corpus_path"]).read_text())
         rows.append({**data, "corpus_path": binding["corpus_path"], "participant_names": "；".join(participants.get(data["id"], []))})
     out = [GENERATED, "", "# 对谈原文", "",
-        "原文保留每句文字、时间码、发言归属和质量记录，直接参与检索。节目参与者由共享嘉宾目录提供。",
+        "原文保留每句文字、时间码、发言归属和质量记录，直接参与检索。节目参与者来自共享嘉宾目录或独立的做客节目目录。",
         "[资料架构](../docs/conversation-architecture.md) · [来源字段](../docs/source-model.md) · [校对阶段](../docs/dialogue-ingestion.md)", "",
-        f"共 {len(rows)} 份。{license_link(page, REFERENCE_USE)}；嘉宾保留自己发言的权利。", "",
-        *table(["日期", "原文", "节目参与者目录", "文字待核组", "视频"], [
+        f"共 {len(rows)} 份。许可逐份标明；其他说话人保留自己发言的权利。", "",
+        *table(["日期", "原文", "节目参与者目录", "文字待核项", "媒体", "许可"], [
             [cell(day(row["published_at"])), link(page, row["title"], row["corpus_path"]),
              cell(row.get("participant_names") or "目录未列姓名"), str(row["quality"]["unresolved_count"]),
-             link(page, "原视频", row["source_url"])] for row in newest_first(rows)], numeric={3})]
+             link(page, "原媒体", row["source_url"]), license_link(page, row["license"])] for row in newest_first(rows)], numeric={3})]
     return "\n".join(out) + "\n"
 
 

@@ -204,12 +204,70 @@ def programme_participants(catalog):
     return relation
 
 
-def verify_raw_metadata(catalog, raw_records):
+def appearance_catalog(root):
+    """Validate external participant names independently of the interviewee directory."""
+    path = Path(root) / "catalog/guest-appearances.jsonl"
+    if not path.exists():
+        return []
+    rows, identities = [], set()
+    for line in safe_file(Path(root), "catalog/guest-appearances.jsonl").read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        row = strict_json(line)
+        require(isinstance(row, dict) and isinstance(row.get("id"), str) and row["id"]
+                and row["id"] not in identities, "appearance_identity_invalid")
+        identities.add(row["id"])
+        require(isinstance(row.get("participants"), list), "appearance_participants_invalid")
+        people = set()
+        for person in row["participants"]:
+            require(isinstance(person, dict), "appearance_participant_invalid")
+            sid, name = person.get("speaker_id"), person.get("speaker_name")
+            require(isinstance(sid, str) and re.fullmatch(r"(?:yuzheng|(?:guest|host):[a-z0-9_.:-]+)", sid)
+                    and sid not in people and isinstance(name, str) and name.strip() and len(name) <= 100
+                    and not any(ord(c) < 32 for c in name), "appearance_participant_invalid")
+            for field in ("aliases", "qualifiers"):
+                values = person.get(field, [])
+                strings(values, "appearance_participant_names_invalid")
+                require(all(value.strip() and len(value) <= 100 and not any(ord(c) < 32 for c in value)
+                            for value in values), "appearance_participant_names_invalid")
+            people.add(sid)
+        rows.append(row)
+    return rows
+
+
+def appearance_participants(root):
+    """Guest appearances have their own people; they do not create interviewee pages."""
+    rows = {}
+    for row in appearance_catalog(root):
+        identity = row.get("transcript_id")
+        if identity is None:
+            continue
+        require(isinstance(identity, str) and re.fullmatch(r"dialogue-[a-z0-9][a-z0-9._-]*", identity)
+                and identity not in rows and row.get("transcript_path") == f"corpus/dialogues/{identity}.json",
+                "appearance_transcript_identity_invalid")
+        rows[identity] = {person["speaker_id"]: person["speaker_name"] for person in row["participants"]}
+    return rows
+
+
+def verify_raw_metadata(catalog, raw_records, external_participants=None):
     """Bind source identities and reviewed speakers to the shared catalog."""
     relation = programme_participants(catalog)
     seen = set()
     for raw in raw_records:
         vid = raw.get("video_id")
+        if "video_id" not in raw and str(raw.get("id", "")).startswith("dialogue-"):
+            identity = raw["id"]
+            require(re.fullmatch(r"dialogue-[a-z0-9][a-z0-9._-]*", identity) and identity not in seen,
+                    "raw_identity_invalid")
+            url(raw.get("source_url"))
+            seen.add(identity)
+            people = (external_participants or {}).get(identity, {})
+            require(not (CATALOG_FIELDS & raw.keys()), "raw_catalog_metadata_duplicated")
+            for unit in raw.get("units", []):
+                speaker = unit.get("speaker_id", "unknown")
+                require(speaker == "unknown" or (speaker in people and unit.get("speaker_name") == people[speaker]),
+                        "raw_speaker_programme_mismatch")
+            continue
         require(isinstance(vid, str) and VIDEO.fullmatch(vid) and vid not in seen and raw.get("id") == "youtube-" + vid and video_id(raw.get("source_url")) == vid, "raw_identity_invalid")
         seen.add(vid)
         expected = relation.get("youtube-" + vid, set())
@@ -240,9 +298,13 @@ def validate_guest_catalog(root, verify_raw=True, verify_manifest=True):
             if verify_manifest:
                 require(digest == entries[r["corpus_path"]]["sha256"] and len(data) == entries[r["corpus_path"]]["bytes"], "raw_hash_mismatch")
             raw = strict_json(data)
-            require(raw.get("video_id") == r.get("video_id"), "raw_policy_identity_mismatch")
+            if "source_id" in r:
+                require(raw.get("id") == r["source_id"] and "video_id" not in raw and "video_id" not in r,
+                        "raw_policy_identity_mismatch")
+            else:
+                require(raw.get("video_id") == r.get("video_id"), "raw_policy_identity_mismatch")
             records.append(raw)
-        counts["public_raw_records"] = verify_raw_metadata(catalog, records)
+        counts["public_raw_records"] = verify_raw_metadata(catalog, records, appearance_participants(root))
         counts["introductions"] = verify_introductions(root, catalog)
     return counts
 

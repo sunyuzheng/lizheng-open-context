@@ -1033,7 +1033,7 @@ def export_videos(
     existing_catalog = ROOT / "catalog/videos.jsonl"
     policy_path = ROOT / "config" / "public-dialogue-policy.json"
     policy = json.loads(policy_path.read_text()) if policy_path.is_file() else {}
-    dialogue_ids = {r["video_id"] for r in policy.get("records", [])}
+    dialogue_ids = {r["video_id"] for r in policy.get("records", []) if r.get("video_id")}
     retained_rows = []
     retained_files = []
     if existing_catalog.is_file():

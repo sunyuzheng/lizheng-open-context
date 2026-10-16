@@ -782,7 +782,7 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
     dialogue_stats = validate_dialogues(ROOT, member_ids, errors)
     dialogue_path = ROOT / "config/public-dialogue-policy.json"
     dialogue_policy = read_json_object_without_duplicate_keys(dialogue_path) if dialogue_path.is_file() else {}
-    dialogue_ids = {record["video_id"] for record in dialogue_policy.get("records", [])}
+    dialogue_ids = {record["video_id"] for record in dialogue_policy.get("records", []) if record.get("video_id")}
     try:
         guest_stats = validate_guest_catalog(ROOT, verify_manifest=verify_existing_manifest)
     except (OSError, ValueError, KeyError, TypeError, AttributeError) as exc:
@@ -988,6 +988,7 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
         "member_video_transcripts": len(member_ids),
         "member_video_solo_reviewed": len(solo_ids),
         "known_guest_videos": sum(bool(row.get("guest_names")) for row in video_rows),
+        "external_guest_appearances": len(read_jsonl(ROOT / "catalog/guest-appearances.jsonl")) if (ROOT / "catalog/guest-appearances.jsonl").exists() else 0,
         "english_community_catalog": len(english_rows),
         "english_community_full_text_files": len(list((ROOT / "corpus/english-community").glob("*.md"))),
         "english_community_original_yuzheng": sum(row.get("original_author") == "Yuzheng Sun" for row in english_rows),
@@ -1024,7 +1025,7 @@ def build_manifest(stats: dict[str, int], license_map: dict[str, tuple[str, str]
             "community_comments_full_text": "first-party comments under any post in a public or members-only space except member introductions and events, with at least 20 effective characters, kept when a pinned review finds a view, advice, an explanation, his own experience or useful information; under another member's post in a members-only space the post is neither named nor linked; member mentions, contact data, other people's private circumstances, third-party leading quotations, and all inline links removed",
             "knowledge_bank_full_text": "first-party Knowledge Bank posts point to the unified community-post corpus; other authors remain metadata-only",
             "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
-            "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact member-video-policy and six values-conversations-policy snapshots; new structured public dialogues require the exact public-dialogue-policy snapshot; mixed/unresolved speech is under the Lizheng Reference Use License, guests keep their own rights, and it cannot independently establish Yuzheng's stance",
+            "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact member-video-policy and six values-conversations-policy snapshots; new structured public dialogues require the exact public-dialogue-policy snapshot; mixed/unresolved speech follows each file's declared Reference Use or Original Rights Retained marker, other speakers keep their rights, and unresolved speech cannot independently establish Yuzheng's stance",
             "dialogue_layers": "faithful timed transcripts and reviewed quotations are raw; AI headings, annotations and synthesis are derived and never independently establish speech or endorsement; participant metadata does not assign unresolved turns",
             "conversation_excerpts": "Yuzheng's own turns in the twelve conversations that shaped his values (问道, 赵智沉, 王路, Leon), reviewed speaker by speaker on 2026-10-04; every quotation must match its included transcript verbatim at the stated moment; headings and context lines are AI-written; excerpts from member videos are under the Lizheng Reference Use License, from public videos CC BY 4.0",
             "member_videos": "open transcript text, members-only original videos; exact IDs and transcript hashes in config/member-video-policy.json; YouTube membership is distinct from Ask's Superlinear Founding quota",

@@ -38,6 +38,14 @@ python3 scripts/search.py "问题" --layer derived --json
 
 正式文件另有来源、日期、许可及质量字段，格式由release validator校验。发言者确认依据保存在审核记录中，未确认的单元保留`unknown`。人物、姓名、别名与节目参与关系由`catalog/guests.json`统一提供，读取原稿时按来源ID关联；具体发言归属保存在字幕单元中。
 
+## 外部节目与版本
+
+立正做客其他节目时，节目记录由`catalog/guest-appearances.jsonl`保存，参与者有`host`、`guest`或`panelist`角色，不把主持人添加成“立正采访的嘉宾”。目录属于Structured层，只提供发现和定位，不能证明任何人的观点。它还保存各发布版本、发布日期、时长及原稿绑定；录制日与播出日分别记录。
+
+非YouTube的原稿继续使用同一套字幕单元格式，以`dialogue-...`为稳定ID，声明实际的`source_url`和`video-transcript`或`audio-transcript`。在同一份`config/public-dialogue-policy.json`中，用`source_id`绑定原稿hash、公开状态依据与逐单元归属记录；既有YouTube原稿继续遵循原有身份与声纹规则。只有精校和归属记录真实支持的内容才能获得对应质量字段。
+
+`timestamp_mode: display-only`表示时间码可用于播放器手动定位；检索保留时间文本和来源链接，不给不支持跳转的平台拼造YouTube的`&t=`参数。字幕对应哪个发布版本，就绑定哪个版本，不能按时长比例换算到另一剪辑版。读后提炼放在`context/`，回指具体原稿与时间；发布方show notes、已发表伴读文章和AI摘要均不填充缺失的逐字稿。
+
 ## 本地整理与公开版本
 
 `scripts/build_dialogue_candidates.py`从明确inventory及完整hash回执生成本地候选，保留每个cue的文字与时间。候选及原媒体、原字幕、校对依据在本地素材库保存。`scripts/search_dialogue_candidates.py --pack <候选目录> --verify-only`检查候选；去掉`--verify-only`并提供问题可直接在本机搜索。

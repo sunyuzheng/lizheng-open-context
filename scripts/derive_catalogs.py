@@ -18,6 +18,7 @@ import json
 import re
 import unicodedata
 from pathlib import Path
+from validate_guest_catalog import appearance_catalog
 
 ROOT = Path(__file__).resolve().parents[1]
 GUESTS = "catalog/guests.json"
@@ -25,6 +26,7 @@ VIDEOS = "catalog/videos.jsonl"
 NAMES = "catalog/guest-names.json"
 SPEAKERS = "config/speaker-names.json"
 DIALOGUE_POLICY = "config/public-dialogue-policy.json"
+APPEARANCES = "catalog/guest-appearances.jsonl"
 
 # A name's key: NFKC, casefold, then drop whitespace and these marks. Consumers normalize a
 # question the same way before looking a key up; KEY_EXAMPLES let them test that they do.
@@ -190,7 +192,7 @@ def entity_names(entity: dict) -> tuple[list[tuple[str, str]], list[str]]:
     return found, qualifiers
 
 
-def name_table(catalog: dict, speakers: dict) -> dict:
+def name_table(catalog: dict, speakers: dict, appearances: list[dict] | None = None) -> dict:
     entries: dict[str, dict] = {}
     qualifiers: dict[str, list[dict]] = {}
     company_keys: dict[str, set[str]] = {}
@@ -217,6 +219,25 @@ def name_table(catalog: dict, speakers: dict) -> dict:
                 rows.append({"name": text, "key": key})
         if rows:
             qualifiers[entity["entity_id"]] = rows
+    for appearance in appearances or []:
+        for person in appearance["participants"]:
+            identity = person["speaker_id"]
+            if identity == "yuzheng":
+                continue  # his names remain owned by config/speaker-names.json
+            for text in [person["speaker_name"], *person.get("aliases", [])]:
+                key = name_key(text)
+                entry = entries.setdefault(key, {"name": text.strip(), "key": key, "entity_ids": [], "kinds": []})
+                if identity not in entry["entity_ids"]:
+                    entry["entity_ids"].append(identity)
+                if "appearance-participant" not in entry["kinds"]:
+                    entry["kinds"].append("appearance-participant")
+            rows = qualifiers.setdefault(identity, [])
+            for text in person.get("qualifiers", []):
+                key = name_key(text)
+                if key and not any(row["key"] == key for row in rows):
+                    rows.append({"name": text, "key": key})
+            if not rows:
+                qualifiers.pop(identity, None)
     for entry in entries.values():
         # A label shared with other people's organization (Multi-FIRE) finds all of them.
         if "qualifier" in entry["kinds"]:
@@ -226,7 +247,7 @@ def name_table(catalog: dict, speakers: dict) -> dict:
         entry["entity_ids"].sort()
     return {
         "schema_version": 1,
-        "generated_from": [GUESTS, SPEAKERS],
+        "generated_from": [GUESTS, SPEAKERS] + ([APPEARANCES] if appearances is not None else []),
         "key_rule": KEY_RULE,
         "key_drop": "".join(sorted(KEY_DROP - set(" \t\r\n\u3000"))),
         "key_examples": KEY_EXAMPLES,
@@ -248,12 +269,12 @@ def outputs(root: Path = ROOT) -> dict[str, str]:
     if speakers.get("schema_version") != 1 or not speakers.get("speakers"):
         raise ValueError("config/speaker-names.json is invalid")
     policy_path = root / DIALOGUE_POLICY
-    dialogue_ids = {row["video_id"] for row in read_json(policy_path)["records"]} if policy_path.is_file() else set()
+    dialogue_ids = {row["video_id"] for row in read_json(policy_path)["records"] if row.get("video_id")} if policy_path.is_file() else set()
     rows = [json.loads(line) for line in (root / VIDEOS).read_text(encoding="utf-8").splitlines() if line.strip()]
     return {
         GUESTS: json_text(catalog),
         VIDEOS: jsonl_text(derived_videos(rows, catalog, dialogue_ids)),
-        NAMES: json_text(name_table(catalog, speakers)),
+        NAMES: json_text(name_table(catalog, speakers, appearance_catalog(root) if (root / APPEARANCES).is_file() else None)),
     }
 
 

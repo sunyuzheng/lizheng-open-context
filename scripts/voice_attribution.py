@@ -202,7 +202,7 @@ def stage_embed(root: Path, archive: Path, work: Path, only: list[str] | None):
     import numpy as np
     files = audio_map(archive)
     embedder = Embedder()
-    jobs = [(path.stem.removeprefix("youtube-"), "dialogue") for path in sorted((root / DIALOGUES).glob("*.json"))]
+    jobs = [(path.stem.removeprefix("youtube-"), "dialogue") for path in sorted((root / DIALOGUES).glob("youtube-*.json"))]
     jobs += [(vid, "solo") for vid in solo_ids(root)]
     for vid, kind in jobs:
         target = work / "emb" / f"{vid}.npz"
@@ -361,7 +361,7 @@ def stage_label(root: Path, work: Path, only: list[str] | None, confirmed: dict)
         np.save(profile_path, P)
         write_json(work / "profile.json", {"solo_talks": count})
     summary = {}
-    for path in sorted((root / DIALOGUES).glob("*.json")):
+    for path in sorted((root / DIALOGUES).glob("youtube-*.json")):
         vid = path.stem.removeprefix("youtube-")
         if only and vid not in only:
             continue
@@ -481,10 +481,12 @@ def single_guest(labels_file: dict, people: list[str], entities: dict) -> dict |
 def stage_apply(root: Path, work: Path, meta: dict, checks: dict):
     entities, people = catalog_people(root)
     public = read_json(root / PUBLIC_POLICY)
-    rows = {row["video_id"]: row for row in public["records"]}
+    rows = {row["video_id"]: row for row in public["records"] if row.get("video_id")}
     records = []
     for path in sorted((root / DIALOGUES).glob("*.json")):
         vid = path.stem.removeprefix("youtube-")
+        if vid not in rows:
+            continue
         labels_path, acts_path = work / "labels" / f"{vid}.json", work / "acts" / f"{vid}.json"
         data = read_json(path)
         # Start from the transcript itself: earlier voice labels are cleared before new ones apply.

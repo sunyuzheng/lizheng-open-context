@@ -64,7 +64,7 @@ def reviewed_policy(root, public_policy, read_object):
                 or not isinstance(row["units"], list) or not row["units"]):
             raise ValueError("turn_attribution_record_invalid")
         rows[row["video_id"]] = row
-    admitted = {row["video_id"] for row in public_policy["records"]}
+    admitted = {row["video_id"] for row in public_policy["records"] if row.get("video_id")}
     if not set(rows) <= admitted:
         raise ValueError("turn_attribution_source_not_admitted")
     return rows
@@ -106,7 +106,7 @@ def voice_policy(root, public_policy, read_object):
                         and all(isinstance(v, str) and v.strip() for v in row["maintainer_check"].values())))):
             raise ValueError("audio_attribution_record_invalid")
         rows[row["video_id"]] = row
-    admitted = {row["video_id"] for row in public_policy["records"]}
+    admitted = {row["video_id"] for row in public_policy["records"] if row.get("video_id")}
     if not set(rows) <= admitted:
         raise ValueError("audio_attribution_source_not_admitted")
     return rows
@@ -151,12 +151,20 @@ def validate_units(data, row, participant_ids, voice_row=None):
         raise ValueError("turn_attribution_source_units_changed")
     if any(u.get("speaker_id") == "unknown" and (u.get("speaker_name", "") != "" or u.get("speaker_status") != "unresolved") for u in units):
         raise ValueError("turn_attribution_unknown_speaker_changed")
+    validate_review_units(units, row["units"], participant_ids)
+
+
+def validate_review_units(units, review_units, participant_ids, *, external=False):
+    """Bind every named text attribution to its exact content and reviewed label."""
+    if not isinstance(review_units, list):
+        raise ValueError("turn_attribution_unit_invalid")
+    annotations = {u["id"]: u for u in units if u.get("speaker_status") == REVIEWED}
     expected = {}
-    for annotation in row["units"]:
+    for annotation in review_units:
         if (not isinstance(annotation, dict) or set(annotation) != {"id", "content_sha256", "speaker_id", "speaker_name", "speech_act"}
                 or annotation["id"] in expected or annotation["speech_act"] not in ACTS
                 or not isinstance(annotation["speaker_id"], str)
-                or not re.fullmatch(r"(?:yuzheng|guest:[a-z0-9_.:-]+)", annotation["speaker_id"])
+                or not re.fullmatch(r"(?:yuzheng|(?:guest|host):[a-z0-9_.:-]+)" if external else r"(?:yuzheng|guest:[a-z0-9_.:-]+)", annotation["speaker_id"])
                 or not isinstance(annotation["speaker_name"], str) or not annotation["speaker_name"].strip()
                 or len(annotation["speaker_name"]) > 100 or any(ord(c) < 32 for c in annotation["speaker_name"])
                 or (annotation["speaker_id"] != "yuzheng" and annotation["speaker_id"] not in participant_ids)
@@ -171,3 +179,17 @@ def validate_units(data, row, participant_ids, voice_row=None):
                 or any(unit.get(key) != annotation[key] for key in ("speaker_id", "speaker_name", "speech_act"))
                 or unit.get("speaker_status") != "reviewed-source-attribution"):
             raise ValueError("turn_attribution_unit_changed")
+
+
+def validate_external_units(data, review_units, participants):
+    """External appearances use their own reviewed participants, never the interviewee directory."""
+    units = data["units"]
+    for unit in units:
+        if unit.get("speaker_id") == "unknown":
+            if (unit.get("speaker_name", "") != "" or unit.get("speaker_status") != "unresolved"
+                    or "speech_act" in unit):
+                raise ValueError("turn_attribution_unknown_speaker_changed")
+        elif (unit.get("speaker_status") != REVIEWED or unit.get("speaker_id") not in participants
+                or unit.get("speaker_name") != participants[unit["speaker_id"]]):
+            raise ValueError("external_dialogue_speaker_not_in_appearance")
+    validate_review_units(units, review_units, set(participants), external=True)

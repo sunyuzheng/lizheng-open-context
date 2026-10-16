@@ -2,7 +2,8 @@
   "schema_version": 1,
   "generated_from": [
     "catalog/guests.json",
-    "config/speaker-names.json"
+    "config/speaker-names.json",
+    "catalog/guest-appearances.jsonl"
   ],
   "key_rule": "NFKC, casefold, then drop whitespace and the characters !\"#&'(),-./:;<>?@[]_{|}·–—‘’“”•、。《》「」『』【】・",
   "key_drop": "!\"#&'(),-./:;<>?@[]_{|}·–—‘’“”•、。《》「」『』【】・",
@@ -89,10 +90,22 @@
       "name": "Ashley",
       "key": "ashley",
       "entity_ids": [
-        "guest:ashley-twin-programmer"
+        "guest:ashley-twin-programmer",
+        "host:ashley-qi"
       ],
       "kinds": [
-        "base"
+        "base",
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "Ashley Qi",
+      "key": "ashleyqi",
+      "entity_ids": [
+        "host:ashley-qi"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -693,6 +706,16 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "Jeremy",
+      "key": "jeremy",
+      "entity_ids": [
+        "host:jeremy-zhou"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -2300,6 +2323,16 @@
       ]
     },
     {
+      "name": "周永豪 Jeremy",
+      "key": "周永豪jeremy",
+      "entity_ids": [
+        "host:jeremy-zhou"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "品酒课",
       "key": "品酒课",
       "entity_ids": [
@@ -2491,6 +2524,16 @@
       ]
     },
     {
+      "name": "杨天楠",
+      "key": "杨天楠",
+      "entity_ids": [
+        "host:yang-tiannan"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "杨帆",
       "key": "杨帆",
       "entity_ids": [
@@ -2518,6 +2561,16 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "林希言",
+      "key": "林希言",
+      "entity_ids": [
+        "host:lin-xiyan"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -2591,6 +2644,16 @@
       ]
     },
     {
+      "name": "永豪",
+      "key": "永豪",
+      "entity_ids": [
+        "host:jeremy-zhou"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "沈心洋",
       "key": "沈心洋",
       "entity_ids": [
@@ -2638,6 +2701,16 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "狄璟",
+      "key": "狄璟",
+      "entity_ids": [
+        "host:di-jing"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -3963,6 +4036,26 @@
       {
         "name": "TikTok",
         "key": "tiktok"
+      }
+    ],
+    "host:ashley-qi": [
+      {
+        "name": "西雅图中文电台",
+        "key": "西雅图中文电台"
+      },
+      {
+        "name": "Ashley Qi",
+        "key": "ashleyqi"
+      }
+    ],
+    "host:jeremy-zhou": [
+      {
+        "name": "破局点",
+        "key": "破局点"
+      },
+      {
+        "name": "TURNING POINT",
+        "key": "turningpoint"
       }
     ]
   }

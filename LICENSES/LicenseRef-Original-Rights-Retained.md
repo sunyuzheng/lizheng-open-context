@@ -4,7 +4,7 @@
 
 这不是一份许可，而是一个标记：带这个标记的内容，权利仍归原作者。本仓库没有、也无权替他们授予任何许可。
 
-目前带这个标记的文件，是 `corpus/english-community/` 中其他作者写的英文文章。它们由维护者从超线性学院公开的英文空间选定收录，清单见 `config/english-source-policy.json`。每个文件都写明原作者、发布账号、原文链接和翻译或转载方式。
+带这个标记的文件包括 `corpus/english-community/` 中其他作者写的英文文章，以及 `corpus/dialogues/` 中外部节目发布的对谈原稿。英文文章由维护者从超线性学院公开的英文空间选定，清单见 `config/english-source-policy.json`；外部对谈按 `config/public-dialogue-policy.json` 中的具体来源与文件版本收录。每个文件保存原作者或说话人归属、发布者、原文链接和处理方式。
 
 无论所在文件用哪种许可，下面这些内容都同样归原权利人：
 
@@ -23,7 +23,7 @@
 
 This is not a license. It is a marker: the rights in marked content stay with the original authors. This repository does not, and cannot, grant any license on their behalf.
 
-The files currently carrying this marker are the English articles by other authors in `corpus/english-community/`. The maintainer selected them from Superlinear Academy's public English space; the list is in `config/english-source-policy.json`. Each file names the original author, the publishing account, the original link, and how it was translated or reposted.
+Files carrying this marker include English articles by other authors in `corpus/english-community/` and dialogue transcripts of externally published programmes in `corpus/dialogues/`. English articles are selected from Superlinear Academy's public English space under `config/english-source-policy.json`; external dialogues are bound to exact sources and file versions in `config/public-dialogue-policy.json`. Files retain original author or speaker attribution, publisher, source link and processing provenance.
 
 Whatever license a file carries, the following also stay with their original rights holders:
 

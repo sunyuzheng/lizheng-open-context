@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "snapshot_at": "2026-10-11",
+  "snapshot_at": "2026-10-16",
   "repository": "sunyuzheng/lizheng-open-context",
   "intended_visibility": "public",
   "source_snapshots": {
@@ -18,16 +18,17 @@
     "rights_and_index_review": "2026-10-03",
     "chinese_editions": "2026-10-04",
     "values_conversations": "2026-10-04",
-    "public_dialogues": "2026-10-11",
+    "public_dialogues": "2026-10-16",
     "guest_catalog": "2026-10-11",
-    "video_incremental": "2026-10-07"
+    "video_incremental": "2026-10-07",
+    "guest_appearances": "2026-10-16"
   },
   "filters": {
     "community_posts_full_text": "current Circle-search posts authored by YZ｜立正 plus one first-party Knowledge Bank item preserved from the earlier public snapshot; archived and hidden test spaces excluded; contact data redacted",
     "community_comments_full_text": "first-party comments under any post in a public or members-only space except member introductions and events, with at least 20 effective characters, kept when a pinned review finds a view, advice, an explanation, his own experience or useful information; under another member's post in a members-only space the post is neither named nor linked; member mentions, contact data, other people's private circumstances, third-party leading quotations, and all inline links removed",
     "knowledge_bank_full_text": "first-party Knowledge Bank posts point to the unified community-post corpus; other authors remain metadata-only",
     "videos": "youtube public + normal_video + ready_public_normal + local_status ok",
-    "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact member-video-policy and six values-conversations-policy snapshots; new structured public dialogues require the exact public-dialogue-policy snapshot; mixed/unresolved speech is under the Lizheng Reference Use License, guests keep their own rights, and it cannot independently establish Yuzheng's stance",
+    "video_full_text": "explicit V1 solo-Yuzheng allowlist, plus the exact member-video-policy and six values-conversations-policy snapshots; new structured public dialogues require the exact public-dialogue-policy snapshot; mixed/unresolved speech follows each file's declared Reference Use or Original Rights Retained marker, other speakers keep their rights, and unresolved speech cannot independently establish Yuzheng's stance",
     "dialogue_layers": "faithful timed transcripts and reviewed quotations are raw; AI headings, annotations and synthesis are derived and never independently establish speech or endorsement; participant metadata does not assign unresolved turns",
     "conversation_excerpts": "Yuzheng's own turns in the twelve conversations that shaped his values (问道, 赵智沉, 王路, Leon), reviewed speaker by speaker on 2026-10-04; every quotation must match its included transcript verbatim at the stated moment; headings and context lines are AI-written; excerpts from member videos are under the Lizheng Reference Use License, from public videos CC BY 4.0",
     "member_videos": "open transcript text, members-only original videos; exact IDs and transcript hashes in config/member-video-policy.json; YouTube membership is distinct from Ask's Superlinear Founding quota",
@@ -40,15 +41,15 @@
     "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md"
   },
   "counts": {
-    "structured_public_dialogues": 339,
-    "structured_dialogue_cues": 248599,
+    "structured_public_dialogues": 341,
+    "structured_dialogue_cues": 251201,
     "guest_entities": 152,
     "guest_sources": 406,
     "guest_appearances": 425,
     "guest_slug_routes": 156,
     "guest_articles": 23,
     "guest_redirects": 3,
-    "guest_public_raw_records": 339,
+    "guest_public_raw_records": 341,
     "guest_introductions": 154,
     "community_posts_catalog": 252,
     "community_posts_full_text": 252,
@@ -69,6 +70,7 @@
     "member_video_transcripts": 218,
     "member_video_solo_reviewed": 45,
     "known_guest_videos": 387,
+    "external_guest_appearances": 28,
     "english_community_catalog": 50,
     "english_community_full_text_files": 49,
     "english_community_original_yuzheng": 11,
@@ -78,23 +80,23 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 920
+      "files": 921
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
-      "files": 43
+      "files": 44
     },
     "LicenseRef-Lizheng-Reference-Use-1.0": {
       "text": "LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md",
-      "files": 623
+      "files": 624
     },
     "LicenseRef-Original-Rights-Retained": {
       "text": "LICENSES/LicenseRef-Original-Rights-Retained.md",
-      "files": 39
+      "files": 40
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 55
+      "files": 56
     }
   },
   "files": [
@@ -130,8 +132,8 @@
     },
     {
       "path": "INDEX.md",
-      "bytes": 7211,
-      "sha256": "c54b33dc043ece5ef02b0dbd5b5edf00d3bef1f7212209798bb1340354ebf508",
+      "bytes": 7639,
+      "sha256": "2df42cfbf8e623b3e1e505ddde8a099326d62063b2cc51e623d4464cc50ad3e0",
       "license": "CC0-1.0"
     },
     {
@@ -166,8 +168,8 @@
     },
     {
       "path": "LICENSES/LicenseRef-Original-Rights-Retained.md",
-      "bytes": 2414,
-      "sha256": "ed20ceefe3c4311a5a03811e972e37fcbbab01f94d25c77c7729921d334e3543",
+      "bytes": 2721,
+      "sha256": "d58dad8fa2f8c509bee0c2ecd83f3e9ebdbd5adb178400b0a07e4154d81593d1",
       "license": null
     },
     {
@@ -178,14 +180,14 @@
     },
     {
       "path": "README.md",
-      "bytes": 4442,
-      "sha256": "f125dbf9376b6183234d2df578b8e3af2ca6b97bff29668571a4d831364cd05e",
+      "bytes": 4840,
+      "sha256": "2b94365e3d3712a5ecf9e457826e6c6f94f5bbf273ec95cfc774c0086d890d29",
       "license": "MIT"
     },
     {
       "path": "REUSE.toml",
-      "bytes": 23863,
-      "sha256": "cd986e4bf5025a588e5b7f3ce80f57189101b85980f9733821d11feb2937d6d7",
+      "bytes": 39895,
+      "sha256": "3ad72283622251ca03ad27cd81ffde1abd3a4aee91d41499dd744786b7d8db77",
       "license": null
     },
     {
@@ -237,6 +239,12 @@
       "license": "CC0-1.0"
     },
     {
+      "path": "catalog/guest-appearances.jsonl",
+      "bytes": 26679,
+      "sha256": "b2a67c176164c77b29b3daa93bae439af6b54282c86729eca93155b177910757",
+      "license": "CC0-1.0"
+    },
+    {
       "path": "catalog/guest-articles.json",
       "bytes": 12013,
       "sha256": "dd45794f82e396cb7d2eed5c0fab6ad8d4d64742e3b691f08d5ceb0191cd21ac",
@@ -244,8 +252,8 @@
     },
     {
       "path": "catalog/guest-names.json",
-      "bytes": 68473,
-      "sha256": "5677eaf552496fa8ad5f982834c57847a4c48642999cea39d0bee73bec4199eb",
+      "bytes": 70217,
+      "sha256": "f53124c3d47715b68e0639b874b9162beeb2025203da0089298fb697755bea60",
       "license": "CC0-1.0"
     },
     {
@@ -322,8 +330,8 @@
     },
     {
       "path": "config/public-dialogue-policy.json",
-      "bytes": 199190,
-      "sha256": "23afffe5a246ad5cf112b0e85444d42f19c329bf2b974d741b44d2a13ab1c2a9",
+      "bytes": 566802,
+      "sha256": "ff688124446a24884dc4b966f0cae50129d13ba68e694c33fc589fcc7a7a496b",
       "license": "CC0-1.0"
     },
     {
@@ -334,8 +342,8 @@
     },
     {
       "path": "config/release-snapshot.json",
-      "bytes": 772,
-      "sha256": "7cb483680457cd9b96509fd8d5d04fce42faa0d8a0d4e2f84a454e07c6908b61",
+      "bytes": 811,
+      "sha256": "86ccdc4fea6d81fe254763fedf91bb5fdab5892754e85441dad8dac5565dedcf",
       "license": "CC0-1.0"
     },
     {
@@ -390,6 +398,12 @@
       "path": "context/growth-analytics-reading-map.md",
       "bytes": 9699,
       "sha256": "8b757ca352a90b767a5485f018dc87ea5a38ed3c6f67d1373ba25c216c853e7e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-appearance-reading-map.md",
+      "bytes": 12600,
+      "sha256": "5744299f5beb9ab1cd9486593a71fde002a07483400b789ea028927a5f86a361",
       "license": "CC-BY-4.0"
     },
     {
@@ -4507,6 +4521,18 @@
       "bytes": 16428,
       "sha256": "bff346ecbe9960f91758a3046be3280bd57ea0039e2236909cf6af78fc146576",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-circle-36677614.json",
+      "bytes": 350068,
+      "sha256": "52b0bd3007b767269aa9b734a835cf008440727a425244782d2d76d5e71450aa",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-6ab21a58f04646b3a9555296.json",
+      "bytes": 501175,
+      "sha256": "226b371032bd46cc7e1c0fe8a1be2e32e8a17010367ef2c5a88bc09aa3969606",
+      "license": "LicenseRef-Original-Rights-Retained"
     },
     {
       "path": "corpus/dialogues/youtube--6CS95pZoIM.json",
@@ -9880,8 +9906,8 @@
     },
     {
       "path": "docs/dialogue-ingestion.md",
-      "bytes": 4607,
-      "sha256": "cedea09a244b7b3a50ac5ab219437d994772f5683922f070728281c991ade910",
+      "bytes": 5894,
+      "sha256": "65e08e99b7ea24890c666d42d5aa4beb91054a64da9a3b5f6d58ad358a089ef5",
       "license": "MIT"
     },
     {
@@ -9928,8 +9954,8 @@
     },
     {
       "path": "index/dialogues.md",
-      "bytes": 72791,
-      "sha256": "884b58ea4759f9f2dd968e28f9336c5014bbb7a9079dc37cf080af3e853d3a80",
+      "bytes": 101315,
+      "sha256": "87de21a6f63ce62462ea6fe39291c530011b686be7a698d981bb980865471ecf",
       "license": "CC0-1.0"
     },
     {
@@ -9988,20 +10014,20 @@
     },
     {
       "path": "scripts/build_index.py",
-      "bytes": 35550,
-      "sha256": "1d70c794f5f765ab9958daff2582d9be5185cae7f27ae348ceb95decae2e3fb5",
+      "bytes": 36416,
+      "sha256": "50b225c812734eb1f39ee8f5d59f1b245651b4cce4d04cdc06da4993e56e9e57",
       "license": "MIT"
     },
     {
       "path": "scripts/derive_catalogs.py",
-      "bytes": 14165,
-      "sha256": "f44fd75aa47ebc4097fb0a892129f92918db0e2fc6db6ce439cf6129aa3c2d83",
+      "bytes": 15532,
+      "sha256": "b235dc1a5d96207bab9cb934055622ef568f58ebb3690a4eb5c49e1f236e1d0e",
       "license": "MIT"
     },
     {
       "path": "scripts/dialogue_policy.py",
-      "bytes": 7515,
-      "sha256": "ed820ee04378665c2782884d1276908c8e2ee8f33ca6e24d33610cea24bbf021",
+      "bytes": 11692,
+      "sha256": "5a0bec7a835f58e47ecee99fd22a7f2548cbff025d5bc303381ccf0f584e678a",
       "license": "MIT"
     },
     {
@@ -10012,8 +10038,8 @@
     },
     {
       "path": "scripts/export_public_corpus.py",
-      "bytes": 56601,
-      "sha256": "33eab3ca771cf5f790d68468accf4c0dc075038fee851ec327f63dc2cdeb734f",
+      "bytes": 56622,
+      "sha256": "68d1b3fb3b4c32c7397b06098afe36dfb2ef6bcac58236bc7b8662e2686fbc03",
       "license": "MIT"
     },
     {
@@ -10054,8 +10080,8 @@
     },
     {
       "path": "scripts/raw_turn_policy.py",
-      "bytes": 10499,
-      "sha256": "dfbf0199ff310fe15a20a6e89b02cba0b1fba48fe145b70fde97f298f1caac9b",
+      "bytes": 11848,
+      "sha256": "0acb3086a45bb7a521d1ebfdfe12ed718515a06fee2b8f8bf0965c28ca25edff",
       "license": "MIT"
     },
     {
@@ -10078,8 +10104,8 @@
     },
     {
       "path": "scripts/search.py",
-      "bytes": 40448,
-      "sha256": "5df02bc67d54fc8eba4a1dc5e6b316a3e6a0dc7cc9b27616e7d49c4d4bfdf610",
+      "bytes": 43305,
+      "sha256": "0e71bca4521bba0806be86992930c0b4df56d7aa008d203bc07eb8fb5143a003",
       "license": "MIT"
     },
     {
@@ -10090,20 +10116,20 @@
     },
     {
       "path": "scripts/validate_guest_catalog.py",
-      "bytes": 18044,
-      "sha256": "e419976e0fd945705826f25c0bc1f988a8d7d123577a57cb60bb5b7faff5b734",
+      "bytes": 21501,
+      "sha256": "c3d7d05f27cf7b8d9386d238b630103e511100c18e270601bdc05dc9b3574c19",
       "license": "MIT"
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 66271,
-      "sha256": "6ca9f8ccb462b30d1be655d3306caf24dac23e2294c758bd5d8602e4411c5781",
+      "bytes": 66510,
+      "sha256": "867667c82f8320199e97c59b702cc9b85d43e1ec84a33cb4a9c8bf2ecdcc0002",
       "license": "MIT"
     },
     {
       "path": "scripts/voice_attribution.py",
-      "bytes": 26526,
-      "sha256": "3df7fcd2cd3ab1f86bf9cffededf90fea19a38bcadcf569882a6fa8f61872fe0",
+      "bytes": 26614,
+      "sha256": "d9154de12ab516a8aea2ae2db8ef897d5fa6841dad5acf41105a18c2771159da",
       "license": "MIT"
     },
     {
@@ -10114,8 +10140,8 @@
     },
     {
       "path": "tests/test_derive_catalogs.py",
-      "bytes": 10215,
-      "sha256": "2d6f71d8b4f407ab555b984d53800a2282caeae654ac9df35207410306a6cd1f",
+      "bytes": 11434,
+      "sha256": "0ff0c2a3d626fff7f094c912ee01571e7659d75e3e0da3679d8cd38cd1265de7",
       "license": "MIT"
     },
     {
@@ -10140,6 +10166,12 @@
       "path": "tests/test_export.py",
       "bytes": 14792,
       "sha256": "6675d3ed9bdc7661f7ae70d4b05c6d7f8e6b7faf1e5d4c5c834f37b8d4ed1a7c",
+      "license": "MIT"
+    },
+    {
+      "path": "tests/test_external_dialogues.py",
+      "bytes": 13304,
+      "sha256": "981fea68ddde20b0eaf6824421e27735b29195c8084c4b1b3438c92eb52cac7e",
       "license": "MIT"
     },
     {

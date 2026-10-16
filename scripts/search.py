@@ -10,6 +10,7 @@ import math
 import re
 from dataclasses import dataclass
 from pathlib import Path
+from urllib.parse import parse_qs, urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -22,7 +23,7 @@ PROVENANCE_FIELDS = (
     "yuzheng_stance_weight", "attribution_note", "source_family", "source_context",
     "language", "license", "rights_scope",
     "source_video_id", "generated_at", "translation_publication_status", "original_language",
-    "snapshot_at",
+    "snapshot_at", "timestamp_mode",
     "source_visibility", "text_access", "membership_platform", "membership_url",
     "membership_verified_at", "transcript_source_kind", "transcript_quality",
     "speaker_classification",
@@ -64,6 +65,7 @@ class Document:
     translation_publication_status: str = ""
     original_language: str = ""
     snapshot_at: str = ""
+    timestamp_mode: str = ""
     source_visibility: str = ""
     text_access: str = ""
     membership_platform: str = ""
@@ -409,6 +411,7 @@ def load_documents() -> list[Document]:
         ("videos.jsonl", "video-catalog"),
         ("english-community.jsonl", "english-community-catalog"),
         ("english-translations.jsonl", "video-translation-catalog"),
+        ("guest-appearances.jsonl", "guest-appearance-catalog"),
     ):
         path = ROOT / "catalog" / catalog_name
         if not path.is_file():
@@ -417,6 +420,13 @@ def load_documents() -> list[Document]:
             row = json.loads(line)
             if row["id"] in full_ids:
                 continue
+            fields = provenance_fields(row)
+            catalog_text = " ".join(row.get("guest_names") or [])
+            if source_type == "guest-appearance-catalog":
+                fields.update(data_layer="structured", speaker_id="", speaker_name="", speaker_status="not-speech",
+                              content_origin="metadata-only", evidence_role="metadata-only", yuzheng_stance_weight="not-evidence")
+                catalog_text = " ".join([str(row.get("show") or ""), *[
+                    str(person.get("speaker_name") or "") for person in row.get("participants", [])]])
             docs.append(
                 Document(
                     id=row["id"],
@@ -426,10 +436,10 @@ def load_documents() -> list[Document]:
                     source_type=source_type,
                     source_url=row.get("url", ""),
                     published_at=row.get("published_at") or "",
-                    text=" ".join(row.get("guest_names") or []),
+                    text=catalog_text,
                     path=str(path.relative_to(ROOT)),
                     content_status=str(row.get("content_status") or "current"),
-                    **provenance_fields(row),
+                    **fields,
                 )
             )
     docs = apply_guest_catalog(docs)
@@ -456,9 +466,8 @@ def load_documents() -> list[Document]:
 def apply_guest_catalog(documents: list[Document]) -> list[Document]:
     """Join programme participants without changing speech, authorship or stance."""
     path = ROOT / "catalog/guests.json"
-    if not path.is_file():
-        return documents
-    catalog = json.loads(path.read_text(encoding="utf-8"))
+    catalog = (json.loads(path.read_text(encoding="utf-8")) if path.is_file()
+               else {"entities": [], "sources": [], "appearances": []})
     entities = {row["entity_id"]: row for row in catalog["entities"]}
     sources = {row["source_id"]: row for row in catalog["sources"]}
     by_url = {row["url"]: row["source_id"] for row in catalog["sources"]}
@@ -479,6 +488,25 @@ def apply_guest_catalog(documents: list[Document]) -> list[Document]:
             alias for person in people for alias in person["aliases"]
         ))
         doc.participant_metadata_basis = "catalog/guests.json: programme participation"
+    appearance_path = ROOT / "catalog/guest-appearances.jsonl"
+    if appearance_path.is_file():
+        by_source = {}
+        for line in appearance_path.read_text(encoding="utf-8").splitlines():
+            if not line.strip():
+                continue
+            appearance = json.loads(line)
+            by_source[appearance["id"]] = appearance["participants"]
+            if appearance.get("transcript_id"):
+                by_source[appearance["transcript_id"]] = appearance["participants"]
+        for doc in documents:
+            people = by_source.get(doc.source_id)
+            if people is None:
+                continue
+            doc.participant_entity_ids = "；".join(person["speaker_id"] for person in people)
+            doc.participant_names = "；".join(person["speaker_name"] for person in people)
+            doc.participant_aliases = "；".join(dict.fromkeys(
+                name for person in people for name in [person["speaker_name"], *person.get("aliases", []), *person.get("qualifiers", [])]))
+            doc.participant_metadata_basis = "catalog/guest-appearances.jsonl: programme participation"
     return documents
 
 
@@ -508,10 +536,24 @@ def parse_raw_dialogue(path: Path) -> list[Document]:
     if not isinstance(units, list) or not units:
         raise ValueError("Raw dialogue has no source units")
     identity = str(data.get("id") or "")
-    if not identity or not str(data.get("source_url") or "").startswith("https://www.youtube.com/watch?v="):
+    source_url = str(data.get("source_url") or "")
+    parsed_url = urlsplit(source_url)
+    source_type = data.get("source_type", "video-transcript")
+    if (not identity or parsed_url.scheme != "https" or not parsed_url.hostname
+            or parsed_url.username or parsed_url.password or parsed_url.fragment
+            or any(c.isspace() for c in source_url) or "\\" in source_url
+            or source_type not in {"video-transcript", "audio-transcript"}):
         raise ValueError("Raw dialogue source identity is missing")
     source_hash = hashlib.sha256(path.read_bytes()).hexdigest()
-    base_url = str(data["source_url"]).split("&t=", 1)[0]
+    yt_id = None
+    if parsed_url.hostname in {"youtube.com", "www.youtube.com", "m.youtube.com"} and parsed_url.path == "/watch":
+        ids = parse_qs(parsed_url.query).get("v", [])
+        if len(ids) == 1 and re.fullmatch(r"[A-Za-z0-9_-]{11}", ids[0]):
+            yt_id = ids[0]
+    elif parsed_url.hostname == "youtu.be" and re.fullmatch(r"/[A-Za-z0-9_-]{11}/?", parsed_url.path):
+        yt_id = parsed_url.path.strip("/")
+    timed_url = bool(yt_id and data.get("timestamp_mode") != "display-only")
+    base_url = f"https://www.youtube.com/watch?v={yt_id}" if timed_url else source_url
     seen = set()
     for unit in units:
         if (not isinstance(unit, dict) or not isinstance(unit.get("text"), str) or not unit["text"].strip()
@@ -535,7 +577,8 @@ def parse_raw_dialogue(path: Path) -> list[Document]:
     def document(chunk, fields, fragment_id, section=""):
         start = int(chunk[0]["start_seconds"])
         return Document(id=fragment_id, source_id=identity, title=str(data.get("title") or identity),
-                        section=section, source_type="video-transcript", source_url=f"{base_url}&t={start}s",
+                        section=section, source_type=source_type,
+                        source_url=f"{base_url}&t={start}s" if timed_url else base_url,
                         published_at=str(data.get("published_at") or ""), text="\n\n".join(line(u) for u in chunk),
                         path=str(path.relative_to(ROOT)), **fields)
 
@@ -657,7 +700,7 @@ def type_matches(doc: Document, requested: str) -> bool:
     if requested == "all":
         return True
     if requested == "video":
-        return doc.source_type in {"video-transcript", "video-excerpt", "video-annotation", "video-catalog", "video-translation", "video-translation-catalog", "programme-catalog"}
+        return doc.source_type in {"video-transcript", "audio-transcript", "video-excerpt", "video-annotation", "video-catalog", "video-translation", "video-translation-catalog", "programme-catalog", "guest-appearance-catalog"}
     if requested == "knowledge-bank":
         return doc.source_type in {"knowledge-bank", "knowledge-bank-catalog"}
     if requested == "community":

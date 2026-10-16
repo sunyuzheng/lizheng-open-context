@@ -112,6 +112,23 @@ class NameTableTests(unittest.TestCase):
         names = {row["key"]: row for row in derive.name_table(catalog, speakers)["names"]}
         self.assertEqual(names["multifire"]["entity_ids"], ["guest:leon", "guest:lulu"])
 
+    def test_external_namesakes_keep_distinct_ids_without_creating_guest_pages(self):
+        speakers = {"schema_version": 1, "speakers": [{"speaker_id": "yuzheng", "role": "host", "names": ["立正"]}]}
+        appearances = [{"participants": [
+            {"speaker_id": "yuzheng", "speaker_name": "立正"},
+            {"speaker_id": "host:leo-seattle", "speaker_name": "Leo", "aliases": ["Leo Example"],
+             "qualifiers": ["Seattle synthetic radio", "Leo Example"]}]}]
+        before = json.dumps(CATALOG, sort_keys=True)
+        table = derive.name_table(CATALOG, speakers, appearances)
+        names = {row["key"]: row for row in table["names"]}
+        self.assertEqual(names["leo"]["entity_ids"], ["guest:leo-a", "guest:leo-b", "host:leo-seattle"])
+        self.assertEqual(names["leoexample"]["entity_ids"], ["host:leo-seattle"])
+        self.assertEqual([r["name"] for r in table["qualifiers"]["host:leo-seattle"]],
+                         ["Seattle synthetic radio", "Leo Example"])
+        self.assertIn(derive.APPEARANCES, table["generated_from"])
+        self.assertNotIn("立正", {row["key"] for row in table["names"]})
+        self.assertEqual(json.dumps(CATALOG, sort_keys=True), before)
+
 
 class MembershipTests(unittest.TestCase):
     def catalog(self, members, aliases=("Leo & Mandy",)):
