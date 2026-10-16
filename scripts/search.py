@@ -463,8 +463,46 @@ def load_documents() -> list[Document]:
     return docs
 
 
+def appearance_transcript_bindings(appearances: list[dict]) -> dict[str, dict]:
+    """Bind each actual transcript version to one appearance, without copying text.
+
+    Row-level bindings keep their explicit canonical path. Version bindings may
+    omit that derived path; an explicit path must still match the transcript ID.
+    A reused YouTube transcript remains its existing canonical source.
+    """
+    bindings = {}
+    identities = set()
+    for appearance in appearances:
+        if (not isinstance(appearance, dict) or not isinstance(appearance.get("id"), str)
+                or not appearance["id"] or appearance["id"] in identities):
+            raise ValueError("appearance_identity_invalid")
+        identities.add(appearance["id"])
+        versions = appearance.get("source_versions", [])
+        if not isinstance(versions, list) or not all(isinstance(version, dict) for version in versions):
+            raise ValueError("appearance_source_versions_invalid")
+        for index, binding in enumerate([appearance, *versions]):
+            identity = binding.get("transcript_id")
+            if identity is None:
+                if binding.get("transcript_path") is not None:
+                    raise ValueError("appearance_transcript_identity_invalid")
+                continue
+            if (not isinstance(identity, str)
+                    or not re.fullmatch(r"(?:dialogue-[a-z0-9][a-z0-9._-]*|youtube-[A-Za-z0-9_-]{11})", identity)):
+                raise ValueError("appearance_transcript_identity_invalid")
+            expected_path = f"corpus/dialogues/{identity}.json"
+            if (index == 0 or "transcript_path" in binding) and binding.get("transcript_path") != expected_path:
+                raise ValueError("appearance_transcript_identity_invalid")
+            if identity in bindings and bindings[identity]["id"] != appearance["id"]:
+                raise ValueError("appearance_transcript_appearance_conflict")
+            bindings[identity] = appearance
+    for identity, appearance in bindings.items():
+        if identity in identities and identity != appearance["id"]:
+            raise ValueError("appearance_transcript_appearance_conflict")
+    return bindings
+
+
 def apply_guest_catalog(documents: list[Document]) -> list[Document]:
-    """Join programme participants without changing speech, authorship or stance."""
+    """Join participants and edition families without changing version provenance."""
     path = ROOT / "catalog/guests.json"
     catalog = (json.loads(path.read_text(encoding="utf-8")) if path.is_file()
                else {"entities": [], "sources": [], "appearances": []})
@@ -490,17 +528,20 @@ def apply_guest_catalog(documents: list[Document]) -> list[Document]:
         doc.participant_metadata_basis = "catalog/guests.json: programme participation"
     appearance_path = ROOT / "catalog/guest-appearances.jsonl"
     if appearance_path.is_file():
-        by_source = {}
-        for line in appearance_path.read_text(encoding="utf-8").splitlines():
-            if not line.strip():
-                continue
-            appearance = json.loads(line)
-            by_source[appearance["id"]] = appearance["participants"]
-            if appearance.get("transcript_id"):
-                by_source[appearance["transcript_id"]] = appearance["participants"]
+        appearances = [json.loads(line) for line in appearance_path.read_text(encoding="utf-8").splitlines() if line.strip()]
+        by_source = {appearance["id"]: appearance for appearance in appearances}
+        by_source.update(appearance_transcript_bindings(appearances))
         for doc in documents:
-            people = by_source.get(doc.source_id)
-            if people is None:
+            appearance = by_source.get(doc.source_id)
+            if appearance is None:
+                continue
+            # These are editions of one recorded appearance, not independent
+            # supporting evidence. Each edition keeps its URL, time and rights.
+            doc.source_family = appearance["id"]
+            people = appearance["participants"]
+            if doc.participant_metadata_basis == "catalog/guests.json: programme participation":
+                # An external listing may reuse our existing source, but cannot
+                # replace that programme's established guest identities.
                 continue
             doc.participant_entity_ids = "；".join(person["speaker_id"] for person in people)
             doc.participant_names = "；".join(person["speaker_name"] for person in people)

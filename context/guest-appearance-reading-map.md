@@ -128,3 +128,39 @@ Ashley赞许他平衡创业和家庭时，他没有认领“什么都兼顾得�
 另一个区别是服务依附什么产品。在谈到其他访谈时，他转述了能改核心production代码的FDE模式，再追问国内服务团队是否真有同等权限与产品基础。原稿中的微软收入占比、订单金额等数字保留为个人口述，不在这里当成已独立核实的市场统计。这里整理的是一份带日期的商业判断，不是已经确定的行业终局。
 
 检索线索：FDE、咨询、企业AI落地、付费意愿、软件服务、岗位包装、商业模式、production。
+
+<!-- legacy-podcast-notes:start -->
+
+## 既有23期：逐期阅读笔记
+
+下面按节目回到原稿与单独的AI提炼。节目元数据和校后字幕分别保存在`catalog/`与`corpus/`，提炼不会回写成原话。不同版本按同一做客记录关联，引用仍使用各自URL与时间轴。
+
+| 发表日期 | 节目 | 阅读笔记 | 原稿 |
+|---|---|---|---|
+| 2026-06-23 | 屠龙大实话 | [阅读笔记](guest-podcast-6a3a1a139d2f5743683c5833.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-6a3a1a139d2f5743683c5833.json) |
+| 2026-06-10 | 十字路口 Crossing | [阅读笔记](guest-podcast-6a275ed57444b5722235a897.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-6a275ed57444b5722235a897.json) |
+| 2026-05-24 | The Build Log | [阅读笔记](guest-podcast-6a135fde2507d98728e967e4.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-6a135fde2507d98728e967e4.json) |
+| 2026-05-21 | Grad Lounge 不止学术 | [阅读笔记](guest-podcast-6a0efed2fe904f38739093d9.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-6a0efed2fe904f38739093d9.json) |
+| 2026-05-09 | Talk to JANE｜对话身边的人 | [阅读笔记](guest-podcast-69fe3dcce1eb34a93902ac3c.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-69fe3dcce1eb34a93902ac3c.json) |
+| 2026-04-23 | AI炼金术 | [阅读笔记](guest-podcast-69ea11c5824bf96fa14802c9.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-69ea11c5824bf96fa14802c9.json) |
+| 2026-04-20 | The Wanderers 流浪者 | [阅读笔记](guest-podcast-69e5d0661d989496e70ccc2e.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-69e5d0661d989496e70ccc2e.json) |
+| 2026-04-07 | INDIGO TALK | [阅读笔记](guest-podcast-69d3dbb3b977fb2c473d2a7e.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-69d3dbb3b977fb2c473d2a7e.json) |
+| 2026-03-30 | 人民公园说AI | [阅读笔记](guest-podcast-69c7d350b977fb2c4774e5e8.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-69c7d350b977fb2c4774e5e8.json) |
+| 2026-03-26 | 创见｜对话顶级创投大脑 | [阅读笔记](guest-podcast-69c511da852cf1b8bb01e246.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-69c511da852cf1b8bb01e246.json) |
+| 2026-03-10 | 牛油果烤面包 | [阅读笔记](guest-podcast-69af96999e77d8f89f26350d.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-69af96999e77d8f89f26350d.json) |
+| 2026-02-26 | 在路上｜ON THE ROAD | [阅读笔记](guest-podcast-699fa41266e2c303776dcfa9.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-699fa41266e2c303776dcfa9.json) |
+| 2025-12-21 | 破壁圆桌 | [阅读笔记](guest-podcast-6947c9a19f70e5d6b3795ff5.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-6947c9a19f70e5d6b3795ff5.json) |
+| 2025-11-17 | 小火车商业进化论 | [阅读笔记](guest-podcast-691a7452d9014ae7a20f20d2.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-691a7452d9014ae7a20f20d2.json) |
+| 2025-10-13 | StellaxAmy·自定义 | [阅读笔记](guest-podcast-68ec746b1b46b7597d496852.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-68ec746b1b46b7597d496852.json) |
+| 2025-10-05 | 佐治亚小帅｜北美华人故事访谈 | [阅读笔记](guest-podcast-68e2ec149c0fb097394606a9.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-68e2ec149c0fb097394606a9.json) |
+| 2025-06-10 | 硅谷101 | [阅读笔记](guest-podcast-684775cbcdecf72d4ca2fcc5.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-684775cbcdecf72d4ca2fcc5.json) |
+| 2025-04-22 | The Build Log | [阅读笔记](guest-podcast-680746bf1f1db84a56df257b.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-680746bf1f1db84a56df257b.json) |
+| 2025-03-06 | INDIGO TALK | [阅读笔记](guest-podcast-67ca084fe924d4525ad0db95.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-67ca084fe924d4525ad0db95.json) |
+| 2024-11-09 | 王路在隐身 | [阅读笔记](guest-podcast-672ed4ed43dc3a43872d1361.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-672ed4ed43dc3a43872d1361.json) |
+| 2023-04-14 | 商业 WHY 酱 | [阅读笔记](guest-podcast-643926bdb41b2b266b5962cf.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-643926bdb41b2b266b5962cf.json) |
+| 2023-02-22 | What’s Next｜科技早知道 | [阅读笔记](guest-podcast-63f5f66e1324e63d1259b079.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-63f5f66e1324e63d1259b079.json) |
+| 2020-12-14 | 随机漫谈 Random Talk | [阅读笔记](guest-podcast-5fd6d39fdee9c1e16d53932a.md) | [校后字幕](../corpus/dialogues/dialogue-xiaoyuzhou-5fd6d39fdee9c1e16d53932a.json) |
+
+校对阶段为AI全文文字核校与按词对齐，尚未获真人逐句听校认证。待核状态不会因入库而清除；具体差异见[版本与质量核对](../docs/guest-podcasts-2026-10-audit.md)。
+
+<!-- legacy-podcast-notes:end -->

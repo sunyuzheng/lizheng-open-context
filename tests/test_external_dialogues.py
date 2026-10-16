@@ -221,6 +221,163 @@ class ExternalDialogueTests(unittest.TestCase):
         (self.root / "catalog/guest-appearances.jsonl").write_text(json.dumps(row) + "\n")
         self.assertIn("participant_names_invalid", self.check()[1][0])
 
+    def test_split_versions_join_every_source_without_assigning_speech_or_copying_documents(self):
+        row = self.appearance()
+        second_id = "dialogue-synthetic-second-half"
+        second_path = self.path.with_name(second_id + ".json")
+        second = copy.deepcopy(self.data)
+        second.update(id=second_id, source_url="https://example.org/recording/second-half",
+                      source_family="https://example.org/recording/second-half")
+        second_path.write_text(json.dumps(second))
+        row["source_versions"] = [{"transcript_id": SOURCE}, {"transcript_id": second_id},
+                                  {"transcript_id": SOURCE, "transcript_path": self.row["corpus_path"]}]
+        (self.root / "catalog/guest-appearances.jsonl").write_text(json.dumps(row) + "\n")
+        self.assertEqual(set(guests.appearance_participants(self.root)), {SOURCE, second_id})
+        previous = search.ROOT
+        search.ROOT = self.root
+        try:
+            before = {path: path.read_bytes() for path in (self.path, second_path)}
+            docs = search.load_documents()
+            raw = [doc for doc in docs if doc.data_layer == "raw"]
+            self.assertEqual(len(docs), 3)  # two existing raw files + one metadata record
+            self.assertEqual({doc.source_family for doc in docs}, {row['id']})
+            self.assertEqual({doc.source_id for doc in raw}, {SOURCE, second_id})
+            self.assertEqual(len({doc.id for doc in docs}), len(docs))
+            for doc in raw:
+                self.assertEqual(doc.participant_entity_ids, "yuzheng；host:synthetic")
+                self.assertEqual((doc.speaker_id, doc.speaker_name, doc.speaker_status), ("unknown", "", "unresolved"))
+                self.assertEqual(doc.yuzheng_stance_weight, "not-evidence")
+                self.assertEqual(doc.timestamp_mode, "display-only")
+                self.assertNotIn("&t=", doc.source_url)
+            self.assertEqual({path: path.read_bytes() for path in before}, before)
+        finally:
+            search.ROOT = previous
+
+    def test_version_only_bindings_keep_reviewed_external_participants(self):
+        self.reviewed()
+        row = self.appearance()
+        row.pop("transcript_id"); row.pop("transcript_path")
+        row["source_versions"] = [{"transcript_id": SOURCE}]
+        (self.root / "catalog/guest-appearances.jsonl").write_text(json.dumps(row) + "\n")
+        self.assertEqual(self.check()[1], [])
+        self.assertEqual(guests.appearance_participants(self.root)[SOURCE]["host:synthetic"], "Synthetic host")
+
+    def test_transcript_binding_rejects_bad_ids_paths_and_cross_appearance_conflicts(self):
+        row = self.appearance()
+        invalid = [
+            {"source_versions": {}}, {"source_versions": ["not-an-object"]},
+            {"source_versions": [{"transcript_path": self.row["corpus_path"]}]},
+            {"source_versions": [{"transcript_id": "dialogue-../escape"}]},
+            {"source_versions": [{"transcript_id": "youtube-too-short"}]},
+            {"source_versions": [{"transcript_id": SOURCE, "transcript_path": "/" + self.row["corpus_path"]}]},
+            {"source_versions": [{"transcript_id": SOURCE, "transcript_path": f"corpus/dialogues/../{SOURCE}.json"}]},
+            {"source_versions": [{"transcript_id": SOURCE, "transcript_path": None}]},
+            {"transcript_path": f"corpus/dialogues/dialogue-other.json"},
+            {"transcript_path": None},
+        ]
+        for change in invalid:
+            with self.subTest(change=change):
+                with self.assertRaises(ValueError):
+                    search.appearance_transcript_bindings([{**row, **change}])
+        another = {**row, "id": "appearance-other"}
+        with self.assertRaisesRegex(ValueError, "appearance_conflict"):
+            search.appearance_transcript_bindings([row, another])
+        another.pop("transcript_id"); another.pop("transcript_path")
+        another["source_versions"] = [{"transcript_id": SOURCE}]
+        with self.assertRaisesRegex(ValueError, "appearance_conflict"):
+            search.appearance_transcript_bindings([row, another])
+        row.pop("transcript_path")
+        with self.assertRaisesRegex(ValueError, "transcript_identity_invalid"):
+            search.appearance_transcript_bindings([row])
+
+    def test_reused_youtube_version_keeps_canonical_guest_identity_and_single_transcript(self):
+        youtube_id = "youtube-ABCDEFGHIJK"
+        youtube_path = self.path.with_name(youtube_id + ".json")
+        self.data.update(id=youtube_id, video_id="ABCDEFGHIJK",
+                         source_url="https://www.youtube.com/watch?v=ABCDEFGHIJK",
+                         source_family="https://www.youtube.com/watch?v=ABCDEFGHIJK")
+        youtube_path.write_text(json.dumps(self.data)); self.path.unlink()
+        row = self.appearance()
+        row.pop("transcript_id"); row.pop("transcript_path")
+        row["source_versions"] = [{"transcript_id": youtube_id}, {"transcript_id": youtube_id}]
+        (self.root / "catalog/guest-appearances.jsonl").write_text(json.dumps(row) + "\n")
+        own = {"entities": [{"entity_id": "guest:canonical", "display_name": "Canonical guest", "aliases": ["Own alias"]}],
+               "sources": [{"source_id": youtube_id, "url": self.data["source_url"], "title": "Canonical source"}],
+               "appearances": [{"source_id": youtube_id, "entity_id": "guest:canonical"}]}
+        (self.root / "catalog/guests.json").write_text(json.dumps(own))
+        self.assertEqual(set(guests.appearance_participants(self.root)), {youtube_id})
+        previous = search.ROOT
+        search.ROOT = self.root
+        try:
+            docs = search.load_documents()
+            self.assertEqual(len(docs), 2)
+            raw, = [doc for doc in docs if doc.data_layer == "raw"]
+            self.assertEqual(raw.participant_entity_ids, "guest:canonical")
+            self.assertEqual(raw.participant_names, "Canonical guest")
+            self.assertEqual(raw.participant_aliases, "Own alias")
+            self.assertEqual({doc.source_family for doc in docs}, {row['id']})
+            self.assertEqual((raw.speaker_id, raw.speaker_name), ("unknown", ""))
+            self.assertNotIn("&t=", raw.source_url)  # retained display-only mode
+            metadata, = [doc for doc in docs if doc.source_type == "guest-appearance-catalog"]
+            self.assertEqual(metadata.participant_entity_ids, "yuzheng；host:synthetic")
+            self.assertEqual(len(own["entities"]), 1)
+        finally:
+            search.ROOT = previous
+
+    def test_markdown_youtube_and_external_editions_share_family_not_version_provenance(self):
+        youtube_id='youtube-ABCDEFGHIJK';youtube_url='https://www.youtube.com/watch?v=ABCDEFGHIJK'
+        markdown=self.root/'corpus/videos/synthetic.md';markdown.parent.mkdir()
+        meta={'id':youtube_id,'title':'Synthetic family probe','source_type':'video-transcript',
+              'source_url':youtube_url,'source_family':youtube_url,'published_at':'2026-09-25',
+              'data_layer':'raw','speaker_id':'unknown','speaker_status':'unresolved',
+              'license':'LicenseRef-Lizheng-Reference-Use-1.0','rights_scope':'first-party',
+              'source_visibility':'members-only','text_access':'public','timestamp_mode':'youtube'}
+        markdown.write_text('---\n'+'\n'.join(f'{key}: {json.dumps(value)}' for key,value in meta.items())
+                            +'\n---\n\n[00:02:03]('+youtube_url+'&t=123s) Synthetic family probe exact speech.')
+        self.data['units'][0]['text']='Synthetic family probe exact speech.';self.save()
+        row=self.appearance();row['source_versions']=[{'transcript_id':youtube_id},{'transcript_id':SOURCE}]
+        catalog=self.root/'catalog/guest-appearances.jsonl';catalog.write_text(json.dumps(row)+'\n')
+        previous=search.ROOT;search.ROOT=self.root
+        try:
+            originals={d.id:vars(d).copy() for d in [*search.parse_markdown(markdown),*search.parse_raw_dialogue(self.path)]}
+            before={path:path.read_bytes() for path in (markdown,self.path,catalog)}
+            docs=search.load_documents();raw=[doc for doc in docs if doc.data_layer=='raw']
+            self.assertEqual({doc.source_id for doc in raw},{youtube_id,SOURCE})
+            self.assertEqual({doc.source_family for doc in docs},{row['id']})
+            mutable={'source_family','participant_entity_ids','participant_names','participant_aliases','participant_metadata_basis'}
+            for doc in raw:
+                self.assertEqual({k:v for k,v in vars(doc).items() if k not in mutable},
+                                 {k:v for k,v in originals[doc.id].items() if k not in mutable})
+            yt=next(doc for doc in raw if doc.source_id==youtube_id)
+            self.assertEqual(yt.source_url,youtube_url+'&t=123s')
+            self.assertEqual((yt.license,yt.source_visibility,yt.text_access),
+                             (meta['license'],'members-only','public'))
+            results=search.search_documents(raw,'Synthetic family probe',top=10)
+            self.assertEqual(len(results),1)
+            self.assertEqual(results[0]['source_family'],row['id'])
+            search.apply_guest_catalog(docs)
+            self.assertEqual({doc.source_family for doc in docs},{row['id']})
+            self.assertEqual({path:path.read_bytes() for path in before},before)
+        finally:search.ROOT=previous
+
+    def test_distinct_appearances_never_merge_by_shared_url_or_text(self):
+        row=self.appearance();other_id='dialogue-synthetic-other'
+        other=copy.deepcopy(self.data);other['id']=other_id
+        other_path=self.path.with_name(other_id+'.json');other_path.write_text(json.dumps(other))
+        other_row={**row,'id':'appearance-other','transcript_id':other_id,
+                   'transcript_path':f'corpus/dialogues/{other_id}.json'}
+        catalog=self.root/'catalog/guest-appearances.jsonl'
+        catalog.write_text(json.dumps(row)+'\n'+json.dumps(other_row)+'\n')
+        previous=search.ROOT;search.ROOT=self.root
+        try:
+            docs=search.load_documents();raw=[doc for doc in docs if doc.data_layer=='raw']
+            self.assertEqual({doc.source_family for doc in raw},{row['id'],other_row['id']})
+            self.assertEqual(len(search.search_documents(raw,'Synthetic exact speech',top=10)),2)
+            other_row.update(transcript_id=SOURCE,transcript_path=self.row['corpus_path'])
+            catalog.write_text(json.dumps(row)+'\n'+json.dumps(other_row)+'\n')
+            with self.assertRaisesRegex(ValueError,'appearance_conflict'):search.load_documents()
+        finally:search.ROOT=previous
+
     def test_actual_youtube_sources_keep_timing_but_other_hosts_never_gain_it(self):
         self.data.pop("timestamp_mode")
         self.data["source_url"] = "https://www.youtube.com/watch?v=ABCDEFGHIJK"

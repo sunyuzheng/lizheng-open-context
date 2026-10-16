@@ -67,6 +67,16 @@
   ],
   "names": [
     {
+      "name": "Amy",
+      "key": "amy",
+      "entity_ids": [
+        "host:amy"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "Angelina Yang",
       "key": "angelinayang",
       "entity_ids": [
@@ -196,6 +206,16 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "Cat",
+      "key": "cat",
+      "entity_ids": [
+        "host:cat-avocado"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -386,6 +406,16 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "Daniel",
+      "key": "daniel",
+      "entity_ids": [
+        "host:daniel-zailushang"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -589,6 +619,16 @@
       ]
     },
     {
+      "name": "Gillian",
+      "key": "gillian",
+      "entity_ids": [
+        "host:gillian"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "Guang",
       "key": "guang",
       "entity_ids": [
@@ -689,13 +729,45 @@
       ]
     },
     {
+      "name": "Howie Xu（硅谷徐老师）",
+      "key": "howiexu硅谷徐老师",
+      "entity_ids": [
+        "guest:howie-xu"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "Indigo",
       "key": "indigo",
       "entity_ids": [
-        "guest:indigo"
+        "guest:indigo",
+        "host:indigo"
       ],
       "kinds": [
-        "display"
+        "display",
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "Jane",
+      "key": "jane",
+      "entity_ids": [
+        "host:jane-jin"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "Jason",
+      "key": "jason",
+      "entity_ids": [
+        "host:jason-wanderers"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -792,11 +864,13 @@
       "name": "Joe",
       "key": "joe",
       "entity_ids": [
-        "guest:joe-wenbo"
+        "guest:joe-wenbo",
+        "host:joe-xiaohuoche"
       ],
       "kinds": [
         "display",
-        "base"
+        "base",
+        "appearance-participant"
       ]
     },
     {
@@ -883,11 +957,13 @@
       "name": "Koji",
       "key": "koji",
       "entity_ids": [
-        "guest:koji-and-monica"
+        "guest:koji-and-monica",
+        "host:koji-yang"
       ],
       "kinds": [
         "alias",
-        "member"
+        "member",
+        "appearance-participant"
       ]
     },
     {
@@ -899,6 +975,16 @@
       "kinds": [
         "display",
         "alias"
+      ]
+    },
+    {
+      "name": "Kolento",
+      "key": "kolento",
+      "entity_ids": [
+        "guest:kolento"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -1087,6 +1173,16 @@
       ]
     },
     {
+      "name": "Lumi",
+      "key": "lumi",
+      "entity_ids": [
+        "host:lumi-pobi"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "Luo Chaoyuan",
       "key": "luochaoyuan",
       "entity_ids": [
@@ -1144,6 +1240,16 @@
       ],
       "kinds": [
         "alias"
+      ]
+    },
+    {
+      "name": "Mars任鑫",
+      "key": "mars任鑫",
+      "entity_ids": [
+        "host:ren-xin"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -1363,10 +1469,12 @@
       "name": "Rachel",
       "key": "rachel",
       "entity_ids": [
-        "guest:wang-ran"
+        "guest:wang-ran",
+        "host:rachel-suiji"
       ],
       "kinds": [
-        "alias"
+        "alias",
+        "appearance-participant"
       ]
     },
     {
@@ -1463,10 +1571,12 @@
       "name": "Sean",
       "key": "sean",
       "entity_ids": [
-        "guest:sean"
+        "guest:sean",
+        "host:sean-avocado"
       ],
       "kinds": [
-        "alias"
+        "alias",
+        "appearance-participant"
       ]
     },
     {
@@ -1550,6 +1660,16 @@
       ]
     },
     {
+      "name": "Sophie",
+      "key": "sophie",
+      "entity_ids": [
+        "host:sophie-sv101"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "Stacy Li",
       "key": "stacyli",
       "entity_ids": [
@@ -1557,6 +1677,16 @@
       ],
       "kinds": [
         "alias"
+      ]
+    },
+    {
+      "name": "Stella",
+      "key": "stella",
+      "entity_ids": [
+        "host:stella"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -1691,6 +1821,16 @@
       ]
     },
     {
+      "name": "Thomas",
+      "key": "thomas",
+      "entity_ids": [
+        "host:thomas-xiaohuoche"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "Tianqiang Liu",
       "key": "tianqiangliu",
       "entity_ids": [
@@ -1754,10 +1894,12 @@
       "name": "Tu Wang",
       "key": "tuwang",
       "entity_ids": [
-        "guest:tu-wang"
+        "guest:tu-wang",
+        "host:tuwang"
       ],
       "kinds": [
-        "alias"
+        "alias",
+        "appearance-participant"
       ]
     },
     {
@@ -1798,6 +1940,16 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "Vincent",
+      "key": "vincent",
+      "entity_ids": [
+        "host:vincent-lu"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -1967,7 +2119,8 @@
         "guest:ya-ge"
       ],
       "kinds": [
-        "alias"
+        "alias",
+        "appearance-participant"
       ]
     },
     {
@@ -2051,6 +2204,16 @@
       ]
     },
     {
+      "name": "Zeyuan",
+      "key": "zeyuan",
+      "entity_ids": [
+        "host:zeyuan"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "Zhang Guoqi",
       "key": "zhangguoqi",
       "entity_ids": [
@@ -2101,6 +2264,16 @@
       ]
     },
     {
+      "name": "Zhou Yu",
+      "key": "zhouyu",
+      "entity_ids": [
+        "guest:yu-zhou"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "Zou Xin",
       "key": "zouxin",
       "entity_ids": [
@@ -2108,6 +2281,56 @@
       ],
       "kinds": [
         "alias"
+      ]
+    },
+    {
+      "name": "丁教（Diane）",
+      "key": "丁教diane",
+      "entity_ids": [
+        "host:diane-dingjiao"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "丹尼尔",
+      "key": "丹尼尔",
+      "entity_ids": [
+        "host:daniel-zailushang"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "乔",
+      "key": "乔",
+      "entity_ids": [
+        "host:joe-xiaohuoche"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "任老师",
+      "key": "任老师",
+      "entity_ids": [
+        "host:ren-laoshi-suiji"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "任鑫",
+      "key": "任鑫",
+      "entity_ids": [
+        "host:ren-xin"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -2138,6 +2361,16 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "俞舟",
+      "key": "俞舟",
+      "entity_ids": [
+        "guest:yu-zhou"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -2218,6 +2451,16 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "刘灿",
+      "key": "刘灿",
+      "entity_ids": [
+        "host:liu-can"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -2356,10 +2599,32 @@
       "name": "土汪",
       "key": "土汪",
       "entity_ids": [
-        "guest:tu-wang"
+        "guest:tu-wang",
+        "host:tuwang"
       ],
       "kinds": [
-        "display"
+        "display",
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "子鱼",
+      "key": "子鱼",
+      "entity_ids": [
+        "host:zi-yu-pobi"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "孔蓉",
+      "key": "孔蓉",
+      "entity_ids": [
+        "guest:kong-rong"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -2393,6 +2658,26 @@
       ]
     },
     {
+      "name": "小帅",
+      "key": "小帅",
+      "entity_ids": [
+        "host:xiaoshuai"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "小苏",
+      "key": "小苏",
+      "entity_ids": [
+        "host:xiaosu-justsayai"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "小露",
       "key": "小露",
       "entity_ids": [
@@ -2400,6 +2685,26 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "尚莞迪（Lydia）",
+      "key": "尚莞迪lydia",
+      "entity_ids": [
+        "host:lydia-shang"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "屠龙",
+      "key": "屠龙",
+      "entity_ids": [
+        "guest:yang-ying"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -2453,6 +2758,36 @@
       ]
     },
     {
+      "name": "托马斯",
+      "key": "托马斯",
+      "entity_ids": [
+        "host:thomas-xiaohuoche"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "新琦",
+      "key": "新琦",
+      "entity_ids": [
+        "guest:xinqi"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "易然",
+      "key": "易然",
+      "entity_ids": [
+        "host:yi-ran-wanderers"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "星瞳",
       "key": "星瞳",
       "entity_ids": [
@@ -2471,6 +2806,26 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "晓音",
+      "key": "晓音",
+      "entity_ids": [
+        "guest:qu-xiaoyin"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "曲晓音",
+      "key": "曲晓音",
+      "entity_ids": [
+        "guest:qu-xiaoyin"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -2514,6 +2869,16 @@
       ]
     },
     {
+      "name": "李泽宇",
+      "key": "李泽宇",
+      "entity_ids": [
+        "host:li-zeyu"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "杜磊",
       "key": "杜磊",
       "entity_ids": [
@@ -2550,7 +2915,8 @@
         "guest:yang-ying"
       ],
       "kinds": [
-        "base"
+        "base",
+        "appearance-participant"
       ]
     },
     {
@@ -2560,7 +2926,28 @@
         "guest:yang-ying"
       ],
       "kinds": [
-        "display"
+        "display",
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "杨轩",
+      "key": "杨轩",
+      "entity_ids": [
+        "host:yang-xuan-shengfm"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "杨远骋",
+      "key": "杨远骋",
+      "entity_ids": [
+        "host:koji-yang"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -2791,7 +3178,8 @@
         "guest:wang-lu"
       ],
       "kinds": [
-        "display"
+        "display",
+        "appearance-participant"
       ]
     },
     {
@@ -2862,6 +3250,16 @@
       ],
       "kinds": [
         "display"
+      ]
+    },
+    {
+      "name": "老修",
+      "key": "老修",
+      "entity_ids": [
+        "host:laoxiu-justsayai"
+      ],
+      "kinds": [
+        "appearance-participant"
       ]
     },
     {
@@ -3075,6 +3473,36 @@
       ]
     },
     {
+      "name": "闲哥",
+      "key": "闲哥",
+      "entity_ids": [
+        "host:xiange-justsayai"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "闵可锐",
+      "key": "闵可锐",
+      "entity_ids": [
+        "guest:min-kerui"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
+      "name": "阿丹",
+      "key": "阿丹",
+      "entity_ids": [
+        "host:daniel-zailushang"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "陈哲",
       "key": "陈哲",
       "entity_ids": [
@@ -3177,6 +3605,16 @@
       ]
     },
     {
+      "name": "高宁",
+      "key": "高宁",
+      "entity_ids": [
+        "guest:gao-ning"
+      ],
+      "kinds": [
+        "appearance-participant"
+      ]
+    },
+    {
       "name": "高寒 Cadence Gao",
       "key": "高寒cadencegao",
       "entity_ids": [
@@ -3203,7 +3641,8 @@
         "guest:ya-ge"
       ],
       "kinds": [
-        "display"
+        "display",
+        "appearance-participant"
       ]
     },
     {
@@ -3428,6 +3867,12 @@
         "key": "征友自述"
       }
     ],
+    "guest:gao-ning": [
+      {
+        "name": "Linkloud",
+        "key": "linkloud"
+      }
+    ],
     "guest:gelsang-zeren": [
       {
         "name": "四川大学",
@@ -3486,6 +3931,10 @@
       {
         "name": "GEN",
         "key": "gen"
+      },
+      {
+        "name": "科技早知道圆桌",
+        "key": "科技早知道圆桌"
       }
     ],
     "guest:indigo": [
@@ -3578,6 +4027,12 @@
       {
         "name": "Onboard",
         "key": "onboard"
+      }
+    ],
+    "guest:kong-rong": [
+      {
+        "name": "节目官方列名圆桌嘉宾，不据此推断具体发言",
+        "key": "节目官方列名圆桌嘉宾不据此推断具体发言"
       }
     ],
     "guest:lao-mao": [
@@ -3706,6 +4161,12 @@
         "key": "conviction"
       }
     ],
+    "guest:min-kerui": [
+      {
+        "name": "秘塔科技",
+        "key": "秘塔科技"
+      }
+    ],
     "guest:mu-tong": [
       {
         "name": "喀什喆啡酒店",
@@ -3740,6 +4201,12 @@
       {
         "name": "Microsoft (Former)",
         "key": "microsoftformer"
+      }
+    ],
+    "guest:qu-xiaoyin": [
+      {
+        "name": "HeyBoss AI",
+        "key": "heybossai"
       }
     ],
     "guest:reynold-xin": [
@@ -3914,6 +4381,12 @@
         "key": "palpayformer平安"
       }
     ],
+    "guest:wang-lu": [
+      {
+        "name": "王路在隐身",
+        "key": "王路在隐身"
+      }
+    ],
     "guest:wang-ran": [
       {
         "name": "课程格子",
@@ -3962,6 +4435,12 @@
         "key": "虚拟角色"
       }
     ],
+    "guest:xinqi": [
+      {
+        "name": "此处也生活",
+        "key": "此处也生活"
+      }
+    ],
     "guest:xiong-li": [
       {
         "name": "Databricks",
@@ -3978,6 +4457,10 @@
       {
         "name": "屠龙大实话",
         "key": "屠龙大实话"
+      },
+      {
+        "name": "屠龙大实话主理人；串台互访中的主要受访者",
+        "key": "屠龙大实话主理人串台互访中的主要受访者"
       }
     ],
     "guest:yangqing-jia": [
@@ -4000,6 +4483,10 @@
       {
         "name": "Arklex",
         "key": "arklex"
+      },
+      {
+        "name": "Arklex.AI",
+        "key": "arklexai"
       }
     ],
     "guest:yujian": [
@@ -4048,6 +4535,52 @@
         "key": "ashleyqi"
       }
     ],
+    "host:cat-avocado": [
+      {
+        "name": "牛油果烤面包",
+        "key": "牛油果烤面包"
+      }
+    ],
+    "host:daniel-zailushang": [
+      {
+        "name": "在路上",
+        "key": "在路上"
+      }
+    ],
+    "host:diane-dingjiao": [
+      {
+        "name": "节目片头片尾",
+        "key": "节目片头片尾"
+      }
+    ],
+    "host:gillian": [
+      {
+        "name": "Grad Lounge 不止学术",
+        "key": "gradlounge不止学术"
+      }
+    ],
+    "host:indigo": [
+      {
+        "name": "Indigo Talk",
+        "key": "indigotalk"
+      },
+      {
+        "name": "数字镜像",
+        "key": "数字镜像"
+      }
+    ],
+    "host:jane-jin": [
+      {
+        "name": "Talk to JANE｜对话身边的人主持人",
+        "key": "talktojane对话身边的人主持人"
+      }
+    ],
+    "host:jason-wanderers": [
+      {
+        "name": "The Wanderers",
+        "key": "thewanderers"
+      }
+    ],
     "host:jeremy-zhou": [
       {
         "name": "破局点",
@@ -4056,6 +4589,144 @@
       {
         "name": "TURNING POINT",
         "key": "turningpoint"
+      }
+    ],
+    "host:joe-xiaohuoche": [
+      {
+        "name": "小火车商业进化论",
+        "key": "小火车商业进化论"
+      }
+    ],
+    "host:koji-yang": [
+      {
+        "name": "十字路口Crossing",
+        "key": "十字路口crossing"
+      }
+    ],
+    "host:laoxiu-justsayai": [
+      {
+        "name": "人民公园说AI",
+        "key": "人民公园说ai"
+      },
+      {
+        "name": "JustSayAI",
+        "key": "justsayai"
+      }
+    ],
+    "host:li-zeyu": [
+      {
+        "name": "天风海外分析师",
+        "key": "天风海外分析师"
+      }
+    ],
+    "host:liu-can": [
+      {
+        "name": "节目片头片尾",
+        "key": "节目片头片尾"
+      }
+    ],
+    "host:lydia-shang": [
+      {
+        "name": "创见 Build Up",
+        "key": "创见buildup"
+      }
+    ],
+    "host:rachel-suiji": [
+      {
+        "name": "随机漫谈",
+        "key": "随机漫谈"
+      }
+    ],
+    "host:ren-laoshi-suiji": [
+      {
+        "name": "随机漫谈",
+        "key": "随机漫谈"
+      }
+    ],
+    "host:sean-avocado": [
+      {
+        "name": "牛油果烤面包",
+        "key": "牛油果烤面包"
+      }
+    ],
+    "host:sophie-sv101": [
+      {
+        "name": "硅谷101",
+        "key": "硅谷101"
+      }
+    ],
+    "host:thomas-xiaohuoche": [
+      {
+        "name": "小火车商业进化论",
+        "key": "小火车商业进化论"
+      }
+    ],
+    "host:tuwang": [
+      {
+        "name": "The Build Log",
+        "key": "thebuildlog"
+      },
+      {
+        "name": "编译日志",
+        "key": "编译日志"
+      }
+    ],
+    "host:vincent-lu": [
+      {
+        "name": "The Wanderers",
+        "key": "thewanderers"
+      }
+    ],
+    "host:xiange-justsayai": [
+      {
+        "name": "人民公园说AI",
+        "key": "人民公园说ai"
+      },
+      {
+        "name": "JustSayAI",
+        "key": "justsayai"
+      }
+    ],
+    "host:xiaoshuai": [
+      {
+        "name": "佐治亚小帅",
+        "key": "佐治亚小帅"
+      },
+      {
+        "name": "Asian Answers",
+        "key": "asiananswers"
+      }
+    ],
+    "host:xiaosu-justsayai": [
+      {
+        "name": "人民公园说AI",
+        "key": "人民公园说ai"
+      },
+      {
+        "name": "JustSayAI",
+        "key": "justsayai"
+      }
+    ],
+    "host:yang-xuan-shengfm": [
+      {
+        "name": "商业WHY酱",
+        "key": "商业why酱"
+      },
+      {
+        "name": "声动活泼",
+        "key": "声动活泼"
+      }
+    ],
+    "host:yi-ran-wanderers": [
+      {
+        "name": "The Wanderers",
+        "key": "thewanderers"
+      }
+    ],
+    "host:zeyuan": [
+      {
+        "name": "Grad Lounge 不止学术",
+        "key": "gradlounge不止学术"
       }
     ]
   }

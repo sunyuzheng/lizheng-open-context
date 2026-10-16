@@ -41,15 +41,15 @@
     "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md"
   },
   "counts": {
-    "structured_public_dialogues": 341,
-    "structured_dialogue_cues": 251201,
+    "structured_public_dialogues": 364,
+    "structured_dialogue_cues": 286707,
     "guest_entities": 152,
     "guest_sources": 406,
     "guest_appearances": 425,
     "guest_slug_routes": 156,
     "guest_articles": 23,
     "guest_redirects": 3,
-    "guest_public_raw_records": 341,
+    "guest_public_raw_records": 364,
     "guest_introductions": 154,
     "community_posts_catalog": 252,
     "community_posts_full_text": 252,
@@ -80,7 +80,7 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 921
+      "files": 944
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
@@ -92,11 +92,11 @@
     },
     "LicenseRef-Original-Rights-Retained": {
       "text": "LICENSES/LicenseRef-Original-Rights-Retained.md",
-      "files": 40
+      "files": 63
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 56
+      "files": 57
     }
   },
   "files": [
@@ -132,8 +132,8 @@
     },
     {
       "path": "INDEX.md",
-      "bytes": 7639,
-      "sha256": "2df42cfbf8e623b3e1e505ddde8a099326d62063b2cc51e623d4464cc50ad3e0",
+      "bytes": 10374,
+      "sha256": "9500e44a19c9efb3190f3c087d27767406c48610a190fdf2408587ff716a3aee",
       "license": "CC0-1.0"
     },
     {
@@ -186,8 +186,8 @@
     },
     {
       "path": "REUSE.toml",
-      "bytes": 39895,
-      "sha256": "3ad72283622251ca03ad27cd81ffde1abd3a4aee91d41499dd744786b7d8db77",
+      "bytes": 41551,
+      "sha256": "a1e1964466b571eb7bd7148d945c86fa3d6acea4f557596c6153299ab9fbc1a1",
       "license": null
     },
     {
@@ -240,8 +240,8 @@
     },
     {
       "path": "catalog/guest-appearances.jsonl",
-      "bytes": 26679,
-      "sha256": "b2a67c176164c77b29b3daa93bae439af6b54282c86729eca93155b177910757",
+      "bytes": 46914,
+      "sha256": "3bf60f7221dae942fc48741918ecbed24ba9e8c582140e977504c5202429a014",
       "license": "CC0-1.0"
     },
     {
@@ -252,8 +252,8 @@
     },
     {
       "path": "catalog/guest-names.json",
-      "bytes": 70217,
-      "sha256": "f53124c3d47715b68e0639b874b9162beeb2025203da0089298fb697755bea60",
+      "bytes": 83096,
+      "sha256": "377a69639ca23bb7162606841e29aa383f783d3625bce1fe2510d0d927f69951",
       "license": "CC0-1.0"
     },
     {
@@ -330,8 +330,8 @@
     },
     {
       "path": "config/public-dialogue-policy.json",
-      "bytes": 566802,
-      "sha256": "ff688124446a24884dc4b966f0cae50129d13ba68e694c33fc589fcc7a7a496b",
+      "bytes": 6363934,
+      "sha256": "68e43f064f5cc46c7027e019cebe74787ac0bd7d172a30a4565f125ecdb8fd56",
       "license": "CC0-1.0"
     },
     {
@@ -402,8 +402,146 @@
     },
     {
       "path": "context/guest-appearance-reading-map.md",
-      "bytes": 12600,
-      "sha256": "5744299f5beb9ab1cd9486593a71fde002a07483400b789ea028927a5f86a361",
+      "bytes": 17499,
+      "sha256": "cde614fc44c771e107dd085e7a83308c1b7a7cc15ea04d3d152a16f0e668f25b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-5fd6d39fdee9c1e16d53932a.md",
+      "bytes": 6268,
+      "sha256": "2e15f064c36752cb29a9f2273861b7a764cce875cdadc44828b20edc83e68fce",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-63f5f66e1324e63d1259b079.md",
+      "bytes": 6360,
+      "sha256": "7399c78d6452b4391799c5476765034865e76e4c7c0a19657ce6f9cad3347001",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-643926bdb41b2b266b5962cf.md",
+      "bytes": 4586,
+      "sha256": "228edd6cb6673a1c9daa46594ab2df3b4b57ea2004591bcee9b794b7b6b91fdf",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-672ed4ed43dc3a43872d1361.md",
+      "bytes": 3139,
+      "sha256": "2938c029bfad233e5a4b114feac21ea88eee0da91f06e421426181281d4804ee",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-67ca084fe924d4525ad0db95.md",
+      "bytes": 4843,
+      "sha256": "f0fad32b6c8bf4e8ba18d6def69ee8d39558c4ab952880730140e223aecaf962",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-680746bf1f1db84a56df257b.md",
+      "bytes": 2971,
+      "sha256": "a1e1a0a3fc2a5cc225b41adcf0f26fdd7f1718a3c38ed2848ac5f6018187e007",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-684775cbcdecf72d4ca2fcc5.md",
+      "bytes": 2500,
+      "sha256": "6d90d13d3d4e504ac34657480989f1e616dc90317a9a6594521bd5c1638388ce",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-68e2ec149c0fb097394606a9.md",
+      "bytes": 6750,
+      "sha256": "48ed3eac362e598318b99df5195a31736f23654476123ea300a138843656c068",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-68ec746b1b46b7597d496852.md",
+      "bytes": 6710,
+      "sha256": "cd3ee12310b286a970c231c92517c62220e49a937ea9d2a19b3b5a031d675e31",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-691a7452d9014ae7a20f20d2.md",
+      "bytes": 7085,
+      "sha256": "f16c2bcf1998c5462d1270adcb0c0b305d23e516abd8da7899a9a2ce4ca6dcf1",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-6947c9a19f70e5d6b3795ff5.md",
+      "bytes": 6209,
+      "sha256": "d32ba5d834fc1e0ed925330e1ea1479e89316a4989f5b5454c649ff2d5b3f2e7",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-699fa41266e2c303776dcfa9.md",
+      "bytes": 6356,
+      "sha256": "07be7dda5d03b52af815365c3b84a8ea9643246a71d74f2f9502c4502558eef3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-69af96999e77d8f89f26350d.md",
+      "bytes": 12847,
+      "sha256": "ad092101bd6c5dafc3d8ccbc85a1b89ac4705e89c0136486fcc8d0e376023aeb",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-69c511da852cf1b8bb01e246.md",
+      "bytes": 8047,
+      "sha256": "ac0b4323a025482d4a9cf66f8f9c906df5c049a63646b861bca6d93c30bfc1c1",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-69c7d350b977fb2c4774e5e8.md",
+      "bytes": 3625,
+      "sha256": "ef8a03de9f51e60755881e81e15edc8b075ef1582419d869442b6ad47979475b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-69d3dbb3b977fb2c473d2a7e.md",
+      "bytes": 4870,
+      "sha256": "09664383019d802c8408bd0c511e65aa21ee53e81a2020da40de4aef599c9abd",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-69e5d0661d989496e70ccc2e.md",
+      "bytes": 6570,
+      "sha256": "d062fd81fd0360775e996009e1703665120824239c3921bac9537391bb080636",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-69ea11c5824bf96fa14802c9.md",
+      "bytes": 6328,
+      "sha256": "7dff49e9e62c3f9eae5d5d88a812727ba896cd59904ef3881649fb3ced02d7dc",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-69fe3dcce1eb34a93902ac3c.md",
+      "bytes": 19710,
+      "sha256": "a3d3eabe66af0e23d1bf0a23353da9ed16697493c966f10a4c21a501800974f0",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-6a0efed2fe904f38739093d9.md",
+      "bytes": 8552,
+      "sha256": "b5e3c0c8457a491a7e6b6091779defe26b18814feb20501afd8806bab9e64648",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-6a135fde2507d98728e967e4.md",
+      "bytes": 3522,
+      "sha256": "afb70810140e8beddd26863315eeb7d46043da3519d71fb2e4c16a6507679e24",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-6a275ed57444b5722235a897.md",
+      "bytes": 4243,
+      "sha256": "3dd26089690e7704cd10113607c1943c51b991e4fd1ed09efa19b52b08bb3c5b",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/guest-podcast-6a3a1a139d2f5743683c5833.md",
+      "bytes": 16705,
+      "sha256": "e639a91d41c39f97f46c0ab22be79bae757a5bf7c03a65494cf7c563d7a707e9",
       "license": "CC-BY-4.0"
     },
     {
@@ -4527,6 +4665,144 @@
       "bytes": 350068,
       "sha256": "52b0bd3007b767269aa9b734a835cf008440727a425244782d2d76d5e71450aa",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-5fd6d39fdee9c1e16d53932a.json",
+      "bytes": 545726,
+      "sha256": "8ee4b9cc3630ccc454eff3d5d7c63202ea8b4189d2b1921ee97fc901f7b76525",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-63f5f66e1324e63d1259b079.json",
+      "bytes": 587753,
+      "sha256": "9d6c25a50bf46fdb2428800c8f971b0161a50a6df3c2d917ddc361f0a7b27024",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-643926bdb41b2b266b5962cf.json",
+      "bytes": 352476,
+      "sha256": "6fa430f3759608543b69eca3e12c86982174968e5d9a80c2b04a075d4d508dfd",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-672ed4ed43dc3a43872d1361.json",
+      "bytes": 279597,
+      "sha256": "f9d16ba6ff208f2ebaae66fcefa2cc1b572eb813a42d32220597ba16cc4be822",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-67ca084fe924d4525ad0db95.json",
+      "bytes": 486388,
+      "sha256": "cbff874a2b6b5e45ddc910918a45ae33bbcb527bd2b4ed079621e53caf3c1ab3",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-680746bf1f1db84a56df257b.json",
+      "bytes": 250947,
+      "sha256": "10437a4ababd1695b5eca82e01c8541a4258c4ed9b2672c133b1cf4be9d6bcf9",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-684775cbcdecf72d4ca2fcc5.json",
+      "bytes": 312791,
+      "sha256": "cd98d7ea2c6fc91a94e99498fb8fdbda6707698383530ce6585caabf5e4ea8e6",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-68e2ec149c0fb097394606a9.json",
+      "bytes": 507871,
+      "sha256": "56bbd02944afdede62eb7fa9d17ce8c8e1eedf1b942ae0526b568f70a233d944",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-68ec746b1b46b7597d496852.json",
+      "bytes": 603640,
+      "sha256": "3c6044121f2f84b26b714f70b0d87db24e28c1b98f12a7fb3deb94693694e979",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-691a7452d9014ae7a20f20d2.json",
+      "bytes": 599913,
+      "sha256": "1e72af56a809316c6f3fcf0ae737fcbb1c79d78364dc5331bce6ddc4d6d97e29",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-6947c9a19f70e5d6b3795ff5.json",
+      "bytes": 572725,
+      "sha256": "1ce0149f312abd8cd3994e08d86510247b019b81d66bf1c30e7a73d85bc8a2ed",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-699fa41266e2c303776dcfa9.json",
+      "bytes": 471543,
+      "sha256": "aec5ebe23d34c5ca5dfcf3a8c81d5fe860494b7e22fb83a0e7545024af2afe4f",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-69af96999e77d8f89f26350d.json",
+      "bytes": 711806,
+      "sha256": "3ce817c2c2a4468b0227b1ec3576ba6db8019fc4d5cf967772a6e87510e4377b",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-69c511da852cf1b8bb01e246.json",
+      "bytes": 743944,
+      "sha256": "e935c0893e98c9e21a55a100fab5901e8d15cadaf4c127be13e1e48a915b00ec",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-69c7d350b977fb2c4774e5e8.json",
+      "bytes": 326749,
+      "sha256": "2cadc4a7551781521fbf7f9c001815e69007eecbd02e74a8cdfd2e235bb85b4e",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-69d3dbb3b977fb2c473d2a7e.json",
+      "bytes": 429595,
+      "sha256": "9d864eb3f9042d653f3513db3a23613c2418d14cb27623b282eaf2c313107ef4",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-69e5d0661d989496e70ccc2e.json",
+      "bytes": 554217,
+      "sha256": "96694e670dc2edd99bf55072e0cf97ef13b7a36a8f5df77b65ad9c798d21c4ff",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-69ea11c5824bf96fa14802c9.json",
+      "bytes": 586560,
+      "sha256": "beb5b9a1375d3c4eca083ebd51f0375cbe98f43d6ca05e104636536224e87b2b",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-69fe3dcce1eb34a93902ac3c.json",
+      "bytes": 918540,
+      "sha256": "7f22cc9be956e1318caee23d3c3f0b874a95b4604da0051e11533b2c44fde945",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-6a0efed2fe904f38739093d9.json",
+      "bytes": 677278,
+      "sha256": "246c9a63126f279fbea5c4895f280cf3dc9c89cfcb7a58db439362ddee76f4f7",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-6a135fde2507d98728e967e4.json",
+      "bytes": 350129,
+      "sha256": "7118547eb84b2ce785d6dbb347732ace40e871b2f9a77ee7d898f79097ac5ed0",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-6a275ed57444b5722235a897.json",
+      "bytes": 404545,
+      "sha256": "3d48bb1feae2162f0ad442909ef3140e191d81abbb27246f465b30bba21196e5",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-6a3a1a139d2f5743683c5833.json",
+      "bytes": 804374,
+      "sha256": "2c88971dab581922353737ce419a83360ce7d4e20620d09ec79885e8822cc65d",
+      "license": "LicenseRef-Original-Rights-Retained"
     },
     {
       "path": "corpus/dialogues/dialogue-xiaoyuzhou-6ab21a58f04646b3a9555296.json",
@@ -9911,6 +10187,12 @@
       "license": "MIT"
     },
     {
+      "path": "docs/guest-podcasts-2026-10-audit.md",
+      "bytes": 7903,
+      "sha256": "b2a402fb44cb877a0c60aed5e915a7492d69de593ade63fd4368ee18e504024c",
+      "license": "MIT"
+    },
+    {
       "path": "docs/member-course.md",
       "bytes": 1991,
       "sha256": "98ecd86bed2f8afa301aabe769d29274567f0890993e704cd4feb5544d716aed",
@@ -9954,8 +10236,8 @@
     },
     {
       "path": "index/dialogues.md",
-      "bytes": 101315,
-      "sha256": "87de21a6f63ce62462ea6fe39291c530011b686be7a698d981bb980865471ecf",
+      "bytes": 109404,
+      "sha256": "f506455a8164652fbd9fd35c9fe9f0f03292ed08adc4cfc20f354d4afc24793f",
       "license": "CC0-1.0"
     },
     {
@@ -10104,8 +10386,8 @@
     },
     {
       "path": "scripts/search.py",
-      "bytes": 43305,
-      "sha256": "0e71bca4521bba0806be86992930c0b4df56d7aa008d203bc07eb8fb5143a003",
+      "bytes": 45924,
+      "sha256": "b7ac311f4e8bca5d5ac8a8eaf583aea71d6ed348a93edc990277d7f2c40693c8",
       "license": "MIT"
     },
     {
@@ -10116,8 +10398,8 @@
     },
     {
       "path": "scripts/validate_guest_catalog.py",
-      "bytes": 21501,
-      "sha256": "c3d7d05f27cf7b8d9386d238b630103e511100c18e270601bdc05dc9b3574c19",
+      "bytes": 21752,
+      "sha256": "af2bd8be12e9a6cf1c303bbfaf27eaba29a466571c8fa9d9684c4d2cbea08fe8",
       "license": "MIT"
     },
     {
@@ -10170,8 +10452,8 @@
     },
     {
       "path": "tests/test_external_dialogues.py",
-      "bytes": 13304,
-      "sha256": "981fea68ddde20b0eaf6824421e27735b29195c8084c4b1b3438c92eb52cac7e",
+      "bytes": 23969,
+      "sha256": "ed934886729110007ae7fd38e1a1dbd9450aab50b92a8276a523e70206795944",
       "license": "MIT"
     },
     {

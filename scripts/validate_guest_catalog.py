@@ -2,11 +2,21 @@
 """Validate public guest metadata and programme references; never assign turns."""
 import argparse
 import hashlib
+import importlib.util
 import json
 import math
 import re
+import sys
 from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
+
+# Both validator and parser are also loaded directly by file path. Keep the
+# canonical helper in the pinned standalone parser without relying on sys.path.
+_search_spec = importlib.util.spec_from_file_location(__name__ + "_source_bindings", Path(__file__).with_name("search.py"))
+_search_module = importlib.util.module_from_spec(_search_spec)
+sys.modules[_search_spec.name] = _search_module
+_search_spec.loader.exec_module(_search_module)
+appearance_transcript_bindings = _search_module.appearance_transcript_bindings
 
 ENTITY = re.compile(r"guest:[a-z0-9][a-z0-9-]*\Z")
 VIDEO = re.compile(r"[A-Za-z0-9_-]{11}\Z")
@@ -232,21 +242,14 @@ def appearance_catalog(root):
                             for value in values), "appearance_participant_names_invalid")
             people.add(sid)
         rows.append(row)
+    appearance_transcript_bindings(rows)
     return rows
 
 
 def appearance_participants(root):
     """Guest appearances have their own people; they do not create interviewee pages."""
-    rows = {}
-    for row in appearance_catalog(root):
-        identity = row.get("transcript_id")
-        if identity is None:
-            continue
-        require(isinstance(identity, str) and re.fullmatch(r"dialogue-[a-z0-9][a-z0-9._-]*", identity)
-                and identity not in rows and row.get("transcript_path") == f"corpus/dialogues/{identity}.json",
-                "appearance_transcript_identity_invalid")
-        rows[identity] = {person["speaker_id"]: person["speaker_name"] for person in row["participants"]}
-    return rows
+    return {identity: {person["speaker_id"]: person["speaker_name"] for person in row["participants"]}
+            for identity, row in appearance_transcript_bindings(appearance_catalog(root)).items()}
 
 
 def verify_raw_metadata(catalog, raw_records, external_participants=None):
