@@ -5,11 +5,12 @@
 原文保留每句文字、时间码、发言归属和质量记录，直接参与检索。节目参与者来自共享嘉宾目录或独立的做客节目目录。
 [资料架构](../docs/conversation-architecture.md) · [来源字段](../docs/source-model.md) · [校对阶段](../docs/dialogue-ingestion.md)
 
-共 369 份。许可逐份标明；其他说话人保留自己发言的权利。
+共 370 份。许可逐份标明；其他说话人保留自己发言的权利。
 
 | 日期 | 原文 | 节目参与者目录 | 文字待核项 | 媒体 | 许可 |
 | --- | --- | --- | ---: | --- | --- |
 | 2026-10-29 | [离开大厂之后，我才发现，没有Fake Work的工作其实很开心｜对话课代表立正](../corpus/dialogues/dialogue-xiaoyuzhou-6ae1e359c96c8942ec13bb1f.json) | 立正；杨天楠 | 19 | [原媒体](https://www.xiaoyuzhoufm.com/episode/6ae1e359c96c8942ec13bb1f) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
+| 2026-10-27 | [功成名就的大佬们需要学AI吗？｜沈明高博士对话课代表立正](../corpus/dialogues/dialogue-circle-37814395.json) | 立正；沈明高 | 5 | [原媒体](https://www.superlinear.academy/c/recording/minggao-lizheng-ai-partner) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 2026-10-23 | [做客《上桌》：赚钱需要四步，打工只需要一步](../corpus/dialogues/dialogue-circle-37700632.json) | 立正；黄涵涵 | 25 | [原媒体](https://www.superlinear.academy/c/recording/hanhan-lizheng-work-to-business) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 2026-10-21 | [从「会工作」到「会赚钱」，建立自己的事业](../corpus/dialogues/dialogue-xiaoyuzhou-6ad8ce0cb381c0fcba19b6f8.json) | 立正；林希言 | 8 | [原媒体](https://www.xiaoyuzhoufm.com/episode/6ad8ce0cb381c0fcba19b6f8) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 2026-10-09 | [做客《中国好生意》：按十年来做知识付费](../corpus/dialogues/dialogue-circle-37265013.json) | 立正；树杨 | 3 | [原媒体](https://www.superlinear.academy/c/recording/shuyang-good-business-20261008) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |

@@ -18,22 +18,25 @@ yuzheng_stance_weight: "secondary-only"
 attribution_note: "AI整理的阅读导航。原话、时间和归属以各版本原稿为准；不是立正新写的文章，不把主持人的观点或标题当作立正陈述，不宣称下列观点首次出现。"
 language: "zh"
 source_family: "recent-guest-appearances-20261029"
-source_context: "Reading navigation for five recently published guest appearances. Sources, dates, editions and source-quality limitations remain separate from this synthesis."
+source_context: "Reading navigation for six recently published guest appearances. Sources, dates, editions and source-quality limitations remain separate from this synthesis."
 ---
 
 # 近期做客访谈
 
 这批资料围绕一个反复出现的问题：离开学校和组织替人安排的评价体系以后，人怎样判断什么值得做、靠什么赚钱，又怎样选择自己想过的生活？不同主持人把问题带向了不同方向。下面按问题导航，原稿和节目版本维护在[`catalog/guest-appearances.jsonl`](../catalog/guest-appearances.jsonl)，不把几场对话拼成一套本人新发布的理论。
 
-## 五场节目与实际收录版本
+## 六场节目与实际收录版本
 
 | 发表日期 | 节目与来源 | 本次原稿对应的版本 |
 |---|---|---|
 | 2026-10-29 | [听懂涨声：离开大厂之后，我才发现，没有Fake Work的工作其实很开心](https://www.xiaoyuzhoufm.com/episode/6ae1e359c96c8942ec13bb1f) | 69:18正式音频，使用[节目公开文字稿](https://tdzsfm.com/a57f3e45-d085-49ee-85c1-2cb5c0809125)；只清理空白，不悄悄改掉存疑识别词 |
+| 2026-10-27 | [功成名就的大佬们需要学AI吗？沈明高博士对话课代表立正](https://www.superlinear.academy/c/recording/minggao-lizheng-ai-partner) | 96:33公开完整视频；复用既有校后字幕，四处歧音和一处听不清保留；未声称人工逐秒听审 |
 | 2026-10-23 | [上桌：赚钱需要四步，打工只需要一步](https://www.superlinear.academy/c/recording/hanhan-lizheng-work-to-business) | 1:55:13公开社区版；AI校后字幕候选，尚非人工逐句听校稿 |
 | 2026-10-21 | [灵感爆棚：从「会工作」到「会赚钱」，建立自己的事业](https://www.xiaoyuzhoufm.com/episode/6ad8ce0cb381c0fcba19b6f8) | 66:48正式音频；本机转写、全文文字核读、明确术语修正和时间对齐，保留存疑项 |
 | 2026-10-20 / 10-09 | [中国好生意71：AI时代，值得深耕十年的复利生意，反而变多了？](https://www.xiaoyuzhoufm.com/episode/6ad6c82f285041df1c737125) | 原稿对应[10月9日公开的86:48社区录像](https://www.superlinear.academy/c/recording/shuyang-good-business-20261008)；82:58正式音频仅登记版本关系，不套用录像字幕 |
 | 2026-10-07 | [不止牛马：别拿考试的规则打工](https://www.superlinear.academy/c/recording/ivanka-russell-work-ai-life-20261006) | 约2:41公开社区录像；复用既有校后字幕。本次未找到对方feed里的正式音频版，不虚构其发表日期 |
+
+公开入口按2026年10月29日核对。《听懂涨声》《灵感爆棚》《中国好生意》优先链接正式小宇宙单集；《上桌！》和《不止牛马》先链接已公开录像，同时保留[《上桌！》小宇宙节目主页](https://www.xiaoyuzhoufm.com/podcast/699af476315258f576d15f43)和[《不止牛马》小宇宙节目主页](https://www.xiaoyuzhoufm.com/podcast/68af1563224ba2ab254e7e16)供继续查找。本次核对的节目页分别最新到10月12日和9月28日，尚未找到这两场访谈的正式音频单集；沈明高这场目前收录公开社区视频。未找到入口不等于确认节目尚未发布。
 
 《听懂涨声》和《灵感爆棚》继续保留原目录里的9月YouTube录制版入口。完整录制、正式播客和社区剪辑分别保存来源与时长；未做跨剪辑版的逐句时间映射，引用只能使用被选版本的时间码。
 
@@ -60,6 +63,16 @@ source_context: "Reading navigation for five recently published guest appearance
 树杨从客户、定价、渠道和融资追问这门生意。立正解释，公开内容和社区中的持续接触，让潜在学员先了解交付质量，再形成信任；课程不需要只靠每次重新叫卖。对Builder Space的讨论中，已有的问问立正案例和未来设想相邻出现，原稿保留“现在没有”“能不能做成我还不知道”等限定，不能把整个设想写成当时已经提供的产品权益。
 
 检索线索：知识付费、课程迭代、免费社区、信任与转化、Builder Space、问问立正、商业模式。
+
+## 已经有很多经验的人，怎样把AI用得更好
+
+**沈明高对谈66:02–69:29，`dialogue-circle-37814395#cue-01664`至`#cue-01755`；写书案例见16:23–18:13的`#cue-00379`至`#cue-00426`。**
+
+沈明高问的是常青朋友怎样让多年积累继续发挥作用。他说自己使用大模型时，感觉只完成了预期的三四成。这个数字是主持人的体感，不是立正对AI能力的测试结果。
+
+立正的回答包括使用能操作工具的Agent，把好坏标准、案例与反馈沉淀成文件或skill，再不断积累自己的context。他用写书说明已有材料和持续修改的重要性：一个下午形成书稿的说法，与第四版上线、拿到手时已改到第十一版，属于同一个故事。它不能被缩成任意一个人只需一句提示就能交付一本书。他后来关于九成或九成五的判断也保留为这次对话中的个人判断，不当作测量值或交付保证。
+
+检索线索：常青、沈明高、AI伙伴、使用标准、context、skill、经验沉淀、写书、反复迭代。
 
 ## 强度、长期积累与自己想过的生活
 

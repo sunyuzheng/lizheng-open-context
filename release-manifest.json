@@ -41,15 +41,15 @@
     "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md"
   },
   "counts": {
-    "structured_public_dialogues": 369,
-    "structured_dialogue_cues": 297036,
+    "structured_public_dialogues": 370,
+    "structured_dialogue_cues": 299475,
     "guest_entities": 152,
     "guest_sources": 406,
     "guest_appearances": 425,
     "guest_slug_routes": 156,
     "guest_articles": 23,
     "guest_redirects": 3,
-    "guest_public_raw_records": 369,
+    "guest_public_raw_records": 370,
     "guest_introductions": 154,
     "community_posts_catalog": 252,
     "community_posts_full_text": 252,
@@ -70,7 +70,7 @@
     "member_video_transcripts": 218,
     "member_video_solo_reviewed": 45,
     "known_guest_videos": 387,
-    "external_guest_appearances": 31,
+    "external_guest_appearances": 32,
     "english_community_catalog": 50,
     "english_community_full_text_files": 49,
     "english_community_original_yuzheng": 11,
@@ -92,7 +92,7 @@
     },
     "LicenseRef-Original-Rights-Retained": {
       "text": "LICENSES/LicenseRef-Original-Rights-Retained.md",
-      "files": 68
+      "files": 69
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
@@ -114,8 +114,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 21206,
-      "sha256": "09fcac4b91030421bae24fb54431545a59384b7ac79af50d25c21360a57eb20f",
+      "bytes": 21482,
+      "sha256": "6822ddc54ea20ecd173cdab0e2c7eddaa5a717e4087caa09d4f409e037d6a105",
       "license": "MIT"
     },
     {
@@ -133,7 +133,7 @@
     {
       "path": "INDEX.md",
       "bytes": 10488,
-      "sha256": "0d7ad538c6757938fd7b40fc7ca9fa77cb43488ca7f0f3821f3f1d8b21cafc4e",
+      "sha256": "b7adfa0568acebcb4abcd70570ea3cc94cc5b157adf47e74f9b3edfeb48229ed",
       "license": "CC0-1.0"
     },
     {
@@ -186,8 +186,8 @@
     },
     {
       "path": "REUSE.toml",
-      "bytes": 41851,
-      "sha256": "d205b690321620a42aeb26a2a93d8634cb81740cee0d31d66f90f58809f6188b",
+      "bytes": 41903,
+      "sha256": "b01385e1ef1ec7c2d94b2ade0548bb264bb5afa1f95d766c8371dc51b09697a0",
       "license": null
     },
     {
@@ -240,8 +240,8 @@
     },
     {
       "path": "catalog/guest-appearances.jsonl",
-      "bytes": 52813,
-      "sha256": "edacb5a7b643b8b03ef71ca7c2fe99e83ce43e0d339a052c4a86d2dacd0d4aea",
+      "bytes": 54294,
+      "sha256": "7da0609006a278df8aa6ff700e7ba152690cf9aca581f34328494aa581ee9fab",
       "license": "CC0-1.0"
     },
     {
@@ -252,8 +252,8 @@
     },
     {
       "path": "catalog/guest-names.json",
-      "bytes": 83815,
-      "sha256": "5b130c40c044304dfb3ebcbeafff50fc27ed4d33d616df86b1e3c372d3217e5e",
+      "bytes": 83998,
+      "sha256": "dcee76dc0f04407af0a03e9a075ef874b9988f28675a8f26525d578ceda60ba9",
       "license": "CC0-1.0"
     },
     {
@@ -330,8 +330,8 @@
     },
     {
       "path": "config/public-dialogue-policy.json",
-      "bytes": 6503299,
-      "sha256": "8dfa4aae097304e90014df57b0951a8725231716546d3c17cd9c967855a2f600",
+      "bytes": 6549217,
+      "sha256": "a8134d297ed956bfb2366385c988ba4bec3b93239596246081e348554f8a0bab",
       "license": "CC0-1.0"
     },
     {
@@ -558,8 +558,8 @@
     },
     {
       "path": "context/recent-guest-appearances-20261029.md",
-      "bytes": 7178,
-      "sha256": "38ef38b2197781e96f5bdd1fce80912aa3d564e95fe9052efdeb4a9613023e21",
+      "bytes": 9196,
+      "sha256": "e576ff0644cb3d3d993697ccf859e1e97113add5676f3fab147136a4ea572dc2",
       "license": "CC-BY-4.0"
     },
     {
@@ -4674,8 +4674,8 @@
     },
     {
       "path": "corpus/dialogues/dialogue-circle-37189118.json",
-      "bytes": 810318,
-      "sha256": "514bf74169c05feb28bae5619a0016912ec913b959385be605efd2f4b3afd3ef",
+      "bytes": 810323,
+      "sha256": "7066425fbb3c9dab3725fc76220404e3dbebb25134f99724c6f744312b42b064",
       "license": "LicenseRef-Original-Rights-Retained"
     },
     {
@@ -4688,6 +4688,12 @@
       "path": "corpus/dialogues/dialogue-circle-37700632.json",
       "bytes": 830386,
       "sha256": "85152eacb2b9541a80b8c6141ff0c0bc8371a3352673a07b0c021debe3e89c0d",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-circle-37814395.json",
+      "bytes": 633026,
+      "sha256": "0c2013625acea38a6ebe279347195535b55649d57b9e36f4d1a71b2a3315f260",
       "license": "LicenseRef-Original-Rights-Retained"
     },
     {
@@ -10272,8 +10278,8 @@
     },
     {
       "path": "index/dialogues.md",
-      "bytes": 111070,
-      "sha256": "fae11a42cbc8dc523e54153cc75277dfd728b0f95c5462fd4848f7cc8192e2cc",
+      "bytes": 111404,
+      "sha256": "3881e359e4c8156f80d2ae6c270c8930dbff30e338356a985fd9f0b6d777adb4",
       "license": "CC0-1.0"
     },
     {
