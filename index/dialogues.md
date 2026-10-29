@@ -5,10 +5,15 @@
 原文保留每句文字、时间码、发言归属和质量记录，直接参与检索。节目参与者来自共享嘉宾目录或独立的做客节目目录。
 [资料架构](../docs/conversation-architecture.md) · [来源字段](../docs/source-model.md) · [校对阶段](../docs/dialogue-ingestion.md)
 
-共 364 份。许可逐份标明；其他说话人保留自己发言的权利。
+共 369 份。许可逐份标明；其他说话人保留自己发言的权利。
 
 | 日期 | 原文 | 节目参与者目录 | 文字待核项 | 媒体 | 许可 |
 | --- | --- | --- | ---: | --- | --- |
+| 2026-10-29 | [离开大厂之后，我才发现，没有Fake Work的工作其实很开心｜对话课代表立正](../corpus/dialogues/dialogue-xiaoyuzhou-6ae1e359c96c8942ec13bb1f.json) | 立正；杨天楠 | 19 | [原媒体](https://www.xiaoyuzhoufm.com/episode/6ae1e359c96c8942ec13bb1f) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
+| 2026-10-23 | [做客《上桌》：赚钱需要四步，打工只需要一步](../corpus/dialogues/dialogue-circle-37700632.json) | 立正；黄涵涵 | 25 | [原媒体](https://www.superlinear.academy/c/recording/hanhan-lizheng-work-to-business) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
+| 2026-10-21 | [从「会工作」到「会赚钱」，建立自己的事业](../corpus/dialogues/dialogue-xiaoyuzhou-6ad8ce0cb381c0fcba19b6f8.json) | 立正；林希言 | 8 | [原媒体](https://www.xiaoyuzhoufm.com/episode/6ad8ce0cb381c0fcba19b6f8) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
+| 2026-10-09 | [做客《中国好生意》：按十年来做知识付费](../corpus/dialogues/dialogue-circle-37265013.json) | 立正；树杨 | 3 | [原媒体](https://www.superlinear.academy/c/recording/shuyang-good-business-20261008) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
+| 2026-10-07 | [做客《不止牛马》：别拿考试的规则打工](../corpus/dialogues/dialogue-circle-37189118.json) | 立正；小飘 Ivanka；Russell | 0 | [原媒体](https://www.superlinear.academy/c/recording/ivanka-russell-work-ai-life-20261006) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 2026-10-02 | [两次破产，却从没缺过钱：为什么关键时刻总有人帮宝二爷？](../corpus/dialogues/youtube-9pjBWDCHYuA.json) | 郭宏才（宝二爷） | 1 | [原媒体](https://www.youtube.com/watch?v=9pjBWDCHYuA) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-09-29 | [别人眼中的死局，他如何反复做成大生意？｜宝二爷](../corpus/dialogues/youtube-gwPfRhi4lzo.json) | 郭宏才（宝二爷） | 2 | [原媒体](https://www.youtube.com/watch?v=gwPfRhi4lzo) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-09-22 | [34.FDE是伪命题吗？为什么用AI提效10倍，公司反而更忙了？\|对谈课代表立正](../corpus/dialogues/dialogue-xiaoyuzhou-6ab21a58f04646b3a9555296.json) | 立正；周永豪 Jeremy | 12 | [原媒体](https://www.xiaoyuzhoufm.com/episode/6ab21a58f04646b3a9555296) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
@@ -24,7 +29,7 @@
 | 2026-07-25 | [其实副业比想象中更容易开始，前提是找准需求](../corpus/dialogues/youtube-ll-X6xP-t8Y.json) | Vera & 粒粒 | 0 | [原媒体](https://www.youtube.com/watch?v=ll-X6xP-t8Y) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-07-17 | [他的FDE团队从30人扩到100人，但为什么很多大厂工程师甚至不知道这个岗位？](../corpus/dialogues/youtube-gsK1UTt0Qiw.json) | Jove Zhong | 3 | [原媒体](https://www.youtube.com/watch?v=gsK1UTt0Qiw) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-07-11 | [自媒体比多数人想象中更赚钱，但也很容易走偏｜我被采访的一期](../corpus/dialogues/youtube-OD88_4SOiG4.json) | 目录未列姓名 | 0 | [原媒体](https://www.youtube.com/watch?v=OD88_4SOiG4) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
-| 2026-06-25 | [一红16年，干啥啥赚钱？｜屠龙博士创业的秘密！](../corpus/dialogues/youtube-vd_oYgwQSBM.json) | 杨滢（屠龙大实话） | 0 | [原媒体](https://www.youtube.com/watch?v=vd_oYgwQSBM) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
+| 2026-06-25 | [一红16年，干啥啥赚钱？｜屠龙博士创业的秘密！](../corpus/dialogues/youtube-vd_oYgwQSBM.json) | 立正；杨滢（屠龙大实话） | 0 | [原媒体](https://www.youtube.com/watch?v=vd_oYgwQSBM) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-06-23 | [59. 线性思维害死人？和康奈尔大学经济学博士课代表立正扒一扒这个思维中的隐形巨坑](../corpus/dialogues/dialogue-xiaoyuzhou-6a3a1a139d2f5743683c5833.json) | 立正；杨滢（屠龙大实话） | 22 | [原媒体](https://www.xiaoyuzhoufm.com/episode/6a3a1a139d2f5743683c5833) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 2026-06-16 | [道理都懂，为什么还是动不了？](../corpus/dialogues/youtube-ynWeoYWUT_0.json) | 勤勤 | 0 | [原媒体](https://www.youtube.com/watch?v=ynWeoYWUT_0) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-06-10 | [高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正](../corpus/dialogues/dialogue-xiaoyuzhou-6a275ed57444b5722235a897.json) | 立正；杨远骋 | 3 | [原媒体](https://www.xiaoyuzhoufm.com/episode/6a275ed57444b5722235a897) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |

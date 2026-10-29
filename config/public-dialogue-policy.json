@@ -149917,6 +149917,3833 @@
       "sha256": "7f22cc9be956e1318caee23d3c3f0b874a95b4604da0051e11533b2c44fde945",
       "source_id": "dialogue-xiaoyuzhou-69fe3dcce1eb34a93902ac3c",
       "source_url": "https://www.xiaoyuzhoufm.com/episode/69fe3dcce1eb34a93902ac3c"
+    },
+    {
+      "source_id": "dialogue-circle-37189118",
+      "source_url": "https://www.superlinear.academy/c/recording/ivanka-russell-work-ai-life-20261006",
+      "corpus_path": "corpus/dialogues/dialogue-circle-37189118.json",
+      "sha256": "514bf74169c05feb28bae5619a0016912ec913b959385be605efd2f4b3afd3ef",
+      "cue_count": 3052,
+      "review_units": [
+        {
+          "id": "cue-00005",
+          "content_sha256": "2a1d149b51027aec6637413db21cd2d80d2018efdbbae8f1dc1a7e2cc298e87d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "cue-00560",
+          "content_sha256": "50a627c19688d6206985b2e860d75ec3525b49125e3d20182f21251a0922e602",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00561",
+          "content_sha256": "b44e98be884c5dd5fd9e26230b696d5277e7f4b81c5675bb25d59c43328a8441",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00562",
+          "content_sha256": "3556fb66d95b1f4576e6442859b69c3bd405ae81cff60ac0d6240198131685d3",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00563",
+          "content_sha256": "9ea75198f8846416aa83b52ab286c9aca709cdbeb9f27fd490308bbc21876aeb",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00564",
+          "content_sha256": "45ec84ad29d1e630b8d2671f8e9ad7322db6b493d8057127855b4e49f0134a69",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00565",
+          "content_sha256": "3fb77f0d3d5f02c66c79687f5db9f480b03d0d8af6b12fd379f4d36eb177015c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00566",
+          "content_sha256": "a6706c963bcff2b8c41d8140fc9372aae07979c95663cf3e5ebd76daf388568a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00567",
+          "content_sha256": "c504f7c25e0218c16f5d07fd309b5756ba6d0711cf11cd22ecdaea8d54a8d8cc",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00568",
+          "content_sha256": "08f94cac40a820ec86e140970fa75205ba13a0add8e176c69f8e4081676dd504",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01643",
+          "content_sha256": "534b8dbf45859804b1456d6c60716727c0235d9d85439fcc59473d6ba89202d2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01644",
+          "content_sha256": "55f5371a8f10c6b37fe16561364597ab9061453cbe6ed7c8bdb8796ba9fb2770",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01645",
+          "content_sha256": "8c574f53f0866c515ad150b4e1f878f54c28e4e11c05884bccdaae9c2a9bdd7a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01646",
+          "content_sha256": "4d087a691a33600e4cca0330bcfcb564923cbabf704dc30f9c9d23892dae0ed5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01647",
+          "content_sha256": "b983c125df6b51f5a66db01dca7a093a15945476ed6115f6444d2a77a72f87d8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01648",
+          "content_sha256": "e2d7d4b94df723c97991c6c3fc9bbcf98634d1ca757c11ef360d8cd03a4ea896",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01649",
+          "content_sha256": "90134d2126b1e30e0dcc0e0fc83f794d674952fcaedd55ddaecc05402f375b74",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01650",
+          "content_sha256": "b7f73af1c11ff5692384feb1abb6dfb34f00adadb21a9191a9a9ac4df1f0ed72",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01651",
+          "content_sha256": "7e338481e12f8d7beb847f4ebb96937fc1d864852147ce161072acc5fb625943",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01652",
+          "content_sha256": "9eac6f00b5edd20df1cd012de3c5e59704a7532892bfbdfa2fccac51ec3260b6",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01653",
+          "content_sha256": "0313183aee1576f9ef87a7cd6a687ae93d75b23993f3b0b33f9ccea67d2d551a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01654",
+          "content_sha256": "f0817671a6d045657c840ff8354b9854daa9ef8ba896e2ac2cd74d3fb8633dc7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01655",
+          "content_sha256": "5ae96b35a9206730c6ecd64542e86e22442bbd922f1a59cfa52a7b30a25dae86",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01656",
+          "content_sha256": "2b6f281585c038a3bd48fee69ea3186ba62f500f1a191d8c3e7ea1d32052dda0",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01657",
+          "content_sha256": "9fd5eb226974332ddee8b8751f57c79cc0463ac31c88d32dd742a591f77c13b0",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01658",
+          "content_sha256": "cda81b97ada168de0b5e037959772dd3f46166d9ffe11694ac2fd1ccef7f5646",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        }
+      ],
+      "anonymous_evidence": {
+        "availability": "public",
+        "source_url": "https://www.superlinear.academy/c/recording/ivanka-russell-work-ai-life-20261006",
+        "verified_at": "2026-10-29T23:06:09.287117+00:00",
+        "receipt_sha256": "7e056bde1c4f07cb4ae449db52f969a1ab1b78b1adff854f2bd40e78e9e81556"
+      }
+    },
+    {
+      "source_id": "dialogue-circle-37265013",
+      "source_url": "https://www.superlinear.academy/c/recording/shuyang-good-business-20261008",
+      "corpus_path": "corpus/dialogues/dialogue-circle-37265013.json",
+      "sha256": "fcfd8150b4a2c1d2eec7ef9c7c0e68c09856e7ffe019d09939ecdb5ba7624e67",
+      "cue_count": 2247,
+      "review_units": [
+        {
+          "id": "cue-00342",
+          "content_sha256": "4ba4ccece6275d4ce8be70bb38d1a21b236f1210e9ca37dad7696285207f53a2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00343",
+          "content_sha256": "37261a63b8dae527b853345adfafa33f18ac66dbdb5f43e3931c2ee86200532b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00344",
+          "content_sha256": "7042e31cd554608dc21f56ddf2b975230a88a8e785bcb63f4f3f9b32092e3003",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00345",
+          "content_sha256": "b5d0a44c671182e5fc149e26150d59ec210d5abb9cb28498b9da5fe5367a0f49",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00346",
+          "content_sha256": "edb7a5e37ec297c1c318c532ac41769b069fd0ddd56b33b28a9d25a6c0e518b2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00347",
+          "content_sha256": "b1de153e2216946ecccb40ad490e350a8ff85089a7b870e6110a3fb00c5a5bf4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00348",
+          "content_sha256": "18246214758926109fc93f82dc39b76678f69becb012d5ea6a93713cf18c525e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00349",
+          "content_sha256": "499599fc45b038a15e61be6bdc34273b4f42e59b0a6362be77d939ec04ed2902",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00350",
+          "content_sha256": "cf35616568908806eeb00bd1d0e7bba214880bbe416fd1cea9f0469d9fa84b34",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00351",
+          "content_sha256": "073cd32acb81f5c5e555322741393240ff9071f428874a9546c3b923f616d6e9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00352",
+          "content_sha256": "6f9fe1755325c4c1cc651de6d477d1b2d735c9586782a641c3e42901cfb033ca",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00353",
+          "content_sha256": "ee56859945fe3ad0c3109c9abf7fc405e59fb5e1050908adfb07b4713cfefef9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00354",
+          "content_sha256": "f55d852dd61bfbab59e49bf57ad97cc2ec708868d91e245a5bcbb882d9d923b8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00355",
+          "content_sha256": "01ee419e1a39b60dc8183eeffc26aff69672bc7c647067c3ab7471e941d1591d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00356",
+          "content_sha256": "907cc5e4febeb33e11cf6c6f3930ac342b588743f3886e45b9992e41f1b6a935",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00357",
+          "content_sha256": "4d7cee79573918120e184b7dd651c7e1b0d7349e3c479e1f821549a6678d1011",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00358",
+          "content_sha256": "5e976d78910b3f23a26e7d069389c38ebe091545d1c02e5d5027e26b013c9f21",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00359",
+          "content_sha256": "2cf495dce209b49ad81e50ccee62d0d506b6f69e37a3694027d780df6831f31b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00360",
+          "content_sha256": "7787164b177a58e9d843022e70536bcaa0f1a52eb065dfdae4a2a431c87a84de",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00361",
+          "content_sha256": "fe35b0cc7aab8fe199c3b38b7179bd4181726f57f4559e0518c145533f46a74c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00362",
+          "content_sha256": "16902cbfda6bbc7153f56d9f5bf91b83e0385f8fc3e3be6a737e95a5e4e4c4c6",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00363",
+          "content_sha256": "0b9f1f64893163f63b2a3a67b19fd64d90803173b4f23b8f15e13278e91a9907",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00364",
+          "content_sha256": "5c498f0ddffad8b3324ea720fe79fd28b4c1117d03c628a604caac6d22928fc6",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00365",
+          "content_sha256": "4ac7b72e115f1e945ea94a9a7051373c7c83edf8d973eedb912e18a4670b5fc4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00366",
+          "content_sha256": "cb308d2f5872df70b22a05342961056ff1028f142fc1d625b8a5dea809448d58",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00367",
+          "content_sha256": "72473feccda67ee53af9c11809341ed6c29e09dd828796b7fb88688895914dc1",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00368",
+          "content_sha256": "1799a6afcd69df38ceb23aa5800cf01b23c6aa659c0816e889944651a1e5007f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00369",
+          "content_sha256": "c7e0a3296bacd245003018fb7e88592a003244357fed1e111cba6b82677d2fc7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00370",
+          "content_sha256": "1f5f8a463d22865d2230f6a85c4c7a81cd2be7b8bafe5b9837e24a74b52d3420",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00371",
+          "content_sha256": "22887650e951d097f3ccce61e46eb4fe5b61c1de002262dde8f1df8eb0694133",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00372",
+          "content_sha256": "eb1011eba199f1dfee438e0f786f8477adea76e7d4a4b2a9a70614a0eec7cc54",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00373",
+          "content_sha256": "7b63a6383167789854406d45ce2f2ed98a8b116de06eacdedb929223d0ff52b7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00374",
+          "content_sha256": "c3836865fdfbfdbdba3a1c851c17e5b97c08f5c9520d2ce2a0096bd1440478c0",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00527",
+          "content_sha256": "1d150f738cff8d9afd1c48c1a792d75e25930c4cc37942b53e40e8cec2ffe2a5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00528",
+          "content_sha256": "0d5f5e1130664b02bda8e5600d28cc70d769562b6a115c956093fd8c837b9e1b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00529",
+          "content_sha256": "ac7252c0973f633156698dfb7ea0eb6b7d45c2201e61b74f8382c585437447cd",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00530",
+          "content_sha256": "0322a971d487ac2026adee525a6695e2ab4a5874981217c8fc3396ba8441a536",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00531",
+          "content_sha256": "8f4b95b5693d3b38be47732783ede419b27a40a5cdfb7ecfa2cc6ba5a541cfbd",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00532",
+          "content_sha256": "eab629be5b89f7f3fdd643ea5e473a513f9afaa03c81e8c873c5b7d338d45ac2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00533",
+          "content_sha256": "6d52a4ebdad68ec6c765ac6c2c9e5531d1799474eced4ce3964e3c384bdaf718",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00534",
+          "content_sha256": "66b3991cfa7e3ae4835483524b6acbb774ba43c367f251d03bc0aaa778899cdf",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00535",
+          "content_sha256": "71370273015d0bfb97136350b3686c3e8d8534ddccc90706006e02d43870016c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00536",
+          "content_sha256": "ef11e95e5084423d831f038b635ae3e3e93211617b705f7fc7b8e22cdaa5a30e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00537",
+          "content_sha256": "61e64d72da2fe9feef09c1a6f9cfffa324f75eb60b241db6916fe8594d5cdc9e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00538",
+          "content_sha256": "00b5567d28cbc5d8523ba63912776cab1abdcd26755a64f8b5e4af7e6043c9d2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00539",
+          "content_sha256": "a3c1738e4be437b01bc2bc1166cf2b8ade75d21da902881ef3dd2b4e94457f77",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00540",
+          "content_sha256": "1b480cef79957bbade51fb1a17fd1664e09ec7bcc9c52b8ed030a0767ea035be",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00541",
+          "content_sha256": "5d6c37960b31236af0ffdcd97f7f13c2209b94dfd095b1e0feaa32ac8a3ef592",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00542",
+          "content_sha256": "62a9b6afb4dad65d252da8515a04e6e00b6b29f46cbe72b700a8d9503bd3e8cc",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00543",
+          "content_sha256": "b30909a79753503897ebd835acd0b3b2464a3bb8bc61cc0db2a7e72914dc38a9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00544",
+          "content_sha256": "d5c9d1f3aee4b522ea0dbf32b651ac9bd2602b48de5cf25cc23d49ca44b1718b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00545",
+          "content_sha256": "c9db10fbbecac422f7e208313306306fec58811e70ae8979cdf7bb9b375a956a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00546",
+          "content_sha256": "7874603e4a2c5ece85e9b6d10e810ace6cb7373aac039094e82d5a1a0fab5094",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00547",
+          "content_sha256": "a3e87896f8dc08d83ac484908fce2c511281ef8bd67913a46f99685e85445aeb",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00548",
+          "content_sha256": "c8154a8c302e47513d8f31839fefc6d323d12392ca6706ec70efcb7418ed98b2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00549",
+          "content_sha256": "c505b7348dd48fde682711c4ff6fbfb5b528df199db63c12873842ac56e8a246",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00550",
+          "content_sha256": "7328e76a171e11fa9026060a13b747de82bdb42fc5cf842de9399f5e82a99b3a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00551",
+          "content_sha256": "6411eb55fa2ba49ef7a84b7a52576e8e7cabe5146027136892e9de8f7270c4ec",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01037",
+          "content_sha256": "c5072cce59c139aad5803ba44d1323504f27b3b5ae9a4d978fa11ce5c548402a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01038",
+          "content_sha256": "ebe656399efae0c3d1da3213919b7355073b668600c7c22f524ba6cf1827b2a5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01039",
+          "content_sha256": "cafbbae8b29c618138d8216f5cb18f42226773cf077b0ba4cf29bda49dcbb28b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01040",
+          "content_sha256": "830d092b7cdde29337a4753a00584baaa02f839daf5db4ca828f5796baa74e81",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01041",
+          "content_sha256": "aad349c9f335c9ba2c1b69ca2448b9901f8959d0d2f66c839808e0dd4156c752",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01042",
+          "content_sha256": "263fa51a92efd70be26c37002b35e1777773c0a92f8e4d1e2d7793f8341f25db",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01043",
+          "content_sha256": "b0138d00ca40aaac36e1e94b40346f52e6ad72908d2084ac6d967b41e99d5658",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01044",
+          "content_sha256": "7bd39dca64cc791fc0fdabd27d40c0a1145f551443486f6552e92f28e9cea50a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01045",
+          "content_sha256": "7f7e2bd51089722410cd2de88ea65a3f67e2e62feda099a12870c06cef15bd2d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01046",
+          "content_sha256": "a83bc470bf30c585f35f7a8e2bb3310953ff43a5671a495f1a8c0eab7855bd4e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01047",
+          "content_sha256": "416fc9bc9cb1069f2d7b4f0c63fd118a709b6e3e23968b3716e31fed9ed91a1b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01048",
+          "content_sha256": "35fb8654315fdb04077fbafd505b8ad18aa97139c286561043615d16d04773d7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01049",
+          "content_sha256": "62382708959c18c966816fc833df8d8abd68df7193e8b5ff8a6979fdcd393b6d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01050",
+          "content_sha256": "97ffea6ec7bc2d48e9196a27cb3fa444585522d9e1fa8be43aeaf4b08c630932",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01051",
+          "content_sha256": "993439632fea18d105cf1e0cf92ebfaca604c57dff18f792888ce332e7018be7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01052",
+          "content_sha256": "439dea18812cad41a50c521aa13fe200c2d60bb68b438833afcabed0432a0391",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01053",
+          "content_sha256": "d6e4e6c5fac486078e77ffb8e8affaf99ebd91733768c548252862f8e9af554d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01054",
+          "content_sha256": "648c981928ce4f8a5b01531787684c0a2fe73e7cd48cb3a410a49b61e7bbb916",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01055",
+          "content_sha256": "9a51407ac7a5c4cb744729c885903f1e0d56e3b21188a50724a1631e74cb904b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01056",
+          "content_sha256": "fb93fdfeb64e869ab3f285f74faff725ea4727ff70f6e67b5bd32a7f1bdde9c2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01057",
+          "content_sha256": "555ff8bff226aff8a4564745ea5024cc520592e20783b24136d253eba8a53d25",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01058",
+          "content_sha256": "c6acd28d672618ec7ce974a2d15ad8cf3b332b1aa9e35381781076c45a0b493e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01059",
+          "content_sha256": "83f9c9eb8247c47fedea6b339dd87a403dc66a43f6c23e0e25e712aa998a931a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01060",
+          "content_sha256": "22a4d6b711f3dc98e9a6f0a1746bcb751cb2c6be81578a42f38df1d057bb8893",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01061",
+          "content_sha256": "29211281c08d4e08beb82b4b0d69eec83e0acf730e5134a70b7cca2645241453",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01062",
+          "content_sha256": "4745132b60a12973a7e62b3cd6260e3f2acfde87bf4cb966d1993fe61f3b5030",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01063",
+          "content_sha256": "f0dc5bbe0eddb9295c992b613378378162f4d8f1c41e23634afd973a43f6f098",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01064",
+          "content_sha256": "fe344d647f1f06240ee28c157ea9647d8fab3c29a38cc73f90f1e4c2dd80282e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01065",
+          "content_sha256": "bf532e201a27967bbd44f3442d2bd8520f6dc3597b6b40f7c5fd7fdc1d0489ce",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01066",
+          "content_sha256": "8b1a43d905df7d6db38aa138be6ba8d61daa69475728594ea5a112b14d375c80",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01067",
+          "content_sha256": "a7a64ad612906bb35745b1d45b95ddbe95488386d24e8128229b5bd7802398ed",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01068",
+          "content_sha256": "59ddc812b7c94692ebf5805a1138312435ccaf7e979c6c4c34fb3c6675e9e473",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01069",
+          "content_sha256": "75e96c5f21fc40b1065213eb8a25cf0d274d79a248080bb2c9231a37ccecffdb",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01070",
+          "content_sha256": "84a49aa24a83a1af250eb6bf87c66af7c5e6b9e1d081a7f6a3db7f55a90fca17",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01071",
+          "content_sha256": "99dc6c250a8cd0b4d131daf5573a0fc525e65096444556c1ba70624fe9697c75",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01072",
+          "content_sha256": "ce0299c7cf59f0941bab3baabcbc031e259516bcf4cf64fd1030fc805b89ca65",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01073",
+          "content_sha256": "1ab6747203c34c7fde7a29e70b24d82bc29011328c54d4e2fb4a4361535b66d8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01074",
+          "content_sha256": "92e35ac290cee6fcc3a976698f01b6aea317f29a27a22ad4b07b80e718fa6f9c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01075",
+          "content_sha256": "02ace8294dbc171631e7924e5973df8f62cea3dbc0004b953bda528a419b3b7e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01076",
+          "content_sha256": "aae5d776a619c5a24f5d4989c455790f211a7caf8932081a19fe1a0e315b255f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01180",
+          "content_sha256": "9efe760e01c0c1073dcc6e0beda9cb98d760ffdc3f6252ba2c6a841bc55b32ac",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01181",
+          "content_sha256": "d5b43a4d1d07bb365d5c4d77313d0d34cfb57992314eb3b2ca98260d60a20fee",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01182",
+          "content_sha256": "f93d313920ed9a60964990f664c0a8c98abe4111949af67277dac8136ac6f3de",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01183",
+          "content_sha256": "d36eb14dfd1f28a5485bc90d2920f2c42b9cf9556d9e7f0df5a5b604fa0147d5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01184",
+          "content_sha256": "0756ce86f871ae2e7991e4fbced514a7a01843e53b0840ad87a3d85b817eba8c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01185",
+          "content_sha256": "8cfdb282c529864ca451e620e4fa11cc64abe5a39d099104ba4ff5fbb076b150",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01186",
+          "content_sha256": "418d42098be599719f55e3b7e7bc2558eafbf6d08d9199fb7d792ee2873c1431",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01187",
+          "content_sha256": "976e038632e4398f36a598763af80e91e887cba2e5947676f085ab0776615337",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01188",
+          "content_sha256": "dd4e0ff737bdf6e30d9ba2fb5c96f5ceddda0d204aaf94b66c1eb20193c69383",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01189",
+          "content_sha256": "148899654161bccc37ffaa228f13fe9c3fd15e7aecf118bac7d8947b483611f9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01190",
+          "content_sha256": "a7dc8ca111a351c3a72a1a551080f9a0500eff9d2c0a4d2a7d693c57002a7b0b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01191",
+          "content_sha256": "d2b556100c29b84573d6250665a2e91bc2fb0b2324038e0091a157cc6dfb8282",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01192",
+          "content_sha256": "4d7c753f70e73e0d1938d857a5b9c3b6de19c839ed2a110df5d5120beab89146",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01193",
+          "content_sha256": "a25109ec5bfe588ee34d6098abdc18468c4733ab9f37ecad4554fb8c95f7671d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01194",
+          "content_sha256": "4024d349564e756a566b748d7c65b66db33f52607f9458284662f77a1d4c0702",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01195",
+          "content_sha256": "b9d48fa75c4ca02c0f4dc527b4deaad890ed27e9b48572aa995d5669050b6810",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01196",
+          "content_sha256": "8dfc2a9129b8d9f59238dfefcd88fdfa7e5504442aee3a9ee648efd725087b82",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01197",
+          "content_sha256": "10541bae8f824f2528e4a6e0661ea85c87767792edd8c35899ea5f08beef5dbc",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01198",
+          "content_sha256": "4bada01d5e0932e9a4affa6223187eff72a197bf6130645d77e27ff831a62d8f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01199",
+          "content_sha256": "8adbe4bec67afc7ba94d720c64b32e0f19f478159c7d773113b7e1aded0c03c8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01200",
+          "content_sha256": "e5ff8f0a56b5db1102e3983776b7dea71887316ec5af9f5b8e59ba025c94da18",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01201",
+          "content_sha256": "6cb9cafafd2b18ada09aeeaa147b3c48dd17c577d19525cb6a9432f89146deaf",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        }
+      ],
+      "anonymous_evidence": {
+        "availability": "public",
+        "source_url": "https://www.superlinear.academy/c/recording/shuyang-good-business-20261008",
+        "verified_at": "2026-10-29T23:06:09.303097+00:00",
+        "receipt_sha256": "d1c195a7454fbb1451ae9853d58b64f9bd11d5889ecd479068d2098ae52d96c7"
+      }
+    },
+    {
+      "source_id": "dialogue-circle-37700632",
+      "source_url": "https://www.superlinear.academy/c/recording/hanhan-lizheng-work-to-business",
+      "corpus_path": "corpus/dialogues/dialogue-circle-37700632.json",
+      "sha256": "85152eacb2b9541a80b8c6141ff0c0bc8371a3352673a07b0c021debe3e89c0d",
+      "cue_count": 3313,
+      "review_units": [
+        {
+          "id": "cue-00001",
+          "content_sha256": "2dcbdf45aa29916b86d184fbb80c109de16b9a2974e60a99d3c1b9bdd0d33db8",
+          "speaker_id": "host:huang-hanhan",
+          "speaker_name": "黄涵涵",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "cue-00452",
+          "content_sha256": "e4488d948628f99f689be228a9fe264781de5e20209f6b59ddab11a8dc992f73",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00453",
+          "content_sha256": "911734cb9128408f2db5d2132c7346a98e906afc3841536b564fb55bfd100ad6",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00454",
+          "content_sha256": "35aadfe95547c3e96079d959f72d404beeceb69e0062e6dc41a3a1a9e924108f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00455",
+          "content_sha256": "744c9e61c496f0fe5b5ee4c5b104ec5d9e2a7c0eea0a164cc4e84324ae95573b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00456",
+          "content_sha256": "4f52ddf49243387e40106a29c5a12dfce9cb75bd7ee67665c7e631032b3554ea",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00457",
+          "content_sha256": "de31605ff64be13e99dae3209239af9c89239b99af228830b388264baca8654f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00458",
+          "content_sha256": "bbf814e864ccbb3591cf6b55efce551a253b3448922cc899cc55b7de8c855bfe",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00459",
+          "content_sha256": "2612c7ebbca11da99c7ce5f6e1ea5e20582739e30247a1faff879b0af5b4d10e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00460",
+          "content_sha256": "99520cd77b4ea8c6aceb2a9ccaeabe16acc8ae5b44a3c0337d7bad14b4f36f7f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00461",
+          "content_sha256": "9c4e17c422cd188ac6c9d07313ec7d6afe2fdbb278e0297c2a21b7edd0cf0271",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00462",
+          "content_sha256": "d3df3a2eef10bc5002c2cfa10696367f40cc4820357a35a003b96f9fe5aa9370",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00463",
+          "content_sha256": "bc8d072ac3540012b02c465c0177a7583dd3e47134b0d44fdda536f9d162e865",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00464",
+          "content_sha256": "ee2da5921d1253c7682708ffde6c577fa6a56d1d63cd824c7277178fad35a9be",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00534",
+          "content_sha256": "6c00061a37f62666e5d9f952df520e53869a73b36367830e95c8449e3115aca2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00535",
+          "content_sha256": "ae166f2b4518ef03f6039e1507e4c66a3e6235afb0b31a0d64f30a384ddbdd3a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00536",
+          "content_sha256": "ecafcb3b3e14930856511ae0ec3a0ca9746fff6ad3c0ef521619286bfa5445ea",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00537",
+          "content_sha256": "31f308c2b5f20ddb6bbd536bb970e3a3f1acace3edec41b4d3b7e539842b3938",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00538",
+          "content_sha256": "8b9f70db7250abe588342d6b2ff378aca90060dc9640adfa1dedf21e046aa753",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00539",
+          "content_sha256": "618c67e56174637ab67673f4002ef94ef614a7fdfa61ea07ac6cbd9978c5cbe1",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00540",
+          "content_sha256": "dd06993ad8c35818966e58d5af60ddf2d45a03e15c8898955580bf2962a7dead",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00541",
+          "content_sha256": "352a20bbf6b612a56e49a9d808d183f327e70f489fc0d6250a742133f32d914a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00542",
+          "content_sha256": "880331bdebc286ec3520f7922eebbbc3cfc5371062022075b1d9f42fd304e45d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00543",
+          "content_sha256": "b2df2cd68be7535df3e9345b2d38c881fe53479317a9ebca2bf770beddefbec6",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00544",
+          "content_sha256": "5a6a21b0e1762d8ccd053d75d9d5830563038bd8ce414ba0b721f6c935f45154",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00545",
+          "content_sha256": "f3771f48d8f693027132e3e958872fbe54425eed4726a0efdbca6d4434fce302",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00546",
+          "content_sha256": "9be5a13b7d4e75db9348726a505488600838e7616b71ef9a2ba463f2f548254b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00738",
+          "content_sha256": "1fb7d78e0cae6cb175e246e395bb6c3921d00569d3677429c14590bb71725890",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00739",
+          "content_sha256": "e26483bc078ecab6527122484a13cb2e834da46d75d6e58367ffed0f310789d9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00740",
+          "content_sha256": "14c37f5b61603c70f9d5b315b7400c1e6986b6a50c52c77e2b814f3b94e4acb3",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00741",
+          "content_sha256": "c1c67a1fa9446b719748bfa85aba30c8dc7f95db22a7a496156e4cb9c75813e4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00742",
+          "content_sha256": "12e7297c40f5382441508b4fa7838cfff02450677c14d2718f09ece3e1ed8cb1",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00743",
+          "content_sha256": "5d436a74c03272cc0e2db7286c2e8dac1cb5727c9631e725c1a2333df57a1fa1",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00744",
+          "content_sha256": "1f2d571b5229e94a8f59d4b50e43c55b525388fa169afec16ef096cc861b8492",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00745",
+          "content_sha256": "7ae06709a7b63aad89abfaa68cce80788e6b2511a8fc5829bd23e87fadb1f289",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00746",
+          "content_sha256": "26c70877e58b385a8fbcee650fcee539ecf6996c4fbdeb1aed78629a81be60ef",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00747",
+          "content_sha256": "0b18c5dec14c474bc716f7ba7eec05536b92b60790902367629aa31a32e66ee4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00748",
+          "content_sha256": "08bf4e6e5a79c8e562df961857157ea644cb28f5b3a9dba6be6d2915c0e1e83f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00994",
+          "content_sha256": "c09254028f56e301d4694386242b467ce5469f153bbddbe5fbde6d68859a02dc",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00995",
+          "content_sha256": "43cb37c7cffd30dfa7f065ab3ef5dba43e93ab50e10b669bb1598a62da699f46",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00996",
+          "content_sha256": "aabd78be49f4512c2b944403f3ad2a31320dfb505a24cf5fc1d2a124e29a7b9a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00997",
+          "content_sha256": "66308da0f06a701c822e98726b034cd05aba8cd6c246383be888b919f97a6a2c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00998",
+          "content_sha256": "4bd1845555068cf395416a485f1ad0b5d9031db1b0b89fbdbbb3ff7f164ab0e7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-00999",
+          "content_sha256": "b4ae8c95a7994401495680e2b6ad869dea469613f33271d882552be4232df76b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01000",
+          "content_sha256": "1262f70d7c4c23196f45c8c9a0e8e8905c3959ecf1b5e8afe9ec5d7489c946b4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01001",
+          "content_sha256": "5670962707da81b903dfc4be804f7008e47e38cebff95878d8023ef0a65d3fd4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01002",
+          "content_sha256": "1c4ad698676b5028c17c63ba2fc35b5016868e0b36205a51bb5ca714dfae3916",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01003",
+          "content_sha256": "631f9523a9ba68fbf9864502aeea4e420a113817b212b2d415b85dbf52b3502e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01004",
+          "content_sha256": "217a7c063d3ba1c8ac1f51c9f34547baef753dc4e27e27a631159cc0e5a3c393",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01005",
+          "content_sha256": "22e2d1b274197f93965502260b96517c2d3f127237f3a8a9b397edc015f4a979",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01006",
+          "content_sha256": "d88c5273782dde7dfde5a86608d85a0df4829bcd0cdd25d70bc7c64e9da13cce",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01021",
+          "content_sha256": "d7d34a14f6f749474c68b1fd5f166ac171df75ad14568625cafc4b876d79d29b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01022",
+          "content_sha256": "7787ab2ea7e036886aa8b7c2c7468c9d702f021362ce5e4e8d588a02ce4695b7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01023",
+          "content_sha256": "f84d6f6ff23c9e2dfb5676f28a2807dca9108dd410ef222c25bce70fc52861ac",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01024",
+          "content_sha256": "072dbe2d4496e3bff8826d88165d960a250428633b3e06d58637ae89462a2a87",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01025",
+          "content_sha256": "96c6656a4c8fc7999a808ee02112f889417986ae0a0e47e936b1850face06adf",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01026",
+          "content_sha256": "7a8de9dc6848726c08b4afcd59110c8c24e896dad30c3d32a28558729c7fe2cd",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01027",
+          "content_sha256": "c9f9c452e0be06578dfd824cd6f37406e17f0ab0c806702aceadee4ca348404a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01028",
+          "content_sha256": "44167c7e484ff9e9f157aa271a30c27641267903661df691161f3b77add80e85",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01029",
+          "content_sha256": "852f44d7490cef39727b91951a0e17fe9d790af4150d6f162f39868b68cc4cbe",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01030",
+          "content_sha256": "7424accd177bb6836eabdf479cc921bb3cd2486ee31f135e7288ad9d6731d005",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-01031",
+          "content_sha256": "e300ddd156ab6ab95c0b56469795eead705a419b8c34d4e808824b2a7451f437",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        }
+      ],
+      "anonymous_evidence": {
+        "availability": "public",
+        "source_url": "https://www.superlinear.academy/c/recording/hanhan-lizheng-work-to-business",
+        "verified_at": "2026-10-29T23:06:09.319613+00:00",
+        "receipt_sha256": "5b749d120968b704d2e22f5df27597c6c07c36576a94fc45e9c29f58ace454a2"
+      }
+    },
+    {
+      "source_id": "dialogue-xiaoyuzhou-6ae1e359c96c8942ec13bb1f",
+      "source_url": "https://www.xiaoyuzhoufm.com/episode/6ae1e359c96c8942ec13bb1f",
+      "corpus_path": "corpus/dialogues/dialogue-xiaoyuzhou-6ae1e359c96c8942ec13bb1f.json",
+      "sha256": "a11af34b3328fe2c46c5106f4d7301b6f72c6193537f922263b4bb05bd739895",
+      "cue_count": 372,
+      "review_units": [
+        {
+          "id": "segment-0000",
+          "content_sha256": "07294da8db4906fc4640efca952a4819ecbc148587cb3b3fd16bda9b3fe3fb4e",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "segment-0001",
+          "content_sha256": "3a0f8b70a103e08aa7e366e9666f8147f7659408484a05d3e6d1c4b119d8e6d6",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "segment-0002",
+          "content_sha256": "339303ab675c7791c3e2555e090223cb144a04e1d23dfd244a3782bb949be5a1",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "segment-0003",
+          "content_sha256": "509cfe7d2528f494801c6725f9ce97056743668ff7f9c90d1c3a3679ea7a0b06",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "segment-0004",
+          "content_sha256": "0b17a13be47acb37c979960b9082520dd74ce1e394f1d488227f687efa1771a4",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "segment-0005",
+          "content_sha256": "d0aa3ea3d18676ae75e28b16a89afeb83b36ee4e23c589aa7c3de4bba1c320c1",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "segment-0006",
+          "content_sha256": "9d164e1552ab390450e60b2e76e5f5c8196b6175f42d4495ab926a1505878f5b",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "segment-0007",
+          "content_sha256": "8198f4cdb1e3a570f22353b8b5f8e8b2fd2c61c53697233e7495a0ddf34e98ea",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "segment-0008",
+          "content_sha256": "7b07b1c818841fbb1f49fec75a200ddec7bb260eedeb002fd51032061a27fbaa",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "segment-0018",
+          "content_sha256": "9334e867aec2aa0ede62cc30d3bf671a6c76d4e7c6d66d341b36a849d4ebb942",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0019",
+          "content_sha256": "09fc4337a5da644effa6d180269b3540761d6e8e762923a6995695320b87545d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0021",
+          "content_sha256": "a9655156535f323bf1943d2f38444902b0d3ce1320b623563f63ecb44ec6bc39",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0022",
+          "content_sha256": "e3e9b204019e8c11e9b3f5673dd1fcb5e78486e08dad8b97a909d5720a52b39c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0023",
+          "content_sha256": "87b8ebe8c7a0d2533637481312432521355757cd5bc4724edb8a35c29556d59a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0024",
+          "content_sha256": "d05615f7e9904b2e90ede9f6e365a6c8dd6c850b55d33d7bb700332d1cf79686",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0055",
+          "content_sha256": "ead1351d71f3f3f9d7a8cbb9b82869469e7e0055876f4fef6c89917c51cbbda4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0056",
+          "content_sha256": "1f7f1ec0b66fbb3033d49f7951fe4dd4ab37b63053838d1584e5eb8b7791fa9b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0057",
+          "content_sha256": "4807922ba36e49db4ac7dfc0fb3de6ed932ac8166b892c0667714089a9ae03e4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0058",
+          "content_sha256": "e1af53197d1629110167d9b3cdf9dc8ee0ada92364efd0ca87ce0c27b6e3df7f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0059",
+          "content_sha256": "f0a48091e35cd4f20422822c88f68b3407ee0a94c3a8ae0ff58f763ec5fd9918",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0060",
+          "content_sha256": "4c4f4eb1c7123a5250410c78325ac0d97aed6248365b94d45d21ea8bf045cfcc",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0097",
+          "content_sha256": "ec29a331c8d455b61310063e25a890fe00cf75ed0b644c6a592b7eca31c99e56",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0098",
+          "content_sha256": "ee154d50ab87b22aece03c19303fe63659d02317d105ba832cb9671db830ebeb",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0099",
+          "content_sha256": "1fb78b2377c0ef0f1e87ace9c8e261ed8787010f7f436e95895c819a0d3c41f0",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0100",
+          "content_sha256": "2c09f335313acfe7b90ebd9dc2db8c623e64f1cac76424c40994ed79ace853a9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0101",
+          "content_sha256": "ac9ea3a5f787109613367a8dd6e227adb0d70117260c3b097a899334d65ff8b4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0102",
+          "content_sha256": "81198530035dcc7430924d63c4d913699dc10f974ac90175c33dc8a886bdaa37",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0103",
+          "content_sha256": "eedf8c08a2c5f09a6d566d5e75ebf3f01382934ea15bd815ef158f150d3d29fd",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0104",
+          "content_sha256": "a3d5fdd72f005f6f7a716a7f55c58a44f2ea03c66b41ca9fa93d9e1de17a0659",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0131",
+          "content_sha256": "8f660971ee7d00e73a6ee072fe6142396d741fb0ef8d53e0da2ca2448369cbad",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0132",
+          "content_sha256": "79b299f74f4ebb182d20202cb3cf1f5f7d06cd01c47c8f33562def9a7337d2af",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0133",
+          "content_sha256": "41996f5d975a1598373de4dd25d5182718e3941255d33064599ac9263f15ee78",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0134",
+          "content_sha256": "39cb3c512ea7fab4ef2195549c3c6b40a6389568b1c870d6cd105d447c8fef69",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0143",
+          "content_sha256": "7dfcdaebd6b79aed22e63cd2234d27d0e6ccb202912913a52a3d8056d9fe69e1",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0144",
+          "content_sha256": "0332bc5ed8991a53bd4ce714dabe4d95b18529e729efe1ce8ff36083cc1897e5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0145",
+          "content_sha256": "908e4b3b5e02d1d93282043e7bbe714657e5083735612f8d1fbf8da4b309f503",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0146",
+          "content_sha256": "11243362d9a24144771071de8a05a243524199b71285e6a0cc3ba61fc2275946",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0150",
+          "content_sha256": "85fc639ad7737d6526e90c7f6cca675d75cc969d83d528cacc570ed63e82d82a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0151",
+          "content_sha256": "9dcd9ef84746fadfbc80faa7ede3847b1a747fff8d174961068918c821a0b288",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0152",
+          "content_sha256": "fda2c4e31f4a44f36a8344ebd89bc7ba0712862e64a57b95dffe1c3bf4a7278d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0225",
+          "content_sha256": "5752057e3666f14abef7343ce4f0aba3e0ae92740e6b8369c8567dd1aa3139a9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0232",
+          "content_sha256": "3efe5eb17a5301fdc6a6e3238c4fdfedff1d29c16673f2129b1b0eed82ba788c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0233",
+          "content_sha256": "2d9fb84c5323c75967b29f68f8fc2766cbcfbfb9fbde66f1c2d2e29c2cf6371c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0234",
+          "content_sha256": "6c7656611fd7208bc8ad45d731187afe85ca229ba6042dfeab719be325e33d50",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0235",
+          "content_sha256": "507f3d0406812b1aa994c89a07d816de36d32cb2e6ca4aa0b2c64a97d92fdc0c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0236",
+          "content_sha256": "e619d978c681d79c28a8883fe889ca202e4fb725321beb4b7f2ee54efbf35e8d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0237",
+          "content_sha256": "de78582225bab3d8f0006bc481f68dd6eb3b42ecda6092ae0da8d38741f29b96",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0238",
+          "content_sha256": "eb14cb48dc3ee9ebc05c253f1edfecb945b130bdd1adb23d91ce4c6fca8f9365",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0239",
+          "content_sha256": "9e208507c9bd2f388088d1e3b23aaa6f4ddc8c79aa1ba6dd2cf9cbf74acaf965",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0240",
+          "content_sha256": "e4390ab47a1d79b03317d157d3eb6d4c9932cc975a4f2d47f1d3852986daa799",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0241",
+          "content_sha256": "45158c1c5867ddd28d1ea27d8157e6a6c90daeefff55a49022df530fb6d25d5d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0242",
+          "content_sha256": "e2f91f27316dc69a972ecdf076ece40a15d26f0f67200c13aabca2cea4f6ac39",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0248",
+          "content_sha256": "39871dd2072fec5c4dfde983b7009683ab548fbd4d4b9ccdfecb79f973f10792",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0249",
+          "content_sha256": "09bce36fd2c483289ca4f736ff28a9036e7e36ec58bbe2b8518a6ae916684686",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0250",
+          "content_sha256": "de2b9776faa91343ca64c193a14c423d9981413058be126e0c436e1807f7e920",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0251",
+          "content_sha256": "068c7bb3b5c08e48a5b2950843bbefaacbe08d176a2e3b53946a2188fcec090c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0252",
+          "content_sha256": "a3e9536e250642457a0ec1017929c0a932856d5dea78581c13dee0ad6ab54408",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0253",
+          "content_sha256": "3d70804f0bb21acd20666ed2b6e9b545f5fb67ac8f854005ab74dc35f4a411ca",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0255",
+          "content_sha256": "41044b2f9ccfe3a10e0c38d224b9113d2cc164e89b6717b0767bb299d2d72c06",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0256",
+          "content_sha256": "f2746d275e1eb8999bd307f899281ba1e33b8f9f8b8c5f85fed2778ff7146df4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0257",
+          "content_sha256": "3bc8938dfd471bf68761e668c3e58df250112197ee0a28fadb771d95ea25745a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0258",
+          "content_sha256": "148680982a46527e1338f640e03d182f1b1fdd46c7851a077b12beef94d85bdf",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0259",
+          "content_sha256": "7f011d458128619bf7582fa2f5adfd942026480aa4b840be5c77f06bca7cf937",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0260",
+          "content_sha256": "835d67292ea6100edf4f37509c3876c570f98bc30716b00fdefb08daee528568",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0261",
+          "content_sha256": "33ecd7aaec5d96ea7900ed68529bdb5d0e250e5d5b145d68b8cbc29b33ba5358",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0262",
+          "content_sha256": "8e59446d82ea07a141ce197b708410d36b9126b84e038d0e50dde823eb1b4b16",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0263",
+          "content_sha256": "6564d5d522a8ead8d13165e482781661bd3bb7fbb02774277a396a5e117b1ef9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0264",
+          "content_sha256": "b3182c544b5c63f6ec96e9933ca0cdf13671da5d4fc5ee67bcb6d853eb1fad90",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0265",
+          "content_sha256": "0d6d97edc87345242e744e65f35c57e1c1a1e76ca735850af20f51ecb1b47662",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0266",
+          "content_sha256": "9df371d328dca6bee4e471eb3ccc337c5784d1fdbafc3323ef42478d8912e752",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0267",
+          "content_sha256": "97707f478e02d30f4441db5de6c6fe5221307bf060589af9cbae17d66a0b42b9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0268",
+          "content_sha256": "cadd4b63c21b2ecdd6626e2c5baa63f1a847e94a8974d956cf399224bd54843e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0287",
+          "content_sha256": "68be0b987c7f05d9cef74e09d1081ad1a5dd98ce5d14f8a0e7b9191b41a6db16",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0288",
+          "content_sha256": "dff37561f1b70c3d887f4c275ce34f850c246e9dc030e944b0f45d0d5d6ae0c8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0289",
+          "content_sha256": "ed3f6022516e27904700abaf007d0570bcb7197f4d45afe73ed3d7ff393ecead",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0290",
+          "content_sha256": "8ff2da39d025a53e2be2a1c4cd97cb06b69d828c807b42a6e43bbb614eded32f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0291",
+          "content_sha256": "1c2033634a22d226887c5067354387a8e6af41d1a77ac1de8a0c14c77f49a076",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0292",
+          "content_sha256": "109a18162133098047711aea1b9e18fb59eb21b5f3c35f276034ad1c0167eb64",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0293",
+          "content_sha256": "c8610fb4b89a5092cfebcc3b06133bfbbb9dc202306cf467c06ad90ea6afee14",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0294",
+          "content_sha256": "3a71e5ba1e703c791ff132dc579b9cd15ce31e8286a8294a442eedd45d8e1209",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0295",
+          "content_sha256": "b45a5f6375af8f96789805665c354019dfb2062502f1a06ef70fcef0b406039c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0296",
+          "content_sha256": "c302c7465453f2540992d386187712ebe39d9a509610df7e3ddc737c122c6fc9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0297",
+          "content_sha256": "efa7460b932238731781d9db32c13f888db47032fb78410bb30f651825ff0bc8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0299",
+          "content_sha256": "37f00ca724bfb35d8a89e53e0ab313f6400d9316464aec4ed67c3afae3039fce",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0300",
+          "content_sha256": "7ce849aeaf94c26189e26cf64e8a996ac5088d6ffd5b89deaaa1442235cba263",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0301",
+          "content_sha256": "dc366125d686d782a7021e82888d0cf3774e7c48973f01abbba1f841aeb0a400",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0302",
+          "content_sha256": "70a2c0ab66656468060b5fc93dd8ce3bfecb717c0b337012ccb22ef7617c7091",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0303",
+          "content_sha256": "12657ca3f53000d3bd0d91243fc96882f6c2275c1b906abeb0632bae978953ee",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0304",
+          "content_sha256": "85ee776649283e0d0dd2debf2f62a19b4759a720df77e261b003fa9d8c185868",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0318",
+          "content_sha256": "a2adb6ae79ccadda3bd9ef9085bd0019c78011737c1b880f29c32c01fb87cd17",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0319",
+          "content_sha256": "677af40f8280751d80c7748a5ea59ad395736c0cb4fdad6e4413cdf116f4b601",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0320",
+          "content_sha256": "9f6e4eb14913724397af99f46634b19034c4a5a09d00fd0a22f6fa2cdabadf1a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0321",
+          "content_sha256": "cb4e95240a3ca869dabf96db2f5dfcb27727a87f77b9bbedac47f2660dba4fb8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0322",
+          "content_sha256": "9cb13812f60b8f7fb3d31ce5b40e6af49392f69e954987bade7dfdcdb66daa7c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0323",
+          "content_sha256": "22570e85d958d94e63a79ac581bf236a5ca873f74d107e6dfa87c8eb7495dbd8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0324",
+          "content_sha256": "aa707c51223736c091715190d1aa6a4c8813a54b4bb5c20580bc4ec45215c79f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0325",
+          "content_sha256": "04b11ebb316b39f2a0096a6952e5ec38e15555d8f87d47e1c4180223a0abcef5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0326",
+          "content_sha256": "c016e82fcc0f11078e0d6f2ca22a905f061e6769c6d915ef00df061c75f6d98f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0327",
+          "content_sha256": "3073712d6dabe1e1706b005d288227e4afba3e8c5cc6d9fdbd03067ded3b84e0",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0328",
+          "content_sha256": "23322311775d7f7d48411ce24f9b0110acfebe33d6af6b88e2e763c6b8f7ad95",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0329",
+          "content_sha256": "89597db0798fb7a876bf7604d733560703ed7f5b24619c8189f7e950230f021e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0330",
+          "content_sha256": "1bab59385fe2650da33bfe339105b59c56afa73b036a3fd23531abac9ec09d4f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0331",
+          "content_sha256": "f355c8efbf09d9e9be984644e0360575659bb132081775257cd52ba8dca9ad37",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0332",
+          "content_sha256": "1e519b0861ab1157ae08f550c4706b37f92b1d7e285d24300c6dbe769136fc96",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0333",
+          "content_sha256": "4d215bb08c3016c4319745a2870b6dfb8f4adb9128f5d11e6af065a393a03336",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0334",
+          "content_sha256": "af6548a401b17163da3a4ae72fd6476f1672b569904c7290beec4a2037ea6566",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0335",
+          "content_sha256": "9e32f890ddb10bf7c82625dc507226fee624cd691b713af595564568ed988408",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0336",
+          "content_sha256": "6805d5a5e013af74e9ad725dea6fcb039b1125a21f7a55243b0d91715fbeed3e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0337",
+          "content_sha256": "b71e81f3ceb943d3cf65f3facb3a25c7cba5a660906baec2e72ef531f983215a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0338",
+          "content_sha256": "48a83fb3ccf9f837342f2be1603e7382a632d51d8e36941f200059e5aa5398aa",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0352",
+          "content_sha256": "3f6b361aefe448ba1b202a7b61bc13acebf839c565fb0de21ea3acf7100f06be",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0353",
+          "content_sha256": "d47a0078a078b5ad47c4d7c14305923b64fd57de3bce76cd5c6dd4b894a746c2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0354",
+          "content_sha256": "1623d785a2c1a5f1c4dc8c022c6d08db0a33abbc45a8f7a4255891ce9a1f97be",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0355",
+          "content_sha256": "28bc158ddb69b4b1e6b14f427c9212750190230f7fb4353771e6146381c1fe8e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0356",
+          "content_sha256": "c87a2582a3082a855ffcbe9b82d714231d0b3ae773baf2d158b4af10843b68f7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0357",
+          "content_sha256": "da58eae0ac566365a1fde852a670ef84a162d73d309f3c0e9a97a26cb60844d1",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0358",
+          "content_sha256": "1022c684755bf4a6e9a5f4554338ccafc4d80108916843c594a1252213fd9c99",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0365",
+          "content_sha256": "b08cecfc4b2f7067d95dcc739dde562f03b1019351036f51c66bbe835d80c1a6",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0366",
+          "content_sha256": "fc68faeaa1cd59944ba1dab3d6418abd180d82d658c15bcb8b7c3bc4e61c2bd9",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0367",
+          "content_sha256": "48932a0924ae9eee9dccb72a48a48b9f039773146519aa988684d7f3edeed018",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0368",
+          "content_sha256": "da5a491dc45b6246bd92b18b7095c81e81d948d78255fe062c4a83dee3fecbe6",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "statement"
+        },
+        {
+          "id": "segment-0369",
+          "content_sha256": "1117ea858bdc9a9f423383d5b55fe24a753ef1e45960cd9e392061708f76d8f5",
+          "speaker_id": "host:yang-tiannan",
+          "speaker_name": "杨天楠",
+          "speech_act": "statement"
+        }
+      ],
+      "anonymous_evidence": {
+        "availability": "public",
+        "source_url": "https://www.xiaoyuzhoufm.com/episode/6ae1e359c96c8942ec13bb1f",
+        "verified_at": "2026-10-29T23:06:09.346192+00:00",
+        "receipt_sha256": "8b6c6be1a857d53c8688cfeb8601f3ae00105639328c68c581fa887e188a6558"
+      }
+    },
+    {
+      "source_id": "dialogue-xiaoyuzhou-6ad8ce0cb381c0fcba19b6f8",
+      "source_url": "https://www.xiaoyuzhoufm.com/episode/6ad8ce0cb381c0fcba19b6f8",
+      "corpus_path": "corpus/dialogues/dialogue-xiaoyuzhou-6ad8ce0cb381c0fcba19b6f8.json",
+      "sha256": "36892638e77fc5914e07c6de3616afbd0db97abc54388af87b702d7db76a9a34",
+      "cue_count": 1345,
+      "review_units": [
+        {
+          "id": "cue-1",
+          "content_sha256": "1aab36f4da2bfecc94d997b0d5c2992af4aa066a2d245adcb9a36800d9bbecc6",
+          "speaker_id": "host:lin-xiyan",
+          "speaker_name": "林希言",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "cue-2",
+          "content_sha256": "3dab76bedece25f4c3ad43120ce7d95ce8f542d9fa16da3d20e70b5980f5ef85",
+          "speaker_id": "host:lin-xiyan",
+          "speaker_name": "林希言",
+          "speech_act": "introduction"
+        },
+        {
+          "id": "cue-201",
+          "content_sha256": "ee399d112f8b45242c6880c5f1eff4a75c9602cfdbd98e25f703efc0d334b65f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-202",
+          "content_sha256": "98702a60e8dc24b2c8db8ca689eef0df3b209853b89d37e6ff0707e3c1edbdfd",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-203",
+          "content_sha256": "e3e06f724e5fd245759a97346dd76e7f2203fbb6a0a9c758c7375673c57402cf",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-204",
+          "content_sha256": "fe12148e49be2be31b9de0f7f406c7f0a61419fc215587e41990e4f8f4d886aa",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-205",
+          "content_sha256": "269b3ad027f67ec51ab7b016d2b14375c759dff8d0fefb54e3666d010b3fa78d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-206",
+          "content_sha256": "702c9e630e3491bad71eb02095fcc57d82ecbcde686d6d6dd7f0ef50d56747b7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-207",
+          "content_sha256": "45383c83c6ab735de6d129469a9b143326596fb55d4fa1b68ba37eab9d809c79",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-208",
+          "content_sha256": "784302b305a88e3ee024c344dc51f1c5448d69495967dbaea6363655aa06c546",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-209",
+          "content_sha256": "1eeede544ff7c41571e6da1678ad11350fd99d3c6f63fa07a389b1b8b4754b8e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-210",
+          "content_sha256": "a0d8bda335f0d9720465527060ed24a0756211289b22da2319fe66ff7bf01e2c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-211",
+          "content_sha256": "9a5e67dccd32863691b5a28edeb391532234918fde5678886962b5a6fe51e480",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-212",
+          "content_sha256": "cdee8f12c68ea0cf99f913c703fc170bde8f620e6a38454027625e372cf4509c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-213",
+          "content_sha256": "b639c8b5d13049f563a73ba0f291cb8f57666f12d822931994fbf4e9493f1fc5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-214",
+          "content_sha256": "7952c7cbdc807e49cf75a058933c2083c70f6a12ab44c08c1a5a661ab7b2f241",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-215",
+          "content_sha256": "665d26473acae9048c4b88e7c6fcab1dafaa107be2bc025aa05ccea76deff97c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-216",
+          "content_sha256": "e9e2204ef396bf0ef0092570da433ec9ba5241e7d6da854a14ebc384617ea849",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-217",
+          "content_sha256": "875cc2eada8373edeaec728e520e1ce7546094c337cf94df7ca48a576fbceed7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-218",
+          "content_sha256": "3dc937ebaf40c37e26e7ca56259f0071d78a15f80b1279c6f21ecffd610a4963",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-219",
+          "content_sha256": "ebf4d08034e5001a81652c04f7cfc0caa27046d71c18320647ffc0817e20f7ce",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-220",
+          "content_sha256": "b79b8a3c7de6455adf6e1b4083cd27c681bb7cba33cb2f3baef9edb622922fba",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-221",
+          "content_sha256": "e2c4b8f63e7d47937d6383e21d3363976cb75de8d60fc2ce7e4329b81415d384",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-222",
+          "content_sha256": "c80db80434c3671cdb99e206721c05629aa256015a75b78f47390c7b9e8087a0",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-223",
+          "content_sha256": "75597e48c2305f2d81f8130c46264affb630c03182d08125846660e50f33c24b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-224",
+          "content_sha256": "c24be496323ad2458815c39a6ddf70068145d085bd67f1544449e116a42c22dd",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-225",
+          "content_sha256": "58ef1f5f4481ad9c408ddf9b4f0189cc72b84471e8d172026a38678c0594c4a2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-226",
+          "content_sha256": "be443158fa6d50d08a9115aa6970f58b205575cb9da0a56fc9c7f4f49834b817",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-227",
+          "content_sha256": "5afe90f37b792db03f5b2f3804897bb61be32c362f3e2c414833af70532fc2cc",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-228",
+          "content_sha256": "1078ff7f8b0c553af9ec397abde368ae285c67f8584d5c6bd91064fea7b2cf41",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-229",
+          "content_sha256": "f27f22d4df0e5381bf6c2254d742e3cab1a740b9de01e8d2c38427ecbeeff00d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-230",
+          "content_sha256": "a5c2886b43b7df57dccc21ba4cecb4a1ed4aeacc539c34802cb695bc78a66f5f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-231",
+          "content_sha256": "f6f048d086add4554498b476d9359c51feae978b6a5b3734b10dff27beebd618",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-232",
+          "content_sha256": "42616b645f8bd8e2188d639fc675d7ab15fde3c5691af79022cd8619f36face8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-233",
+          "content_sha256": "7345218ff41382ca9a9cf838aa407322b8a6e0e8ce6097caa1f0e9ec0af7a9d8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-234",
+          "content_sha256": "9e2b8056226f1531b0cbc62cff65ad7e3cbfa950b355c6422a948d7720eafada",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-235",
+          "content_sha256": "6d1adf671cdcd8ab77f60071551ec16083acf9b8f09c2e5fe37579405785ec4d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-236",
+          "content_sha256": "9ae4027529183f2c157a5171e8dc57fff52fe9a8b47ace4e792b092b039490e1",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-237",
+          "content_sha256": "7a5072e50a55ace1b315a26b9cb0c248e97d79998153835b273f556a6d151463",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-238",
+          "content_sha256": "8169abfd03ae6adc79783dbcf811c9b5a3ef2238cc4bead1e300f8d2a04bbddb",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-239",
+          "content_sha256": "e56b163db958f5ac2c2a4429b6abff661d41fee41fe4ad6ad34652070c37cee3",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-240",
+          "content_sha256": "48e40345ea56550e410d182400e55b131d83912f8510fab71f20baf4e4b01d25",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-241",
+          "content_sha256": "cde3e9e1b9349b23e67ff4347d569b2d139a9575bb52234ed24f46ef1eff933a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-242",
+          "content_sha256": "27711a40d4c487198f3103c5c41f200e7fd1b92d9d608b5075a922802efc47b3",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-243",
+          "content_sha256": "4298661efdfecbe584835437dae9cf0471d13dd4d809c3a81b9eaa07365f3d52",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-244",
+          "content_sha256": "9534f597f4f7a1ab57b9cc7cd1734a2fa9cb8ecff94fa6b838d7f5f3777fd859",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-245",
+          "content_sha256": "f58a80cdb60de1e087d2db23369bb52021d3dd894a2c39734be13b8e9adb9aa5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-246",
+          "content_sha256": "e72402051576f26616cd4017d81ac05dbe5ba93fa6cd28b2e66654b0f93892e8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-275",
+          "content_sha256": "c5baf45737a2ec1f03be190ebb55f41b0e457eb006a0cddf6da4e484b1c5a71b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-276",
+          "content_sha256": "e8b5f55e1b807c97e2e6280583705cde677b750446bcd54185b3ce5672c46413",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-277",
+          "content_sha256": "da26d1862e0dadbbb99d250191868d288b781c9feb041e021ef9e11b7baa022a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-278",
+          "content_sha256": "2a242f2fb7ed22bb0c75656d92d3d5762fd3d068e7b4f24201cdbb1682ce376b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-279",
+          "content_sha256": "bd0bcb5daa906bc9a570a8b8d03d9667a7d4225706ec87ad44e6e5a24019b92e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-280",
+          "content_sha256": "8fd2f4b067474d11ef9e398885aedf5bbc665f275efa5066f6ff05fc71a1054d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-281",
+          "content_sha256": "9b748cda0c5f08aefd9810948341136959f4be9c82d0fb4891b4a97f5d8730cd",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-282",
+          "content_sha256": "98c2bf3fbd0db072a503b0c94859d5185179b2baf7cf48f56d5dcd852f098b08",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-283",
+          "content_sha256": "d856e736c2f3f384eceeed7a5d8a312ef2a76b23a62aa75e9a34e239e62906a9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-284",
+          "content_sha256": "3b4660ab2f2e407d37c3caa74a3b411dc4c6ef06ff879e35b087ac92d2e523d9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-285",
+          "content_sha256": "81b2615555ca32c0e444ee4be8d8da704f3364fed2eb343ccc81d2797ecf14c2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-286",
+          "content_sha256": "19b714f2106ffbdb9e0c91d8b7f0e7b165d2cb2026ec9c2d9edb656ddfee9e3b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-287",
+          "content_sha256": "5d2460e8b3f2cd0a3322f4498892ac865ac4cd9d6964bab4ad15210967bf9706",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-288",
+          "content_sha256": "287108e33d1cda8b246a78c82e1f570ace91054cb900e00b845099e84634c382",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-289",
+          "content_sha256": "333102d00f6450f74d5ded84db5e2bc52b3f68357a8fc96b765b3454255869e5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-405",
+          "content_sha256": "9795347e0a76a30eeae76228040af79206762147ac14c217f41a2714b5ef3015",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-406",
+          "content_sha256": "6db867226848a8d57ab8748b3004a187d4ed64ba1a789928ba42d8bf132900ad",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-407",
+          "content_sha256": "c774a544e40da128a7bfedfa0d840ff89f99a7f15f22203b9f35f2849a9fb306",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-408",
+          "content_sha256": "b728785133a398efb0fa950c20d9a8b92a56c96cc760d7c551ff0662e1e21ec5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-409",
+          "content_sha256": "b0710d12a4dee72bc13c2aa44da7724570b1a79de35ff804dd5e199bb4adeb4d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-410",
+          "content_sha256": "1ea978d0918721526bf08d6f9e89c8c0dadacbcfce2d4f51f6e2c47371a856d4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-411",
+          "content_sha256": "4e707c49529e6959421c862b0e53c407f5cd9f7d0a164d992f5195979786c47f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-412",
+          "content_sha256": "cccba74909ab2b3c1af5bfa57bd9fdf2f6dc166569c46430c9cfa763e7242a31",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-413",
+          "content_sha256": "db63f99dc223e62a5d531c9f610318228a434a45315045b2de3a7b375cf38bf2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-414",
+          "content_sha256": "38993ced60a14a315c5f57f5b74fd0f4c0df0b2c665c0bf43eeab3666472d628",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-415",
+          "content_sha256": "c221caa477b63a6f8472c300f1ff9335d8a5fe151db6661985e21947260d344a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-416",
+          "content_sha256": "4652e5181c48be7f5deb48caef2966be283b1cfc08ec469b0aea0410b951f0cb",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-417",
+          "content_sha256": "796ae632adab991b00c9429636fcffa53a1c3c2e8c1ccbeb02f0c77ee7a194d0",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-418",
+          "content_sha256": "82c7774d5bca29b6a3ad414c622b1da0ed1f9c5f67a24523604e8d1ba496a816",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-420",
+          "content_sha256": "60c86cdef1520cd960cd82ed8810b4334ba90a77ca455ec05c9f397142807fd3",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-421",
+          "content_sha256": "2a99af1de8b06af2d239196a556a406394d61d56d641d81a6265611679fee988",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-422",
+          "content_sha256": "75379979837f3bace48f961133f2f091bf69c6385fa7dc31d4578e8295f5a18c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-423",
+          "content_sha256": "fd8bd0e82900205d3652485e61262436f6b9e6d564c4d3f8bb37ed3ae51ca72b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-569",
+          "content_sha256": "2fb2ba5fd82470aee74d4d395cd3010e0a0085103a4b70ea9598595e818fe931",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-570",
+          "content_sha256": "8fd18bdc402dcaa3222340c3fb0b4b993d37bb6f088f430b672c180e70087a5f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-571",
+          "content_sha256": "9b599182a0cdd943515d27f00201b9e8f73c42d31db9e75c172a38a7b66984a5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-572",
+          "content_sha256": "fb6e88c014f3d83a115b42c19cfc6f60943a8fac7f2316ce54670a6b87350a57",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-573",
+          "content_sha256": "ac9723c143e15c6df7cb2a53ebdf1e53e18df3f8dbc27e3731a48bc11b28eaf0",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-574",
+          "content_sha256": "e32f5f3df9a5f658cd5bead55d8e2326edc23b25e0ac778afb3e64869ba0387a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-575",
+          "content_sha256": "9648cbb36be12b124086e7d2ef95139120e9b52070afd55aa5d3c9adb488a579",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-576",
+          "content_sha256": "1e0336728a7dd08f92112c11bc58d85c61f0d9c9fba3ae64dded1c21a12a6200",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-577",
+          "content_sha256": "5212e9db2b4d88d35192a8030fb0a036103cc6ec00b443ce63edb9f9aea96c1d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-658",
+          "content_sha256": "540910284b58f62aad1122b14f6739dbdbe473ec5d180ef8a78b49fda8e7a184",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-659",
+          "content_sha256": "eaa1763f19760b232f5bd2b26ecaaa5ecda0a7c3a1b4e22b15ad201f2c0507a2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-660",
+          "content_sha256": "b66189e8121a8d79b097bd7379b120cb8eec52bb0803a0c6283f3aa3a60a27cb",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-661",
+          "content_sha256": "8360a25d33da417fec8a32607f1f9f7697b35f99256d34ddf4d8217a714d691f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-662",
+          "content_sha256": "10e007c2632ae180f79e4105d815e595833b1d6d16b92b067c1e49b0202593ec",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-663",
+          "content_sha256": "bfa11fc66d0b649164eb564e5c6441f054d8eacc0a68add8f1e80835eda4c124",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-664",
+          "content_sha256": "680da88d76ac216227c210d5ea8c066a67de25484f2ab7126666cb84e137abc8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-665",
+          "content_sha256": "fc6705720e3f570957dbb37419f156aa1aa52c9a284dbdd7a126313aa56c3dc7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-666",
+          "content_sha256": "f0ab9fe014d6b32310b3c0cf53c686512a315c10f11584db4c831fe469e96590",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-667",
+          "content_sha256": "382420306ef8f9335dcd7b32c5a6423810f2e7213ae0fbbf7ae654cd7f05b6c4",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-668",
+          "content_sha256": "bf81f904e8ed062bc7751a9a3738147063a6cce545fa0b491e17c080f3f33c34",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-669",
+          "content_sha256": "4b3b6ee00bf1c528fe58d5a6ab935f8f8c08e64f7924a912ae6984c2b4b898f7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-670",
+          "content_sha256": "03fc21c472981e7199be79642a1ee6b41d76be77d33891bcef95b32d72a826cc",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-671",
+          "content_sha256": "06974ec2ad086ccd0468458d576e454ac30798db2c9f1e1f616934f833dae648",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-672",
+          "content_sha256": "a941bd5568208477515110d0f8dc7ac6cf98a7a504a6b259a28f1d105e77921a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-760",
+          "content_sha256": "e53245e6b3e27732e9deda4287d72aa69660b83ebdea3bf624b01dcd5f2b5fcd",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-761",
+          "content_sha256": "979599a6afa8cd2206ed14ecc354885731bc5e8dd83a7036c46ff43ff15fbad6",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-762",
+          "content_sha256": "c92cb17d063d9c5cbd67bdce36378c9cba46b42707a26e8f1429e24d85e849a9",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-763",
+          "content_sha256": "4f48f529276958646e06a92d14d748c1938460b648820f1d9416caa9d054d6a6",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-764",
+          "content_sha256": "ed19f3117ab4687b15ac32bddd0ec7853d63f108ae68d06166cf3fc42e0f6760",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-765",
+          "content_sha256": "64000a1e4ae26097b6cfd6de3732af1c25d90cec5af62cfbbb314d3c6b605d10",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-766",
+          "content_sha256": "70adcf43c1b8b272c30ffed3340a429429a392e41c27fbbe420e71c9d1646a45",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-767",
+          "content_sha256": "3e120461ca5f1c67758ef5d7e86ad3c91a7eb2312acc38c1368154cd8cbb8b81",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-768",
+          "content_sha256": "cb79f7669cee50757b66935c0a984ca296227cbe0db424d711bceeaad34257dd",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-769",
+          "content_sha256": "05df2f837d913c11a55c77e0d54234c637eece160e27f1a27719b822e9c90297",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-770",
+          "content_sha256": "f0539d0759e6ab82113e62957ebc7a63347f011ebc8443dbaca081b97be4d2aa",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-771",
+          "content_sha256": "1754987203831211208dd8e5f745e0f6cfd927430b18f3ae25531ba084001385",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-772",
+          "content_sha256": "8ef8eb7094c7c36d6711ce86b15db7fda0b531b7130f06f1e893eeefdcbb80ec",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-773",
+          "content_sha256": "5c5b738f3d17dacd46860e746867e4c95af3f8b7840477fb71d53bd8d42030df",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-774",
+          "content_sha256": "c3308cbd76b4273b2b76fe3aef8ae07d165123a5531fcbec3baafd4f54d843a7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-775",
+          "content_sha256": "e1151041b93318642333e5fe593f599fb9fe8fe40212288a88e343680a73d2a0",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-776",
+          "content_sha256": "45960d37a2a266a409fa130edfa2c6a1cd5b20e37c567f569fbfdb9b50d981f6",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-777",
+          "content_sha256": "ff3a4b9fed6cbf73f0e6f435b335c27da6e4fef7f2b7ed998aa116c93a4c8c51",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-778",
+          "content_sha256": "9034c16ce3fd22c8d758f36b2d74d5ecd0c3d1400836cb2d1f5823d17ec62b8d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-779",
+          "content_sha256": "2be38dbec822f4c69e42d025ce91d39cd2a19e02c1e80ae64313b9d817327cc7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-780",
+          "content_sha256": "aed0b8723bbb72fe6c965f7bd9531c5f0630437125299608312b4e7ff6b5ff04",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-781",
+          "content_sha256": "c49935c724fe27b4be88b1023aa6dea7c545f98674770c5b018d0105351014bb",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-782",
+          "content_sha256": "f9ef4c0551c481d63ed912d0c9feada57e74bf75dc70d7033220614af5155b9f",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-783",
+          "content_sha256": "4bf51ba73a228dc7f5d95e37ab3e4f87dc2791ed67ebdd26805e9bf3c1160989",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-784",
+          "content_sha256": "0aa533c2d9140cf443c0bef5381994fbd57c6efba6188d8ada02fc1fca88c510",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-785",
+          "content_sha256": "f04d13443952328303dcd683f41ea93ed5dee68828c88f129a4a5b5a2e8dcfdc",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-786",
+          "content_sha256": "fbeda5402b05d3e4aab312a658566e9a9dd29e1e208fc4d2adc8879f0127846a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-787",
+          "content_sha256": "93b92f99411221a22721b168c60348edd0e5c6d2d4f319dbdbddade213d80360",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-849",
+          "content_sha256": "304939feddad928bde0968e0915ddd27ffa3553573db42957bd4e3b5523259eb",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-850",
+          "content_sha256": "f41ee4e47750349b33e261b3730d00d8c754a31d5ef44bf7a9d9a585ae817296",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-851",
+          "content_sha256": "8eafbbbbb2e58b2b1bc383c4d998f162bfbe76793d52a2229931fbe58bddba37",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-852",
+          "content_sha256": "1f9c3b1609578920bd5f0e8fcb18e6f3bbc63b9245ce8f81b3f6bc4267f412a5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-853",
+          "content_sha256": "37594af3280a6ecc94dc9992d3188796bafbf53ecaceea92a31c35fb8131c115",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-854",
+          "content_sha256": "b5682cb5035ff9ff85fd845516cbe8d6b0afeb9e5e9340b800b27b6b8d1f8447",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-855",
+          "content_sha256": "226b9271478ce00c925ec8b803a8a96c5fbacf4ec2861e8a875e7b4a49d3990e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-856",
+          "content_sha256": "cbc06e6f0cc6e9c01968708e4319664c11aeca6a6869108f7ebf6fd3fdb2d029",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-857",
+          "content_sha256": "f19ee9e6066a13a91f7f49feaad4ad4acc398182ded6c2a13fcdf0746bf5d6a5",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-858",
+          "content_sha256": "44f21020dbb01eca6c1906819895dd461796950e3a25378d526192e7ca130709",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-859",
+          "content_sha256": "7329f5c636dc6af6a0568199df0bd5718adf2f92d7e1c0a8593accb84cb3fc8a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-860",
+          "content_sha256": "ac64249edf625e56e80eaf52d61ac9b3e46afcff849378b915e262a3a8634e0b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-861",
+          "content_sha256": "5265643fb219965e7c5602e434f04cd6384c469bc5b73c36eb877c5efdcb4c07",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-862",
+          "content_sha256": "19a16a3b1f319a3a329870f245cc2b811b6b610c017dd6ae711917e1595abcb2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-863",
+          "content_sha256": "9294556ff3d70072b268e620424d574029ca1071aaa65d4bc546e54c1af7bb42",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-864",
+          "content_sha256": "2cacd9fe2e7448043ae7de0a8530360041c0dd39b603b67e4358003038f5502a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-865",
+          "content_sha256": "0ce672c8e29e6e814d7e71ad50ee6761f6decf6e4418e603af9ccf68e256bbcb",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1081",
+          "content_sha256": "d20c9361ee74c7f7a73a17639497511948408c67d134775fdbe4eac8ac23ba51",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1082",
+          "content_sha256": "006107359c688ca52215bc39100a821da48000d35307a0615b1f99d4644242ee",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1083",
+          "content_sha256": "0a306a913a9167036fa84134b7c98831a7e2fd26e23a644e3b5846b021f36d4e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1084",
+          "content_sha256": "2fd9532052817b94b356e57f6814604390f9c2f9add88788e363395afc21a5d3",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1085",
+          "content_sha256": "9493a2c990c40576e8eff387bed2e54b00714714dca0fa301e488b9dceeea3fe",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1086",
+          "content_sha256": "779718c2def1c93eb5ad48036ff37fe9061941b486b120c942fa931071cf4a47",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1087",
+          "content_sha256": "50df8d90a094c2b4563f03a8690dcad302399ae4f4a735c62853b742155049a8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1088",
+          "content_sha256": "683ed75f097ba39c6f74c1ba4f809618cea8dbcb95cbcea774e95aeff9bfe586",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1089",
+          "content_sha256": "e143fe9e203bff9adb0dec8f3df905d2e2f050651095a5a7bea09379d2aa73cc",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1090",
+          "content_sha256": "cfa57f2eafc89c3746fe5dee76647410f6e53a60773fd6f624a8d40f87301349",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1176",
+          "content_sha256": "f7ccdeea437af42c1558c919d62f663d555700702c233c88f81a7afee6e3ddea",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1177",
+          "content_sha256": "36fef15cc7443630970a104d63723d19da142b7727abf7894dc2b05c919e4150",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1178",
+          "content_sha256": "9862bc4c953a48f9b01f1f0a1806012c38a8ebd0fe60457d26d927737b329f68",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1179",
+          "content_sha256": "d2f502783115c10a7632b3b4112b28a2af62a1f651609646fc84728ce2ac5601",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1180",
+          "content_sha256": "13da34c7867b8e41facf632b590fe11ae694f2e3db83fe143f50084134de03fe",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1181",
+          "content_sha256": "ec45c1be0cc73a86bc8249143031689d1f53128bb7751b2ba383579919b82734",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1182",
+          "content_sha256": "24c60c652ee90e4ab728933c8604fa2b5b3cbb896d1f1fa39ac339cbd61bac8c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1183",
+          "content_sha256": "1a5b52c19a1a5c3e33f1965d60c47e6620490a824f86d48a2f36b0845f2c5333",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1184",
+          "content_sha256": "7e9fe6cf3042d96699fabc0e1755c72353c42ed0a280ebe08911a276666dd824",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1185",
+          "content_sha256": "5874f10c2f73a8d08084119c714a34f716e1e0777207262b5911b12abd6acb6b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1186",
+          "content_sha256": "0092cfef160408a374ff48676795bc1f82d472bbfc7f2533760aefa504a5303d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1187",
+          "content_sha256": "d5209e6e8aea7c8ded31ab67aee91ab4c88730f4b6b4144e21d4fe8301e9afa2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1188",
+          "content_sha256": "2120f9fc124ab18122892eb71684a0c368bc11a06d43d928c586dfbb75eae376",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1189",
+          "content_sha256": "f17204be28ebbd13408ccfe3cbc12a194acb3208f2cc58461c90b22b32e03a1a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1190",
+          "content_sha256": "5c1d555bfef1b58ba7aa6aa29cdff9caa2f4831975bf6a6f5f5fe7783ae8a065",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1191",
+          "content_sha256": "3e235cd7f8e7173f6fe948d19fe00b1fa0a03b629de66e9e66f37a908bf969c8",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1192",
+          "content_sha256": "5b87c317bfd0e9e39f837d56cc20960d0bce67f1feffe2222ef9d9a18ab71023",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1193",
+          "content_sha256": "0af861164b5ceac7b72afd12b203b6942e6102ac55d2a8d923984786594b8028",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1194",
+          "content_sha256": "c5ebe1c69c9a3bbb6c2351a16bcc9f8464cd046fabee627a05e7086652312b6a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1195",
+          "content_sha256": "cce5263b3e116f3b07a0aa8c0279ece11521e4bdc24e9ce98cfbdd730115bf40",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1196",
+          "content_sha256": "b4831181514a0c2be0adeb8dc6a26700793b908ea50b092da0743dabfcfefddf",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1197",
+          "content_sha256": "01ff91f057fce7b81adf6a7a5e0ebeb78f7319f8411923c86b0ff21e248c9a72",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1198",
+          "content_sha256": "e6fde405691cc3219bac052d00a55a4bff6f37e01c29dccf9a50a71424a90541",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1199",
+          "content_sha256": "9d18fa3a30aeffd12fbe6667012966786d66465a55f9253f32dc713137969c54",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1200",
+          "content_sha256": "34b12f30774b4098bcd3fce45ed39bdc965300d89174af6f5757adf1350f3224",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1201",
+          "content_sha256": "9261a24a72544b36ae26f972c37633fc6518a72568131b8419390fb2388ab34e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1202",
+          "content_sha256": "c19cfe7c52662ad689e036d3d7c5fc8cdf351bfdf712e9048bc4e3418a358cc2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1203",
+          "content_sha256": "fdb29270c8cb2d30b7eae27c8d20c455246b5bee14c94f1056d93e6aa108abe2",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1204",
+          "content_sha256": "30d3128ca54a1b48183944a057833d068aec0314e4ccc807141282e7e326fc1c",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1205",
+          "content_sha256": "1ab9af6e292eeef8f45242ae5362c8d3ae38070a9b663166f73125915b353063",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1206",
+          "content_sha256": "9a0bc87e2a566171d5c89ac5df04a9bd7c09bb6b71ec9b9e9e26cf239dc7a9ad",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1207",
+          "content_sha256": "77f47faf3b7e8cdc91019a9af70fdddc120ff776944a0fd4405fa964275af28b",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1238",
+          "content_sha256": "489868f5b50ecaa3882037e03a2e0c3dfb5075208eac0b02726c7d1c0cd8975d",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1239",
+          "content_sha256": "a26514a6787157feeeb0eb6b7dd9fb4fa462740f09aefd2b0b56f0c154fcc638",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1240",
+          "content_sha256": "940e74b4726a8806cf8a6c011b638dc98a8b391524836cf6388a27223d3b4573",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-1241",
+          "content_sha256": "d1ae4f5cfff3e7fbbafa4adee81447e42a35b6312cedc498a551eec0144d7c52",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1242",
+          "content_sha256": "0db64a8c74c958f6cd01aa576b6ed88c44576424f8f490df68c84693d16e2e1e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1243",
+          "content_sha256": "e7e80928b511e81103e84a7411a38f280ce5934df5a6879ae428e090f09d717e",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-1244",
+          "content_sha256": "a8ab413ea385c058d774d971081a23a6301de069aa2b0d10f866d1e57685729a",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1245",
+          "content_sha256": "efe2e474934617f0230f6541e6e0ad75e1d69e9e0bcaf04ab1d76c4ec7ce62e7",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1246",
+          "content_sha256": "8c59adcaa0a68f2b10df83259220a6c4161bcaebf9f05eea50bb89f9f4ff5804",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1247",
+          "content_sha256": "72bd2f7a378eae4dbb4b70f141e30c7daebde6a91cf48e6b60eb3e0d2ab92693",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "question"
+        },
+        {
+          "id": "cue-1248",
+          "content_sha256": "61d084506a6099e61870182330196a380d983f0a777d9fb1019d478721e459be",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1249",
+          "content_sha256": "917f972dd3a03628d24b36f80fb2e2b47226538659ea741ba7678587066ce142",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1250",
+          "content_sha256": "7cb020fa7a40a1f730f058b55fe524c7b3145ebb8ea607f3766e4cfe08725803",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        },
+        {
+          "id": "cue-1251",
+          "content_sha256": "9f09e0c1516cb006e0b6614c96da15365ddfb039819ba0296b2d41b61360f051",
+          "speaker_id": "yuzheng",
+          "speaker_name": "立正",
+          "speech_act": "statement"
+        }
+      ],
+      "anonymous_evidence": {
+        "availability": "public",
+        "source_url": "https://www.xiaoyuzhoufm.com/episode/6ad8ce0cb381c0fcba19b6f8",
+        "verified_at": "2026-10-29T22:59:17.011465+00:00",
+        "receipt_sha256": "0cd533d23f367f932070e7aef155848517651579c303ed7cae1c42f252389a93"
+      }
     }
   ],
   "removal": "https://lizheng.ai/contact",

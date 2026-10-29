@@ -41,15 +41,15 @@
     "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md"
   },
   "counts": {
-    "structured_public_dialogues": 364,
-    "structured_dialogue_cues": 286707,
+    "structured_public_dialogues": 369,
+    "structured_dialogue_cues": 297036,
     "guest_entities": 152,
     "guest_sources": 406,
     "guest_appearances": 425,
     "guest_slug_routes": 156,
     "guest_articles": 23,
     "guest_redirects": 3,
-    "guest_public_raw_records": 364,
+    "guest_public_raw_records": 369,
     "guest_introductions": 154,
     "community_posts_catalog": 252,
     "community_posts_full_text": 252,
@@ -70,7 +70,7 @@
     "member_video_transcripts": 218,
     "member_video_solo_reviewed": 45,
     "known_guest_videos": 387,
-    "external_guest_appearances": 28,
+    "external_guest_appearances": 31,
     "english_community_catalog": 50,
     "english_community_full_text_files": 49,
     "english_community_original_yuzheng": 11,
@@ -80,7 +80,7 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 944
+      "files": 945
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
@@ -92,11 +92,11 @@
     },
     "LicenseRef-Original-Rights-Retained": {
       "text": "LICENSES/LicenseRef-Original-Rights-Retained.md",
-      "files": 63
+      "files": 68
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 57
+      "files": 58
     }
   },
   "files": [
@@ -114,8 +114,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 20160,
-      "sha256": "f00ad634bcc6a8dfaf491e92490bfc15c8785f3254abc097f961ce0a3a015bee",
+      "bytes": 21206,
+      "sha256": "09fcac4b91030421bae24fb54431545a59384b7ac79af50d25c21360a57eb20f",
       "license": "MIT"
     },
     {
@@ -132,8 +132,8 @@
     },
     {
       "path": "INDEX.md",
-      "bytes": 10374,
-      "sha256": "9500e44a19c9efb3190f3c087d27767406c48610a190fdf2408587ff716a3aee",
+      "bytes": 10488,
+      "sha256": "0d7ad538c6757938fd7b40fc7ca9fa77cb43488ca7f0f3821f3f1d8b21cafc4e",
       "license": "CC0-1.0"
     },
     {
@@ -180,14 +180,14 @@
     },
     {
       "path": "README.md",
-      "bytes": 4840,
-      "sha256": "2b94365e3d3712a5ecf9e457826e6c6f94f5bbf273ec95cfc774c0086d890d29",
+      "bytes": 4912,
+      "sha256": "665d11a6771e91af699dfb5847677967a20bef8ed868918da9acec676efc2480",
       "license": "MIT"
     },
     {
       "path": "REUSE.toml",
-      "bytes": 41551,
-      "sha256": "a1e1964466b571eb7bd7148d945c86fa3d6acea4f557596c6153299ab9fbc1a1",
+      "bytes": 41851,
+      "sha256": "d205b690321620a42aeb26a2a93d8634cb81740cee0d31d66f90f58809f6188b",
       "license": null
     },
     {
@@ -240,8 +240,8 @@
     },
     {
       "path": "catalog/guest-appearances.jsonl",
-      "bytes": 46914,
-      "sha256": "3bf60f7221dae942fc48741918ecbed24ba9e8c582140e977504c5202429a014",
+      "bytes": 52813,
+      "sha256": "edacb5a7b643b8b03ef71ca7c2fe99e83ce43e0d339a052c4a86d2dacd0d4aea",
       "license": "CC0-1.0"
     },
     {
@@ -252,8 +252,8 @@
     },
     {
       "path": "catalog/guest-names.json",
-      "bytes": 83096,
-      "sha256": "377a69639ca23bb7162606841e29aa383f783d3625bce1fe2510d0d927f69951",
+      "bytes": 83815,
+      "sha256": "5b130c40c044304dfb3ebcbeafff50fc27ed4d33d616df86b1e3c372d3217e5e",
       "license": "CC0-1.0"
     },
     {
@@ -330,8 +330,8 @@
     },
     {
       "path": "config/public-dialogue-policy.json",
-      "bytes": 6363934,
-      "sha256": "68e43f064f5cc46c7027e019cebe74787ac0bd7d172a30a4565f125ecdb8fd56",
+      "bytes": 6503299,
+      "sha256": "8dfa4aae097304e90014df57b0951a8725231716546d3c17cd9c967855a2f600",
       "license": "CC0-1.0"
     },
     {
@@ -554,6 +554,12 @@
       "path": "context/public-profile.md",
       "bytes": 3366,
       "sha256": "942bd4cdcf20208e7255b5de4dab4111a350dd523ce6893f83ca5ca639b1fc8e",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/recent-guest-appearances-20261029.md",
+      "bytes": 7178,
+      "sha256": "38ef38b2197781e96f5bdd1fce80912aa3d564e95fe9052efdeb4a9613023e21",
       "license": "CC-BY-4.0"
     },
     {
@@ -4667,6 +4673,24 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/dialogue-circle-37189118.json",
+      "bytes": 810318,
+      "sha256": "514bf74169c05feb28bae5619a0016912ec913b959385be605efd2f4b3afd3ef",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-circle-37265013.json",
+      "bytes": 584825,
+      "sha256": "fcfd8150b4a2c1d2eec7ef9c7c0e68c09856e7ffe019d09939ecdb5ba7624e67",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-circle-37700632.json",
+      "bytes": 830386,
+      "sha256": "85152eacb2b9541a80b8c6141ff0c0bc8371a3352673a07b0c021debe3e89c0d",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
       "path": "corpus/dialogues/dialogue-xiaoyuzhou-5fd6d39fdee9c1e16d53932a.json",
       "bytes": 545726,
       "sha256": "8ee4b9cc3630ccc454eff3d5d7c63202ea8b4189d2b1921ee97fc901f7b76525",
@@ -4808,6 +4832,18 @@
       "path": "corpus/dialogues/dialogue-xiaoyuzhou-6ab21a58f04646b3a9555296.json",
       "bytes": 501175,
       "sha256": "226b371032bd46cc7e1c0fe8a1be2e32e8a17010367ef2c5a88bc09aa3969606",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-6ad8ce0cb381c0fcba19b6f8.json",
+      "bytes": 382284,
+      "sha256": "36892638e77fc5914e07c6de3616afbd0db97abc54388af87b702d7db76a9a34",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-xiaoyuzhou-6ae1e359c96c8942ec13bb1f.json",
+      "bytes": 174808,
+      "sha256": "a11af34b3328fe2c46c5106f4d7301b6f72c6193537f922263b4bb05bd739895",
       "license": "LicenseRef-Original-Rights-Retained"
     },
     {
@@ -10236,8 +10272,8 @@
     },
     {
       "path": "index/dialogues.md",
-      "bytes": 109404,
-      "sha256": "f506455a8164652fbd9fd35c9fe9f0f03292ed08adc4cfc20f354d4afc24793f",
+      "bytes": 111070,
+      "sha256": "fae11a42cbc8dc523e54153cc75277dfd728b0f95c5462fd4848f7cc8192e2cc",
       "license": "CC0-1.0"
     },
     {
@@ -10296,8 +10332,8 @@
     },
     {
       "path": "scripts/build_index.py",
-      "bytes": 36416,
-      "sha256": "50b225c812734eb1f39ee8f5d59f1b245651b4cce4d04cdc06da4993e56e9e57",
+      "bytes": 36445,
+      "sha256": "bf7db9380771162563dfc8493956e8c37b77d194a9774ec564fddb5174d29905",
       "license": "MIT"
     },
     {
@@ -10308,8 +10344,8 @@
     },
     {
       "path": "scripts/dialogue_policy.py",
-      "bytes": 11692,
-      "sha256": "5a0bec7a835f58e47ecee99fd22a7f2548cbff025d5bc303381ccf0f584e678a",
+      "bytes": 11944,
+      "sha256": "387c4fd4316f336b026b1f599b7c726d7b82b257f023fb87de4c639977a1222d",
       "license": "MIT"
     },
     {
@@ -10451,9 +10487,15 @@
       "license": "MIT"
     },
     {
+      "path": "tests/test_external_dialogue_index.py",
+      "bytes": 3229,
+      "sha256": "2c2776d00cbdf06dd1703e51f46d7b4eae7aed2eb320d5630f0a16522b443d6c",
+      "license": "MIT"
+    },
+    {
       "path": "tests/test_external_dialogues.py",
-      "bytes": 23969,
-      "sha256": "ed934886729110007ae7fd38e1a1dbd9450aab50b92a8276a523e70206795944",
+      "bytes": 25033,
+      "sha256": "7d411a9b7dc39211b50975e0ec896692bf7ab1ee15183238b7a04e97c14d3c87",
       "license": "MIT"
     },
     {

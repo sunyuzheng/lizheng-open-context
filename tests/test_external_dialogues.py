@@ -98,6 +98,22 @@ class ExternalDialogueTests(unittest.TestCase):
         self.assertEqual(self.check()[1], [])
         self.assertEqual(self.documents()[0].source_type, "audio-transcript")
 
+    def test_external_authorization_preserves_old_and_admits_exact_recent_request(self):
+        for authorization in (policy.EXTERNAL_AUTHORIZATION, policy.RECENT_EXTERNAL_AUTHORIZATION):
+            with self.subTest(authorization=authorization):
+                self.data["inclusion_authorization"] = authorization
+                self.save()
+                self.assertEqual(self.check(), ({"structured_public_dialogues": 1, "structured_dialogue_cues": 1}, []))
+
+    def test_external_authorization_does_not_accept_other_dates_or_near_matches(self):
+        for authorization in ("maintainer-request-2026-10-28-recent-guest-podcasts",
+                              policy.RECENT_EXTERNAL_AUTHORIZATION + "-extra",
+                              policy.RECENT_EXTERNAL_AUTHORIZATION + " ", None, []):
+            with self.subTest(authorization=authorization):
+                self.data["inclusion_authorization"] = authorization
+                self.save()
+                self.assertIn("external_dialogue_provenance_or_identity_mismatch", self.check()[1][0])
+
     def test_hash_exact_set_and_source_public_evidence_remain_bound(self):
         self.path.write_text(self.path.read_text() + " ")
         self.assertIn("hash_mismatch", self.check()[1][0])

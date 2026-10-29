@@ -17,12 +17,12 @@
 | 视频字幕：会员视频 · 本人主讲 | 45 份 | [主讲目录](index/solo-videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 视频字幕：会员视频 · 对话 | 170 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
 | 视频字幕：公开视频 · 对话 | 9 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
-| 结构化对谈原文 | 364 份（含既有来源的新版本） | [对谈原文目录](index/dialogues.md) | [corpus/dialogues/](corpus/dialogues/) | 按文件分别标明[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)或[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)；发言归属以单元记录为准 |
+| 结构化对谈原文 | 369 份（含既有来源的新版本） | [对谈原文目录](index/dialogues.md) | [corpus/dialogues/](corpus/dialogues/) | 按文件分别标明[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)或[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)；发言归属以单元记录为准 |
 | 对话里立正本人的话 | 132 段 | [塑造价值观的对话](index/values-conversations.md) | [corpus/conversation-excerpts/](corpus/conversation-excerpts/) | 会员视频里的：[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；公开视频里的：[CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：源于立正 | 11 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：其他作者 | 39 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 英文 AI 译稿 | 76 份 | [英文资料](index/english.md) | [corpus/english-translations/](corpus/english-translations/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
-| AI 整理与《真本事》框架 | 33 份 | [见下文](#ai-整理与真本事框架) | [context/](context/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| AI 整理与《真本事》框架 | 34 份 | [见下文](#ai-整理与真本事框架) | [context/](context/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 
 许可的意思：[CC BY 4.0](LICENSES/CC-BY-4.0.txt)注明作者和出处即可转载、改编、商用；[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)可以阅读、搜索、放进不收费的 AI 问答工具和短引用，不能整篇转载、收费使用或训练模型；[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)只供阅读和检索参考。
 
@@ -32,7 +32,7 @@
 | --- | ---: | --- | --- | --- |
 | 视频目录 | 761 条 | [视频目录](index/videos.md) | [catalog/videos.jsonl](catalog/videos.jsonl) | 11 条只有目录、没有字幕 |
 | Knowledge Bank | 169 篇 | [Knowledge Bank 目录](index/knowledge-bank.md) | [catalog/knowledge-bank.jsonl](catalog/knowledge-bank.jsonl) | 立正的 36 篇有全文，其他作者只列标题和链接 |
-| 立正做客其他节目 | 28 期 | [做客记录](catalog/guest-appearances.jsonl) | [catalog/guest-appearances.jsonl](catalog/guest-appearances.jsonl) | 目录与各发布版本分开；已收录原稿的版本另见对谈目录 |
+| 立正做客其他节目 | 31 期 | [做客记录](catalog/guest-appearances.jsonl) | [catalog/guest-appearances.jsonl](catalog/guest-appearances.jsonl) | 目录与各发布版本分开；已收录原稿的版本另见对谈目录 |
 
 目录数据（`catalog/`、`config/`、`index/` 和本页）按[CC0 1.0](LICENSES/CC0-1.0.txt)开放。
 
@@ -69,6 +69,7 @@
 - [屠龙大实话：做客访谈阅读笔记（2026-06-23）](context/guest-podcast-6a3a1a139d2f5743683c5833.md)
 - [Public Axioms V1 / 公共思考透镜](context/public-axioms-v1.md)
 - [Yuzheng Sun / 立正公开简介](context/public-profile.md)
+- [近期做客访谈：工作、赚钱、自由与自己的事业](context/recent-guest-appearances-20261029.md)
 - [近期问题与阅读地图：从公开观点到自己的处境](context/recent-reading-map.md)
 - [塑造价值观的对话：阅读地图](context/values-conversations-map.md)
 - [《真本事》完整框架参考 V1](context/zhenbenshi-frameworks.md)

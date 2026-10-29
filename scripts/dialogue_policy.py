@@ -14,6 +14,8 @@ from validate_guest_catalog import CATALOG_FIELDS, appearance_participants, prog
 
 AUTHORIZATION = "maintainer-request-2026-10-10-dialogue-transcripts"
 EXTERNAL_AUTHORIZATION = "maintainer-request-2026-10-15-guest-podcasts"
+RECENT_EXTERNAL_AUTHORIZATION = "maintainer-request-2026-10-29-recent-guest-podcasts"
+EXTERNAL_AUTHORIZATIONS = frozenset({EXTERNAL_AUTHORIZATION, RECENT_EXTERNAL_AUTHORIZATION})
 CHANNEL = "UC_5lJHgnMP_lb_VpIiXV0hQ"
 HASH = re.compile(r"[0-9a-f]{64}\Z")
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}\Z")
@@ -59,7 +61,8 @@ def validate_external_dialogue(root, row, participants, protected_ids=frozenset(
     if (type(data.get("schema_version")) is not int or data["schema_version"] != 1 or data.get("id") != identity
             or "video_id" in data or any(data.get(key) != value for key, value in expected.items())
             or data.get("source_type") not in {"video-transcript", "audio-transcript"}
-            or data.get("inclusion_authorization") != EXTERNAL_AUTHORIZATION
+            or not isinstance(data.get("inclusion_authorization"), str)
+            or data["inclusion_authorization"] not in EXTERNAL_AUTHORIZATIONS
             or not isinstance(data.get("publisher"), str) or not data["publisher"].strip()
             or (data.get("rights_scope"), data.get("license")) not in {
                 ("publisher-authorized-transcript", REFERENCE_USE), ("third-party-reference", RETAINED)}

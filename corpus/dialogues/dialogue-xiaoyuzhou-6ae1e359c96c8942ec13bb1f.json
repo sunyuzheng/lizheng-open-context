@@ -1,0 +1,3622 @@
+{
+  "data_layer": "raw",
+  "speaker_classification": "mixed-or-unresolved",
+  "content_origin": "mixed-or-unresolved-speech",
+  "generation_method": "transcription-with-ai-text-review",
+  "evidence_role": "speaker-attributed-speech",
+  "yuzheng_stance_weight": "not-evidence",
+  "source_visibility": "public",
+  "text_access": "public",
+  "author": "说话人待核",
+  "original_author": "说话人待核",
+  "transcript_quality": "ai-text-reviewed",
+  "transcript_source_kind": "faithful-text-review-copy",
+  "schema_version": 1,
+  "id": "dialogue-xiaoyuzhou-6ae1e359c96c8942ec13bb1f",
+  "title": "离开大厂之后，我才发现，没有Fake Work的工作其实很开心｜对话课代表立正",
+  "source_url": "https://www.xiaoyuzhoufm.com/episode/6ae1e359c96c8942ec13bb1f",
+  "source_family": "https://www.xiaoyuzhoufm.com/episode/6ae1e359c96c8942ec13bb1f",
+  "source_type": "audio-transcript",
+  "published_at": "2026-10-29T00:00:00.000Z",
+  "publisher": "听懂涨声",
+  "language": "mixed",
+  "license": "LicenseRef-Original-Rights-Retained",
+  "rights_scope": "third-party-reference",
+  "timestamp_mode": "display-only",
+  "duration_seconds": 4158,
+  "public_verified_at": "2026-10-29T23:06:09.346192+00:00",
+  "inclusion_authorization": "maintainer-request-2026-10-29-recent-guest-podcasts",
+  "source_context": "Exact public publisher-edited podcast audio edition. Text and timecodes belong only to this edition. Existing original source remains unchanged. Selected turns are attributed by root source-text review; other turns, including potentially mixed turns, remain unresolved. Programme participation and source speaker labels alone do not establish speaker identity or endorsement. Dated experiences, prices, benefits, estimates and predictions remain historical speech. All other speakers retain their own rights. Not a human audio or full speech-coverage certification.",
+  "quality": {
+    "ai_text_processing_verified": true,
+    "root_edit_review_verified": true,
+    "human_audio_review": false,
+    "full_precision_certified": false,
+    "complete_speech_coverage_verified": false,
+    "unresolved_count": 19,
+    "original_source_sha256": "4ee570d874c946416f468afcacbf00ac1a2e66fdcb49015154bb7bceedc20074",
+    "root_output_sha256": "71a6c462dff8db4430cd61426ea83999d95e7a684b4eb2684c2f03d421c43496",
+    "root_receipt_sha256": "8b6c6be1a857d53c8688cfeb8601f3ae00105639328c68c581fa887e188a6558",
+    "speaker_unresolved_cues": 250,
+    "attribution_scope": "selected-source-text-reviewed-spans",
+    "current_import_scope": "faithful source preservation and selected attribution; no fresh full listening review",
+    "unresolved_count_scope": "19 source-labelled passages with visible transcription/attribution concerns retained for review; not exhaustive.",
+    "text_normalization": "Whitespace only; exact non-whitespace character stream retained.",
+    "known_source_text_flags": [
+      {
+        "unit_id": "segment-0013",
+        "issue": "创业公司名Stacy近音"
+      },
+      {
+        "unit_id": "segment-0051",
+        "issue": "Alex Shrouds姓名近音"
+      },
+      {
+        "unit_id": "segment-0057",
+        "issue": "数学家/数据科学家识别疑点"
+      },
+      {
+        "unit_id": "segment-0090",
+        "issue": "Statista公司名近音"
+      },
+      {
+        "unit_id": "segment-0094",
+        "issue": "Principal Asian Problem术语近音"
+      },
+      {
+        "unit_id": "segment-0100",
+        "issue": "Principal Asian Problem术语近音"
+      },
+      {
+        "unit_id": "segment-0112",
+        "issue": "踩边波/采编播近音"
+      },
+      {
+        "unit_id": "segment-0128",
+        "issue": "男士称呼近音"
+      },
+      {
+        "unit_id": "segment-0132",
+        "issue": "同学/腾讯近音"
+      },
+      {
+        "unit_id": "segment-0168",
+        "issue": "批发赚到短句疑点"
+      },
+      {
+        "unit_id": "segment-0175",
+        "issue": "新手铐/金手铐近音"
+      },
+      {
+        "unit_id": "segment-0195",
+        "issue": "加长寿短句疑点"
+      },
+      {
+        "unit_id": "segment-0196",
+        "issue": "魔术世界作品名近音"
+      },
+      {
+        "unit_id": "segment-0204",
+        "issue": "Stephen及书名近音"
+      },
+      {
+        "unit_id": "segment-0217",
+        "issue": "Mike Vernau姓名近音"
+      },
+      {
+        "unit_id": "segment-0227",
+        "issue": "自重价值/自证价值近音"
+      },
+      {
+        "unit_id": "segment-0254",
+        "issue": "模型名称归属识别疑点"
+      },
+      {
+        "unit_id": "segment-0262",
+        "issue": "Schoolatti Skill短语近音"
+      },
+      {
+        "unit_id": "segment-0363",
+        "issue": "刘家/刘嘉姓名近音及转述措辞待核"
+      }
+    ],
+    "source_label_reassessment": {
+      "unit_ids": [
+        "segment-0155",
+        "segment-0156",
+        "segment-0157",
+        "segment-0158",
+        "segment-0159",
+        "segment-0160",
+        "segment-0161",
+        "segment-0162",
+        "segment-0163",
+        "segment-0164",
+        "segment-0165",
+        "segment-0166",
+        "segment-0167",
+        "segment-0168",
+        "segment-0169",
+        "segment-0170",
+        "segment-0171",
+        "segment-0172",
+        "segment-0173",
+        "segment-0174"
+      ],
+      "status": "source labels not independently accepted; these potentially mixed passages remain unresolved"
+    }
+  },
+  "units": [
+    {
+      "id": "segment-0000",
+      "start_seconds": 0.21,
+      "end_seconds": 9.63,
+      "text": "Hello 大家好， 欢迎来到 \" 听懂涨声 \"， 我是天楠。 最近啊， 看到小红书有条帖子是把我惊到了。 它讲了一个事儿啊， 我觉得挺有意思的。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "introduction"
+    },
+    {
+      "id": "segment-0001",
+      "start_seconds": 9.75,
+      "end_seconds": 24.69,
+      "text": "帖子说呢，以前我对工作还包含了一种 \" 个人价值、 社会认同、 喜忧参半、 痛又快乐 \" 的复杂感情，但是现在我已经对工作到了 \" 纯恨时代 \"， 就是纯粹的恨。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "introduction"
+    },
+    {
+      "id": "segment-0002",
+      "start_seconds": 25.29,
+      "end_seconds": 34.05,
+      "text": "我有一个习惯啊， 我身边的朋友每次决定彻底离开职场的时候， 我都会找他聊一次。 呃，因为是他情感浓度最高的时候。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "introduction"
+    },
+    {
+      "id": "segment-0003",
+      "start_seconds": 34.11,
+      "end_seconds": 42.87,
+      "text": "我最近的感受就是， 大多数人给我的回应是： 他们之所以离职，是因为他们不想表演了，不想再从事 Fake Work 了。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "introduction"
+    },
+    {
+      "id": "segment-0004",
+      "start_seconds": 43.29,
+      "end_seconds": 61.89,
+      "text": "所以当我的朋友课代表立正和我提了这个选题， 我立刻答应了下来。 我来介绍一下立正啊，他曾经是一名天选打工人， 康奈尔大学经济学的博士毕业，在亚马逊做经济学家，在 Meta 做过数据科学家， 后来呢加入了一家创业公司， 公司也被 OpenAI 收购了。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "introduction"
+    },
+    {
+      "id": "segment-0005",
+      "start_seconds": 62.01,
+      "end_seconds": 70.65,
+      "text": "现在他本人在家带孩子，并且经营了一个叫做 \" 超线性学院 \" 的 AI 社区。他写了一本书啊， 叫做 《 真本事 》。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "introduction"
+    },
+    {
+      "id": "segment-0006",
+      "start_seconds": 70.77,
+      "end_seconds": 77.91,
+      "text": "我把这本书拿回家的时候， 我 9 岁的孩子还问我说： 爸爸你是不是一点真本事都没有， 所以别人才送你这本书？",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "introduction"
+    },
+    {
+      "id": "segment-0007",
+      "start_seconds": 78.33,
+      "end_seconds": 89.19,
+      "text": "呃， 我想，有没有本事啊， 可能是个能力问题。 但是， 做一个敢于面对真实、 不做 Fake Work 的人， 对我来说一直是一个很重要的期待。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "introduction"
+    },
+    {
+      "id": "segment-0008",
+      "start_seconds": 89.37,
+      "end_seconds": 92.13,
+      "text": "那接下来就一起来进入今天的节目吧。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "introduction"
+    },
+    {
+      "id": "segment-0009",
+      "start_seconds": 103.77,
+      "end_seconds": 111.51,
+      "text": "前几天我们在对提纲的时候， 我听到你说 Fake Work 的时候， 我就灵光一闪， 对不对？ 我当时就说， 咱们就聊这个啊， 咱们就不改其他选题了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0010",
+      "start_seconds": 111.57,
+      "end_seconds": 127.23,
+      "text": "因为这的确是我创业以来， 就是感触比较深的一些地方。 创业前的我和开始创业自己做播客， 哪怕现在只是个小公司吧， 就几个员工， 和以前在创业公司管几十个人团队， 还是会有很大的区别。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0011",
+      "start_seconds": 127.41,
+      "end_seconds": 139.23,
+      "text": "就现在我是可以完全地放弃所谓的 Fake Work， 就是直接去做想做的事情， 直接为所有的事情负责， 全然地为自己负责的那种状态。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0012",
+      "start_seconds": 139.23,
+      "end_seconds": 148.11,
+      "text": "这个是我感触比较深的。 我想先听你说一下你对于 Fake Work 的理解吧，因为我觉得可能大家对于这个事情的感知不一定是完全一样的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0013",
+      "start_seconds": 148.23,
+      "end_seconds": 168.03,
+      "text": "嗯， 首先呢，是你说的那些点， 我自己就是深有体会。 是我自己开始收费了以后， 我突然发现， 哦， 我当时其实在工作中呢， 如果一点点履历的话， 就是我博士毕业， 然后亚马逊、Meta、 腾讯都待过， 后来去了一家创业公司， 那家创业公司叫 Stacy，也被 OpenAI 10 亿美元收购了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0014",
+      "start_seconds": 168.03,
+      "end_seconds": 179.79,
+      "text": "所以说就中美大厂、 创业公司都待了一下。 我自己当时是个专业型人才嘛， 数据科学家。 嗯， 我现在回想啊， 当时是做了很多 Fake Work，但是身在其中是完全不自知的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0015",
+      "start_seconds": 179.91,
+      "end_seconds": 186.33,
+      "text": "甚至就是老板对我有一些结果上的要求， 就说你这个东西不拿结果的话， 你最后说那些东西不是白说吗？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0016",
+      "start_seconds": 186.39,
+      "end_seconds": 194.97,
+      "text": "我还在想， 你怎么可以这么不专业， 我做的东西这么专业， 然后没有拿到结果， 结果不是一定会拿到结果的， 你为什么要用这种方式去要求我？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0017",
+      "start_seconds": 195.09,
+      "end_seconds": 204.99,
+      "text": "那现在这种感觉就是完全倒过来了。 不拿到结果的话， 你那些专业有什么用呢？ 如果说你觉得能不拿到结果的专业是有价值的， 那说明我们可能不了解价值是什么。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0018",
+      "start_seconds": 205.05,
+      "end_seconds": 215.85,
+      "text": "如果说那个 Fake Work， 一句话的定义就是表演性工作。 你不是为了赚钱， 你也不是为了产生真正的对人的影响，而纯粹是一个向上管理， 或者说是向上汇报的工具。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0019",
+      "start_seconds": 215.91,
+      "end_seconds": 219.81,
+      "text": "所以表演性工作我觉得是一个比较精准的一句话的翻译吧。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0020",
+      "start_seconds": 219.93,
+      "end_seconds": 229.11,
+      "text": "哎， 能不能说说在你的整个职业生涯当中， 有经历过哪些比较 drama 的、 你看到过的， 或者你经历过的那种表演性工作的那些时刻或者故事？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0021",
+      "start_seconds": 229.23,
+      "end_seconds": 243.03,
+      "text": "我觉得这全都是表演性工作。其实我当时就是不表演的工作其实是非常非常少的。 我可能在 Facebook 的一小段时间是不表演性工作，因为那个时候确实做的事情是整个公司很在意的一件事。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0022",
+      "start_seconds": 243.09,
+      "end_seconds": 257.85,
+      "text": "后来回腾讯呢， 我做了一件事我觉得是有真实价值的， 就是能让腾讯游戏在安卓上买广告。 它很简单啊，但是其实前前后后做了可能快一年的时间， 就全都是在各种跟工作室的汇报、 跟集团的汇报、 跟财务的汇报、 跟战略的汇报。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0023",
+      "start_seconds": 257.91,
+      "end_seconds": 265.59,
+      "text": "就是全都是在拉通对齐、 应对各方面的挑战。 所以说可能就这两个小事儿不是 Fake Work。 后来在创业公司多做了一些不是 Fake Work 的东西。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0024",
+      "start_seconds": 265.65,
+      "end_seconds": 277.23,
+      "text": "但是你刚刚问的， 就是有什么特别 drama 的 Fake Work 的这个事儿呢， 我觉得几乎全都是 Fake Work。 但是呢， 应该是有这么几个瞬间让我意识到了， 我做的事情是 Fake Work。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0025",
+      "start_seconds": 277.29,
+      "end_seconds": 292.53,
+      "text": "这个故事是什么样子的呢？ 就是我刚去 Meta 的时候， 当时是一个正在要把电商做成的这么一个 director，是个印度 director。他当时还是一个 senior manager 啊， 马上要升 director 了， 然后把我招进去的。他招进去了以后， 很快他就变成我的加三了，但是他一直还挺关照我的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0026",
+      "start_seconds": 292.59,
+      "end_seconds": 305.01,
+      "text": "所以说他也是深受我们那个 VP 的信任。他就给我安排了一个活儿。 事后去想啊，他给我安排那个活儿呢，是想让我出人头地， 或者说是在 VP 面前露了脸的这样的一个活儿。在 Facebook 不是说要做电商吗？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0027",
+      "start_seconds": 305.13,
+      "end_seconds": 311.25,
+      "text": "前一年呢做了一点点， 这一年呢就是投入了更多的人和更多的钱去试图在这个 marketplace 上做电商。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0028",
+      "start_seconds": 311.37,
+      "end_seconds": 320.49,
+      "text": "正好我加进去的时候， 就是美国的这个 Black Friday，是他们一个 shopping season， 感恩节之后有一个很大的这个消费。 公司呢甚至直接进行了补助。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0029",
+      "start_seconds": 320.61,
+      "end_seconds": 330.51,
+      "text": "前一年的补助是你可以半价买这个任天堂的 Switch， 当时还挺火的， 上各种新闻。 这一年的补助呢， 就是有很多其他的。他说我们要有一个更精准的打法， 对吧？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0030",
+      "start_seconds": 330.57,
+      "end_seconds": 341.25,
+      "text": "然后去补助， 通过补贴呢让大家形成在 Facebook 上的购买习惯。 之后就有问题了， 就是你这个钱花得值不值， 然后大家是不是形成了购买习惯， 然后你对这个销量是什么样子的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0031",
+      "start_seconds": 341.37,
+      "end_seconds": 351.03,
+      "text": "最好呢， 你还能做一个这种因果归因的分析， 就是如果没有这个补助的话会怎么样， 对吧？ 然后你这样就可以知道了， 你这个补助和团队做的工作是不是真的有价值的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0032",
+      "start_seconds": 351.15,
+      "end_seconds": 366.39,
+      "text": "总之就是这是一个大问题。 然后他又跟我说， 现在大老板们都非常关注这次的结果， 你能不能尽快地出一个报告， 告诉大老板我们发生了什么。他当时跟我说得挺清楚的，但是我因为在亚马逊当时做经济学家嘛， 养成了很多不良的工作习惯。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0033",
+      "start_seconds": 366.39,
+      "end_seconds": 379.71,
+      "text": "所以说我在耳朵里边听到的啊，因为是大老板看， 所以说你要做一个非常专业的、 非常经得起挑战的、 详实的， 或者说各个角度去看的， 总之就是能体现你专业度的这么一个分析报告出来， 然后给大老板去看。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0034",
+      "start_seconds": 379.77,
+      "end_seconds": 396.39,
+      "text": "大老板要做很关键的决策。 然后我就把在亚马逊经济学家的那一套拿来做了嘛。 基本上就是博士训练的那一套， 先写一个要做什么， 然后要写我的方法是什么， 我的数据是什么， 我采用了不同的模型， 最后呢再做各种各样的分析， 最后结论是什么和这个 recommendation 是什么。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0035",
+      "start_seconds": 396.39,
+      "end_seconds": 405.27,
+      "text": "我当时心中想到， 我两个周把这么一个大报告出出来了， 很厉害了吧？ 还要做其他的事儿嘛。 过了一天， 应该是过了一天， 对， 老板把我叫过来， 说你做得怎么样了？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0036",
+      "start_seconds": 405.27,
+      "end_seconds": 429.81,
+      "text": "我说我应该两个周可以做完。他就直接把我叫到他工位上了， 花了半个小时给我展示他是怎么做的， 把数据拿下来，在 Google Sheet 里边把数据放上去， 打上对应的颜色， 就上面排了个板， 把重要的东西用颜色给列出来， 然后把发生了什么、 去年发生了什么对比给写下来。Facebook 内部啊，其实是有一个很好的这种信息工具， 就是我们可以写一个文章，Facebook",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0037",
+      "start_seconds": 429.93,
+      "end_seconds": 441.15,
+      "text": "内部有一个 Facebook 一样的东西， 大老板会刷到 Feed， 然后他就 tag 这些所有的 VP 和所有的合作的 director， 包括各种 engineer、director 啊， 都是我的各种加二的同级， 或者加三的同级， 然后就发了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0038",
+      "start_seconds": 441.15,
+      "end_seconds": 447.87,
+      "text": "然后大老板大概 5 分钟吧， 就在下面点赞， 说哦， 这个东西做得很好， 感谢你做的这个分析。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0039",
+      "start_seconds": 447.93,
+      "end_seconds": 454.23,
+      "text": "我不知道你听了这个故事是个什么感觉啊， 就是我之前错在哪儿， 和我之后那个东西给我带来的震撼是什么。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0040",
+      "start_seconds": 454.29,
+      "end_seconds": 464.55,
+      "text": "我也不知道观众们听到了以后是什么感觉。 这件事儿我印象一直特别特别的深刻。 我从此以后就知道了， 前面做的那些所谓的那个详实报告，其实都是表演。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0041",
+      "start_seconds": 464.61,
+      "end_seconds": 475.53,
+      "text": "我在读博士的时候就有这种感觉， 就是我们写的那个经济学的论文啊， 你现在想想， 就是美国这么多经济学教授， 写了这么多论文， 然后把这些论文全都烧掉， 会发生什么吗？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0042",
+      "start_seconds": 475.53,
+      "end_seconds": 477.21,
+      "text": "我觉得我们 GDP 不会变。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0043",
+      "start_seconds": 477.21,
+      "end_seconds": 477.75,
+      "text": "不会有什么变化？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0044",
+      "start_seconds": 478.11,
+      "end_seconds": 485.07,
+      "text": "应该不会有任何变化， 除了这些教授们少了 paper 以外， 世界不会有任何变化。 但是你想身在其中， 你是不这么想的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0045",
+      "start_seconds": 485.13,
+      "end_seconds": 496.59,
+      "text": "我在读博士的时候， 我很明显觉得这个论文是世界上最有含金量的东西，是最有说服力的东西。 因为美国的这个体系就是， 比如说你做 AI 的， 它去发 conference，conference 是很好发的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0046",
+      "start_seconds": 496.65,
+      "end_seconds": 510.09,
+      "text": "美国经济学呢， 这种社会学呢， 它是要发 journal，journal 发一篇最快可能也要五六年， 长的十几年， 很经常的事儿。 所以说就是如果你六年就发了一个顶刊的这种 journal 的话， 大家会觉得哇， 你真幸运。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0047",
+      "start_seconds": 510.15,
+      "end_seconds": 525.87,
+      "text": "都不是你真厉害，是你肯定很厉害，但是你真幸运， 你六年就可以发。 我们当时觉得这是特别有含金量的一件事儿， 就是因为它有各种各样的大量的工作、 大量的时间、 聪明的脑子投入进来， 然后很多聪明的人一本正经地去说你这个东西做得好在哪儿啊，不好在哪儿啊。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0048",
+      "start_seconds": 525.93,
+      "end_seconds": 532.77,
+      "text": "所以说我当时就觉得， 这肯定是世界上最有含金量的东西了。 然后你在亚马逊的工作是这个的延续嘛， 你就会觉得这个工作也是非常有含金量的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0049",
+      "start_seconds": 532.83,
+      "end_seconds": 540.93,
+      "text": "但是突然在那样一个场景， 我就觉得那个东西到底干嘛了？ 你真的追问价值的时候， 你就会发现，其实它好像不是很有价值， 真的不是很有价值。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0050",
+      "start_seconds": 540.99,
+      "end_seconds": 546.87,
+      "text": "就它能不能干预结果， 或者它能不能影响有影响力的人去影响这个结果本身， 这个是比较重要的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0051",
+      "start_seconds": 546.99,
+      "end_seconds": 561.15,
+      "text": "你刚才这句话非常的精确， 又让我想起来一个点啊， 就是 Facebook 的那个做数据的最高的人是 Alex Shrouds。他当时是 Facebook 整个 Meta 的 Head of Data， 然后后来转去做了几年的 CMO，Chief Marketing Officer。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0052",
+      "start_seconds": 561.21,
+      "end_seconds": 582.93,
+      "text": "很奇怪的啊， 一个纯数据科学的出身， 去做了一个营销的负责人。 最近他又转回了这个 Chief Data Officer，因为 AI 多了嘛， 小扎需要一个他信任的人去把所有的数据管理起来， 包括 AI 训练的数据和使用的数据， 都转回去做 Chief Data Officer 了。他当时在 Facebook 内部出了一个系列课程， 给这个 Data Scientist 们讲的系列课程， 叫 Better Decisions， 更好的决策。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0053",
+      "start_seconds": 582.99,
+      "end_seconds": 588.87,
+      "text": "我当时其实也不理解， 就是我当时我首先听他所有讲的东西， 我都觉得特别的认同， 发自内心的认同。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0054",
+      "start_seconds": 588.93,
+      "end_seconds": 595.47,
+      "text": "但是他出了一个这个题目叫 Better Decisions， 我就觉得哎， 这怎么这么抽象， 为什么叫 Better Decisions？ 就是我们不是做数据的吗？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0055",
+      "start_seconds": 595.47,
+      "end_seconds": 607.71,
+      "text": "你不跟我们讲一些数据专业的东西， 你跟我讲这个 Better Decisions 干嘛？ 但是我应该是在腾讯的时候吧， 我就充分充分地领悟到了这件事儿， 就是数据科学家他的核心的产品是什么。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0056",
+      "start_seconds": 607.77,
+      "end_seconds": 615.39,
+      "text": "有的数据科学家就会说是模型啊、Dashboard 啊、 仪表盘啊、 数据的流动啊， 然后是分析报告啊等等，其实都不是。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0057",
+      "start_seconds": 615.45,
+      "end_seconds": 625.77,
+      "text": "数据科学家唯一的产品就是 Better Decision， 就是更好的决策。 有没有你这个数学家， 我的决策有没有变好？ 如果我决策没有变好的话， 那最后你这个数据科学家做的所有的东西全部是浪费的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0058",
+      "start_seconds": 625.89,
+      "end_seconds": 641.79,
+      "text": "站在这个角度再回去看的话， 你就会看到很多模型完全是 Fake Work。 这就回到腾讯了嘛，在腾讯就是你经常会看到内网 KM 有人发文章， 就是说我用这个模型解决了什么问题， 我做了一个什么这样的系统， 然后可以帮助业务进行更好的决策，blah blah blah。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0059",
+      "start_seconds": 641.79,
+      "end_seconds": 661.11,
+      "text": "但是他们关注的全都是前面， 全都是我用了什么一个更厉害的模型， 我做了一个什么样子多功能拖拉拽各种先进的仪表盘， 我清理了什么数据。他们没有真的去关心那个决策，因为数据说实话，在这个决策里边能占的决策可能也就 10%、20%， 它不可能影响到完整的决策， 或者说有那么大的一个决定权。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0060",
+      "start_seconds": 661.17,
+      "end_seconds": 666.57,
+      "text": "所以说你没有办法关注到那个决策的时候， 大家就会在上面去花拳绣腿一番。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0061",
+      "start_seconds": 666.69,
+      "end_seconds": 676.83,
+      "text": "嗯， 大家就有人去表演啊。 我觉得中间它其实是有几层啊， 我说一下我的理解啊。 用中国比较通俗的话， 就以前说这部队叫做参谋不带长， 放屁都不响。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0062",
+      "start_seconds": 676.95,
+      "end_seconds": 691.23,
+      "text": "就是开玩笑， 就是因为整个参谋团队， 它真正能够影响到决策的其实是很少很少的一部分的人。 那你其实进了一个公司也是一样， 像我们原来是广告公司， 或者说是一个投资公司， 当你进入到一个公司之后， 你是先从策划开始干起。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0063",
+      "start_seconds": 691.35,
+      "end_seconds": 701.61,
+      "text": "那你策划策划其实就跟参谋是一样的， 你可能画一个不错的一个 PPT， 然后销售总监带着你的内容去做一些路演，但是回来他是不会把你这个东西闭环的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0064",
+      "start_seconds": 701.61,
+      "end_seconds": 713.91,
+      "text": "你也没有办法因为优化整个流程去改造自己的一些行为。 到后面你开始慢慢地去往后端延伸以后， 你拥有了更多的一些权利， 你会发现说做成一个事情是需要卷入更多的资源。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0065",
+      "start_seconds": 714.03,
+      "end_seconds": 720.09,
+      "text": "那这个时候你的表演式的工作就不一样了。 你表演式的工作是有明确的目的的， 就是要向上表演。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0066",
+      "start_seconds": 720.15,
+      "end_seconds": 732.99,
+      "text": "第一是我要证明我是有价值的， 第二我要证明我的业务是有价值的， 可以争取到更多的资源的。 第三更有甚者， 你到大厂做到后面去， 就是我要证明我的老板的业务是有合法性的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0067",
+      "start_seconds": 733.05,
+      "end_seconds": 740.97,
+      "text": "你先保住自己的工作， 然后你再写东西， 还要保住你老板的工作， 让你老板有这个情绪价值。 这是真的，因为每一层都是一样。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0068",
+      "start_seconds": 741.09,
+      "end_seconds": 749.19,
+      "text": "就特别是当一个组织庞大到一定程度的时候， 每个人都非常的清晰知道自己老板真正想要的东西是什么。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0069",
+      "start_seconds": 749.31,
+      "end_seconds": 758.79,
+      "text": "你董事长交权选了一个新的 CEO，CEO 是怎么跟他对赌的？CEO 一定跟他说， 我要把股价拉到多少钱， 让你解套， 或者让你能够减持。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0070",
+      "start_seconds": 758.97,
+      "end_seconds": 770.85,
+      "text": "这在中国 A 股很多的上市公司， 你明面上不说，但实际上他一定会有一个这样的预期嘛。 那对于 CEO 来说，他就要评估他的哪个业务板块在资本市场当中是比较好的， 能够讲故事。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0071",
+      "start_seconds": 770.85,
+      "end_seconds": 779.25,
+      "text": "然后他就会根据他的这个业务布局重新地去调配人手， 去形成新的组织关系、 权力关系和业务的布局。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0072",
+      "start_seconds": 779.31,
+      "end_seconds": 795.15,
+      "text": "那这个时候， 下面的这些具体的业务部门的头头脑脑， 特别像我做到一个中层以后， 就很清晰知道说在这个权力结构当中， 你通过怎么样的包装自己的工作， 能够拿到更多的权力、 更多的预算和更高的优先级。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0073",
+      "start_seconds": 795.21,
+      "end_seconds": 805.17,
+      "text": "因为没有这些东西， 你什么事情都干不成。 你有了这些东西，也许你会把事情干砸，但是你从某种角度来说， 它其实也会扭曲你的这个行为。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0074",
+      "start_seconds": 805.23,
+      "end_seconds": 815.67,
+      "text": "也许你的初心是真的想去做一些事情，但是在这过程当中， 你会通过很多一些表演性的工作和很多虚假的一些行为去行动。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0075",
+      "start_seconds": 815.79,
+      "end_seconds": 824.31,
+      "text": "原本我的想法也是一样， 一开始我认为是什么？ 一开始我认为这是所有制的问题， 就国企不行， 可能一些先进的一些民企或者外企会好。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0076",
+      "start_seconds": 824.43,
+      "end_seconds": 833.79,
+      "text": "后来发现跟所有制没有特别大的关系， 就只要组织庞大到一定程度都会一样。 但后来我在想的是，是不是跟你的企业规模有一定的关系？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0077",
+      "start_seconds": 833.85,
+      "end_seconds": 851.19,
+      "text": "就是组织大了， 进入到一个中层中台， 你没有办法直接地面对客户， 特别是一些知识型的组织， 它中间有大量的一些传话员的工作， 就像你写那个 Fake Work 里边一样， 它有很多润滑的工作， 模块和模块之间， 业务和业务之间， 它有一个衔接的工作。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0078",
+      "start_seconds": 851.25,
+      "end_seconds": 861.27,
+      "text": "那你处在这个信息枢纽的过程当中， 天然的第一个是你脚不沾地， 你不是直接面对一线的客户， 你很难获得这个准确的一些体感。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0079",
+      "start_seconds": 861.27,
+      "end_seconds": 872.61,
+      "text": "很多的一些流程走到你这儿， 可能就走丢了。 但是公司对你的考核， 它又是一个偏过程的一个管理， 所以你往往就会用一些数据的一些证明来证明你工作的一些问题。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0080",
+      "start_seconds": 872.61,
+      "end_seconds": 887.31,
+      "text": "所以在这个阶段， 我认为它是一个规模问题， 就是你组织规模到了一定程度，Fake Work 就会成倍增加。 再到后面， 当我进了一个创业公司以后， 我发现依然做的是 Fake Work， 我会发现跟规模有没有关系， 它还是跟权力结构有关。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0081",
+      "start_seconds": 887.37,
+      "end_seconds": 905.31,
+      "text": "当你到了创业公司以后， 你表演的对象不一样了， 一个再小的创业公司， 当它只有一个大股东的时候， 这个大股东某种程度上来说， 它就会像一个皇帝， 所有的公司的人都会非常清晰地去感知和关注他的情绪、 他的恩宠或者他的焦虑所在。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0082",
+      "start_seconds": 905.37,
+      "end_seconds": 914.97,
+      "text": "这是毋庸置疑的， 这是很现实的一个问题。 第二个是投资人将会极大地影响你对于事情的一些判断的优先级。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0083",
+      "start_seconds": 915.15,
+      "end_seconds": 937.29,
+      "text": "事实上，有大量的一些商业决策， 如果你是一个拥有真正的勇气和常识的人， 你是可以判断的。 但是当你有了投资人， 投资人有投资人的一些诉求、 想法，他对业务没有那么了解，但是他的业务了解就是你得有快增速， 你得有机会让我买老股， 把老股给卖了， 或者让我能够做出一个 Showcase 来。他对增长的需求是很高的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0084",
+      "start_seconds": 937.41,
+      "end_seconds": 950.61,
+      "text": "那这个时候， 你又会对于真相或者对于真实的商业规则视若罔闻， 然后去做一些证明这个东西可能会有高增长的一些虚假的一些动作。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0085",
+      "start_seconds": 950.73,
+      "end_seconds": 977.31,
+      "text": "我觉得这是一个点， 尤其是当一个管理者成为多个部门的 Leader 的时候，他就会变成一个叙事的一个统合者。 不同的部门， 原本比如他的总监或者他 Leader，他是用一套叙事来构建管理整个小团队的，但你管理多个部门， 特别是当多个部门之间的利益是有冲突或者是目标不一致的时候， 你又要花更多的时间去统合这些需求。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0086",
+      "start_seconds": 977.37,
+      "end_seconds": 988.59,
+      "text": "这个时候， 希望干事的人在过程当中是比较痛苦的，他会把大量的时间用在证明自己、 向上汇报、 跨部门协调、 沟通拉齐、 写文档。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0087",
+      "start_seconds": 988.65,
+      "end_seconds": 996.45,
+      "text": "因为只有这些工作带来的结果是可衡量的， 这些 KPI 是可衡量的， 未必是有价值的，但是是可衡量的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0088",
+      "start_seconds": 996.51,
+      "end_seconds": 1011.93,
+      "text": "所以我对于 Fake Work 的理解就是说， 某种程度上来说， 它既不是一个所有制的问题， 它不是个文化问题， 可能也不仅仅是规模问题， 它可能就是一个非常复杂的一个结构问题， 就像你昨天发给我的那个视频讲的那样。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0089",
+      "start_seconds": 1012.05,
+      "end_seconds": 1021.35,
+      "text": "没错， 它就是一个结构问题。 而且我对这个事情， 我大概想了三四年才把它真正想明白， 几个周之前想明白的。Fake Work 它的结构性原因， 我的体感也是非常明确。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0090",
+      "start_seconds": 1021.47,
+      "end_seconds": 1031.91,
+      "text": "你刚说就是在创业公司里边， 这个大股东是一个皇帝的感觉， 没错。 我当时在 Statista 我们的那个 CEO 很厉害，但是能感觉到有人是特别善于迎合他的想法。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0091",
+      "start_seconds": 1031.97,
+      "end_seconds": 1037.67,
+      "text": "我当时已经是因为我特别讨厌 Fake Work， 所以来的这个创业公司， 所以很多向上管理的东西呢， 我是不想做了的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0092",
+      "start_seconds": 1037.73,
+      "end_seconds": 1048.29,
+      "text": "就是我能做得很好，但是我不想做。 然后我就觉得很不适，因为就真的有一个人， 我们那个 Chief of Staff， 一直想方设法地坐在他对面， 甚至我们当时换桌子坐在他旁边， 就是投其所好嘛。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0093",
+      "start_seconds": 1048.41,
+      "end_seconds": 1057.83,
+      "text": "我就能感觉到他对这个老板的影响力是非常非常大的。 然后这个老板也是， 就是有什么事让你跟他说， 你跟他说，他自然而然地就会让渡很多这些权利给他。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0094",
+      "start_seconds": 1057.89,
+      "end_seconds": 1069.35,
+      "text": "这个 Fake Work 或者说这个表演工作的成因啊， 我觉得它是白领工作的特点带来的， 和我们学经济的时候公司金融第一课 Principal Asian Problem 这个机理其实是带来的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0095",
+      "start_seconds": 1069.47,
+      "end_seconds": 1081.89,
+      "text": "白领工作的这个点呢，是我听那个 Tim Ferriss 访谈一个嘉宾啊，他讲我当时想哇， 解释了好多东西。 这个道理是知识工作的 productivity 本质上是无法衡量的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0096",
+      "start_seconds": 1082.01,
+      "end_seconds": 1082.31,
+      "text": "对。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0097",
+      "start_seconds": 1082.43,
+      "end_seconds": 1089.75,
+      "text": "对， 就是你工厂里边是可以计件儿， 农民当然是可以计件儿，但是你知识工作， 你说一个数据科学家到底带来了多大价值， 你可以说。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0098",
+      "start_seconds": 1089.81,
+      "end_seconds": 1101.09,
+      "text": "我相信就是你让 10 个人说，10 个人可以把他们的这个对业务的增量加到 500%， 我这个人增加了 50%， 那个人增加了 50%， 然后加到一起 500%， 分不过来的， 绝对分不过来的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0099",
+      "start_seconds": 1101.09,
+      "end_seconds": 1112.43,
+      "text": "所以说就是知识工作的这个 attribution， 我们叫归因， 就是不可行， 本质上就是不存在的，因为链条太长，因为太软，因为你没有办法去让历史重复， 你没有办法去做真正的因果测试。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0100",
+      "start_seconds": 1112.55,
+      "end_seconds": 1122.51,
+      "text": "这是第一点。 然后 Principal Asian Problem 说的就是你公司的这个 owner， 你希望把业务做大做好， 然后你希望用最低的成本把这个业务做得最好，他是这样想的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0101",
+      "start_seconds": 1122.63,
+      "end_seconds": 1129.23,
+      "text": "但是这里边的这个 agent， 就是这些管理者们，他们是想着升职加薪， 升职加薪最好的方式就是招更多的人。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0102",
+      "start_seconds": 1129.53,
+      "end_seconds": 1137.81,
+      "text": "硅谷徐老师他强调的点就是， 这个公司有这么多人， 不是因为它需要这么多人， 或者甚至不是因为它未来需要这么多人，而是因为它招得起这么多人。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0103",
+      "start_seconds": 1138.17,
+      "end_seconds": 1145.97,
+      "text": "只要它招得起， 它就一定会招这么多人。 从上到下所有人的利益， 都是我要想方设法地能招尽量多的人， 这样我才能升职加薪。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0104",
+      "start_seconds": 1146.03,
+      "end_seconds": 1158.87,
+      "text": "所以这两个点叠加了以后， 中间必然而然地就全都是 Fake Work。 而且你只要责任有交接， 只要你有分工， 所有的这个交接的点就全都是 Fake Work，因为你在这里责任就清零了嘛， 每次一交接你的责任就清零了。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0105",
+      "start_seconds": 1158.93,
+      "end_seconds": 1171.53,
+      "text": "再叠加， 比如说刚刚创业公司的情况， 老板他不能所有方面都懂，他在懂的地方他可以追得更紧一点， 就比如说我们老板当时的工程能力特别强， 所以说他完全能知道每一个工程师你做得好还是不好， 然后你这个东西有多重要。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0106",
+      "start_seconds": 1171.59,
+      "end_seconds": 1180.11,
+      "text": "但是市场他不懂，他就没有办法知道你这个市场谁做的东西是什么了， 然后他没有办法判断了。 那在这里边就更容易滋生一些 Fake Work。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0107",
+      "start_seconds": 1180.17,
+      "end_seconds": 1188.21,
+      "text": "我自己补充两个点啊。 第一个是我同你说的， 就知识工作者当中更容易出现 Fake Work， 就是他很多的一些贡献是很难衡量的嘛。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0108",
+      "start_seconds": 1188.33,
+      "end_seconds": 1202.73,
+      "text": "那就是蓝领， 说个粗俗话， 就是蓝领做的都是狗屎工作， 白领做的可能是狗屁工作嘛。 就是因为狗屎工作， 它虽然某种程度来说它可能价值感不高，他们可能自我认同感也不高，但是他的那种贡献本身是比较好衡量的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0109",
+      "start_seconds": 1202.73,
+      "end_seconds": 1208.25,
+      "text": "我捡了多少瓶盖， 那就是多少瓶盖， 对吧？ 我扫了多少垃圾， 就是扫多少垃圾是比较好衡量，但白领就很难。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0110",
+      "start_seconds": 1208.31,
+      "end_seconds": 1217.61,
+      "text": "第二个是呢， 白领的有相当一部分的那些工作的价值本身啊， 就是你看上去差不多，但它其实会差很多。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0111",
+      "start_seconds": 1217.73,
+      "end_seconds": 1229.31,
+      "text": "就比如说我有一段职业经历是从一个广播的主持人到电视去做导演。 你在那段时间你会发现说，在广播做主持人，他的特征叫什么？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0112",
+      "start_seconds": 1229.31,
+      "end_seconds": 1243.59,
+      "text": "叫做踩边波一体。在这个环节当中， 你出独立的创意， 那你是一个记者， 同时你又是一个主持人， 你同时要邀请嘉宾， 然后你相当于还做了一个编辑， 就跟我现在在做的事情一样。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0113",
+      "start_seconds": 1243.65,
+      "end_seconds": 1265.61,
+      "text": "那么在整个的踩边波一体当中， 相当于你是个全站的人。 你是个全站的人， 你不需要花那么多时间去协调， 去证明， 我做了就是做了， 好就是好。在这个过程当中， 第一是它是相对比较符合创作规律的，因为你在这个当中， 你把这个事能够按照你的意图从头做到尾，但你到了电视去做导演的时候， 你会发现完蛋了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0114",
+      "start_seconds": 1265.61,
+      "end_seconds": 1273.77,
+      "text": "首先制片人有制片人的一个诉求， 对吧？ 第二个呢， 它可能就是包括一些招商啊， 赞助商的一些权益啊， 节目调性啊， 它有这个权益。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0115",
+      "start_seconds": 1273.89,
+      "end_seconds": 1282.89,
+      "text": "但是主持人有主持人的诉求， 主持人要表现自己， 要在这样的电视节目当中去表现自己， 可能后期就想早点回家，不要天天的熬通宵搞那么乱。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0116",
+      "start_seconds": 1282.89,
+      "end_seconds": 1291.89,
+      "text": "然后在这过程当中， 它也想有自己的一些审美的一些表达。 这个时候你一个导演在当中， 就是从创作来说是非常难的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0117",
+      "start_seconds": 1291.95,
+      "end_seconds": 1308.33,
+      "text": "第一个从效率上来说， 你所产出的那个东西并不是完整意义上的你的作品。 第二个就是说， 你做的整个东西， 它的最终的这个完成度其实也并不是由你所决定的。在这个当中， 它就会比较难。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0118",
+      "start_seconds": 1308.39,
+      "end_seconds": 1322.37,
+      "text": "当你去做这个东西， 你可以用一个非常轻巧的、 非常偷懒的一个行活的东西去完成它， 你也可以去投入很多的精力去精根细做地去打磨这个作品， 中间差别是非常大的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0119",
+      "start_seconds": 1322.43,
+      "end_seconds": 1337.73,
+      "text": "但是因为你只是这个 play 的一环嘛， 所以你在当中你就很难全然地去投入， 你就会总想着去糊弄， 然后你会去做一个非常平庸的东西出来，因为你在当中却要完成商业的诉求、 老板的诉求、 各种各样的一些诉求。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0120",
+      "start_seconds": 1337.79,
+      "end_seconds": 1354.17,
+      "text": "而且老板们还有一个 disease， 叫 value adding disease， 这个也是 Facebook Clinic CTO 一篇短文写的。 老板很难忍住一个冲动， 就是下面一个专业的人拿上来，他不说两句， 下面人给了他一个非常精美的这个设计方案， 或者说是一个很好的这个策划方案。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0121",
+      "start_seconds": 1354.29,
+      "end_seconds": 1361.79,
+      "text": "老板为了觉得自己有价值，他一定要去说两句， 然后一般说两句都是把这个东西说得更差， 这样非常烦。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0122",
+      "start_seconds": 1361.85,
+      "end_seconds": 1370.37,
+      "text": "这个是很难的。 就以前我们做广告的时候，有一个定律就是尽量不要接银行客户，因为银行的副行长很多，而且每个副行长都不对付。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0123",
+      "start_seconds": 1370.49,
+      "end_seconds": 1380.27,
+      "text": "你如果是个大的品牌广告的话， 就每个副行长要看， 然后每个人加一点需求， 然后这些需求之间是相矛盾的， 整个作品就会陷入一个巨大的一个内耗。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0124",
+      "start_seconds": 1380.33,
+      "end_seconds": 1388.37,
+      "text": "就是你真正的不是在完成一个事， 你甚至有的时候要去提供大量的一些情绪劳动和这个情绪的价值。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0125",
+      "start_seconds": 1388.49,
+      "end_seconds": 1394.67,
+      "text": "就是在这个非常差的结构下面去做 play， 跟观众工作不是特别有关系， 大家都是 play。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0126",
+      "start_seconds": 1394.73,
+      "end_seconds": 1403.43,
+      "text": "对， 那就比如说在那个过程当中啊， 当你意识到自己做的可能是一个所谓的 Fake Work 的时候， 你有什么样的一些行动吗？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0127",
+      "start_seconds": 1403.43,
+      "end_seconds": 1405.47,
+      "text": "或者说做出一些不一样的一些事情？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0128",
+      "start_seconds": 1405.53,
+      "end_seconds": 1423.59,
+      "text": "这个我觉得是男士你和我特别像的一个点啊， 就是我们不太劝大家去改变环境。 我从那个群里的聊天里边， 我和你听你的播客里边， 我发现就是你只能适应环境和在这个环境下面去选择一个更好的策略和战略，tactical 或者 strategy，但是你很难去改变环境。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0129",
+      "start_seconds": 1423.65,
+      "end_seconds": 1432.95,
+      "text": "所以说分析清楚这个环境，不是说这个环境不好然后怎么怎么样的，因为这个环境看清楚是很重要的，但是我们在其中能改变的东西是非常有限的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0130",
+      "start_seconds": 1433.01,
+      "end_seconds": 1446.15,
+      "text": "如果你恰巧有这样的能力， 或者说是机缘巧合可以去改变这个环境的话， 我觉得那很棒。 但是读历史嘛， 这种想改变环境的人一般下场都不是特别好， 被改变的那些人可能也不领情，他自己一般也会非常惨也非常累。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0131",
+      "start_seconds": 1446.27,
+      "end_seconds": 1457.13,
+      "text": "那在这里边我当时做的很多事呢， 就是去选择。 我当时觉得我有选择环境的能力和这个机会， 所以说我更多的是选择环境， 比如说各种跳槽， 对吧？",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0132",
+      "start_seconds": 1457.25,
+      "end_seconds": 1470.69,
+      "text": "从同学跳去创业公司， 那创业公司就开始回来自己做了。 这个是一个可以做的事， 选择。 那我现在在做自己的事了之后呢， 我也觉得有很多自主权， 然后我就不用做 Fake Work 了， 就像你现在， 对吧？",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0133",
+      "start_seconds": 1470.81,
+      "end_seconds": 1480.53,
+      "text": "特别爽。 那在那之前呢， 肯定就是你要先增加自己选择环境的能力了。 那我可能之前一开始是把简历做得好一点， 让我的简历想跳去任何一家公司我都可以跳。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0134",
+      "start_seconds": 1480.59,
+      "end_seconds": 1491.93,
+      "text": "后面呢， 就是我发现公司不想跳了， 那怎么办呢？ 那就开始去探索自己的副业， 然后探索自己的事业， 看看能不能不依赖公司， 自己也能做一些事情， 这个是一个方法。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0135",
+      "start_seconds": 1491.99,
+      "end_seconds": 1497.87,
+      "text": "如果说这两个选择都没有的话，其实我不管是社区啊， 还是我之前带的下属啊， 我都给过很多建议的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0136",
+      "start_seconds": 1497.93,
+      "end_seconds": 1503.99,
+      "text": "就是身在这个环境里边， 我觉得得看清两件事。 就回到当时， 我可以稍微讲讲我当时给一个下属的建议啊。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0137",
+      "start_seconds": 1504.05,
+      "end_seconds": 1515.15,
+      "text": "我们当时在腾讯游戏，是腾讯游戏的增长中台，是老的市场部门来的， 然后我们老板其实在腾讯内部的人脉是很广的，他跟很多核心业务的人关系都很好。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0138",
+      "start_seconds": 1515.21,
+      "end_seconds": 1525.29,
+      "text": "我们是一个数据科学部门， 然后这个数据科学部门呢， 当时我们平均能力啊， 素质啊， 各方面在腾讯里边还算不错， 就是招进来的人是一个相当于比较精英的小团队吧。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0139",
+      "start_seconds": 1525.29,
+      "end_seconds": 1531.95,
+      "text": "然后老板就以我们为借口去打开跟那个核心部门的合作， 然后后面我们其他的中台的东西可以跟上。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0140",
+      "start_seconds": 1532.07,
+      "end_seconds": 1542.93,
+      "text": "这时候我们内部的一个小朋友，他也是个人工很厉害啊， 就过来说， 哎呀，他做的这个数据分析， 业务方想要看到结果 A，但是他做出来是结果 B。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0141",
+      "start_seconds": 1543.05,
+      "end_seconds": 1552.29,
+      "text": "那他这个时候应该保持数据科学的这个 integrity 呢， 就是诚实度呢， 或者说节操吧， 还是应该去做业务方想要的东西。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0142",
+      "start_seconds": 1552.29,
+      "end_seconds": 1574.55,
+      "text": "然后我说， 你觉得我们跟这样的一个核心业务合作是因为什么？ 不是因为你做的这个东西那么有节操，不是因为你做的这个东西这么有专业，是因为我们大老板跟人家大老板关系很熟，是因为两方呢都想达成合作， 我们需要一个由头，他们需要用我们中台的一些资源， 我们需要一个核心的业务方去把这个中台的资源用出来， 然后大家一起在更大的老",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0143",
+      "start_seconds": 1574.55,
+      "end_seconds": 1586.19,
+      "text": "板面前都开开心心的。 所以说你要做的这件事呢，是你该保留你的数据， 你该提的建议提到， 让对方该知道的人知道， 这个是我觉得一个数据科学家应该做的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0144",
+      "start_seconds": 1586.25,
+      "end_seconds": 1602.93,
+      "text": "那第二呢， 就是在他们知道的情况下去做甲方需要的事情， 摆正我们自己的心态地位， 就是甲方是甲方， 然后我们在这里边呢是一个大 play 的其中一个小一环， 然后我们还是应该去做我们这个小 play 该 play 的东西，不要给老板找麻烦， 大概是这样的一个心态。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0145",
+      "start_seconds": 1602.99,
+      "end_seconds": 1624.95,
+      "text": "但是怎么说呢， 就是作为一个专业同学， 我觉得他要先看清这个游戏是什么。 就是刚刚说的不是说你不要去做一个诚实的人， 或者说你不要去做一个有专业度的数据科学家，而是你要意识到， 先意识到你的诚实和你的专业度在这里边虽然有价值，但是这个价值呢是更大的事情中的一个小部分。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0146",
+      "start_seconds": 1625.01,
+      "end_seconds": 1631.85,
+      "text": "所以说你可以去坚守你的价值， 坚守你的节操，但是适可而止， 给到该做这个决定的人就行了。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0147",
+      "start_seconds": 1631.85,
+      "end_seconds": 1649.07,
+      "text": "然后之后呢， 你去玩好这个游戏， 这个是我觉得对大家的建议。 就是你意识到了这个东西是很多 Fake Work 的情况下， 你应该知道你去打工的这一天， 你就选择了去做 Fake Work， 或者说 Fake Work 就是这个打工的价值的主体，不要又身在其中， 然后又抱怨为什么我在做 Fake Work。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0148",
+      "start_seconds": 1649.13,
+      "end_seconds": 1660.71,
+      "text": "搞清楚这件事呢， 如果你发现自己是一个不喜欢做 Fake Work 的人， 你可以再在这个环境里边试图再去创造一些土壤， 去让你的一些高价值的工作能挤掉一些低价值的 Fake Work。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0149",
+      "start_seconds": 1660.71,
+      "end_seconds": 1671.33,
+      "text": "这个是我觉得完全可以做到的。 我其实这本书里边嘛， 我就讲这个是我在 Facebook 的时候从一个也是一个很高级的一个数据科学家学到一个很重要的点， 然后我一直践行这个点， 然后效果也非常好。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0150",
+      "start_seconds": 1671.33,
+      "end_seconds": 1677.63,
+      "text": "我跟大家说了以后， 很多人践行这个点效果也很好。 就是你得先意识到只有 10% 的工作是有价值的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0151",
+      "start_seconds": 1677.69,
+      "end_seconds": 1685.19,
+      "text": "就是我们任何人回想过去半年的工作， 我们都会发现那里边可能两三周的工作决定了我们这半年的主要产出。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0152",
+      "start_seconds": 1685.19,
+      "end_seconds": 1702.71,
+      "text": "我们回看能看清楚， 往前看呢可能很难看清楚，但是我们要主动地去找到这些东西， 然后我们用这些高价值的工作去想方设法地反复做， 然后去把那些低价值的工作挤掉， 然后你就可以不断地去在一个以 Fake Work 为主的这样的环境里吧， 适当地多做一些有意义的事。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0153",
+      "start_seconds": 1702.71,
+      "end_seconds": 1703.37,
+      "text": "但是不可能。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0154",
+      "start_seconds": 1703.49,
+      "end_seconds": 1704.51,
+      "text": "哎， 我觉得。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0155",
+      "start_seconds": 1704.57,
+      "end_seconds": 1713.03,
+      "text": "对对对， 我觉得你前面的我感触比较多啊。 就是我是一个对于 Fake Work 和这种琐碎的工作都是耐受度极低的一个人。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0156",
+      "start_seconds": 1713.33,
+      "end_seconds": 1723.11,
+      "text": "就是我会暴躁如雷， 比如说填表， 处理一些财务的问题， 或者怎么样。 就甚至某种角度来说， 我认为我就应该是这个方面应该比别人有更多的耐心。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0157",
+      "start_seconds": 1723.11,
+      "end_seconds": 1743.51,
+      "text": "但是事实上来说， 处理一些家务和财务问题我就会暴躁如雷。 但后来我转变了一个念头啊， 我是这么想的， 就是说就现在 AI 包括有很多的一些 SaaS 工具的一些出现啊， 它其实是可以让你有办法更加无痛地， 或者是更加兴高采烈地去敷衍一些事情。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0158",
+      "start_seconds": 1743.63,
+      "end_seconds": 1762.71,
+      "text": "就是说这个东西如果我真的不爱做，不得不做，但是我也能找到所谓的一些最优解。 那最优解可能是转交他人， 可能是有个小伙伴帮你做， 可能是通过 AI 或者一些技术化的一些手段， 或者是说哎， 我把这些亏全部吃了， 这些发票或者这些东西它处理太麻烦了， 我就不去做， 那也行。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0159",
+      "start_seconds": 1762.77,
+      "end_seconds": 1771.35,
+      "text": "如果一直记在心里， 然后一直哔哔赖赖， 就一直哼哼唧唧的， 就实际上对于一个人的状态的影响反而是最大的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0160",
+      "start_seconds": 1771.41,
+      "end_seconds": 1780.29,
+      "text": "没有一个人可以幸运到说他做的所有的事情都是自己想做、 愿做、 擅长做的， 这不可能的。 要么就是有人替你负重前行， 对不对？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0161",
+      "start_seconds": 1780.35,
+      "end_seconds": 1798.71,
+      "text": "要么就是你拥有至高无上的这个权力和位置。 我前两天还看到一个小红书，他讲了一个东西我觉得蛮有意思的。他说以前我对工作还持有一种包含了个人价值、 社会认同、 喜忧参半、 痛又快乐的复杂感情，但是现在我已经对工作来到了纯恨时代， 就纯粹的恨。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0162",
+      "start_seconds": 1798.71,
+      "end_seconds": 1808.01,
+      "text": "我觉得这种状态其实对人是很伤的， 它会有多重伤害。 第一个是它会伤害人的感受， 它觉得不舒服； 第二个它会伤害人的自尊。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0163",
+      "start_seconds": 1808.19,
+      "end_seconds": 1818.93,
+      "text": "大多数的中国人的训练依然是说我做了， 我通过某个结果改变了什么， 然后我得到了一些反馈， 所以它会获得一种自尊的感受。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0164",
+      "start_seconds": 1819.05,
+      "end_seconds": 1827.87,
+      "text": "就自我决定理论说自主性、 胜任感、 连接性是获得价值感的来源嘛， 对吧？ 如果你在当中你没有这个胜任的感觉，其实是很难受的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0165",
+      "start_seconds": 1828.11,
+      "end_seconds": 1839.09,
+      "text": "第三它还有这种假冒伪劣， 就冒充者综合症嘛， 对吧？ 就特别是当一个人他拿了高薪以后，在金融机构和大厂的管理层当中是尤为出现。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0166",
+      "start_seconds": 1839.15,
+      "end_seconds": 1851.69,
+      "text": "我见到相当多的金融机构的中层以上的员工和大厂的员工， 就是可以用惶惶不可终日来形容。 就是他们是处在整个人非常紧绷的一个状态，因为的确他们的收入非常高。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0167",
+      "start_seconds": 1851.81,
+      "end_seconds": 1862.85,
+      "text": "相比较中国的普通的一些从业者来说， 很多的金融中层和很多的一些大厂， 特别是互联网大厂中层非常高，但是他们的主要工作就是保住他们这份工作。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0168",
+      "start_seconds": 1862.97,
+      "end_seconds": 1872.09,
+      "text": "因为事实上来说， 对吧？ 你开玩笑说一个批发赚到了市场当中， 你是很难在一个城市里边随随便便有个岗位能接住你的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0169",
+      "start_seconds": 1872.09,
+      "end_seconds": 1884.45,
+      "text": "这个时候他们的所有的专注度、 所有的安全感都来源于我怎么样去保住我这份工作。 那整体上来说， 对他们的人格也好， 精神状态也好，其实都是会有伤害和影响的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0170",
+      "start_seconds": 1884.57,
+      "end_seconds": 1900.65,
+      "text": "你去观察说， 比如说一个小店主， 我经常在街边去看那些手工的一些从业者啊， 比如说他是做煎饼的， 或者说是他做一些手工艺品的， 你会发现说这些小老板、 小生意人和小个体户，他们是非常自信的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0171",
+      "start_seconds": 1900.83,
+      "end_seconds": 1912.95,
+      "text": "就当他有这个手艺能够得到反馈，他每做一个饼或者每个东西，他都会得到一个反馈， 正面的负面的，他都是真实的，他都会来自于顾客和人的一个真实的一个反馈。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0172",
+      "start_seconds": 1913.01,
+      "end_seconds": 1920.99,
+      "text": "这个真实的反馈一天有十次、 几十次、 上百次。 所以就是说他挣的可能没有那么多，但是他的自尊程度是很高的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0173",
+      "start_seconds": 1921.05,
+      "end_seconds": 1947.21,
+      "text": "但是做 Fake Work 的有相当一部分的， 我们说大厂、 中台、 中层，他既没有办法位置高到说直接推动战略落地达到结果， 又不像前沿的那些销售或者是前沿的人一样， 可以直接地去触达客户。他夹在中间的一些战略传声筒和那个战略叙事者来说，他在中间的整体的人的状态是不好的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0174",
+      "start_seconds": 1947.27,
+      "end_seconds": 1959.39,
+      "text": "我觉得这种不好本身在我的职业生涯过程当中， 它严重地伤害了我。 所以这是我跳出来做小老板、 个体户和创业的一个非常重要的原因，因为它对我的整个人是带来了巨大的伤害。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0175",
+      "start_seconds": 1959.51,
+      "end_seconds": 1968.39,
+      "text": "这是一个特别不好的新手铐， 尤其是身在其中， 你就被训练到过你和这个职业阶梯了， 然后他训练的技能也全都是为这个准备的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0176",
+      "start_seconds": 1968.45,
+      "end_seconds": 1974.27,
+      "text": "我当时在腾讯有一个特别大的感觉啊， 就是我如果在这多待两三年的话， 我的核心竞争力是什么？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0177",
+      "start_seconds": 1974.33,
+      "end_seconds": 1984.17,
+      "text": "我觉得我会有核心竞争力的， 就是我更了解这个公司了， 我跟更多的人认识和建立信任关系了， 我办事更容易了， 别人办不了的事我能办， 或者说别人调配不了的资源我能调配。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0178",
+      "start_seconds": 1984.23,
+      "end_seconds": 1989.87,
+      "text": "这是我的核心竞争力。 但是我想这是我想要的核心竞争力吗？ 肯定不是。 除非我打算就是在腾讯干一辈子。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0179",
+      "start_seconds": 1989.93,
+      "end_seconds": 1999.23,
+      "text": "可是那个时候 AI 也出来了， 我知道这条路应该是不可行。 你刚刚说的那个点， 我记得咱们当时准备这个播客的时候， 你说了一个跨期违背， 对吧？Fake Work。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0180",
+      "start_seconds": 1999.47,
+      "end_seconds": 2000.19,
+      "text": "跨期违约。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0181",
+      "start_seconds": 2000.25,
+      "end_seconds": 2010.93,
+      "text": "对， 跨期违约。 对， 跨期违约。 这个我觉得就是特别的准。 我当时也出了一个反对摸鱼，因为其实在美国大厂尤其现在有 AI， 你如果 AI 使用领先一点的话， 你是有很多摸鱼机会的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0182",
+      "start_seconds": 2010.99,
+      "end_seconds": 2025.57,
+      "text": "你完全可以让 AI 自动化地去做你很多工作。 就是我们这采访的人， 就是有的人上班就是让 AI 去把他所有的 GitHub 的 Linear， 就是美国这边任务管理工具嘛， 所有的东西自己去读一遍， 然后自己去做， 然后下班以后喝着茶、 喝着咖啡验收一下， 然后就行了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0183",
+      "start_seconds": 2025.75,
+      "end_seconds": 2034.63,
+      "text": "白天又可以在家工作， 就是可以几乎啥都不干。 有很多人是这样子的， 包括前段时间 Facebook、Meta 的很多人都是说可以 AI 自动上班。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0184",
+      "start_seconds": 2034.99,
+      "end_seconds": 2043.15,
+      "text": "但问题是这个短期看起来是一个赚了，但是实际上我看这些人他们心中内心都是，他们能找到一些自洽的方式吧。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0185",
+      "start_seconds": 2043.33,
+      "end_seconds": 2060.61,
+      "text": "但是总之我觉得是对自信和你的精气神是有一个打击的。 就是可能你原来是能做一些更大的事，但是你现在就会觉得我是一个 Fake， 就是我的工作是 Fake， 然后我这个人也是一个虚假的人了， 拿着德不配位的钱， 我也不知道我自己可以干什么。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0186",
+      "start_seconds": 2060.85,
+      "end_seconds": 2066.79,
+      "text": "不过这可能也是一个历史机会啊， 就是你可以一边拿钱一边去想想自己不干这份工作是怎么样的，也许是个历史机会。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0187",
+      "start_seconds": 2066.85,
+      "end_seconds": 2075.79,
+      "text": "然后刚刚说的价值，也是有一个文章让我意识到了， 为什么中层的那个价值不是真正价值， 小老板个体户的那个价值是真正价值。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0188",
+      "start_seconds": 2075.85,
+      "end_seconds": 2086.23,
+      "text": "这件事你意识到了以后呢， 你会觉得理所应当就是这样的。 但是意识到之前呢， 我们有一个巨大的思维惯性， 这个思维惯性是我们从小到大都是学校考试考出来的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0189",
+      "start_seconds": 2086.29,
+      "end_seconds": 2096.37,
+      "text": "大厂的环境其实是完全延伸了这个学校， 就是你是从一个学校到了另外一个学校。 可是和创业它是两个世界， 就是和真实世界创造价值是两个世界。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0190",
+      "start_seconds": 2096.43,
+      "end_seconds": 2102.67,
+      "text": "那这个学校其实是历史上的一个短暂事物， 它是一个工业革命之后慢慢发展出来， 然后慢慢发展出来白领工作。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0191",
+      "start_seconds": 2102.85,
+      "end_seconds": 2110.77,
+      "text": "学校的特征是什么？ 学校特征是你有正确答案， 你用书本上的问题解决正确答案， 更难的题就更有价值，而且是有一个专业的人去给你打分， 对吧？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0192",
+      "start_seconds": 2110.77,
+      "end_seconds": 2112.81,
+      "text": "所有的东西都可以打一个分数， 分数越高越牛逼。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0193",
+      "start_seconds": 2112.93,
+      "end_seconds": 2115.27,
+      "text": "越牛逼就越厉害， 越厉害就越有价值。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0194",
+      "start_seconds": 2115.39,
+      "end_seconds": 2122.35,
+      "text": "对，而且可以赚更多的钱， 你也是一个更有价值的人， 对吧？ 我们从小到大都是好学生， 那大家都是觉得哇你好棒。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0195",
+      "start_seconds": 2122.41,
+      "end_seconds": 2131.83,
+      "text": "就是整个社会加长寿的人都会说你能上清华北大， 那你真是一个这个世界上最有价值的人。 但是这个价值完全是建立在一个虚假的基础之上， 就是这个分数。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0196",
+      "start_seconds": 2131.83,
+      "end_seconds": 2138.85,
+      "text": "这个分数是一个游戏， 它是在这个游戏里边你能拿高分， 就好像我说我魔术世界很厉害， 你拿出魔术世界里边别人就不认了， 对吧？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0197",
+      "start_seconds": 2138.97,
+      "end_seconds": 2144.13,
+      "text": "但是你确实在魔术世界里边大家都公认你是很厉害的。 这没问题，但是你要知道这个游戏的局限性。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0198",
+      "start_seconds": 2144.19,
+      "end_seconds": 2154.39,
+      "text": "那什么是价值？ 这是硅谷那个创投教父 Paul Graham 他写了一个文章嘛，他点出一个点。他说我就觉得为什么他说了以后我才知道这件事。他说之前我没有想到这件事。他说什么是财富？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0199",
+      "start_seconds": 2154.45,
+      "end_seconds": 2162.85,
+      "text": "很多人想到财富就是钱嘛， 可是钱是一个近代的发明。 那人类历史上那么长的时间在没有钱的情况下， 那什么是财富呢？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0200",
+      "start_seconds": 2163.09,
+      "end_seconds": 2171.37,
+      "text": "然后想是土地吗？ 是什么？ 其实归根结底一句话总结财富的话就是 What people want， 就是别人想要什么， 别人想要的东西就是财富。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0201",
+      "start_seconds": 2171.55,
+      "end_seconds": 2178.21,
+      "text": "你种的地、 收的麦子， 我想吃粮食呢是财富， 我需要衣服是财富。 有人想要金子， 那金子 OK 可以是财富。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0202",
+      "start_seconds": 2178.33,
+      "end_seconds": 2187.09,
+      "text": "别人需要这个东西， 你就可以拿这个东西去跟别人去做交换了。 这是财富本身。 所以说你看那些小业主啊、 个体户啊，他们做的东西很明显他们知道的是别人需要的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0203",
+      "start_seconds": 2187.15,
+      "end_seconds": 2204.73,
+      "text": "有这么多人每天早晨来吃我做的东西， 那个是有一个真实的跟财富的链接。 但是我们大厂一方面是工作的这个虚假的游戏， 一方面就是我们看似好像值很多钱， 看似赚了很多钱，但是这个金钱的金融体系其实也是一套另外的叙事和游戏。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0204",
+      "start_seconds": 2204.79,
+      "end_seconds": 2222.61,
+      "text": "就是我们如果看 Stephen 那个 《 十五不是 》 嘛， 就是财富其实也是一个故事， 钱也是一个故事。 然后在这个故事里边缺乏一个真实的世界、 真实的链接和真实的游戏之下， 我们就不断地只能去选择强化原有的那个叙事， 就是为什么我是一个中层， 然后我为什么有这么价值。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0205",
+      "start_seconds": 2222.73,
+      "end_seconds": 2227.11,
+      "text": "但是你反复强化， 你最后心里还是应该知道的， 这个东西是假的， 就那个东西不成立。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0206",
+      "start_seconds": 2227.23,
+      "end_seconds": 2236.17,
+      "text": "而且我觉得中间有两个点啊，是我自己的感知点。 就是当一个地方它人才密度很高，但增速不快的时候， 这是相当危险的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0207",
+      "start_seconds": 2236.23,
+      "end_seconds": 2249.31,
+      "text": "因为意义感稀缺以后， 这些人他必须要通过更加的勤奋、 更加的持续的工作，以及和同部门的比较来获得它的合法性。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0208",
+      "start_seconds": 2249.43,
+      "end_seconds": 2261.67,
+      "text": "而这些人又太聪明了， 就是一群太聪明的人、 知识浓度太高的人，在一个低增速的环境当中，他就会卷得很厉害，他就会成倍地去生产， 成倍甚至成十倍百倍地去生产这个 Fake Work。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0209",
+      "start_seconds": 2261.79,
+      "end_seconds": 2281.95,
+      "text": "就是我觉得这是一个我在之前很多大厂当中所看到的很明显的一些点。 包括我自己在做播客以后， 我就不点名， 就是有一个平台， 就你会发现它有段时间可能是因为有个业务 leader 特别喜欢播客这种形式载体， 就是会非常热烈地让他们的运营去让所有的播客主去入驻平台， 然后去发内容。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0210",
+      "start_seconds": 2282.01,
+      "end_seconds": 2289.93,
+      "text": "但事实上他们又不发自内心地去相信这种内容形式和 RSS 的技术手段。 所以他当时就做了很多这些小文章。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0211",
+      "start_seconds": 2289.99,
+      "end_seconds": 2298.81,
+      "text": "当过了这个双月，他发现这个东西达不到他们预期的数据之后， 就所有的运营人员就突然间就消失了， 就把那个主播们晾在原地。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0212",
+      "start_seconds": 2298.87,
+      "end_seconds": 2309.55,
+      "text": "就是因为说当我在一个增速开始放缓的一个头部大厂， 我需要每两个月立新功， 我需要每两个月证明自己是有价值的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0213",
+      "start_seconds": 2309.55,
+      "end_seconds": 2318.19,
+      "text": "但是你要知道真实世界当中的有相当部分的反馈它不是即时的，不是在此时此刻的， 它就需要两年、 三年、 五年甚至更长的一些时间。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0214",
+      "start_seconds": 2318.25,
+      "end_seconds": 2324.61,
+      "text": "如果我本身没有信念的话， 我是等不到的。 因为两年、 三年你有无数个商业， 我在这个大厂里面早就被开掉了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0215",
+      "start_seconds": 2324.61,
+      "end_seconds": 2337.57,
+      "text": "所以这就是我们在现实当中看到说， 当一个大厂它以增长为导向，在增长开始放缓的时候， 又没有那么强的信念和业务耐心的时候， 往往你会看到的就是这种一窝蜂的 Fake Work。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0216",
+      "start_seconds": 2337.63,
+      "end_seconds": 2340.81,
+      "text": "我觉得这是我们所看到的一个蛮剧烈的一个点。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0217",
+      "start_seconds": 2340.99,
+      "end_seconds": 2354.67,
+      "text": "我采访那个之前 Facebook 一个 VP，Mike Vernau，他后来是投资人嘛，他的视角挺好的。他就讲这个东西是一个比例， 就是 Interesting problem 和这个 Smart people， 就是你有多少有意思的问题需要被解决， 然后有多少聪明的人。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0218",
+      "start_seconds": 2354.79,
+      "end_seconds": 2362.11,
+      "text": "如果说有很多有意思的问题， 然后很少聪明的人的话，Great， 你在这里边你可以干很多事情， 然后大家就不会抢。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0219",
+      "start_seconds": 2362.17,
+      "end_seconds": 2374.95,
+      "text": "但是如果说你发现这个有意思的问题少了， 然后聪明的人多了以后， 就像你说的， 就是 Fake Work 一定会增加， 然后大家就变成了一个数字的游戏， 就是回到那个白领工作难以量化嘛。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0220",
+      "start_seconds": 2375.01,
+      "end_seconds": 2385.45,
+      "text": "因为在大厂里边你还是需要维持一个公平的， 然后最后大家就要去比， 你不能说这个人做的事情两年之后会发生结果， 所以说我奖励他，他在做长期主义的事。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0221",
+      "start_seconds": 2385.57,
+      "end_seconds": 2394.27,
+      "text": "哪怕老板知道， 哪怕这个人知道， 哪怕大家都心知肚明， 一定还会有人跑出来说， 那凭什么我做的事情肯定也是两年上尺度是好的， 你为什么不奖励我。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0222",
+      "start_seconds": 2394.39,
+      "end_seconds": 2399.13,
+      "text": "就是它最后是个结构性的问题， 就是没有办法解决， 没有任何的机制可以解决它。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0223",
+      "start_seconds": 2399.25,
+      "end_seconds": 2409.99,
+      "text": "那你觉得当你自己创业以后， 这个状态有好转吗？ 或者说是你有没有帮助很多在大厂的人， 让他至少没有那么痛苦了， 或者是降低了在 Fake Work 上面的一些时间？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0224",
+      "start_seconds": 2410.05,
+      "end_seconds": 2418.45,
+      "text": "因为我觉得 AI 的出现， 它可以让很多这些 Fake Work 也变得很快捷， 甚至你可以外包给 AI 去完成这个东西。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0225",
+      "start_seconds": 2418.51,
+      "end_seconds": 2429.31,
+      "text": "我觉得 AI 一定会先极大地膨胀 Fake Work， 然后再让它贬值。 所以说我其实在跟一些高管交流，他们已经感受到了这一点， 就是他们痛苦。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0226",
+      "start_seconds": 2429.37,
+      "end_seconds": 2443.29,
+      "text": "很搞笑， 一个人就是一个 General Manager， 管两三百个人吧， 是一个大厂的总经理的角色。 然后他就过来跟我说， 哎呀我最近好痛苦啊，他说我下属的每个人啊， 都给我特别精美的周报， 做得都头头是道的，但是我在这里边就要花费大量的精力去做判断。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0227",
+      "start_seconds": 2443.35,
+      "end_seconds": 2451.87,
+      "text": "然后我们这种中层不就是能力就是判断力吗？ 所以说我在这里边的判断力一方面被很大的消耗， 一方面我也觉得青黄不接， 然后一方面呢我也很难自重价值。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0228",
+      "start_seconds": 2451.87,
+      "end_seconds": 2460.51,
+      "text": "我就说你这是一个媳妇心态，而不是一个婆婆心态。 如果我是你我会干嘛？ 我会让所有的下属只给我七句话， 别给我干什么。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0229",
+      "start_seconds": 2460.69,
+      "end_seconds": 2462.19,
+      "text": "好多人心事的。 对对对。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0230",
+      "start_seconds": 2463.27,
+      "end_seconds": 2481.15,
+      "text": "哈哈， 凭什么让下属写那么多 AI Slop 乱七八糟的东西， 然后让我去做判断的？ 你给我七句话， 最好呢你这七句话如果说你要有一个核心的建议的话， 你还要告诉我你的这个信心程度是多少， 你敢不敢赌上你的所有的职业生涯， 敢不敢赌上你一年的奖金， 你敢不敢赌上你一个月的工资， 然后来给我说这件事我一定要做， 或者怎么",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0231",
+      "start_seconds": 2481.21,
+      "end_seconds": 2496.03,
+      "text": "样。 就是你可以建立这么一个机制， 这就是在他那里啊，他们公司和他本人是 AI 用的比较多的了。 所以说我能感觉到， 起码在这句话之后呢， 下个月他们公司的这个 Fake Work 就要收缩和贬值了， 就已经贬值了， 然后接下来会收缩。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0232",
+      "start_seconds": 2496.09,
+      "end_seconds": 2513.07,
+      "text": "但是我觉得在绝大多数公司， 大家还是 Fake Work 会被 AI 先加速膨胀，也是有一些根本性的原因的。 之前呢生产 Fake Work 的代价是昂贵的， 所以说你要出一个精美周报， 你要出一个详细调研， 你是真的要花这个时间， 真的去投入很多时间绞尽脑汁去写。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0233",
+      "start_seconds": 2513.25,
+      "end_seconds": 2519.25,
+      "text": "所以没有功劳也有苦劳嘛， 大家会去给你的苦劳去定一个权重， 认为它是有一定价值的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0234",
+      "start_seconds": 2519.37,
+      "end_seconds": 2529.33,
+      "text": "对， 现在苦劳也没有了。 之前而且老板哪怕想要功劳，他也没有判断力， 就是老板不知道他什么东西是好的， 什么东西是不好的， 那就看谁在这上面花的时间长， 花的心思多， 做的东西好呗。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0235",
+      "start_seconds": 2529.39,
+      "end_seconds": 2541.63,
+      "text": "所以说 Fake Work 在过去是一个昂贵的信号，但是这个信号现在已经完全失效了。 但是很多人还抱着这个思维惯性， 所以说他们先会用 AI 去放大这个昂贵的不值钱的信号。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0236",
+      "start_seconds": 2541.69,
+      "end_seconds": 2551.17,
+      "text": "然后另外呢就是 AI 它天然而然就会去增加 Fake Work，因为真正的判断啊， 你是不需要去加速的， 你是不需要一下出十个判断的， 你判断只能做一个。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0237",
+      "start_seconds": 2551.17,
+      "end_seconds": 2559.03,
+      "text": "所以说你的判断没有办法被 AI 一下子膨胀很多，但是你判断之前的那些东西， 交接之间的那些东西， 全都是可以被 AI 迅速地放大。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0238",
+      "start_seconds": 2559.09,
+      "end_seconds": 2568.03,
+      "text": "如果你不 deliberately， 就是你不特别有意地去使用 AI 的话， 你在这里边就一定会陷入把 AI 去放大本来你不该做的事。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0239",
+      "start_seconds": 2568.03,
+      "end_seconds": 2577.03,
+      "text": "很多人现在用 AI 都不是去， 就是我们经济学的优化嘛，是要改变 constraint， 你要先看看你的这个业务约束在了哪里， 然后你要去改变这个约束条件。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0240",
+      "start_seconds": 2577.09,
+      "end_seconds": 2587.29,
+      "text": "但是这个约束条件呢是需要人脑的， 然后是需要真正的工作的，是需要你花心思去做的。 所以说大家改变的经常不是这个约束条件，而是去自动化一些本来就不需要被自动化的东西。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0241",
+      "start_seconds": 2587.41,
+      "end_seconds": 2597.67,
+      "text": "就可能你本来花了两个人去做， 做得好好的， 你现在说我要用 AI 去做了， 结果又花了两个人去使用这个 AI， 然后还要去调试， 最后这两个人也许省下来，也许没省下来，但是从一开始就不需要去省。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0242",
+      "start_seconds": 2597.67,
+      "end_seconds": 2605.11,
+      "text": "所以你要去改变 Fake Work 的话， 你经常还要去做一些更加有益的事情， 比如说你要去消灭很多流程，而不是去自动化很多流程。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0243",
+      "start_seconds": 2605.11,
+      "end_seconds": 2617.41,
+      "text": "如果你还是身在这个变化的其中， 我觉得作为一个打工人， 还是有很多事可以去做的。 第一呢你要去宣传这件事， 就是你不站出来反对 Fake Work， 那大家消灭 Fake Work 的时候你也没有功劳。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0244",
+      "start_seconds": 2617.53,
+      "end_seconds": 2624.79,
+      "text": "你说的这个东西我相信大家都是讨厌 Fake Work 的， 所以说你站出来说，但是你要聪明地去说， 能聪明地去说的话， 大家会愿意站在你这边的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0245",
+      "start_seconds": 2624.85,
+      "end_seconds": 2649.27,
+      "text": "这第一， 那你之后在做很多消灭 Fake Work 的时候，也名正言顺。 就为什么古代打仗先要去有一个大意义， 对吧，有一个名正言顺， 你要先证明， 先把名给搞正了， 然后在名给搞正的情况下， 你就可以去说你看这些人做的这个精美 Work 是 Fake Work， 或者你聪明地去说这件事， 那我可以去把时间投入在真正的有用的事情上面来说我是有想法的， 我不是在偷",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0246",
+      "start_seconds": 2649.33,
+      "end_seconds": 2656.53,
+      "text": "懒，不要让老板怀疑你在偷懒。 然后还可以去， 我一直在犹豫说不说 AI 这个话题，因为这个话题并不简单。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0247",
+      "start_seconds": 2656.71,
+      "end_seconds": 2659.29,
+      "text": "它会比大家想象更复杂一点的地方是哪里？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0248",
+      "start_seconds": 2659.35,
+      "end_seconds": 2667.99,
+      "text": "大家听到我说 AI 第一反应就是说， 课代表你给我一个我可以做一二三的事吧，但是我觉得你不了解道理， 你直接去学那个一二三的事是非常危险的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0249",
+      "start_seconds": 2668.05,
+      "end_seconds": 2685.03,
+      "text": "所以我们都讲你要先学方法， 然后再学习惯， 然后再学 Mindset 这个思维方式， 这三个都改变了以后， 你学工具无所谓，但是大家特别想的就是一二三我可以直接做， 就是你甚至方法都不要教给我那种真正的原方法， 你要教给我一个我现在马上可以用的方法，但还是可以给大家一个新的方法。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0250",
+      "start_seconds": 2685.09,
+      "end_seconds": 2706.51,
+      "text": "给大家一个方法就是养成一个使用 Agent 的习惯， 就是 Codex、Claude Code 和 Cursor、Grok 这些是它可以直接调用模型， 加上它的 Harness，并且操纵你的电脑， 用你的本地的所有数据， 一定要把自己的工作习惯放到这里。WorkBody 一定程度上是吧，但是它其实是有局限的，而它试图把你绑定到它的生态里边， 这是我非常不推荐的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0251",
+      "start_seconds": 2706.51,
+      "end_seconds": 2716.17,
+      "text": "我刚刚说的这四个工具， 包括 Kimi Code 这样的工具呢，DeepSeek Harness， 都是它可以使用任何的上下文， 然后使用任何的工具。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0252",
+      "start_seconds": 2716.17,
+      "end_seconds": 2731.59,
+      "text": "我建议大家使用这样的开放的工具去做。 然后在这里边呢， 我建议大家第一多用一下知道 AI 的边界， 像我是可以完全把所有的权限交给 AI，但是同时呢我也有很好的备份系统， 就是 AI 如果删掉我任何东西我不担心， 就是我两分钟之后就可以恢复。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0253",
+      "start_seconds": 2731.65,
+      "end_seconds": 2744.07,
+      "text": "你基本上把它说的一段话贴给 AI， 然后让 AI 去帮你做， 你就可以做好了。 总之你要有一套好一点的使用方式， 然后你要打开它的 Computer Use， 就是让 AI 可以帮助你点击你的电脑。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0254",
+      "start_seconds": 2744.13,
+      "end_seconds": 2760.63,
+      "text": "这件事是 GPT-5.6、Claude 4.7 吧，OpenAI 4.7 之后 AI 做得非常好的一部分。 这也是为什么就是好像现在 OpenAI、Anthropic 都买了很多 Mac mini， 完全整个 MacBook 都买断货了， 就他们去用这些东西去训练 Agents，不光是可以写代码，而且可以去操作电脑。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0255",
+      "start_seconds": 2760.69,
+      "end_seconds": 2772.21,
+      "text": "然后 Agents 操作电脑现在的能力非常非常强。 我比如说亚马逊退货、 付账单， 你刚刚说就是报税啊， 付账单这种事我特别难受， 就是心里特别难受，但我现在都交给 AI 去做了。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0256",
+      "start_seconds": 2772.27,
+      "end_seconds": 2785.89,
+      "text": "就是很多东西这个页面他大概率没有看到过， 比如说我的那个社区网站， 你是要花 5 万美元才能看到这个 screen 的， 才能看到这个设置页面的，但是他就直接理解了，而且他那个页面其实是有一些小 bug 的， 所以说你要知道这个 bug 它的问题在哪， 然后你才可以用得很好。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0257",
+      "start_seconds": 2785.95,
+      "end_seconds": 2790.99,
+      "text": "然后 AI 一下子就知道了这个 bug 在哪里， 然后用得很好。 所以说基本上你所有人操作电脑的东西，AI 都可以做。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0258",
+      "start_seconds": 2790.99,
+      "end_seconds": 2798.91,
+      "text": "所以说用这种通用工具， 给它足够的权限， 打开 Computer Use， 然后你再打开 Remote Control， 就是你手机上就可以去操纵它。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0259",
+      "start_seconds": 2798.97,
+      "end_seconds": 2808.93,
+      "text": "比如说我现在我打开手机上的这个 ChatGPT， 这上面是这个 Remote， 这就是我的所有的 Codex 的 session， 就是我是让它干很多活的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0260",
+      "start_seconds": 2809.05,
+      "end_seconds": 2823.69,
+      "text": "比如说我今天发了那个我的视频播客怎么做的嘛， 那它就是这段， 然后包括里边的截图啊， 就是它去我的所有的后台去做截图， 然后把我的主页顺便可以更新了一下， 所有的发布全都是在这里边就直接让它去做的了。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0261",
+      "start_seconds": 2823.75,
+      "end_seconds": 2836.05,
+      "text": "然后这些事都是我躺在床上的时候， 或者聊天的时候， 或者开车的时候让它去做。 最后一个还有一个点就是， 你尽量把所有的上下文沉淀成 Markdown， 把所有的这个 Skill 给一个结果类的 Skill，而不是风格类的 Skill。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0262",
+      "start_seconds": 2836.17,
+      "end_seconds": 2849.01,
+      "text": "你的 Skill 的意义是在于你把该有的工具给 AI， 你对结果的要求给 AI， 它的边界和一些案例给 AI，而不是要教 AI 做事，也不是要给 AI 调动风格， 什么 Schoolatti Skill 那个没有意义。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0263",
+      "start_seconds": 2849.07,
+      "end_seconds": 2860.29,
+      "text": "但是你可以说我让 AI 操作微信， 像我的 AI 是可以操作微信的，因为我把那些东西压根就有嘛， 然后它直接给到 AI，AI 就可以去操作微信了， 或者说去发邮件啊等等， 这个东西可以给到 AI。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0264",
+      "start_seconds": 2860.35,
+      "end_seconds": 2868.87,
+      "text": "然后你的上下文呢存到本地， 你的这些 Skill 存到本地， 都是可以跨工具使用的。 只要这方面做好了以后， 你今天想切换任何工具都是可以切换。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0265",
+      "start_seconds": 2868.93,
+      "end_seconds": 2875.95,
+      "text": "这几件事全都做好了以后呢， 我觉得你就能把刚刚所说的绝大多数的这种 Fake Work 很好的交给 AI。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0266",
+      "start_seconds": 2876.01,
+      "end_seconds": 2885.13,
+      "text": "我现在就是任何的合作方啊，不管是播客啊， 包括我在办那个 AI Engineer 上海，是跟美国一个非常头部的这样的一个 Conference， 把它第一次带到上海。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0267",
+      "start_seconds": 2885.19,
+      "end_seconds": 2896.53,
+      "text": "就过程中跟什么 Sponsor， 然后跟 Speaker， 然后跟那个品牌方， 然后跟上海本地合作方有各种各样的问题， 还有跟上海人工智能协会领导们开会， 那都要出很多很多让我很难受的东西的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0268",
+      "start_seconds": 2896.59,
+      "end_seconds": 2904.45,
+      "text": "之前我对这些事就非常抗拒， 我现在就是哦好啊你跟我说要求， 然后我给我的 AI， 然后 AI 啪做好了就行了， 就觉得很舒服。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0269",
+      "start_seconds": 2904.57,
+      "end_seconds": 2917.59,
+      "text": "就有的时候我跟我儿子去交流的时候也是这样， 我说你这个东西你不爱做， 你就不要逼逼赖赖的， 你就是你可以兴高采烈地用最快速最凶猛的姿势去敷衍他，而且 AI 一定可以帮助你完成这个目标的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0270",
+      "start_seconds": 2917.65,
+      "end_seconds": 2941.05,
+      "text": "那这个时候他虽然这个 Fake Work 还在完成，但是它占据你生命当中的时间是很少的，但对于你整个一天当中的精神的消耗也是很低的， 你就可以腾出更多的时间来给自己生活更多冗余， 哪怕是跟客户聊天， 跟朋友聊天， 你也对于个人也是一种滋养和休息， 可以帮助你更松弛的状态下做出两到三个更好的决定。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0271",
+      "start_seconds": 2941.17,
+      "end_seconds": 2949.21,
+      "text": "就以前我们看那个贝索斯说什么我每天工作最重要的是做出两到三个高质量的决定， 那我们当时做法这不是废话吗？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0272",
+      "start_seconds": 2949.27,
+      "end_seconds": 2957.97,
+      "text": "我要是能知道做出高质量的决定， 我不也能成那个大老板吗？ 当自己创业很正常的时候， 你开始慢慢地理解到，因为你的事情是太多太多了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0273",
+      "start_seconds": 2958.21,
+      "end_seconds": 2969.25,
+      "text": "如果你愿意一个创业者可以每分每秒把自己填满，而且你不做决定闷头狂奔， 做自己想做的事情的时候， 你感觉还很好，因为你感觉自己一直在做事， 对吧？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0274",
+      "start_seconds": 2969.31,
+      "end_seconds": 2976.39,
+      "text": "你一直在交付， 你一直在创作， 一直在搞牛逼的东西， 你看这个别人也不会弄， 那个别人也不会弄， 你看我我多牛逼， 对吧？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0275",
+      "start_seconds": 2976.45,
+      "end_seconds": 2993.67,
+      "text": "你像十年二十年前这个东西在很多的一些外企里边， 它有个名字叫做工程师文化， 对吧？ 就是工程师我做的， 就我不知道它是不是对应啊，但是在上海圈子里面的确是这样， 我做这个也牛逼， 那个也牛逼，但是销售就会吐槽嘛， 就这个东西可能在客户这一侧它就不是真正的管用。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0276",
+      "start_seconds": 2993.73,
+      "end_seconds": 3018.99,
+      "text": "我自己的一个感受就是说 AI 从某种程度来说， 如果你上这个工具， 它可以解放你， 可以更高效地、 更快速地去以 60 分或者是相对高一点的一个水平去完成那些非核心的一些工作， 然后你可以花更多的时间， 更加从容地去打磨自己的更稀缺的能力，以及更从容地去做那些真正重要的决定。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0277",
+      "start_seconds": 3018.99,
+      "end_seconds": 3026.55,
+      "text": "我觉得这是我自己的一个感受。 第二个就是我在自己开始创业以后， 我一直在思考一个问题， 就是创业到底是为了什么？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0278",
+      "start_seconds": 3026.61,
+      "end_seconds": 3053.01,
+      "text": "你按照中国传统的观念来说， 你是求富贵求逍遥还是求长生， 对吧？ 你求富贵， 你想想看， 就是我们以中国这 20 年来增长最快的行业， 比如说以房地产为例， 历史上 8 万个房地产老板，8 万个房地产法人， 现在可能还没有限高的， 就是既没有进去，也没有出国出去，也没有限高的， 可能就只有 8,000 个嘛， 实际上这个占比是不多的， 你未必能够真富贵",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0279",
+      "start_seconds": 3053.13,
+      "end_seconds": 3061.29,
+      "text": "。 第二个你求逍遥你就更难了， 你只是没有到点上下班，但是你实际上就没有下班的点了， 你有很多的事情要处理。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0280",
+      "start_seconds": 3061.35,
+      "end_seconds": 3067.65,
+      "text": "你求长生， 你能活得更久或者怎么样吗？ 其实很难， 就是因为小老板他的压力是很大的， 对吧？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0281",
+      "start_seconds": 3067.77,
+      "end_seconds": 3095.25,
+      "text": "他皮质醇是很高的，他要承担的东西是非常多的，但是有一点是能做到的， 就是求真， 就是你真的相信， 你真的认可的事情你就可以马上做， 做了以后就可以得到市场的快速的反馈， 然后你通过这个反馈， 你就可以下一步地去展开行动， 然后你在不断地这些行动反馈的过程当中， 你就离真实的自己和真实的世界， 你就会有一个肉身的一个体感。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0282",
+      "start_seconds": 3095.31,
+      "end_seconds": 3119.43,
+      "text": "我觉得这个是很不一样的， 你会真的按照自己的想法和意愿去从事，而你在一个大厂的时候， 即便你是一个拥有很强的一个创神精神的一个人， 你也是穿了一个袜子， 你也是隔了一层在做这个事， 你知道总有人会兜底的， 你知道这个事情你并不是一号位， 你并不需要全然地为之负责， 你裹挟了很多资源， 你信誓旦旦， 然后你把老板的信誉砸下去",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0283",
+      "start_seconds": 3119.61,
+      "end_seconds": 3126.63,
+      "text": "去做这个项目， 最后做砸了， 最后亏掉的有老板，有股东，有各种各样的一些人，他板子不会全然地打在你身上。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0284",
+      "start_seconds": 3126.69,
+      "end_seconds": 3144.75,
+      "text": "所以你真的调动的一个精气神和你调动的你自己的这个能量依然是不一样的。 所以创业本身， 当你把它理解成是一个求真之旅的时候， 你就天然地你就会不去做那些 Fake Work，因为你没有表演的对象了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0285",
+      "start_seconds": 3144.75,
+      "end_seconds": 3155.13,
+      "text": "原来你是有很明确表演对象， 你通过向对象表演获得在权力和信息环境上的优势，但是当你成为一个创业者的时候， 你就没有这个表演的对象了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0286",
+      "start_seconds": 3155.13,
+      "end_seconds": 3170.61,
+      "text": "所以这个单纯意义上在组织内部的 Fake Work 就会减少很多。 当然砸活是没办法， 你这个该做的还是得做，但是这个就是我在创业过程当中我的一个改变吧， 就是我对于整个的做事这个事情上来说的一种改变。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0287",
+      "start_seconds": 3170.73,
+      "end_seconds": 3182.85,
+      "text": "我觉得这个话题非常棒， 我当时看到准备的那里边我就觉得非常有感触， 就是求真这件事， 哈哈， 真本事， 我书叫真本事嘛， 社区的 slogan 叫做点真东西， 就是跟这个 Fake Work 对应。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0288",
+      "start_seconds": 3182.85,
+      "end_seconds": 3193.59,
+      "text": "我先说为什么我觉得真这件事特别重要， 钱在一定程度上可以解决很多问题， 过了这个程度以后呢， 它会带来更多问题， 包括对我们对欲望的和我们时间的支配， 对吧？",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0289",
+      "start_seconds": 3193.65,
+      "end_seconds": 3208.23,
+      "text": "就会让我们去要很多我们之前不想要的东西。 如果我们去看真正的意义的话， 我觉得逍遥是值得追求的， 长生是不太可能的， 首先长生是求不到的，但是人经常会有一个永生幻象在，有这个永生幻象在的话， 就会带来很多其他的问题。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0290",
+      "start_seconds": 3208.29,
+      "end_seconds": 3215.97,
+      "text": "所以说首先要打破这个永生幻象， 我们可能很难求到真的逍遥啊，但是我觉得直接能求到的逍遥就是 Know Yourself， 过自己想要的生活。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0291",
+      "start_seconds": 3216.03,
+      "end_seconds": 3223.05,
+      "text": "然后这个自己想要的生活呢， 一定不是说我买一个游艇就是我想要的生活，而是你要知道自己真的想要什么， 这个事是非常非常难的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0292",
+      "start_seconds": 3223.05,
+      "end_seconds": 3229.83,
+      "text": "但是我觉得每离这个目标更近一点的话， 你就能更逍遥一点， 然后逍遥也许就可以带来所谓的富贵， 那是什么呢？",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0293",
+      "start_seconds": 3229.89,
+      "end_seconds": 3235.89,
+      "text": "就是你想要的东西能不能得到呗，而不是说我就要更多的钱， 那其实一定程度上也是回到这个逍遥的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0294",
+      "start_seconds": 3235.95,
+      "end_seconds": 3242.85,
+      "text": "那回过来就是你不求真的话， 你是得不到逍遥的， 就是你既不理解这个世界，也不理解自己。 所以说就是很难做到这件事。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0295",
+      "start_seconds": 3242.91,
+      "end_seconds": 3253.41,
+      "text": "从我的角度来说啊， 当我放弃了富贵和长生这两个目标，以逍遥和求真， 就是求真是这件事的本心， 反而有可能得到一个相对逍遥的结果。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0296",
+      "start_seconds": 3253.59,
+      "end_seconds": 3262.05,
+      "text": "你看我们早上我基本上都是在带娃， 晚上也是在带娃， 周末也是在带娃。 我觉得这件事就其实比牺牲带娃的时间去拼一些事业更好。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0297",
+      "start_seconds": 3262.11,
+      "end_seconds": 3270.51,
+      "text": "而且如果你看我的那个日历啊， 我日历基本上空的， 每周会有两个固定的打拳时间， 然后我会把很多时间拿来希望跟咱们这些 up 主们就是活动。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0298",
+      "start_seconds": 3270.57,
+      "end_seconds": 3271.17,
+      "text": "让我们很自由。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0299",
+      "start_seconds": 3271.29,
+      "end_seconds": 3277.29,
+      "text": "嗯对对对， 就是所有的会啊， 我基本上都推了， 首先在家带娃， 出差的所有的事情都推掉。 那剩下的是什么呢？",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0300",
+      "start_seconds": 3277.35,
+      "end_seconds": 3289.17,
+      "text": "我去打造我的商业模式， 让我不需要去做销售， 然后让我不需要去做基本上需要我本人的交付。 我所谓的交付就是每个月在社区里边给会员们组织一场大师课， 然后去做一次在线问答就行了。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0301",
+      "start_seconds": 3289.29,
+      "end_seconds": 3298.65,
+      "text": "剩下的时间我基本上是在社区里边给大家公开地回答问题， 我不在自信里面回答问题。 那剩下大多数时间是可以我支配的， 就把这个时间拿来跟像男士你这样的聊天。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0302",
+      "start_seconds": 3298.71,
+      "end_seconds": 3304.89,
+      "text": "我刚看 YouTube 不是在直播吗？ 有一个人说他代表最近都在加班， 可能在他们看来不知道那个时间是什么样子的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0303",
+      "start_seconds": 3304.89,
+      "end_seconds": 3320.07,
+      "text": "我说其实这个聊天对我来说是巨大的滋养， 就是每次聊完天我都特别开心， 就是我特别喜欢这样的聊天的碰撞的， 带来的业务结果是一回事， 就是每次对我的观点的启发呀，在这聊天过程中得到的一些心灵上的印证啊， 都很重要和交的朋友。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0304",
+      "start_seconds": 3320.19,
+      "end_seconds": 3331.59,
+      "text": "我还有一个点， 就是当我越学别人的时候， 我自己越难受和我其实在商业上的结果越不好。 当我越真实地面对自己， 然后想清楚自己要什么和发现我到底是一个什么样的人， 什么才是我合适的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0305",
+      "start_seconds": 3331.77,
+      "end_seconds": 3343.95,
+      "text": "举一个例子啊， 就是之前我在抖音上小红书上看很多， 就是教你怎么做标题， 做封面， 做开头 30 秒， 然后你知识付费什么样的， 什么知识付费不能真的教知识， 要教情绪什么什么的， 我就啊是吗？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0306",
+      "start_seconds": 3344.01,
+      "end_seconds": 3350.55,
+      "text": "然后我就开始在自我怀疑， 后来我说你们这些人啥都不懂， 你们当然教不了知识了， 然后我明明有这么多知识可以教， 我为什么要听你的？",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0307",
+      "start_seconds": 3350.61,
+      "end_seconds": 3357.09,
+      "text": "意识到这件事以后， 我就发现我就去好好教知识， 然后大家的反响就很好， 我就不去搞那些情绪的那些乱七八糟的东西了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0308",
+      "start_seconds": 3357.15,
+      "end_seconds": 3369.15,
+      "text": "就是在这个过程中， 我觉得求真是所有东西的根基，但是确实咱们聊的那些 Fake Work， 你在那个里边也讲嘛， 就是它对大脑的潜意识的驯化是一个最大的危险，在我看来。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0309",
+      "start_seconds": 3369.39,
+      "end_seconds": 3378.75,
+      "text": "因为我们 18 年的时间， 从读书到读大学或者是出职场时， 我们都活在一个记分牌或活在一个他人设定的一个评价系统当中。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0310",
+      "start_seconds": 3378.99,
+      "end_seconds": 3388.23,
+      "text": "这个评价系统是客观的，并且在你的职业生涯早期， 它就是最重要的东西，因为你总得有这样的一个标准， 才能把人你说是筛选分的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0311",
+      "start_seconds": 3388.23,
+      "end_seconds": 3388.95,
+      "text": "分的三六九等。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0312",
+      "start_seconds": 3389.25,
+      "end_seconds": 3405.33,
+      "text": "对对对对对， 你才能争取到一些资源。 但是这个记分牌本身它也是会流动的， 只是因为恰好在那个环节当中， 往往都是在那个传统的记分牌当中受益的那些人，他会维护这个记分牌， 维护那个评价体系。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0313",
+      "start_seconds": 3405.39,
+      "end_seconds": 3419.31,
+      "text": "那在这个评价体系当中， 你就只能做题， 你不能跳过每一道题， 你都会持续地去做题， 去解出更高的一个题， 你不了解到说原来这个世界上可能有其他的一个新的这种生活方式啊。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0314",
+      "start_seconds": 3419.37,
+      "end_seconds": 3429.21,
+      "text": "就所有我看到很多的大厂员工状态比较好的， 往往是他们有一个触达真实的一个副业也好， 或者是一个兴趣爱好也好。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0315",
+      "start_seconds": 3429.27,
+      "end_seconds": 3447.57,
+      "text": "这个兴趣爱好不是说我周末只爬爬山拍拍照那种，他可能就是爬得很专业， 或者就是拍照能够拿奖， 或者说是能够在某一个领域得到某种专精， 这种专精本身能够补偿他在职业当中的那种 Fake Work 所带来的那种虚无的一些感受。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0316",
+      "start_seconds": 3447.69,
+      "end_seconds": 3479.19,
+      "text": "有的时候我会建议或者鼓励他们把周末的这些感受和东西放大， 甚至借由他在这个真实世界当中的一些擅长的一个点， 先在商业上能够有一些突破， 这会比较大的会坚定他对这个事情的一个信念， 就是我在真实世界当中， 通过我的创意劳动是可以得到一个正向的回报，而不是依附于某个组织的一个恩赐， 或者是某一个公司的当年的一个业绩。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0317",
+      "start_seconds": 3479.31,
+      "end_seconds": 3485.55,
+      "text": "要现实当中他要拿到一个不能叫大结果吧， 拿到一个小结果，他这个人就会完全不一样。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0318",
+      "start_seconds": 3485.67,
+      "end_seconds": 3499.95,
+      "text": "嗯嗯， 首先完全认同啊。 我先讲一个我的例子， 然后再讲一个大厂里的补充， 就是我第一次感觉到巨大的自由是 2022 年的 10 月份到 2023 年的 2 月份之间。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0319",
+      "start_seconds": 3500.01,
+      "end_seconds": 3509.01,
+      "text": "那是我第一次我觉得我的人生到了下一个阶段， 就是发现了自己的无限游戏。 哎，是 2023 年的 10 月份， 对，2023 年的 10 月份， 就是我开启了会员频道。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0320",
+      "start_seconds": 3509.07,
+      "end_seconds": 3514.59,
+      "text": "我之前就是出很多视频嘛，但是我因为不做流量那些东西， 所以说我的频道增长的是比较慢的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0321",
+      "start_seconds": 3514.65,
+      "end_seconds": 3521.31,
+      "text": "就是虽然 YouTube、B 站和小红书都有，但是其实就是你从这个发的量和那个粉丝量来比的话，不是那么高。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0322",
+      "start_seconds": 3521.37,
+      "end_seconds": 3529.71,
+      "text": "但是我做了会员频道以后，B 站上充电的和 YouTube 上付会员的人特别的多， 几千， 然后每个月我就有了一下子足够我生活的钱。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0323",
+      "start_seconds": 3529.77,
+      "end_seconds": 3534.15,
+      "text": "就是我只是做了这么一个决定， 然后我该干什么干什么， 就是每个周再发一期会员视频就好了。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0324",
+      "start_seconds": 3534.15,
+      "end_seconds": 3540.51,
+      "text": "然后一下子我就得到了可以让我不听任何人的， 就是我不需要去接商单， 然后我就直接可以养活自己了。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0325",
+      "start_seconds": 3540.57,
+      "end_seconds": 3548.61,
+      "text": "我当时就发现了， 哦， 这个东西其实就是我想干的事。 那个时候还有朋友问我说， 如果现在给你所有的钱， 你财富自由了， 你想干嘛？",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0326",
+      "start_seconds": 3548.67,
+      "end_seconds": 3554.55,
+      "text": "我说那我想做视频， 跟人聊天， 然后去思考问题， 然后分享我自己的想法，不就是我在干的事吗？",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0327",
+      "start_seconds": 3554.55,
+      "end_seconds": 3563.49,
+      "text": "然后我知道就是我可以把赚来的钱投入到做更好的视频里边， 然后得到更多的增长， 从而让这件事只要它一直有价值， 就可以一直做下去。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0328",
+      "start_seconds": 3563.61,
+      "end_seconds": 3571.17,
+      "text": "那是我一个特别大的点， 就是在那之前我也没有做商单啊， 所以说我没有体会到在我频道上变现的感觉。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0329",
+      "start_seconds": 3571.23,
+      "end_seconds": 3585.21,
+      "text": "然后那次这种变现就给了我巨大的自信和巨大的自由。 所以说 exactly， 就是大家如果说有这么一个爱好的话， 当你做到这件事以后呢， 你就感觉到你这个人是一个真正的摆脱了这种既定路径。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0330",
+      "start_seconds": 3585.21,
+      "end_seconds": 3593.85,
+      "text": "大家的 default pass 就是好学生、 好工作、 买房、 结婚、 生娃， 然后一辈子打工， 想办法 65 岁退休， 这么一个既定路径了。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0331",
+      "start_seconds": 3593.91,
+      "end_seconds": 3603.81,
+      "text": "那个时候才会真的去想我是一个什么样的人， 我想要的是什么， 要在这个世界上留下什么东西。 就是这些问题其实是打工人没有奢侈可以去想的， 然后你其实每个人都可以去想。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0332",
+      "start_seconds": 3603.93,
+      "end_seconds": 3614.67,
+      "text": "就是小朋友一直在想， 打工人没有奢侈是因为我们被训练到了那条路径上， 可是一个个体户他其实是可以想这件事的， 或者说一个没上学的人， 或者在学校里的人， 小时候我们应该都想过是可以去想的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0333",
+      "start_seconds": 3614.85,
+      "end_seconds": 3622.83,
+      "text": "这是这个案例啊。 但是在大厂里边， 我觉得如果说大家还在打工的时候，有一些机会还是应该上， 然后不要瞻前顾后。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0334",
+      "start_seconds": 3622.83,
+      "end_seconds": 3630.81,
+      "text": "我当时在 Facebook 打工的时候说的那个， 我们叫 C2C shipping， 反正就是在 marketplace 上可以寄东西的这件事， 公司正好特别的在意。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0335",
+      "start_seconds": 3630.87,
+      "end_seconds": 3641.91,
+      "text": "所以说我当时的职级不是那么高， 就是一个资深数据科学家，但是很多人都听我说话， 然后很多人都来问我的意见， 然后我做的那些事呢， 我也能看到它真的影响到了用户。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0336",
+      "start_seconds": 3641.97,
+      "end_seconds": 3653.01,
+      "text": "每个周啊， 就能看到在线的这个交易是什么样子的， 然后能看到他们完成的交易，他们退款的情况啊， 然后我做一些决定就真的能让一些人， 就是我能看到这些决定带来的效果。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0337",
+      "start_seconds": 3653.13,
+      "end_seconds": 3660.21,
+      "text": "那个时候是一个间接的， 就是我现在回头去看， 那也是一个昙花一现的东西， 或者说老板说不要就不要了。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0338",
+      "start_seconds": 3660.33,
+      "end_seconds": 3673.65,
+      "text": "不过它确实在打工的时候， 你干 Fake Work 和不干 Fake Work 差距还是很大的。 不干 Fake Work 的时候， 就是你干的那件事真的有用的时候， 你的精气神是很不一样， 就是红气养人的那种感觉。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0339",
+      "start_seconds": 3674.07,
+      "end_seconds": 3688.35,
+      "text": "我自己前面在听你说的过程当中啊， 我自己的一个感受是特别羡慕你一个状态是什么， 就是我忘了这句话是硅谷的谁说的， 就是在自由的市场当中做创意化的表达，并且可以得到直接的反馈。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0340",
+      "start_seconds": 3688.41,
+      "end_seconds": 3701.31,
+      "text": "对对对， 就这个是非常幸福的一个工作，因为实际上很少有工作它可以同时把你影响力的杠杆和你的这个创意和反馈能够做非常好的一个结合的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0341",
+      "start_seconds": 3701.37,
+      "end_seconds": 3727.59,
+      "text": "但是现在因为有了一些多种工具结合在一起啊， 第一个就是说它肯定是你得有麦克风嘛。在我刚毕业的时候， 我是在传媒大学读本科的嘛， 就那个时候我们叫做一个西瓜， 一个西瓜就是中央电视台， 几个苹果， 那可能就是几个大的审台， 剩下就一地芝麻， 一地芝麻就可能很多那些电视台， 中国有几百个地级市，有几千个县级市，他们可能都有自己的一个广电系统",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0342",
+      "start_seconds": 3727.95,
+      "end_seconds": 3735.69,
+      "text": "，但实际上他是没有影响力的。 而且这些麦克风都是一个俄罗斯套娃的一个形式， 它都是在一个统一的思想下的一个组织形态当中。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0343",
+      "start_seconds": 3735.69,
+      "end_seconds": 3762.93,
+      "text": "但自媒体的诞生， 它其实提供了给每个人一个麦克风的一个机会， 任何一个垂类， 就今天你在小红书如果有一个词， 它是有潜能的， 哪怕它是一个冷门的一个医学词汇， 原本我们看到一个内啡肽， 一个前额叶， 你会出现说他不会是个健康博主，他会出现一个内啡肽博主， 一个前额叶博主，他依然可以做得非常非常大。他会细分出很多那个麦克风， 然后只要",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0344",
+      "start_seconds": 3763.17,
+      "end_seconds": 3773.13,
+      "text": "是你是一个专业的人， 有表达能力的人， 你都可以占据一个麦克风去表达你的观点， 你的知识。 我觉得这个是历史级别的一个机会。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0345",
+      "start_seconds": 3773.19,
+      "end_seconds": 3795.63,
+      "text": "第二个呢， 当然这个海外做的会更好， 就是一些商业化的基础设施， 现在也是迎来了一个成熟， 这个在美国，因为 YouTube 它天然的这个切片广告回报是比较多的， 国内 B 站因为没有这个东西， 对吧， 国内相当于有一个半吧， 就一个就是抖音， 半个就是小红书， 这一个半平台实际上它的商业化的基建程度也是做得比较好了。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0346",
+      "start_seconds": 3795.75,
+      "end_seconds": 3803.25,
+      "text": "广告的一些工具啊， 直播的工具啊， 电商的工具啊，也开始逐步地引入， 那它提供了一个商业化的一个可能性。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0347",
+      "start_seconds": 3803.31,
+      "end_seconds": 3812.25,
+      "text": "就是在 2015 年之前， 如果放在 10 年之前， 那时候我从电视台离开的时候， 我是根本无处可去的，因为上海就一个电视台。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0348",
+      "start_seconds": 3812.31,
+      "end_seconds": 3831.39,
+      "text": "我离开这个电视台， 我就无处可去， 就得去一家金融机构去做一个新媒体的业务，因为那时候我工作号起来了， 然后开始大众创业， 万众创新， 开始会有了一些机会去让你去基于当时的去中心化， 能够产生一些内容， 一些网站， 一些 APP 开始出现。在此之前， 一个媒体人他是无处可去的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0349",
+      "start_seconds": 3831.45,
+      "end_seconds": 3843.99,
+      "text": "那么现在第一个是， 那我觉得像移动互联网和这些平台的一些基建， 让一些内容的表达者真正第一次有机会的在这几年能够去创造自己的一个内容生态。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0350",
+      "start_seconds": 3844.05,
+      "end_seconds": 3852.81,
+      "text": "那我觉得 AI 的出现会进一步地去放大它的这个杠杆， 可以让它去做更多的一些服务， 或者是有价值的一些内容。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0351",
+      "start_seconds": 3852.93,
+      "end_seconds": 3871.65,
+      "text": "从我角度来说， 就内容创作者的个体户在这个时代是迎来了很多的一些机会。 我们今天也聊了很长时间了， 节目最后我有一个点， 就是看你在讲 Fake Work 的时候， 你讲到了一个当今的时代，也许是第二次的这个文艺复兴， 我觉得还挺有吸引力的，但是我也没有看得很明白。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0352",
+      "start_seconds": 3871.77,
+      "end_seconds": 3884.25,
+      "text": "这个问题太棒了。AI 会带来第二次文艺复兴和我们需要一个佛罗伦萨两个点。 第一次文艺复兴是人们发现自己， 然后人们 celebrate 自己， 人们发现我们不光要去看神， 我们要看人， 或者人比神更重要。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0353",
+      "start_seconds": 3884.31,
+      "end_seconds": 3893.49,
+      "text": "这是当时的点。 今天就是工业革命，其实是对人的很大的异化， 就是我们是要去把人打造成螺丝钉， 打造成标准件， 打造成完全可替代的东西。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0354",
+      "start_seconds": 3893.61,
+      "end_seconds": 3902.01,
+      "text": "这是我们的教育和我们的工作， 自然而然为这个经济体系和社会体系进行了适配。 这也是我们为什么会做这么多 Fake Work。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0355",
+      "start_seconds": 3902.07,
+      "end_seconds": 3914.85,
+      "text": "但是 AI 它不会马上带来第二次文艺复兴，但是 AI 消灭了标准化工作存在的理由， 消灭了 Fake Work 存在的理由， 所有标准化的工作 AI 此时此刻， 或者是甚至一年以前完全可以做好， 只是大家用的太菜了， 所以做不好。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0356",
+      "start_seconds": 3914.97,
+      "end_seconds": 3932.25,
+      "text": "所以 AI 消灭了这一点的时候， 人就会去被迫去发现自己那些该发现的东西， 就是我的 mastery， 我真正专精的擅长的， 我的 unfair advantage， 我喜欢的东西， 我的热情所在， 对什么东西我想愿意去研究， 我和别人有什么不一样的东西， 这个是我们被逼要去做的。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0357",
+      "start_seconds": 3932.37,
+      "end_seconds": 3949.71,
+      "text": "转型过程一定很痛苦啊， 我不觉得每个人都可以转型好，但是咱们今天聊的很多东西嘛， 比如说这些大厂的人会出来， 如果没有 AI，他们可能就不会出来了， 没有 AI 我也不会出来，但是我会出来了， 然后我会去做， 然后我会尽量的把这些东西跟大家去说， 然后希望帮大家更多的人可以出来， 可以去找到自己喜欢做的事， 求逍遥求真， 对吧， 求",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0358",
+      "start_seconds": 3949.77,
+      "end_seconds": 3961.71,
+      "text": "到这些东西。 那就是第二次文艺复兴啊， 就是我们去重新回归人， 重新回归自己。 就是第一个可能是人和神的整体， 这一次呢， 就是我们可以发现个体， 然后 celebrate 个体， 这个是第二次文艺复兴。",
+      "speaker_id": "yuzheng",
+      "speaker_name": "立正",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0359",
+      "start_seconds": 3961.77,
+      "end_seconds": 3973.77,
+      "text": "但是文艺复兴有一个很重要的点啊， 这也是那个 Paul Graham 的文章，他是 Taste for Maker， 那是 2002 年的文章， 我看了好多遍， 大家都说人在 AI 时代这个 agency 和 taste 品味是特别重要的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0360",
+      "start_seconds": 3973.89,
+      "end_seconds": 3996.93,
+      "text": "那篇文章，2002 年的文章， 就讲了品味到底是什么，他讲了六个特征，其中一个特征呢， 叫 Good Design Happens in Chunk。他就用了佛罗伦萨的例子， 就是在第一次文艺复兴的时候， 佛罗伦萨和米兰经济环境差不多， 佛罗伦萨出现了成批的大师，但是米兰没有， 米兰没有米开朗基罗， 都是意大利， 然后经济差不多的情况下， 为什么佛罗伦萨那么多大师，但是米兰没有， 就是佛罗",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0361",
+      "start_seconds": 3996.99,
+      "end_seconds": 4016.37,
+      "text": "伦萨当时有一定的环境， 大师们会成堆的出现。 就刚刚所说的这个社区， 就是一个人他可能来了以后，他看到了不同的可能性，他觉得这件事可行的， 就关键他之前在大厂里边，他身边的同事都说你别想了， 凭什么， 你这样工作不饱和吗， 你这个东西做不了的，他脑子里都是这样的想法。他来到这看到了这些世界， 然后他就说这个东西是一个很正常",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0362",
+      "start_seconds": 4016.37,
+      "end_seconds": 4023.03,
+      "text": "的事情， 我完全可以去做， 然后我做了以后呢， 放在这还有很多反馈。 就我觉得就是这样的一个环境是特别特别重要的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0363",
+      "start_seconds": 4023.09,
+      "end_seconds": 4047.09,
+      "text": "还有就是第二次文艺复兴是我跟刘家教授， 就清华大学的那个刘家教授聊的时候， 我跟他提了这个观念， 我觉得他的一个总结特别好。他说他觉得 AI 这次第二次文艺复兴啊， 既是对工业革命的一个升级，也是对工业革命的一个致敬，因为在第一次文艺复兴，有特权来发现自己的人是少部分人，但是我们现在其实大多数人其实是完全有足够的钱， 尤其降低一下自己的不",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0364",
+      "start_seconds": 4047.15,
+      "end_seconds": 4066.05,
+      "text": "该有的消费啊， 完全是可以活下来， 可以喂饱自己， 然后去把更多的时间投入在发现自己的。 站在一个我们物质其实已经很丰富了， 很多时候痛苦是因为被逼去做 Fake Work， 然后我们有一个机会和 AI 给了我们这么多能力去发现自己和自己喜欢做的事的情况下， 我还是挺看好这个时代的。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0365",
+      "start_seconds": 4066.17,
+      "end_seconds": 4078.83,
+      "text": "嗯， 感触很深。 就是文艺复兴是从看见神变成看见人。 就我们 AI 时代的文艺复兴， 它是从就原来只是看见人的有用， 现在变成看见人的不同。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0366",
+      "start_seconds": 4078.95,
+      "end_seconds": 4105.77,
+      "text": "这个过程当中， 所谓的表演性的工作也好，Fake Work 也好， 它某种程度上是我们有个执念或者假设是我必须得有用， 我有用是我存在的意义， 那我要千方百计地证明我有用， 即便在此时此刻或者在这个大组织内部，其实它的价值和回报它往往是不均衡的，不可能每时每刻每个阶段你都是一个有用的人， 特别在知识型的工作环境当中，但你不得不去证",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0367",
+      "start_seconds": 4105.83,
+      "end_seconds": 4115.73,
+      "text": "明它。 这个过程当中你会产生大量的次生灾害，Fake Work 会一次性出现，但是 AI 的出现会让一些标准化的有用的东西本身， 它的意义本身被消解了。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0368",
+      "start_seconds": 4115.85,
+      "end_seconds": 4128.33,
+      "text": "被消解了之后， 人不得不去寻求那些不同， 就说我真正身上有哪些特质和他人是不一样的， 那这些东西有哪些东西是真正社会所需要的， 提供了这样的一个机会。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0369",
+      "start_seconds": 4128.39,
+      "end_seconds": 4136.91,
+      "text": "就是也许一个程序员，他原来是个很棒的程序员，但他第一次发现说哦，AI 可以替代我 99% 甚至 100% 的工作的时候，他不得不去思考这样的一些事情。",
+      "speaker_id": "host:yang-tiannan",
+      "speaker_name": "杨天楠",
+      "speaker_status": "reviewed-source-attribution",
+      "speech_act": "statement"
+    },
+    {
+      "id": "segment-0370",
+      "start_seconds": 4137.09,
+      "end_seconds": 4148.55,
+      "text": "之前他会把很多价值绑定在一起， 就是他那个完全可被替代的工作可能占了他价值感的 90%，他只是在完全可替代的工作上可能比别人快那么一点点， 或者好那么一点点。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    },
+    {
+      "id": "segment-0371",
+      "start_seconds": 4148.61,
+      "end_seconds": 4157.79,
+      "text": "当那 90% 被 AI 取代了之后，他被逼去发现自己剩下的 10% 是什么， 才会注意到就是这剩下 10% 里面其实有 1,000% 他之前完全没有机会去注意。",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved"
+    }
+  ],
+  "transcript_source_url": "https://tdzsfm.com/a57f3e45-d085-49ee-85c1-2cb5c0809125"
+}

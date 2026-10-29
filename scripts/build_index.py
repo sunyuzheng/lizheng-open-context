@@ -14,6 +14,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 from rights import LICENSE_TEXTS, REFERENCE_USE, RETAINED
+from search import appearance_transcript_bindings
 
 ROOT = Path(__file__).resolve().parents[1]
 GENERATED = "<!-- 由 scripts/build_index.py 根据 catalog/ 生成，请不要手改。Generated from catalog/; do not edit by hand. -->"
@@ -528,9 +529,8 @@ def dialogue_page(root: Path) -> str:
         participants.setdefault(relation["source_id"], []).append(entities[relation["entity_id"]])
     appearances_path = root / "catalog/guest-appearances.jsonl"
     if appearances_path.exists():
-        for appearance in read_jsonl(appearances_path):
-            if appearance.get("transcript_id"):
-                participants[appearance["transcript_id"]] = [p["speaker_name"] for p in appearance["participants"]]
+        for identity, appearance in appearance_transcript_bindings(read_jsonl(appearances_path)).items():
+            participants[identity] = [p["speaker_name"] for p in appearance["participants"]]
     rows = []
     for binding in policy["records"]:
         data = json.loads((root / binding["corpus_path"]).read_text())
