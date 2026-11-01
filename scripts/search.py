@@ -518,6 +518,9 @@ def apply_guest_catalog(documents: list[Document]) -> list[Document]:
             rows.append(row["entity_id"])
     for doc in documents:
         source = doc.source_id if doc.source_id in sources else by_url.get(doc.source_family)
+        description = sources.get(source, {}).get("description", "")
+        if description:
+            doc.source_context += "\n发布方节目说明（只用于定位，不是发言原文）：" + description[:2000]
         ids = participants.get(source, [])
         if not ids:
             continue

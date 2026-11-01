@@ -138,7 +138,9 @@ def validate_catalog(catalog, articles):
                 require(target is not None and target["entity_type"] == "person", "member_entity_invalid")
     for s in catalog["sources"]:
         required = {"source_id", "video_id", "source_type", "url", "title", "thumbnail_url"}
-        require(isinstance(s, dict) and required <= set(s) <= required | {"published_at", "view_count", "metadata_verified_at"}, "source_fields_invalid")
+        require(isinstance(s, dict) and required <= set(s) <= required | {"published_at", "view_count", "metadata_verified_at", "description"}, "source_fields_invalid")
+        if "description" in s:
+            require(isinstance(s["description"], str) and len(s["description"]) <= 20000, "source_description_invalid")
         sid = s["source_id"]
         require(isinstance(sid, str) and sid not in sources and isinstance(s["title"], str) and bool(s["title"]), "source_id_duplicate_or_invalid")
         url(s["url"]); url(s["thumbnail_url"], image=True)
