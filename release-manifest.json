@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "snapshot_at": "2026-10-16",
+  "snapshot_at": "2026-11-01",
   "repository": "sunyuzheng/lizheng-open-context",
   "intended_visibility": "public",
   "source_snapshots": {
@@ -18,9 +18,9 @@
     "rights_and_index_review": "2026-10-03",
     "chinese_editions": "2026-10-04",
     "values_conversations": "2026-10-04",
-    "public_dialogues": "2026-10-16",
-    "guest_catalog": "2026-10-11",
-    "video_incremental": "2026-10-07",
+    "public_dialogues": "2026-11-01",
+    "guest_catalog": "2026-11-01",
+    "video_incremental": "2026-11-01",
     "guest_appearances": "2026-10-16"
   },
   "filters": {
@@ -343,7 +343,7 @@
     {
       "path": "config/release-snapshot.json",
       "bytes": 811,
-      "sha256": "86ccdc4fea6d81fe254763fedf91bb5fdab5892754e85441dad8dac5565dedcf",
+      "sha256": "39d0fe612ba640c42112a083566a99a3a89ed959e7c0d718667242feeb0e3408",
       "license": "CC0-1.0"
     },
     {
@@ -10428,8 +10428,8 @@
     },
     {
       "path": "scripts/ingest_published_captions.py",
-      "bytes": 6113,
-      "sha256": "45abccea2ce391e0cd09977ecedb3b180db33f298a02853f895e3e4a0e4419a6",
+      "bytes": 6533,
+      "sha256": "a0c189dd7d3277a6bc6bb4f6ff9512dcc3e48be1f2a6e2de93b322b17000fbc2",
       "license": "MIT"
     },
     {

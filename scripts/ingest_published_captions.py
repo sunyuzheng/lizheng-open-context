@@ -111,6 +111,12 @@ def main():
         path.write_bytes(encode(data))
         policy["records"].append(row)
         policy_path.write_bytes(encode(policy))
+        snapshot_path = ROOT / "config/release-snapshot.json"
+        snapshot = json.loads(snapshot_path.read_text())
+        date = row["anonymous_evidence"]["verified_at"][:10]
+        snapshot["snapshot_at"] = max(snapshot["snapshot_at"], date)
+        snapshot["source_snapshots"]["public_dialogues"] = max(snapshot["source_snapshots"]["public_dialogues"], date)
+        snapshot_path.write_bytes(encode(snapshot))
     print(json.dumps({"write": args.write, "path": row["corpus_path"], "cues": len(data["units"]), "sha256": row["sha256"]}))
 
 
