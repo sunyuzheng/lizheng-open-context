@@ -43,7 +43,7 @@
   "counts": {
     "structured_public_dialogues": 375,
     "structured_dialogue_cues": 307682,
-    "guest_entities": 158,
+    "guest_entities": 157,
     "guest_sources": 411,
     "guest_appearances": 431,
     "guest_slug_routes": 162,
@@ -252,14 +252,14 @@
     },
     {
       "path": "catalog/guest-names.json",
-      "bytes": 85571,
-      "sha256": "eac2710dc9baaa2ec0674079d1740cf85da094873f6db8c714dcb79c6dbd3d97",
+      "bytes": 85561,
+      "sha256": "3c649dbbde3dde3ee95baee58cc182e6ec54ed6f42c89baba0fe97d49efcf233",
       "license": "CC0-1.0"
     },
     {
       "path": "catalog/guests.json",
-      "bytes": 492617,
-      "sha256": "7d498d3d8e77213024f5c708c1f93067ee067246c5afc5dde63cee11b399e92d",
+      "bytes": 492229,
+      "sha256": "6f29ed6449dc9435aae33a99defe66f753b55df05fca9df083901f52a5bcb5a3",
       "license": "CC0-1.0"
     },
     {
@@ -270,8 +270,8 @@
     },
     {
       "path": "catalog/videos.jsonl",
-      "bytes": 1213153,
-      "sha256": "6e7e4c76800c8e3770a2b71499dd9b897389b147c19bbc192b6511c52969ee31",
+      "bytes": 1213145,
+      "sha256": "bf16e9ad712a9f11d9bf5bf2dfb20bd0c6511de858969ef697cea65b8cd068ab",
       "license": "CC0-1.0"
     },
     {
@@ -10308,8 +10308,8 @@
     },
     {
       "path": "index/dialogues.md",
-      "bytes": 112970,
-      "sha256": "c27244eb4d69e43e1cf61a1acdc1f48b5cfd058de4ebd4b4e3333b5a915d8d75",
+      "bytes": 112962,
+      "sha256": "62b56c6861d4e8b370fe675c17e461ccc608eec1a9ca4ba8a1c7f9222934beda",
       "license": "CC0-1.0"
     },
     {

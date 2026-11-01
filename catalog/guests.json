@@ -2655,11 +2655,13 @@
       "entity_type": "person",
       "display_name": "Mujtaba",
       "aliases": [
-        "Mujtaba"
+        "Mujtaba",
+        "Mujtaba Tirmizi"
       ],
       "slug": "mujtaba",
       "alias_slugs": [
-        "mujtaba"
+        "mujtaba",
+        "mujtaba-tirmizi"
       ],
       "primary_source_id": "youtube-c7M6B2GR5-k",
       "community_resources": [],
@@ -5381,21 +5383,6 @@
       "slug": "gene-tabach",
       "alias_slugs": [
         "gene-tabach"
-      ],
-      "primary_source_id": "youtube-hckVR-Aa-vs",
-      "community_resources": [],
-      "thumbnail_url": "https://img.youtube.com/vi/hckVR-Aa-vs/hqdefault.jpg"
-    },
-    {
-      "entity_id": "guest:mujtaba-tirmizi",
-      "entity_type": "person",
-      "display_name": "Mujtaba Tirmizi",
-      "aliases": [
-        "Mujtaba Tirmizi"
-      ],
-      "slug": "mujtaba-tirmizi",
-      "alias_slugs": [
-        "mujtaba-tirmizi"
       ],
       "primary_source_id": "youtube-hckVR-Aa-vs",
       "community_resources": [],
@@ -12084,10 +12071,10 @@
       "is_primary": true
     },
     {
-      "entity_id": "guest:mujtaba-tirmizi",
+      "entity_id": "guest:mujtaba",
       "source_id": "youtube-hckVR-Aa-vs",
-      "index": 0,
-      "is_primary": true
+      "index": 1,
+      "is_primary": false
     }
   ],
   "redirects": [
