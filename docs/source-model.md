@@ -75,4 +75,4 @@ RAG切块继承这些字段。原文与翻译按source family关联，多个片�
 
 数据更新在Open Context完成。消费者按commit和manifest构建可重现的副本，保存引用所用版本；实际来源、质量和许可随该版本一起进入回答。字幕结构与导入流程见[对谈资料](dialogue-ingestion.md)。
 
-发布方节目说明可保存在 `catalog/guests.json` 的 source.description，保留发表来源及 metadata_verified_at。它是节目目录的定位信息，不是任何人的逐句发言。解析器仅把有限长度的说明加入 source_context 参与发现，回答仍由实际原稿片段支撑；不在逐字稿中复制或改写这份说明。
+发布方节目说明可保存在 `catalog/guests.json` 的 source.description，保留发表来源及 metadata_verified_at。它是节目目录的定位信息，不是任何人的逐句发言。解析器仅把有限长度的说明加入派生检索字段 programme_description 参与发现，回答仍由实际原稿片段支撑；不在逐字稿中复制或改写这份说明。

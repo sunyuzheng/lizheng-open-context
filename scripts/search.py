@@ -87,6 +87,7 @@ class Document:
     speech_act: str = ""
     # Contiguous raw units, never the programme roster or inferred endorsement.
     dialogue_units: list | None = None
+    programme_description: str = ""
 
 
 def provenance_fields(meta: dict) -> dict[str, str]:
@@ -519,8 +520,7 @@ def apply_guest_catalog(documents: list[Document]) -> list[Document]:
     for doc in documents:
         source = doc.source_id if doc.source_id in sources else by_url.get(doc.source_family)
         description = sources.get(source, {}).get("description", "")
-        if description:
-            doc.source_context += "\n发布方节目说明（只用于定位，不是发言原文）：" + description[:2000]
+        doc.programme_description = description[:2000]
         ids = participants.get(source, [])
         if not ids:
             continue
@@ -631,7 +631,7 @@ def parse_raw_dialogue(path: Path) -> list[Document]:
     def sized(rows):
         chunk, size = [], 0
         for unit in rows:
-            if chunk and size + len(unit["text"]) > 2600:
+            if chunk and (size + len(unit["text"]) > 2600 or unit["start_seconds"] < chunk[-1]["start_seconds"]):
                 yield chunk
                 chunk, size = [], 0
             chunk.append(unit); size += len(unit["text"])
@@ -655,11 +655,13 @@ def parse_raw_dialogue(path: Path) -> list[Document]:
         begin = speech.index(chunk[0])
         finish = begin + len(chunk)
         left, right, n = begin, finish, 0
-        while left > 0 and n + len(speech[left - 1]["text"]) <= 350:
+        while (left > 0 and speech[left - 1]["start_seconds"] <= speech[left]["start_seconds"]
+               and n + len(speech[left - 1]["text"]) <= 350):
             left -= 1
             n += len(speech[left]["text"])
         n = 0
-        while right < len(speech) and n + len(speech[right]["text"]) <= 350:
+        while (right < len(speech) and speech[right - 1]["start_seconds"] <= speech[right]["start_seconds"]
+               and n + len(speech[right]["text"]) <= 350):
             n += len(speech[right]["text"])
             right += 1
         context = speech[left:right]

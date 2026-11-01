@@ -107,6 +107,31 @@ speaker_classification: "mixed-or-unresolved"
         self.assertEqual(docs[0].author, "说话人待核")
         self.assertTrue(all(doc.data_layer == "raw" for doc in docs))
 
+    def test_programme_notes_are_idempotent_navigation_metadata_not_raw_speech(self):
+        path, _ = self.structured()
+        (self.root / "catalog").mkdir()
+        (self.root / "catalog/guests.json").write_text(json.dumps({"entities":[], "appearances":[],
+            "sources":[{"source_id":"youtube-ABCDEFGHIJK","url":"https://www.youtube.com/watch?v=ABCDEFGHIJK",
+                        "description":"Synthetic programme topic, never spoken in these cues."}]}))
+        docs = search.parse_raw_dialogue(path)
+        search.apply_guest_catalog(docs)
+        before = [dict(vars(doc)) for doc in docs]
+        search.apply_guest_catalog(docs)
+        self.assertEqual(before, [dict(vars(doc)) for doc in docs])
+        self.assertIn("Synthetic programme topic", docs[0].programme_description)
+        self.assertNotIn("Synthetic programme topic", docs[0].text)
+
+    def test_contiguous_windows_never_cross_a_source_time_reset(self):
+        path, data = self.structured()
+        for unit, start in zip(data["units"], (10,20,1)):
+            unit.update(start_seconds=start,end_seconds=start+1)
+        path.write_text(json.dumps(data))
+        docs = search.parse_raw_dialogue(path)
+        for doc in docs:
+            if doc.dialogue_units:
+                times = [u["start_seconds"] for u in doc.dialogue_units]
+                self.assertEqual(times, sorted(times))
+
     def test_only_statements_stand_as_a_speakers_words(self):
         path, data = self.structured()
         for act in ("question", "introduction", "acknowledgement", "joke", "reported-other"):
