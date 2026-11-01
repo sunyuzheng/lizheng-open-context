@@ -10428,8 +10428,8 @@
     },
     {
       "path": "scripts/ingest_published_captions.py",
-      "bytes": 5975,
-      "sha256": "983653f7abb1882c43ea4bbb86cfee90d7358a0b6c423fb879ebae6f99cd53f9",
+      "bytes": 6113,
+      "sha256": "45abccea2ce391e0cd09977ecedb3b180db33f298a02853f895e3e4a0e4419a6",
       "license": "MIT"
     },
     {
@@ -10597,7 +10597,7 @@
     {
       "path": "tests/test_published_captions.py",
       "bytes": 2645,
-      "sha256": "731be3b1280a423651eec9b7cf5c8fac2f1aec145bc3c7b66a2cd66aecc18591",
+      "sha256": "c70c0547a5caab1417b9aa6c0d969003da943d087d31dc8ae601ad9588a22b04",
       "license": "MIT"
     },
     {
