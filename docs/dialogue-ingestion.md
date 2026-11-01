@@ -66,3 +66,11 @@ python3 scripts/search.py "问题" --layer derived --json
 新对谈收录后，在本机运行`scripts/voice_attribution.py`：`embed`（需要本地音频库、torch、pyannote.audio和ffmpeg）、`label`、`acts`（需要`AI_BUILDER_TOKEN`）、`apply`，再运行`python3 scripts/validate_release.py --write-manifest`。维护者确认过的节目（比如他指出哪个声音是自己）用`--checks`传入，记录在该期的`maintainer_check`里。
 
 质量字段分别记录AI文字校对、改动复核、全文阅读、音频核验和待核数量。各阶段按其实际证据登记，消费者可据此判断一份原稿适合怎样使用。
+
+## 已发布字幕的直接收录与完整性对账
+
+发布者上传的字幕可以原样收录，无须虚构一次AI精校。`scripts/ingest_published_captions.py` 默认仅预览，`--write` 只修改本地检出；它要求已核对的节目身份与参与关系、匿名公开的本频道视频、匹配的标题和时间轴，保留字幕hash、媒体时长和实际质量。平台ASR另标为 `platform-auto-captions-unverified`；去掉滚动字幕的重复历史行不等于内容精校。原字幕超出当前视频时长会被拒绝，不能删掉尾部或按比例换时码来过关。录制版与剪辑版各自绑定。
+
+解析器为按时间切出的原文片段附带 `dialogue_units`：连续的原始单元及有限的相邻上下文，保留未知归属。消费者从中挑选连续窗口并逐段标注；它不是嘉宾目录，也不是预先生成的赞同标签。单人投影仍可用于召回，但判断回应关系要回到连续窗口。
+
+每次发布运行 `python3 scripts/reconcile_interviews.py`，核对节目目录、视频目录、已准入原稿和说话人覆盖。加 `--listing <匿名频道快照>` 可列出尚未分类的候选；频道列表可能包含会员视频，必须逐个验证公开状态。报告明确区分缺原文、已有旧式字幕、结构化原稿和未确认说话人，不能把“已收录”写成“逐字听校”。媒体、观测回执、音频特征与声纹留在本机。

@@ -5306,6 +5306,100 @@
           "start_seconds": 16
         }
       ]
+    },
+    {
+      "entity_id": "guest:yang-tiannan",
+      "entity_type": "person",
+      "display_name": "杨天楠",
+      "aliases": [
+        "杨天楠",
+        "天楠"
+      ],
+      "slug": "yang-tiannan",
+      "alias_slugs": [
+        "yang-tiannan"
+      ],
+      "primary_source_id": "youtube-ur-HjD422ig",
+      "community_resources": [],
+      "thumbnail_url": "https://img.youtube.com/vi/ur-HjD422ig/hqdefault.jpg"
+    },
+    {
+      "entity_id": "guest:chun-xia",
+      "entity_type": "person",
+      "display_name": "夏淳",
+      "aliases": [
+        "夏淳",
+        "Chun Xia"
+      ],
+      "slug": "chun-xia",
+      "alias_slugs": [
+        "chun-xia"
+      ],
+      "primary_source_id": "youtube-gQzvscl6Y2I",
+      "community_resources": [],
+      "thumbnail_url": "https://img.youtube.com/vi/gQzvscl6Y2I/hqdefault.jpg"
+    },
+    {
+      "entity_id": "guest:marco-casalaina",
+      "entity_type": "person",
+      "display_name": "Marco Casalaina",
+      "aliases": [
+        "Marco Casalaina",
+        "Marco"
+      ],
+      "slug": "marco-casalaina",
+      "alias_slugs": [
+        "marco-casalaina"
+      ],
+      "primary_source_id": "youtube-KpQwWNkyEsQ",
+      "community_resources": [],
+      "thumbnail_url": "https://img.youtube.com/vi/KpQwWNkyEsQ/hqdefault.jpg"
+    },
+    {
+      "entity_id": "guest:changxi-zheng",
+      "entity_type": "person",
+      "display_name": "郑昌熙",
+      "aliases": [
+        "郑昌熙",
+        "Changxi Zheng"
+      ],
+      "slug": "changxi-zheng",
+      "alias_slugs": [
+        "changxi-zheng"
+      ],
+      "primary_source_id": "youtube-y6kRa1vGAwA",
+      "community_resources": [],
+      "thumbnail_url": "https://img.youtube.com/vi/y6kRa1vGAwA/hqdefault.jpg"
+    },
+    {
+      "entity_id": "guest:gene-tabach",
+      "entity_type": "person",
+      "display_name": "Gene Tabach",
+      "aliases": [
+        "Gene Tabach"
+      ],
+      "slug": "gene-tabach",
+      "alias_slugs": [
+        "gene-tabach"
+      ],
+      "primary_source_id": "youtube-hckVR-Aa-vs",
+      "community_resources": [],
+      "thumbnail_url": "https://img.youtube.com/vi/hckVR-Aa-vs/hqdefault.jpg"
+    },
+    {
+      "entity_id": "guest:mujtaba-tirmizi",
+      "entity_type": "person",
+      "display_name": "Mujtaba Tirmizi",
+      "aliases": [
+        "Mujtaba Tirmizi"
+      ],
+      "slug": "mujtaba-tirmizi",
+      "alias_slugs": [
+        "mujtaba-tirmizi"
+      ],
+      "primary_source_id": "youtube-hckVR-Aa-vs",
+      "community_resources": [],
+      "thumbnail_url": "https://img.youtube.com/vi/hckVR-Aa-vs/hqdefault.jpg"
     }
   ],
   "sources": [
@@ -7923,7 +8017,8 @@
       "title": "不懂“人”，谈何职业发展？｜陈然访谈",
       "thumbnail_url": "https://img.youtube.com/vi/l9RmiySrwXM/mqdefault.jpg",
       "published_at": "2025-05-18T02:01:14Z",
-      "view_count": 7496
+      "view_count": 7496,
+      "metadata_verified_at": "2026-11-01T21:01:03.169681+00:00"
     },
     {
       "source_id": "youtube-Ngd2nWp0Xfc",
@@ -9342,6 +9437,55 @@
       "title": "互联网公主星瞳·马的一天和一年",
       "thumbnail_url": "https://img.youtube.com/vi/dmUTGbe6d00/mqdefault.jpg",
       "published_at": "2023-05-09"
+    },
+    {
+      "source_id": "youtube-ur-HjD422ig",
+      "video_id": "ur-HjD422ig",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ur-HjD422ig",
+      "title": "杨天楠：看似体面的工作，实则都是在表演？",
+      "thumbnail_url": "https://img.youtube.com/vi/ur-HjD422ig/hqdefault.jpg",
+      "published_at": "2026-10-30",
+      "metadata_verified_at": "2026-11-01T20:53:42.768598+00:00"
+    },
+    {
+      "source_id": "youtube-gQzvscl6Y2I",
+      "video_id": "gQzvscl6Y2I",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=gQzvscl6Y2I",
+      "title": "过度优化的人生，注定一塌糊涂｜对谈硅谷资深投资人",
+      "thumbnail_url": "https://img.youtube.com/vi/gQzvscl6Y2I/hqdefault.jpg",
+      "published_at": "2026-10-26",
+      "metadata_verified_at": "2026-11-01T20:53:42.769848+00:00"
+    },
+    {
+      "source_id": "youtube-KpQwWNkyEsQ",
+      "video_id": "KpQwWNkyEsQ",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=KpQwWNkyEsQ",
+      "title": "AI在大企业中的应用才刚刚开始，人才供不应求？｜对话微软CoreAI副总裁Marco Casalaina",
+      "thumbnail_url": "https://img.youtube.com/vi/KpQwWNkyEsQ/hqdefault.jpg",
+      "published_at": "2026-10-15",
+      "metadata_verified_at": "2026-11-01T20:53:42.811300+00:00"
+    },
+    {
+      "source_id": "youtube-y6kRa1vGAwA",
+      "video_id": "y6kRa1vGAwA",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=y6kRa1vGAwA",
+      "title": "李飞飞收购郑昌熙：有生之年，我们可能看不到通用机器人出现",
+      "thumbnail_url": "https://img.youtube.com/vi/y6kRa1vGAwA/hqdefault.jpg",
+      "published_at": "2026-10-09",
+      "metadata_verified_at": "2026-11-01T20:53:42.815715+00:00"
+    },
+    {
+      "source_id": "youtube-hckVR-Aa-vs",
+      "video_id": "hckVR-Aa-vs",
+      "source_type": "youtube",
+      "url": "https://www.youtube.com/watch?v=hckVR-Aa-vs",
+      "title": "Meta数据科学家如何影响公司战略？｜Ecosystem DS的工作、绩效与晋升",
+      "thumbnail_url": "https://img.youtube.com/vi/hckVR-Aa-vs/hqdefault.jpg",
+      "published_at": "2026-10-23"
     }
   ],
   "appearances": [
@@ -11894,6 +12038,42 @@
       "source_id": "youtube-nTTj3z3QiyU",
       "index": 2,
       "is_primary": false
+    },
+    {
+      "entity_id": "guest:yang-tiannan",
+      "source_id": "youtube-ur-HjD422ig",
+      "index": 0,
+      "is_primary": true
+    },
+    {
+      "entity_id": "guest:chun-xia",
+      "source_id": "youtube-gQzvscl6Y2I",
+      "index": 0,
+      "is_primary": true
+    },
+    {
+      "entity_id": "guest:marco-casalaina",
+      "source_id": "youtube-KpQwWNkyEsQ",
+      "index": 0,
+      "is_primary": true
+    },
+    {
+      "entity_id": "guest:changxi-zheng",
+      "source_id": "youtube-y6kRa1vGAwA",
+      "index": 0,
+      "is_primary": true
+    },
+    {
+      "entity_id": "guest:gene-tabach",
+      "source_id": "youtube-hckVR-Aa-vs",
+      "index": 0,
+      "is_primary": true
+    },
+    {
+      "entity_id": "guest:mujtaba-tirmizi",
+      "source_id": "youtube-hckVR-Aa-vs",
+      "index": 0,
+      "is_primary": true
     }
   ],
   "redirects": [

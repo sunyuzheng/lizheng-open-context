@@ -5,15 +5,20 @@
 原文保留每句文字、时间码、发言归属和质量记录，直接参与检索。节目参与者来自共享嘉宾目录或独立的做客节目目录。
 [资料架构](../docs/conversation-architecture.md) · [来源字段](../docs/source-model.md) · [校对阶段](../docs/dialogue-ingestion.md)
 
-共 370 份。许可逐份标明；其他说话人保留自己发言的权利。
+共 375 份。许可逐份标明；其他说话人保留自己发言的权利。
 
 | 日期 | 原文 | 节目参与者目录 | 文字待核项 | 媒体 | 许可 |
 | --- | --- | --- | ---: | --- | --- |
+| 2026-10-30 | [杨天楠：看似体面的工作，实则都是在表演？](../corpus/dialogues/youtube-ur-HjD422ig.json) | 杨天楠 | 2508 | [原媒体](https://www.youtube.com/watch?v=ur-HjD422ig) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-10-29 | [离开大厂之后，我才发现，没有Fake Work的工作其实很开心｜对话课代表立正](../corpus/dialogues/dialogue-xiaoyuzhou-6ae1e359c96c8942ec13bb1f.json) | 立正；杨天楠 | 19 | [原媒体](https://www.xiaoyuzhoufm.com/episode/6ae1e359c96c8942ec13bb1f) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 2026-10-27 | [功成名就的大佬们需要学AI吗？｜沈明高博士对话课代表立正](../corpus/dialogues/dialogue-circle-37814395.json) | 立正；沈明高 | 5 | [原媒体](https://www.superlinear.academy/c/recording/minggao-lizheng-ai-partner) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
+| 2026-10-26 | [过度优化的人生，注定一塌糊涂｜对谈硅谷资深投资人](../corpus/dialogues/youtube-gQzvscl6Y2I.json) | 夏淳 | 1475 | [原媒体](https://www.youtube.com/watch?v=gQzvscl6Y2I) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-10-23 | [做客《上桌》：赚钱需要四步，打工只需要一步](../corpus/dialogues/dialogue-circle-37700632.json) | 立正；黄涵涵 | 25 | [原媒体](https://www.superlinear.academy/c/recording/hanhan-lizheng-work-to-business) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
+| 2026-10-23 | [Meta数据科学家如何影响公司战略？｜Ecosystem DS的工作、绩效与晋升](../corpus/dialogues/youtube-hckVR-Aa-vs.json) | Gene Tabach；Mujtaba Tirmizi | 1544 | [原媒体](https://www.youtube.com/watch?v=hckVR-Aa-vs) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-10-21 | [从「会工作」到「会赚钱」，建立自己的事业](../corpus/dialogues/dialogue-xiaoyuzhou-6ad8ce0cb381c0fcba19b6f8.json) | 立正；林希言 | 8 | [原媒体](https://www.xiaoyuzhoufm.com/episode/6ad8ce0cb381c0fcba19b6f8) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
+| 2026-10-15 | [AI在大企业中的应用才刚刚开始，人才供不应求？｜对话微软CoreAI副总裁Marco Casalaina](../corpus/dialogues/youtube-KpQwWNkyEsQ.json) | Marco Casalaina | 693 | [原媒体](https://www.youtube.com/watch?v=KpQwWNkyEsQ) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-10-09 | [做客《中国好生意》：按十年来做知识付费](../corpus/dialogues/dialogue-circle-37265013.json) | 立正；树杨 | 3 | [原媒体](https://www.superlinear.academy/c/recording/shuyang-good-business-20261008) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
+| 2026-10-09 | [李飞飞收购郑昌熙：有生之年，我们可能看不到通用机器人出现](../corpus/dialogues/youtube-y6kRa1vGAwA.json) | 郑昌熙 | 1987 | [原媒体](https://www.youtube.com/watch?v=y6kRa1vGAwA) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-10-07 | [做客《不止牛马》：别拿考试的规则打工](../corpus/dialogues/dialogue-circle-37189118.json) | 立正；小飘 Ivanka；Russell | 0 | [原媒体](https://www.superlinear.academy/c/recording/ivanka-russell-work-ai-life-20261006) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 2026-10-02 | [两次破产，却从没缺过钱：为什么关键时刻总有人帮宝二爷？](../corpus/dialogues/youtube-9pjBWDCHYuA.json) | 郭宏才（宝二爷） | 1 | [原媒体](https://www.youtube.com/watch?v=9pjBWDCHYuA) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-09-29 | [别人眼中的死局，他如何反复做成大生意？｜宝二爷](../corpus/dialogues/youtube-gwPfRhi4lzo.json) | 郭宏才（宝二爷） | 2 | [原媒体](https://www.youtube.com/watch?v=gwPfRhi4lzo) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |

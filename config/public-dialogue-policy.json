@@ -1,7 +1,7 @@
 {
   "audio_attribution_policy": {
     "path": "config/audio-speaker-policy.json",
-    "sha256": "ccb5c45abed6cf97d9d6f819af3526d62ee38dbe3e3a2702f65f7245c7be6e55"
+    "sha256": "a597ba8da8176989b1a2098182d48f52d662b4f0461a71d136e4b2e701eab535"
   },
   "authorization": "maintainer-request-2026-10-10-dialogue-transcripts",
   "authorization_scope": "Maintainer requested dialogue retrieval on 2026-10-10. Publication approval is recorded separately for the exact reviewed release; guests retain their own rights.",
@@ -155005,6 +155005,86 @@
         "verified_at": "2026-10-29T23:25:39.664299+00:00",
         "receipt_sha256": "4f9740ea6489cb5a4b4b60355030cc03fc56f8903baf8a9ec23e8546e3c40bd0"
       }
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "7e95b9c854b098a0649f0a89d44ce3cd5a2403c88e0436c3e8789ce882f7d0ea",
+        "verified_at": "2026-11-01T20:53:42+00:00",
+        "video_id": "ur-HjD422ig"
+      },
+      "corpus_path": "corpus/dialogues/youtube-ur-HjD422ig.json",
+      "cue_count": 2508,
+      "programme_type": "interview",
+      "sha256": "fb092f96f04e22c8b2d8cfa5f2be750ea98e996d52b5c7ab9aa9786a70da2f8e",
+      "video_id": "ur-HjD422ig"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "9218aa245c0fab6d2ee4d895f25157b9ecc82c1ffa19c135bc16bda70296e0cb",
+        "verified_at": "2026-11-01T20:53:42+00:00",
+        "video_id": "gQzvscl6Y2I"
+      },
+      "corpus_path": "corpus/dialogues/youtube-gQzvscl6Y2I.json",
+      "cue_count": 1475,
+      "programme_type": "interview",
+      "sha256": "f0f6882145f527f13fd3e26aa98b7a35398a07623ec67013c920c4077a3d492f",
+      "video_id": "gQzvscl6Y2I"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "4db93f2983d91c39304b721773bc0b6973a4f2734d48dd9e69cd723045bf82ac",
+        "verified_at": "2026-11-01T20:53:43+00:00",
+        "video_id": "KpQwWNkyEsQ"
+      },
+      "corpus_path": "corpus/dialogues/youtube-KpQwWNkyEsQ.json",
+      "cue_count": 693,
+      "programme_type": "interview",
+      "sha256": "84b64a02d9b30a6f9f4d6b67e0e2cd8df57c19f175a2ef2f4eca97d1ad15e695",
+      "video_id": "KpQwWNkyEsQ"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "76e8bd27b39beba9547eed6c3a3933a6f4dfcc1fb84303d33856ea5be473bb5a",
+        "verified_at": "2026-11-01T20:53:43+00:00",
+        "video_id": "y6kRa1vGAwA"
+      },
+      "corpus_path": "corpus/dialogues/youtube-y6kRa1vGAwA.json",
+      "cue_count": 1987,
+      "programme_type": "interview",
+      "sha256": "f6732481773c364c29096e61a35425e01af7ee8c8670b2120287f00480543ea0",
+      "video_id": "y6kRa1vGAwA"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "184c38f713fedf99b344440b00781fed918c0c88522ca96d3697b9520d966a4c",
+        "verified_at": "2026-11-01T20:56:45+00:00",
+        "video_id": "hckVR-Aa-vs"
+      },
+      "corpus_path": "corpus/dialogues/youtube-hckVR-Aa-vs.json",
+      "cue_count": 1544,
+      "programme_type": "interview",
+      "sha256": "c8c5199f8eac67a880a8cb93a58fe9bde6e06a8a828c35a3115d2fa14c1fa8fe",
+      "video_id": "hckVR-Aa-vs"
     }
   ],
   "removal": "https://lizheng.ai/contact",

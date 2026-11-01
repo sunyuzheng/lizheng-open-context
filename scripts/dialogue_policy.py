@@ -8,11 +8,12 @@ from datetime import datetime
 from pathlib import Path
 
 import search
-from raw_turn_policy import reviewed_policy, validate_external_units, validate_units, voice_policy
+from raw_turn_policy import digest, unknown_units, reviewed_policy, validate_external_units, validate_units, voice_policy
 from rights import REFERENCE_USE, RETAINED
 from validate_guest_catalog import CATALOG_FIELDS, appearance_participants, programme_participants, safe_file, url, video_id
 
 AUTHORIZATION = "maintainer-request-2026-10-10-dialogue-transcripts"
+INTERVIEW_AUTHORIZATION = "maintainer-request-2026-11-01-interview-evidence"
 EXTERNAL_AUTHORIZATION = "maintainer-request-2026-10-15-guest-podcasts"
 RECENT_EXTERNAL_AUTHORIZATION = "maintainer-request-2026-10-29-recent-guest-podcasts"
 EXTERNAL_AUTHORIZATIONS = frozenset({EXTERNAL_AUTHORIZATION, RECENT_EXTERNAL_AUTHORIZATION})
@@ -104,6 +105,21 @@ def validate_external_dialogue(root, row, participants, protected_ids=frozenset(
 
 def validate_quality(data):
     quality = data.get("quality", {})
+    if quality.get("method") in {"publisher-captions", "platform-auto-captions"}:
+        # An exact published caption copy is useful without pretending that AI
+        # or a human has listened to every word. Speaker review is separate.
+        method = quality["method"]
+        if (data.get("generation_method") != method
+                or data.get("transcript_source_kind") != method.replace("captions", "timed-captions")
+                or data.get("transcript_quality") != method + "-unverified"
+                or not isinstance(data.get("source_duration_seconds"), (int, float))
+                or not 0 < data["source_duration_seconds"] < float("inf")
+                or any(u["end_seconds"] > data["source_duration_seconds"] + 3 for u in data["units"])
+                or any(quality.get(k) is not False for k in ("human_audio_review", "full_precision_certified", "complete_speech_coverage_verified"))
+                or not HASH.fullmatch(str(quality.get("caption_sha256", "")))
+                or quality.get("caption_units_sha256") != digest(unknown_units(data["units"]))):
+            raise ValueError("publisher_caption_provenance_invalid")
+        return
     if (quality.get("ai_text_processing_verified") is not True or quality.get("root_edit_review_verified") is not True
             or quality.get("human_audio_review") is not False or quality.get("full_precision_certified") is not False
             or quality.get("complete_speech_coverage_verified") is not False
@@ -163,7 +179,14 @@ def validate_dialogues(root: Path, member_ids: set[str], errors: list[str]) -> d
             data = read_object(path)
             if data.get("id") != f"youtube-{identity}" or data.get("video_id") != identity or data.get("schema_version") != 1:
                 raise ValueError("dialogue_identity_mismatch")
-            if any(data.get(key) != value for key, value in PROVENANCE.items()):
+            expected = dict(PROVENANCE)
+            method = data.get("quality", {}).get("method")
+            if method in {"publisher-captions", "platform-auto-captions"}:
+                expected.update(generation_method=method, transcript_source_kind=method.replace("captions", "timed-captions"),
+                                transcript_quality=method + "-unverified", inclusion_authorization=INTERVIEW_AUTHORIZATION)
+                if row.get("programme_type") != "interview":
+                    raise ValueError("reviewed_interview_type_required")
+            if any(data.get(key) != value for key, value in expected.items()):
                 raise ValueError("dialogue_provenance_or_access_mismatch")
             if (data.get("source_url") != f"https://www.youtube.com/watch?v={identity}"
                     or data.get("source_family") != data["source_url"]

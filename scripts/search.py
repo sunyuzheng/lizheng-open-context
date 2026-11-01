@@ -85,6 +85,8 @@ class Document:
     participant_aliases: str = ""
     participant_metadata_basis: str = ""
     speech_act: str = ""
+    # Contiguous raw units, never the programme roster or inferred endorsement.
+    dialogue_units: list | None = None
 
 
 def provenance_fields(meta: dict) -> dict[str, str]:
@@ -645,6 +647,20 @@ def parse_raw_dialogue(path: Path) -> list[Document]:
                       author="说话人待核", original_author="说话人待核",
                       content_origin="mixed-or-unresolved-speech", evidence_role="speaker-attributed-speech",
                       yuzheng_stance_weight="not-evidence")
+        # Keep adjacent voices available to consumers. A speaker-only projection
+        # cannot establish what somebody was responding to.
+        begin = speech.index(chunk[0])
+        finish = begin + len(chunk)
+        left, right, n = begin, finish, 0
+        while left > 0 and n + len(speech[left - 1]["text"]) <= 350:
+            left -= 1
+            n += len(speech[left]["text"])
+        n = 0
+        while right < len(speech) and n + len(speech[right]["text"]) <= 350:
+            n += len(speech[right]["text"])
+            right += 1
+        context = speech[left:right]
+        fields["dialogue_units"] = context
         documents.append(document(chunk, fields, fields["fragment_id"]))
     # Speaker chunks: one attributed speaker's units of one speech act, in order, split where the
     # attribution status changes. Only statement chunks can stand for the speaker's view.

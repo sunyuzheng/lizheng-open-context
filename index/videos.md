@@ -2,7 +2,7 @@
 
 # 视频目录
 
-立正 YouTube 频道「课代表立正」的 761 条视频，按发布时间从新到旧排列。其中 750 条有字幕全文或对谈原稿：
+立正 YouTube 频道「课代表立正」的 767 条视频，按发布时间从新到旧排列。其中 756 条有字幕全文或对谈原稿：
 
 | 类型 | 数量 | 字幕的许可 |
 | --- | ---: | --- |
@@ -10,18 +10,24 @@
 | 会员 · 本人主讲 | 45 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 会员 · 对话 | 170 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
 | 公开 · 对话 | 9 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
-| 对谈原稿 | 322 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；逐句保留时间码，说话人待核，嘉宾的话归嘉宾本人 |
+| 对谈原稿 | 328 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；逐句保留时间码，说话人待核，嘉宾的话归嘉宾本人 |
 | 只有目录 | 11 | 没有字幕全文；标题、日期和链接按[CC0 1.0](../LICENSES/CC0-1.0.txt)开放 |
 
 会员视频需要频道会员才能观看，字幕文字已获授权开放。「会员 · 本人主讲」经人工核对只有立正一人讲述；「会员 · 对话」和「公开 · 对话」里嘉宾、主持人和提问者的话归他们本人。「公开 · 对话」是立正 2026-10-04 指定收录的、塑造他价值观的几场公开对话，这些对话里他本人的话另见[塑造价值观的对话](../index/values-conversations.md)。「对谈原稿」是结构化的公开对谈逐字稿，见[对谈原文目录](../index/dialogues.md)。「只有目录」是还没有收录文字的视频。
 
 机器可读：[catalog/videos.jsonl](../catalog/videos.jsonl)
 
-## 2026（101 条）
+## 2026（107 条）
 
 | 日期 | 视频 | 字幕 | 类型 |
 | --- | --- | --- | --- |
+| 2026-10-30 | [杨天楠：看似体面的工作，实则都是在表演？](https://www.youtube.com/watch?v=ur-HjD422ig) | [原稿](../corpus/dialogues/youtube-ur-HjD422ig.json) | 对谈原稿 |
+| 2026-10-26 | [过度优化的人生，注定一塌糊涂｜对谈硅谷资深投资人](https://www.youtube.com/watch?v=gQzvscl6Y2I) | [原稿](../corpus/dialogues/youtube-gQzvscl6Y2I.json) | 对谈原稿 |
+| 2026-10-23 | [Meta数据科学家如何影响公司战略？｜Ecosystem DS的工作、绩效与晋升](https://www.youtube.com/watch?v=hckVR-Aa-vs) | [原稿](../corpus/dialogues/youtube-hckVR-Aa-vs.json) | 对谈原稿 |
+| 2026-10-15 | [AI在大企业中的应用才刚刚开始，人才供不应求？｜对话微软CoreAI副总裁Marco Casalaina](https://www.youtube.com/watch?v=KpQwWNkyEsQ) | [原稿](../corpus/dialogues/youtube-KpQwWNkyEsQ.json) | 对谈原稿 |
+| 2026-10-09 | [李飞飞收购郑昌熙：有生之年，我们可能看不到通用机器人出现](https://www.youtube.com/watch?v=y6kRa1vGAwA) | [原稿](../corpus/dialogues/youtube-y6kRa1vGAwA.json) | 对谈原稿 |
 | 2026-10-06 | [AI时代，为什么必须要做“个人网站”？](https://www.youtube.com/watch?v=qvbOuVEcSWs) | [全文](../corpus/videos/20261006-qvbOuVEcSWs.md) | 本人主讲 |
+| 2026-10-02 | [两次破产，却从没缺过钱：为什么关键时刻总有人帮宝二爷？](https://www.youtube.com/watch?v=9pjBWDCHYuA) | [原稿](../corpus/dialogues/youtube-9pjBWDCHYuA.json) | 对谈原稿 |
 | 2026-09-29 | [别人眼中的死局，他如何反复做成大生意？｜宝二爷](https://www.youtube.com/watch?v=gwPfRhi4lzo) | [原稿](../corpus/dialogues/youtube-gwPfRhi4lzo.json) | 对谈原稿 |
 | 2026-09-25 | [如何炒作一个AI概念？以Jev为例…](https://www.youtube.com/watch?v=kYuolIPDeRQ) | [全文](../corpus/videos/20260925-kYuolIPDeRQ.md) | 本人主讲 |
 | 2026-09-24 | [2026年了，大多数人仍然不理解自媒体的真正价值](https://www.youtube.com/watch?v=_h0ZHgeujpM) | — | 只有目录 |

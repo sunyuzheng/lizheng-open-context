@@ -219,6 +219,16 @@
       ]
     },
     {
+      "name": "Changxi Zheng",
+      "key": "changxizheng",
+      "entity_ids": [
+        "guest:changxi-zheng"
+      ],
+      "kinds": [
+        "alias"
+      ]
+    },
+    {
       "name": "Chaomin Yu",
       "key": "chaominyu",
       "entity_ids": [
@@ -343,6 +353,16 @@
       "key": "chenzixin",
       "entity_ids": [
         "guest:chen-zixin"
+      ],
+      "kinds": [
+        "alias"
+      ]
+    },
+    {
+      "name": "Chun Xia",
+      "key": "chunxia",
+      "entity_ids": [
+        "guest:chun-xia"
       ],
       "kinds": [
         "alias"
@@ -616,6 +636,16 @@
       ],
       "kinds": [
         "alias"
+      ]
+    },
+    {
+      "name": "Gene Tabach",
+      "key": "genetabach",
+      "entity_ids": [
+        "guest:gene-tabach"
+      ],
+      "kinds": [
+        "display"
       ]
     },
     {
@@ -1223,6 +1253,26 @@
       ]
     },
     {
+      "name": "Marco",
+      "key": "marco",
+      "entity_ids": [
+        "guest:marco-casalaina"
+      ],
+      "kinds": [
+        "alias"
+      ]
+    },
+    {
+      "name": "Marco Casalaina",
+      "key": "marcocasalaina",
+      "entity_ids": [
+        "guest:marco-casalaina"
+      ],
+      "kinds": [
+        "display"
+      ]
+    },
+    {
       "name": "Mark Chen",
       "key": "markchen",
       "entity_ids": [
@@ -1299,6 +1349,16 @@
       "key": "mujtaba",
       "entity_ids": [
         "guest:mujtaba"
+      ],
+      "kinds": [
+        "display"
+      ]
+    },
+    {
+      "name": "Mujtaba Tirmizi",
+      "key": "mujtabatirmizi",
+      "entity_ids": [
+        "guest:mujtaba-tirmizi"
       ],
       "kinds": [
         "display"
@@ -2618,6 +2678,26 @@
       ]
     },
     {
+      "name": "夏淳",
+      "key": "夏淳",
+      "entity_ids": [
+        "guest:chun-xia"
+      ],
+      "kinds": [
+        "display"
+      ]
+    },
+    {
+      "name": "天楠",
+      "key": "天楠",
+      "entity_ids": [
+        "guest:yang-tiannan"
+      ],
+      "kinds": [
+        "alias"
+      ]
+    },
+    {
       "name": "子鱼",
       "key": "子鱼",
       "entity_ids": [
@@ -2912,9 +2992,11 @@
       "name": "杨天楠",
       "key": "杨天楠",
       "entity_ids": [
+        "guest:yang-tiannan",
         "host:yang-tiannan"
       ],
       "kinds": [
+        "display",
         "appearance-participant"
       ]
     },
@@ -3447,6 +3529,16 @@
       "key": "邹昕",
       "entity_ids": [
         "guest:zou-xin"
+      ],
+      "kinds": [
+        "display"
+      ]
+    },
+    {
+      "name": "郑昌熙",
+      "key": "郑昌熙",
+      "entity_ids": [
+        "guest:changxi-zheng"
       ],
       "kinds": [
         "display"

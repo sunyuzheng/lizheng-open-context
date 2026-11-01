@@ -17,7 +17,7 @@
 | 视频字幕：会员视频 · 本人主讲 | 45 份 | [主讲目录](index/solo-videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 视频字幕：会员视频 · 对话 | 170 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
 | 视频字幕：公开视频 · 对话 | 9 份 | [视频目录](index/videos.md) | [corpus/videos/](corpus/videos/) | [立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾 |
-| 结构化对谈原文 | 370 份（含既有来源的新版本） | [对谈原文目录](index/dialogues.md) | [corpus/dialogues/](corpus/dialogues/) | 按文件分别标明[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)或[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)；发言归属以单元记录为准 |
+| 结构化对谈原文 | 375 份（含既有来源的新版本） | [对谈原文目录](index/dialogues.md) | [corpus/dialogues/](corpus/dialogues/) | 按文件分别标明[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)或[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)；发言归属以单元记录为准 |
 | 对话里立正本人的话 | 132 段 | [塑造价值观的对话](index/values-conversations.md) | [corpus/conversation-excerpts/](corpus/conversation-excerpts/) | 会员视频里的：[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；公开视频里的：[CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：源于立正 | 11 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：其他作者 | 39 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md) |
@@ -30,7 +30,7 @@
 
 | 资料 | 数量 | 目录页 | 机器可读 | 说明 |
 | --- | ---: | --- | --- | --- |
-| 视频目录 | 761 条 | [视频目录](index/videos.md) | [catalog/videos.jsonl](catalog/videos.jsonl) | 11 条只有目录、没有字幕 |
+| 视频目录 | 767 条 | [视频目录](index/videos.md) | [catalog/videos.jsonl](catalog/videos.jsonl) | 11 条只有目录、没有字幕 |
 | Knowledge Bank | 169 篇 | [Knowledge Bank 目录](index/knowledge-bank.md) | [catalog/knowledge-bank.jsonl](catalog/knowledge-bank.jsonl) | 立正的 36 篇有全文，其他作者只列标题和链接 |
 | 立正做客其他节目 | 32 期 | [做客记录](catalog/guest-appearances.jsonl) | [catalog/guest-appearances.jsonl](catalog/guest-appearances.jsonl) | 目录与各发布版本分开；已收录原稿的版本另见对谈目录 |
 
