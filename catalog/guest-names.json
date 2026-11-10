@@ -3827,12 +3827,6 @@
         "key": "bcg"
       }
     ],
-    "guest:bian-lu": [
-      {
-        "name": "ByteDance",
-        "key": "bytedance"
-      }
-    ],
     "guest:cadence-gao": [
       {
         "name": "鞑厨高寒",
@@ -3853,6 +3847,12 @@
       {
         "name": "宝二爷",
         "key": "宝二爷"
+      }
+    ],
+    "guest:changxi-zheng": [
+      {
+        "name": "World Labs",
+        "key": "worldlabs"
       }
     ],
     "guest:chaomin-yu": [
@@ -3921,8 +3921,8 @@
     ],
     "guest:dai-yusen": [
       {
-        "name": "Zhenge Fund",
-        "key": "zhengefund"
+        "name": "真格基金",
+        "key": "真格基金"
       }
     ],
     "guest:deb-liu": [
@@ -3935,18 +3935,6 @@
       {
         "name": "Cookiy AI",
         "key": "cookiyai"
-      }
-    ],
-    "guest:dongye-zhan": [
-      {
-        "name": "潮汕工夫茶",
-        "key": "潮汕工夫茶"
-      }
-    ],
-    "guest:du-lei": [
-      {
-        "name": "Technology Investment",
-        "key": "technologyinvestment"
       }
     ],
     "guest:esther-restaurant": [
@@ -3977,12 +3965,6 @@
       {
         "name": "Amazon",
         "key": "amazon"
-      }
-    ],
-    "guest:eula": [
-      {
-        "name": "小红书",
-        "key": "小红书"
       }
     ],
     "guest:fan-deng": [
@@ -4039,12 +4021,6 @@
         "key": "腾讯"
       }
     ],
-    "guest:guo-yu": [
-      {
-        "name": "Independent",
-        "key": "independent"
-      }
-    ],
     "guest:haolan-wang": [
       {
         "name": "岚目",
@@ -4071,7 +4047,7 @@
     ],
     "guest:howie-xu": [
       {
-        "name": "GEN",
+        "name": "Gen",
         "key": "gen"
       },
       {
@@ -4079,10 +4055,10 @@
         "key": "科技早知道圆桌"
       }
     ],
-    "guest:indigo": [
+    "guest:jason-hu-martian": [
       {
-        "name": "Sina Weibo",
-        "key": "sinaweibo"
+        "name": "Martian",
+        "key": "martian"
       }
     ],
     "guest:jessie-restaurant": [
@@ -4139,12 +4115,6 @@
         "key": "aha"
       }
     ],
-    "guest:ke-xi": [
-      {
-        "name": "Facebook",
-        "key": "facebook"
-      }
-    ],
     "guest:kelly-xu": [
       {
         "name": "Airbnb (former)",
@@ -4153,21 +4123,17 @@
     ],
     "guest:kevin-chen": [
       {
-        "name": "MIT EECS",
-        "key": "miteecs"
-      },
-      {
-        "name": "Soft and Micro Robotics Laboratory",
-        "key": "softandmicroroboticslaboratory"
+        "name": "MIT",
+        "key": "mit"
       }
     ],
     "guest:koji-and-monica": [
       {
-        "name": "CrossRoad Podcast",
-        "key": "crossroadpodcast"
+        "name": "十字路口",
+        "key": "十字路口"
       },
       {
-        "name": "Onboard",
+        "name": "OnBoard",
         "key": "onboard"
       }
     ],
@@ -4175,16 +4141,6 @@
       {
         "name": "节目官方列名圆桌嘉宾，不据此推断具体发言",
         "key": "节目官方列名圆桌嘉宾不据此推断具体发言"
-      }
-    ],
-    "guest:lao-mao": [
-      {
-        "name": "Microsoft",
-        "key": "microsoft"
-      },
-      {
-        "name": "Independent",
-        "key": "independent"
       }
     ],
     "guest:leo-charisma": [
@@ -4215,16 +4171,10 @@
         "key": "腾讯"
       }
     ],
-    "guest:liiisaishere": [
-      {
-        "name": "小红书",
-        "key": "小红书"
-      }
-    ],
     "guest:liu-jia": [
       {
-        "name": "Tsinghua University",
-        "key": "tsinghuauniversity"
+        "name": "清华大学",
+        "key": "清华大学"
       }
     ],
     "guest:liu-jiake": [
@@ -4243,12 +4193,6 @@
       {
         "name": "光源资本",
         "key": "光源资本"
-      }
-    ],
-    "guest:lu-wei": [
-      {
-        "name": "Amazon",
-        "key": "amazon"
       }
     ],
     "guest:lu-yi": [
@@ -4283,6 +4227,12 @@
       {
         "name": "Tencent",
         "key": "tencent"
+      }
+    ],
+    "guest:marco-casalaina": [
+      {
+        "name": "Microsoft",
+        "key": "microsoft"
       }
     ],
     "guest:mark-chen-li-ming-shen-xinyang-zhong-yuan": [
@@ -4369,8 +4319,8 @@
     ],
     "guest:richer": [
       {
-        "name": "Guanyuan Capital",
-        "key": "guanyuancapital"
+        "name": "大观资本",
+        "key": "大观资本"
       }
     ],
     "guest:riley-shu": [
@@ -4477,16 +4427,6 @@
         "key": "hackbearterry"
       }
     ],
-    "guest:tian-yuandong": [
-      {
-        "name": "Meta",
-        "key": "meta"
-      },
-      {
-        "name": "Independent",
-        "key": "independent"
-      }
-    ],
     "guest:tianqiang-liu": [
       {
         "name": "Huhu AI",
@@ -4543,14 +4483,14 @@
     ],
     "guest:wang-zhen-and-nick": [
       {
-        "name": "花生经济 (Huasheng Economy)",
-        "key": "花生经济huashengeconomy"
+        "name": "花生经纪",
+        "key": "花生经纪"
       }
     ],
     "guest:wei-manfredi": [
       {
-        "name": "IHG Hotels & Resorts",
-        "key": "ihghotelsresorts"
+        "name": "洲际酒店集团（IHG）",
+        "key": "洲际酒店集团ihg"
       }
     ],
     "guest:wu-jingchen": [
@@ -4589,10 +4529,22 @@
         "key": "databricks"
       }
     ],
+    "guest:ya-ge": [
+      {
+        "name": "超线性学院",
+        "key": "超线性学院"
+      }
+    ],
     "guest:yang-fan": [
       {
         "name": "埔思学院",
         "key": "埔思学院"
+      }
+    ],
+    "guest:yang-tiannan": [
+      {
+        "name": "听懂涨声",
+        "key": "听懂涨声"
       }
     ],
     "guest:yang-ying": [
@@ -4609,12 +4561,6 @@
       {
         "name": "Lepton AI",
         "key": "leptonai"
-      }
-    ],
-    "guest:yu-yizhou": [
-      {
-        "name": "Meta",
-        "key": "meta"
       }
     ],
     "guest:yu-zhou": [
@@ -4653,6 +4599,12 @@
       {
         "name": "君子食堂",
         "key": "君子食堂"
+      }
+    ],
+    "guest:zhongjie-jay-wu": [
+      {
+        "name": "Opus Clip",
+        "key": "opusclip"
       }
     ],
     "guest:zhou-nan": [

@@ -86,6 +86,10 @@ class CatalogTests(unittest.TestCase):
                 with self.subTest(code=code):
                     c, _ = self.introduced(**{"quote": "Today our guest I founded Synthetic", "locator": ["youtube-abcdefghijk#cue-2", "youtube-abcdefghijk#cue-3"], **change})
                     with self.assertRaisesRegex(ValueError, code): v.verify_introductions(root, c)
+            # Captions ingested as published number their units cue-N; the same locators find them.
+            (root / "corpus/dialogues/youtube-abcdefghijk.json").write_text(json.dumps({"units": [{**u, "id": u["id"].split("#")[1]} for u in units]}))
+            c, _ = self.introduced(quote="Today our guest I founded Synthetic", locator=["youtube-abcdefghijk#cue-2", "youtube-abcdefghijk#cue-3"])
+            self.assertEqual(v.verify_introductions(root, c), 1)
 
     def test_duplicate_entity_or_pair(self):
         for field in ("entities", "appearances", "sources"):

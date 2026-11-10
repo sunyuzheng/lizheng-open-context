@@ -50,7 +50,7 @@
     "guest_articles": 23,
     "guest_redirects": 3,
     "guest_public_raw_records": 375,
-    "guest_introductions": 154,
+    "guest_introductions": 169,
     "community_posts_catalog": 252,
     "community_posts_full_text": 252,
     "community_comments_included": 362,
@@ -114,8 +114,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 21482,
-      "sha256": "6822ddc54ea20ecd173cdab0e2c7eddaa5a717e4087caa09d4f409e037d6a105",
+      "bytes": 23111,
+      "sha256": "07f21830d97060c11bf37f9e75ccd29873060ff3cdc968cccf993202efedb5de",
       "license": "MIT"
     },
     {
@@ -252,14 +252,14 @@
     },
     {
       "path": "catalog/guest-names.json",
-      "bytes": 85561,
-      "sha256": "3c649dbbde3dde3ee95baee58cc182e6ec54ed6f42c89baba0fe97d49efcf233",
+      "bytes": 84647,
+      "sha256": "bd6e8a3a38cb7da10577be551e3cd5e5efe017305b4450d0536d91f8c0643ac6",
       "license": "CC0-1.0"
     },
     {
       "path": "catalog/guests.json",
-      "bytes": 492229,
-      "sha256": "6f29ed6449dc9435aae33a99defe66f753b55df05fca9df083901f52a5bcb5a3",
+      "bytes": 518504,
+      "sha256": "7957274ffd511711792ba41ae3f8568e6b7eb719c0148eaae907667328960f77",
       "license": "CC0-1.0"
     },
     {
@@ -10284,8 +10284,8 @@
     },
     {
       "path": "docs/source-model.md",
-      "bytes": 7730,
-      "sha256": "5efe3399a6a331321499697d56c63635292f3d291da29ddaf15e124b80d7f8b8",
+      "bytes": 7942,
+      "sha256": "ebb74c319aeb4eb632d67eee53328655f19c90b6766997271ee8c82bf9a64386",
       "license": "MIT"
     },
     {
@@ -10482,8 +10482,8 @@
     },
     {
       "path": "scripts/validate_guest_catalog.py",
-      "bytes": 21918,
-      "sha256": "2e94cb392f51a18d047d6b3700f6b8741563a5f0f562ec66ee53664f8d1e3d58",
+      "bytes": 22153,
+      "sha256": "2aac9bd9aa325d4aaeda42ef0c589a81dbb3872e0f76f7a5b06fe3004d4f14d4",
       "license": "MIT"
     },
     {
@@ -10548,8 +10548,8 @@
     },
     {
       "path": "tests/test_guest_catalog.py",
-      "bytes": 13135,
-      "sha256": "24a8b5a11df480cae205e57725a0c6c0a801400ebe5328e2e71a5b78bee7258e",
+      "bytes": 13600,
+      "sha256": "ffbd64cac762602af6ffdb2c370e6cb702b25614cd26097820e3f7b694962274",
       "license": "MIT"
     },
     {

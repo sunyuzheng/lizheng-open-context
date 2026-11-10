@@ -336,7 +336,9 @@ def verify_introductions(root, catalog):
                 require(all(UNIT_LOCATOR.fullmatch(x) and x.startswith(intro["source_id"] + "#") for x in intro["locator"]), "introduction_locator_source_mismatch")
                 if intro["source_id"] not in transcripts:
                     units = strict_json(safe_file(root, f"corpus/dialogues/{intro['source_id']}.json").read_bytes())["units"]
-                    transcripts[intro["source_id"]] = {u["id"]: (index, u) for index, u in enumerate(units)}
+                    # Captions ingested as published number their units cue-N; a locator always names the programme too.
+                    transcripts[intro["source_id"]] = {(u["id"] if "#" in u["id"] else f"{intro['source_id']}#{u['id']}"): (index, u)
+                                                       for index, u in enumerate(units)}
                 table = transcripts[intro["source_id"]]
                 require(all(x in table for x in intro["locator"]), "introduction_unit_missing")
                 indexes = [table[x][0] for x in intro["locator"]]

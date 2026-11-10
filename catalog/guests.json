@@ -60,7 +60,7 @@
       "introductions": [
         {
           "source_id": "youtube-9opd3YjEr14",
-          "text": "三年前在大厂打工，现已阶段性退休环球旅行",
+          "text": "已阶段性退休，环球旅行去了约20个国家；三年前还在大厂打工",
           "quote": "阿里亞歡迎又回來 現在去了幾個國家 真的現在去了差不多20個國家 20個國家 然後每一個玩都非常深度 旅行它其實是一個結果 你之前說的階段性退休是一個結果 但是我們很多同學們關心的是 How to get there 就是我們現在被困在自己的生活 或者說是工作中 三年前你也是和大家一樣的大廠打工",
           "locator": [
             "youtube-9opd3YjEr14#cue-32",
@@ -98,21 +98,9 @@
       "xiaohongshu_url": "http://xhslink.com/m/AEw1TlZ6Wj8",
       "linkedin_url": "https://www.linkedin.com/in/howie/",
       "guest_en_name": "Howie Xu",
-      "guest_company": "GEN",
-      "guest_title": "财富五百强 GEN 首席AI官、投资人、斯坦福商学院客座讲师",
+      "guest_company": "Gen",
+      "guest_title": "首席AI官、投资人、斯坦福商学院客座讲师",
       "introductions": [
-        {
-          "source_id": "youtube-Lt-lVe957hc",
-          "text": "硅谷资深科技老兵",
-          "quote": "Yeah. So if you need anything, just find one of us. Let me do a quick intro about our speakers tonight. We are honored to invite Ah Hui, Ah Yangqing, Jason, and Jay here. So I prepared a little bit introduction if you don't know them before. So first, Howie is a seasoned technology veteran in Silicon Valley, with a career that began by founding VMware's network division, now a multi-billion-dollar revenue business. His diverse experience spans founding startups, holding executive positions at industry-leading companies. Serving as an entrepreneur in residence at Greylock Partners and mentoring and teaching at prestigious institutions such as Stanford University and leading B two B accelerator Alchemist. Howie has recently started a YouTube channel. It's called Byte Into Future. Make sure to subscribe now, and he will host some amazing entrepreneurs and do live streaming from the iconic New York New York Stock Exchange floor in just two weeks. So, Byte Into Future. Make sure to subscribe. Next, I'm pleased to introduce Yangqing, the founder and CEO of Lepton AI, one of the top-performing generative AI infrastructure service platforms.",
-          "locator": [
-            "youtube-Lt-lVe957hc#cue-26",
-            "youtube-Lt-lVe957hc#cue-27",
-            "youtube-Lt-lVe957hc#cue-28",
-            "youtube-Lt-lVe957hc#cue-29"
-          ],
-          "start_seconds": 497
-        },
         {
           "source_id": "youtube-c93Z3WrmQf0",
           "text": "在硅谷20多年，做高管、投资人、创业者",
@@ -129,7 +117,7 @@
         },
         {
           "source_id": "youtube-omAUYRo3Fvc",
-          "text": "加入硅谷一家中厂任Chief AI Officer",
+          "text": "新加入Gen，任首席AI官（Chief AI Officer）",
           "quote": "听说你最近加入了矽谷一家非常赚钱的中厂 然后去做那里的Chief AI Officer 恭喜恭喜 谢谢谢谢 那个加入的是Gen 其实有一些矽谷不少的一些厂 给并购起来 然后起了一个新的名字 大家不一定熟悉这个新的名字 跟Generative AI的Gen是同一个名字",
           "locator": [
             "youtube-omAUYRo3Fvc#cue-28",
@@ -241,8 +229,27 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/mf13n8Fl7FM/hqdefault.jpg",
       "guest_en_name": "Guo Yu",
-      "guest_company": "Independent",
-      "guest_title": "Independent Software Engineer / Blogger"
+      "guest_company": "",
+      "guest_title": "程序员，26岁财富自由后退休，现居日本",
+      "introductions": [
+        {
+          "source_id": "youtube-mf13n8Fl7FM",
+          "text": "离职后开始过退休生活，这几年住在日本",
+          "quote": "从北京离职从Vitams离职之后 那两年其实还想的比较多 因为毕竟刚开始过这种退休生活 很多的这种你的期望和真实生活 发生的这件事情不太一样 所以不断在调整自己的期望 包括20年到22年有两年都是疫情 疫情虽然在日本的生活影响不大 但是基本上哪里都去不了",
+          "locator": [
+            "youtube-mf13n8Fl7FM#cue-60",
+            "youtube-mf13n8Fl7FM#cue-61",
+            "youtube-mf13n8Fl7FM#cue-62",
+            "youtube-mf13n8Fl7FM#cue-63",
+            "youtube-mf13n8Fl7FM#cue-64",
+            "youtube-mf13n8Fl7FM#cue-65",
+            "youtube-mf13n8Fl7FM#cue-66",
+            "youtube-mf13n8Fl7FM#cue-67",
+            "youtube-mf13n8Fl7FM#cue-68"
+          ],
+          "start_seconds": 105
+        }
+      ]
     },
     {
       "entity_id": "guest:yang-ying",
@@ -261,7 +268,25 @@
       "thumbnail_url": "https://img.youtube.com/vi/vd_oYgwQSBM/hqdefault.jpg",
       "guest_en_name": "Yang Ying",
       "guest_company": "屠龙大实话",
-      "guest_title": "神经科学博士、连续创业者、内容创作者"
+      "guest_title": "神经科学博士、连续创业者、内容创作者",
+      "introductions": [
+        {
+          "source_id": "youtube-vd_oYgwQSBM",
+          "text": "网上人称屠龙；清华生物本科，匹兹堡大学博士，方向是大脑认知康复",
+          "quote": "我是杨滢 网上的很多朋友都管我叫屠龙 我实际上是这样的 我是02年到06年在清华学的生物 然后06年呢 就出国了 在匹兹堡大学读博士 我的博士是大脑认知康复",
+          "locator": [
+            "youtube-vd_oYgwQSBM#cue-45",
+            "youtube-vd_oYgwQSBM#cue-46",
+            "youtube-vd_oYgwQSBM#cue-47",
+            "youtube-vd_oYgwQSBM#cue-48",
+            "youtube-vd_oYgwQSBM#cue-49",
+            "youtube-vd_oYgwQSBM#cue-50",
+            "youtube-vd_oYgwQSBM#cue-51",
+            "youtube-vd_oYgwQSBM#cue-52"
+          ],
+          "start_seconds": 132
+        }
+      ]
     },
     {
       "entity_id": "guest:reynold-xin",
@@ -281,18 +306,6 @@
       "guest_company": "Databricks",
       "guest_title": "Cofounder & Chief Architect",
       "introductions": [
-        {
-          "source_id": "youtube-cM8TlLVEVWU",
-          "text": "UC Berkeley出身，作为创始人注重学术背景",
-          "quote": "那么我觉得我们 因为可能都是在学术界出来的 而且都是这都是在UC Berkeley出来的 作为创始人本身对这一方面比较注重",
-          "locator": [
-            "youtube-cM8TlLVEVWU#cue-100",
-            "youtube-cM8TlLVEVWU#cue-101",
-            "youtube-cM8TlLVEVWU#cue-102",
-            "youtube-cM8TlLVEVWU#cue-103"
-          ],
-          "start_seconds": 178
-        },
         {
           "source_id": "youtube-GIv0I-34aaI",
           "text": "Databricks联合创始人，公司未上市，估值430亿美元",
@@ -326,7 +339,37 @@
       "thumbnail_url": "https://img.youtube.com/vi/vCzj0Fth_8A/hqdefault.jpg",
       "guest_en_name": "Shang Shu",
       "guest_company": "阿里云（前）",
-      "guest_title": "创业者、《ToB的本质》作者"
+      "guest_title": "创业者、《ToB的本质》作者",
+      "introductions": [
+        {
+          "source_id": "youtube-vCzj0Fth_8A",
+          "text": "大学毕业后回北京创业，做身份与权限管理软件；2019年被阿里云收购，之后在阿里云继续负责这款产品",
+          "quote": "我来美国是大概08 09年 那个时候还在高中 然后这个和父母一起来到美国 大学毕业以后 回到这个北京创业 之后的89年 一直都在国内做一款这个身份管理 和权限管理的这个软件 美国有一款这个叫Okta 是这个领域的领头羊 很多这个同学可能都听说过 19年的时候我们被收购进阿里云 所以在我的经历里边 19年为分水岭 前四五年在非常草根的一个创业的过程 后四五年呢 在这个阿里云的体系里边 在阿里云安全下 仍然去负责我们这款这个身份安全 和这个权限管理的产品",
+          "locator": [
+            "youtube-vCzj0Fth_8A#cue-14",
+            "youtube-vCzj0Fth_8A#cue-15",
+            "youtube-vCzj0Fth_8A#cue-16",
+            "youtube-vCzj0Fth_8A#cue-17",
+            "youtube-vCzj0Fth_8A#cue-18",
+            "youtube-vCzj0Fth_8A#cue-19",
+            "youtube-vCzj0Fth_8A#cue-20",
+            "youtube-vCzj0Fth_8A#cue-21",
+            "youtube-vCzj0Fth_8A#cue-22",
+            "youtube-vCzj0Fth_8A#cue-23",
+            "youtube-vCzj0Fth_8A#cue-24",
+            "youtube-vCzj0Fth_8A#cue-25",
+            "youtube-vCzj0Fth_8A#cue-26",
+            "youtube-vCzj0Fth_8A#cue-27",
+            "youtube-vCzj0Fth_8A#cue-28",
+            "youtube-vCzj0Fth_8A#cue-29",
+            "youtube-vCzj0Fth_8A#cue-30",
+            "youtube-vCzj0Fth_8A#cue-31",
+            "youtube-vCzj0Fth_8A#cue-32",
+            "youtube-vCzj0Fth_8A#cue-33"
+          ],
+          "start_seconds": 53
+        }
+      ]
     },
     {
       "entity_id": "guest:terry",
@@ -390,19 +433,25 @@
       "thumbnail_url": "https://img.youtube.com/vi/pxgF4mgcxqo/hqdefault.jpg",
       "guest_en_name": "Fan Deng",
       "guest_company": "帆书",
-      "guest_title": "Founder",
+      "guest_title": "创始人",
       "introductions": [
         {
           "source_id": "youtube-pxgF4mgcxqo",
-          "text": "曾在北交大当老师，1999年至2012年在央视工作",
-          "quote": "那个时候是你还在央视工作 没有那时候在大学 北交大当老师的时候 99年到12年在央视",
+          "text": "在做帆书，目标是帮助3亿人养成阅读习惯",
+          "quote": "非常荣幸有这个机会去采访樊登老师 樊登老师是我人生的各方面的偶像 和学习的楷模 大家知道 就是我平时是很爱看书 然后也很爱分享各种各样的体会 樊登老师我记得你现在的帆书 想要做到的事情是帮助3亿人阅读 就是让更多的人吧 让更多的人养成阅读习惯对",
           "locator": [
-            "youtube-pxgF4mgcxqo#cue-81",
-            "youtube-pxgF4mgcxqo#cue-82",
-            "youtube-pxgF4mgcxqo#cue-83",
-            "youtube-pxgF4mgcxqo#cue-84"
+            "youtube-pxgF4mgcxqo#cue-4",
+            "youtube-pxgF4mgcxqo#cue-5",
+            "youtube-pxgF4mgcxqo#cue-6",
+            "youtube-pxgF4mgcxqo#cue-7",
+            "youtube-pxgF4mgcxqo#cue-8",
+            "youtube-pxgF4mgcxqo#cue-9",
+            "youtube-pxgF4mgcxqo#cue-10",
+            "youtube-pxgF4mgcxqo#cue-11",
+            "youtube-pxgF4mgcxqo#cue-12",
+            "youtube-pxgF4mgcxqo#cue-13"
           ],
-          "start_seconds": 176
+          "start_seconds": 52
         }
       ]
     },
@@ -422,8 +471,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/lQC3gy09TI8/hqdefault.jpg",
       "guest_en_name": "Ke Xi",
-      "guest_company": "Facebook",
-      "guest_title": "Staff Engineer",
+      "guest_company": "",
+      "guest_title": "前Facebook Staff Engineer",
       "introductions": [
         {
           "source_id": "youtube-HA57MsB30Zs",
@@ -544,8 +593,26 @@
       "youtube_playlist_url": "https://www.youtube.com/playlist?list=PLeLRTYRHb3xo",
       "guest_en_name": "Devin Dong",
       "guest_company": "Cookiy AI",
-      "guest_title": "Founder & CEO at Cookiy AI; ex Meetsocial CPO, TikTok GM of Pangle, 腾讯副总监",
+      "guest_title": "创始人兼CEO；前Meetsocial首席产品官、TikTok Pangle总经理、腾讯副总监",
       "introductions": [
+        {
+          "source_id": "youtube-xIxviFc8yxE",
+          "text": "从打工人的天花板出来创业，第一次做创始人，已拿到Pre-seed融资",
+          "quote": "从打工人的天花板 变成了一个创业明星 呃呃呃应该是说first time founder的小白 然后现在啥都没有 啥都不会 所以还在一个非常早期的阶段 但是你的那个 我们不能透露具具体的估值 你现在融了Pre seed 已经拿了钱",
+          "locator": [
+            "corpus/videos/20250919-xIxviFc8yxE.md@6",
+            "corpus/videos/20250919-xIxviFc8yxE.md@7",
+            "corpus/videos/20250919-xIxviFc8yxE.md@10",
+            "corpus/videos/20250919-xIxviFc8yxE.md@14",
+            "corpus/videos/20250919-xIxviFc8yxE.md@15",
+            "corpus/videos/20250919-xIxviFc8yxE.md@16",
+            "corpus/videos/20250919-xIxviFc8yxE.md@18",
+            "corpus/videos/20250919-xIxviFc8yxE.md@19",
+            "corpus/videos/20250919-xIxviFc8yxE.md@22",
+            "corpus/videos/20250919-xIxviFc8yxE.md@23"
+          ],
+          "start_seconds": 6
+        },
         {
           "source_id": "youtube-9213uFD30VM",
           "text": "加入Meet Social，为广告主提供营销咨询与执行服务",
@@ -608,12 +675,12 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/KiJEjPlQlTA/hqdefault.jpg",
       "guest_en_name": "Du Lei",
-      "guest_company": "Technology Investment",
-      "guest_title": "Investor",
+      "guest_company": "",
+      "guest_title": "科技投资人",
       "introductions": [
         {
           "source_id": "youtube-KiJEjPlQlTA",
-          "text": "作为投资人，发现大量繁忙工作已被AI取代",
+          "text": "投资人，这一年发现大量busy work已被AI取代",
           "quote": "以前的话可能工作需要一个很大的团队 作为投资人 我们需要去和很多Analysts 和我们一起工作 但是这一年以来的话 我发现大量的这种Busy work 都已经就被AI取代了 作为一个投资人",
           "locator": [
             "youtube-KiJEjPlQlTA#cue-18",
@@ -693,8 +760,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/6FvFgTWO9BU/hqdefault.jpg",
       "guest_en_name": "Kevin Chen",
-      "guest_company": "MIT EECS / Soft and Micro Robotics Laboratory",
-      "guest_title": "Associate Professor, Electrical Engineering and Computer Science",
+      "guest_company": "MIT",
+      "guest_title": "电气工程与计算机科学副教授，研究微型机器人",
       "introductions": [
         {
           "source_id": "youtube-I4_OejHnJSU",
@@ -725,7 +792,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/UgbJOPtHfwg/hqdefault.jpg",
       "guest_en_name": "Zou Xin",
       "guest_company": "TikTok",
-      "guest_title": "TikTok一线管理者",
+      "guest_title": "一线管理者",
       "introductions": [
         {
           "source_id": "youtube-c4giCTNeSWU",
@@ -756,28 +823,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/dymM40bVIhQ/hqdefault.jpg",
       "guest_en_name": "Tian Yuandong",
-      "guest_company": "Meta / Independent",
-      "guest_title": "AI Researcher, PhD",
-      "introductions": [
-        {
-          "source_id": "youtube-dymM40bVIhQ",
-          "text": "在Meta已工作10年，2015年加入时公司约1万多人",
-          "quote": "我是在准备访谈的时候 才发现你在Meta已经工作10年了 对对 那个时候2015年 很小的公司 2012年上市的 对 你加入的时候Meta多少人 加入的时候 大概有1万多一点",
-          "locator": [
-            "youtube-dymM40bVIhQ#cue-4",
-            "youtube-dymM40bVIhQ#cue-5",
-            "youtube-dymM40bVIhQ#cue-6",
-            "youtube-dymM40bVIhQ#cue-7",
-            "youtube-dymM40bVIhQ#cue-8",
-            "youtube-dymM40bVIhQ#cue-9",
-            "youtube-dymM40bVIhQ#cue-10",
-            "youtube-dymM40bVIhQ#cue-11",
-            "youtube-dymM40bVIhQ#cue-12",
-            "youtube-dymM40bVIhQ#cue-13"
-          ],
-          "start_seconds": 121
-        }
-      ]
+      "guest_company": "",
+      "guest_title": "AI研究者，前Meta FAIR研究总监"
     },
     {
       "entity_id": "guest:zhao-yong",
@@ -796,7 +843,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/djaJm63w8BU/hqdefault.jpg",
       "guest_en_name": "Zhao Yong",
       "guest_company": "君子食堂",
-      "guest_title": "君子食堂创始人",
+      "guest_title": "创始人；北大元培、耶鲁博士（休学创业）",
       "introductions": [
         {
           "source_id": "youtube-djaJm63w8BU",
@@ -842,7 +889,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/HAQ4p74KbdY/hqdefault.jpg",
       "guest_en_name": "Eugene Wang",
       "guest_company": "Amazon",
-      "guest_title": "前亚马逊首席产品经理",
+      "guest_title": "前首席产品经理",
       "introductions": [
         {
           "source_id": "youtube-HAQ4p74KbdY",
@@ -883,9 +930,11 @@
       "introductions": [
         {
           "source_id": "youtube-wjxQ2bhGB8k",
-          "text": "曾在美国读高中和大学，后回国",
-          "quote": "是我身边这位95后美女穆潼的产业 能跟大家打个招呼吧 Hello 大家好 我因为穆潼她之前是在美国读高中 然后去读大学 现在回到家乡建设家乡",
+          "text": "95后，在美国读完高中和大学后回到家乡喀什，经营一家能俯瞰古城的喆啡酒店",
+          "quote": "我们这期视频是在美丽的喀什的一个喆啡酒店 这里是唯一一个可以俯瞰喀什古城的酒店 是我身边这位95后美女穆潼的产业 能跟大家打个招呼吧 Hello 大家好 我因为穆潼她之前是在美国读高中 然后去读大学 现在回到家乡建设家乡",
           "locator": [
+            "youtube-wjxQ2bhGB8k#cue-2",
+            "youtube-wjxQ2bhGB8k#cue-3",
             "youtube-wjxQ2bhGB8k#cue-4",
             "youtube-wjxQ2bhGB8k#cue-5",
             "youtube-wjxQ2bhGB8k#cue-6",
@@ -893,7 +942,7 @@
             "youtube-wjxQ2bhGB8k#cue-8",
             "youtube-wjxQ2bhGB8k#cue-9"
           ],
-          "start_seconds": 10
+          "start_seconds": 2
         },
         {
           "source_id": "youtube-aI4iXt5I8PE",
@@ -923,7 +972,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/oue4lPnsY74/hqdefault.jpg",
       "guest_en_name": "Teri",
       "guest_company": "腾讯",
-      "guest_title": "腾讯内容生态部总监",
+      "guest_title": "内容生态部总监",
       "introductions": [
         {
           "source_id": "youtube-oue4lPnsY74",
@@ -1011,8 +1060,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/4haSIlR8Fy4/hqdefault.jpg",
       "guest_en_name": "Lao Mao",
-      "guest_company": "Microsoft / Independent",
-      "guest_title": "Entrepreneur, Former Microsoft Engineer",
+      "guest_company": "",
+      "guest_title": "创业者，前微软工程师",
       "introductions": [
         {
           "source_id": "youtube-4haSIlR8Fy4",
@@ -1051,7 +1100,7 @@
       "introductions": [
         {
           "source_id": "youtube-ieqFc8NZJsE",
-          "text": "腾讯PCG员工副总监",
+          "text": "腾讯PCG副总监",
           "quote": "今天我是来到了PCG的地盘上 采访我们这边的腾讯员副总监 叫李森同学 内网名是Lixson",
           "locator": [
             "youtube-ieqFc8NZJsE#cue-19",
@@ -1079,8 +1128,30 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/3t2I_BMG9gU/hqdefault.jpg",
       "guest_en_name": "Dai Yusen",
-      "guest_company": "Zhenge Fund",
-      "guest_title": "Partner"
+      "guest_company": "真格基金",
+      "guest_title": "管理合伙人",
+      "introductions": [
+        {
+          "source_id": "youtube-3t2I_BMG9gU",
+          "text": "真格基金管理合伙人，这几年主要看AI天使投资，投了Kimi、与爱为舞、Genspark等",
+          "quote": "大家好我叫戴雨森 是真格基金的管理合伙人 真格基金是中国最大的早期投资基金 我们是专注于投华人创业者的第一笔钱 所以我们都是会做科技领域为主的 早期投资 我自己呢 在这几年主要是看AI的天使投资 投资了比如说像Kimi 像与爱为舞 Genspark等一些可能大家有所听说过 或者用过的AI产品",
+          "locator": [
+            "youtube-3t2I_BMG9gU#cue-1",
+            "youtube-3t2I_BMG9gU#cue-2",
+            "youtube-3t2I_BMG9gU#cue-3",
+            "youtube-3t2I_BMG9gU#cue-4",
+            "youtube-3t2I_BMG9gU#cue-5",
+            "youtube-3t2I_BMG9gU#cue-6",
+            "youtube-3t2I_BMG9gU#cue-7",
+            "youtube-3t2I_BMG9gU#cue-8",
+            "youtube-3t2I_BMG9gU#cue-9",
+            "youtube-3t2I_BMG9gU#cue-10",
+            "youtube-3t2I_BMG9gU#cue-11",
+            "youtube-3t2I_BMG9gU#cue-12"
+          ],
+          "start_seconds": 71
+        }
+      ]
     },
     {
       "entity_id": "guest:oe-ben",
@@ -1098,7 +1169,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/7dYNlUai-3A/hqdefault.jpg",
       "guest_en_name": "OE_Ben",
       "guest_company": "",
-      "guest_title": "Software Engineer",
+      "guest_title": "软件工程师",
       "introductions": [
         {
           "source_id": "youtube-8SRhM6SMU1s",
@@ -1150,7 +1221,7 @@
       "introductions": [
         {
           "source_id": "youtube-7ej2r7XysKc",
-          "text": "创办了YouTube Shorts，是其元老",
+          "text": "创办了YouTube Shorts；现在在OpenAI带团队，前几天OpenAI的十二个发布里，他的团队占了五个",
           "quote": "就会过来侵占你的 scope，你会怎么处理呢？Shorts 现在做成功了，作为这里边的元老，你选择离开的原因是什么？人的魔鬼卫生证身份证，树超，欢迎你。嗯，我给大家准备了两句话的介绍，就第一，你是创办了 YouTube Shorts 的人；第二呢，就是前几天 OpenAI 十二个发布里边，你的团队占了五个，有一点噱头感觉。 就有点可能有点高调，对，肯定有噱头。然后，如果你不说噱头的话，大家就没有兴趣去了解后面说的东西了。好的，我就想把这两个正好拆成两个话题去聊，因为这两个话题都挺大的。第一个就是 YouTube Shorts，啊。",
           "locator": [
             "youtube-7ej2r7XysKc#cue-2",
@@ -1191,7 +1262,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/KhV4cItOqYw/hqdefault.jpg",
       "guest_en_name": "Xiong Li",
       "guest_company": "Databricks",
-      "guest_title": "Recruiting Manager",
+      "guest_title": "工程经理（Engineering Manager）",
       "introductions": [
         {
           "source_id": "youtube-YNn2ZyypWPQ",
@@ -1259,7 +1330,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/iw2QYZeVlOQ/hqdefault.jpg",
       "guest_en_name": "Vijaye Raji",
       "guest_company": "Statsig",
-      "guest_title": "CEO, Startup Founder, ex-Facebook VP",
+      "guest_title": "创始人，现任OpenAI应用CTO；前Facebook副总裁",
       "introductions": [
         {
           "source_id": "youtube-V9dNLWDhMuE",
@@ -1318,24 +1389,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/9_JsesmzJ9U/hqdefault.jpg",
       "guest_en_name": "Bian Lu",
-      "guest_company": "ByteDance",
-      "guest_title": "Manager",
-      "introductions": [
-        {
-          "source_id": "youtube-9_JsesmzJ9U",
-          "text": "2017年博士毕业，先后在亚马逊、Facebook、腾讯工作，现加入美国创业公司",
-          "quote": "我是2017年博士毕业 然后在亚马逊工作两年 然后Facebook工作两年 回国在腾讯工作两年 然后现在又回到美国 加入了这边的一个创业公司",
-          "locator": [
-            "youtube-9_JsesmzJ9U#cue-23",
-            "youtube-9_JsesmzJ9U#cue-24",
-            "youtube-9_JsesmzJ9U#cue-25",
-            "youtube-9_JsesmzJ9U#cue-26",
-            "youtube-9_JsesmzJ9U#cue-27",
-            "youtube-9_JsesmzJ9U#cue-28"
-          ],
-          "start_seconds": 45
-        }
-      ]
+      "guest_company": "",
+      "guest_title": "曾在亚马逊、Facebook、字节跳动工作"
     },
     {
       "entity_id": "guest:bay-area-dating-guest",
@@ -1433,7 +1488,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/ZiARi5uJpco/hqdefault.jpg",
       "guest_en_name": "Howard Li",
       "guest_company": "Meta",
-      "guest_title": "Meta DS Director",
+      "guest_title": "数据科学总监（DS Director）",
       "introductions": [
         {
           "source_id": "youtube-ZiARi5uJpco",
@@ -1515,8 +1570,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/myincnnSj8c/hqdefault.jpg",
       "guest_en_name": "Indigo",
-      "guest_company": "Sina Weibo",
-      "guest_title": "微博VP / AI投资人",
+      "guest_company": "",
+      "guest_title": "AI投资人，前微博VP",
       "introductions": [
         {
           "source_id": "youtube-Lpp5ZdUtWog",
@@ -1609,11 +1664,11 @@
       "thumbnail_url": "https://img.youtube.com/vi/vD2BGwvjkLI/hqdefault.jpg",
       "guest_en_name": "Rod",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "短视频与直播产品从业者",
       "introductions": [
         {
           "source_id": "youtube-gBj0JY7LDpE",
-          "text": "从事娱乐直播，做唱歌跳舞喊麦脱口秀等直播",
+          "text": "做娱乐直播业务：唱歌、跳舞、喊麦、脱口秀这类表演直播",
           "quote": "我是做娛樂直播 然後娛樂表演的這些直播 唱歌跳舞喊麥 脫口秀 這一些",
           "locator": [
             "youtube-gBj0JY7LDpE#cue-132",
@@ -1755,27 +1810,15 @@
       "guest_title": "院长",
       "introductions": [
         {
-          "source_id": "youtube-t9opGmGaJAI",
-          "text": "2020年创业第三年，与合伙人做跨境支付帮留学生交学费",
-          "quote": "2020年的时候 我当时应该是创业的第三年 我跟我的合伙人 我们在做跨境支付 帮助留学生做交学费这个事情",
-          "locator": [
-            "youtube-t9opGmGaJAI#cue-106",
-            "youtube-t9opGmGaJAI#cue-107",
-            "youtube-t9opGmGaJAI#cue-108",
-            "youtube-t9opGmGaJAI#cue-109",
-            "youtube-t9opGmGaJAI#cue-110"
-          ],
-          "start_seconds": 197
-        },
-        {
           "source_id": "youtube-Mv0IpT-vYWI",
-          "text": "2018年在康奈尔大学担任学生会主席",
-          "quote": "呃，我当时是一八年的时候，呃，曾经在康奈尔当过学生会主席，所以邀请了好多其他学校的学生会主席聚在一起，哈佛、耶鲁、普林斯顿的，英国的牛津、剑桥等等，呃，大家凑在一起，像一个夏令营一样。 几天的时间，大家在一块度过，邀请些名人，呃，做些活动、体育、辩论等等的。后来呢，发现哎，这个平台其实呃也需要自己转起来，嗯，呃，有很大的开销。我们不希望把它做成一个商学院去收大家的任何费用，所以呢，啊，我们以普斯这样的形式，我们去到中国的各地。",
+          "text": "一半时间做NGO平台，另一半以投资人、合伙人的身份参与各种事；自称「首席喝酒官」，用自己的方式帮企业解决关键问题",
+          "quote": "的投入的时间越来越少了，反而你现在的 official title 是首席喝酒官吗？呃，这个之所以说有首席喝酒官这个 title，其实因为今天跟玉峥聊到啊。 在参与很多事情，在参与很多事情，我觉得我给自己的一个主线呢，就是，呃，百分之五十的时间在做NGO，在做平台，就是我们今天在这个朴素圈；另外百分之五十时间，我还是把自己定位成一个投资人，还把自己定位成一个投资人。我觉得，呃，我还是以一个合伙人的身份在参与各种事情，所以。 呃，首席喝酒官其实更多的是用自己的方式来帮企业解决一些关键的问题。好的，这个是一个非常有意思的点，因为你是看看似有这个玩世不恭的那一面，但是你其实玩世不不恭的这一面是你的一个象，一个角色，然后这个角色是你用最合适的方式去。",
           "locator": [
-            "corpus/videos/20230925-Mv0IpT-vYWI.md@225",
-            "corpus/videos/20230925-Mv0IpT-vYWI.md@240"
+            "corpus/videos/20230925-Mv0IpT-vYWI.md@148",
+            "corpus/videos/20230925-Mv0IpT-vYWI.md@160",
+            "corpus/videos/20230925-Mv0IpT-vYWI.md@180"
           ],
-          "start_seconds": 225
+          "start_seconds": 148
         }
       ]
     },
@@ -1799,14 +1842,41 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/77nmgqFMCME/hqdefault.jpg",
       "guest_en_name": "Koji & Monica",
-      "guest_company": "CrossRoad Podcast / Onboard",
-      "guest_title": "Cofounders / Investors",
+      "guest_company": "十字路口 / OnBoard",
+      "guest_title": "两档播客的主播；Koji是连续创业者，Monica是投资人",
       "members": [
         {
           "name": "Koji"
         },
         {
           "name": "Monica"
+        }
+      ],
+      "introductions": [
+        {
+          "source_id": "youtube-aKsaHFA7WOw",
+          "text": "Koji：做播客「十字路口」一年多，自认是产品经理，做过街旁、新世相、躺岛三家公司",
+          "quote": "嗨大家好我是Koji 我自己开始做「十字路口」 是去年年初 做到现在 差不多一年多的时间 （我）认为自己是一个产品经理 做了三家公司 但是我感觉自己的身份都是在做产品 那三家公司都各不相同 第一家公司是很早 大概10年前后 叫街旁做了两三年就卖掉了 再后来两家公司 一家叫新世相 一家叫「躺岛」 他们分别是一家内容公司 和一家这个消费品牌公司",
+          "locator": [
+            "youtube-aKsaHFA7WOw#cue-1",
+            "youtube-aKsaHFA7WOw#cue-2",
+            "youtube-aKsaHFA7WOw#cue-3",
+            "youtube-aKsaHFA7WOw#cue-4",
+            "youtube-aKsaHFA7WOw#cue-5",
+            "youtube-aKsaHFA7WOw#cue-6",
+            "youtube-aKsaHFA7WOw#cue-7",
+            "youtube-aKsaHFA7WOw#cue-8",
+            "youtube-aKsaHFA7WOw#cue-9",
+            "youtube-aKsaHFA7WOw#cue-10",
+            "youtube-aKsaHFA7WOw#cue-11",
+            "youtube-aKsaHFA7WOw#cue-12",
+            "youtube-aKsaHFA7WOw#cue-13",
+            "youtube-aKsaHFA7WOw#cue-14",
+            "youtube-aKsaHFA7WOw#cue-15",
+            "youtube-aKsaHFA7WOw#cue-16",
+            "youtube-aKsaHFA7WOw#cue-17"
+          ],
+          "start_seconds": 42
         }
       ]
     },
@@ -1859,18 +1929,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/MWt3Zo1oC70/hqdefault.jpg",
       "guest_en_name": "Xiao Lu",
       "guest_company": "Amazon",
-      "guest_title": "Principal Product Manager",
-      "introductions": [
-        {
-          "source_id": "youtube-MWt3Zo1oC70",
-          "text": "曾任腾讯副总监，后任亚马逊首席(L7)产品经理",
-          "quote": "当时我在腾讯做一个副总监，",
-          "locator": [
-            "youtube-MWt3Zo1oC70#cue-6"
-          ],
-          "start_seconds": 10
-        }
-      ]
+      "guest_title": "Principal Product Manager"
     },
     {
       "entity_id": "guest:yu-zhou",
@@ -1888,20 +1947,9 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/UndcL0uEmYs/hqdefault.jpg",
       "guest_en_name": "Yu Zhou",
-      "guest_company": "Columbia University/Arklex",
-      "guest_title": "Professor",
+      "guest_company": "Columbia University / Arklex",
+      "guest_title": "教授，Arklex创始人",
       "introductions": [
-        {
-          "source_id": "youtube-re-sZYEcOrI",
-          "text": "在Expedia做租车相关业务",
-          "quote": "我是说可以说一下 我是Expedia 我在Expedia做租车",
-          "locator": [
-            "corpus/videos/20250911-re-sZYEcOrI.md@12",
-            "corpus/videos/20250911-re-sZYEcOrI.md@13",
-            "corpus/videos/20250911-re-sZYEcOrI.md@14"
-          ],
-          "start_seconds": 12
-        },
         {
           "source_id": "youtube-4cga3ICDkfc",
           "text": "哥伦比亚大学教授，2017年博士毕业，曾在浙大和CMU做AI与NLP研究",
@@ -1980,7 +2028,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/VpXcXv9S5ws/hqdefault.jpg",
       "guest_en_name": "Newton",
       "guest_company": "Microsoft",
-      "guest_title": "微软程序员，餐馆老板",
+      "guest_title": "程序员，餐馆老板",
       "introductions": [
         {
           "source_id": "youtube-q-q6cHC67DE",
@@ -2034,21 +2082,15 @@
       "introductions": [
         {
           "source_id": "youtube-PucrhAhOu74",
-          "text": "亚马逊首席研究科学家，做优化与供应链产能规划，任职17年",
-          "quote": "OK,那我先来吧。 我叫Mark,中文名字叫陈茂茂。 我在亚马逊是principal research scientist, 下面也管了几个人,所以说也是manager。 我在亚马逊是做最优化的, 所以说是operations research, 然后主要是supply chain capacity planning方面的。 我在亚马逊时间已经很长了, 我在亚马逊待了17年, 所以说当manager有10年。",
+          "text": "四位亚马逊的科学经理，职级加起来27级",
+          "quote": "是四位加起来有27级的四位亚马逊的manager。 所以我们首先让大家来自我介绍一下, 就是因为各位嘉宾可以提一下自己怎么称呼,你是做什么的, 还有就是从事IC和manager分别有多久。",
           "locator": [
-            "youtube-PucrhAhOu74#cue-14",
-            "youtube-PucrhAhOu74#cue-15",
-            "youtube-PucrhAhOu74#cue-16",
-            "youtube-PucrhAhOu74#cue-17",
-            "youtube-PucrhAhOu74#cue-18",
-            "youtube-PucrhAhOu74#cue-19",
-            "youtube-PucrhAhOu74#cue-20",
-            "youtube-PucrhAhOu74#cue-21",
-            "youtube-PucrhAhOu74#cue-22",
-            "youtube-PucrhAhOu74#cue-23"
+            "youtube-PucrhAhOu74#cue-10",
+            "youtube-PucrhAhOu74#cue-11",
+            "youtube-PucrhAhOu74#cue-12",
+            "youtube-PucrhAhOu74#cue-13"
           ],
-          "start_seconds": 67
+          "start_seconds": 45
         }
       ]
     },
@@ -2170,7 +2212,7 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/z77JFTjccxQ/hqdefault.jpg",
       "guest_en_name": "Dongye Zhan",
-      "guest_company": "潮汕工夫茶",
+      "guest_company": "",
       "guest_title": "潮汕工夫茶非遗传承人"
     },
     {
@@ -2192,6 +2234,32 @@
       "guest_company": "Cal Poly",
       "guest_title": "Professor, AI Education Expert",
       "introductions": [
+        {
+          "source_id": "youtube-9JdIkWyyOJI",
+          "text": "Cal Poly（加州州立理工）教师，近十年专注K-12计算机科学和AI教育；此前创业做过移动AR",
+          "quote": "然后我们在做这个mobile的AR 那时候做的比较早 是做这种photo-based AR 就通过照照片来作为识别 当时我们有了一个seed funding嘛 那个start-up做了一年多 但那个start-up做的不是特别成功 2014、2015年的时候 我就落脚回到南加这边 在Cal Poly就是加州州立理工 因为做faculty 有一些时间和灵活度嘛 所以就开始继续去explore这些不同的 一些创业的机会 后来大概过去十年嘛 将近有十年的时间 一直在专注于做这个K-12 computer science 和AI的这个education",
+          "locator": [
+            "youtube-9JdIkWyyOJI#cue-26",
+            "youtube-9JdIkWyyOJI#cue-27",
+            "youtube-9JdIkWyyOJI#cue-28",
+            "youtube-9JdIkWyyOJI#cue-29",
+            "youtube-9JdIkWyyOJI#cue-30",
+            "youtube-9JdIkWyyOJI#cue-31",
+            "youtube-9JdIkWyyOJI#cue-32",
+            "youtube-9JdIkWyyOJI#cue-33",
+            "youtube-9JdIkWyyOJI#cue-34",
+            "youtube-9JdIkWyyOJI#cue-35",
+            "youtube-9JdIkWyyOJI#cue-36",
+            "youtube-9JdIkWyyOJI#cue-37",
+            "youtube-9JdIkWyyOJI#cue-38",
+            "youtube-9JdIkWyyOJI#cue-39",
+            "youtube-9JdIkWyyOJI#cue-40",
+            "youtube-9JdIkWyyOJI#cue-41",
+            "youtube-9JdIkWyyOJI#cue-42",
+            "youtube-9JdIkWyyOJI#cue-43"
+          ],
+          "start_seconds": 81
+        },
         {
           "source_id": "youtube-DxRCFOOd0Oo",
           "text": "计算机科学博士，曾在亚马逊工作，后创业做移动AR",
@@ -2228,8 +2296,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/vYOogCGsIog/hqdefault.jpg",
       "guest_en_name": "Yu Yizhou",
-      "guest_company": "Meta",
-      "guest_title": "Meta 程序员",
+      "guest_company": "",
+      "guest_title": "大厂软件工程师，频道「yizhou的一周」",
       "introductions": [
         {
           "source_id": "youtube-vYOogCGsIog",
@@ -2270,14 +2338,18 @@
       "introductions": [
         {
           "source_id": "youtube-kL3mt73vfWw",
-          "text": "产品经理，主要工作是提出问题解决问题",
-          "quote": "我觉得我的主要工作是起到了很大的一个帮助 因为我是产品经理 其实就是提出问题解决问题",
+          "text": "自媒体做得很成功，去年年中辞去工作",
+          "quote": "跟你第一次认识的时候是在Clubhouse上 然后敦总的局 讲副业 那个时候你是一个前任青年 自媒体做得很成功了 但是并不是你的工作重心 你是什么时候辞职的 去年年中",
           "locator": [
-            "youtube-kL3mt73vfWw#cue-62",
-            "youtube-kL3mt73vfWw#cue-63",
-            "youtube-kL3mt73vfWw#cue-64"
+            "youtube-kL3mt73vfWw#cue-20",
+            "youtube-kL3mt73vfWw#cue-21",
+            "youtube-kL3mt73vfWw#cue-22",
+            "youtube-kL3mt73vfWw#cue-23",
+            "youtube-kL3mt73vfWw#cue-24",
+            "youtube-kL3mt73vfWw#cue-25",
+            "youtube-kL3mt73vfWw#cue-26"
           ],
-          "start_seconds": 125
+          "start_seconds": 44
         }
       ]
     },
@@ -2321,7 +2393,34 @@
       "thumbnail_url": "https://img.youtube.com/vi/CU_jBN8gvq8/hqdefault.jpg",
       "guest_en_name": "Wang Ran",
       "guest_company": "课程格子",
-      "guest_title": "创始人"
+      "guest_title": "创始人",
+      "introductions": [
+        {
+          "source_id": "youtube-wFHoVeycV2k",
+          "text": "做YouTube频道「Rachel小苏」，讲怎么财务自由；此前在国内创业，做过不小的产品，也有过成功的投资",
+          "quote": "我们今天频道请来了Rachel同学 Rachel现在YouTube频道叫Rachel小苏 这个频道是专门讲怎么财务自由的频道 对关于钱的关于理财 其实更重要的是关于自由 关于自由 但是Rachel是一个财务自由的同学 对其实我们身边真正的财务自由同学还是挺少的 所以说主要看欲望 欲望比较低 就自由的比较容易 也看钱 钱要多 所以说Rachel其实之前在国内是一个蛮成功的创业者 她是从07年08年的时候开始创业 对然后做过还蛮大的产品 后来也有过很成功的投资",
+          "locator": [
+            "youtube-wFHoVeycV2k#cue-28",
+            "youtube-wFHoVeycV2k#cue-29",
+            "youtube-wFHoVeycV2k#cue-30",
+            "youtube-wFHoVeycV2k#cue-31",
+            "youtube-wFHoVeycV2k#cue-32",
+            "youtube-wFHoVeycV2k#cue-33",
+            "youtube-wFHoVeycV2k#cue-34",
+            "youtube-wFHoVeycV2k#cue-35",
+            "youtube-wFHoVeycV2k#cue-36",
+            "youtube-wFHoVeycV2k#cue-37",
+            "youtube-wFHoVeycV2k#cue-38",
+            "youtube-wFHoVeycV2k#cue-39",
+            "youtube-wFHoVeycV2k#cue-40",
+            "youtube-wFHoVeycV2k#cue-41",
+            "youtube-wFHoVeycV2k#cue-42",
+            "youtube-wFHoVeycV2k#cue-43",
+            "youtube-wFHoVeycV2k#cue-44"
+          ],
+          "start_seconds": 50
+        }
+      ]
     },
     {
       "entity_id": "guest:liu-jia",
@@ -2339,19 +2438,36 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/-Et3GJRSI_0/hqdefault.jpg",
       "guest_en_name": "Liu Jia",
-      "guest_company": "Tsinghua University",
-      "guest_title": "Professor, Brain Science Expert",
+      "guest_company": "清华大学",
+      "guest_title": "教授，脑科学学者",
       "introductions": [
         {
           "source_id": "youtube--Et3GJRSI_0",
-          "text": "清华大学教授，从事AI与教育研究",
-          "quote": "先请您做一下简单介绍 OK各位好 我叫刘嘉",
+          "text": "研究脑科学，原在北师大；2020年到清华，一边加强清华的脑科学，一边做AI",
+          "quote": "所以说后来我就重新回来做AI这一块 在北师大做 后来发现北师大各方面挺好 但是北师大的AI不行 而我自己AI也比较弱 基本上是0嘛 所以说我当时就想要到一个AI比较强的地方去做 当时清华呢 正好也联系我很多次 他们脑科学比较弱 他们就希望我去 增强他们脑科学那一块 清华正好他的人工智能比较强 所以说后来我就去了清华 我跟清华之前完全没有任何交集 工作去清华之前 我可能去清华的次数总共不超过10次 包含我本科的时候就都没有去过 但我觉得那是一个很好的地方 2020年我就来到清华",
           "locator": [
-            "youtube--Et3GJRSI_0#cue-57",
-            "youtube--Et3GJRSI_0#cue-58",
-            "youtube--Et3GJRSI_0#cue-59"
+            "youtube--Et3GJRSI_0#cue-265",
+            "youtube--Et3GJRSI_0#cue-266",
+            "youtube--Et3GJRSI_0#cue-267",
+            "youtube--Et3GJRSI_0#cue-268",
+            "youtube--Et3GJRSI_0#cue-269",
+            "youtube--Et3GJRSI_0#cue-270",
+            "youtube--Et3GJRSI_0#cue-271",
+            "youtube--Et3GJRSI_0#cue-272",
+            "youtube--Et3GJRSI_0#cue-273",
+            "youtube--Et3GJRSI_0#cue-274",
+            "youtube--Et3GJRSI_0#cue-275",
+            "youtube--Et3GJRSI_0#cue-276",
+            "youtube--Et3GJRSI_0#cue-277",
+            "youtube--Et3GJRSI_0#cue-278",
+            "youtube--Et3GJRSI_0#cue-279",
+            "youtube--Et3GJRSI_0#cue-280",
+            "youtube--Et3GJRSI_0#cue-281",
+            "youtube--Et3GJRSI_0#cue-282",
+            "youtube--Et3GJRSI_0#cue-283",
+            "youtube--Et3GJRSI_0#cue-284"
           ],
-          "start_seconds": 81
+          "start_seconds": 439
         }
       ]
     },
@@ -2370,8 +2486,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/y5V8wrmp09I/hqdefault.jpg",
       "guest_en_name": "Richer",
-      "guest_company": "Guanyuan Capital",
-      "guest_title": "Investor",
+      "guest_company": "大观资本",
+      "guest_title": "创始人",
       "introductions": [
         {
           "source_id": "youtube-rVnrixEfNMM",
@@ -2601,22 +2717,6 @@
           "start_seconds": 16
         },
         {
-          "source_id": "youtube-cVtgJ7KFjgY",
-          "text": "曾因喜欢游戏行业回国加入腾讯",
-          "quote": "回来的最重要的原因就是这个工作 我知道我其实没有那么喜欢国内的生活 我更喜欢美国的生活 然后回来就是因为游戏行业 我是一个很喜欢的行业 腾讯是一家我觉得可以试一试的公司 然后我在面试的时候给我的体验非常好 然后turn out to be true",
-          "locator": [
-            "youtube-cVtgJ7KFjgY#cue-30",
-            "youtube-cVtgJ7KFjgY#cue-31",
-            "youtube-cVtgJ7KFjgY#cue-32",
-            "youtube-cVtgJ7KFjgY#cue-33",
-            "youtube-cVtgJ7KFjgY#cue-34",
-            "youtube-cVtgJ7KFjgY#cue-35",
-            "youtube-cVtgJ7KFjgY#cue-36",
-            "youtube-cVtgJ7KFjgY#cue-37"
-          ],
-          "start_seconds": 74
-        },
-        {
           "source_id": "youtube-_X4aJmOn3AI",
           "text": "在DoorDash做数据科学相关工作",
           "quote": "好的 大家好 我叫Ethan 我在DoorDash做Cata data science 今天很开心很荣幸能来到这个节目",
@@ -2648,7 +2748,28 @@
       "thumbnail_url": "https://img.youtube.com/vi/fPollnUVitg/hqdefault.jpg",
       "guest_en_name": "Tu Wang",
       "guest_company": "Meta",
-      "guest_title": "Tech Lead"
+      "guest_title": "Tech Lead",
+      "introductions": [
+        {
+          "source_id": "youtube-fPollnUVitg",
+          "text": "北美的一名程序员，2014年毕业，工作十来年；和立正在他的学院社区里认识",
+          "quote": "大家好我是土汪 怎么说我是北美的一个程序员 然后跟课代表 是在他的Academy（社区）里面认识的 大家好 介绍好谦虚啊 工作多久了 工作十年了 十...哎 十年十一年了 我是14年毕业的",
+          "locator": [
+            "youtube-fPollnUVitg#cue-4",
+            "youtube-fPollnUVitg#cue-5",
+            "youtube-fPollnUVitg#cue-6",
+            "youtube-fPollnUVitg#cue-7",
+            "youtube-fPollnUVitg#cue-8",
+            "youtube-fPollnUVitg#cue-9",
+            "youtube-fPollnUVitg#cue-10",
+            "youtube-fPollnUVitg#cue-11",
+            "youtube-fPollnUVitg#cue-12",
+            "youtube-fPollnUVitg#cue-13",
+            "youtube-fPollnUVitg#cue-14"
+          ],
+          "start_seconds": 24
+        }
+      ]
     },
     {
       "entity_id": "guest:mujtaba",
@@ -2668,7 +2789,33 @@
       "thumbnail_url": "https://img.youtube.com/vi/c7M6B2GR5-k/hqdefault.jpg",
       "guest_en_name": "Mujtaba",
       "guest_company": "Meta",
-      "guest_title": "Senior Manager, Data Science"
+      "guest_title": "Senior Manager, Data Science",
+      "introductions": [
+        {
+          "source_id": "youtube-hckVR-Aa-vs",
+          "text": "Facebook Marketplace数据科学负责人，同时带产品团队和生态数据科学",
+          "quote": "And Mujtaba, the head of marketplace data science at Facebook. He leads both the product team and the ecosystem DS",
+          "locator": [
+            "youtube-hckVR-Aa-vs#cue-24",
+            "youtube-hckVR-Aa-vs#cue-25",
+            "youtube-hckVR-Aa-vs#cue-26"
+          ],
+          "start_seconds": 52
+        },
+        {
+          "source_id": "youtube-c7M6B2GR5-k",
+          "text": "Meta数据科学高级经理，在Meta工作七年；最初是软件工程师",
+          "quote": "不熟悉的观众说明一下，Mujtaba 是高级经理 在 Meta 负责数据科学 你在 Meta 工作了七年。 你最开始不是数据科学家,你是SDE 大学是学这方面的，但后来加入了 Meta。",
+          "locator": [
+            "youtube-c7M6B2GR5-k#cue-21",
+            "youtube-c7M6B2GR5-k#cue-22",
+            "youtube-c7M6B2GR5-k#cue-23",
+            "youtube-c7M6B2GR5-k#cue-24",
+            "youtube-c7M6B2GR5-k#cue-25"
+          ],
+          "start_seconds": 34
+        }
+      ]
     },
     {
       "entity_id": "guest:shi-yang",
@@ -2756,7 +2903,32 @@
       "thumbnail_url": "https://img.youtube.com/vi/l9RmiySrwXM/hqdefault.jpg",
       "guest_en_name": "Chen Ran",
       "guest_company": "Tubi TV",
-      "guest_title": "Machine Learning Engineer"
+      "guest_title": "Machine Learning Engineer",
+      "introductions": [
+        {
+          "source_id": "youtube-Ngd2nWp0Xfc",
+          "text": "2013年来美国读研究生，很早就在知乎上写机器学习，知乎粉丝20万",
+          "quote": "对我是呃 13年来美国读的研究生 呃我一直都觉得 机器学习是世界上最牛逼的事情 呃我13年过来的时候就觉得是 就是我来美国就是觉得要好好学习 机器学习 嗯啊然后机器学习应用 绝对是啊 未来就是几十年最牛逼的事情 然后 所以我在知乎上很早就开始写东西嘛 嗯 你在知乎上后来多少个粉丝 20万20万",
+          "locator": [
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@150",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@151",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@154",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@156",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@159",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@161",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@164",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@165",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@167",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@169",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@171",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@172",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@174",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@175",
+            "corpus/videos/20250503-Ngd2nWp0Xfc.md@177"
+          ],
+          "start_seconds": 150
+        }
+      ]
     },
     {
       "entity_id": "guest:zhang-guoqi",
@@ -2775,7 +2947,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/6P6ClAtxa8U/hqdefault.jpg",
       "guest_en_name": "Zhang Guoqi",
       "guest_company": "腾讯",
-      "guest_title": "腾讯HRBP"
+      "guest_title": "HRBP"
     },
     {
       "entity_id": "guest:riley-shu",
@@ -2906,23 +3078,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/6FGf8kmftjc/hqdefault.jpg",
       "guest_en_name": "Cadence Gao",
       "guest_company": "鞑厨高寒 / 喜鹊派",
-      "guest_title": "B站UP主, 喜鹊派老板和主厨",
-      "introductions": [
-        {
-          "source_id": "youtube-oWOtqSA8kAA",
-          "text": "从事数据科学工作，具备传统数据科学硬功夫",
-          "quote": "比如 呃我自己是做数据科学的 然后就刚刚你说的这些传统 数据科学 硬功夫 对",
-          "locator": [
-            "youtube-oWOtqSA8kAA#cue-87",
-            "youtube-oWOtqSA8kAA#cue-88",
-            "youtube-oWOtqSA8kAA#cue-89",
-            "youtube-oWOtqSA8kAA#cue-90",
-            "youtube-oWOtqSA8kAA#cue-91",
-            "youtube-oWOtqSA8kAA#cue-92"
-          ],
-          "start_seconds": 132
-        }
-      ]
+      "guest_title": "B站UP主, 喜鹊派老板和主厨"
     },
     {
       "entity_id": "guest:eula",
@@ -2940,8 +3096,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/h3UY4Jb2uJE/hqdefault.jpg",
       "guest_en_name": "Eula",
-      "guest_company": "小红书",
-      "guest_title": "小红书网红",
+      "guest_company": "",
+      "guest_title": "学习区UP主，小红书、抖音博主",
       "introductions": [
         {
           "source_id": "youtube-h3UY4Jb2uJE",
@@ -2978,7 +3134,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/EHP7JnKBmuA/hqdefault.jpg",
       "guest_en_name": "Jin Haifeng",
       "guest_company": "Google",
-      "guest_title": "被谷歌收编的开源博士",
+      "guest_title": "AutoKeras作者，开源工程师",
       "introductions": [
         {
           "source_id": "youtube-GycQBpyazdw",
@@ -3019,7 +3175,7 @@
       "introductions": [
         {
           "source_id": "youtube-JyC1qluOzFw",
-          "text": "介绍德学理论体系，由四川大学教授格桑泽仁发明",
+          "text": "来讲得觉理论体系；这套体系由四川大学格桑泽仁教授创立",
           "quote": "大家好欢迎回到KETBALITZER 我们今天请来了怪人同学给我们讲一个 德学理论体系 这是个 就是由四川大学的教授格桑泽仁教授发明的一套 根据东方和中国文化产生的一个有趣的 了之我们自我内心的一个心理生命这样的一个体系",
           "locator": [
             "youtube-JyC1qluOzFw#cue-17",
@@ -3087,11 +3243,11 @@
       "thumbnail_url": "https://img.youtube.com/vi/lQPavb89kpk/hqdefault.jpg",
       "guest_en_name": "Daliana Liu",
       "guest_company": "",
-      "guest_title": "Content Creator",
+      "guest_title": "数据科学内容创作者，播客The Data Scientist Show主播",
       "introductions": [
         {
           "source_id": "youtube-lQPavb89kpk",
-          "text": "领英28.6万粉，主理播客The Daylight Scientist Show",
+          "text": "领英28.6万粉，做播客The Data Scientist Show",
           "quote": "你现在是linkedin上28.6万粉的网红 对然后你还做一个podcast 是叫the daylight scientist show",
           "locator": [
             "youtube-lQPavb89kpk#cue-15",
@@ -3119,7 +3275,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/xRbNOgT__5I/hqdefault.jpg",
       "guest_en_name": "Haolan Wang",
       "guest_company": "岚目",
-      "guest_title": "岚目公众号主笔, 美国政治爱好者",
+      "guest_title": "公众号主笔，美国政治爱好者",
       "introductions": [
         {
           "source_id": "youtube-Anu05u8WH-Y",
@@ -3215,11 +3371,11 @@
       "thumbnail_url": "https://img.youtube.com/vi/XqaLlZVoNFo/hqdefault.jpg",
       "guest_en_name": "Xu Hui",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "耶拿大学博士，研究机器人与劳动力替代",
       "introductions": [
         {
           "source_id": "youtube-_ADB74ws9MY",
-          "text": "燕南大学博士，研究机器人及机器人对劳动力替代",
+          "text": "耶拿大学博士，研究机器人及机器人对劳动力的替代",
           "quote": "今天我们来采访许教授 见笑 老师是燕南大学的博士 然后是研究机器人 以及机器人对劳动力替代的专家",
           "locator": [
             "youtube-_ADB74ws9MY#cue-12",
@@ -3298,8 +3454,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/GitJXKWpB6I/hqdefault.jpg",
       "guest_en_name": "Lu Wei",
-      "guest_company": "Amazon",
-      "guest_title": "Applied Scientist",
+      "guest_company": "",
+      "guest_title": "AI创业者，前亚马逊、Facebook应用科学家",
       "introductions": [
         {
           "source_id": "youtube-4LwKnM7GChE",
@@ -3487,7 +3643,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/1ZbVBnYHlKI/hqdefault.jpg",
       "guest_en_name": "He Dongyang",
       "guest_company": "卡电宝",
-      "guest_title": "前国企金融负责人，卡电宝创始人",
+      "guest_title": "创始人，前国企金融负责人",
       "introductions": [
         {
           "source_id": "youtube-1ZbVBnYHlKI",
@@ -3555,8 +3711,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/OZObmzuE9Ho/hqdefault.jpg",
       "guest_en_name": "liiisaishere",
-      "guest_company": "小红书",
-      "guest_title": "",
+      "guest_company": "",
+      "guest_title": "小红书博主",
       "introductions": [
         {
           "source_id": "youtube-OZObmzuE9Ho",
@@ -3587,7 +3743,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/uAIeLutRuYc/hqdefault.jpg",
       "guest_en_name": "Anna",
       "guest_company": "深圳酒池星座",
-      "guest_title": "",
+      "guest_title": "威士忌专家，人称「中国威士忌女皇」",
       "introductions": [
         {
           "source_id": "youtube-Mjcbb4wP49g",
@@ -3619,7 +3775,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/9YN6Sf6mcGk/hqdefault.jpg",
       "guest_en_name": "Sean",
       "guest_company": "牛油果烤面包",
-      "guest_title": "脱口秀演员 / 播客主理人"
+      "guest_title": "脱口秀演员 / 播客主播"
     },
     {
       "entity_id": "guest:yujian",
@@ -3668,7 +3824,22 @@
       "thumbnail_url": "https://img.youtube.com/vi/tx2sB8vrUEQ/hqdefault.jpg",
       "guest_en_name": "Clare",
       "guest_company": "",
-      "guest_title": "Programmer"
+      "guest_title": "产品经理",
+      "introductions": [
+        {
+          "source_id": "youtube-tx2sB8vrUEQ",
+          "text": "产品经理，和程序员丹丹一起聊程序员与产品经理的爱恨情仇",
+          "quote": "那我们今天就请到了程序员 丹丹 还有产品经理Clare 来跟大家聊一聊 程序员和产品经理的爱恨情仇",
+          "locator": [
+            "youtube-tx2sB8vrUEQ#cue-182",
+            "youtube-tx2sB8vrUEQ#cue-183",
+            "youtube-tx2sB8vrUEQ#cue-184",
+            "youtube-tx2sB8vrUEQ#cue-185",
+            "youtube-tx2sB8vrUEQ#cue-186"
+          ],
+          "start_seconds": 233
+        }
+      ]
     },
     {
       "entity_id": "guest:svtc",
@@ -3686,7 +3857,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/DP3N1YyGmG8/hqdefault.jpg",
       "guest_en_name": "SVTC",
       "guest_company": "",
-      "guest_title": "Data Scientist",
+      "guest_title": "讲座主办方，立正受邀在这里讲了两场",
       "members": []
     },
     {
@@ -3737,7 +3908,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/kc4sey7gFLQ/hqdefault.jpg",
       "guest_en_name": "Joe (Wenbo)",
       "guest_company": "",
-      "guest_title": "Latte Art & Pour-Over Champion",
+      "guest_title": "美国拉花与手冲冠军",
       "introductions": [
         {
           "source_id": "youtube-MU3BExM33jM",
@@ -3773,8 +3944,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/osZDEDx8fyE/hqdefault.jpg",
       "guest_en_name": "Wang Zhen & Nick",
-      "guest_company": "花生经济 (Huasheng Economy)",
-      "guest_title": "创始人 & 股东",
+      "guest_company": "花生经纪",
+      "guest_title": "模特经纪公司的老板和股东",
       "members": [
         {
           "name": "王臻",
@@ -3858,7 +4029,23 @@
       "thumbnail_url": "https://img.youtube.com/vi/Qp61G60wZZA/hqdefault.jpg",
       "guest_en_name": "Wu Jingchen",
       "guest_company": "亚马逊",
-      "guest_title": "算法科学家"
+      "guest_title": "算法科学家",
+      "introductions": [
+        {
+          "source_id": "youtube-Qp61G60wZZA",
+          "text": "来讲算法；在得到上开了一门算法课，已有一万多人购买",
+          "quote": "我们今天有幸请来的吴晶辰同学 来给我们讲算法 算法这个话题虽然听上去很高深 但是其实跟我们的生活是息息相关的 吴晶辰同学也在得到上了一门课 然后现在已经有1万多个人去买这门课了",
+          "locator": [
+            "youtube-Qp61G60wZZA#cue-15",
+            "youtube-Qp61G60wZZA#cue-16",
+            "youtube-Qp61G60wZZA#cue-17",
+            "youtube-Qp61G60wZZA#cue-18",
+            "youtube-Qp61G60wZZA#cue-19",
+            "youtube-Qp61G60wZZA#cue-20"
+          ],
+          "start_seconds": 36
+        }
+      ]
     },
     {
       "entity_id": "guest:ya-ge",
@@ -3876,8 +4063,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/pimbKzfM9DY/hqdefault.jpg",
       "guest_en_name": "Ya Ge",
-      "guest_company": "",
-      "guest_title": "Deep Learning专家"
+      "guest_company": "超线性学院",
+      "guest_title": "联合创始人，AI研究者"
     },
     {
       "entity_id": "guest:chef-miles",
@@ -3998,7 +4185,7 @@
       "introductions": [
         {
           "source_id": "youtube-LI66ZjrTH2o",
-          "text": "普义餐厅主厨",
+          "text": "璞意餐厅主厨",
           "quote": "今天我們來普義採訪Oscar Hello大家好,我是普義餐廳的主廚Oscar",
           "locator": [
             "youtube-LI66ZjrTH2o#cue-2",
@@ -4100,7 +4287,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/zbm1bWihx5E/hqdefault.jpg",
       "guest_en_name": "Zhao Zhichen",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "谷歌程序员，物理科普作者；密歇根大学高能物理博士",
       "introductions": [
         {
           "source_id": "youtube-zbm1bWihx5E",
@@ -4131,7 +4318,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/tX-Zq4VquLI/hqdefault.jpg",
       "guest_en_name": "Leo & Mandy",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "一起聊约会价值观的两位嘉宾",
       "members": [
         {
           "name": "Leo",
@@ -4159,7 +4346,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/KE6D3G48_uc/hqdefault.jpg",
       "guest_en_name": "Lou Yang",
       "guest_company": "光源资本",
-      "guest_title": "",
+      "guest_title": "FA（财务顾问），也做跟投",
       "introductions": [
         {
           "source_id": "youtube-KE6D3G48_uc",
@@ -4223,7 +4410,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/avzhELi1muU/hqdefault.jpg",
       "guest_en_name": "Deb Liu",
       "guest_company": "Ancestry",
-      "guest_title": "Ancestry CEO, Facebook VP (former)"
+      "guest_title": "CEO（2023年演讲时），曾任Facebook副总裁"
     },
     {
       "entity_id": "guest:gelsang-zeren",
@@ -4294,7 +4481,7 @@
       "introductions": [
         {
           "source_id": "youtube-v34hs70jnVY",
-          "text": "创办无人卡车公司",
+          "text": "在一家做无人卡车的创业公司工作",
           "quote": "介绍一下你的start up吧 本身是做无人卡车",
           "locator": [
             "youtube-v34hs70jnVY#cue-8",
@@ -4352,7 +4539,21 @@
       "thumbnail_url": "https://img.youtube.com/vi/Lt-lVe957hc/hqdefault.jpg",
       "guest_en_name": "Yangqing Jia",
       "guest_company": "Lepton AI",
-      "guest_title": "PyTorch 1.0共同负责人，Caffe/Caffe2作者，ONNX共同作者，Lepton AI创始人"
+      "guest_title": "创始人；PyTorch 1.0共同负责人，Caffe/Caffe2作者，ONNX共同作者",
+      "introductions": [
+        {
+          "source_id": "youtube-Lt-lVe957hc",
+          "text": "Lepton AI创始人兼CEO；曾任阿里巴巴副总裁、Facebook AI基础设施总监，创建了Caffe和ONNX",
+          "quote": "Howie has recently started a YouTube channel. It's called Byte Into Future. Make sure to subscribe now, and he will host some amazing entrepreneurs and do live streaming from the iconic New York New York Stock Exchange floor in just two weeks. So, Byte Into Future. Make sure to subscribe. Next, I'm pleased to introduce Yangqing, the founder and CEO of Lepton AI, one of the top-performing generative AI infrastructure service platforms. Remarkably, using Lattice infrastructure, Yangqing developed a large language model-based search engine with just 500 lines of code in less than a week. Which he then open sourced, and I want to add, and sparked sparked a debate with the CEO of Perplexity AI. A very friendly conversation. Friendly conversation. You can check the Twitter thread. Prior to Lepton Yangqing was a vice president at Alibaba and the director of AI infrastructure at Facebook. There, he created Caffe, Caffe2. Uh, Caffe2, Caffe was actually back in the grad school days, back at Berkeley, cross the, cross the bridge. Oh, nice. And ONNX, among other things, and he collabed the development of PyTorch, which has become the most popular machine learning framework.",
+          "locator": [
+            "youtube-Lt-lVe957hc#cue-29",
+            "youtube-Lt-lVe957hc#cue-30",
+            "youtube-Lt-lVe957hc#cue-31",
+            "youtube-Lt-lVe957hc#cue-32"
+          ],
+          "start_seconds": 549
+        }
+      ]
     },
     {
       "entity_id": "guest:kelly-xu",
@@ -4370,19 +4571,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/QcSbcHgh36I/hqdefault.jpg",
       "guest_en_name": "Kelly Xu",
       "guest_company": "Airbnb (former)",
-      "guest_title": "创业者，网红，前Airbnb数据科学家",
-      "introductions": [
-        {
-          "source_id": "youtube-QcSbcHgh36I",
-          "text": "康奈尔经济学博士，曾在亚马逊、Meta和腾讯工作",
-          "quote": "啊，现在课代表应该可以连麦了。刚才我竟然没有开这个功能。好，我们今天呢是呃，因为课代表呢，可能直播间有的小伙伴认识，有的小伙伴不认识。一会儿呢，请他啊，他进来以后呢，我们还会去做一个自我介绍啊。他之前呢是在美国硅谷这边工作啊，之前是在康奈尔大学读了经济学的博士。 经济学博士毕业以后呢，先是在亚马逊啊，在美国这边的亚马逊总部这边做呃数据科学相关的工作，然后到后面去了Facebook啊Meta，然后呢再后面呢回到了腾回国啊，在腾讯做了一段时间，然后现在呢又回到了美国。那今天我们就来聊聊啊这个关于人生选择呀、职业发展啊，包括啊中美差异啊啊这个中美差异啊。",
-          "locator": [
-            "corpus/videos/20230731-QcSbcHgh36I.md@124",
-            "corpus/videos/20230731-QcSbcHgh36I.md@144"
-          ],
-          "start_seconds": 124
-        }
-      ]
+      "guest_title": "创业者，网红，前Airbnb数据科学家"
     },
     {
       "entity_id": "guest:sam-zhang",
@@ -4454,25 +4643,28 @@
       "thumbnail_url": "https://img.youtube.com/vi/99-5ptPiHJ0/hqdefault.jpg",
       "linkedin_url": "https://www.linkedin.com/in/weimanfredi/",
       "guest_en_name": "Wei Manfredi",
-      "guest_company": "IHG Hotels & Resorts",
-      "guest_title": "Senior Vice President, AI and Architecture",
+      "guest_company": "洲际酒店集团（IHG）",
+      "guest_title": "AI与架构高级副总裁",
       "introductions": [
         {
           "source_id": "youtube-99-5ptPiHJ0",
-          "text": "90年代来美读亚洲研究博士，后转计算机科学",
-          "quote": "大家好我是魏慧 我的英文名字是 Wei Manfredi 我是90年代的时候来美国的 在这儿学习 早年是来读 PhD Asian Studies 嗯哼 文科的 后来转到 CS 然后就待下来了",
+          "text": "IHG（全球第三大酒店集团）AI、架构、数据与企业系统高级副总裁；此前任麦当劳AI副总裁、Google零售云首席架构师",
+          "quote": "魏慧学姐是在 Google 那个 title 具体是什么 title 叫 Chief Architect for Retail Cloud 对 Vertical Cloud Chief Architect 之后在麦当劳就是 VP of AI and Data 然后现在在 IHG 全球最大的 第三大的 hotel hotel group 去做 SVP of AI and ...data AI Architecture Data and Corporate Systems",
           "locator": [
-            "youtube-99-5ptPiHJ0#cue-56",
-            "youtube-99-5ptPiHJ0#cue-57",
-            "youtube-99-5ptPiHJ0#cue-58",
-            "youtube-99-5ptPiHJ0#cue-59",
-            "youtube-99-5ptPiHJ0#cue-60",
-            "youtube-99-5ptPiHJ0#cue-61",
-            "youtube-99-5ptPiHJ0#cue-62",
-            "youtube-99-5ptPiHJ0#cue-63",
-            "youtube-99-5ptPiHJ0#cue-64"
+            "youtube-99-5ptPiHJ0#cue-523",
+            "youtube-99-5ptPiHJ0#cue-524",
+            "youtube-99-5ptPiHJ0#cue-525",
+            "youtube-99-5ptPiHJ0#cue-526",
+            "youtube-99-5ptPiHJ0#cue-527",
+            "youtube-99-5ptPiHJ0#cue-528",
+            "youtube-99-5ptPiHJ0#cue-529",
+            "youtube-99-5ptPiHJ0#cue-530",
+            "youtube-99-5ptPiHJ0#cue-531",
+            "youtube-99-5ptPiHJ0#cue-532",
+            "youtube-99-5ptPiHJ0#cue-533",
+            "youtube-99-5ptPiHJ0#cue-534"
           ],
-          "start_seconds": 86
+          "start_seconds": 865
         }
       ]
     },
@@ -4512,7 +4704,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/VSX1wxueZPU/hqdefault.jpg",
       "guest_en_name": "Wang Lu",
       "guest_company": "",
-      "guest_title": "Scholar and author; instructor of 《金刚经50讲》",
+      "guest_title": "学者、作者，《金刚经50讲》主讲",
       "introductions": [
         {
           "source_id": "youtube-VSX1wxueZPU",
@@ -4553,13 +4745,23 @@
       "introductions": [
         {
           "source_id": "youtube-BR3hN7InkmY",
-          "text": "香港大学机器学习和数据库博士，曾在Twitter做机器学习工程师",
-          "quote": "我首先背景是之前 香港大学读的机器学习和数据库的博士 然后后来来美国 在Twitter做了机器学习工程师",
+          "text": "做求职产品Jobright；香港大学机器学习与数据库博士，来美后在Twitter做机器学习工程师",
+          "quote": "我首先背景是之前 香港大学读的机器学习和数据库的博士 然后后来来美国 在Twitter做了机器学习工程师 因为我从小就喜欢创业嘛 所以大概在三年前看到了ChatGPT和大模型出现 我觉得是一个巨大的机会 包括我之前求职 作为国际的一个求职者 从中国来到美国 一直发现很困难 而且我觉得美国求职市场一直缺 一个比较好用的高效的个性化产品 所以我们做了Jobright",
           "locator": [
             "youtube-BR3hN7InkmY#cue-15",
             "youtube-BR3hN7InkmY#cue-16",
             "youtube-BR3hN7InkmY#cue-17",
-            "youtube-BR3hN7InkmY#cue-18"
+            "youtube-BR3hN7InkmY#cue-18",
+            "youtube-BR3hN7InkmY#cue-19",
+            "youtube-BR3hN7InkmY#cue-20",
+            "youtube-BR3hN7InkmY#cue-21",
+            "youtube-BR3hN7InkmY#cue-22",
+            "youtube-BR3hN7InkmY#cue-23",
+            "youtube-BR3hN7InkmY#cue-24",
+            "youtube-BR3hN7InkmY#cue-25",
+            "youtube-BR3hN7InkmY#cue-26",
+            "youtube-BR3hN7InkmY#cue-27",
+            "youtube-BR3hN7InkmY#cue-28"
           ],
           "start_seconds": 95
         }
@@ -4616,7 +4818,27 @@
       "thumbnail_url": "https://img.youtube.com/vi/gsK1UTt0Qiw/hqdefault.jpg",
       "guest_en_name": "Jove Zhong",
       "guest_company": "Cresta",
-      "guest_title": "Head of Forward Deployed Engineering"
+      "guest_title": "Head of Forward Deployed Engineering",
+      "introductions": [
+        {
+          "source_id": "youtube-gsK1UTt0Qiw",
+          "text": "在AI公司Cresta做FDE半年多，人在温哥华；此前创业四五年做数据库，更早在Splunk、EMC做过管理和IC",
+          "quote": "大家好我是 Jove 我人在温哥华 最近这半年多呢 是在一家 AI 公司 Cresta 做 FDE 这也是今天要聊的话题 在这之前 我有自己创业有四五年做数据库 然后再往前是像 Splunk 啊 EMC 这些所谓的大厂 做过管理做过 IC",
+          "locator": [
+            "youtube-gsK1UTt0Qiw#cue-3",
+            "youtube-gsK1UTt0Qiw#cue-4",
+            "youtube-gsK1UTt0Qiw#cue-5",
+            "youtube-gsK1UTt0Qiw#cue-6",
+            "youtube-gsK1UTt0Qiw#cue-7",
+            "youtube-gsK1UTt0Qiw#cue-8",
+            "youtube-gsK1UTt0Qiw#cue-9",
+            "youtube-gsK1UTt0Qiw#cue-10",
+            "youtube-gsK1UTt0Qiw#cue-11",
+            "youtube-gsK1UTt0Qiw#cue-12"
+          ],
+          "start_seconds": 62
+        }
+      ]
     },
     {
       "entity_id": "guest:tech-roast-show",
@@ -4635,7 +4857,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/XoyE0eQZYh0/hqdefault.jpg",
       "guest_en_name": "Tech Roast Show",
       "guest_company": "The Tech Roast Show",
-      "guest_title": "Comedians and co-creators",
+      "guest_title": "喜剧演员，节目的三位创始人",
       "members": [
         {
           "name": "Austin"
@@ -4680,7 +4902,32 @@
       "thumbnail_url": "https://img.youtube.com/vi/HTxtDxEo3kQ/hqdefault.jpg",
       "guest_en_name": "Zero Liu",
       "guest_company": "",
-      "guest_title": "AI entrepreneur; former Google engineer"
+      "guest_title": "AI创业者，前Google工程师",
+      "introductions": [
+        {
+          "source_id": "youtube-HTxtDxEo3kQ",
+          "text": "真名刘希元，从业十多年的软件工程师，做Web方向；最早在游戏公司GREE做社交游戏",
+          "quote": "那我先自我介绍一下 我真名叫刘希元 希望的希 元旦的元 一般大家都叫我 Zero （中文）名字里有拼音 有 x、n、y 一般美国人他 pronounce 不出来 我从业大概十多年 我一直是 software engineer 是做 Web 方向的 IC 我最开始是在一家游戏公司 叫 GREE 在公司里做 social game 然后我自己也很喜欢做游戏 我会自己做一些 Indie game 有在 iOS 上发过自己的 game",
+          "locator": [
+            "youtube-HTxtDxEo3kQ#cue-50",
+            "youtube-HTxtDxEo3kQ#cue-51",
+            "youtube-HTxtDxEo3kQ#cue-52",
+            "youtube-HTxtDxEo3kQ#cue-53",
+            "youtube-HTxtDxEo3kQ#cue-54",
+            "youtube-HTxtDxEo3kQ#cue-55",
+            "youtube-HTxtDxEo3kQ#cue-56",
+            "youtube-HTxtDxEo3kQ#cue-57",
+            "youtube-HTxtDxEo3kQ#cue-58",
+            "youtube-HTxtDxEo3kQ#cue-59",
+            "youtube-HTxtDxEo3kQ#cue-60",
+            "youtube-HTxtDxEo3kQ#cue-61",
+            "youtube-HTxtDxEo3kQ#cue-62",
+            "youtube-HTxtDxEo3kQ#cue-63",
+            "youtube-HTxtDxEo3kQ#cue-64"
+          ],
+          "start_seconds": 67
+        }
+      ]
     },
     {
       "entity_id": "guest:haoyang-zhang",
@@ -4734,7 +4981,29 @@
       "thumbnail_url": "https://img.youtube.com/vi/HCskdzFfl9k/hqdefault.jpg",
       "guest_en_name": "Wu Kan",
       "guest_company": "OpenAI",
-      "guest_title": "ChatGPT Growth (at time of interview)"
+      "guest_title": "ChatGPT Growth (at time of interview)",
+      "introductions": [
+        {
+          "source_id": "youtube-HCskdzFfl9k",
+          "text": "在OpenAI做ChatGPT增长，加入约一年；此前在CloudKitchens四年、Uber五年半，也做增长",
+          "quote": "我叫Wu Kan嘛 现在在OpenAI做ChatGPT的growth 加入公司差不多一年了 其实OpenAI是我加入的时候 我加入过最大的startup 上一份工作我在CloudKitchens待了4年 这4年中 有两年半的时间是在中国工作的 那在CloudKitchens之前 我在Uber待了五年半 那时候的Uber还是一个startup的状态 在Uber时候也在做的是growth",
+          "locator": [
+            "youtube-HCskdzFfl9k#cue-31",
+            "youtube-HCskdzFfl9k#cue-32",
+            "youtube-HCskdzFfl9k#cue-33",
+            "youtube-HCskdzFfl9k#cue-34",
+            "youtube-HCskdzFfl9k#cue-35",
+            "youtube-HCskdzFfl9k#cue-36",
+            "youtube-HCskdzFfl9k#cue-37",
+            "youtube-HCskdzFfl9k#cue-38",
+            "youtube-HCskdzFfl9k#cue-39",
+            "youtube-HCskdzFfl9k#cue-40",
+            "youtube-HCskdzFfl9k#cue-41",
+            "youtube-HCskdzFfl9k#cue-42"
+          ],
+          "start_seconds": 43
+        }
+      ]
     },
     {
       "entity_id": "guest:qinqin",
@@ -4753,7 +5022,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/ynWeoYWUT_0/hqdefault.jpg",
       "guest_en_name": "Qinqin",
       "guest_company": "",
-      "guest_title": "Individual entrepreneurship coach"
+      "guest_title": "个人创业教练"
     },
     {
       "entity_id": "guest:lumitails",
@@ -4772,7 +5041,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/ll-X6xP-t8Y/hqdefault.jpg",
       "guest_en_name": "Vera & Lili",
       "guest_company": "Lumitails（光尾物语）",
-      "guest_title": "Pet community creators",
+      "guest_title": "宠物社区创作者",
       "members": [
         {
           "name": "Vera"
@@ -4815,7 +5084,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/W4vEix8Ty40/hqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": "Content creator"
+      "guest_title": "内容创作者，小红书博主"
     },
     {
       "entity_id": "guest:jinjing-liang",
@@ -4874,7 +5143,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/5dq3XxmjTBc/mqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "商科转码，刚入职Google",
       "introductions": [
         {
           "source_id": "youtube-5dq3XxmjTBc",
@@ -4910,7 +5179,33 @@
       "thumbnail_url": "https://img.youtube.com/vi/9pjBWDCHYuA/mqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": ""
+      "guest_title": "比特币早期投资人，曾运营内蒙古第一大矿场，人称宝二爷",
+      "introductions": [
+        {
+          "source_id": "youtube-gwPfRhi4lzo",
+          "text": "2013年去北京，开始买比特币，后来运营过内蒙古第一大矿场",
+          "quote": "就是接这个洋洋访谈 然后跟比特币的这些人对币圈的了解 这个我觉得是说的很清楚的 但是后面就突然运营了内蒙古第一大矿场 这个我就不知道是怎么发生的了 在这里面也有故事 确实没什么人知道 可以跟你聊聊 能讲吗能讲吗 能讲能讲 那我们先从这个故事讲吧直接来 当时候的情况是这样的 我们是13年去的北京 觉得比特币不错 然后就买了一些比特币 比特币暴涨到了500多买的",
+          "locator": [
+            "youtube-gwPfRhi4lzo#cue-73",
+            "youtube-gwPfRhi4lzo#cue-74",
+            "youtube-gwPfRhi4lzo#cue-75",
+            "youtube-gwPfRhi4lzo#cue-76",
+            "youtube-gwPfRhi4lzo#cue-77",
+            "youtube-gwPfRhi4lzo#cue-78",
+            "youtube-gwPfRhi4lzo#cue-79",
+            "youtube-gwPfRhi4lzo#cue-80",
+            "youtube-gwPfRhi4lzo#cue-81",
+            "youtube-gwPfRhi4lzo#cue-82",
+            "youtube-gwPfRhi4lzo#cue-83",
+            "youtube-gwPfRhi4lzo#cue-84",
+            "youtube-gwPfRhi4lzo#cue-85",
+            "youtube-gwPfRhi4lzo#cue-86",
+            "youtube-gwPfRhi4lzo#cue-87",
+            "youtube-gwPfRhi4lzo#cue-88"
+          ],
+          "start_seconds": 165
+        }
+      ]
     },
     {
       "entity_id": "guest:esther-restaurant",
@@ -4928,7 +5223,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/67HgPNSeemE/mqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "西雅图一家中餐厅的市场经理",
       "introductions": [
         {
           "source_id": "youtube-67HgPNSeemE",
@@ -4961,7 +5256,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/SqnAN2nx0qc/mqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": ""
+      "guest_title": "品酒课讲师"
     },
     {
       "entity_id": "guest:freya-self-introduction",
@@ -4979,7 +5274,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/JZCoScCpxL0/mqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "Meta数据科学家",
       "introductions": [
         {
           "source_id": "youtube-JZCoScCpxL0",
@@ -5010,8 +5305,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/Lt-lVe957hc/mqdefault.jpg",
       "guest_en_name": "",
-      "guest_company": "",
-      "guest_title": "",
+      "guest_company": "Martian",
+      "guest_title": "创始工程师",
       "introductions": [
         {
           "source_id": "youtube-Lt-lVe957hc",
@@ -5041,7 +5336,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/67HgPNSeemE/mqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "餐饮业新人，新开了一家餐厅",
       "introductions": [
         {
           "source_id": "youtube-67HgPNSeemE",
@@ -5080,7 +5375,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/5dq3XxmjTBc/mqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "CS本科毕业，Meta工程师",
       "introductions": [
         {
           "source_id": "youtube-5dq3XxmjTBc",
@@ -5116,8 +5411,26 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/mtfNvuOPXiU/mqdefault.jpg",
       "guest_en_name": "",
-      "guest_company": "",
-      "guest_title": ""
+      "guest_company": "The Union Trading Company",
+      "guest_title": "首席调酒师",
+      "introductions": [
+        {
+          "source_id": "youtube-mtfNvuOPXiU",
+          "text": "上海酒吧The Union Trading Company的首席调酒师；这家酒吧进过全世界和全亚洲前50名",
+          "quote": "今天是The Union Trading Company 从上海来到深圳做一个pop-up 我觉得有机会采访他们的首席特征是Leo The Union Trading Company在上海是一个很有名的酒吧 它应该是被评为全世界还是全亚洲前50名的酒吧 你们是全世界还是全亚洲的前50名酒吧 都有 全世界前50名的酒吧",
+          "locator": [
+            "youtube-mtfNvuOPXiU#cue-4",
+            "youtube-mtfNvuOPXiU#cue-5",
+            "youtube-mtfNvuOPXiU#cue-6",
+            "youtube-mtfNvuOPXiU#cue-7",
+            "youtube-mtfNvuOPXiU#cue-8",
+            "youtube-mtfNvuOPXiU#cue-9",
+            "youtube-mtfNvuOPXiU#cue-10",
+            "youtube-mtfNvuOPXiU#cue-11"
+          ],
+          "start_seconds": 3
+        }
+      ]
     },
     {
       "entity_id": "guest:monica-rockhood",
@@ -5136,7 +5449,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/4LwKnM7GChE/mqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "西雅图房产经纪人",
       "introductions": [
         {
           "source_id": "youtube-4LwKnM7GChE",
@@ -5170,7 +5483,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/OXJj2DqAtcc/mqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "亚马逊员工，户外爱好者",
       "introductions": [
         {
           "source_id": "youtube-OXJj2DqAtcc",
@@ -5200,7 +5513,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/dmUTGbe6d00/mqdefault.jpg",
       "guest_en_name": "",
       "guest_company": "",
-      "guest_title": ""
+      "guest_title": "虚拟偶像"
     },
     {
       "entity_id": "guest:zhongjie-jay-wu",
@@ -5217,8 +5530,8 @@
       "community_resources": [],
       "thumbnail_url": "https://img.youtube.com/vi/Lt-lVe957hc/mqdefault.jpg",
       "guest_en_name": "",
-      "guest_company": "",
-      "guest_title": "",
+      "guest_company": "Opus Clip",
+      "guest_title": "联合创始人兼CTO",
       "introductions": [
         {
           "source_id": "youtube-Lt-lVe957hc",
@@ -5249,7 +5562,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/bcWYOkDa66k/mqdefault.jpg",
       "guest_en_name": "Leo",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "讲个人魅力与约会的内容创作者，频道@charisma-Leo",
       "community_resources": []
     },
     {
@@ -5268,7 +5581,7 @@
       "thumbnail_url": "https://img.youtube.com/vi/x5KCgpWHxsc/mqdefault.jpg",
       "guest_en_name": "Mandy",
       "guest_company": "",
-      "guest_title": "",
+      "guest_title": "约会与两性关系话题的嘉宾",
       "community_resources": []
     },
     {
@@ -5323,7 +5636,26 @@
       ],
       "primary_source_id": "youtube-ur-HjD422ig",
       "community_resources": [],
-      "thumbnail_url": "https://img.youtube.com/vi/ur-HjD422ig/hqdefault.jpg"
+      "thumbnail_url": "https://img.youtube.com/vi/ur-HjD422ig/hqdefault.jpg",
+      "introductions": [
+        {
+          "source_id": "youtube-ur-HjD422ig",
+          "text": "创业做播客，公司有几位员工；此前在创业公司管过几十人的团队",
+          "quote": "因为这的确是我创业以来 就是感触比较深的一些地方 创业前的我和开始创业自己做播客 哪怕现在只是个小公司吧 就几个员工 和以前在创业公司管几十个人团队 还是会有很大的区别",
+          "locator": [
+            "youtube-ur-HjD422ig#cue-7",
+            "youtube-ur-HjD422ig#cue-8",
+            "youtube-ur-HjD422ig#cue-9",
+            "youtube-ur-HjD422ig#cue-10",
+            "youtube-ur-HjD422ig#cue-11",
+            "youtube-ur-HjD422ig#cue-12",
+            "youtube-ur-HjD422ig#cue-13"
+          ],
+          "start_seconds": 75
+        }
+      ],
+      "guest_company": "听懂涨声",
+      "guest_title": "财经播客主播，做过电台主持人和电视导演"
     },
     {
       "entity_id": "guest:chun-xia",
@@ -5339,7 +5671,29 @@
       ],
       "primary_source_id": "youtube-gQzvscl6Y2I",
       "community_resources": [],
-      "thumbnail_url": "https://img.youtube.com/vi/gQzvscl6Y2I/hqdefault.jpg"
+      "thumbnail_url": "https://img.youtube.com/vi/gQzvscl6Y2I/hqdefault.jpg",
+      "introductions": [
+        {
+          "source_id": "youtube-gQzvscl6Y2I",
+          "text": "清华毕业，UIUC计算机博士；在硅谷先创业、后做投资，如今自称技术人类学家",
+          "quote": "我叫夏淳 我是清华毕业的 然后后来在UIUC(伊利诺伊大学)呢读了 一个计算机的博士 比较有意思的当然就是说在硅谷 作为一个创业者 一开始创业 然后后来又去做投资 现在呢我的身份转换呢 就逐渐的 最开始自封为一个技术人类学家",
+          "locator": [
+            "youtube-gQzvscl6Y2I#cue-57",
+            "youtube-gQzvscl6Y2I#cue-58",
+            "youtube-gQzvscl6Y2I#cue-59",
+            "youtube-gQzvscl6Y2I#cue-60",
+            "youtube-gQzvscl6Y2I#cue-61",
+            "youtube-gQzvscl6Y2I#cue-62",
+            "youtube-gQzvscl6Y2I#cue-63",
+            "youtube-gQzvscl6Y2I#cue-64",
+            "youtube-gQzvscl6Y2I#cue-65",
+            "youtube-gQzvscl6Y2I#cue-66",
+            "youtube-gQzvscl6Y2I#cue-67"
+          ],
+          "start_seconds": 64
+        }
+      ],
+      "guest_title": "硅谷早期投资人，2010年办早期基金，2011年投了当时只有三个人的Zoom"
     },
     {
       "entity_id": "guest:marco-casalaina",
@@ -5355,7 +5709,22 @@
       ],
       "primary_source_id": "youtube-KpQwWNkyEsQ",
       "community_resources": [],
-      "thumbnail_url": "https://img.youtube.com/vi/KpQwWNkyEsQ/hqdefault.jpg"
+      "thumbnail_url": "https://img.youtube.com/vi/KpQwWNkyEsQ/hqdefault.jpg",
+      "introductions": [
+        {
+          "source_id": "youtube-KpQwWNkyEsQ",
+          "text": "在微软带团队最先试用新的AI技术，判断它们能怎样服务客户",
+          "quote": "我和团队通常是最先试用微软新技术的人， So my job really is me and my team, we're the first people to try anything 也会尝试全球其他地方的新东西。 new at Microsoft generally, although also in the rest of the world as well. 我们会实际试用，判断这些技术能怎样服务客户。 And so we really try these things and determine how they're gonna apply to our customers.",
+          "locator": [
+            "youtube-KpQwWNkyEsQ#cue-15",
+            "youtube-KpQwWNkyEsQ#cue-16",
+            "youtube-KpQwWNkyEsQ#cue-17"
+          ],
+          "start_seconds": 40
+        }
+      ],
+      "guest_company": "Microsoft",
+      "guest_title": "CoreAI产品副总裁、AI Futurist"
     },
     {
       "entity_id": "guest:changxi-zheng",
@@ -5371,7 +5740,39 @@
       ],
       "primary_source_id": "youtube-y6kRa1vGAwA",
       "community_resources": [],
-      "thumbnail_url": "https://img.youtube.com/vi/y6kRa1vGAwA/hqdefault.jpg"
+      "thumbnail_url": "https://img.youtube.com/vi/y6kRa1vGAwA/hqdefault.jpg",
+      "introductions": [
+        {
+          "source_id": "youtube-y6kRa1vGAwA",
+          "text": "最近加入李飞飞的World Labs；此前在哥大，休学术假时在腾讯做杰出科学家",
+          "quote": "恭喜最近加入李飞飞的World Labs啦 我们现在正在这一代AI的发展的高峰 然后李飞飞呢 又非常专注于去做下一代的AI是吧 做这个具身智能 世界模型 然后在这个时候去 加入这样一家公司 又是我们最耳熟能详 的这个华人AI大佬 就非常激动人心 谢谢谢谢 我们也挺excited(兴奋) 从一个小船换到一个大船了 但其实你上过大船的对吧 咱们第一次认识的时候 或者说是这个接触 当时就是你在哥大 take a sabbatical(去休学术假)对吧 然后在腾讯做杰出科学家",
+          "locator": [
+            "youtube-y6kRa1vGAwA#cue-2",
+            "youtube-y6kRa1vGAwA#cue-3",
+            "youtube-y6kRa1vGAwA#cue-4",
+            "youtube-y6kRa1vGAwA#cue-5",
+            "youtube-y6kRa1vGAwA#cue-6",
+            "youtube-y6kRa1vGAwA#cue-7",
+            "youtube-y6kRa1vGAwA#cue-8",
+            "youtube-y6kRa1vGAwA#cue-9",
+            "youtube-y6kRa1vGAwA#cue-10",
+            "youtube-y6kRa1vGAwA#cue-11",
+            "youtube-y6kRa1vGAwA#cue-12",
+            "youtube-y6kRa1vGAwA#cue-13",
+            "youtube-y6kRa1vGAwA#cue-14",
+            "youtube-y6kRa1vGAwA#cue-15",
+            "youtube-y6kRa1vGAwA#cue-16",
+            "youtube-y6kRa1vGAwA#cue-17",
+            "youtube-y6kRa1vGAwA#cue-18",
+            "youtube-y6kRa1vGAwA#cue-19",
+            "youtube-y6kRa1vGAwA#cue-20",
+            "youtube-y6kRa1vGAwA#cue-21"
+          ],
+          "start_seconds": 52
+        }
+      ],
+      "guest_company": "World Labs",
+      "guest_title": "哥伦比亚大学计算机科学教授、SceniX联合创始人"
     },
     {
       "entity_id": "guest:gene-tabach",
@@ -5386,7 +5787,24 @@
       ],
       "primary_source_id": "youtube-hckVR-Aa-vs",
       "community_resources": [],
-      "thumbnail_url": "https://img.youtube.com/vi/hckVR-Aa-vs/hqdefault.jpg"
+      "thumbnail_url": "https://img.youtube.com/vi/hckVR-Aa-vs/hqdefault.jpg",
+      "introductions": [
+        {
+          "source_id": "youtube-hckVR-Aa-vs",
+          "text": "曾任Facebook生态数据科学负责人，后在Instacart带60人的数据科学团队",
+          "quote": "this role, I have two brilliant guests. Kim, who was the head of ecosystem data scientist at Facebook. Then he led a 60-person data scientist org at Instacart, the class growth and ads. Now he's the head of data at Growth Therapy.",
+          "locator": [
+            "youtube-hckVR-Aa-vs#cue-18",
+            "youtube-hckVR-Aa-vs#cue-19",
+            "youtube-hckVR-Aa-vs#cue-20",
+            "youtube-hckVR-Aa-vs#cue-21",
+            "youtube-hckVR-Aa-vs#cue-22",
+            "youtube-hckVR-Aa-vs#cue-23"
+          ],
+          "start_seconds": 37
+        }
+      ],
+      "guest_title": "前Facebook生态数据科学负责人，曾在Instacart带60人数据科学团队"
     }
   ],
   "sources": [
