@@ -89,6 +89,25 @@ def prepare(info, caption_raw, root=ROOT, *, automatic=False, language="zh"):
     return data, row
 
 
+def retain_description(info, verified_at, root=ROOT):
+    """Keep the publisher's description with the programme's catalog source, as verified with the video.
+
+    A new guest's profile line is filled from it (guest_profiles.py), so it is kept when the captions
+    are admitted rather than left to memory. A description already on file is not replaced."""
+    text = (info.get("description") or "").strip()
+    if not text or len(text) > 20000:
+        return False
+    path = root / "catalog/guests.json"
+    catalog = json.loads(path.read_text(encoding="utf-8"))
+    source = next(s for s in catalog["sources"] if s["source_id"] == f"youtube-{info['id']}")
+    if source.get("description"):
+        return False
+    source["description"] = text
+    source["metadata_verified_at"] = verified_at
+    path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return True
+
+
 def encode(data):
     return (json.dumps(data, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode()
 
@@ -101,7 +120,9 @@ def main():
     parser.add_argument("--automatic", action="store_true")
     parser.add_argument("--language", choices=("zh", "en", "mixed"), default="zh")
     args = parser.parse_args()
-    data, row = prepare(json.loads(args.info.read_text()), args.captions.read_bytes(), automatic=args.automatic, language=args.language)
+    info = json.loads(args.info.read_text())
+    data, row = prepare(info, args.captions.read_bytes(), automatic=args.automatic, language=args.language)
+    kept = False
     path = ROOT / row["corpus_path"]
     policy_path = ROOT / "config/public-dialogue-policy.json"
     policy = json.loads(policy_path.read_text())
@@ -117,7 +138,9 @@ def main():
         snapshot["snapshot_at"] = max(snapshot["snapshot_at"], date)
         snapshot["source_snapshots"]["public_dialogues"] = max(snapshot["source_snapshots"]["public_dialogues"], date)
         snapshot_path.write_bytes(encode(snapshot))
-    print(json.dumps({"write": args.write, "path": row["corpus_path"], "cues": len(data["units"]), "sha256": row["sha256"]}))
+        kept = retain_description(info, row["anonymous_evidence"]["verified_at"])
+    print(json.dumps({"write": args.write, "path": row["corpus_path"], "cues": len(data["units"]), "sha256": row["sha256"],
+                      "description_kept": kept}))
 
 
 if __name__ == "__main__":

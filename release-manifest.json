@@ -114,8 +114,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 24205,
-      "sha256": "dc268b356960f3db5332ce1acdcf7ec0dca29068e062eb69038219ff1be3c716",
+      "bytes": 24523,
+      "sha256": "2cc83b4fe4f93ea98ef4eb2604c8cccf277d271ea94d3b108bc5843990165310",
       "license": "MIT"
     },
     {
@@ -10254,8 +10254,8 @@
     },
     {
       "path": "docs/dialogue-ingestion.md",
-      "bytes": 8773,
-      "sha256": "b6b1d81807c42250d9aade5b9e3dc80421fed6db170b8ae8b985d8676bfa4c36",
+      "bytes": 9160,
+      "sha256": "b77478cd6d10d801f1cfbc0464815a0968256aa45afde87dae2c8d762ca9b566",
       "license": "MIT"
     },
     {
@@ -10398,8 +10398,8 @@
     },
     {
       "path": "scripts/guest_profiles.py",
-      "bytes": 12405,
-      "sha256": "e1e79c9a8879b287a4ef17893c03709611707f92b917a7efdfaef2b5216aa228",
+      "bytes": 12819,
+      "sha256": "77518d9272a9dce93477aafc7b9cc83d0751228747ddc2ff86dfeaf985622c55",
       "license": "MIT"
     },
     {
@@ -10434,8 +10434,8 @@
     },
     {
       "path": "scripts/ingest_published_captions.py",
-      "bytes": 6533,
-      "sha256": "a0c189dd7d3277a6bc6bb4f6ff9512dcc3e48be1f2a6e2de93b322b17000fbc2",
+      "bytes": 7607,
+      "sha256": "a6ed09ae93aa552826a95edfe7b5c9592535e7a8693bb2aa6aee74525bfb8a46",
       "license": "MIT"
     },
     {
@@ -10560,8 +10560,8 @@
     },
     {
       "path": "tests/test_guest_profiles.py",
-      "bytes": 6620,
-      "sha256": "fa44b36f3a2fd1b10e2047849e10f6c109b2ede0e955dd209227b73e5a6a535b",
+      "bytes": 8146,
+      "sha256": "047d8dc295a67324e0f733565085fc6f4bae9c3a7c65bda231a4d5d43a6d0afc",
       "license": "MIT"
     },
     {
@@ -10608,8 +10608,8 @@
     },
     {
       "path": "tests/test_published_captions.py",
-      "bytes": 2645,
-      "sha256": "c70c0547a5caab1417b9aa6c0d969003da943d087d31dc8ae601ad9588a22b04",
+      "bytes": 3705,
+      "sha256": "58cfd28e2f016389f2ae59fff21e946795e67aa345177a96bfe671016a892ff0",
       "license": "MIT"
     },
     {

@@ -39,6 +39,17 @@ class PublishedCaptionTests(unittest.TestCase):
             with self.subTest(field=field), self.assertRaises(ValueError):
                 ingest.prepare(self.info | {field:value},self.raw,self.root)
 
+    def test_the_published_description_is_kept_with_the_programme_once(self):
+        info = self.info | {"description": "这期聊了假工作。\n\n嘉宾：Synthetic Guest，某公司创始人\n"}
+        self.assertTrue(ingest.retain_description(info, "2026-11-10T00:00:00+00:00", self.root))
+        source = json.loads((self.root / "catalog/guests.json").read_text())["sources"][0]
+        self.assertEqual(source["description"], "这期聊了假工作。\n\n嘉宾：Synthetic Guest，某公司创始人")
+        self.assertEqual(source["metadata_verified_at"], "2026-11-10T00:00:00+00:00")
+        # A description on file is not replaced, and a video without one changes nothing.
+        self.assertFalse(ingest.retain_description(info | {"description": "另一段"}, "2026-11-11T00:00:00+00:00", self.root))
+        self.assertEqual(json.loads((self.root / "catalog/guests.json").read_text())["sources"][0]["description"], source["description"])
+        self.assertFalse(ingest.retain_description(self.info, "2026-11-11T00:00:00+00:00", self.root))
+
     def test_rolling_asr_drops_repeated_history_but_keeps_new_words(self):
         text = ('WEBVTT\n\n00:00:01.000 --> 00:00:02.000\nOld words\nNew<00:00:01.500><c> words</c>\n\n'
                 '00:00:02.000 --> 00:00:02.010\nNew words\n')

@@ -143,6 +143,8 @@ def identity(text: str) -> str:
     text = ASCII_GLOSS.sub("", text).strip()
     if not 4 <= len(text) <= 80 or "http" in text or " @ " in text or re.match(r"\d{1,2}:\d{2}", text) or re.search(r"[：:]", text):
         return ""
+    if text.startswith(("不怕AI天天变", "免费加入", "章节")):  # the lines every description carries
+        return ""
     return text
 
 
@@ -174,11 +176,15 @@ def stated_profiles(description: str, participants: dict[str, list[str]]) -> dic
         if guest_line:
             rest = guest_line.group(1).strip()
             name_text, _, stated = rest.partition("，")
+            glossed = bool(ASCII_GLOSS.search(name_text))
             entity = who(ASCII_GLOSS.sub("", name_text).strip() or name_text)
             if not entity:
                 continue
-            following = next((x for x in lines[index + 1:] if x), "")
-            value = identity(stated) or identity(following)
+            value = identity(stated)
+            if not value and glossed and index + 1 < len(lines):
+                # The second form only: the very next line. A bare 嘉宾：姓名 states no identity, and
+                # whatever follows it (another guest, the channel's standing lines) is not one.
+                value = identity(lines[index + 1])
             if value:
                 out.setdefault(entity, value)
             continue

@@ -35,11 +35,27 @@ class StatedProfiles(unittest.TestCase):
         # The block the channel generated from the catalog once gave this Lulu another Lulu's title.
         generated = "────\n嘉宾 / Guest：Lulu\n珠宝商 @ 水贝珠宝世家\n更多嘉宾访谈：https://www.lizheng.ai/guests"
         self.assertEqual(g.stated_profiles(generated, cast), {})
+        # 嘉宾：姓名 alone states no identity: the lines after it are not read as one, with or without a blank line.
+        footer = "不怕AI天天变，就来超线性学院。学点真本事，做点真东西。\n免费加入：https://www.superlinear.academy/"
+        for gap in ("\n\n", "\n"):
+            self.assertEqual(g.stated_profiles(f"介绍。\n\n嘉宾：杨天楠{gap}{footer}\n\n章节：\n00:00 开场", cast), {})
+        self.assertEqual(g.stated_profiles("嘉宾：杨天楠\n这期聊了假工作从哪来", cast), {})
         # A line that could be either of two guests names nobody.
         both = {"guest:leo-a": ["Leo"], "guest:leo-b": ["Leo"]}
         self.assertEqual(g.stated_profiles("嘉宾：Leo，上海一家酒吧的首席调酒师", both), {})
         # The evidence report still shows the prose, for whoever writes the line.
         self.assertEqual(g.description_mentions(prose, g.names(tiannan))[0], "天楠是财经播客《听懂涨声》的主播，做过电台主持人和电视导演。")
+
+
+class GeneratedDescription(unittest.TestCase):
+    def test_reads_the_lines_the_description_tool_is_asked_to_write(self):
+        # lizheng-video-production writes one 嘉宾：姓名，身份 per guest above the channel's standing lines.
+        a, b = entity("张三", slug="zhang-san"), entity("Li Si")
+        cast = {e["entity_id"]: g.names(e) for e in (a, b)}
+        text = ("这期聊了两件事。\n\n嘉宾：张三，某公司创始人，前大厂产品负责人\n嘉宾：Li Si，某大学计算机系教授\n\n"
+                "不怕AI天天变，就来超线性学院。学点真本事，做点真东西。\n免费加入：https://www.superlinear.academy/ （也可以在App Store搜「超线性学院」）\n\n"
+                "章节：\n00:00 开场\n05:10 第二段\n20:00 结尾")
+        self.assertEqual(g.stated_profiles(text, cast), {"guest:zhang-san": "某公司创始人，前大厂产品负责人", "guest:li-si": "某大学计算机系教授"})
 
 
 class Fill(unittest.TestCase):

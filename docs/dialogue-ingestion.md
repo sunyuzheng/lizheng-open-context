@@ -79,7 +79,10 @@ python3 scripts/search.py "问题" --layer derived --json
 
 嘉宾页名字下面那一行是目录简介（`guest_company`、`guest_title`）。新嘉宾进目录时它是空的，所以每次发布都尽量自动补上，补不上也不拦发布：
 
-- `python3 scripts/validate_release.py --write-manifest` 会先读节目的公开简介（`sources[].description`）。简介里明写了嘉宾身份的，直接填成这位嘉宾的 `guest_title`，并在结果的 `guest_profiles.filled` 里列出来。认三种写法：`嘉宾：姓名，身份`；`嘉宾：姓名（English）`，身份写在下一行；「嘉宾背景」标题下的 `姓名：身份`。已有的简介不改。节目简介里写一行 `嘉宾：姓名，身份`，这位嘉宾的简介就不用再管。
+- 有嘉宾的节目，视频简介里固定带一行 `嘉宾：姓名，身份`（每位嘉宾一行；2026-11-10 立正定，由视频制作工具 `lizheng-video-production` 生成简介时写入）。
+- `scripts/ingest_published_captions.py --write` 收录字幕时，把同一份已核验信息里的视频简介存进这期节目的 `description`（已有的不覆盖）。用别的方式收录的节目，手工存一份。
+
+- `python3 scripts/validate_release.py --write-manifest` 会先读节目的公开简介（`sources[].description`）。简介里明写了嘉宾身份的，直接填成这位嘉宾的 `guest_title`，并在结果的 `guest_profiles.filled` 里列出来。认三种写法：`嘉宾：姓名，身份`；`嘉宾：姓名（English）`，身份紧接着写在下一行；「嘉宾背景」标题下的 `姓名：身份`。只写了 `嘉宾：姓名` 的不填。已有的简介不改。
 - 简介里只有成段的叙述时不猜。`python3 scripts/guest_profiles.py` 列出还没有简介的嘉宾，以及节目简介里提到他的句子、字幕开场介绍他的那一段；收录的人据此写 `guest_title`、`guest_company`，字幕里说了他是谁的再补一条 `introductions`。
 - 依据不够就先发布。发布校验和对账报告只把这些嘉宾列出来（`guest_profiles.missing`、`guests_without_profile`），不算错误。
 
