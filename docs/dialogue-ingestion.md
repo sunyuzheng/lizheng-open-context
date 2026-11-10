@@ -74,3 +74,13 @@ python3 scripts/search.py "问题" --layer derived --json
 解析器为按时间切出的原文片段附带 `dialogue_units`：连续的原始单元及有限的相邻上下文，保留未知归属。消费者从中挑选连续窗口并逐段标注；它不是嘉宾目录，也不是预先生成的赞同标签。单人投影仍可用于召回，但判断回应关系要回到连续窗口。
 
 每次发布运行 `python3 scripts/reconcile_interviews.py`，核对节目目录、视频目录、已准入原稿和说话人覆盖。加 `--listing <匿名频道快照>` 可列出尚未分类的候选；频道列表可能包含会员视频，必须逐个验证公开状态。报告明确区分缺原文、已有旧式字幕、结构化原稿和未确认说话人，不能把“已收录”写成“逐字听校”。媒体、观测回执、音频特征与声纹留在本机。
+
+## 新嘉宾的简介
+
+嘉宾页名字下面那一行是目录简介（`guest_company`、`guest_title`）。新嘉宾进目录时它是空的，所以每次发布都尽量自动补上，补不上也不拦发布：
+
+- `python3 scripts/validate_release.py --write-manifest` 会先读节目的公开简介（`sources[].description`）。简介里明写了嘉宾身份的，直接填成这位嘉宾的 `guest_title`，并在结果的 `guest_profiles.filled` 里列出来。认三种写法：`嘉宾：姓名，身份`；`嘉宾：姓名（English）`，身份写在下一行；「嘉宾背景」标题下的 `姓名：身份`。已有的简介不改。节目简介里写一行 `嘉宾：姓名，身份`，这位嘉宾的简介就不用再管。
+- 简介里只有成段的叙述时不猜。`python3 scripts/guest_profiles.py` 列出还没有简介的嘉宾，以及节目简介里提到他的句子、字幕开场介绍他的那一段；收录的人据此写 `guest_title`、`guest_company`，字幕里说了他是谁的再补一条 `introductions`。
+- 依据不够就先发布。发布校验和对账报告只把这些嘉宾列出来（`guest_profiles.missing`、`guests_without_profile`），不算错误。
+
+频道以前按目录自动加在视频简介末尾的那一块（`嘉宾 / Guest：…`，下一行 `头衔 @ 公司`）不当依据：它抄的就是目录，还把一位 Lulu 的头衔写到过另一位 Lulu 名下。

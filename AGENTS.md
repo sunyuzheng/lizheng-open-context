@@ -44,4 +44,6 @@ Private messages, unrelated member content, personal data, unpublished material,
 
 Run `python3 scripts/validate_release.py --write-manifest` to validate and generate `release-manifest.json`, `REUSE.toml`, `INDEX.md` and `index/`. These generated files share the same release inputs.
 
+A guest's page opens with the catalog profile line (`guest_company`, `guest_title`). When a release adds a guest, `--write-manifest` fills the line a published description states outright (`嘉宾：姓名，身份`); for the rest, `python3 scripts/guest_profiles.py` lists what the programmes say about each guest who still has none, so the line can be written in the same release. A missing profile line never blocks a release.
+
 A push to main releases the approved data and triggers ask-lizheng's `update-context` workflow. Consumers record the upstream commit and manifest hash. Code and retrieval changes belong in the consuming repositories; material data or rights changes need explicit maintainer approval.

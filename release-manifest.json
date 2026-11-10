@@ -96,7 +96,7 @@
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 61
+      "files": 63
     }
   },
   "files": [
@@ -108,14 +108,14 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 4753,
-      "sha256": "66c1f6322a35a1832d4af71777648e184e08e846801deb3e14728bba485470ea",
+      "bytes": 5184,
+      "sha256": "46ee4ab7f8dd7ebc744e4da68b8d70fbed87b92ce9f0120ce85f4fc7a254f5af",
       "license": "MIT"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 23111,
-      "sha256": "07f21830d97060c11bf37f9e75ccd29873060ff3cdc968cccf993202efedb5de",
+      "bytes": 24205,
+      "sha256": "dc268b356960f3db5332ce1acdcf7ec0dca29068e062eb69038219ff1be3c716",
       "license": "MIT"
     },
     {
@@ -252,14 +252,14 @@
     },
     {
       "path": "catalog/guest-names.json",
-      "bytes": 84647,
-      "sha256": "bd6e8a3a38cb7da10577be551e3cd5e5efe017305b4450d0536d91f8c0643ac6",
+      "bytes": 84747,
+      "sha256": "8db26433d03565212672733eb81fdf8638ba79cb936ab9d7858fcd8fe21cd72f",
       "license": "CC0-1.0"
     },
     {
       "path": "catalog/guests.json",
-      "bytes": 518504,
-      "sha256": "7957274ffd511711792ba41ae3f8568e6b7eb719c0148eaae907667328960f77",
+      "bytes": 518572,
+      "sha256": "b34172f911724fdaff09370184de615d4d7d6b674b5aaa710592501895ba9b8f",
       "license": "CC0-1.0"
     },
     {
@@ -10254,8 +10254,8 @@
     },
     {
       "path": "docs/dialogue-ingestion.md",
-      "bytes": 7343,
-      "sha256": "4a77a009da201c50c3c9cce4f72c889e6d60aa90f49e7e4d1a857bbcc5b5e89d",
+      "bytes": 8773,
+      "sha256": "b6b1d81807c42250d9aade5b9e3dc80421fed6db170b8ae8b985d8676bfa4c36",
       "license": "MIT"
     },
     {
@@ -10284,8 +10284,8 @@
     },
     {
       "path": "docs/source-model.md",
-      "bytes": 7942,
-      "sha256": "ebb74c319aeb4eb632d67eee53328655f19c90b6766997271ee8c82bf9a64386",
+      "bytes": 8186,
+      "sha256": "8852af0bf13dbfaa461b22b4f5b599fcb3ee3308453bf4dca964327abfb1a6d9",
       "license": "MIT"
     },
     {
@@ -10397,6 +10397,12 @@
       "license": "MIT"
     },
     {
+      "path": "scripts/guest_profiles.py",
+      "bytes": 12405,
+      "sha256": "e1e79c9a8879b287a4ef17893c03709611707f92b917a7efdfaef2b5216aa228",
+      "license": "MIT"
+    },
+    {
       "path": "scripts/import_chinese_editions.py",
       "bytes": 13051,
       "sha256": "3739b057693617dbc0cecd7af1a6c260c80ba5f00daa6b49c7d5b1dffcaa23a4",
@@ -10446,8 +10452,8 @@
     },
     {
       "path": "scripts/reconcile_interviews.py",
-      "bytes": 3281,
-      "sha256": "aeb16a5931cbe29d52d9aadf946fbd2cf20b0f08266b7b834b12771b420dbe02",
+      "bytes": 3516,
+      "sha256": "df7a49ad76ffbdc7201a732df184189577887dc0e4376eeff3655c7988e66050",
       "license": "MIT"
     },
     {
@@ -10488,8 +10494,8 @@
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 66510,
-      "sha256": "867667c82f8320199e97c59b702cc9b85d43e1ec84a33cb4a9c8bf2ecdcc0002",
+      "bytes": 67474,
+      "sha256": "96365a8d5026a131d230447239b9ad99f79bd3a39928967149b9564d74b0225d",
       "license": "MIT"
     },
     {
@@ -10550,6 +10556,12 @@
       "path": "tests/test_guest_catalog.py",
       "bytes": 13600,
       "sha256": "ffbd64cac762602af6ffdb2c370e6cb702b25614cd26097820e3f7b694962274",
+      "license": "MIT"
+    },
+    {
+      "path": "tests/test_guest_profiles.py",
+      "bytes": 6620,
+      "sha256": "fa44b36f3a2fd1b10e2047849e10f6c109b2ede0e955dd209227b73e5a6a535b",
       "license": "MIT"
     },
     {

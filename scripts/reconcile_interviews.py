@@ -11,6 +11,8 @@ import json
 from collections import Counter
 from pathlib import Path
 
+import guest_profiles
+
 ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -42,6 +44,10 @@ def reconcile(root=ROOT, listing=None):
         rows.append(row)
     result = {"schema_version": 1, "method": "catalogue participation and exact admitted source snapshots; no title classification",
               "summary": dict(Counter(r["text"] for r in rows)), "programmes": rows}
+    without = guest_profiles.missing(root)
+    if without:
+        # Not a fault of the release: guest_profiles.py lists the evidence to write these lines from.
+        result["guests_without_profile"] = without
     if listing:
         known = set(videos) | set(dialogues)
         result["unclassified_listing_candidates"] = [r["video_id"] for r in listing["videos"] if "youtube-" + r["video_id"] not in known]

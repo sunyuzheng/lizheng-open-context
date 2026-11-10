@@ -15,6 +15,7 @@ from urllib.parse import unquote
 
 import build_index
 import derive_catalogs
+import guest_profiles
 from dialogue_policy import validate_dialogues
 from validate_guest_catalog import programme_participants, validate_guest_catalog
 import rights
@@ -1073,7 +1074,16 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
     errors: list[str] = []
+    profiles: dict = {}
     if args.write_manifest:
+        # A new guest gets the profile line a published description states outright. This helps a
+        # release and never holds one up: a failure here is reported, not raised.
+        try:
+            filled = guest_profiles.fill()
+            if filled:
+                profiles["filled"] = [f"{f['display_name']}：{f['guest_title']}" for f in filled]
+        except (OSError, KeyError, ValueError) as exc:
+            profiles["fill_failed"] = str(exc)
         # Derived catalog fields, then generated pages: the rights map and the manifest cover both.
         try:
             derive_catalogs.write()
@@ -1107,7 +1117,18 @@ def main() -> None:
         for error in errors:
             print(f"- {error}")
         raise SystemExit(1)
-    print(json.dumps({"status": "ok", "counts": stats, "files": len(expected["files"])}, ensure_ascii=False, indent=2))
+    try:
+        without = guest_profiles.missing()
+    except (OSError, KeyError, ValueError):
+        without = []
+    if without:
+        profiles["missing"] = without
+        profiles["note"] = ("These guests have no profile line. It does not block the release; "
+                            "python3 scripts/guest_profiles.py lists what their programmes say about them.")
+    result = {"status": "ok", "counts": stats, "files": len(expected["files"])}
+    if profiles:
+        result["guest_profiles"] = profiles
+    print(json.dumps(result, ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":
