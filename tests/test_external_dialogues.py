@@ -99,7 +99,8 @@ class ExternalDialogueTests(unittest.TestCase):
         self.assertEqual(self.documents()[0].source_type, "audio-transcript")
 
     def test_external_authorization_preserves_old_and_admits_exact_recent_request(self):
-        for authorization in (policy.EXTERNAL_AUTHORIZATION, policy.RECENT_EXTERNAL_AUTHORIZATION):
+        for authorization in (policy.EXTERNAL_AUTHORIZATION, policy.RECENT_EXTERNAL_AUTHORIZATION,
+                              policy.LIURUN_EXTERNAL_AUTHORIZATION):
             with self.subTest(authorization=authorization):
                 self.data["inclusion_authorization"] = authorization
                 self.save()
@@ -108,7 +109,10 @@ class ExternalDialogueTests(unittest.TestCase):
     def test_external_authorization_does_not_accept_other_dates_or_near_matches(self):
         for authorization in ("maintainer-request-2026-10-28-recent-guest-podcasts",
                               policy.RECENT_EXTERNAL_AUTHORIZATION + "-extra",
-                              policy.RECENT_EXTERNAL_AUTHORIZATION + " ", None, []):
+                              policy.RECENT_EXTERNAL_AUTHORIZATION + " ",
+                              "maintainer-request-2026-11-09-liurun-reading-club",
+                              policy.LIURUN_EXTERNAL_AUTHORIZATION + "-extra",
+                              policy.LIURUN_EXTERNAL_AUTHORIZATION + " ", None, []):
             with self.subTest(authorization=authorization):
                 self.data["inclusion_authorization"] = authorization
                 self.save()

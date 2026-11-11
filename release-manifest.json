@@ -41,18 +41,18 @@
     "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md"
   },
   "counts": {
-    "structured_public_dialogues": 375,
-    "structured_dialogue_cues": 307682,
+    "structured_public_dialogues": 376,
+    "structured_dialogue_cues": 313363,
     "guest_entities": 157,
     "guest_sources": 411,
     "guest_appearances": 431,
     "guest_slug_routes": 162,
     "guest_articles": 23,
     "guest_redirects": 3,
-    "guest_public_raw_records": 375,
+    "guest_public_raw_records": 376,
     "guest_introductions": 169,
-    "community_posts_catalog": 252,
-    "community_posts_full_text": 252,
+    "community_posts_catalog": 253,
+    "community_posts_full_text": 253,
     "community_comments_included": 362,
     "member_course_lessons": 23,
     "book_chapters_zh": 12,
@@ -70,7 +70,7 @@
     "member_video_transcripts": 218,
     "member_video_solo_reviewed": 45,
     "known_guest_videos": 393,
-    "external_guest_appearances": 32,
+    "external_guest_appearances": 33,
     "english_community_catalog": 50,
     "english_community_full_text_files": 49,
     "english_community_original_yuzheng": 11,
@@ -80,7 +80,7 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 945
+      "files": 946
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
@@ -92,7 +92,7 @@
     },
     "LicenseRef-Original-Rights-Retained": {
       "text": "LICENSES/LicenseRef-Original-Rights-Retained.md",
-      "files": 69
+      "files": 70
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
@@ -114,8 +114,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 24523,
-      "sha256": "2cc83b4fe4f93ea98ef4eb2604c8cccf277d271ea94d3b108bc5843990165310",
+      "bytes": 25243,
+      "sha256": "94fb35e5b1ce7420f3958ec1d8708c1297cb3b03fb28e08bb605503cf30721dc",
       "license": "MIT"
     },
     {
@@ -133,7 +133,7 @@
     {
       "path": "INDEX.md",
       "bytes": 10488,
-      "sha256": "8922f4579474b8ca1b47414cc19a64ea269a0b50f5829fb6658fc43b603fa17e",
+      "sha256": "125ee20041de30fe02757c1057315878cc4c8a71bd63168cd4fc4a8a03441a60",
       "license": "CC0-1.0"
     },
     {
@@ -186,8 +186,8 @@
     },
     {
       "path": "REUSE.toml",
-      "bytes": 42138,
-      "sha256": "db4eeb05135be4712aa391470d41a94ee193c6d50f0017550d6b7fb685941e50",
+      "bytes": 42190,
+      "sha256": "112c0b7256b21f56bab4ec087ef5856995e23e38cbd000d11aca56a2bb4edece",
       "license": null
     },
     {
@@ -210,8 +210,8 @@
     },
     {
       "path": "catalog/community-posts.jsonl",
-      "bytes": 325355,
-      "sha256": "eeed418aa66e31d87e763bd962a31bd99f0e5a5f90cedb30a7a413184a16628d",
+      "bytes": 326876,
+      "sha256": "3f84516a5d60a6f60593e94a60f0addd3e11e633f9bfc2b4f750e063a96548a0",
       "license": "CC0-1.0"
     },
     {
@@ -240,8 +240,8 @@
     },
     {
       "path": "catalog/guest-appearances.jsonl",
-      "bytes": 54294,
-      "sha256": "7da0609006a278df8aa6ff700e7ba152690cf9aca581f34328494aa581ee9fab",
+      "bytes": 56040,
+      "sha256": "1b985241ca0a51b952c701de913003e1be2e1d6752534323535b5c7a3056a992",
       "license": "CC0-1.0"
     },
     {
@@ -252,8 +252,8 @@
     },
     {
       "path": "catalog/guest-names.json",
-      "bytes": 84747,
-      "sha256": "8db26433d03565212672733eb81fdf8638ba79cb936ab9d7858fcd8fe21cd72f",
+      "bytes": 84918,
+      "sha256": "1eae0e99af80194093bd51e3e000fe8e208b8aae79b700eae5f725cb2cff7712",
       "license": "CC0-1.0"
     },
     {
@@ -330,8 +330,8 @@
     },
     {
       "path": "config/public-dialogue-policy.json",
-      "bytes": 6552296,
-      "sha256": "9c63e016b2adf699a3a64d100698805ba16a3032aa22e85193ef536ce0adad9f",
+      "bytes": 6605673,
+      "sha256": "d8462ac22c167ccad189cd883735bab10986dd629b0f854df1da2be36d5af094",
       "license": "CC0-1.0"
     },
     {
@@ -4457,6 +4457,12 @@
       "license": "CC-BY-4.0"
     },
     {
+      "path": "corpus/community-posts/20261109-liurun-end-of-fake-work-20261102-38234972.md",
+      "bytes": 46535,
+      "sha256": "8c843d10b79e5d6acb2f3f711e8638ffc6285ea306c29033698e1f7140b27c33",
+      "license": "CC-BY-4.0"
+    },
+    {
       "path": "corpus/conversation-excerpts/20210728-CTcMvIZFQcw-yuzheng.md",
       "bytes": 6540,
       "sha256": "413c869911876a76242d500320cc7dde5352e3fe62ab51f21134bf0ce0ad9521",
@@ -4694,6 +4700,12 @@
       "path": "corpus/dialogues/dialogue-circle-37814395.json",
       "bytes": 633026,
       "sha256": "0c2013625acea38a6ebe279347195535b55649d57b9e36f4d1a71b2a3315f260",
+      "license": "LicenseRef-Original-Rights-Retained"
+    },
+    {
+      "path": "corpus/dialogues/dialogue-circle-38234972.json",
+      "bytes": 1466003,
+      "sha256": "d2ac08487003ef0e57990150e588977faa7ab38e59c930fbe925c24c2795b377",
       "license": "LicenseRef-Original-Rights-Retained"
     },
     {
@@ -10302,14 +10314,14 @@
     },
     {
       "path": "index/community-posts.md",
-      "bytes": 152160,
-      "sha256": "7d03219726961583fc7f8398eb8fd12f791c58df55b61dab83dbcd4be67f6885",
+      "bytes": 152439,
+      "sha256": "cbece3e81760d74b0561af6eb59df6af703024e8f7bb4da675964a0009849ebf",
       "license": "CC0-1.0"
     },
     {
       "path": "index/dialogues.md",
-      "bytes": 112962,
-      "sha256": "62b56c6861d4e8b370fe675c17e461ccc608eec1a9ca4ba8a1c7f9222934beda",
+      "bytes": 113293,
+      "sha256": "ce57bdd8b7fbd7a1dca4f6427cd302f9bd758fdc7b3e345c00768053b6d766df",
       "license": "CC0-1.0"
     },
     {
@@ -10380,8 +10392,8 @@
     },
     {
       "path": "scripts/dialogue_policy.py",
-      "bytes": 13773,
-      "sha256": "ef880024f1c16e33863eb01c878e908e24cda686175102a15dd4b38861eef59a",
+      "bytes": 13895,
+      "sha256": "a83c6b0dca6454e27dccc5127e7ad4c44d483150b780b3ede5ec6751276debb2",
       "license": "MIT"
     },
     {
@@ -10548,8 +10560,8 @@
     },
     {
       "path": "tests/test_external_dialogues.py",
-      "bytes": 25033,
-      "sha256": "7d411a9b7dc39211b50975e0ec896692bf7ab1ee15183238b7a04e97c14d3c87",
+      "bytes": 25337,
+      "sha256": "555b2904f899d578895c0e7cae545949ae4804ed5d33b74665dee62ec42911e3",
       "license": "MIT"
     },
     {

@@ -5,10 +5,11 @@
 原文保留每句文字、时间码、发言归属和质量记录，直接参与检索。节目参与者来自共享嘉宾目录或独立的做客节目目录。
 [资料架构](../docs/conversation-architecture.md) · [来源字段](../docs/source-model.md) · [校对阶段](../docs/dialogue-ingestion.md)
 
-共 375 份。许可逐份标明；其他说话人保留自己发言的权利。
+共 376 份。许可逐份标明；其他说话人保留自己发言的权利。
 
 | 日期 | 原文 | 节目参与者目录 | 文字待核项 | 媒体 | 许可 |
 | --- | --- | --- | ---: | --- | --- |
+| 2026-11-09 | [假工作的终结：AI让它先爆炸，再贬值｜做客刘润读书会](../corpus/dialogues/dialogue-circle-38234972.json) | 立正；玄子 | 4 | [原媒体](https://www.superlinear.academy/c/recording/liurun-end-of-fake-work-20261102) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 2026-10-30 | [杨天楠：看似体面的工作，实则都是在表演？](../corpus/dialogues/youtube-ur-HjD422ig.json) | 杨天楠 | 2508 | [原媒体](https://www.youtube.com/watch?v=ur-HjD422ig) | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 2026-10-29 | [离开大厂之后，我才发现，没有Fake Work的工作其实很开心｜对话课代表立正](../corpus/dialogues/dialogue-xiaoyuzhou-6ae1e359c96c8942ec13bb1f.json) | 立正；杨天楠 | 19 | [原媒体](https://www.xiaoyuzhoufm.com/episode/6ae1e359c96c8942ec13bb1f) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 2026-10-27 | [功成名就的大佬们需要学AI吗？｜沈明高博士对话课代表立正](../corpus/dialogues/dialogue-circle-37814395.json) | 立正；沈明高 | 5 | [原媒体](https://www.superlinear.academy/c/recording/minggao-lizheng-ai-partner) | [原作者保留](../LICENSES/LicenseRef-Original-Rights-Retained.md) |

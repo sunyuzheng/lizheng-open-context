@@ -2,17 +2,18 @@
 
 # 社区帖子与评论
 
-立正在超线性学院（Superlinear Academy）发布的 252 篇帖子和 362 条评论，按发布时间从新到旧排列。全文按[CC BY 4.0](../LICENSES/CC-BY-4.0.txt)开放，注明作者和出处即可转载、改编。
+立正在超线性学院（Superlinear Academy）发布的 253 篇帖子和 362 条评论，按发布时间从新到旧排列。全文按[CC BY 4.0](../LICENSES/CC-BY-4.0.txt)开放，注明作者和出处即可转载、改编。
 
 - **会员空间**：99 篇原帖发在需要会员的空间，作者已授权开放这些帖子的正文；同一页面上其他成员的内容不在这里。
 - **机器可读**：[catalog/community-posts.jsonl](../catalog/community-posts.jsonl) · [catalog/community-comments.jsonl](../catalog/community-comments.jsonl)
 
 ## 帖子
 
-### 2026（147 篇）
+### 2026（148 篇）
 
 | 日期 | 标题 | 空间 | 原帖 |
 | --- | --- | --- | --- |
+| 2026-11-09 | [假工作的终结：AI让它先爆炸，再贬值｜做客刘润读书会](../corpus/community-posts/20261109-liurun-end-of-fake-work-20261102-38234972.md) | 活动回放 | [原帖](https://www.superlinear.academy/c/recording/liurun-end-of-fake-work-20261102) |
 | 2026-10-03 | [AI替你做出来以后，你还会什么？｜哥大客座课程回放](../corpus/community-posts/20261003-columbia-ai-learning-and-judgment-20261002-37077565.md) | 活动回放 | [原帖](https://www.superlinear.academy/c/recording/columbia-ai-learning-and-judgment-20261002) |
 | 2026-10-02 | [问问立正：直接问我讲过的内容，Founding Member不限次](../corpus/community-posts/20261002-ask-lizheng-37030030.md) | Toolbox | [原帖](https://www.superlinear.academy/c/tools/ask-lizheng) |
 | 2026-10-01 | [建议每个人都用Opus 5.5做一下个人主页](../corpus/community-posts/20261001-personal-homepage-with-opus-5-5-36993423.md) | Share Your Projects | [原帖](https://www.superlinear.academy/c/share-your-projects/personal-homepage-with-opus-5-5) |

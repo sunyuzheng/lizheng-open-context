@@ -16,7 +16,10 @@ AUTHORIZATION = "maintainer-request-2026-10-10-dialogue-transcripts"
 INTERVIEW_AUTHORIZATION = "maintainer-request-2026-11-01-interview-evidence"
 EXTERNAL_AUTHORIZATION = "maintainer-request-2026-10-15-guest-podcasts"
 RECENT_EXTERNAL_AUTHORIZATION = "maintainer-request-2026-10-29-recent-guest-podcasts"
-EXTERNAL_AUTHORIZATIONS = frozenset({EXTERNAL_AUTHORIZATION, RECENT_EXTERNAL_AUTHORIZATION})
+LIURUN_EXTERNAL_AUTHORIZATION = "maintainer-request-2026-11-10-liurun-reading-club"
+EXTERNAL_AUTHORIZATIONS = frozenset({
+    EXTERNAL_AUTHORIZATION, RECENT_EXTERNAL_AUTHORIZATION, LIURUN_EXTERNAL_AUTHORIZATION,
+})
 CHANNEL = "UC_5lJHgnMP_lb_VpIiXV0hQ"
 HASH = re.compile(r"[0-9a-f]{64}\Z")
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}\Z")
