@@ -50,7 +50,7 @@ python3 scripts/search.py "问题" --layer derived --json
 
 `scripts/build_dialogue_candidates.py`从明确inventory及完整hash回执生成本地候选，保留每个cue的文字与时间。候选及原媒体、原字幕、校对依据在本地素材库保存。`scripts/search_dialogue_candidates.py --pack <候选目录> --verify-only`检查候选；去掉`--verify-only`并提供问题可直接在本机搜索。
 
-公开原稿按`config/public-dialogue-policy.json`中的视频ID、源文件hash、匿名公开状态证据和许可收录。`python3 scripts/validate_release.py --write-manifest`校验并生成公开release。新的公开变更经过准确payload审阅；会员和未公开的新素材继续留在本地。
+公开原稿按`config/public-dialogue-policy.json`中的视频ID、源文件hash、匿名公开状态证据和许可收录。`python3 scripts/validate_release.py --write-manifest`校验并生成公开release。立正明确指定资料说“收录”时，按[项目发布约定](../AGENTS.md)完成main发布和问问立正同步核验，不再重复确认；其他公开变更仍按其授权范围审阅。资料的隐私、权限与质量要求不变。
 
 ## 说话人归属
 
