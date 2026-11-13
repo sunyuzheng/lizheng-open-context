@@ -1,0 +1,509 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-RVeIVWaZ0sI",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2025-12-08",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "019ab463ee851edd28b7f4ca5e6c627d61d2739f8d99a21743b7e3ddc524b7d7",
+    "caption_units_sha256": "ee3347b8e0be03f0bf9b62c0aa6722c1b80e8aa4aa5a9a21bbc9c930ae930bbc",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "019ab463ee851edd28b7f4ca5e6c627d61d2739f8d99a21743b7e3ddc524b7d7",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "e76f919e18c62c198655fedf1fe268c80fba2724b3ed74e18bcba51b3a87498d",
+    "unresolved_count": 51
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 102,
+  "source_family": "https://www.youtube.com/watch?v=RVeIVWaZ0sI",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=RVeIVWaZ0sI",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "互联网的泡沫，五年后就都用上了",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.7279999999999998,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.32,
+      "text": "Internet 我在二零零一年的时候我"
+    },
+    {
+      "end_seconds": 6.444,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.7279999999999998,
+      "text": "是看到真实的数据因为我自己是做"
+    },
+    {
+      "end_seconds": 7.766,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.542,
+      "text": "network 的所以说"
+    },
+    {
+      "end_seconds": 10.350999999999999,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.889,
+      "text": "Internetbackbone 里面做"
+    },
+    {
+      "end_seconds": 13.388,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.350999999999999,
+      "text": "的人都是非常熟悉的 By2001 到了"
+    },
+    {
+      "end_seconds": 15.572,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.388,
+      "text": "2001 年我觉得这个业界是非常"
+    },
+    {
+      "end_seconds": 16.489,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.663,
+      "text": "clear 的就是"
+    },
+    {
+      "end_seconds": 18.324,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.581,
+      "text": "weoverbuiltinternet"
+    },
+    {
+      "end_seconds": 19.833,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.416,
+      "text": "我们 build 的 internet"
+    },
+    {
+      "end_seconds": 20.678,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.906,
+      "text": "是远远高于我们所要的"
+    },
+    {
+      "end_seconds": 22.41,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.76,
+      "text": "Internetbackbonenetw"
+    },
+    {
+      "end_seconds": 22.987,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.41,
+      "text": "ork 是我们"
+    },
+    {
+      "end_seconds": 23.411,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.068,
+      "text": "经常会去"
+    },
+    {
+      "end_seconds": 25.211,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.497,
+      "text": "evaluatethroughput 的"
+    },
+    {
+      "end_seconds": 25.468,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.211,
+      "text": "是一个"
+    },
+    {
+      "end_seconds": 27.743,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.348,
+      "text": "capacityRoughlyspeak"
+    },
+    {
+      "end_seconds": 28.86,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.743,
+      "text": "ing 我们大概 build 的"
+    },
+    {
+      "end_seconds": 31.228,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.929,
+      "text": "internet 的使用只用了它的大概是"
+    },
+    {
+      "end_seconds": 34.928,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.228,
+      "text": "个位数百分之八百分之六当然每个节点都不"
+    },
+    {
+      "end_seconds": 37.008,
+      "id": "cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.928,
+      "text": "一样你就想就基本上 Internet 的"
+    },
+    {
+      "end_seconds": 38.837,
+      "id": "cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.008,
+      "text": "overbuiltbymorethant"
+    },
+    {
+      "end_seconds": 40.216,
+      "id": "cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.837,
+      "text": "enx 所以说这就是为什么那个"
+    },
+    {
+      "end_seconds": 42.88,
+      "id": "cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.309,
+      "text": "dotcomburst 其实是一下子就是"
+    },
+    {
+      "end_seconds": 44.543,
+      "id": "cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.88,
+      "text": "我们 infrastructure 是"
+    },
+    {
+      "end_seconds": 44.847,
+      "id": "cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.543,
+      "text": "完全就是"
+    },
+    {
+      "end_seconds": 46.29,
+      "id": "cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.923,
+      "text": "overbuiltButwhatwe"
+    },
+    {
+      "end_seconds": 48.429,
+      "id": "cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.29,
+      "text": "didn'tknow2001 就是我们"
+    },
+    {
+      "end_seconds": 51.572,
+      "id": "cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.542,
+      "text": "2001 年没有意识到的是再过了两年三年"
+    },
+    {
+      "end_seconds": 52.86,
+      "id": "cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.679,
+      "text": "YouTube 起来了"
+    },
+    {
+      "end_seconds": 55.113,
+      "id": "cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.967,
+      "text": "Internetnativeapplic"
+    },
+    {
+      "end_seconds": 56.406,
+      "id": "cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.113,
+      "text": "ation 起来不只是一个"
+    },
+    {
+      "end_seconds": 59.658,
+      "id": "cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.514,
+      "text": "ecommerce 卖点书卖点杂货对吧"
+    },
+    {
+      "end_seconds": 62.105,
+      "id": "cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.658,
+      "text": "就是真正的那个 business 起来了"
+    },
+    {
+      "end_seconds": 63.963,
+      "id": "cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.105,
+      "text": "我不知道确切的数据但是我比较"
+    },
+    {
+      "end_seconds": 65.947,
+      "id": "cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.08,
+      "text": "confident 的是大概到了"
+    },
+    {
+      "end_seconds": 67.813,
+      "id": "cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.063,
+      "text": "2005 年的时候有可能更早"
+    },
+    {
+      "end_seconds": 69.238,
+      "id": "cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.955,
+      "text": "overbuilt"
+    },
+    {
+      "end_seconds": 71.176,
+      "id": "cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.238,
+      "text": "的 internetcapacity"
+    },
+    {
+      "end_seconds": 74.79,
+      "id": "cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 71.284,
+      "text": "就用到至少一半以上甚至于更多都有可能所以"
+    },
+    {
+      "end_seconds": 78.836,
+      "id": "cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 74.79,
+      "text": "说这一个历史我觉得会重新演今天大家大量的"
+    },
+    {
+      "end_seconds": 82.294,
+      "id": "cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.968,
+      "text": "build 然后会有一个阶段会发现哇我"
+    },
+    {
+      "end_seconds": 84.703,
+      "id": "cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.294,
+      "text": "该用的 application 也是有限"
+    },
+    {
+      "end_seconds": 86.133,
+      "id": "cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.703,
+      "text": "的也用不掉然后觉得哇这是一个"
+    },
+    {
+      "end_seconds": 88.606,
+      "id": "cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 86.228,
+      "text": "bubble burst 我充分相信那"
+    },
+    {
+      "end_seconds": 91.257,
+      "id": "cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.606,
+      "text": "一天会到来不管是六个月还是十八个月"
+    },
+    {
+      "end_seconds": 92.825,
+      "id": "cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.331,
+      "text": "Thequestionisthatahe"
+    },
+    {
+      "end_seconds": 95.798,
+      "id": "cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.825,
+      "text": "althy bubble 还是一个非常"
+    },
+    {
+      "end_seconds": 96.398,
+      "id": "cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 95.798,
+      "text": "不好的"
+    },
+    {
+      "end_seconds": 97.998,
+      "id": "cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.398,
+      "text": "bubble 我个人认为这是一个非常"
+    },
+    {
+      "end_seconds": 99.622,
+      "id": "cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 98.078,
+      "text": "healthy 的这是一个非常良性的"
+    },
+    {
+      "end_seconds": 100.238,
+      "id": "cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.71,
+      "text": "bubble"
+    }
+  ],
+  "video_id": "RVeIVWaZ0sI",
+  "yuzheng_stance_weight": "not-evidence"
+}

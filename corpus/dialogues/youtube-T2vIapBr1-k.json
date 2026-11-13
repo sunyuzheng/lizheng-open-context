@@ -1,0 +1,392 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-T2vIapBr1-k",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2025-10-16",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "c19ed109e8677e6aa91e587ab0b1a92f24ce70f439e25cb7af9900ed15e94832",
+    "caption_units_sha256": "05dcd3ef7e806a62c1a1665ca63ba07e9a5fa557ec9a6d4f6025bd6b2213ab41",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "c19ed109e8677e6aa91e587ab0b1a92f24ce70f439e25cb7af9900ed15e94832",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "4597c1f80dfd1b273765cdc6ecd1ed2c393b17ea09cfffe4becf2cd7c999fad8",
+    "unresolved_count": 38
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 110,
+  "source_family": "https://www.youtube.com/watch?v=T2vIapBr1-k",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=T2vIapBr1-k",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "追逐流行标签是不可能学好AI的",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.7199999999999998,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "你的 AI 为什么一直学不好因为你一直在"
+    },
+    {
+      "end_seconds": 8.144,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.7199999999999998,
+      "text": "试图学标签你在用标签理解这样一个新生的"
+    },
+    {
+      "end_seconds": 12.123,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.144,
+      "text": "复杂的东西你没有真的去花时间理解 AI"
+    },
+    {
+      "end_seconds": 15.754,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.308,
+      "text": "比如说你一开始在学 RAG 后来你又去学"
+    },
+    {
+      "end_seconds": 17.059,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.754,
+      "text": "各种各样的 framework 比如说"
+    },
+    {
+      "end_seconds": 18.387,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.122,
+      "text": "LangchainCursorAIAut"
+    },
+    {
+      "end_seconds": 21.119,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.387,
+      "text": "oGen 然后你现在又去学 MCP 结果"
+    },
+    {
+      "end_seconds": 23.348,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.119,
+      "text": "最后就是做 MCP 的人比用 MCP"
+    },
+    {
+      "end_seconds": 26.311,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.497,
+      "text": "人多很多然后最近又是 NtoN 很火然后"
+    },
+    {
+      "end_seconds": 27.726,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.311,
+      "text": "大家又说 NtoN 可以不用"
+    },
+    {
+      "end_seconds": 28.284,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.726,
+      "text": "了然后你用"
+    },
+    {
+      "end_seconds": 30.625,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.395,
+      "text": "contextengineering 去"
+    },
+    {
+      "end_seconds": 33.792,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.625,
+      "text": "取代 RAG 追逐一个一个的标签但是底层"
+    },
+    {
+      "end_seconds": 36.608,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.792,
+      "text": "的东西你如果去看它没有那么复杂你可能花"
+    },
+    {
+      "end_seconds": 39.376,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.608,
+      "text": "一两个周末你就可以学个七七八八然后你花"
+    },
+    {
+      "end_seconds": 42.136,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.376,
+      "text": "一个月的时间你就可以把它掌握的很好那你"
+    },
+    {
+      "end_seconds": 45.648,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.136,
+      "text": "之后有什么问题你就可以直接去解决问题你不"
+    },
+    {
+      "end_seconds": 48.709,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.648,
+      "text": "需要去用别人给你的一个标签注意啊这个标签"
+    },
+    {
+      "end_seconds": 53.338,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.709,
+      "text": "为什么不好用因为这个标签是别人给你的然后"
+    },
+    {
+      "end_seconds": 57.283,
+      "id": "cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.338,
+      "text": "他的工作就是去卖这个标签但这个标签其实离"
+    },
+    {
+      "end_seconds": 59.308,
+      "id": "cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.283,
+      "text": "解决问题是很远的你"
+    },
+    {
+      "end_seconds": 62.804,
+      "id": "cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.308,
+      "text": "要用通过标签学习的这个方式在上一个时代"
+    },
+    {
+      "end_seconds": 66.284,
+      "id": "cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.804,
+      "text": "可行因为上一个时代那些标签都已经固定了它"
+    },
+    {
+      "end_seconds": 69.5,
+      "id": "cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 66.284,
+      "text": "就是已经沉淀好的学习这个东西的最好方式"
+    },
+    {
+      "end_seconds": 73.028,
+      "id": "cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.5,
+      "text": "但是在这个时代这些 AI 的东西它是新的"
+    },
+    {
+      "end_seconds": 76.308,
+      "id": "cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.028,
+      "text": "它是在一直变化的你通过这个标签去学习最后"
+    },
+    {
+      "end_seconds": 79.068,
+      "id": "cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.308,
+      "text": "就是南辕北辙你就是去学了一个一个标签其实"
+    },
+    {
+      "end_seconds": 81.829,
+      "id": "cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.068,
+      "text": "到最后过过过一段时间全都没有用了其实跟人"
+    },
+    {
+      "end_seconds": 84.79,
+      "id": "cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.829,
+      "text": "也是这个样子的就是你去给人贴标签你是没有"
+    },
+    {
+      "end_seconds": 87.761,
+      "id": "cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.79,
+      "text": "办法理解这个人的人也是在变化的你通过什么"
+    },
+    {
+      "end_seconds": 90.75,
+      "id": "cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.761,
+      "text": "就是 PUA 啊全能自恋啊然后是这"
+    },
+    {
+      "end_seconds": 94.51,
+      "id": "cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 90.75,
+      "text": "样这样的标签去理解别人或者理解自己最后都"
+    },
+    {
+      "end_seconds": 98.294,
+      "id": "cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.51,
+      "text": "是理解出来一堆错误的东西我就想跟大家讲"
+    },
+    {
+      "end_seconds": 101.417,
+      "id": "cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 98.294,
+      "text": "这样一点吧就是去真的去学 AI 本身的"
+    },
+    {
+      "end_seconds": 103.234,
+      "id": "cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 101.417,
+      "text": "东西去上手使用 AI 用 AI 去"
+    },
+    {
+      "end_seconds": 105.37,
+      "id": "cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.327,
+      "text": "build 虽然你可能 build 出来"
+    },
+    {
+      "end_seconds": 108.35,
+      "id": "cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.37,
+      "text": "的东西没什么用但是你就可以对 AI 的呃"
+    },
+    {
+      "end_seconds": 109.95,
+      "id": "cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 108.35,
+      "text": "整个理解更深一步"
+    }
+  ],
+  "video_id": "T2vIapBr1-k",
+  "yuzheng_stance_weight": "not-evidence"
+}

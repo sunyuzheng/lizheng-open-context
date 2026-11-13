@@ -1,0 +1,131 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-FdBxAuczgiU",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2025-02-08",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "ac84f96c81f2507e0d87d9bd517d704992c3b84d0217edabff8cd4a9bdf935e2",
+    "caption_units_sha256": "617a3c19213adba450319ad7ff164899cab737b0621a7cc2e990912562f064e3",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "ac84f96c81f2507e0d87d9bd517d704992c3b84d0217edabff8cd4a9bdf935e2",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "af6c509dace8183a5efe97ce159164cc78b9e1afa56b8358a661f09cb86d46fe",
+    "unresolved_count": 9
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 27,
+  "source_family": "https://www.youtube.com/watch?v=FdBxAuczgiU",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=FdBxAuczgiU",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "数学发展史",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.128,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.08,
+      "text": "数学的方式一般是呃历史上有这么几个天才"
+    },
+    {
+      "end_seconds": 5.096,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.128,
+      "text": "比如说像 Galois 像 Gauss"
+    },
+    {
+      "end_seconds": 9.2,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.197,
+      "text": "这样这样一些人把他们花了很多的时间思考"
+    },
+    {
+      "end_seconds": 11.68,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.2,
+      "text": "沉淀下来的东西形成理论啊比如说"
+    },
+    {
+      "end_seconds": 13.72,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.68,
+      "text": "Galois 发明了群论然后这样使得让"
+    },
+    {
+      "end_seconds": 16.936,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.72,
+      "text": "我们这样的普通人能够很快的就比如说花一天"
+    },
+    {
+      "end_seconds": 20.128,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.936,
+      "text": "的时间就掌握了哦这就是群论这东西太漂亮了"
+    },
+    {
+      "end_seconds": 22.776,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.128,
+      "text": "对吧然后站在他的肩膀上我们又发明了更多的"
+    },
+    {
+      "end_seconds": 26.56,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.776,
+      "text": "东西我觉得这是我我个人非常坚信的一个方向"
+    }
+  ],
+  "video_id": "FdBxAuczgiU",
+  "yuzheng_stance_weight": "not-evidence"
+}

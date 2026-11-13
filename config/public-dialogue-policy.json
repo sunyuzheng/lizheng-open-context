@@ -156556,6 +156556,3526 @@
         "verified_at": "2026-11-11T00:29:46.270272+00:00",
         "receipt_sha256": "6311beca8fe510e3818f77fe1067791992b2f48e0de535a2f6b0728647ed7eb8"
       }
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "6f9383b28cc3829ea6afe48a4308fb65556cd883bcb5473b1683ddf01514af94",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "sp8U8lYrpvM"
+      },
+      "caption_evidence": {
+        "caption_sha256": "8bb29f86c01fc2512fed850af31904bdcff84bef52fca5241829c4da38dbaaeb",
+        "info_sha256": "6f9383b28cc3829ea6afe48a4308fb65556cd883bcb5473b1683ddf01514af94",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "sp8U8lYrpvM"
+      },
+      "corpus_path": "corpus/dialogues/youtube-sp8U8lYrpvM.json",
+      "cue_count": 94,
+      "programme_type": "short",
+      "sha256": "05d4f8defa9128dcd1df2a434062f8ba98d100a417cd9839117ddb87dcaf0b27",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "sp8U8lYrpvM"
+      },
+      "video_id": "sp8U8lYrpvM"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "003a06a07b6d34eee802a676bfe1da3f333d7ed268f37860982fadb57a06d133",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "NitVYSZ5-0U"
+      },
+      "caption_evidence": {
+        "caption_sha256": "2d511a9bc9039d810813af83b00b112cae168796a2a66c637b036a59e0a1ada8",
+        "info_sha256": "003a06a07b6d34eee802a676bfe1da3f333d7ed268f37860982fadb57a06d133",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "NitVYSZ5-0U"
+      },
+      "corpus_path": "corpus/dialogues/youtube-NitVYSZ5-0U.json",
+      "cue_count": 19,
+      "programme_type": "short",
+      "sha256": "7e2847f0a22ede5618a014a47cab819e1e0e4903034265a7f3c085b4b9fb33ee",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "NitVYSZ5-0U"
+      },
+      "video_id": "NitVYSZ5-0U"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "dacb1075451c65521a48553f92d8fdeedee888a683249e85b030260a71953e8b",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "84EM7CrDc6M"
+      },
+      "caption_evidence": {
+        "caption_sha256": "d26f85ebf627e62e089356160b5cec2aefd5e932a306b60cfdd136d3b091ccb2",
+        "info_sha256": "dacb1075451c65521a48553f92d8fdeedee888a683249e85b030260a71953e8b",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "84EM7CrDc6M"
+      },
+      "corpus_path": "corpus/dialogues/youtube-84EM7CrDc6M.json",
+      "cue_count": 16,
+      "programme_type": "short",
+      "sha256": "85471064f785fae74bc90f81159b792f942941707604320a0023988feafa4e53",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "84EM7CrDc6M"
+      },
+      "video_id": "84EM7CrDc6M"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "c3fef65d389ea5815d97d7497a15c5f45de35178092b30c10805e6d93b76e24f",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "v6jswDeORWQ"
+      },
+      "caption_evidence": {
+        "caption_sha256": "66cbe26066452fa5f38c6794105856c68b1df0afeb20615ebe4ed12ef9639221",
+        "info_sha256": "c3fef65d389ea5815d97d7497a15c5f45de35178092b30c10805e6d93b76e24f",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "v6jswDeORWQ"
+      },
+      "corpus_path": "corpus/dialogues/youtube-v6jswDeORWQ.json",
+      "cue_count": 25,
+      "programme_type": "short",
+      "sha256": "69a781a1918a2657664ea5dc62ff5007b2b98e69bf9a96fd7dfca99c76ae1dfc",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "v6jswDeORWQ"
+      },
+      "video_id": "v6jswDeORWQ"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "95f97197cdfef91c29f3428947c08c2f640900e77b9d380f39c578e557b38958",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "nILVVurK0Kg"
+      },
+      "caption_evidence": {
+        "caption_sha256": "e8b6d236cbe8d70456357b893717cede0dbffb1a67138f584c0900114da9fae9",
+        "info_sha256": "95f97197cdfef91c29f3428947c08c2f640900e77b9d380f39c578e557b38958",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "nILVVurK0Kg"
+      },
+      "corpus_path": "corpus/dialogues/youtube-nILVVurK0Kg.json",
+      "cue_count": 17,
+      "programme_type": "short",
+      "sha256": "d5190b68b1335a779fabee84c83842b372f53db7ba43f642d144e547741b4a23",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "nILVVurK0Kg"
+      },
+      "video_id": "nILVVurK0Kg"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "128d4cbef6c354bd34ce3493bf1c548168e5e6cd48692e0b291859fbc364ede4",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "smDwjoN9f1A"
+      },
+      "caption_evidence": {
+        "caption_sha256": "35257ec9125ebf72c2b98e45f4426440f64a4b32aaa315f2cd2498802029488f",
+        "info_sha256": "128d4cbef6c354bd34ce3493bf1c548168e5e6cd48692e0b291859fbc364ede4",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "smDwjoN9f1A"
+      },
+      "corpus_path": "corpus/dialogues/youtube-smDwjoN9f1A.json",
+      "cue_count": 22,
+      "programme_type": "short",
+      "sha256": "994e9c19f1604eba151e6537493931ba3acbcbf3613e87262e9b22243253b023",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "smDwjoN9f1A"
+      },
+      "video_id": "smDwjoN9f1A"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "a03b75f4d2898a8d5c5dffca25d784674c2fe83d17dc65ab38554c4fc515b15d",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Xg0Gekl5f-g"
+      },
+      "caption_evidence": {
+        "caption_sha256": "2dfe2508965acad640e0226a20f1fdf6c4123e10dfc0642db95a005b100a9ffa",
+        "info_sha256": "a03b75f4d2898a8d5c5dffca25d784674c2fe83d17dc65ab38554c4fc515b15d",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "Xg0Gekl5f-g"
+      },
+      "corpus_path": "corpus/dialogues/youtube-Xg0Gekl5f-g.json",
+      "cue_count": 28,
+      "programme_type": "short",
+      "sha256": "8dbc2daacf92f1ff3468a0f60c0489cdeca095ebb3912334c83e97608cabe87c",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Xg0Gekl5f-g"
+      },
+      "video_id": "Xg0Gekl5f-g"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "c3308424a340eccaaf2f75dcf3e6c325815ec4bfb9277b1a021e50752427509a",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "eiZ0hpoT3rk"
+      },
+      "caption_evidence": {
+        "caption_sha256": "95443a033035b8e2b3d51d05ae33d8e99b57084af9a4ea8981ca5d9c94e06e95",
+        "info_sha256": "c3308424a340eccaaf2f75dcf3e6c325815ec4bfb9277b1a021e50752427509a",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "eiZ0hpoT3rk"
+      },
+      "corpus_path": "corpus/dialogues/youtube-eiZ0hpoT3rk.json",
+      "cue_count": 21,
+      "programme_type": "short",
+      "sha256": "fa3c3d8d9530029f5104ec5494989b52086d96c34a81ca400bcf8908d17fbba9",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "eiZ0hpoT3rk"
+      },
+      "video_id": "eiZ0hpoT3rk"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "857c1b11ab41113984ce04ed622e7dd44efd81387d22014e4fc4951a03e6f30a",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "UGBO9xlPnnM"
+      },
+      "caption_evidence": {
+        "caption_sha256": "a4fb5a713ae25d6326ffdbaba09c74f842766aa3a6bfd7b1b765e3369cd3f512",
+        "info_sha256": "857c1b11ab41113984ce04ed622e7dd44efd81387d22014e4fc4951a03e6f30a",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "UGBO9xlPnnM"
+      },
+      "corpus_path": "corpus/dialogues/youtube-UGBO9xlPnnM.json",
+      "cue_count": 24,
+      "programme_type": "short",
+      "sha256": "d9b3a2d91eec0318e63d8622232465b4b2ed49ee9acd043ef5421147bcb9c30a",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "UGBO9xlPnnM"
+      },
+      "video_id": "UGBO9xlPnnM"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "6b9b9d843c2a19b4023d6d1f6032ac7ec9e8da4587a98dd08dc7a06e00974fee",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "3YazG7jOfqc"
+      },
+      "caption_evidence": {
+        "caption_sha256": "a79475e84c17c601af7fc7f91bf13e04a99c946edf19751509237fa387502bdc",
+        "info_sha256": "6b9b9d843c2a19b4023d6d1f6032ac7ec9e8da4587a98dd08dc7a06e00974fee",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "3YazG7jOfqc"
+      },
+      "corpus_path": "corpus/dialogues/youtube-3YazG7jOfqc.json",
+      "cue_count": 7,
+      "programme_type": "short",
+      "sha256": "0cbf14329d7bfd3affead345746593ea35f6a3c80892c4c157638bff4213610d",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "3YazG7jOfqc"
+      },
+      "video_id": "3YazG7jOfqc"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "ba14a2615930d199671ec00090b7b6121db5bde41ff33cf8d0aa5bc882f42b65",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "8W5W60OL5hY"
+      },
+      "caption_evidence": {
+        "caption_sha256": "da3be15451f470ea59b12b6611be116722ea04db87bb93a4049dbf3d5e22a888",
+        "info_sha256": "ba14a2615930d199671ec00090b7b6121db5bde41ff33cf8d0aa5bc882f42b65",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "8W5W60OL5hY"
+      },
+      "corpus_path": "corpus/dialogues/youtube-8W5W60OL5hY.json",
+      "cue_count": 85,
+      "programme_type": "short",
+      "sha256": "dc894eb7215a0cf2591b4ebfd00b1ba62c0989c3523d343b41068b92d32ed0a3",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "8W5W60OL5hY"
+      },
+      "video_id": "8W5W60OL5hY"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "b66f9606c62e598fd9a772d02dc355eceb35bf58d8ec30534d43e77ce8c84d4a",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ollzwfPV5yw"
+      },
+      "caption_evidence": {
+        "caption_sha256": "4ecaa511c415dad41482c93b807bf381d3508a94634d8d1f2a35fb551540b50f",
+        "info_sha256": "b66f9606c62e598fd9a772d02dc355eceb35bf58d8ec30534d43e77ce8c84d4a",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "ollzwfPV5yw"
+      },
+      "corpus_path": "corpus/dialogues/youtube-ollzwfPV5yw.json",
+      "cue_count": 14,
+      "programme_type": "short",
+      "sha256": "e5aa07e89289083d3f9246617e0f17341be6784f7b794a6f259ef88eaf5f08d2",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ollzwfPV5yw"
+      },
+      "video_id": "ollzwfPV5yw"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "cf96f813281a87fea05c5df6e894befb60c97f1d7210c2d4c034680e3cd00787",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "KpJEOy7-jts"
+      },
+      "caption_evidence": {
+        "caption_sha256": "2799bc0af1fa1cb9d8f8d340f74dc06cebb9cd89f73fe5590d7bcf9d878428eb",
+        "info_sha256": "cf96f813281a87fea05c5df6e894befb60c97f1d7210c2d4c034680e3cd00787",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "KpJEOy7-jts"
+      },
+      "corpus_path": "corpus/dialogues/youtube-KpJEOy7-jts.json",
+      "cue_count": 27,
+      "programme_type": "short",
+      "sha256": "33f68469d24fc5903c07b9f7fdc70c2ba5a8d65c9e8c8a6e9901ef8a905c145c",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "KpJEOy7-jts"
+      },
+      "video_id": "KpJEOy7-jts"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "ff7821948bd262d357ef2e7473e8cbfa485e30855fb1a70958f41cab7c9d6f78",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "CNUn_2Mq5bs"
+      },
+      "caption_evidence": {
+        "caption_sha256": "58f7706782736a6c3924cb169e50933d403a69834eb842044c35804525e9cfdc",
+        "info_sha256": "ff7821948bd262d357ef2e7473e8cbfa485e30855fb1a70958f41cab7c9d6f78",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "CNUn_2Mq5bs"
+      },
+      "corpus_path": "corpus/dialogues/youtube-CNUn_2Mq5bs.json",
+      "cue_count": 22,
+      "programme_type": "short",
+      "sha256": "4d94684f34cfedd58d05b49ba0d6947e15f56e2b0c0372fba9be8a040e0a6f7c",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "CNUn_2Mq5bs"
+      },
+      "video_id": "CNUn_2Mq5bs"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "5927432d4454303f063c07aa3dac62d27d10ecc5e89e223f7b0b8f1ae59d33da",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ccQcsQQEwNI"
+      },
+      "caption_evidence": {
+        "caption_sha256": "d1b23408f37369d85b642fdbb08a10c0a1cd6e028c68167ddd6c0d847a7f458c",
+        "info_sha256": "5927432d4454303f063c07aa3dac62d27d10ecc5e89e223f7b0b8f1ae59d33da",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "ccQcsQQEwNI"
+      },
+      "corpus_path": "corpus/dialogues/youtube-ccQcsQQEwNI.json",
+      "cue_count": 5,
+      "programme_type": "short",
+      "sha256": "e440d091f7513b3f64f34063eace098e151f110ae6a49cd55a88fe357c032380",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ccQcsQQEwNI"
+      },
+      "video_id": "ccQcsQQEwNI"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "a80e8e3a11c8a768681d949a7bd135f88a59ec7c8fb111980e7a31da508b3c05",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "PjhPdFCU984"
+      },
+      "caption_evidence": {
+        "caption_sha256": "4abe881f86f5e3378b66dcf1aaee01295f11ba08f7c0e7c8042c233c62eeba4a",
+        "info_sha256": "a80e8e3a11c8a768681d949a7bd135f88a59ec7c8fb111980e7a31da508b3c05",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "PjhPdFCU984"
+      },
+      "corpus_path": "corpus/dialogues/youtube-PjhPdFCU984.json",
+      "cue_count": 5,
+      "programme_type": "short",
+      "sha256": "d4d58f7ac14b86fe901794c6559b4c1203a864149861cd7631aa123d70caff66",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "PjhPdFCU984"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "4abe881f86f5e3378b66dcf1aaee01295f11ba08f7c0e7c8042c233c62eeba4a",
+        "public_metadata_sha256": "a80e8e3a11c8a768681d949a7bd135f88a59ec7c8fb111980e7a31da508b3c05",
+        "receipt_sha256": "e3665e1a94c1900db9ee755e9306185e4bc5cc7c5dd2fa00fe923df49e96ea8b",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "PjhPdFCU984"
+      },
+      "video_id": "PjhPdFCU984"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "4b9bcd3156b9295726aa7b5f287d56085dfae53bd57fa06d0e66944263fcb2b7",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "MmRHOhneC78"
+      },
+      "caption_evidence": {
+        "caption_sha256": "6b9185176b5efb955b1ae18405a1ddb894e7f7427391bd99f42647f09229848c",
+        "info_sha256": "4b9bcd3156b9295726aa7b5f287d56085dfae53bd57fa06d0e66944263fcb2b7",
+        "method": "publisher-captions",
+        "origin": "platform",
+        "video_id": "MmRHOhneC78"
+      },
+      "corpus_path": "corpus/dialogues/youtube-MmRHOhneC78.json",
+      "cue_count": 53,
+      "programme_type": "short",
+      "sha256": "8fde59885268500d846f70cb7bf70679e2e884f4b61b03742e6d2675eae2f30f",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "MmRHOhneC78"
+      },
+      "video_id": "MmRHOhneC78"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "708268baa045f330ab83a0b2d89fef1e85d9bdeb1eb95d74d94a530b0362809a",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "4-wWMFDib-g"
+      },
+      "caption_evidence": {
+        "caption_sha256": "60ea5d34c9fdc3436991e282cb97c508fedd483d8255b624cfa03b93e0c4d64f",
+        "info_sha256": "708268baa045f330ab83a0b2d89fef1e85d9bdeb1eb95d74d94a530b0362809a",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "4-wWMFDib-g"
+      },
+      "corpus_path": "corpus/dialogues/youtube-4-wWMFDib-g.json",
+      "cue_count": 3,
+      "programme_type": "short",
+      "sha256": "bd36d99861bc434aad61d40d7d8b926c5d072a8ee152b596f15a66e3da7cf9e6",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "4-wWMFDib-g"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "60ea5d34c9fdc3436991e282cb97c508fedd483d8255b624cfa03b93e0c4d64f",
+        "public_metadata_sha256": "708268baa045f330ab83a0b2d89fef1e85d9bdeb1eb95d74d94a530b0362809a",
+        "receipt_sha256": "3afc43ad328af60d86361cd719d976dae575d792b95aaa75c6fbe57e8a65c237",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "4-wWMFDib-g"
+      },
+      "video_id": "4-wWMFDib-g"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "c2d55085eda9fbb2be2c438306270199cf570683be68fddd512823e08d964fa5",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Nw4CpxASnkY"
+      },
+      "caption_evidence": {
+        "caption_sha256": "6d7108da26a95066df8cb61ee4909936b19d9269a57c4b7d06f896632fa2a124",
+        "info_sha256": "c2d55085eda9fbb2be2c438306270199cf570683be68fddd512823e08d964fa5",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "Nw4CpxASnkY"
+      },
+      "corpus_path": "corpus/dialogues/youtube-Nw4CpxASnkY.json",
+      "cue_count": 60,
+      "programme_type": "short",
+      "sha256": "53c8d4bb6eb3471d26ddf8f0c01e95239ea3448cd137a64760473fce4360d5fc",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Nw4CpxASnkY"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "6d7108da26a95066df8cb61ee4909936b19d9269a57c4b7d06f896632fa2a124",
+        "public_metadata_sha256": "c2d55085eda9fbb2be2c438306270199cf570683be68fddd512823e08d964fa5",
+        "receipt_sha256": "7247a2767affd64ef3814bea18c1bf2bbec157a1f27f5d02dceca93a2cd2dc42",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "Nw4CpxASnkY"
+      },
+      "video_id": "Nw4CpxASnkY"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "d26a941b184b46b22f57ea50bb05605fe9b3215ed5379779689285eec163d161",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "sgrZkD-QGsA"
+      },
+      "caption_evidence": {
+        "caption_sha256": "04887a86e4bb9c468852dd38bc90778edf887f53ebd4347c88ffa341088cc42b",
+        "info_sha256": "d26a941b184b46b22f57ea50bb05605fe9b3215ed5379779689285eec163d161",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "sgrZkD-QGsA"
+      },
+      "corpus_path": "corpus/dialogues/youtube-sgrZkD-QGsA.json",
+      "cue_count": 79,
+      "programme_type": "short",
+      "sha256": "e8ea2fc7f4d4144edddb46d9bbfb3cb88a136b12e649e7094ba765626d3aa1b3",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "sgrZkD-QGsA"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "04887a86e4bb9c468852dd38bc90778edf887f53ebd4347c88ffa341088cc42b",
+        "public_metadata_sha256": "d26a941b184b46b22f57ea50bb05605fe9b3215ed5379779689285eec163d161",
+        "receipt_sha256": "0739aada7012cb59b01812c05dcbf9fe3e75e2d143696b29c662df5d1e76dc44",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "sgrZkD-QGsA"
+      },
+      "video_id": "sgrZkD-QGsA"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "5fda23fcc098514bacd392a80da524005c89da0da2e0b19d71314f03693d2a32",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "L2Wtt66fhY0"
+      },
+      "caption_evidence": {
+        "caption_sha256": "47ef8880dd572778ba190e6f01203cff8070c6067793334c0d7ab483973c22db",
+        "info_sha256": "5fda23fcc098514bacd392a80da524005c89da0da2e0b19d71314f03693d2a32",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "L2Wtt66fhY0"
+      },
+      "corpus_path": "corpus/dialogues/youtube-L2Wtt66fhY0.json",
+      "cue_count": 83,
+      "programme_type": "short",
+      "sha256": "53674a6f55ab6620ce756c1b77ae54beec62c880244b9fe8d70f6fe6e34f1894",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "L2Wtt66fhY0"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "47ef8880dd572778ba190e6f01203cff8070c6067793334c0d7ab483973c22db",
+        "public_metadata_sha256": "5fda23fcc098514bacd392a80da524005c89da0da2e0b19d71314f03693d2a32",
+        "receipt_sha256": "32f3adc0be5885d0f678f7b545f4f01cda31b4cab943848819a3dda5bd320191",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "L2Wtt66fhY0"
+      },
+      "video_id": "L2Wtt66fhY0"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "ee5a9633178c34459275f3a558563f436cc1d083ae78a0e7ff985b0e9ea3558f",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "aUPcf1qzPHE"
+      },
+      "caption_evidence": {
+        "caption_sha256": "61955214fc5fddc6cd12713647499bc63a18343fb3a89eedbfd07e129e3196de",
+        "info_sha256": "ee5a9633178c34459275f3a558563f436cc1d083ae78a0e7ff985b0e9ea3558f",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "aUPcf1qzPHE"
+      },
+      "corpus_path": "corpus/dialogues/youtube-aUPcf1qzPHE.json",
+      "cue_count": 23,
+      "programme_type": "short",
+      "sha256": "e77d37b6964e5eec139f3d0f1dfe1e19be9cbaac15b8344c1648e7d11303ab15",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "aUPcf1qzPHE"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "61955214fc5fddc6cd12713647499bc63a18343fb3a89eedbfd07e129e3196de",
+        "public_metadata_sha256": "ee5a9633178c34459275f3a558563f436cc1d083ae78a0e7ff985b0e9ea3558f",
+        "receipt_sha256": "2c887af7210cbb4ab6d81d5fd49dab36a1597cfbbe344ee805f98a6e221d796c",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "aUPcf1qzPHE"
+      },
+      "video_id": "aUPcf1qzPHE"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "de01e6c84004b08abdd57a7f03321a5cf85e7c42ae4b491bc717aa77763c0931",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "xF70tguVetE"
+      },
+      "caption_evidence": {
+        "caption_sha256": "63404a9f517b9d4957232080a2853deb2ac82fe0b69c61737161de427aca7a6b",
+        "info_sha256": "de01e6c84004b08abdd57a7f03321a5cf85e7c42ae4b491bc717aa77763c0931",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "xF70tguVetE"
+      },
+      "corpus_path": "corpus/dialogues/youtube-xF70tguVetE.json",
+      "cue_count": 5,
+      "programme_type": "short",
+      "sha256": "c1c9e0f0a7f74dbdf63375d992a52c4ebe619d808c9f7dd6598ac6e94222efdd",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "xF70tguVetE"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "63404a9f517b9d4957232080a2853deb2ac82fe0b69c61737161de427aca7a6b",
+        "public_metadata_sha256": "de01e6c84004b08abdd57a7f03321a5cf85e7c42ae4b491bc717aa77763c0931",
+        "receipt_sha256": "8988006c3e32faaa755b77968f8d2b662cade1606d509ac282c6ff7f8d8bcc26",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "xF70tguVetE"
+      },
+      "video_id": "xF70tguVetE"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "f038530f81a2d2df1f3882aa4736c2879d1fa789a878a277bbde19d64cd3fe16",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Zu3iUG-WHS0"
+      },
+      "caption_evidence": {
+        "caption_sha256": "b5745d396aaf8bfc782d3af1839111703a2273e809a6d244739d3c9943f47987",
+        "info_sha256": "f038530f81a2d2df1f3882aa4736c2879d1fa789a878a277bbde19d64cd3fe16",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "Zu3iUG-WHS0"
+      },
+      "corpus_path": "corpus/dialogues/youtube-Zu3iUG-WHS0.json",
+      "cue_count": 11,
+      "programme_type": "short",
+      "sha256": "ab5030267e23aa1a7a64c7e40b8cad5ca9474a35b49414ed93967266e29bf1b4",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Zu3iUG-WHS0"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "b5745d396aaf8bfc782d3af1839111703a2273e809a6d244739d3c9943f47987",
+        "public_metadata_sha256": "f038530f81a2d2df1f3882aa4736c2879d1fa789a878a277bbde19d64cd3fe16",
+        "receipt_sha256": "18dedcf596e4a0983f2612fc35df44b605137d8773478459e375f71663da7b42",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "Zu3iUG-WHS0"
+      },
+      "video_id": "Zu3iUG-WHS0"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "f7cec88d48c7ddc12c6b820e03c4d2b01b8ff60ada00d07883880e1d3ed99f77",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "34cvwry8Gr0"
+      },
+      "caption_evidence": {
+        "caption_sha256": "8482f036f290df6d8eeb5d2182498db6e378faee0317d3927a1b0ac03cdd34dd",
+        "info_sha256": "f7cec88d48c7ddc12c6b820e03c4d2b01b8ff60ada00d07883880e1d3ed99f77",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "34cvwry8Gr0"
+      },
+      "corpus_path": "corpus/dialogues/youtube-34cvwry8Gr0.json",
+      "cue_count": 9,
+      "programme_type": "short",
+      "sha256": "e71eff1c0ed999799680e767d2ae82812528db9f14e651ee7a7e78aa5ed64e8d",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "34cvwry8Gr0"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "8482f036f290df6d8eeb5d2182498db6e378faee0317d3927a1b0ac03cdd34dd",
+        "public_metadata_sha256": "f7cec88d48c7ddc12c6b820e03c4d2b01b8ff60ada00d07883880e1d3ed99f77",
+        "receipt_sha256": "cd1f37f1fcc755e199287c35fa9527fce8fe63fe02e78b9c0cc7759285c941cf",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "34cvwry8Gr0"
+      },
+      "video_id": "34cvwry8Gr0"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "2f610cee9965971f814f3851062b3676dff0f0af6cc1180b99fdc886bd0772f1",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "9CMsCHwzRVE"
+      },
+      "caption_evidence": {
+        "caption_sha256": "9d60493d9997bc0d38334f1158d3fc666914d63a8d2be0547e06c5bd39be061e",
+        "info_sha256": "2f610cee9965971f814f3851062b3676dff0f0af6cc1180b99fdc886bd0772f1",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "9CMsCHwzRVE"
+      },
+      "corpus_path": "corpus/dialogues/youtube-9CMsCHwzRVE.json",
+      "cue_count": 45,
+      "programme_type": "short",
+      "sha256": "a23f3ca5cfae6fc690ff3e754f68248a92a191a4b883ac542c241d1ad386f1b2",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "9CMsCHwzRVE"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "9d60493d9997bc0d38334f1158d3fc666914d63a8d2be0547e06c5bd39be061e",
+        "public_metadata_sha256": "2f610cee9965971f814f3851062b3676dff0f0af6cc1180b99fdc886bd0772f1",
+        "receipt_sha256": "6c55a4f09df6f46efb9919c9a2deb6c40713e4924ed9d4d0353dc00da3933b8f",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "9CMsCHwzRVE"
+      },
+      "video_id": "9CMsCHwzRVE"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "20d3856b1cd88a09cd4c3180cb24f23ab99b64a9a1d097c2768469abee5ef2d5",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "N5CklQRyQ90"
+      },
+      "caption_evidence": {
+        "caption_sha256": "41fb827c5a0e02aba393c886304a11bb49fd43780bcb8d367991eb8e414b5e58",
+        "info_sha256": "20d3856b1cd88a09cd4c3180cb24f23ab99b64a9a1d097c2768469abee5ef2d5",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "N5CklQRyQ90"
+      },
+      "corpus_path": "corpus/dialogues/youtube-N5CklQRyQ90.json",
+      "cue_count": 23,
+      "programme_type": "short",
+      "sha256": "6034c5a190b83f58e3455bf10fa5b9e7d807a54ed76a68b183d102a9538d2ce5",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "N5CklQRyQ90"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "41fb827c5a0e02aba393c886304a11bb49fd43780bcb8d367991eb8e414b5e58",
+        "public_metadata_sha256": "20d3856b1cd88a09cd4c3180cb24f23ab99b64a9a1d097c2768469abee5ef2d5",
+        "receipt_sha256": "d9560b4cc9437f008e0022a3cdb45caa7c3966afb3aa51a32a6cc0014e3ed0e4",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "N5CklQRyQ90"
+      },
+      "video_id": "N5CklQRyQ90"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "d4c76535fc7db67c7dfae8e660ac07298c518b148940ab515e47f2a72188f5cd",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "99tKW9AXWZA"
+      },
+      "caption_evidence": {
+        "caption_sha256": "03926f61e0a7f6a83b4c1ae99549eafd4a98f263935b346a6fd542eb0bd992b3",
+        "info_sha256": "d4c76535fc7db67c7dfae8e660ac07298c518b148940ab515e47f2a72188f5cd",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "99tKW9AXWZA"
+      },
+      "corpus_path": "corpus/dialogues/youtube-99tKW9AXWZA.json",
+      "cue_count": 62,
+      "programme_type": "short",
+      "sha256": "f6c47eda078e99063ec114750ab2b1dc3c0e889b3dd1bd1c2f72f5fb868b1152",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "99tKW9AXWZA"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "03926f61e0a7f6a83b4c1ae99549eafd4a98f263935b346a6fd542eb0bd992b3",
+        "public_metadata_sha256": "d4c76535fc7db67c7dfae8e660ac07298c518b148940ab515e47f2a72188f5cd",
+        "receipt_sha256": "81a0eb2e0459923ce3aa4d978b705178f93cb338464e92f224397dbff1303925",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "99tKW9AXWZA"
+      },
+      "video_id": "99tKW9AXWZA"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "3a72ec62f7367ff277d899c224e45ba5b8e9a1233660da37f6bab76568968d0e",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "tCjwUBZE68E"
+      },
+      "caption_evidence": {
+        "caption_sha256": "7ea6c8ae398255753c30fad307e4dfbc329170782ab626b90131a6092831c1bc",
+        "info_sha256": "3a72ec62f7367ff277d899c224e45ba5b8e9a1233660da37f6bab76568968d0e",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "tCjwUBZE68E"
+      },
+      "corpus_path": "corpus/dialogues/youtube-tCjwUBZE68E.json",
+      "cue_count": 20,
+      "programme_type": "short",
+      "sha256": "f4627f70d5a58cfeb4607a829f6c9f6d72578ce2da6e6c27bca0decdd4970adf",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "tCjwUBZE68E"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "7ea6c8ae398255753c30fad307e4dfbc329170782ab626b90131a6092831c1bc",
+        "public_metadata_sha256": "3a72ec62f7367ff277d899c224e45ba5b8e9a1233660da37f6bab76568968d0e",
+        "receipt_sha256": "8e8b791d44848ff2355e58613ad329b92ebed9513dadb6a054c3889cf3538ee2",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "tCjwUBZE68E"
+      },
+      "video_id": "tCjwUBZE68E"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "12313f0051707d8e2b92ac558ee9686c39d26570a3f88f2760aff9e90ae37add",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "72qufa9iXeI"
+      },
+      "caption_evidence": {
+        "caption_sha256": "a12242074f2d7761379910529245359b703658ee1f457d70378f78c49907e5e6",
+        "info_sha256": "12313f0051707d8e2b92ac558ee9686c39d26570a3f88f2760aff9e90ae37add",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "72qufa9iXeI"
+      },
+      "corpus_path": "corpus/dialogues/youtube-72qufa9iXeI.json",
+      "cue_count": 11,
+      "parent_binding": {
+        "parent_url": "https://www.youtube.com/watch?v=KpQwWNkyEsQ",
+        "receipt_sha256": "e7cfd835100daebfe89810d15171650143aff8883d960940b3317a3bd931fd3a",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "72qufa9iXeI"
+      },
+      "programme_type": "short",
+      "sha256": "ad8491e092c91f4e1fbf4ae9eef17602827d573f41bf61ee8339e924235fdc4c",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "72qufa9iXeI"
+      },
+      "source_binding": {
+        "association_basis": "exact video IDs and captions in owner publication readback 2026-10-15. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "a12242074f2d7761379910529245359b703658ee1f457d70378f78c49907e5e6",
+        "public_metadata_sha256": "12313f0051707d8e2b92ac558ee9686c39d26570a3f88f2760aff9e90ae37add",
+        "receipt_sha256": "f08e1f8c9a8f3f85cc30e2eb7399cdb2e5d93fa599fbed6a3f551edf8fa290d5",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "production-srt",
+        "video_id": "72qufa9iXeI"
+      },
+      "video_id": "72qufa9iXeI"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "b72d716f816687a9d87bc43c29a82987e56d8ad6cfa422b1f3b0341ae5cb9091",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "viEY-vj9EUc"
+      },
+      "caption_evidence": {
+        "caption_sha256": "4cbdb1499879e1ed941c1fb561980f7d9e5c595d928786af1fc3c4c4a05835f2",
+        "info_sha256": "b72d716f816687a9d87bc43c29a82987e56d8ad6cfa422b1f3b0341ae5cb9091",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "viEY-vj9EUc"
+      },
+      "corpus_path": "corpus/dialogues/youtube-viEY-vj9EUc.json",
+      "cue_count": 74,
+      "programme_type": "short",
+      "sha256": "1b53591be2d09135d9562b9d7323e42e4a79f444f776b11362f59092e3796778",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "viEY-vj9EUc"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "4cbdb1499879e1ed941c1fb561980f7d9e5c595d928786af1fc3c4c4a05835f2",
+        "public_metadata_sha256": "b72d716f816687a9d87bc43c29a82987e56d8ad6cfa422b1f3b0341ae5cb9091",
+        "receipt_sha256": "0824c2ee4b617491aab8796610064dad523a6c842c8ab15f0a3b6967d7b22f66",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "viEY-vj9EUc"
+      },
+      "video_id": "viEY-vj9EUc"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "3ed4fece08b0276baf59c73c7ccea1edce64d7a931cc9f50be687e3cf1cad09b",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "MEIC6so6RI8"
+      },
+      "caption_evidence": {
+        "caption_sha256": "0f03e92dca10c7668c493156bb4ae479f5bc9970937271a0c107ee21cc0793ad",
+        "info_sha256": "3ed4fece08b0276baf59c73c7ccea1edce64d7a931cc9f50be687e3cf1cad09b",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "MEIC6so6RI8"
+      },
+      "corpus_path": "corpus/dialogues/youtube-MEIC6so6RI8.json",
+      "cue_count": 16,
+      "parent_binding": {
+        "parent_url": "https://www.youtube.com/watch?v=KpQwWNkyEsQ",
+        "receipt_sha256": "6a61a27164d992e5818ff82a6c59b652af78b0559e93ce9bf3a76df0000f9c3d",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "MEIC6so6RI8"
+      },
+      "programme_type": "short",
+      "sha256": "c9e66aa034ff2efaf464c72dcd60fa15fb3e799a5035967767247b955bb728da",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "MEIC6so6RI8"
+      },
+      "source_binding": {
+        "association_basis": "exact video IDs and captions in owner publication readback 2026-10-15. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "0f03e92dca10c7668c493156bb4ae479f5bc9970937271a0c107ee21cc0793ad",
+        "public_metadata_sha256": "3ed4fece08b0276baf59c73c7ccea1edce64d7a931cc9f50be687e3cf1cad09b",
+        "receipt_sha256": "9c726cbec4e6e4e690ebbd51d206906604563f65377dc931e00c047052655f0d",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "production-srt",
+        "video_id": "MEIC6so6RI8"
+      },
+      "video_id": "MEIC6so6RI8"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "6d7d96e6fa192d8d1442292ebe5445d2034ed79527660a74ed531652639aac44",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "CJOTgEA0pnk"
+      },
+      "caption_evidence": {
+        "caption_sha256": "8a7d8d2e66ecfc65bebaa3a4477e7c1a1192ccd42418b7ba00949ea07ec093c9",
+        "info_sha256": "6d7d96e6fa192d8d1442292ebe5445d2034ed79527660a74ed531652639aac44",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "CJOTgEA0pnk"
+      },
+      "corpus_path": "corpus/dialogues/youtube-CJOTgEA0pnk.json",
+      "cue_count": 52,
+      "programme_type": "short",
+      "sha256": "47c5cc1410ba4d92ddbd01eaea2943250a7ff8df9c515f62f545442b8046ae5f",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "CJOTgEA0pnk"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "8a7d8d2e66ecfc65bebaa3a4477e7c1a1192ccd42418b7ba00949ea07ec093c9",
+        "public_metadata_sha256": "6d7d96e6fa192d8d1442292ebe5445d2034ed79527660a74ed531652639aac44",
+        "receipt_sha256": "930eea6bb46c6266e93926c467956e6dfb2debbba45b586cff33d9747fe2f866",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "CJOTgEA0pnk"
+      },
+      "video_id": "CJOTgEA0pnk"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "301abead822a92aaed0b8f75e7cc79c41a414f176317f6adcc7555f1f0a82428",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ENPjw5Hxums"
+      },
+      "caption_evidence": {
+        "caption_sha256": "9ff72e9024d99999579bd4dc0b89ae7f61ff04b84d8cd9fc780aba74d3e0179c",
+        "info_sha256": "301abead822a92aaed0b8f75e7cc79c41a414f176317f6adcc7555f1f0a82428",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "ENPjw5Hxums"
+      },
+      "corpus_path": "corpus/dialogues/youtube-ENPjw5Hxums.json",
+      "cue_count": 13,
+      "parent_binding": {
+        "parent_url": "https://www.youtube.com/watch?v=KpQwWNkyEsQ",
+        "receipt_sha256": "dcdf2d64875d944e13a49c6554014ddbcd1a1d75a373c47a9d7c8fb01cb59947",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ENPjw5Hxums"
+      },
+      "programme_type": "short",
+      "sha256": "2f09f877c0cf5e778b98f9baed9add7ff1c1f48244a2d6dc231fba1d0426adc1",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ENPjw5Hxums"
+      },
+      "source_binding": {
+        "association_basis": "exact video IDs and captions in owner publication readback 2026-10-15. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "9ff72e9024d99999579bd4dc0b89ae7f61ff04b84d8cd9fc780aba74d3e0179c",
+        "public_metadata_sha256": "301abead822a92aaed0b8f75e7cc79c41a414f176317f6adcc7555f1f0a82428",
+        "receipt_sha256": "84dcc9a59a7d100ffcf2b384d92491c286c7e3f8333bb0f3dbebebdff8c9da5b",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "production-srt",
+        "video_id": "ENPjw5Hxums"
+      },
+      "video_id": "ENPjw5Hxums"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "3259ac78f2e10a106507de9a150ab3ce65671c61a80f04388e3c1262372d107c",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "aO_vSGwuVBw"
+      },
+      "caption_evidence": {
+        "caption_sha256": "715128b2ae035d1f948387dea945786f68988a30d71a65f7842323ada5e9346d",
+        "info_sha256": "3259ac78f2e10a106507de9a150ab3ce65671c61a80f04388e3c1262372d107c",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "aO_vSGwuVBw"
+      },
+      "corpus_path": "corpus/dialogues/youtube-aO_vSGwuVBw.json",
+      "cue_count": 70,
+      "programme_type": "short",
+      "sha256": "f4b5c446bf3ccff4e7539dc4553368860451a77974ef51256ff1345847979cda",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "aO_vSGwuVBw"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "715128b2ae035d1f948387dea945786f68988a30d71a65f7842323ada5e9346d",
+        "public_metadata_sha256": "3259ac78f2e10a106507de9a150ab3ce65671c61a80f04388e3c1262372d107c",
+        "receipt_sha256": "82f938d421436e9e2f1333aefebb3132dd4cc485fd39e5c7954eb202ecc4a0da",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "aO_vSGwuVBw"
+      },
+      "video_id": "aO_vSGwuVBw"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "f76598a249e987a59ff1941d951590d76103bb694efdaac9f061a11c6c4ae60d",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "amuLTR9VUu0"
+      },
+      "caption_evidence": {
+        "caption_sha256": "e0009d4fd135a8468372a2b499f57e0f43c71242e9dd9021c58a6da5c0ec320b",
+        "info_sha256": "f76598a249e987a59ff1941d951590d76103bb694efdaac9f061a11c6c4ae60d",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "amuLTR9VUu0"
+      },
+      "corpus_path": "corpus/dialogues/youtube-amuLTR9VUu0.json",
+      "cue_count": 18,
+      "parent_binding": {
+        "parent_url": "https://www.youtube.com/watch?v=KpQwWNkyEsQ",
+        "receipt_sha256": "73e2f333efc95c5b90cb996c72c2761715cbf409f4b6a36b2daede84f9e53ec9",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "amuLTR9VUu0"
+      },
+      "programme_type": "short",
+      "sha256": "d223d3a79f16cb904e8227ecb701907f32f2ba72e4dbfc5f4155944f07c71bef",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "amuLTR9VUu0"
+      },
+      "source_binding": {
+        "association_basis": "exact video IDs and captions in owner publication readback 2026-10-15. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "e0009d4fd135a8468372a2b499f57e0f43c71242e9dd9021c58a6da5c0ec320b",
+        "public_metadata_sha256": "f76598a249e987a59ff1941d951590d76103bb694efdaac9f061a11c6c4ae60d",
+        "receipt_sha256": "5ca8540c490c91457a955cef750df72e1474e9832710f6e958eef6348631399e",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "production-srt",
+        "video_id": "amuLTR9VUu0"
+      },
+      "video_id": "amuLTR9VUu0"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "8ac7ea916401b53c02627a6900ed2b48adc8405b90bd5daf5ea636c8f5b87cde",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "SejR8kXZSIw"
+      },
+      "caption_evidence": {
+        "caption_sha256": "dac776460cfd569712b3a9c98c4be21cce92fd9c1132da984626334c1d1d1768",
+        "info_sha256": "8ac7ea916401b53c02627a6900ed2b48adc8405b90bd5daf5ea636c8f5b87cde",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "SejR8kXZSIw"
+      },
+      "corpus_path": "corpus/dialogues/youtube-SejR8kXZSIw.json",
+      "cue_count": 56,
+      "programme_type": "short",
+      "sha256": "a2ee9c48db630ab795ace57edaae5528305550cc75726add35c67a977ffb1629",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "SejR8kXZSIw"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "dac776460cfd569712b3a9c98c4be21cce92fd9c1132da984626334c1d1d1768",
+        "public_metadata_sha256": "8ac7ea916401b53c02627a6900ed2b48adc8405b90bd5daf5ea636c8f5b87cde",
+        "receipt_sha256": "bf36472821a5ccac945ea670708ef4e9ea0c135a817bcd523a92fe67ed7927d5",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "SejR8kXZSIw"
+      },
+      "video_id": "SejR8kXZSIw"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "343b40878c85f98bcf9990a2e262cc4aa8ac0551c17f7b0daa0b016f297b526f",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "v7WvGMy6EOQ"
+      },
+      "caption_evidence": {
+        "caption_sha256": "e367735d6ebd447329f8eceb57dd39f6af1601ddd6d8e195b7adf5bd8506ffde",
+        "info_sha256": "343b40878c85f98bcf9990a2e262cc4aa8ac0551c17f7b0daa0b016f297b526f",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "v7WvGMy6EOQ"
+      },
+      "corpus_path": "corpus/dialogues/youtube-v7WvGMy6EOQ.json",
+      "cue_count": 45,
+      "programme_type": "short",
+      "sha256": "587e67a26a15fe4f60963ccab421ff727fa53f8bda520cff622372e1341fb5a3",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "v7WvGMy6EOQ"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "e367735d6ebd447329f8eceb57dd39f6af1601ddd6d8e195b7adf5bd8506ffde",
+        "public_metadata_sha256": "343b40878c85f98bcf9990a2e262cc4aa8ac0551c17f7b0daa0b016f297b526f",
+        "receipt_sha256": "c43d555cc741b5c47bd03dc6fea9b53f68965dfee82b25c3630799dd74b87541",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "v7WvGMy6EOQ"
+      },
+      "video_id": "v7WvGMy6EOQ"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "b160933899d329d8ecf3a0a56c6e493568851b2cf89ab8f3aa72e476923ee1c4",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "6oFa1QlH70c"
+      },
+      "caption_evidence": {
+        "caption_sha256": "c31e9dd3bcb0423b8b6ac410d0e284ab7824d5545651c4ee735c96b4c08d90ac",
+        "info_sha256": "b160933899d329d8ecf3a0a56c6e493568851b2cf89ab8f3aa72e476923ee1c4",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "6oFa1QlH70c"
+      },
+      "corpus_path": "corpus/dialogues/youtube-6oFa1QlH70c.json",
+      "cue_count": 54,
+      "programme_type": "short",
+      "sha256": "9f5d0333ae8d1b0dd5e0b8ffc4e8099570c17a9364489cabb0622b2cdd2ac5c1",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "6oFa1QlH70c"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "c31e9dd3bcb0423b8b6ac410d0e284ab7824d5545651c4ee735c96b4c08d90ac",
+        "public_metadata_sha256": "b160933899d329d8ecf3a0a56c6e493568851b2cf89ab8f3aa72e476923ee1c4",
+        "receipt_sha256": "cdf9be407b9237183dcc4af2c3aceaba4e3f561faea490e0b1b09f487b50ba9b",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "6oFa1QlH70c"
+      },
+      "video_id": "6oFa1QlH70c"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "de239d7a0da1ab632a173cf356d4f561445c9e7eba6c1af0ec9f100ffbc0283f",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "d9FPA1dNJa0"
+      },
+      "caption_evidence": {
+        "caption_sha256": "ec5116fe2a8fe3c65b7bec2454e7f3c8b8c3533c65626ec81ec9f905009d6170",
+        "info_sha256": "de239d7a0da1ab632a173cf356d4f561445c9e7eba6c1af0ec9f100ffbc0283f",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "d9FPA1dNJa0"
+      },
+      "corpus_path": "corpus/dialogues/youtube-d9FPA1dNJa0.json",
+      "cue_count": 44,
+      "programme_type": "short",
+      "sha256": "4442cd9a380eab5037f7fc554456d2c74695555636e51e52b2b5d9bfeb4dc1f5",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "d9FPA1dNJa0"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "ec5116fe2a8fe3c65b7bec2454e7f3c8b8c3533c65626ec81ec9f905009d6170",
+        "public_metadata_sha256": "de239d7a0da1ab632a173cf356d4f561445c9e7eba6c1af0ec9f100ffbc0283f",
+        "receipt_sha256": "2f9a3ff2764746b766032ea368905c47b02b6b4aae51040b13dae7dda56e5b8d",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "d9FPA1dNJa0"
+      },
+      "video_id": "d9FPA1dNJa0"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "0871fa024fb91b4ee73727fc03a04447cdcd9aacce92664b07ae9599c93fca83",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "C1ypoKpqOXw"
+      },
+      "caption_evidence": {
+        "caption_sha256": "e7fa1b955273001bae94680b935294d3bb7edec332d145f570aaf155342c8448",
+        "info_sha256": "0871fa024fb91b4ee73727fc03a04447cdcd9aacce92664b07ae9599c93fca83",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "C1ypoKpqOXw"
+      },
+      "corpus_path": "corpus/dialogues/youtube-C1ypoKpqOXw.json",
+      "cue_count": 77,
+      "programme_type": "short",
+      "sha256": "e752747f8d61b54d0f89100a7d58bd3a3ebefc7606ccd44f9612dd2b8ea46d72",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "C1ypoKpqOXw"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "e7fa1b955273001bae94680b935294d3bb7edec332d145f570aaf155342c8448",
+        "public_metadata_sha256": "0871fa024fb91b4ee73727fc03a04447cdcd9aacce92664b07ae9599c93fca83",
+        "receipt_sha256": "684b5d8c4b66e370717eae5e3069a9b9f0e0c16094b65591a24a93a146679843",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "C1ypoKpqOXw"
+      },
+      "video_id": "C1ypoKpqOXw"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "0e379a5fd3bfaacbc59d71bd36114c54a8f81fc407329fb12ae84cb8d6bc2c8d",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ZCaaRICH36c"
+      },
+      "caption_evidence": {
+        "caption_sha256": "38a222ade33a08ee44baff91d5a42689f4b445df2f1dea6301b89b6de0dad3a4",
+        "info_sha256": "0e379a5fd3bfaacbc59d71bd36114c54a8f81fc407329fb12ae84cb8d6bc2c8d",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "ZCaaRICH36c"
+      },
+      "corpus_path": "corpus/dialogues/youtube-ZCaaRICH36c.json",
+      "cue_count": 68,
+      "programme_type": "short",
+      "sha256": "0d5182787269993dd9d7274231593625613eea73c34ac65f55027586e77006d8",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ZCaaRICH36c"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "38a222ade33a08ee44baff91d5a42689f4b445df2f1dea6301b89b6de0dad3a4",
+        "public_metadata_sha256": "0e379a5fd3bfaacbc59d71bd36114c54a8f81fc407329fb12ae84cb8d6bc2c8d",
+        "receipt_sha256": "1bffdbc422834a3040cdfde731fa70c42af361c3f2b8dacefea6a0192923408b",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "ZCaaRICH36c"
+      },
+      "video_id": "ZCaaRICH36c"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "3e93c11a1de6d9d304218957cd35429f32dee66115e19281e68ee5901777355b",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "f3n4LwDqqzc"
+      },
+      "caption_evidence": {
+        "caption_sha256": "b6e4e0730f12646ed67c8b7ecdc807a375bb13ffaaaa4472c14e34d4de62d4ee",
+        "info_sha256": "3e93c11a1de6d9d304218957cd35429f32dee66115e19281e68ee5901777355b",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "f3n4LwDqqzc"
+      },
+      "corpus_path": "corpus/dialogues/youtube-f3n4LwDqqzc.json",
+      "cue_count": 13,
+      "programme_type": "short",
+      "sha256": "7be9deddb67fe4ad69970072f9d88daa55e955da8cc9e9dca2378e5116073bba",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "f3n4LwDqqzc"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "b6e4e0730f12646ed67c8b7ecdc807a375bb13ffaaaa4472c14e34d4de62d4ee",
+        "public_metadata_sha256": "3e93c11a1de6d9d304218957cd35429f32dee66115e19281e68ee5901777355b",
+        "receipt_sha256": "c046568f266b34175cd9a20501d30b8c0a5398f907e4e14c3c7de88cdf854117",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "f3n4LwDqqzc"
+      },
+      "video_id": "f3n4LwDqqzc"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "9a27ce3ee478fb48079b171b2a6e8c28c81568d72d779c6636b30375dafc3f5f",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "x_Uvmvf557o"
+      },
+      "caption_evidence": {
+        "caption_sha256": "0befb8dcfd0e5f3133ffbb0f5e0550173ed12baeb887a6dc16b19826c06cd0a9",
+        "info_sha256": "9a27ce3ee478fb48079b171b2a6e8c28c81568d72d779c6636b30375dafc3f5f",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "x_Uvmvf557o"
+      },
+      "corpus_path": "corpus/dialogues/youtube-x_Uvmvf557o.json",
+      "cue_count": 50,
+      "programme_type": "short",
+      "sha256": "7fd17b5e55c2e3fcd128b204a4e3f55bf481e2c4ccbb1f75cbd686c02420fb20",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "x_Uvmvf557o"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "0befb8dcfd0e5f3133ffbb0f5e0550173ed12baeb887a6dc16b19826c06cd0a9",
+        "public_metadata_sha256": "9a27ce3ee478fb48079b171b2a6e8c28c81568d72d779c6636b30375dafc3f5f",
+        "receipt_sha256": "90bfa5aa6cd59415ffd786bdbae7d917863cd52802a36b4be3c9349dc77ad251",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "x_Uvmvf557o"
+      },
+      "video_id": "x_Uvmvf557o"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "0b55230d9c6a09295b7fd6bcd45eb4fd1de99134b2cd02f7e7a1ffb5d61a7fe5",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "s9eica-2B90"
+      },
+      "caption_evidence": {
+        "caption_sha256": "ab529c3bcc02ff85487a1b68f62eecf31cf23cb97dbd159c964ce6288c4ef4be",
+        "info_sha256": "0b55230d9c6a09295b7fd6bcd45eb4fd1de99134b2cd02f7e7a1ffb5d61a7fe5",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "s9eica-2B90"
+      },
+      "corpus_path": "corpus/dialogues/youtube-s9eica-2B90.json",
+      "cue_count": 39,
+      "programme_type": "short",
+      "sha256": "f7dc6156eee767527702628870b80bf351f0caeb9c0a83a66b9e8696a4ac20e3",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "s9eica-2B90"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "ab529c3bcc02ff85487a1b68f62eecf31cf23cb97dbd159c964ce6288c4ef4be",
+        "public_metadata_sha256": "0b55230d9c6a09295b7fd6bcd45eb4fd1de99134b2cd02f7e7a1ffb5d61a7fe5",
+        "receipt_sha256": "1e876a8a04dbb8b1147ba387199c4dc8094baa484bdb1081dfda8bf4f5325294",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "s9eica-2B90"
+      },
+      "video_id": "s9eica-2B90"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "f059343168a614a081043cabbbab17160d6d74993dd24cd1296935ee2990a079",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "QagrrqKFmOA"
+      },
+      "caption_evidence": {
+        "caption_sha256": "53dccbf042ce19f9362f49a40095666bbe78183ddaf5b596b4be10c6d0b87a6d",
+        "info_sha256": "f059343168a614a081043cabbbab17160d6d74993dd24cd1296935ee2990a079",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "QagrrqKFmOA"
+      },
+      "corpus_path": "corpus/dialogues/youtube-QagrrqKFmOA.json",
+      "cue_count": 48,
+      "programme_type": "short",
+      "sha256": "465edb25fe5d35da3079999ca2033dffdd449c039300bf44be4ef72a43c5ef59",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "QagrrqKFmOA"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "53dccbf042ce19f9362f49a40095666bbe78183ddaf5b596b4be10c6d0b87a6d",
+        "public_metadata_sha256": "f059343168a614a081043cabbbab17160d6d74993dd24cd1296935ee2990a079",
+        "receipt_sha256": "9b86514c41838c94fd248c9cc922f7adb428a80eca4e7e15d9f8e247c708a2de",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "QagrrqKFmOA"
+      },
+      "video_id": "QagrrqKFmOA"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "35a8a73cb5fd94c61ead5479b925f514caa5b1d5bbfd25649c11fe9d82e66019",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "mpQa03G6gAo"
+      },
+      "caption_evidence": {
+        "caption_sha256": "26ad49103dbcc41e1df287d380a9841d4e691396765a705cc5ccec2a5557e67c",
+        "info_sha256": "35a8a73cb5fd94c61ead5479b925f514caa5b1d5bbfd25649c11fe9d82e66019",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "mpQa03G6gAo"
+      },
+      "corpus_path": "corpus/dialogues/youtube-mpQa03G6gAo.json",
+      "cue_count": 86,
+      "programme_type": "short",
+      "sha256": "e0a6306881af3fbb0a0279b2be7b7f8df92a5b19a68f57be6e41c82a740b2f6f",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "mpQa03G6gAo"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "26ad49103dbcc41e1df287d380a9841d4e691396765a705cc5ccec2a5557e67c",
+        "public_metadata_sha256": "35a8a73cb5fd94c61ead5479b925f514caa5b1d5bbfd25649c11fe9d82e66019",
+        "receipt_sha256": "ff9b2d53bc89d2001a1cf5a520ba4bf0223ef6c6f14a421cd8833d3020946ec6",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "mpQa03G6gAo"
+      },
+      "video_id": "mpQa03G6gAo"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "740bac3d25fd31c8f2d0f25b926360976935ef3086801f1f6a15cc592f67f870",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "-SZPobQirYY"
+      },
+      "caption_evidence": {
+        "caption_sha256": "467fb6db5341d154afe1cab74af0740a1baeca843d2837b957f2671604dcdcf9",
+        "info_sha256": "740bac3d25fd31c8f2d0f25b926360976935ef3086801f1f6a15cc592f67f870",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "-SZPobQirYY"
+      },
+      "corpus_path": "corpus/dialogues/youtube--SZPobQirYY.json",
+      "cue_count": 61,
+      "programme_type": "short",
+      "sha256": "86d68ce9156f141ac36bb29e4e9dc19bf9371e92111ce8ad87e45b0a1a3b536b",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "-SZPobQirYY"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "467fb6db5341d154afe1cab74af0740a1baeca843d2837b957f2671604dcdcf9",
+        "public_metadata_sha256": "740bac3d25fd31c8f2d0f25b926360976935ef3086801f1f6a15cc592f67f870",
+        "receipt_sha256": "265992aa1623dd519832e1d6182d87e897e49617ff4bc9d55841879d5e7e19ba",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "-SZPobQirYY"
+      },
+      "video_id": "-SZPobQirYY"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "30c37a33d13f104090cb753d73ab80fcb923b0ef4969d31b9145642f578c9ab6",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "cEoP8O6nWEc"
+      },
+      "caption_evidence": {
+        "caption_sha256": "f953c0f80cd10421395fde20e38ca58b76c7d6a8c3fe2afa9699f4fe69cbac7a",
+        "info_sha256": "30c37a33d13f104090cb753d73ab80fcb923b0ef4969d31b9145642f578c9ab6",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "cEoP8O6nWEc"
+      },
+      "corpus_path": "corpus/dialogues/youtube-cEoP8O6nWEc.json",
+      "cue_count": 48,
+      "programme_type": "short",
+      "sha256": "09d26ef30878d941f9131f6a964b98b2ec324f1912fab76baa5fdb7e1b6a67fe",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "cEoP8O6nWEc"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "f953c0f80cd10421395fde20e38ca58b76c7d6a8c3fe2afa9699f4fe69cbac7a",
+        "public_metadata_sha256": "30c37a33d13f104090cb753d73ab80fcb923b0ef4969d31b9145642f578c9ab6",
+        "receipt_sha256": "e73a5d1f692ad45404396d55147d40bca2e978bc120f4e1093e2e4914dfc4d40",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "cEoP8O6nWEc"
+      },
+      "video_id": "cEoP8O6nWEc"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "1c46fbd4f6b6e9ff3d77937e2d65a7209f3abd87bed8e839d0f596b35be41899",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "tA_rH4qoHms"
+      },
+      "caption_evidence": {
+        "caption_sha256": "e0f19c8ae14b46f68c8d872ec3b02b8ad011545074c8036de594a2a3cc6f0225",
+        "info_sha256": "1c46fbd4f6b6e9ff3d77937e2d65a7209f3abd87bed8e839d0f596b35be41899",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "tA_rH4qoHms"
+      },
+      "corpus_path": "corpus/dialogues/youtube-tA_rH4qoHms.json",
+      "cue_count": 7,
+      "programme_type": "short",
+      "sha256": "af39c7cbe7ffbc377aaad3c1a90055a29295f9758403b10be13d5fb228247521",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "tA_rH4qoHms"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "e0f19c8ae14b46f68c8d872ec3b02b8ad011545074c8036de594a2a3cc6f0225",
+        "public_metadata_sha256": "1c46fbd4f6b6e9ff3d77937e2d65a7209f3abd87bed8e839d0f596b35be41899",
+        "receipt_sha256": "43c9f8998cd78e152c8869915ed890f48a0293ce0caa6d829f9c740d85595a30",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "tA_rH4qoHms"
+      },
+      "video_id": "tA_rH4qoHms"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "8064bf55004af62bc88455122e46e1853209cab6101fcbb386efda23d72f0f18",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "zeC2lizaNFY"
+      },
+      "caption_evidence": {
+        "caption_sha256": "3acd316b9c4e135d078ff1dfcecf961b091cd196ef106bdffc7a26a2a97dc9a6",
+        "info_sha256": "8064bf55004af62bc88455122e46e1853209cab6101fcbb386efda23d72f0f18",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "zeC2lizaNFY"
+      },
+      "corpus_path": "corpus/dialogues/youtube-zeC2lizaNFY.json",
+      "cue_count": 37,
+      "programme_type": "short",
+      "sha256": "14e202554a467401df275015369d89f31a9d06b312e80cfb413457df3d70bc07",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "zeC2lizaNFY"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "3acd316b9c4e135d078ff1dfcecf961b091cd196ef106bdffc7a26a2a97dc9a6",
+        "public_metadata_sha256": "8064bf55004af62bc88455122e46e1853209cab6101fcbb386efda23d72f0f18",
+        "receipt_sha256": "2dc0b1aa5f109366a5179eb954c8e5603885dff1080bb8c55afecd533368a2e7",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "zeC2lizaNFY"
+      },
+      "video_id": "zeC2lizaNFY"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "6ddd5da18c273e96e073ecd02c3612fc547963c72448e668f0e53d4e4a48187b",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "znuPF_Hw9e8"
+      },
+      "caption_evidence": {
+        "caption_sha256": "ef102d56c909a9284236fe53451f5ab2bf3e6d5f23e39f442ea92aaa0091eb78",
+        "info_sha256": "6ddd5da18c273e96e073ecd02c3612fc547963c72448e668f0e53d4e4a48187b",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "znuPF_Hw9e8"
+      },
+      "corpus_path": "corpus/dialogues/youtube-znuPF_Hw9e8.json",
+      "cue_count": 19,
+      "programme_type": "short",
+      "sha256": "98b73251624f9e241351d5b15d845677ea5e60e30340c899d8b595b3de9d0c7a",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "znuPF_Hw9e8"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "ef102d56c909a9284236fe53451f5ab2bf3e6d5f23e39f442ea92aaa0091eb78",
+        "public_metadata_sha256": "6ddd5da18c273e96e073ecd02c3612fc547963c72448e668f0e53d4e4a48187b",
+        "receipt_sha256": "6afbd7e9872f1f1c76f3914e9ac74198f92cc415744f1085295d5d974a0b8dd2",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "znuPF_Hw9e8"
+      },
+      "video_id": "znuPF_Hw9e8"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "d8eab0b0ef8dc90cced68419055f7451c745b303fb0a60b107a3c8f4f57fb27b",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "vblYYmG0rnI"
+      },
+      "caption_evidence": {
+        "caption_sha256": "c74c35cea81f0ece6d42d64e67ca47a57e610a0bb6f1d01f0b4d473659d3657d",
+        "info_sha256": "d8eab0b0ef8dc90cced68419055f7451c745b303fb0a60b107a3c8f4f57fb27b",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "vblYYmG0rnI"
+      },
+      "corpus_path": "corpus/dialogues/youtube-vblYYmG0rnI.json",
+      "cue_count": 59,
+      "programme_type": "short",
+      "sha256": "5445c84c84151dfacda59de6c232d552a320285c30eecef6fca109393a46fa6a",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "vblYYmG0rnI"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "c74c35cea81f0ece6d42d64e67ca47a57e610a0bb6f1d01f0b4d473659d3657d",
+        "public_metadata_sha256": "d8eab0b0ef8dc90cced68419055f7451c745b303fb0a60b107a3c8f4f57fb27b",
+        "receipt_sha256": "8b5c602e8f2f0a46b7f9b8ba03a0755cd3ba1f7fde2df2fbc0835028a6defcb2",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "vblYYmG0rnI"
+      },
+      "video_id": "vblYYmG0rnI"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "c94c8f7274a9bf3ec1920ff347d22dced3eecf9776920251df5fc2a91ae4934a",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "WB90qhgr8Oo"
+      },
+      "caption_evidence": {
+        "caption_sha256": "2baaf398a8d385adc032e5630a60e4dbea9bf62307d4e5085adade0f41bd8c2b",
+        "info_sha256": "c94c8f7274a9bf3ec1920ff347d22dced3eecf9776920251df5fc2a91ae4934a",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "WB90qhgr8Oo"
+      },
+      "corpus_path": "corpus/dialogues/youtube-WB90qhgr8Oo.json",
+      "cue_count": 18,
+      "programme_type": "short",
+      "sha256": "0ee944e7c460fed1b1caa18f0e2407a5219ad6f011d73f794c33c65c23853bc2",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "WB90qhgr8Oo"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "2baaf398a8d385adc032e5630a60e4dbea9bf62307d4e5085adade0f41bd8c2b",
+        "public_metadata_sha256": "c94c8f7274a9bf3ec1920ff347d22dced3eecf9776920251df5fc2a91ae4934a",
+        "receipt_sha256": "22428ab70061bfe2781c5ba23eecb2f94bac7328d342063e43cdbb40086a9bc4",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "WB90qhgr8Oo"
+      },
+      "video_id": "WB90qhgr8Oo"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "488387b9ef3e31b61661ae93e15904a9be5f7bafad961c8e2d5877c81adcb2d7",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "n7--DF7BX_Y"
+      },
+      "caption_evidence": {
+        "caption_sha256": "f0713c24251748655d7830ae16c0292b937efbb8b55fca7669a82267fcf8eaa2",
+        "info_sha256": "488387b9ef3e31b61661ae93e15904a9be5f7bafad961c8e2d5877c81adcb2d7",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "n7--DF7BX_Y"
+      },
+      "corpus_path": "corpus/dialogues/youtube-n7--DF7BX_Y.json",
+      "cue_count": 52,
+      "programme_type": "short",
+      "sha256": "eaef44a629d29cf4cfc2cf30d01498e7f4edb694f4ecd5bbe7e504ffcc0eed48",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "n7--DF7BX_Y"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "f0713c24251748655d7830ae16c0292b937efbb8b55fca7669a82267fcf8eaa2",
+        "public_metadata_sha256": "488387b9ef3e31b61661ae93e15904a9be5f7bafad961c8e2d5877c81adcb2d7",
+        "receipt_sha256": "ad36464f45a1aaab975c85602ad1415ccc7c02b5bdd3d43da8996fd390042b4d",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "n7--DF7BX_Y"
+      },
+      "video_id": "n7--DF7BX_Y"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "3be00bab27b6f560ec550fd834efdb655cec61473eb96f0829c99acbefa87b55",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "FIzel0DMHTc"
+      },
+      "caption_evidence": {
+        "caption_sha256": "b8e57afe8488322ab26cbcb410cffd4387fdd1cceb6d9f90332aeff1563be5d7",
+        "info_sha256": "3be00bab27b6f560ec550fd834efdb655cec61473eb96f0829c99acbefa87b55",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "FIzel0DMHTc"
+      },
+      "corpus_path": "corpus/dialogues/youtube-FIzel0DMHTc.json",
+      "cue_count": 15,
+      "programme_type": "short",
+      "sha256": "fd0b7cc2125c77c215cf736d2259a4d861e6c1b34be593efcbc27bc34bee07ff",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "FIzel0DMHTc"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "b8e57afe8488322ab26cbcb410cffd4387fdd1cceb6d9f90332aeff1563be5d7",
+        "public_metadata_sha256": "3be00bab27b6f560ec550fd834efdb655cec61473eb96f0829c99acbefa87b55",
+        "receipt_sha256": "fce880b166aafc622e4fab82dacd274e4d97b1baa68b103894ea1d80273088a6",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "FIzel0DMHTc"
+      },
+      "video_id": "FIzel0DMHTc"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "edbfbeae9c63917a058e2814da9415f032f10e0673a203e4f5ca8aac7fb8955f",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "zgkndWVOf9U"
+      },
+      "caption_evidence": {
+        "caption_sha256": "f7a0da1776fc887b04db5aec837d08036d869ca47d8e69076d226638c98d5678",
+        "info_sha256": "edbfbeae9c63917a058e2814da9415f032f10e0673a203e4f5ca8aac7fb8955f",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "zgkndWVOf9U"
+      },
+      "corpus_path": "corpus/dialogues/youtube-zgkndWVOf9U.json",
+      "cue_count": 59,
+      "programme_type": "short",
+      "sha256": "d0f66f9216f3370504e09f1b15a433ad9874c5394adbbf9428c26e5a3230942e",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "zgkndWVOf9U"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "f7a0da1776fc887b04db5aec837d08036d869ca47d8e69076d226638c98d5678",
+        "public_metadata_sha256": "edbfbeae9c63917a058e2814da9415f032f10e0673a203e4f5ca8aac7fb8955f",
+        "receipt_sha256": "f45c68761e03996a8cc9a4c6a24f52e896ae289e6ea0285d3cbe6da2e8a406b7",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "zgkndWVOf9U"
+      },
+      "video_id": "zgkndWVOf9U"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "bbd1c875fdd58f95497c1dfe431804004c84e9860a145f733c943747c06fa622",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "AaxVQwox_j4"
+      },
+      "caption_evidence": {
+        "caption_sha256": "d0ec147c36a21b2a5f3367d0186b61ad50c39b5d54b444ec1e5de35b636775f5",
+        "info_sha256": "bbd1c875fdd58f95497c1dfe431804004c84e9860a145f733c943747c06fa622",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "AaxVQwox_j4"
+      },
+      "corpus_path": "corpus/dialogues/youtube-AaxVQwox_j4.json",
+      "cue_count": 79,
+      "programme_type": "short",
+      "sha256": "1ec78a0d1b83b00b4c16f96ee82a423b94d33599b7448de81c840c58f86a763c",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "AaxVQwox_j4"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "d0ec147c36a21b2a5f3367d0186b61ad50c39b5d54b444ec1e5de35b636775f5",
+        "public_metadata_sha256": "bbd1c875fdd58f95497c1dfe431804004c84e9860a145f733c943747c06fa622",
+        "receipt_sha256": "6d58283adf6c8c620c42024cabf8f1d306dd762b5e39ec268d06f3c13e6066cd",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "AaxVQwox_j4"
+      },
+      "video_id": "AaxVQwox_j4"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "e4ecde4f03559944df9695ad9ce6f8f5b89bfde638378c4fff35ea0c0100826e",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "lHk7F2PdHJo"
+      },
+      "caption_evidence": {
+        "caption_sha256": "a24a19443a5002ed328435420731530f243c96c6736366123ff5edc473b216f7",
+        "info_sha256": "e4ecde4f03559944df9695ad9ce6f8f5b89bfde638378c4fff35ea0c0100826e",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "lHk7F2PdHJo"
+      },
+      "corpus_path": "corpus/dialogues/youtube-lHk7F2PdHJo.json",
+      "cue_count": 52,
+      "programme_type": "short",
+      "sha256": "8743df2957af6cf8099855c87761e3016ed064fddf660761366ad0bd3f284fdc",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "lHk7F2PdHJo"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "a24a19443a5002ed328435420731530f243c96c6736366123ff5edc473b216f7",
+        "public_metadata_sha256": "e4ecde4f03559944df9695ad9ce6f8f5b89bfde638378c4fff35ea0c0100826e",
+        "receipt_sha256": "a500eeae676f71bf8a15eb111c3a79a0b1e764f33b8b81d44cd57e3850c30a3a",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "lHk7F2PdHJo"
+      },
+      "video_id": "lHk7F2PdHJo"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "9461f1efabaaa4ab92df73138b6b80147e28719e807b62f40bf0fb5e0cba7443",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "AzefEtPsC8s"
+      },
+      "caption_evidence": {
+        "caption_sha256": "2fa805ffb7c97ff3c51b3a7d13ba121ebff78abf6f6baf42a7e1ecec6c5269c0",
+        "info_sha256": "9461f1efabaaa4ab92df73138b6b80147e28719e807b62f40bf0fb5e0cba7443",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "AzefEtPsC8s"
+      },
+      "corpus_path": "corpus/dialogues/youtube-AzefEtPsC8s.json",
+      "cue_count": 20,
+      "programme_type": "short",
+      "sha256": "24963377a0c48a91ed24c4c9a819d1422cf9c7304aaa190c0b8515653eb6745d",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "AzefEtPsC8s"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "2fa805ffb7c97ff3c51b3a7d13ba121ebff78abf6f6baf42a7e1ecec6c5269c0",
+        "public_metadata_sha256": "9461f1efabaaa4ab92df73138b6b80147e28719e807b62f40bf0fb5e0cba7443",
+        "receipt_sha256": "9ec7c41bb17438be8cd90d9c0b2f0baafb0ac4e7b8078570c3116a030fd17176",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "AzefEtPsC8s"
+      },
+      "video_id": "AzefEtPsC8s"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "dfcbb5d7a4c380fcea56ca86871fd53426946fae5d506dcb529ceabdeed7f763",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Afc961AbOiM"
+      },
+      "caption_evidence": {
+        "caption_sha256": "25cecbadf2696fa00ae2eb69f5a3c40bb9e74cb52aed119bf2dbd2409ae88dba",
+        "info_sha256": "dfcbb5d7a4c380fcea56ca86871fd53426946fae5d506dcb529ceabdeed7f763",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "Afc961AbOiM"
+      },
+      "corpus_path": "corpus/dialogues/youtube-Afc961AbOiM.json",
+      "cue_count": 49,
+      "programme_type": "short",
+      "sha256": "745aa0b943b9f7f5cf6d339f072ecafc41a503c656d1129922fcf8e637e0e3b2",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Afc961AbOiM"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "25cecbadf2696fa00ae2eb69f5a3c40bb9e74cb52aed119bf2dbd2409ae88dba",
+        "public_metadata_sha256": "dfcbb5d7a4c380fcea56ca86871fd53426946fae5d506dcb529ceabdeed7f763",
+        "receipt_sha256": "a6e5e0e829c3150288b4b2e5ca566270399630bbbe9dc6406c02994701011441",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "Afc961AbOiM"
+      },
+      "video_id": "Afc961AbOiM"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "f4323365524f40adb48b9f6534fb699e65f7ef2ec539d19641432a12853ac841",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "2EkHHuH8T_4"
+      },
+      "caption_evidence": {
+        "caption_sha256": "75ecdf6402ed14646cfbc18e9511b3fed820ddba98a15f55d1f228b5e7eca776",
+        "info_sha256": "f4323365524f40adb48b9f6534fb699e65f7ef2ec539d19641432a12853ac841",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "2EkHHuH8T_4"
+      },
+      "corpus_path": "corpus/dialogues/youtube-2EkHHuH8T_4.json",
+      "cue_count": 60,
+      "programme_type": "short",
+      "sha256": "28eea68cf632d7c4df4bf117a548debdf4893cd799c437bf96fc2ac66193b9a8",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "2EkHHuH8T_4"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "75ecdf6402ed14646cfbc18e9511b3fed820ddba98a15f55d1f228b5e7eca776",
+        "public_metadata_sha256": "f4323365524f40adb48b9f6534fb699e65f7ef2ec539d19641432a12853ac841",
+        "receipt_sha256": "7e3f824f38db5005d7d3fd6937760f17f35c388e9fd5f4195f2d94a3d813b970",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "2EkHHuH8T_4"
+      },
+      "video_id": "2EkHHuH8T_4"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "3bbcb68b9e6e893df956bd83e4e6cd2a4889497072b2ec2ea32240223274c1c6",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "l2VonZFDc1Q"
+      },
+      "caption_evidence": {
+        "caption_sha256": "6a974d3c0d03e7699deb31c61f774683345309106d2a6edab3abbe20c262e423",
+        "info_sha256": "3bbcb68b9e6e893df956bd83e4e6cd2a4889497072b2ec2ea32240223274c1c6",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "l2VonZFDc1Q"
+      },
+      "corpus_path": "corpus/dialogues/youtube-l2VonZFDc1Q.json",
+      "cue_count": 33,
+      "programme_type": "short",
+      "sha256": "5612218a563c27ce73235d6d1c5b60cee1be86845ed3a1bd59ce9e4cc11dc555",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "l2VonZFDc1Q"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "6a974d3c0d03e7699deb31c61f774683345309106d2a6edab3abbe20c262e423",
+        "public_metadata_sha256": "3bbcb68b9e6e893df956bd83e4e6cd2a4889497072b2ec2ea32240223274c1c6",
+        "receipt_sha256": "834c9cd4538aed26f33bb1cd8f600a11ef0a9acc63400910e811a35fdeb4e092",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "l2VonZFDc1Q"
+      },
+      "video_id": "l2VonZFDc1Q"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "21b9de924abec77273bc92e6f149e6abb9f3453451f10440ad71ff8638f5969e",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "vCq4U-KT-MA"
+      },
+      "caption_evidence": {
+        "caption_sha256": "51daaf6d9bfc98043dc34caabc5536fecc999f7330969d945a21b4556ecb7ebf",
+        "info_sha256": "21b9de924abec77273bc92e6f149e6abb9f3453451f10440ad71ff8638f5969e",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "vCq4U-KT-MA"
+      },
+      "corpus_path": "corpus/dialogues/youtube-vCq4U-KT-MA.json",
+      "cue_count": 51,
+      "programme_type": "short",
+      "sha256": "c04e49ebf1a86d4b4faa9da2448f1397683a42ddc8fc9d9754789a99143e1f17",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "vCq4U-KT-MA"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "51daaf6d9bfc98043dc34caabc5536fecc999f7330969d945a21b4556ecb7ebf",
+        "public_metadata_sha256": "21b9de924abec77273bc92e6f149e6abb9f3453451f10440ad71ff8638f5969e",
+        "receipt_sha256": "c26215d93df1ecad22b65fee24df4b44e4e28c5d7943e7e8de38a5cc8bffdf6c",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "vCq4U-KT-MA"
+      },
+      "video_id": "vCq4U-KT-MA"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "f9877301a458e08ba604cf2a4a6e040544efee352878673b19e5bc46c37c5a36",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "nqy2i51H5iE"
+      },
+      "caption_evidence": {
+        "caption_sha256": "6d0cb1ef25d275822ac1d4dc7369a0218e72e22ddd5bf0e6bc656bc9c6c0e928",
+        "info_sha256": "f9877301a458e08ba604cf2a4a6e040544efee352878673b19e5bc46c37c5a36",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "nqy2i51H5iE"
+      },
+      "corpus_path": "corpus/dialogues/youtube-nqy2i51H5iE.json",
+      "cue_count": 61,
+      "programme_type": "short",
+      "sha256": "f1f8fb370f1cab349fe112d3dd5569af7d1886e059a32334ee136b510bb762a5",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "nqy2i51H5iE"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "6d0cb1ef25d275822ac1d4dc7369a0218e72e22ddd5bf0e6bc656bc9c6c0e928",
+        "public_metadata_sha256": "f9877301a458e08ba604cf2a4a6e040544efee352878673b19e5bc46c37c5a36",
+        "receipt_sha256": "c82d3baa6936a9fa8149bcd1de66ab390d6b22f16bcf5e9bd0011386efecc6e5",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "nqy2i51H5iE"
+      },
+      "video_id": "nqy2i51H5iE"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "de9509f292eee86fdce8fe739bed158ca26d34867cf16980c952df5773756302",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "KNkreK-GZqs"
+      },
+      "caption_evidence": {
+        "caption_sha256": "0fafa3a99cdf24100b7aae18890ef51906251191d0cea80023304931927cfefb",
+        "info_sha256": "de9509f292eee86fdce8fe739bed158ca26d34867cf16980c952df5773756302",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "KNkreK-GZqs"
+      },
+      "corpus_path": "corpus/dialogues/youtube-KNkreK-GZqs.json",
+      "cue_count": 89,
+      "programme_type": "short",
+      "sha256": "0330db7f3678309db214910cc8e8689a2517c58d6a356463d4d56049c83586de",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "KNkreK-GZqs"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "0fafa3a99cdf24100b7aae18890ef51906251191d0cea80023304931927cfefb",
+        "public_metadata_sha256": "de9509f292eee86fdce8fe739bed158ca26d34867cf16980c952df5773756302",
+        "receipt_sha256": "f4a50212ea1363bf9a5f941336f1c021850e4407ff42a830a2dbde11b0b21b56",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "KNkreK-GZqs"
+      },
+      "video_id": "KNkreK-GZqs"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "c503d2d26e5b5b56f67189daee6d0d5ffd84d4ee530b038f5dc7d36aaee6e38d",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "j6KqLbMcFJs"
+      },
+      "caption_evidence": {
+        "caption_sha256": "29b2c1384567b9fc1304aba238ac13c153c1fdee62e9bc45fd0e0e2468883c65",
+        "info_sha256": "c503d2d26e5b5b56f67189daee6d0d5ffd84d4ee530b038f5dc7d36aaee6e38d",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "j6KqLbMcFJs"
+      },
+      "corpus_path": "corpus/dialogues/youtube-j6KqLbMcFJs.json",
+      "cue_count": 65,
+      "programme_type": "short",
+      "sha256": "40387dd342ff3a18b520600b6a84dc64b157717267c8a3dd05e371773e57614c",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "j6KqLbMcFJs"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "29b2c1384567b9fc1304aba238ac13c153c1fdee62e9bc45fd0e0e2468883c65",
+        "public_metadata_sha256": "c503d2d26e5b5b56f67189daee6d0d5ffd84d4ee530b038f5dc7d36aaee6e38d",
+        "receipt_sha256": "3c8c7133c90c57cee9e403866de7734b727d6db4cc4db80dbe487fbacaec6a2c",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "j6KqLbMcFJs"
+      },
+      "video_id": "j6KqLbMcFJs"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "37c5c89de702fb2f65bf6aa1fdbe298bf2935f9e6089a693b9bd7f7bae449c48",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "xY-3n1jslOE"
+      },
+      "caption_evidence": {
+        "caption_sha256": "b663f4b701a72e4b512d9d8ba53a8d88e7cf5dc68e220b3d4b727b6c7dc66ce4",
+        "info_sha256": "37c5c89de702fb2f65bf6aa1fdbe298bf2935f9e6089a693b9bd7f7bae449c48",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "xY-3n1jslOE"
+      },
+      "corpus_path": "corpus/dialogues/youtube-xY-3n1jslOE.json",
+      "cue_count": 15,
+      "programme_type": "short",
+      "sha256": "a6d342177aac844295545c4f74c5707e33bc41d34ef8d2d28acb29f77fac3da3",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "xY-3n1jslOE"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "b663f4b701a72e4b512d9d8ba53a8d88e7cf5dc68e220b3d4b727b6c7dc66ce4",
+        "public_metadata_sha256": "37c5c89de702fb2f65bf6aa1fdbe298bf2935f9e6089a693b9bd7f7bae449c48",
+        "receipt_sha256": "a3717cff0931b5c69bf095dfae7293d3a3f49543ce347f3d408eaaea56de71f9",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "xY-3n1jslOE"
+      },
+      "video_id": "xY-3n1jslOE"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "4bef0d786d621db501fcdd8e14e56f90648a85cdce2f2abb7b7bf8b75daa6bf4",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "irrHX0eLLdI"
+      },
+      "caption_evidence": {
+        "caption_sha256": "d288cd2da1e028662cb695a589123275a11464098c8179561237c602fa9ecaf5",
+        "info_sha256": "4bef0d786d621db501fcdd8e14e56f90648a85cdce2f2abb7b7bf8b75daa6bf4",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "irrHX0eLLdI"
+      },
+      "corpus_path": "corpus/dialogues/youtube-irrHX0eLLdI.json",
+      "cue_count": 36,
+      "programme_type": "short",
+      "sha256": "8d6d04e6958916ec41f415f273ce590e647b08937c1203595fb6b5259b367480",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "irrHX0eLLdI"
+      },
+      "source_binding": {
+        "association_basis": "production-project-text-and-public-metadata-review. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "d288cd2da1e028662cb695a589123275a11464098c8179561237c602fa9ecaf5",
+        "public_metadata_sha256": "4bef0d786d621db501fcdd8e14e56f90648a85cdce2f2abb7b7bf8b75daa6bf4",
+        "receipt_sha256": "a46834b9a23eef8c82119e2cf47a731f3dec313b189326c927e3f721b7cfefb4",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "drive-srt",
+        "video_id": "irrHX0eLLdI"
+      },
+      "video_id": "irrHX0eLLdI"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "5f08015d973fef003a00307958cdd32930dd98ea729817bb076ef811de5e6fd2",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "RVeIVWaZ0sI"
+      },
+      "caption_evidence": {
+        "caption_sha256": "019ab463ee851edd28b7f4ca5e6c627d61d2739f8d99a21743b7e3ddc524b7d7",
+        "info_sha256": "5f08015d973fef003a00307958cdd32930dd98ea729817bb076ef811de5e6fd2",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "RVeIVWaZ0sI"
+      },
+      "corpus_path": "corpus/dialogues/youtube-RVeIVWaZ0sI.json",
+      "cue_count": 51,
+      "programme_type": "short",
+      "sha256": "77436a41fcb90a83996927534164cb1f3a135a8a1b0dc1d43cc08b40fa61c22b",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "RVeIVWaZ0sI"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "019ab463ee851edd28b7f4ca5e6c627d61d2739f8d99a21743b7e3ddc524b7d7",
+        "public_metadata_sha256": "5f08015d973fef003a00307958cdd32930dd98ea729817bb076ef811de5e6fd2",
+        "receipt_sha256": "e76f919e18c62c198655fedf1fe268c80fba2724b3ed74e18bcba51b3a87498d",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "RVeIVWaZ0sI"
+      },
+      "video_id": "RVeIVWaZ0sI"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "f552b51bc98ddbf2f75340506f9a66608437691cbaa8d72ce7ed42b3570cb2b1",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "3WGc6AvxZ-c"
+      },
+      "caption_evidence": {
+        "caption_sha256": "3f50b12ddac13ab4cfe7d8c51b99ea58cf7c0eed83b9b3c13a0e5003d74d5c2f",
+        "info_sha256": "f552b51bc98ddbf2f75340506f9a66608437691cbaa8d72ce7ed42b3570cb2b1",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "3WGc6AvxZ-c"
+      },
+      "corpus_path": "corpus/dialogues/youtube-3WGc6AvxZ-c.json",
+      "cue_count": 40,
+      "programme_type": "short",
+      "sha256": "47c19edb90de67b3662a2cfc8b59f9bb53187a124bc6db9734a51e66a690e5fc",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "3WGc6AvxZ-c"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "3f50b12ddac13ab4cfe7d8c51b99ea58cf7c0eed83b9b3c13a0e5003d74d5c2f",
+        "public_metadata_sha256": "f552b51bc98ddbf2f75340506f9a66608437691cbaa8d72ce7ed42b3570cb2b1",
+        "receipt_sha256": "273933ad48d7c7ddceb61cb9af26cd340822faf192c0f13d823a5ecfea5a2516",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "3WGc6AvxZ-c"
+      },
+      "video_id": "3WGc6AvxZ-c"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "90a918efbf33c4311fd1edbd5eed831353ee1a369a229d30fce562fcdb0080b3",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Y-ZK-B1TwYc"
+      },
+      "caption_evidence": {
+        "caption_sha256": "5400064a2604d69fb007fe6128a1aeef38af99c76ddcdcd06feb21047a36b291",
+        "info_sha256": "90a918efbf33c4311fd1edbd5eed831353ee1a369a229d30fce562fcdb0080b3",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "Y-ZK-B1TwYc"
+      },
+      "corpus_path": "corpus/dialogues/youtube-Y-ZK-B1TwYc.json",
+      "cue_count": 61,
+      "programme_type": "short",
+      "sha256": "f5f44a292b63660284b412f6ee7996d08de2a10c090d3b51979c36496d0c316c",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Y-ZK-B1TwYc"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "5400064a2604d69fb007fe6128a1aeef38af99c76ddcdcd06feb21047a36b291",
+        "public_metadata_sha256": "90a918efbf33c4311fd1edbd5eed831353ee1a369a229d30fce562fcdb0080b3",
+        "receipt_sha256": "786f67538e5867512ac3f775de0edd01c811e960e534ad79dba56e41fc6fb544",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "Y-ZK-B1TwYc"
+      },
+      "video_id": "Y-ZK-B1TwYc"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "e4a818df96b6c248a30262d5a85800f0de65c706f49fdbbdfd613b2b833af975",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "KFzY4uIQrqQ"
+      },
+      "caption_evidence": {
+        "caption_sha256": "8036d3c455e68f83994c2eab9bf5d167f5faed669c2bcea16a6b65aeea2b3537",
+        "info_sha256": "e4a818df96b6c248a30262d5a85800f0de65c706f49fdbbdfd613b2b833af975",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "KFzY4uIQrqQ"
+      },
+      "corpus_path": "corpus/dialogues/youtube-KFzY4uIQrqQ.json",
+      "cue_count": 19,
+      "programme_type": "short",
+      "sha256": "efb42c92427cb603cb8addd738b251af101ff660d3c7b2991267f5d319aaa41d",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "KFzY4uIQrqQ"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "8036d3c455e68f83994c2eab9bf5d167f5faed669c2bcea16a6b65aeea2b3537",
+        "public_metadata_sha256": "e4a818df96b6c248a30262d5a85800f0de65c706f49fdbbdfd613b2b833af975",
+        "receipt_sha256": "1e18fb5494478ab06e6b6df43c71621fe525e6b35e24f1d61cbbd5330d913d0b",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "KFzY4uIQrqQ"
+      },
+      "video_id": "KFzY4uIQrqQ"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "abcfa173995d3c50190798df75746c52444748fc6646088acd34ad0cd57ec2a7",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "T2vIapBr1-k"
+      },
+      "caption_evidence": {
+        "caption_sha256": "c19ed109e8677e6aa91e587ab0b1a92f24ce70f439e25cb7af9900ed15e94832",
+        "info_sha256": "abcfa173995d3c50190798df75746c52444748fc6646088acd34ad0cd57ec2a7",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "T2vIapBr1-k"
+      },
+      "corpus_path": "corpus/dialogues/youtube-T2vIapBr1-k.json",
+      "cue_count": 38,
+      "programme_type": "short",
+      "sha256": "e747306a7e94d4d5f64fca155fd603e3a816808c61f43f301008d991ef46c05c",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "T2vIapBr1-k"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "c19ed109e8677e6aa91e587ab0b1a92f24ce70f439e25cb7af9900ed15e94832",
+        "public_metadata_sha256": "abcfa173995d3c50190798df75746c52444748fc6646088acd34ad0cd57ec2a7",
+        "receipt_sha256": "4597c1f80dfd1b273765cdc6ecd1ed2c393b17ea09cfffe4becf2cd7c999fad8",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "T2vIapBr1-k"
+      },
+      "video_id": "T2vIapBr1-k"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "1d9ef318316259449c120b899fdc0d4724b4569fa188207110a0510bab5a1e24",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "lGqXK2Oe5Uw"
+      },
+      "caption_evidence": {
+        "caption_sha256": "62c86fa5503813ee84ca80b6f7c682b14e775d066a09715ac03839fb125525c0",
+        "info_sha256": "1d9ef318316259449c120b899fdc0d4724b4569fa188207110a0510bab5a1e24",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "lGqXK2Oe5Uw"
+      },
+      "corpus_path": "corpus/dialogues/youtube-lGqXK2Oe5Uw.json",
+      "cue_count": 16,
+      "programme_type": "short",
+      "sha256": "4b434a7850ec72c990deaad4baeb8030255c91437336118f635202eda615248a",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "lGqXK2Oe5Uw"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "62c86fa5503813ee84ca80b6f7c682b14e775d066a09715ac03839fb125525c0",
+        "public_metadata_sha256": "1d9ef318316259449c120b899fdc0d4724b4569fa188207110a0510bab5a1e24",
+        "receipt_sha256": "add916befa9d0df70626540ec6fcc37e81e62e1edd838ba512616eeb38becb18",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "lGqXK2Oe5Uw"
+      },
+      "video_id": "lGqXK2Oe5Uw"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "234229ecb481b0a71e1fd7042de15d03618009ffb00c391a8f5777262650de5b",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "nPZ0JOtxM8k"
+      },
+      "caption_evidence": {
+        "caption_sha256": "daa9a2ff69141bc720deb7b933f0d562cf6f153ed5ba1b35ff9ec7e952bdf0c4",
+        "info_sha256": "234229ecb481b0a71e1fd7042de15d03618009ffb00c391a8f5777262650de5b",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "nPZ0JOtxM8k"
+      },
+      "corpus_path": "corpus/dialogues/youtube-nPZ0JOtxM8k.json",
+      "cue_count": 31,
+      "programme_type": "short",
+      "sha256": "c28e1480692f6e73c099c93c29a1567023bd8c5411466d562bf6321559aac77c",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "nPZ0JOtxM8k"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "daa9a2ff69141bc720deb7b933f0d562cf6f153ed5ba1b35ff9ec7e952bdf0c4",
+        "public_metadata_sha256": "234229ecb481b0a71e1fd7042de15d03618009ffb00c391a8f5777262650de5b",
+        "receipt_sha256": "612423d6db7ca99fd23722b44c73751c5b6a9e0985de2e3fbef24df62d39d0c6",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "nPZ0JOtxM8k"
+      },
+      "video_id": "nPZ0JOtxM8k"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "bbe5becb9718fdd67d37b7c1f744d7246c46d340d53b4c68870c754edd6e5a7d",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "4gkBomC_4dg"
+      },
+      "caption_evidence": {
+        "caption_sha256": "45cd8004dd3d59482757dc215a237889d4410cff221f25262ec6db12d3156fe1",
+        "info_sha256": "bbe5becb9718fdd67d37b7c1f744d7246c46d340d53b4c68870c754edd6e5a7d",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "4gkBomC_4dg"
+      },
+      "corpus_path": "corpus/dialogues/youtube-4gkBomC_4dg.json",
+      "cue_count": 6,
+      "programme_type": "short",
+      "sha256": "c2dc859bb53909f0a43146c621b0bfc7b0e02dda4b11c01a7136a71fca4d1214",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "4gkBomC_4dg"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "45cd8004dd3d59482757dc215a237889d4410cff221f25262ec6db12d3156fe1",
+        "public_metadata_sha256": "bbe5becb9718fdd67d37b7c1f744d7246c46d340d53b4c68870c754edd6e5a7d",
+        "receipt_sha256": "ec765f39107cd88b900595b6bf5147315b4c5480aebf7b04293ce0ea29c4e5af",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "4gkBomC_4dg"
+      },
+      "video_id": "4gkBomC_4dg"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "100d5edb5885dec490c4c1c9b746bd66d7fac874f37fcc7b0c8de4e988a247b0",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "xiqf36nv3wo"
+      },
+      "caption_evidence": {
+        "caption_sha256": "044d6e3586ddfe3f65c431c42337b044b07632c3b1e7f4012f03381901c1a2d0",
+        "info_sha256": "100d5edb5885dec490c4c1c9b746bd66d7fac874f37fcc7b0c8de4e988a247b0",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "xiqf36nv3wo"
+      },
+      "corpus_path": "corpus/dialogues/youtube-xiqf36nv3wo.json",
+      "cue_count": 10,
+      "programme_type": "short",
+      "sha256": "9a19591d671716dedbbdccfdab7a3fa31371be8703f06d9c7325e997298bea27",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "xiqf36nv3wo"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "044d6e3586ddfe3f65c431c42337b044b07632c3b1e7f4012f03381901c1a2d0",
+        "public_metadata_sha256": "100d5edb5885dec490c4c1c9b746bd66d7fac874f37fcc7b0c8de4e988a247b0",
+        "receipt_sha256": "624cb0f4d37299457ad7a2dce25cbf3116a012c9a587e3d3c273b89bbbfdc3be",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "xiqf36nv3wo"
+      },
+      "video_id": "xiqf36nv3wo"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "a1ba7896cca3449047fe82773b73bc0b75848252a9ec095c9970d0cda75aa072",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "7sBa7OiAs0M"
+      },
+      "caption_evidence": {
+        "caption_sha256": "3ed48fcc8e5563db31083a7f829dd692d53fa7ae0a9ff3485745feb73022d7ce",
+        "info_sha256": "a1ba7896cca3449047fe82773b73bc0b75848252a9ec095c9970d0cda75aa072",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "7sBa7OiAs0M"
+      },
+      "corpus_path": "corpus/dialogues/youtube-7sBa7OiAs0M.json",
+      "cue_count": 13,
+      "programme_type": "short",
+      "sha256": "fae44d0bd41ab5477ba29fb37d1d3241f288514a6d438953d657e3b6acbf7b9e",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "7sBa7OiAs0M"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "3ed48fcc8e5563db31083a7f829dd692d53fa7ae0a9ff3485745feb73022d7ce",
+        "public_metadata_sha256": "a1ba7896cca3449047fe82773b73bc0b75848252a9ec095c9970d0cda75aa072",
+        "receipt_sha256": "fde9eb728f25e839a12854f9c7a3f1f840435145db4c317db52abf84d1beb8fd",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "7sBa7OiAs0M"
+      },
+      "video_id": "7sBa7OiAs0M"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "b3c8d07b08bd847816a37a7ac7957865ff4fe555b9717246c30af06d276ce8d9",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "FdBxAuczgiU"
+      },
+      "caption_evidence": {
+        "caption_sha256": "ac84f96c81f2507e0d87d9bd517d704992c3b84d0217edabff8cd4a9bdf935e2",
+        "info_sha256": "b3c8d07b08bd847816a37a7ac7957865ff4fe555b9717246c30af06d276ce8d9",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "FdBxAuczgiU"
+      },
+      "corpus_path": "corpus/dialogues/youtube-FdBxAuczgiU.json",
+      "cue_count": 9,
+      "programme_type": "short",
+      "sha256": "e5763dd2e44d7dd553fbb371903bacb7dcfb4ac6fd258e2e644611c51179b16e",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "FdBxAuczgiU"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "ac84f96c81f2507e0d87d9bd517d704992c3b84d0217edabff8cd4a9bdf935e2",
+        "public_metadata_sha256": "b3c8d07b08bd847816a37a7ac7957865ff4fe555b9717246c30af06d276ce8d9",
+        "receipt_sha256": "af6c509dace8183a5efe97ce159164cc78b9e1afa56b8358a661f09cb86d46fe",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "FdBxAuczgiU"
+      },
+      "video_id": "FdBxAuczgiU"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "c0092f765f739cc1338fb0620e7c85e1db185034bea4fa2fac1988bd94a854ef",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "8S30uJAVftU"
+      },
+      "caption_evidence": {
+        "caption_sha256": "a3d43401e5e5b28ce241e43cd2c435cc1a4bf1f30b054782acd2146dcd5cb05d",
+        "info_sha256": "c0092f765f739cc1338fb0620e7c85e1db185034bea4fa2fac1988bd94a854ef",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "8S30uJAVftU"
+      },
+      "corpus_path": "corpus/dialogues/youtube-8S30uJAVftU.json",
+      "cue_count": 45,
+      "programme_type": "short",
+      "sha256": "a97eb4de1fee888896a3625959fdb6386015b24703a76808578e578d95ddad72",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "8S30uJAVftU"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "a3d43401e5e5b28ce241e43cd2c435cc1a4bf1f30b054782acd2146dcd5cb05d",
+        "public_metadata_sha256": "c0092f765f739cc1338fb0620e7c85e1db185034bea4fa2fac1988bd94a854ef",
+        "receipt_sha256": "d004423dda86496a63ecdef76fe9691ec311c12a66e669e12c25501f8526f13c",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "8S30uJAVftU"
+      },
+      "video_id": "8S30uJAVftU"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "0546a7a2d77a1ba1aeb2dab0d8209611ce5232b51efbf8ba47f2d48f3881b283",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "KifOUVMCjGQ"
+      },
+      "caption_evidence": {
+        "caption_sha256": "ac5d5e6f09cc202faacb3b12aecd1095b35d3d6e5db2f220f9bf966fd0ed26ae",
+        "info_sha256": "0546a7a2d77a1ba1aeb2dab0d8209611ce5232b51efbf8ba47f2d48f3881b283",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "KifOUVMCjGQ"
+      },
+      "corpus_path": "corpus/dialogues/youtube-KifOUVMCjGQ.json",
+      "cue_count": 20,
+      "programme_type": "short",
+      "sha256": "8632366a55492b079d8747322169da455170626f4629b022d08f0d21669aea33",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "KifOUVMCjGQ"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "ac5d5e6f09cc202faacb3b12aecd1095b35d3d6e5db2f220f9bf966fd0ed26ae",
+        "public_metadata_sha256": "0546a7a2d77a1ba1aeb2dab0d8209611ce5232b51efbf8ba47f2d48f3881b283",
+        "receipt_sha256": "5cc94cc04f142671724476fdadd6b048b1f005ac8c94ff553d4d97bef812fb3c",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "KifOUVMCjGQ"
+      },
+      "video_id": "KifOUVMCjGQ"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "2443dbe0a08cd13ccffbeb0bfdec70d674026e564e7e48b0c1792679988ef100",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "_hl0PnvUha0"
+      },
+      "caption_evidence": {
+        "caption_sha256": "16e42595f799cc187d21c609df37663e4a8843aea268110d2a0b3a1ded36cd65",
+        "info_sha256": "2443dbe0a08cd13ccffbeb0bfdec70d674026e564e7e48b0c1792679988ef100",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "_hl0PnvUha0"
+      },
+      "corpus_path": "corpus/dialogues/youtube-_hl0PnvUha0.json",
+      "cue_count": 16,
+      "programme_type": "short",
+      "sha256": "1b4dbcada87dff002b71c26e704c2605b72fed4b39af53c0ecd3622db5d3c01a",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "_hl0PnvUha0"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "16e42595f799cc187d21c609df37663e4a8843aea268110d2a0b3a1ded36cd65",
+        "public_metadata_sha256": "2443dbe0a08cd13ccffbeb0bfdec70d674026e564e7e48b0c1792679988ef100",
+        "receipt_sha256": "fd1120d34abdad35939c2d67de2615c2fe1be5c01aef8b1f2a9a9ba0655efe3e",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "_hl0PnvUha0"
+      },
+      "video_id": "_hl0PnvUha0"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "75f4eb9c4b462baaa2444026ea2aaa651bb510200378cbd0d4565e657245287e",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Kraim33_fq8"
+      },
+      "caption_evidence": {
+        "caption_sha256": "5690ec1087b9a7f35364a5d2cd7b2dbdc7e6d3365efef9a647ee56f5aac03f0c",
+        "info_sha256": "75f4eb9c4b462baaa2444026ea2aaa651bb510200378cbd0d4565e657245287e",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "Kraim33_fq8"
+      },
+      "corpus_path": "corpus/dialogues/youtube-Kraim33_fq8.json",
+      "cue_count": 12,
+      "programme_type": "short",
+      "sha256": "93f3cd3440972cb428f765bf688108452ef921a490e91b404e86ff186b1cafa8",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "Kraim33_fq8"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "5690ec1087b9a7f35364a5d2cd7b2dbdc7e6d3365efef9a647ee56f5aac03f0c",
+        "public_metadata_sha256": "75f4eb9c4b462baaa2444026ea2aaa651bb510200378cbd0d4565e657245287e",
+        "receipt_sha256": "ba2a268cc11bd325ff186e1c6a9079b9c01cfa267d92b72c30375c4018acb0ac",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "Kraim33_fq8"
+      },
+      "video_id": "Kraim33_fq8"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "875ba1824a75c3c3d61d1361a266fa587c78712c8b5195ec0e5d65f00d171112",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ij4br0S5kSE"
+      },
+      "caption_evidence": {
+        "caption_sha256": "c7ace35b8a5533befcee3e59001ad7c5a77cc1e68e7b226f388c38e121063eb0",
+        "info_sha256": "875ba1824a75c3c3d61d1361a266fa587c78712c8b5195ec0e5d65f00d171112",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "ij4br0S5kSE"
+      },
+      "corpus_path": "corpus/dialogues/youtube-ij4br0S5kSE.json",
+      "cue_count": 21,
+      "programme_type": "short",
+      "sha256": "a6ed9d7e8856376c2b402ce17243626b46f45995c683b6eef72cbfbaae78b856",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "ij4br0S5kSE"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "c7ace35b8a5533befcee3e59001ad7c5a77cc1e68e7b226f388c38e121063eb0",
+        "public_metadata_sha256": "875ba1824a75c3c3d61d1361a266fa587c78712c8b5195ec0e5d65f00d171112",
+        "receipt_sha256": "c3e6bcbb6c0c745622a1e0a409f2cf36b6eec81d7da1da62d24caf78651f70e4",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "ij4br0S5kSE"
+      },
+      "video_id": "ij4br0S5kSE"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "1fdb1d54245c63555b2cb52fca505b15262a90b6c021649932a6eb0b537d3144",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "E7h6-xAirT4"
+      },
+      "caption_evidence": {
+        "caption_sha256": "f8d673f98ebc9caf9957c8770d5ba51c77c511a8ea5131f54ccc0c902c6eece0",
+        "info_sha256": "1fdb1d54245c63555b2cb52fca505b15262a90b6c021649932a6eb0b537d3144",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "E7h6-xAirT4"
+      },
+      "corpus_path": "corpus/dialogues/youtube-E7h6-xAirT4.json",
+      "cue_count": 18,
+      "programme_type": "short",
+      "sha256": "32e7ad20cb73bee07208c0decb771f05c069b967c34cdcbcfb68726542e7ec35",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "E7h6-xAirT4"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "f8d673f98ebc9caf9957c8770d5ba51c77c511a8ea5131f54ccc0c902c6eece0",
+        "public_metadata_sha256": "1fdb1d54245c63555b2cb52fca505b15262a90b6c021649932a6eb0b537d3144",
+        "receipt_sha256": "91dadcf043ca49fd13676cae1450701e1522551081b8424f4e9cc607a5ad947e",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "E7h6-xAirT4"
+      },
+      "video_id": "E7h6-xAirT4"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "72536b644e19b09882030eab227f003fe2f27c48c6058fba646308831bdca911",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "S1bUVDG7Wl0"
+      },
+      "caption_evidence": {
+        "caption_sha256": "3e4e207b148fb0f08411e1a65bac29f9c9d3b197f2480de90eda5028b20833f4",
+        "info_sha256": "72536b644e19b09882030eab227f003fe2f27c48c6058fba646308831bdca911",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "S1bUVDG7Wl0"
+      },
+      "corpus_path": "corpus/dialogues/youtube-S1bUVDG7Wl0.json",
+      "cue_count": 26,
+      "programme_type": "short",
+      "sha256": "da31cf723c584f00e84ab9119765c30b4c2be1a90edc8101cb203bf6f325b47b",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "S1bUVDG7Wl0"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "3e4e207b148fb0f08411e1a65bac29f9c9d3b197f2480de90eda5028b20833f4",
+        "public_metadata_sha256": "72536b644e19b09882030eab227f003fe2f27c48c6058fba646308831bdca911",
+        "receipt_sha256": "1472fbc2e9be6d73e24802553fd8b1e5eeb7e741b33985c6d693d7c6c8bf6422",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "S1bUVDG7Wl0"
+      },
+      "video_id": "S1bUVDG7Wl0"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "d3857b98609ae46b61e436946bcd4cc4c3752514739d8a3516ebbfba2e46a528",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "h2gbHmUZzJs"
+      },
+      "caption_evidence": {
+        "caption_sha256": "e828175c5eb55b607604bb1ac4a39460b8473a6d6933aa32ef9822a857bd2233",
+        "info_sha256": "d3857b98609ae46b61e436946bcd4cc4c3752514739d8a3516ebbfba2e46a528",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "h2gbHmUZzJs"
+      },
+      "corpus_path": "corpus/dialogues/youtube-h2gbHmUZzJs.json",
+      "cue_count": 20,
+      "programme_type": "short",
+      "sha256": "24ac309dc214aa30582c63f5bf18409a0f233530ac14a8e41685e87821713e8b",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "h2gbHmUZzJs"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "e828175c5eb55b607604bb1ac4a39460b8473a6d6933aa32ef9822a857bd2233",
+        "public_metadata_sha256": "d3857b98609ae46b61e436946bcd4cc4c3752514739d8a3516ebbfba2e46a528",
+        "receipt_sha256": "ad26948e9334ba6722279196ff8a83c71aa6f63be78dd83a57de58ca6316cb0a",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "h2gbHmUZzJs"
+      },
+      "video_id": "h2gbHmUZzJs"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "d2da99bfe4375c069852a060e3c9317a0c7d4a9baea33933b41c949ac649f3a4",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "H1ct6-HfEqU"
+      },
+      "caption_evidence": {
+        "caption_sha256": "080d32fc4dcbea6574577ae090f328578cf2a4fed70f62a481e26feb71f0e6cf",
+        "info_sha256": "d2da99bfe4375c069852a060e3c9317a0c7d4a9baea33933b41c949ac649f3a4",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "H1ct6-HfEqU"
+      },
+      "corpus_path": "corpus/dialogues/youtube-H1ct6-HfEqU.json",
+      "cue_count": 17,
+      "programme_type": "short",
+      "sha256": "427bbbf643454695b7614394072d7020b7d734b87e4322fb88d0de620fcb54b9",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "H1ct6-HfEqU"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "080d32fc4dcbea6574577ae090f328578cf2a4fed70f62a481e26feb71f0e6cf",
+        "public_metadata_sha256": "d2da99bfe4375c069852a060e3c9317a0c7d4a9baea33933b41c949ac649f3a4",
+        "receipt_sha256": "56b3b5db09a22dc817975158d294377e11a6c4478984e943ef4574cdfb072927",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "H1ct6-HfEqU"
+      },
+      "video_id": "H1ct6-HfEqU"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "5bbe729c49ecf21057310e9eca990f34fd77aab4e303fc6142454c3f21446b21",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "8ki8e4pj580"
+      },
+      "caption_evidence": {
+        "caption_sha256": "e5c74f03e82ca7132bacd4345a4b6be3848679c8da6681b53509233b4e30a7ca",
+        "info_sha256": "5bbe729c49ecf21057310e9eca990f34fd77aab4e303fc6142454c3f21446b21",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "8ki8e4pj580"
+      },
+      "corpus_path": "corpus/dialogues/youtube-8ki8e4pj580.json",
+      "cue_count": 19,
+      "programme_type": "short",
+      "sha256": "370d28f15829df5b17218048438062802d6655ab972f0fbf0555790a226b07bb",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "8ki8e4pj580"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "e5c74f03e82ca7132bacd4345a4b6be3848679c8da6681b53509233b4e30a7ca",
+        "public_metadata_sha256": "5bbe729c49ecf21057310e9eca990f34fd77aab4e303fc6142454c3f21446b21",
+        "receipt_sha256": "301e245f7bc7433bc2234ef2621bcac5eac8b19a05a961e171d4d52194c55501",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "8ki8e4pj580"
+      },
+      "video_id": "8ki8e4pj580"
+    },
+    {
+      "anonymous_evidence": {
+        "availability": "public",
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "is_live": false,
+        "is_upcoming": false,
+        "receipt_sha256": "880c172508dcdda4d4ea86435b98bec2a7e7be79ef256a8fede12c5f2c296c02",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "plBmN7zxiyc"
+      },
+      "caption_evidence": {
+        "caption_sha256": "fe537ad31589eb43ffd4a3e66c6ebf642db136a6b2f99a5361cee63ce380c8fe",
+        "info_sha256": "880c172508dcdda4d4ea86435b98bec2a7e7be79ef256a8fede12c5f2c296c02",
+        "method": "local-caption-copy",
+        "origin": "local-archive",
+        "video_id": "plBmN7zxiyc"
+      },
+      "corpus_path": "corpus/dialogues/youtube-plBmN7zxiyc.json",
+      "cue_count": 17,
+      "programme_type": "short",
+      "sha256": "90bd42410dda22ee89de04e5f15791df41cdce0354e06a76dc36109b2d8d0275",
+      "shorts_evidence": {
+        "channel_id": "UC_5lJHgnMP_lb_VpIiXV0hQ",
+        "present": true,
+        "receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+        "source_url": "https://www.youtube.com/channel/UC_5lJHgnMP_lb_VpIiXV0hQ/shorts",
+        "verified_at": "2026-11-12T23:58:12.222213+00:00",
+        "video_id": "plBmN7zxiyc"
+      },
+      "source_binding": {
+        "association_basis": "video-id-bound-channel-archive. Root checked caption context against public video identity/title/description and its own duration; wording and complete audio were not recertified.",
+        "caption_sha256": "fe537ad31589eb43ffd4a3e66c6ebf642db136a6b2f99a5361cee63ce380c8fe",
+        "public_metadata_sha256": "880c172508dcdda4d4ea86435b98bec2a7e7be79ef256a8fede12c5f2c296c02",
+        "receipt_sha256": "750d7158747f0e68387aa36952681f8e9a887d4536353683c253752cc6046d06",
+        "reviewed_at": "2026-11-12T23:58:12.222213+00:00",
+        "source_kind": "archive-local-corrected",
+        "video_id": "plBmN7zxiyc"
+      },
+      "video_id": "plBmN7zxiyc"
     }
   ],
   "removal": "https://lizheng.ai/contact",
@@ -156564,6 +160084,6 @@
   "scope": "public-dialogues-only",
   "turn_attribution_policy": {
     "path": "config/raw-turn-attribution-policy.json",
-    "sha256": "66cad4786fa8a1914744e4a10c878a9fc182a973cebb78191c17538731d6f033"
+    "sha256": "423ea4fb537ebf41946627a1202d113210867378d4010afd4f38562cb49b59f1"
   }
 }

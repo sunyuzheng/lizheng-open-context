@@ -1,0 +1,599 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-Y-ZK-B1TwYc",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2025-10-28",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "5400064a2604d69fb007fe6128a1aeef38af99c76ddcdcd06feb21047a36b291",
+    "caption_units_sha256": "703261ece34fff25a41c4c25d058eae649b987add82f36c9879c058480fd1c83",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "5400064a2604d69fb007fe6128a1aeef38af99c76ddcdcd06feb21047a36b291",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "786f67538e5867512ac3f775de0edd01c811e960e534ad79dba56e41fc6fb544",
+    "unresolved_count": 61
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 173,
+  "source_family": "https://www.youtube.com/watch?v=Y-ZK-B1TwYc",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=Y-ZK-B1TwYc",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "被裁员的两个危险的心理冲击，及如何应对",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 2.32,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.16,
+      "text": "就裁员这件事情啊其实"
+    },
+    {
+      "end_seconds": 4.64,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.32,
+      "text": "humannature 就会在自己身上找"
+    },
+    {
+      "end_seconds": 8.16,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.64,
+      "text": "原因就是无论发生什么我刚刚说的这四种情况"
+    },
+    {
+      "end_seconds": 11.032,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.16,
+      "text": "大家看到了就基本上都不是这些同学的问题"
+    },
+    {
+      "end_seconds": 13.84,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.032,
+      "text": "哪怕第一个我们说是绩效问题那起码后三个也"
+    },
+    {
+      "end_seconds": 16.736,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.84,
+      "text": "都不是这些同学自己的问题这些同学都是优秀"
+    },
+    {
+      "end_seconds": 19.264,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.736,
+      "text": "的同学然后他们放在不同的地方放在不同的"
+    },
+    {
+      "end_seconds": 22.512,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.264,
+      "text": "时机他们都会发挥的很好但是裁员的这件事情"
+    },
+    {
+      "end_seconds": 25.808,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.512,
+      "text": "就落到了他们身上可是人的第一反应肯定是要"
+    },
+    {
+      "end_seconds": 28.848,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.808,
+      "text": "从自己身上找原因的肯定是要觉得自己做错了"
+    },
+    {
+      "end_seconds": 29.12,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.848,
+      "text": "什么"
+    },
+    {
+      "end_seconds": 32.503,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.399,
+      "text": "然后肯定也会去反思就是如果当时做了另外"
+    },
+    {
+      "end_seconds": 34.655,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.503,
+      "text": "一件事儿或者说是另外一个做法或者说是另外"
+    },
+    {
+      "end_seconds": 37.263,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.655,
+      "text": "一个态度或者就是有一些别的选择会不会最后"
+    },
+    {
+      "end_seconds": 40.615,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.263,
+      "text": "的结果有不同就是这是一似乎人性不可避免的"
+    },
+    {
+      "end_seconds": 43.927,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.615,
+      "text": "一件事儿所以我跟大家分享这些点呢就是想用"
+    },
+    {
+      "end_seconds": 45.783,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.927,
+      "text": "我真正经历的这个 samplesize"
+    },
+    {
+      "end_seconds": 49.163,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.871,
+      "text": "虽然不多四个人但是我觉得还是能带来一些"
+    },
+    {
+      "end_seconds": 52.427,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.163,
+      "text": "启示就是裁员它不像考试然后你考试分数"
+    },
+    {
+      "end_seconds": 55.827,
+      "id": "cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.427,
+      "text": "不及格这么简单裁员其实是一个就是有很多"
+    },
+    {
+      "end_seconds": 58.987,
+      "id": "cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.827,
+      "text": "外部因素你不可掌控的因素存在的最后会导致"
+    },
+    {
+      "end_seconds": 59.467,
+      "id": "cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.987,
+      "text": "这样的情况"
+    },
+    {
+      "end_seconds": 61.913,
+      "id": "cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.787,
+      "text": "所以说我觉得大家的 take away"
+    },
+    {
+      "end_seconds": 64.747,
+      "id": "cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.044,
+      "text": "就是第一呢你如果真的想打工的话你要知道"
+    },
+    {
+      "end_seconds": 68.107,
+      "id": "cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.747,
+      "text": "打工这件事情其实风险很高的我回头采访老冒"
+    },
+    {
+      "end_seconds": 70.587,
+      "id": "cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.107,
+      "text": "的那些视频我会放出来他的例子也告诉我们嘛"
+    },
+    {
+      "end_seconds": 73.339,
+      "id": "cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.587,
+      "text": "就是他当时是因为可以说是这个团队表现"
+    },
+    {
+      "end_seconds": 76.363,
+      "id": "cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.339,
+      "text": "太好了而导致在这个裁员中被裁掉了有很多"
+    },
+    {
+      "end_seconds": 78.843,
+      "id": "cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.363,
+      "text": "东西不是你能控制的所以当他真的发生了时候"
+    },
+    {
+      "end_seconds": 82.379,
+      "id": "cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.843,
+      "text": "也不要太谴责自己你接受自己的情绪但是尽快"
+    },
+    {
+      "end_seconds": 85.21,
+      "id": "cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.379,
+      "text": "的走出来尽快的去找好你接下来要做的事情"
+    },
+    {
+      "end_seconds": 87.332,
+      "id": "cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.21,
+      "text": "第三呢就是我建议大家的心态就"
+    },
+    {
+      "end_seconds": 89.188,
+      "id": "cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 87.332,
+      "text": "是像一个 businesspartner"
+    },
+    {
+      "end_seconds": 92.563,
+      "id": "cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 89.281,
+      "text": "或者说像职业球员的样子去对待公司呃公司"
+    },
+    {
+      "end_seconds": 96.274,
+      "id": "cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.563,
+      "text": "是花钱请你来打工给他创造商业价值的那你去"
+    },
+    {
+      "end_seconds": 99.746,
+      "id": "cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.274,
+      "text": "公司打工然后拿工资是一个商业合作不要"
+    },
+    {
+      "end_seconds": 103.576,
+      "id": "cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.746,
+      "text": "带太多太多的情感兴趣当然就是裁员之后肯定"
+    },
+    {
+      "end_seconds": 105.313,
+      "id": "cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.576,
+      "text": "会有很多的情感就像刚才说的"
+    },
+    {
+      "end_seconds": 106.964,
+      "id": "cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.416,
+      "text": "humannature 会让你"
+    },
+    {
+      "end_seconds": 109.12,
+      "id": "cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 107.072,
+      "text": "blameyourself 而且你会有"
+    },
+    {
+      "end_seconds": 112.12,
+      "id": "cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.12,
+      "text": "一个巨大的不确定性然后还会带来一些对未来"
+    },
+    {
+      "end_seconds": 115.784,
+      "id": "cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.12,
+      "text": "收入的不确定性都会让你在短期内非常的难受"
+    },
+    {
+      "end_seconds": 118.056,
+      "id": "cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 115.784,
+      "text": "接纳自己的这些情绪然后去"
+    },
+    {
+      "end_seconds": 122.056,
+      "id": "cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 118.056,
+      "text": "好好消化他们但是消化完之后就不要再停留在"
+    },
+    {
+      "end_seconds": 125.292,
+      "id": "cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 122.056,
+      "text": "裁员的这件事情上了啊其实这个和你的这个"
+    },
+    {
+      "end_seconds": 129.004,
+      "id": "cue-46",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 125.292,
+      "text": "前任的感情很像你的前任啊如果说把你给踹了"
+    },
+    {
+      "end_seconds": 131.828,
+      "id": "cue-47",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 129.004,
+      "text": "分手了对吧你肯定会上心你肯定会难过你可能"
+    },
+    {
+      "end_seconds": 134.284,
+      "id": "cue-48",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 131.828,
+      "text": "会感觉到背叛你可能会觉得啊之前那些美好的"
+    },
+    {
+      "end_seconds": 137.74,
+      "id": "cue-49",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 134.284,
+      "text": "记忆现在都是在骗人嘛然后你可能还会想着要"
+    },
+    {
+      "end_seconds": 141.444,
+      "id": "cue-50",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.74,
+      "text": "去报复他或者说你说我要变成凤凰让你后悔让"
+    },
+    {
+      "end_seconds": 145.06,
+      "id": "cue-51",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 141.444,
+      "text": "你就是后悔当时跟我分手其实这些事情都是"
+    },
+    {
+      "end_seconds": 147.748,
+      "id": "cue-52",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.06,
+      "text": "没有走出来这些事情都是对你不利的你真正对"
+    },
+    {
+      "end_seconds": 150.852,
+      "id": "cue-53",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 147.748,
+      "text": "你有利的还是你专注在自己当下专注在自己要"
+    },
+    {
+      "end_seconds": 151.124,
+      "id": "cue-54",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 150.852,
+      "text": "做的"
+    },
+    {
+      "end_seconds": 154.064,
+      "id": "cue-55",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 151.124,
+      "text": "事情专注到下一段感情行对吧或者说是你不"
+    },
+    {
+      "end_seconds": 157.936,
+      "id": "cue-56",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 154.064,
+      "text": "想要感情了都行但是专注在你自己身上而不要"
+    },
+    {
+      "end_seconds": 161.624,
+      "id": "cue-57",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 157.936,
+      "text": "去被你的这段感情或者说被你的这段经历给"
+    },
+    {
+      "end_seconds": 165.022,
+      "id": "cue-58",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 161.624,
+      "text": "定义自己那好希望这样的分享对大家是有用的"
+    },
+    {
+      "end_seconds": 168.526,
+      "id": "cue-59",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 165.022,
+      "text": "如果说你想要去分享一下你的裁员经历或者说"
+    },
+    {
+      "end_seconds": 171.206,
+      "id": "cue-60",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 168.526,
+      "text": "被裁员经历我们也欢迎在社区里边讨论这期"
+    },
+    {
+      "end_seconds": 172.654,
+      "id": "cue-61",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 171.206,
+      "text": "视频就到这儿下期见拜拜"
+    }
+  ],
+  "video_id": "Y-ZK-B1TwYc",
+  "yuzheng_stance_weight": "not-evidence"
+}

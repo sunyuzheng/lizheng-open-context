@@ -1,0 +1,194 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-lGqXK2Oe5Uw",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2025-05-21",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "62c86fa5503813ee84ca80b6f7c682b14e775d066a09715ac03839fb125525c0",
+    "caption_units_sha256": "802d7daa17d84a0522a929aaf9c17512e25deeae7792d44e58d8080cd1b7a59c",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "62c86fa5503813ee84ca80b6f7c682b14e775d066a09715ac03839fb125525c0",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "add916befa9d0df70626540ec6fcc37e81e62e1edd838ba512616eeb38becb18",
+    "unresolved_count": 16
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 52,
+  "source_family": "https://www.youtube.com/watch?v=lGqXK2Oe5Uw",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=lGqXK2Oe5Uw",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "如何确定自己真的喜欢一个人",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.304,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.96,
+      "text": "有一个判断你是不是真的喜欢一个人的方法"
+    },
+    {
+      "end_seconds": 6.984,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.304,
+      "text": "就是你能不能闻到这个人的体香啊就是每个人"
+    },
+    {
+      "end_seconds": 9.688,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.984,
+      "text": "其实都是身体有一个特殊的香味的比如说宝宝"
+    },
+    {
+      "end_seconds": 14.056,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.688,
+      "text": "我的宝宝现在就有一个特殊的身体香味他的嗯"
+    },
+    {
+      "end_seconds": 15.12,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.056,
+      "text": "皮肤和他的"
+    },
+    {
+      "end_seconds": 19.273,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.553,
+      "text": "头发哎你先到下面出来对"
+    },
+    {
+      "end_seconds": 23.593,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.313,
+      "text": "对对对对都有特殊香味然后我喜欢他的时候呢"
+    },
+    {
+      "end_seconds": 27.353,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.593,
+      "text": "我就会闻到这个香味然后特别好玩呃但是这个"
+    },
+    {
+      "end_seconds": 30.393,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.353,
+      "text": "不是一个什么必要条件啊就是有的人是闻不到"
+    },
+    {
+      "end_seconds": 33.185,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.393,
+      "text": "这些香味的就是他再喜欢一个人他他嗅觉嘛"
+    },
+    {
+      "end_seconds": 35.993,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.185,
+      "text": "就是闻不到这个香味所以不要拿着去测试你的"
+    },
+    {
+      "end_seconds": 39.569,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.993,
+      "text": "伴侣但是你如果闻到了这个人的香味就说明你"
+    },
+    {
+      "end_seconds": 40.233,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.569,
+      "text": "是真的喜欢"
+    },
+    {
+      "end_seconds": 42.873,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.513,
+      "text": "他啊呸呸呸"
+    },
+    {
+      "end_seconds": 48.789,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.109,
+      "text": "啊像小红书上微"
+    },
+    {
+      "end_seconds": 50.069,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.829,
+      "text": "博"
+    }
+  ],
+  "video_id": "lGqXK2Oe5Uw",
+  "yuzheng_stance_weight": "not-evidence"
+}

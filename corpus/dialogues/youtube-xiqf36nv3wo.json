@@ -1,0 +1,140 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-xiqf36nv3wo",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2025-02-10",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "044d6e3586ddfe3f65c431c42337b044b07632c3b1e7f4012f03381901c1a2d0",
+    "caption_units_sha256": "c7323de91013b9d0b07a87a652316fcde68121d0d2a4bfa7b2f16be0652f811d",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "044d6e3586ddfe3f65c431c42337b044b07632c3b1e7f4012f03381901c1a2d0",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "624cb0f4d37299457ad7a2dce25cbf3116a012c9a587e3d3c273b89bbbfdc3be",
+    "unresolved_count": 10
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 27,
+  "source_family": "https://www.youtube.com/watch?v=xiqf36nv3wo",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=xiqf36nv3wo",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "科技发展的主线是成本降低",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 4.0,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.08,
+      "text": "你看过去七八十年科技的发展吧它的一个主线"
+    },
+    {
+      "end_seconds": 6.455,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.0,
+      "text": "就是 costaltechnology"
+    },
+    {
+      "end_seconds": 9.853,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.585,
+      "text": "越来越低你最开始的比如说 PC 时代那它"
+    },
+    {
+      "end_seconds": 11.627,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.853,
+      "text": "的本质是 costalsoftware"
+    },
+    {
+      "end_seconds": 14.975999999999999,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.72,
+      "text": "越来越低你以前要做一个软件是很贵很贵的"
+    },
+    {
+      "end_seconds": 17.84,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.975999999999999,
+      "text": "如果专门为你做对吧但是有了 PC 之后"
+    },
+    {
+      "end_seconds": 19.75,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.84,
+      "text": "很多人都用比如说 Office 卖的很"
+    },
+    {
+      "end_seconds": 22.672,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.75,
+      "text": "便宜比如说五十美金或一百美金而不是说需要"
+    },
+    {
+      "end_seconds": 25.792,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.672,
+      "text": "把这个开发成本一个人担了而是可以开发成本"
+    },
+    {
+      "end_seconds": 27.04,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.792,
+      "text": "几亿个人一块担"
+    }
+  ],
+  "video_id": "xiqf36nv3wo",
+  "yuzheng_stance_weight": "not-evidence"
+}

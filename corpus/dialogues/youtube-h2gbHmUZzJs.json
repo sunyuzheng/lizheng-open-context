@@ -1,0 +1,230 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-h2gbHmUZzJs",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2024-04-14",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "e828175c5eb55b607604bb1ac4a39460b8473a6d6933aa32ef9822a857bd2233",
+    "caption_units_sha256": "e77b5b8bc2f9a7d4fed4b2e40f751790c51c5a93074b305aa9447d134cb39f35",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "e828175c5eb55b607604bb1ac4a39460b8473a6d6933aa32ef9822a857bd2233",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "ad26948e9334ba6722279196ff8a83c71aa6f63be78dd83a57de58ca6316cb0a",
+    "unresolved_count": 20
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 56,
+  "source_family": "https://www.youtube.com/watch?v=h2gbHmUZzJs",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=h2gbHmUZzJs",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "如何理解复利？",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.04,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.08,
+      "text": "很多同学想做自媒体卖自己的人设学一下别人"
+    },
+    {
+      "end_seconds": 6.48,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.04,
+      "text": "的模板去模仿市面上的爆款但是你做这件事情"
+    },
+    {
+      "end_seconds": 9.658,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.48,
+      "text": "呢一到你的小红书上可能有个一千到五千粉会"
+    },
+    {
+      "end_seconds": 12.378,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.658,
+      "text": "有一万粉它能帮助你最快最简单最省事儿最省"
+    },
+    {
+      "end_seconds": 15.258,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.378,
+      "text": "脑子的去达到这个效果但是你很有可能就停在"
+    },
+    {
+      "end_seconds": 17.898,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.258,
+      "text": "这里不会再增长上去了这些所有的这些事情都"
+    },
+    {
+      "end_seconds": 21.154,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.898,
+      "text": "是为着一个几千粉的天花板去设计的而且你"
+    },
+    {
+      "end_seconds": 23.818,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.154,
+      "text": "还要持续的不停的就收集了一波观众的信任"
+    },
+    {
+      "end_seconds": 26.146,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.818,
+      "text": "然后割一波韭菜收集了一波观众的信任然后"
+    },
+    {
+      "end_seconds": 29.066,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.146,
+      "text": "割一波韭菜到最后你是积累不起来真正的观众"
+    },
+    {
+      "end_seconds": 29.498,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.066,
+      "text": "信任没"
+    },
+    {
+      "end_seconds": 32.218,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.498,
+      "text": "有办法让你成为一个三万粉三十万粉三百万粉"
+    },
+    {
+      "end_seconds": 35.948,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.218,
+      "text": "的人你也很难走进这个复利增长的轨道巴菲特"
+    },
+    {
+      "end_seconds": 39.228,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.948,
+      "text": "就反复反复反复的讲复利是多么的重要大家对"
+    },
+    {
+      "end_seconds": 42.724,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.228,
+      "text": "这个话题即使知道它很重要但是没有内化它"
+    },
+    {
+      "end_seconds": 45.564,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.724,
+      "text": "到底有多么重要今天什么股票涨了这就是一个"
+    },
+    {
+      "end_seconds": 48.588,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 45.564,
+      "text": "不关注复利的表现它到底有多么重要它怎么"
+    },
+    {
+      "end_seconds": 52.028,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.588,
+      "text": "工作的我们怎么样子去寻找有复利的事情今天"
+    },
+    {
+      "end_seconds": 54.956,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.028,
+      "text": "我就跟大家分享一下这些理解那我们先从简单"
+    },
+    {
+      "end_seconds": 56.108,
+      "id": "cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.956,
+      "text": "的几组数据开始"
+    }
+  ],
+  "video_id": "h2gbHmUZzJs",
+  "yuzheng_stance_weight": "not-evidence"
+}

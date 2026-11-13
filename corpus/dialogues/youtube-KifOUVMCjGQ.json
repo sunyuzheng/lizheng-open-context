@@ -1,0 +1,230 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-KifOUVMCjGQ",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2024-11-14",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "ac5d5e6f09cc202faacb3b12aecd1095b35d3d6e5db2f220f9bf966fd0ed26ae",
+    "caption_units_sha256": "3c3e5f4f2beedd459bbae99f9fd486dc1d8b7835d166fdf5558d54316e09aa2c",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "ac5d5e6f09cc202faacb3b12aecd1095b35d3d6e5db2f220f9bf966fd0ed26ae",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "5cc94cc04f142671724476fdadd6b048b1f005ac8c94ff553d4d97bef812fb3c",
+    "unresolved_count": 20
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 58,
+  "source_family": "https://www.youtube.com/watch?v=KifOUVMCjGQ",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=KifOUVMCjGQ",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "你为什么一直被短择？",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 4.056,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.72,
+      "text": "很多同学在改简历的过程会犯一个特别大的"
+    },
+    {
+      "end_seconds": 8.776,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 4.056,
+      "text": "错误这个错误就是不知道自己的目标没有围绕"
+    },
+    {
+      "end_seconds": 12.43,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.776,
+      "text": "自己的目标去修改自己的简历其实这样你用"
+    },
+    {
+      "end_seconds": 14.918,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.43,
+      "text": "一个 datingapp 的比方就知道了"
+    },
+    {
+      "end_seconds": 16.878,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.918,
+      "text": "你如果在 datingapp 上想找的是"
+    },
+    {
+      "end_seconds": 17.027,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.878,
+      "text": "一个"
+    },
+    {
+      "end_seconds": 18.591,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.101,
+      "text": "longtermrelationship"
+    },
+    {
+      "end_seconds": 20.918,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.666,
+      "text": "但是你单纯因为你去夜店的那张那张照片"
+    },
+    {
+      "end_seconds": 24.382,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.918,
+      "text": "特别帅然后你就放上去那其实就会跟你这个"
+    },
+    {
+      "end_seconds": 26.012,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.382,
+      "text": "目标是违背的那些找"
+    },
+    {
+      "end_seconds": 27.981,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.106,
+      "text": "longtermrelationship"
+    },
+    {
+      "end_seconds": 28.638,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.075,
+      "text": "的人也应该不"
+    },
+    {
+      "end_seconds": 32.158,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.638,
+      "text": "会去划你的你应该去放那些你有生活感的体或"
+    },
+    {
+      "end_seconds": 35.548,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.158,
+      "text": "你的价值观的这些呃照片我在 YC 的那个"
+    },
+    {
+      "end_seconds": 39.245,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.548,
+      "text": "改简历的视频里边有讲那位同学想找的是一个"
+    },
+    {
+      "end_seconds": 42.397,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.245,
+      "text": "比较高的职位但是他放进去的这些工作经历"
+    },
+    {
+      "end_seconds": 46.756,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.397,
+      "text": "甚至有一些什么在微信里边呃就是在玩玩玩家"
+    },
+    {
+      "end_seconds": 50.172,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.756,
+      "text": "群里边发信息这种非常执行的工作那肯定是"
+    },
+    {
+      "end_seconds": 54.692,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.172,
+      "text": "扣分的所以说一定要明确自己的目标围绕自己"
+    },
+    {
+      "end_seconds": 57.652,
+      "id": "cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.692,
+      "text": "的目标去审视你的简历去修改你的简历"
+    }
+  ],
+  "video_id": "KifOUVMCjGQ",
+  "yuzheng_stance_weight": "not-evidence"
+}

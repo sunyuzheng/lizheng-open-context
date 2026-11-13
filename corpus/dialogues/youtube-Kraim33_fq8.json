@@ -1,0 +1,158 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-Kraim33_fq8",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2024-10-25",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "5690ec1087b9a7f35364a5d2cd7b2dbdc7e6d3365efef9a647ee56f5aac03f0c",
+    "caption_units_sha256": "acd902cf51078278fb72811cfcc1f69d0a114c89713f29b60d0b33f94c0d8dc9",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "5690ec1087b9a7f35364a5d2cd7b2dbdc7e6d3365efef9a647ee56f5aac03f0c",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "ba2a268cc11bd325ff186e1c6a9079b9c01cfa267d92b72c30375c4018acb0ac",
+    "unresolved_count": 12
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 39,
+  "source_family": "https://www.youtube.com/watch?v=Kraim33_fq8",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=Kraim33_fq8",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "写论文拖延怎么治疗？",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 5.84,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.64,
+      "text": "今天有一位同学他是大四正在写论文在会员群"
+    },
+    {
+      "end_seconds": 10.08,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.84,
+      "text": "里面问呃如果论文写不下去了拖延有什么办法"
+    },
+    {
+      "end_seconds": 14.655,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.08,
+      "text": "治疗拖延然后我跟他说答案很简单你写论文"
+    },
+    {
+      "end_seconds": 17.895,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.655,
+      "text": "拖延就是因为你知道你写的东西没有什么意义"
+    },
+    {
+      "end_seconds": 20.263,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.895,
+      "text": "所以说这个时候有两个办法要么你找一个有"
+    },
+    {
+      "end_seconds": 23.495,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.263,
+      "text": "意义的题目这样你写起来很爽你会去写了要么"
+    },
+    {
+      "end_seconds": 26.191,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.495,
+      "text": "就是你知道你写的东西没有意义那你就把它"
+    },
+    {
+      "end_seconds": 30.119,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.191,
+      "text": "当成一个需要你尽快完成的任务找到你怎么"
+    },
+    {
+      "end_seconds": 34.095,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.119,
+      "text": "样子可以达到最低标准然后去满足这个标准"
+    },
+    {
+      "end_seconds": 36.759,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.095,
+      "text": "尽快把它做完这样你可以把时间用来做其他"
+    },
+    {
+      "end_seconds": 37.575,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.759,
+      "text": "更有意义的事"
+    },
+    {
+      "end_seconds": 38.135,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.575,
+      "text": "情就行了"
+    }
+  ],
+  "video_id": "Kraim33_fq8",
+  "yuzheng_stance_weight": "not-evidence"
+}

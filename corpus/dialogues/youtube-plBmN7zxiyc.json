@@ -1,0 +1,203 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-plBmN7zxiyc",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2023-10-03",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "fe537ad31589eb43ffd4a3e66c6ebf642db136a6b2f99a5361cee63ce380c8fe",
+    "caption_units_sha256": "d509a1e6bf353f60e3b9727b34e9c8d5c2716fe649e0eaf8ad281b4074d624d4",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "fe537ad31589eb43ffd4a3e66c6ebf642db136a6b2f99a5361cee63ce380c8fe",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "750d7158747f0e68387aa36952681f8e9a887d4536353683c253752cc6046d06",
+    "unresolved_count": 17
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 49,
+  "source_family": "https://www.youtube.com/watch?v=plBmN7zxiyc",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=plBmN7zxiyc",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "拍正脸好看秘籍！",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 2.7199999999999998,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.16,
+      "text": "我们可能经常会遇到这样的困扰就是你给别人"
+    },
+    {
+      "end_seconds": 5.832,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.7199999999999998,
+      "text": "拍照片尤其是正脸的照片怎么拍怎么对方不"
+    },
+    {
+      "end_seconds": 9.56,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.832,
+      "text": "满意但是对方拿自拍的时候就觉得很好看所以"
+    },
+    {
+      "end_seconds": 12.798,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.56,
+      "text": "就觉得是你的照相技术的问题其实发生这种"
+    },
+    {
+      "end_seconds": 16.349,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.798,
+      "text": "情况很有可能是因为你拍照的时候这个相机是"
+    },
+    {
+      "end_seconds": 19.677,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.349,
+      "text": "一个呃对方的角度但是自拍是一个镜子里的"
+    },
+    {
+      "end_seconds": 23.877,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.677,
+      "text": "角度就是五官是反转的所以说当一个人习惯了"
+    },
+    {
+      "end_seconds": 27.341,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.877,
+      "text": "看自己镜子里的角度的时候看到相机里的角度"
+    },
+    {
+      "end_seconds": 31.341,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.341,
+      "text": "因为整个五官反转了以后他就会觉得有点不适"
+    },
+    {
+      "end_seconds": 33.837,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.341,
+      "text": "那他平时习惯的是这个看到这个眼睛小这个"
+    },
+    {
+      "end_seconds": 34.317,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.837,
+      "text": "眼睛大在"
+    },
+    {
+      "end_seconds": 36.637,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.317,
+      "text": "相机里边就看到这个眼睛小这个眼睛大这样就"
+    },
+    {
+      "end_seconds": 39.643,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.637,
+      "text": "会觉得自己丑如果是这样的情况就是被你拍照"
+    },
+    {
+      "end_seconds": 42.043,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.643,
+      "text": "的对象觉得自己自拍好看但是你怎么拍都怎么"
+    },
+    {
+      "end_seconds": 44.923,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.043,
+      "text": "不好看的话那你就试图把你给他拍的照片镜面"
+    },
+    {
+      "end_seconds": 48.043,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.923,
+      "text": "反转一下看看他满不满意希望对大家有用我们"
+    },
+    {
+      "end_seconds": 48.683,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.043,
+      "text": "下期再见拜拜"
+    }
+  ],
+  "video_id": "plBmN7zxiyc",
+  "yuzheng_stance_weight": "not-evidence"
+}

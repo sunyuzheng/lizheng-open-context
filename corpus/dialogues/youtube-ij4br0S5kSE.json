@@ -1,0 +1,239 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-ij4br0S5kSE",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2024-10-19",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "c7ace35b8a5533befcee3e59001ad7c5a77cc1e68e7b226f388c38e121063eb0",
+    "caption_units_sha256": "294980329568733e3e16f0d12956e29e08c682ea771258f9a164577ca4bf9f09",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "c7ace35b8a5533befcee3e59001ad7c5a77cc1e68e7b226f388c38e121063eb0",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "c3e6bcbb6c0c745622a1e0a409f2cf36b6eec81d7da1da62d24caf78651f70e4",
+    "unresolved_count": 21
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 60,
+  "source_family": "https://www.youtube.com/watch?v=ij4br0S5kSE",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=ij4br0S5kSE",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "Databricks是做什么的？｜联合创始人Reynold访谈判断",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 2.7199999999999998,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "啊很多甚至上百年对吧他们都会有非常多的跟"
+    },
+    {
+      "end_seconds": 6.603,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.7199999999999998,
+      "text": "数据相关的系统然后这些系统呢然后在 AI"
+    },
+    {
+      "end_seconds": 8.76,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.775,
+      "text": "来到来之后就加了更多这里一个"
+    },
+    {
+      "end_seconds": 10.02,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.82,
+      "text": "VectorDatabase 这里一个像"
+    },
+    {
+      "end_seconds": 12.4,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.08,
+      "text": "Pinecone 什么的呃其实这些系统"
+    },
+    {
+      "end_seconds": 14.32,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.4,
+      "text": "之间弄得非常的复杂很多时候"
+    },
+    {
+      "end_seconds": 18.12,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.232,
+      "text": "啊数据跟 AI 的复杂的其中一个原因就是"
+    },
+    {
+      "end_seconds": 21.056,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.12,
+      "text": "因为实在有太多不同的系统然后你每个系统"
+    },
+    {
+      "end_seconds": 23.872,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.056,
+      "text": "本身不光有系统自己的维护你有系统呃每个"
+    },
+    {
+      "end_seconds": 27.615,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.872,
+      "text": "系统有自己的这个用法然后每个系统有自己的"
+    },
+    {
+      "end_seconds": 30.392,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.615,
+      "text": "这个 security 的这个呃功能啊"
+    },
+    {
+      "end_seconds": 33.992,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.392,
+      "text": "所以你要在一个大企业里头把这些数据都能够"
+    },
+    {
+      "end_seconds": 36.032,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.992,
+      "text": "管理好是一个非常非常复杂的事情"
+    },
+    {
+      "end_seconds": 39.621,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.661,
+      "text": "就先不要说用好就是光管理好是一个非常复杂"
+    },
+    {
+      "end_seconds": 43.621,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.621,
+      "text": "的事情那么我们呢是希望能够提供一个就是"
+    },
+    {
+      "end_seconds": 47.563,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.621,
+      "text": "尽量全的一个方案能够让你把所有的数据都"
+    },
+    {
+      "end_seconds": 50.437,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.676,
+      "text": "centralized 在同一个地方来"
+    },
+    {
+      "end_seconds": 53.941,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.437,
+      "text": "管理然后不用再担心说然后还有包括了处理"
+    },
+    {
+      "end_seconds": 56.526,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.941,
+      "text": "然后不用再担心说这么多的复杂度我需要"
+    },
+    {
+      "end_seconds": 58.57,
+      "id": "cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.615,
+      "text": "maintain 同时二三十个不同的这种"
+    },
+    {
+      "end_seconds": 58.821,
+      "id": "cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.57,
+      "text": "系统"
+    }
+  ],
+  "video_id": "ij4br0S5kSE",
+  "yuzheng_stance_weight": "not-evidence"
+}

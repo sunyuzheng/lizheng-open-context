@@ -199,6 +199,36 @@ def community_page(root: Path) -> str:
     return "\n".join(out) + "\n"
 
 
+def shorts_page(root: Path) -> str:
+    page = "index/short-videos.md"
+    rows = newest_first([r for r in read_jsonl(root / "catalog/videos.jsonl") if r.get("video_format") == "short"])
+    included = sum(bool(r.get("dialogue_path") or (r.get("transcript_included") and r.get("corpus_path"))) for r in rows)
+    statuses = {"missing-short-caption": "待补字幕", "caption-source-mismatch": "字幕与视频内容不符，暂缓",
+                "caption-quality-insufficient": "字幕质量不足，暂缓", "no-meaningful-speech": "无可检索的有效语音",
+                "invalid-caption-timing": "字幕时码异常，暂缓"}
+    out = [GENERATED, "", "# 短视频", "",
+           f"已盘点 {len(rows)} 条 Shorts；{included} 条有文字，{len(rows) - included} 条保留视频目录与待补原因。以各条实际来源权限为准，栏目可见不代表视频免会员。",
+           "", "保留短片自己的时间轴；有明确长片关联时共享来源关系，时间点仍定位到短片。字幕来源与逐字质量、说话人归属分别记录，嘉宾发言和转述不能直接当成立正的立场。",
+           "", link(page, "收录方法与质量约定", "docs/dialogue-ingestion.md") + " · " + link(page, "机器可读视频目录", "catalog/videos.jsonl"), ""]
+    body = []
+    for row in rows:
+        path = row.get("dialogue_path") or (row.get("corpus_path") if row.get("transcript_included") else None)
+        if path:
+            status = "已收录"
+            if row.get("dialogue_path"):
+                data = json.loads((root / path).read_text(encoding="utf-8"))
+                status += " · " + {"publisher-captions": "发布字幕，未逐字听校", "platform-auto-captions": "平台自动字幕，未逐字听校",
+                                 "local-caption-copy": "归档字幕，未逐字听校"}.get(data.get("quality", {}).get("method"), "见原稿质量字段")
+            elif row.get("source_visibility") == "members-only":
+                status += " · 会员原视频"
+        else:
+            status = statuses.get(row.get("transcript_status"), "只有目录")
+        body.append([day(row.get("published_at")), link(page, row["title"], row["url"]),
+                     link(page, "文字", path) if path else "—", cell(status)])
+    out += table(["日期", "短视频", "文字", "状态"], body)
+    return "\n".join(out) + "\n"
+
+
 def video_kind(row: dict) -> str:
     if not row.get("transcript_included"):
         return "对谈原稿" if row.get("dialogue_path") else "只有目录"
@@ -425,6 +455,7 @@ def hub_page(root: Path) -> str:
     page = "INDEX.md"
     count = lambda name: len(read_jsonl(root / f"catalog/{name}.jsonl"))
     videos = read_jsonl(root / "catalog/videos.jsonl")
+    shorts = [row for row in videos if row.get("video_format") == "short"]
     groups = transcript_groups(videos)
     english = read_jsonl(root / "catalog/english-community.jsonl")
     own_english = sum(row.get("original_author") == "Yuzheng Sun" for row in english)
@@ -460,6 +491,7 @@ def hub_page(root: Path) -> str:
             f"按文件分别标明{reference}或{retained}；发言归属以单元记录为准"])
     listed = [
         ["视频目录", f"{len(videos)} 条", link(page, "视频目录", "index/videos.md"), link(page, "catalog/videos.jsonl", "catalog/videos.jsonl"), f"{groups['listed']} 条只有目录、没有字幕"],
+        ["其中：短视频", f"{len(shorts)} 条", link(page, "短视频目录", "index/short-videos.md"), link(page, "catalog/videos.jsonl", "catalog/videos.jsonl"), "分别列出文字与待补原因"],
         ["Knowledge Bank", f"{len(kb)} 篇", link(page, "Knowledge Bank 目录", "index/knowledge-bank.md"), link(page, "catalog/knowledge-bank.jsonl", "catalog/knowledge-bank.jsonl"), f"立正的 {sum(bool(r.get('full_text_included')) for r in kb)} 篇有全文，其他作者只列标题和链接"],
     ]
     appearances_path = root / "catalog/guest-appearances.jsonl"
@@ -554,6 +586,7 @@ PAGES = {
     "index/statsig-blog.md": blog_page,
     "index/community-posts.md": community_page,
     "index/videos.md": video_page,
+    "index/short-videos.md": shorts_page,
     "index/solo-videos.md": solo_video_page,
     "index/english.md": english_page,
     "index/knowledge-bank.md": knowledge_bank_page,

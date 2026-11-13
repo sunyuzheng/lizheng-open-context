@@ -1,0 +1,167 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-7sBa7OiAs0M",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2025-02-09",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "3ed48fcc8e5563db31083a7f829dd692d53fa7ae0a9ff3485745feb73022d7ce",
+    "caption_units_sha256": "e979a378c7785b170d9693c7b01c200646dc1552e83c981dd96f0dff35353c23",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "3ed48fcc8e5563db31083a7f829dd692d53fa7ae0a9ff3485745feb73022d7ce",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "fde9eb728f25e839a12854f9c7a3f1f840435145db4c317db52abf84d1beb8fd",
+    "unresolved_count": 13
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 36,
+  "source_family": "https://www.youtube.com/watch?v=7sBa7OiAs0M",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=7sBa7OiAs0M",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "所有大学都应该建一个万卡集群？",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.184,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.24,
+      "text": "我有一个 hottake 我觉得所有的好"
+    },
+    {
+      "end_seconds": 7.992,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.184,
+      "text": "的大学都应该建一个至少万卡集群给他的所有"
+    },
+    {
+      "end_seconds": 11.206,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.992,
+      "text": "科研人员来做吸引科研人员不只是计算机系的"
+    },
+    {
+      "end_seconds": 15.368,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.206,
+      "text": "或者做做 AI 的而是所有的学科都要去"
+    },
+    {
+      "end_seconds": 19.093,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.368,
+      "text": "拥抱用算力来来解决他的问题以前的科研是"
+    },
+    {
+      "end_seconds": 21.312,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.19,
+      "text": "graduatestudent 就是他招"
+    },
+    {
+      "end_seconds": 23.941,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 21.312,
+      "text": "很多的这种研究生来来做各种各种这种"
+    },
+    {
+      "end_seconds": 25.781,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.021,
+      "text": "compute 其实这些都可以通过算力来"
+    },
+    {
+      "end_seconds": 28.531,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.781,
+      "text": "解决很多时候啊 pairAI 来做一些"
+    },
+    {
+      "end_seconds": 30.261,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.531,
+      "text": "事情然后他们去做另外一些事"
+    },
+    {
+      "end_seconds": 32.341,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 30.261,
+      "text": "情然后提供 reward 然后 AI 再"
+    },
+    {
+      "end_seconds": 35.326,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.341,
+      "text": "做一些事情是不是能够发展出很好的跟 AI"
+    },
+    {
+      "end_seconds": 36.261,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.504,
+      "text": "协作的方式"
+    }
+  ],
+  "video_id": "7sBa7OiAs0M",
+  "yuzheng_stance_weight": "not-evidence"
+}

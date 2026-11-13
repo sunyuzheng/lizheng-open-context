@@ -1,0 +1,284 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-S1bUVDG7Wl0",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2024-05-27",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "3e4e207b148fb0f08411e1a65bac29f9c9d3b197f2480de90eda5028b20833f4",
+    "caption_units_sha256": "237d2b264f260177f314d7f6dba20e4c9ac11e5a946b8f2b75bc1fa439129835",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "3e4e207b148fb0f08411e1a65bac29f9c9d3b197f2480de90eda5028b20833f4",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "1472fbc2e9be6d73e24802553fd8b1e5eeb7e741b33985c6d693d7c6c8bf6422",
+    "unresolved_count": 26
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 59,
+  "source_family": "https://www.youtube.com/watch?v=S1bUVDG7Wl0",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=S1bUVDG7Wl0",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "这四条特征识别同事中的大腿",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 2.656,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.0,
+      "text": "有同学问我在一个团队里的 star 是"
+    },
+    {
+      "end_seconds": 5.28,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.656,
+      "text": "什么样子因为我们都知道在职业发展的过程"
+    },
+    {
+      "end_seconds": 8.585,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.28,
+      "text": "中抱大腿很重要抱住这个明星同事的大腿不光"
+    },
+    {
+      "end_seconds": 11.962,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.585,
+      "text": "能学到很多东西你也能得到更多机会可是很多"
+    },
+    {
+      "end_seconds": 13.842,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.962,
+      "text": "人没有见过真正的 star 是什么样子的"
+    },
+    {
+      "end_seconds": 16.642,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.842,
+      "text": "我在这儿帮大家总结出来四条第一条是"
+    },
+    {
+      "end_seconds": 19.482,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.642,
+      "text": "向下兼容当你们做的东西不是那么相关你没有"
+    },
+    {
+      "end_seconds": 22.602,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.482,
+      "text": "触碰到它的核心利益的时候它会让你如沐春风"
+    },
+    {
+      "end_seconds": 25.762,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 22.602,
+      "text": "当你更接触到它的核心利益的时候你就会看到"
+    },
+    {
+      "end_seconds": 29.042,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.762,
+      "text": "它的更多面比如说它狼性的那一面第二个就是"
+    },
+    {
+      "end_seconds": 29.922,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.042,
+      "text": "结果说话它"
+    },
+    {
+      "end_seconds": 33.08,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.922,
+      "text": "永远强调的是他做到了什么结果而不是去强调"
+    },
+    {
+      "end_seconds": 35.888,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 33.08,
+      "text": "他的想法做法或者他的人脉第三就会发现他"
+    },
+    {
+      "end_seconds": 38.772,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.888,
+      "text": "总是在做那些非常有挑战的事情也一定是那些"
+    },
+    {
+      "end_seconds": 40.512,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.88,
+      "text": "visibility 很高而且非常"
+    },
+    {
+      "end_seconds": 42.68,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.604,
+      "text": "impactful 的事情他绝对不会"
+    },
+    {
+      "end_seconds": 43.989,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.68,
+      "text": "浪费时间去做那些有挑战的"
+    },
+    {
+      "end_seconds": 46.368,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.074,
+      "text": "dirtywork 第四点也是隐藏的一点"
+    },
+    {
+      "end_seconds": 47.56,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.368,
+      "text": "就是 star 一定是有一个"
+    },
+    {
+      "end_seconds": 49.936,
+      "id": "cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 47.64,
+      "text": "sponsor 这个大腿可以给他指导可以"
+    },
+    {
+      "end_seconds": 52.333,
+      "id": "cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.936,
+      "text": "给他资源而且这个大腿一般都是 star"
+    },
+    {
+      "end_seconds": 52.92,
+      "id": "cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.451,
+      "text": "加二以上"
+    },
+    {
+      "end_seconds": 54.592,
+      "id": "cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.92,
+      "text": "的人不光 star 知道 star 的"
+    },
+    {
+      "end_seconds": 56.217,
+      "id": "cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.592,
+      "text": "老板也知道以上这四点如果"
+    },
+    {
+      "end_seconds": 58.234,
+      "id": "cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.314,
+      "text": "identify 出来了以后就赶紧抱紧"
+    },
+    {
+      "end_seconds": 58.92,
+      "id": "cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 58.234,
+      "text": "他们大腿吧"
+    }
+  ],
+  "video_id": "S1bUVDG7Wl0",
+  "yuzheng_stance_weight": "not-evidence"
+}

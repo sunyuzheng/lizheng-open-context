@@ -1,0 +1,212 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-E7h6-xAirT4",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2024-07-24",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "f8d673f98ebc9caf9957c8770d5ba51c77c511a8ea5131f54ccc0c902c6eece0",
+    "caption_units_sha256": "e31702ebc116630477344ffc50cf7a884b14f4a02e824f02deb1cdd66ba774f4",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "f8d673f98ebc9caf9957c8770d5ba51c77c511a8ea5131f54ccc0c902c6eece0",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "91dadcf043ca49fd13676cae1450701e1522551081b8424f4e9cc607a5ad947e",
+    "unresolved_count": 18
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 58,
+  "source_family": "https://www.youtube.com/watch?v=E7h6-xAirT4",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=E7h6-xAirT4",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "YouTube赚钱的两个误区",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 2.24,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.16,
+      "text": "YouTube 到底能赚多少钱我今天就给"
+    },
+    {
+      "end_seconds": 5.04,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 2.24,
+      "text": "大家看一下这个是我在过去二十八天的收入"
+    },
+    {
+      "end_seconds": 6.269,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 5.04,
+      "text": "然后大家可以看到这边的"
+    },
+    {
+      "end_seconds": 8.061,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.358,
+      "text": "estimaterevenue 大概是"
+    },
+    {
+      "end_seconds": 12.672,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 8.061,
+      "text": "三千七百美元可是有两个常见的误解啊就是嗯"
+    },
+    {
+      "end_seconds": 16.448,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.672,
+      "text": "到底花了多长时间到这里的如果大家看我这个"
+    },
+    {
+      "end_seconds": 20.754,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.448,
+      "text": "生涯的话是呃四万五千美元可是如果只看过去"
+    },
+    {
+      "end_seconds": 24.274,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.754,
+      "text": "一年的话是三万六所以说基本上百分之七八十"
+    },
+    {
+      "end_seconds": 27.314,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.274,
+      "text": "八九十的收入都是来自于过去一年那为什么呢"
+    },
+    {
+      "end_seconds": 31.521,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 27.314,
+      "text": "就是因为当时我在十月份的时候开了会员然后"
+    },
+    {
+      "end_seconds": 31.973,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.521,
+      "text": "这个"
+    },
+    {
+      "end_seconds": 36.213,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.973,
+      "text": "收入就上来了如果在那之前的话其实整个除了"
+    },
+    {
+      "end_seconds": 39.813,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.213,
+      "text": "几个爆款视频以外几乎收入都是非常低的所以"
+    },
+    {
+      "end_seconds": 43.653,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.813,
+      "text": "说两个误解是什么就是第一如果你是奔着钱去"
+    },
+    {
+      "end_seconds": 46.421,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.653,
+      "text": "做 YouTube 的话那你很可能赚不到"
+    },
+    {
+      "end_seconds": 50.053,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.421,
+      "text": "钱因为你在这儿就放弃了第二它不是一个被动"
+    },
+    {
+      "end_seconds": 54.485,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 50.053,
+      "text": "收入可是你不发内容的话你就不会有人来看呃"
+    },
+    {
+      "end_seconds": 57.893,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.485,
+      "text": "所以说它其实算是一个半主动收入吧"
+    }
+  ],
+  "video_id": "E7h6-xAirT4",
+  "yuzheng_stance_weight": "not-evidence"
+}

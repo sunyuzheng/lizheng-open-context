@@ -1,0 +1,410 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-3WGc6AvxZ-c",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2025-11-15",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "3f50b12ddac13ab4cfe7d8c51b99ea58cf7c0eed83b9b3c13a0e5003d74d5c2f",
+    "caption_units_sha256": "923546cf8ab3473ebc46b53baaf15bea9bdd8eb587c4fc180c88f951765c8f8d",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "3f50b12ddac13ab4cfe7d8c51b99ea58cf7c0eed83b9b3c13a0e5003d74d5c2f",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "273933ad48d7c7ddceb61cb9af26cd340822faf192c0f13d823a5ecfea5a2516",
+    "unresolved_count": 40
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 118,
+  "source_family": "https://www.youtube.com/watch?v=3WGc6AvxZ-c",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=3WGc6AvxZ-c",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "用一个问题，搞清楚财富是如何开始的",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.2720000000000002,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.24,
+      "text": "而这个区别是关于财富的开始是关于你怎么"
+    },
+    {
+      "end_seconds": 6.4,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.2720000000000002,
+      "text": "样子去积累这个财富的我们不要只去看那个"
+    },
+    {
+      "end_seconds": 9.888,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.4,
+      "text": "财富的结果我们更关于财富让我觉醒的一句话"
+    },
+    {
+      "end_seconds": 12.664,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.888,
+      "text": "是来自于一个 NBA 球员应该是在一期"
+    },
+    {
+      "end_seconds": 15.942,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 12.664,
+      "text": "采访里边然后别人就恭维他说你现在赚很多钱"
+    },
+    {
+      "end_seconds": 19.455,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 15.942,
+      "text": "已经非常 wealthy 了然后他就赶紧"
+    },
+    {
+      "end_seconds": 23.175,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 19.455,
+      "text": "纠正这个主持人说我现在只是 rich 我"
+    },
+    {
+      "end_seconds": 25.913,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.175,
+      "text": "没有 wealthy 我的球队的老板那才"
+    },
+    {
+      "end_seconds": 28.487,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.913,
+      "text": "是 wealthy 然后我当时就觉得哦他"
+    },
+    {
+      "end_seconds": 29.255,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.487,
+      "text": "这个点抓的很"
+    },
+    {
+      "end_seconds": 31.412,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 29.255,
+      "text": "准 wealthy 和 rich 的区别"
+    },
+    {
+      "end_seconds": 34.135,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.412,
+      "text": "是什么是财富的量级吗其实不是你如果拿这个"
+    },
+    {
+      "end_seconds": 37.023,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.249,
+      "text": "NBA 球星的收入去看的话他其实赚的钱"
+    },
+    {
+      "end_seconds": 40.567,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 37.023,
+      "text": "的数量也是很多了但是区别是来自于他这个钱"
+    },
+    {
+      "end_seconds": 43.367,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.567,
+      "text": "到底是怎么来的帮助大家理解这个区别我问"
+    },
+    {
+      "end_seconds": 46.141,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.367,
+      "text": "大家这样一个问题就是有什么钱是一个"
+    },
+    {
+      "end_seconds": 49.683,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.306,
+      "text": "wealthy 的人一定会花的钱大家可以"
+    },
+    {
+      "end_seconds": 53.343,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.683,
+      "text": "自己停几秒然后去想答案就是能帮助他赚钱的"
+    },
+    {
+      "end_seconds": 55.406,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 53.343,
+      "text": "钱一个 wealthy 的人肯定会花那这"
+    },
+    {
+      "end_seconds": 56.899,
+      "id": "cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.406,
+      "text": "其实就是 wealthy 和"
+    },
+    {
+      "end_seconds": 59.188,
+      "id": "cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 56.899,
+      "text": "rich 的区别因为一个 rich 但是"
+    },
+    {
+      "end_seconds": 61.942,
+      "id": "cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.188,
+      "text": "不 wealthy 的人他其实没有这样的"
+    },
+    {
+      "end_seconds": 65.672,
+      "id": "cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.942,
+      "text": "赚钱机会就比如说我平时在打工你说我花什么"
+    },
+    {
+      "end_seconds": 69.232,
+      "id": "cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.672,
+      "text": "钱可以让我多赚一些钱我也许可以自我提升我"
+    },
+    {
+      "end_seconds": 72.408,
+      "id": "cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.232,
+      "text": "也许可以去给老板送礼但是这些东西都是间接"
+    },
+    {
+      "end_seconds": 76.143,
+      "id": "cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.408,
+      "text": "的不是直接的可是一个有自己生意的人哪怕我"
+    },
+    {
+      "end_seconds": 79.103,
+      "id": "cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.143,
+      "text": "只是开个餐馆如果我多雇佣一个人就能让我的"
+    },
+    {
+      "end_seconds": 82.127,
+      "id": "cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 79.103,
+      "text": "餐馆多开一段时间帮我多赚一些钱的话这个钱"
+    },
+    {
+      "end_seconds": 85.439,
+      "id": "cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 82.127,
+      "text": "对我来说就是无脑花只要他赚到的钱比我的"
+    },
+    {
+      "end_seconds": 88.191,
+      "id": "cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.439,
+      "text": "支出要大就行这个区别对于我们普通人来"
+    },
+    {
+      "end_seconds": 91.303,
+      "id": "cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.191,
+      "text": "说比财富的量级要重要的多因为财富啊我们"
+    },
+    {
+      "end_seconds": 94.333,
+      "id": "cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 91.303,
+      "text": "看到的是结果是最后积累起来的结果而这个"
+    },
+    {
+      "end_seconds": 97.5,
+      "id": "cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 94.333,
+      "text": "区别是关于财富的开始就关于你怎么样子去"
+    },
+    {
+      "end_seconds": 100.58,
+      "id": "cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 97.5,
+      "text": "积累这个财富的我们不要只去看那个财富的"
+    },
+    {
+      "end_seconds": 103.828,
+      "id": "cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 100.58,
+      "text": "结果我们更需要关注财富的开始是怎么开始的"
+    },
+    {
+      "end_seconds": 106.628,
+      "id": "cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 103.828,
+      "text": "我希望这个区别跟大家讲清楚了如果你感兴趣"
+    },
+    {
+      "end_seconds": 109.54,
+      "id": "cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 106.628,
+      "text": "更多的话欢迎去看我最新发的那些长视频我们"
+    },
+    {
+      "end_seconds": 113.06,
+      "id": "cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.54,
+      "text": "跟金钱的关系和心态在那期视频里边就可以帮"
+    },
+    {
+      "end_seconds": 116.188,
+      "id": "cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 113.06,
+      "text": "你理顺怎么样子开始一个真正的财富游戏好"
+    },
+    {
+      "end_seconds": 117.348,
+      "id": "cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.188,
+      "text": "那期视频里见"
+    }
+  ],
+  "video_id": "3WGc6AvxZ-c",
+  "yuzheng_stance_weight": "not-evidence"
+}

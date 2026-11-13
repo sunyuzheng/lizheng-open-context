@@ -1,0 +1,221 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-8ki8e4pj580",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2024-02-11",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "e5c74f03e82ca7132bacd4345a4b6be3848679c8da6681b53509233b4e30a7ca",
+    "caption_units_sha256": "ebef09bf42e5d0a6d2baad97d25b39bfedfbcd1c1ce1aef10127f5a4eb25c89c",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "e5c74f03e82ca7132bacd4345a4b6be3848679c8da6681b53509233b4e30a7ca",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "301e245f7bc7433bc2234ef2621bcac5eac8b19a05a961e171d4d52194c55501",
+    "unresolved_count": 19
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 60,
+  "source_family": "https://www.youtube.com/watch?v=8ki8e4pj580",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=8ki8e4pj580",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "MIT教授：我能理解,科学尽头是信仰",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.84,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.08,
+      "text": "尤其是理论的物理学家他们研究到最后他们就"
+    },
+    {
+      "end_seconds": 7.6,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.84,
+      "text": "觉得说这个世界好像被设计的太太精妙了对太"
+    },
+    {
+      "end_seconds": 11.52,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.6,
+      "text": "精妙了呃就是精妙到他们不觉得所有东西都是"
+    },
+    {
+      "end_seconds": 13.451,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.52,
+      "text": "byprobabilityorbycha"
+    },
+    {
+      "end_seconds": 16.64,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.451,
+      "text": "nce 然后所以说很多人说什么科学的尽头"
+    },
+    {
+      "end_seconds": 18.584,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.64,
+      "text": "是信仰我我可以理解他们的"
+    },
+    {
+      "end_seconds": 23.151,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 18.752,
+      "text": "argument 嗯像它的重量尺度扑翼的"
+    },
+    {
+      "end_seconds": 26.439,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.151,
+      "text": "呃频率呢都和蜜蜂差不多大它它叫打起来是"
+    },
+    {
+      "end_seconds": 28.871,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 26.531,
+      "text": "elastomer 水的我觉得中文可能叫"
+    },
+    {
+      "end_seconds": 32.151,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.871,
+      "text": "介电弹性体驱动器看上去我只要给个电压这个"
+    },
+    {
+      "end_seconds": 32.711,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.151,
+      "text": "东西就会不"
+    },
+    {
+      "end_seconds": 36.791,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.711,
+      "text": "停的收缩收缩收缩尽管我花了如此长的时间和"
+    },
+    {
+      "end_seconds": 40.671,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.791,
+      "text": "精力在做这个事儿呃每次看到一个蜜蜂或者"
+    },
+    {
+      "end_seconds": 43.543,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.671,
+      "text": "一个苍蝇苍蝇蚊子飞过的时候你就觉得你可能"
+    },
+    {
+      "end_seconds": 45.671,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 43.543,
+      "text": "就是中西一个 career 做的东西都"
+    },
+    {
+      "end_seconds": 51.697,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.897,
+      "text": "比这些东西要差很多其实科学技术的发展从来"
+    },
+    {
+      "end_seconds": 55.073,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.697,
+      "text": "都不是一个线性的可能有的时候有一个"
+    },
+    {
+      "end_seconds": 57.713,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.201,
+      "text": "jump 然后很久之后都没有任何的进展"
+    },
+    {
+      "end_seconds": 59.137,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.713,
+      "text": "然后过段时间又有一个 jump"
+    }
+  ],
+  "video_id": "8ki8e4pj580",
+  "yuzheng_stance_weight": "not-evidence"
+}

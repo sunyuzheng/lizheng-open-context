@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "snapshot_at": "2026-11-01",
+  "snapshot_at": "2026-11-12",
   "repository": "sunyuzheng/lizheng-open-context",
   "intended_visibility": "public",
   "source_snapshots": {
@@ -21,7 +21,8 @@
     "public_dialogues": "2026-11-01",
     "guest_catalog": "2026-11-01",
     "video_incremental": "2026-11-01",
-    "guest_appearances": "2026-10-16"
+    "guest_appearances": "2026-10-16",
+    "public_shorts": "2026-11-12"
   },
   "filters": {
     "community_posts_full_text": "current Circle-search posts authored by YZ｜立正 plus one first-party Knowledge Bank item preserved from the earlier public snapshot; archived and hidden test spaces excluded; contact data redacted",
@@ -41,15 +42,15 @@
     "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md"
   },
   "counts": {
-    "structured_public_dialogues": 376,
-    "structured_dialogue_cues": 313363,
+    "structured_public_dialogues": 467,
+    "structured_dialogue_cues": 316614,
     "guest_entities": 157,
-    "guest_sources": 411,
-    "guest_appearances": 431,
+    "guest_sources": 415,
+    "guest_appearances": 435,
     "guest_slug_routes": 162,
     "guest_articles": 23,
     "guest_redirects": 3,
-    "guest_public_raw_records": 376,
+    "guest_public_raw_records": 467,
     "guest_introductions": 169,
     "community_posts_catalog": 253,
     "community_posts_full_text": 253,
@@ -63,13 +64,13 @@
     "community_comments_reviewed": 2519,
     "knowledge_bank_catalog": 169,
     "knowledge_bank_full_text": 36,
-    "video_catalog": 767,
+    "video_catalog": 897,
     "video_transcripts": 428,
-    "video_dialogue_transcripts": 337,
-    "video_metadata_only": 11,
+    "video_dialogue_transcripts": 435,
+    "video_metadata_only": 43,
     "member_video_transcripts": 218,
     "member_video_solo_reviewed": 45,
-    "known_guest_videos": 393,
+    "known_guest_videos": 403,
     "external_guest_appearances": 33,
     "english_community_catalog": 50,
     "english_community_full_text_files": 49,
@@ -84,11 +85,11 @@
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
-      "files": 44
+      "files": 45
     },
     "LicenseRef-Lizheng-Reference-Use-1.0": {
       "text": "LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md",
-      "files": 629
+      "files": 720
     },
     "LicenseRef-Original-Rights-Retained": {
       "text": "LICENSES/LicenseRef-Original-Rights-Retained.md",
@@ -96,7 +97,7 @@
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 63
+      "files": 65
     }
   },
   "files": [
@@ -108,14 +109,14 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 5827,
-      "sha256": "e37959bd1021ecbaaa3c0fc4c94462cf0fdac057641624d8371220dfa1bcd849",
+      "bytes": 6105,
+      "sha256": "f34be11a0eb4d34f807fa1c281de63d4221f689a4b8b546898446dfb0978612d",
       "license": "MIT"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 25243,
-      "sha256": "94fb35e5b1ce7420f3958ec1d8708c1297cb3b03fb28e08bb605503cf30721dc",
+      "bytes": 26331,
+      "sha256": "261bf74d1458f7bb2763ff28a4607e0cab10922e08f7536cc6607aff4f759390",
       "license": "MIT"
     },
     {
@@ -132,8 +133,8 @@
     },
     {
       "path": "INDEX.md",
-      "bytes": 10488,
-      "sha256": "125ee20041de30fe02757c1057315878cc4c8a71bd63168cd4fc4a8a03441a60",
+      "bytes": 10647,
+      "sha256": "9c9eed47f104803b741983cd61096fc994314bad4317599fa5c37868b7dde504",
       "license": "CC0-1.0"
     },
     {
@@ -180,14 +181,14 @@
     },
     {
       "path": "README.md",
-      "bytes": 4912,
-      "sha256": "665d11a6771e91af699dfb5847677967a20bef8ed868918da9acec676efc2480",
+      "bytes": 5263,
+      "sha256": "208d0667d1cb7df8b8aeefa23481adc465d2655b266cc11e315089c9d69a5c63",
       "license": "MIT"
     },
     {
       "path": "REUSE.toml",
-      "bytes": 42190,
-      "sha256": "112c0b7256b21f56bab4ec087ef5856995e23e38cbd000d11aca56a2bb4edece",
+      "bytes": 46467,
+      "sha256": "73c0c711b623315418f4bcec0c91712f6310bd7ee7edb4746ef63a640e1d50fc",
       "license": null
     },
     {
@@ -258,8 +259,8 @@
     },
     {
       "path": "catalog/guests.json",
-      "bytes": 518572,
-      "sha256": "b34172f911724fdaff09370184de615d4d7d6b674b5aaa710592501895ba9b8f",
+      "bytes": 520853,
+      "sha256": "342e622cdd10977d418c69aaa0617c6a8e7524b8b8e5d649815e0d89aeeceedd",
       "license": "CC0-1.0"
     },
     {
@@ -270,8 +271,8 @@
     },
     {
       "path": "catalog/videos.jsonl",
-      "bytes": 1213145,
-      "sha256": "bf16e9ad712a9f11d9bf5bf2dfb20bd0c6511de858969ef697cea65b8cd068ab",
+      "bytes": 1345971,
+      "sha256": "2af735c96ca1052df6d927374d5363dc6620438d647a3657a9a8cd3eb4e945a3",
       "license": "CC0-1.0"
     },
     {
@@ -330,20 +331,20 @@
     },
     {
       "path": "config/public-dialogue-policy.json",
-      "bytes": 6605673,
-      "sha256": "d8462ac22c167ccad189cd883735bab10986dd629b0f854df1da2be36d5af094",
+      "bytes": 6779647,
+      "sha256": "6ff507b60a4725fdc2a86cfca11480708b427ceab9d1d7ab4d55afc51a419d47",
       "license": "CC0-1.0"
     },
     {
       "path": "config/raw-turn-attribution-policy.json",
-      "bytes": 14011,
-      "sha256": "66cad4786fa8a1914744e4a10c878a9fc182a973cebb78191c17538731d6f033",
+      "bytes": 734840,
+      "sha256": "423ea4fb537ebf41946627a1202d113210867378d4010afd4f38562cb49b59f1",
       "license": "CC0-1.0"
     },
     {
       "path": "config/release-snapshot.json",
-      "bytes": 811,
-      "sha256": "39d0fe612ba640c42112a083566a99a3a89ed959e7c0d718667242feeb0e3408",
+      "bytes": 846,
+      "sha256": "0a6d9b14a786ab9eb9eb1d4f125351b6530bc9a4a850887479df26055a845240",
       "license": "CC0-1.0"
     },
     {
@@ -4877,6 +4878,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube--SZPobQirYY.json",
+      "bytes": 19860,
+      "sha256": "86d68ce9156f141ac36bb29e4e9dc19bf9371e92111ce8ad87e45b0a1a3b536b",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube--iLBagRDlUE.json",
       "bytes": 9393,
       "sha256": "e5c8125ba8003ac09aaa22d6cbbbf153b00ebde9dd7be054756f92e8d9472db4",
@@ -4919,6 +4926,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-2EkHHuH8T_4.json",
+      "bytes": 19861,
+      "sha256": "28eea68cf632d7c4df4bf117a548debdf4893cd799c437bf96fc2ac66193b9a8",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-2L9ReWu-sZc.json",
       "bytes": 176810,
       "sha256": "6fdf18fdb6bf5c854a391256f4395f8c353573ea60e26a2986e4e9ce3f762509",
@@ -4949,15 +4962,33 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-34cvwry8Gr0.json",
+      "bytes": 4973,
+      "sha256": "e71eff1c0ed999799680e767d2ae82812528db9f14e651ee7a7e78aa5ed64e8d",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-3R-wxLm3G7M.json",
       "bytes": 269440,
       "sha256": "2376526a9702d9b1c9418c1c16ddd2e130863a77b88fe168ff5b7f47c7fbb740",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-3WGc6AvxZ-c.json",
+      "bytes": 12705,
+      "sha256": "47c19edb90de67b3662a2cfc8b59f9bb53187a124bc6db9734a51e66a690e5fc",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-3YGv34WZhNI.json",
       "bytes": 235594,
       "sha256": "873b4834802a8679fc7ffc4e640a2e3d0a3c2ab786cec28def8c0ebcbd2b7aee",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-3YazG7jOfqc.json",
+      "bytes": 4186,
+      "sha256": "0cbf14329d7bfd3affead345746593ea35f6a3c80892c4c157638bff4213610d",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -4970,6 +5001,12 @@
       "path": "corpus/dialogues/youtube-3t2I_BMG9gU.json",
       "bytes": 544825,
       "sha256": "8afcece0c1b1189dd33a21acc2415ff01669bfafb1a582cc70a7dc7ae76b91f8",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-4-wWMFDib-g.json",
+      "bytes": 3254,
+      "sha256": "bd36d99861bc434aad61d40d7d8b926c5d072a8ee152b596f15a66e3da7cf9e6",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5000,6 +5037,12 @@
       "path": "corpus/dialogues/youtube-4eYzTGxZazw.json",
       "bytes": 293823,
       "sha256": "3d04f48e5420b06e44fcb10eb99f6e2535519f58bef0da8b4e5a7f9a79e192ba",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-4gkBomC_4dg.json",
+      "bytes": 3905,
+      "sha256": "c2dc859bb53909f0a43146c621b0bfc7b0e02dda4b11c01a7136a71fca4d1214",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5057,6 +5100,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-6oFa1QlH70c.json",
+      "bytes": 18255,
+      "sha256": "9f5d0333ae8d1b0dd5e0b8ffc4e8099570c17a9364489cabb0622b2cdd2ac5c1",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-6puUPZA0wVs.json",
       "bytes": 177764,
       "sha256": "6fb10d845ae262c193d9f1ea050733044626e50bf3ed59fa153a8ec759d28101",
@@ -5066,6 +5115,12 @@
       "path": "corpus/dialogues/youtube-6rHgvfYn2Mo.json",
       "bytes": 91096,
       "sha256": "bd01b34005c327e76e6547d6e1b625e29ee43b9be521bac548aff33bb8ea874f",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-72qufa9iXeI.json",
+      "bytes": 6280,
+      "sha256": "ad8491e092c91f4e1fbf4ae9eef17602827d573f41bf61ee8339e924235fdc4c",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5105,9 +5160,39 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-7sBa7OiAs0M.json",
+      "bytes": 5617,
+      "sha256": "fae44d0bd41ab5477ba29fb37d1d3241f288514a6d438953d657e3b6acbf7b9e",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-84EM7CrDc6M.json",
+      "bytes": 6901,
+      "sha256": "85471064f785fae74bc90f81159b792f942941707604320a0023988feafa4e53",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-8S30uJAVftU.json",
+      "bytes": 14100,
+      "sha256": "a97eb4de1fee888896a3625959fdb6386015b24703a76808578e578d95ddad72",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-8W5W60OL5hY.json",
+      "bytes": 27352,
+      "sha256": "dc894eb7215a0cf2591b4ebfd00b1ba62c0989c3523d343b41068b92d32ed0a3",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-8ZAmt3Bn5fs.json",
       "bytes": 854105,
       "sha256": "d9df497c65f6c33d3db0e5072947f0955fd8894d63586d952d91fe8481a0b778",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-8ki8e4pj580.json",
+      "bytes": 7188,
+      "sha256": "370d28f15829df5b17218048438062802d6655ab972f0fbf0555790a226b07bb",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5120,6 +5205,18 @@
       "path": "corpus/dialogues/youtube-99-5ptPiHJ0.json",
       "bytes": 623057,
       "sha256": "e1ea76a4fc5b12607ac0432630bbb004dca90a513650efa9043663a6edddb289",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-99tKW9AXWZA.json",
+      "bytes": 20537,
+      "sha256": "f6c47eda078e99063ec114750ab2b1dc3c0e889b3dd1bd1c2f72f5fb868b1152",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-9CMsCHwzRVE.json",
+      "bytes": 15591,
+      "sha256": "a23f3ca5cfae6fc690ff3e754f68248a92a191a4b883ac542c241d1ad386f1b2",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5195,9 +5292,21 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-AaxVQwox_j4.json",
+      "bytes": 25180,
+      "sha256": "1ec78a0d1b83b00b4c16f96ee82a423b94d33599b7448de81c840c58f86a763c",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-AcRLM5S-4Bw.json",
       "bytes": 6109,
       "sha256": "97b06c22fa5bdb3917b74b3a5b3b76f050be0239159604e9a6689b1c0938d40e",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-Afc961AbOiM.json",
+      "bytes": 16218,
+      "sha256": "745aa0b943b9f7f5cf6d339f072ecafc41a503c656d1129922fcf8e637e0e3b2",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5222,6 +5331,12 @@
       "path": "corpus/dialogues/youtube-ArfiQWpihhA.json",
       "bytes": 139602,
       "sha256": "bcb7a6893bf27d43cf46341151d82f2a0d30c819dbe13dce9e024debe12347c1",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-AzefEtPsC8s.json",
+      "bytes": 8165,
+      "sha256": "24963377a0c48a91ed24c4c9a819d1422cf9c7304aaa190c0b8515653eb6745d",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5255,9 +5370,27 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-C1ypoKpqOXw.json",
+      "bytes": 24952,
+      "sha256": "e752747f8d61b54d0f89100a7d58bd3a3ebefc7606ccd44f9612dd2b8ea46d72",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-CD3V4Z5hCgM.json",
       "bytes": 751335,
       "sha256": "7232a00b5583137c7bc618ecbc8bd4ffb17423bda09fa30ec3b5359f82c2c614",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-CJOTgEA0pnk.json",
+      "bytes": 17420,
+      "sha256": "47c5cc1410ba4d92ddbd01eaea2943250a7ff8df9c515f62f545442b8046ae5f",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-CNUn_2Mq5bs.json",
+      "bytes": 8651,
+      "sha256": "4d94684f34cfedd58d05b49ba0d6947e15f56e2b0c0372fba9be8a040e0a6f7c",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5339,9 +5472,21 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-E7h6-xAirT4.json",
+      "bytes": 6967,
+      "sha256": "32e7ad20cb73bee07208c0decb771f05c069b967c34cdcbcfb68726542e7ec35",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-EHP7JnKBmuA.json",
       "bytes": 88911,
       "sha256": "18e23d4811f658001bb59e809beb9f7e71a0c7515aa97d80aaeadc5c5367160c",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-ENPjw5Hxums.json",
+      "bytes": 6896,
+      "sha256": "2f09f877c0cf5e778b98f9baed9add7ff1c1f48244a2d6dc231fba1d0426adc1",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5378,6 +5523,18 @@
       "path": "corpus/dialogues/youtube-FBodpxppwfc.json",
       "bytes": 88567,
       "sha256": "20e4c743cf150809347cdea3bb19319c6df38b4530d38732975b81e60a85cd89",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-FIzel0DMHTc.json",
+      "bytes": 6778,
+      "sha256": "fd0b7cc2125c77c215cf736d2259a4d861e6c1b34be593efcbc27bc34bee07ff",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-FdBxAuczgiU.json",
+      "bytes": 4643,
+      "sha256": "e5763dd2e44d7dd553fbb371903bacb7dcfb4ac6fd258e2e644611c51179b16e",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5426,6 +5583,12 @@
       "path": "corpus/dialogues/youtube-GycQBpyazdw.json",
       "bytes": 253724,
       "sha256": "bebf8fdcb12dd9da17c908a3184b388ecf4ab43514176c71eb358ef4c6e07a63",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-H1ct6-HfEqU.json",
+      "bytes": 6745,
+      "sha256": "427bbbf643454695b7614394072d7020b7d734b87e4322fb88d0de620fcb54b9",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5519,6 +5682,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-KFzY4uIQrqQ.json",
+      "bytes": 7251,
+      "sha256": "efb42c92427cb603cb8addd738b251af101ff660d3c7b2991267f5d319aaa41d",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-KL3GMXsXXnw.json",
       "bytes": 135418,
       "sha256": "a0e39a18a79d108067f6d4018678d6a30ed1f32d82024c712bac87870f0914f4",
@@ -5528,6 +5697,12 @@
       "path": "corpus/dialogues/youtube-KLAN6YmP4jM.json",
       "bytes": 9358,
       "sha256": "f77a6bfa21d8e17594161723ba78948330e4b28e596855ab335058d512db61a6",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-KNkreK-GZqs.json",
+      "bytes": 28246,
+      "sha256": "0330db7f3678309db214910cc8e8689a2517c58d6a356463d4d56049c83586de",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5549,9 +5724,21 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-KifOUVMCjGQ.json",
+      "bytes": 7383,
+      "sha256": "8632366a55492b079d8747322169da455170626f4629b022d08f0d21669aea33",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-KkAuu0JnSvs.json",
       "bytes": 81526,
       "sha256": "e3334e3a597baaac7a12758ecace5c9072515c32f07757015df852e3b4f68ea1",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-KpJEOy7-jts.json",
+      "bytes": 10068,
+      "sha256": "33f68469d24fc5903c07b9f7fdc70c2ba5a8d65c9e8c8a6e9901ef8a905c145c",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5561,9 +5748,21 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-Kraim33_fq8.json",
+      "bytes": 5430,
+      "sha256": "93f3cd3440972cb428f765bf688108452ef921a490e91b404e86ff186b1cafa8",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-KzOymWZc3HY.json",
       "bytes": 41176,
       "sha256": "d5262fa9d2280903f497fbd43f769ec752eb6ac5b7e9332d246a4ad10b6702ea",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-L2Wtt66fhY0.json",
+      "bytes": 26468,
+      "sha256": "53674a6f55ab6620ce756c1b77ae54beec62c880244b9fe8d70f6fe6e34f1894",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5591,6 +5790,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-MEIC6so6RI8.json",
+      "bytes": 7996,
+      "sha256": "c9e66aa034ff2efaf464c72dcd60fa15fb3e799a5035967767247b955bb728da",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-MWt3Zo1oC70.json",
       "bytes": 229641,
       "sha256": "6803c08e048d5aafb1e70eda6acc2998da35d7457aae58170ad818887a6f5c8f",
@@ -5606,6 +5811,18 @@
       "path": "corpus/dialogues/youtube-Mjcbb4wP49g.json",
       "bytes": 196035,
       "sha256": "6ea94438664b94bfdb391f024e5c63080a3449e2cc0c0ef3d0966c402df545b1",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-MmRHOhneC78.json",
+      "bytes": 17603,
+      "sha256": "8fde59885268500d846f70cb7bf70679e2e884f4b61b03742e6d2675eae2f30f",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-N5CklQRyQ90.json",
+      "bytes": 9117,
+      "sha256": "6034c5a190b83f58e3455bf10fa5b9e7d807a54ed76a68b183d102a9538d2ce5",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5627,6 +5844,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-NitVYSZ5-0U.json",
+      "bytes": 7729,
+      "sha256": "7e2847f0a22ede5618a014a47cab819e1e0e4903034265a7f3c085b4b9fb33ee",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-NnsidZ2pENU.json",
       "bytes": 100087,
       "sha256": "aadcd86dc60206e1c7a374fb0cad5261e10f560e0e61bd857a3ce5fa8e48d97b",
@@ -5636,6 +5859,12 @@
       "path": "corpus/dialogues/youtube-Nq5lcXdYZ5c.json",
       "bytes": 78781,
       "sha256": "fdec2636aa7f6c623b911d52d6be320504e5be4e2925d67229622bc0eab6c22b",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-Nw4CpxASnkY.json",
+      "bytes": 19768,
+      "sha256": "53c8d4bb6eb3471d26ddf8f0c01e95239ea3448cd137a64760473fce4360d5fc",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5699,6 +5928,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-PjhPdFCU984.json",
+      "bytes": 3822,
+      "sha256": "d4d58f7ac14b86fe901794c6559b4c1203a864149861cd7631aa123d70caff66",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-PucrhAhOu74.json",
       "bytes": 513662,
       "sha256": "117fc9b68187d2b1ade24858a57d0d23a37ef9f55f1166ab7c2042bd70a54d92",
@@ -5741,6 +5976,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-QagrrqKFmOA.json",
+      "bytes": 16591,
+      "sha256": "465edb25fe5d35da3079999ca2033dffdd449c039300bf44be4ef72a43c5ef59",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-Qnqecz4Fw5g.json",
       "bytes": 116221,
       "sha256": "6537cc74f2355834cb98de5b3eeaf9fdf471d0264f61426b4607872b06d5cf19",
@@ -5777,6 +6018,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-RVeIVWaZ0sI.json",
+      "bytes": 14471,
+      "sha256": "77436a41fcb90a83996927534164cb1f3a135a8a1b0dc1d43cc08b40fa61c22b",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-R_efH9lWbH0.json",
       "bytes": 93647,
       "sha256": "d275775ee9b78cb39e7630b1bc5af256e3a23a4d5538d90fec4285e575ccb77f",
@@ -5786,6 +6033,12 @@
       "path": "corpus/dialogues/youtube-Ril9owWEHxg.json",
       "bytes": 52755,
       "sha256": "0dfe268e595850044d8afedbdb9d5bda0f84280e8d97f268531276c092bb30a6",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-S1bUVDG7Wl0.json",
+      "bytes": 8860,
+      "sha256": "da31cf723c584f00e84ab9119765c30b4c2be1a90edc8101cb203bf6f325b47b",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5813,9 +6066,21 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-SejR8kXZSIw.json",
+      "bytes": 18620,
+      "sha256": "a2ee9c48db630ab795ace57edaae5528305550cc75726add35c67a977ffb1629",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-SqnAN2nx0qc.json",
       "bytes": 17799,
       "sha256": "b2aea50f8644273753a04e408502661a6c3ed4ab3ed6f80a95b64544ce614c7f",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-T2vIapBr1-k.json",
+      "bytes": 12055,
+      "sha256": "e747306a7e94d4d5f64fca155fd603e3a816808c61f43f301008d991ef46c05c",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5858,6 +6123,12 @@
       "path": "corpus/dialogues/youtube-UDRJRTYESRE.json",
       "bytes": 55725,
       "sha256": "7986fe2e3b950895cf5a199e4c44b89d9ba3b3614ce1b52de32999b7dc2686ea",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-UGBO9xlPnnM.json",
+      "bytes": 9188,
+      "sha256": "d9b3a2d91eec0318e63d8622232465b4b2ed49ee9acd043ef5421147bcb9c30a",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -5951,6 +6222,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-WB90qhgr8Oo.json",
+      "bytes": 7512,
+      "sha256": "0ee944e7c460fed1b1caa18f0e2407a5219ad6f011d73f794c33c65c23853bc2",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-WDSPYtv8rXY.json",
       "bytes": 208970,
       "sha256": "e998e9cdb51ea6d3d9e5dd70e9ea4c78ceb5951e763972dac42e74acf9dd289d",
@@ -5993,6 +6270,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-Xg0Gekl5f-g.json",
+      "bytes": 10507,
+      "sha256": "8dbc2daacf92f1ff3468a0f60c0489cdeca095ebb3912334c83e97608cabe87c",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-XoyE0eQZYh0.json",
       "bytes": 73133,
       "sha256": "b25b656b884739bc3e54124ad378eb1a1b20a4317e58e44a48cb46ec78ee184a",
@@ -6002,6 +6285,12 @@
       "path": "corpus/dialogues/youtube-XqaLlZVoNFo.json",
       "bytes": 239623,
       "sha256": "7ed7aebbe1beb744061a5a0fe6a3aadbdbce55802a13cce89d08823fbf28d925",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-Y-ZK-B1TwYc.json",
+      "bytes": 18172,
+      "sha256": "f5f44a292b63660284b412f6ee7996d08de2a10c090d3b51979c36496d0c316c",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6035,6 +6324,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-ZCaaRICH36c.json",
+      "bytes": 22544,
+      "sha256": "0d5182787269993dd9d7274231593625613eea73c34ac65f55027586e77006d8",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-ZGXECENR6qU.json",
       "bytes": 114210,
       "sha256": "fc8a686cb9962285a48d5a74145ee1e1cf92f836acecadea382518572d9caaa6",
@@ -6056,6 +6351,12 @@
       "path": "corpus/dialogues/youtube-ZiARi5uJpco.json",
       "bytes": 63860,
       "sha256": "8744a4b1d1c870379b37963bfa603c87a73f8e165845eb0dba04c1b887a6d691",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-Zu3iUG-WHS0.json",
+      "bytes": 5592,
+      "sha256": "ab5030267e23aa1a7a64c7e40b8cad5ca9474a35b49414ed93967266e29bf1b4",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6083,9 +6384,33 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-_hl0PnvUha0.json",
+      "bytes": 6437,
+      "sha256": "1b4dbcada87dff002b71c26e704c2605b72fed4b39af53c0ecd3622db5d3c01a",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-aKsaHFA7WOw.json",
       "bytes": 379190,
       "sha256": "5b1daeb02478e5231163cea312e62c4771e857573e52a593ab3838ccb1a34bbe",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-aO_vSGwuVBw.json",
+      "bytes": 22646,
+      "sha256": "f4b5c446bf3ccff4e7539dc4553368860451a77974ef51256ff1345847979cda",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-aUPcf1qzPHE.json",
+      "bytes": 9179,
+      "sha256": "e77d37b6964e5eec139f3d0f1dfe1e19be9cbaac15b8344c1648e7d11303ab15",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-amuLTR9VUu0.json",
+      "bytes": 8643,
+      "sha256": "d223d3a79f16cb904e8227ecb701907f32f2ba72e4dbfc5f4155944f07c71bef",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6131,6 +6456,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-cEoP8O6nWEc.json",
+      "bytes": 16114,
+      "sha256": "09d26ef30878d941f9131f6a964b98b2ec324f1912fab76baa5fdb7e1b6a67fe",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-cM8TlLVEVWU.json",
       "bytes": 408292,
       "sha256": "312765e29f1f59cbd9382e5987aa9539bb2c29766c7e4e2c5cf460a7414a9c89",
@@ -6155,6 +6486,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-ccQcsQQEwNI.json",
+      "bytes": 3555,
+      "sha256": "e440d091f7513b3f64f34063eace098e151f110ae6a49cd55a88fe357c032380",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-citn1RZvoqA.json",
       "bytes": 204264,
       "sha256": "ad953e4db7b985d9d58ed2e93869a4758b2c592fd43792636aced6496a58d5b1",
@@ -6176,6 +6513,12 @@
       "path": "corpus/dialogues/youtube-d-Mel7dGDGE.json",
       "bytes": 344856,
       "sha256": "8fb53ca9b4e2af2c48fc63b9380c1f56255f38a4c5525c0b6c1be623ad777dcc",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-d9FPA1dNJa0.json",
+      "bytes": 15246,
+      "sha256": "4442cd9a380eab5037f7fc554456d2c74695555636e51e52b2b5d9bfeb4dc1f5",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6239,9 +6582,21 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-eiZ0hpoT3rk.json",
+      "bytes": 8402,
+      "sha256": "fa3c3d8d9530029f5104ec5494989b52086d96c34a81ca400bcf8908d17fbba9",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-ezMQfmxf31w.json",
       "bytes": 11285,
       "sha256": "369550a974f6fc283455a1d7a1fac4b15c750053224aa1f11b197893ab40d76a",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-f3n4LwDqqzc.json",
+      "bytes": 6211,
+      "sha256": "7be9deddb67fe4ad69970072f9d88daa55e955da8cc9e9dca2378e5116073bba",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6311,6 +6666,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-h2gbHmUZzJs.json",
+      "bytes": 7556,
+      "sha256": "24ac309dc214aa30582c63f5bf18409a0f233530ac14a8e41685e87821713e8b",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-h3UY4Jb2uJE.json",
       "bytes": 190591,
       "sha256": "500797ceb85641a144d2e391be50557e8282ae63fb120c63890621a28be2c24a",
@@ -6371,9 +6732,27 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-ij4br0S5kSE.json",
+      "bytes": 7726,
+      "sha256": "a6ed9d7e8856376c2b402ce17243626b46f45995c683b6eef72cbfbaae78b856",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-irrHX0eLLdI.json",
+      "bytes": 12666,
+      "sha256": "8d6d04e6958916ec41f415f273ce590e647b08937c1203595fb6b5259b367480",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-iw2QYZeVlOQ.json",
       "bytes": 30719,
       "sha256": "09408495146f007f05275d49cba9c04643c512195d7448654cfa4c8c4ed13bbd",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-j6KqLbMcFJs.json",
+      "bytes": 21151,
+      "sha256": "40387dd342ff3a18b520600b6a84dc64b157717267c8a3dd05e371773e57614c",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6431,6 +6810,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-l2VonZFDc1Q.json",
+      "bytes": 11964,
+      "sha256": "5612218a563c27ce73235d6d1c5b60cee1be86845ed3a1bd59ce9e4cc11dc555",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-l5mSVSv_kgs.json",
       "bytes": 12823,
       "sha256": "99fdaada52d1220a95a0687228529f3a9e47659d66dfeb6fbb9a67fa0aec4287",
@@ -6440,6 +6825,18 @@
       "path": "corpus/dialogues/youtube-lEbofD9fmGo.json",
       "bytes": 107700,
       "sha256": "3d7c6969b1a7dd453841564af69ac34242a53e305235c4a1c61f7cdc408d9d33",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-lGqXK2Oe5Uw.json",
+      "bytes": 6350,
+      "sha256": "4b434a7850ec72c990deaad4baeb8030255c91437336118f635202eda615248a",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-lHk7F2PdHJo.json",
+      "bytes": 17480,
+      "sha256": "8743df2957af6cf8099855c87761e3016ed064fddf660761366ad0bd3f284fdc",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6521,6 +6918,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-mpQa03G6gAo.json",
+      "bytes": 27634,
+      "sha256": "e0a6306881af3fbb0a0279b2be7b7f8df92a5b19a68f57be6e41c82a740b2f6f",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-mtfNvuOPXiU.json",
       "bytes": 394118,
       "sha256": "197e8ba65f5268605fe36ef40672e5ed296eb651fdaab9f3f1a31f2594a5d357",
@@ -6545,6 +6948,24 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-n7--DF7BX_Y.json",
+      "bytes": 17470,
+      "sha256": "eaef44a629d29cf4cfc2cf30d01498e7f4edb694f4ecd5bbe7e504ffcc0eed48",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-nILVVurK0Kg.json",
+      "bytes": 7207,
+      "sha256": "d5190b68b1335a779fabee84c83842b372f53db7ba43f642d144e547741b4a23",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-nPZ0JOtxM8k.json",
+      "bytes": 10357,
+      "sha256": "c28e1480692f6e73c099c93c29a1567023bd8c5411466d562bf6321559aac77c",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-nTTj3z3QiyU.json",
       "bytes": 152626,
       "sha256": "350482e3baa0fe9a45501f944c440ef13e490eda6bbda7c322a439d5523c31a9",
@@ -6554,6 +6975,12 @@
       "path": "corpus/dialogues/youtube-niRGfSqtIac.json",
       "bytes": 26595,
       "sha256": "08232dc8de7f213a57533770cdc023c5cce28247d474ec0d86479b0612dd75b5",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-nqy2i51H5iE.json",
+      "bytes": 19883,
+      "sha256": "f1f8fb370f1cab349fe112d3dd5569af7d1886e059a32334ee136b510bb762a5",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6572,6 +6999,12 @@
       "path": "corpus/dialogues/youtube-oWOtqSA8kAA.json",
       "bytes": 282272,
       "sha256": "5af3b504d7ce61ab78789aadc5a50b5a77ab217bb66bef552903854ca0d2c352",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-ollzwfPV5yw.json",
+      "bytes": 6263,
+      "sha256": "e5aa07e89289083d3f9246617e0f17341be6784f7b794a6f259ef88eaf5f08d2",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6617,6 +7050,12 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-plBmN7zxiyc.json",
+      "bytes": 6789,
+      "sha256": "90bd42410dda22ee89de04e5f15791df41cdce0354e06a76dc36109b2d8d0275",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-pmMlMXBvHxU.json",
       "bytes": 240419,
       "sha256": "ebd4b3ce251942c94c2cf81faaab43e6f1620d055e5cd06560894be39a0b2622",
@@ -6659,9 +7098,33 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-s9eica-2B90.json",
+      "bytes": 13708,
+      "sha256": "f7dc6156eee767527702628870b80bf351f0caeb9c0a83a66b9e8696a4ac20e3",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-sFefn6R6jYY.json",
       "bytes": 36786,
       "sha256": "a9cf7b93d395f7d0d9a5e5a95b393c37553ba60e0548bb98907be5dcbc442a3a",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-sgrZkD-QGsA.json",
+      "bytes": 25460,
+      "sha256": "e8ea2fc7f4d4144edddb46d9bbfb3cb88a136b12e649e7094ba765626d3aa1b3",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-smDwjoN9f1A.json",
+      "bytes": 8631,
+      "sha256": "994e9c19f1604eba151e6537493931ba3acbcbf3613e87262e9b22243253b023",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-sp8U8lYrpvM.json",
+      "bytes": 29568,
+      "sha256": "05d4f8defa9128dcd1df2a434062f8ba98d100a417cd9839117ddb87dcaf0b27",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6674,6 +7137,18 @@
       "path": "corpus/dialogues/youtube-t9opGmGaJAI.json",
       "bytes": 71513,
       "sha256": "cd13d3f33f2be0fcd6b4c0ea8ccde37c41fe4278ce468510e147702ccc840586",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-tA_rH4qoHms.json",
+      "bytes": 4392,
+      "sha256": "af39c7cbe7ffbc377aaad3c1a90055a29295f9758403b10be13d5fb228247521",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-tCjwUBZE68E.json",
+      "bytes": 8258,
+      "sha256": "f4627f70d5a58cfeb4607a829f6c9f6d72578ce2da6e6c27bca0decdd4970adf",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6755,6 +7230,24 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-v6jswDeORWQ.json",
+      "bytes": 9618,
+      "sha256": "69a781a1918a2657664ea5dc62ff5007b2b98e69bf9a96fd7dfca99c76ae1dfc",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-v7WvGMy6EOQ.json",
+      "bytes": 15516,
+      "sha256": "587e67a26a15fe4f60963ccab421ff727fa53f8bda520cff622372e1341fb5a3",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-vCq4U-KT-MA.json",
+      "bytes": 17076,
+      "sha256": "c04e49ebf1a86d4b4faa9da2448f1397683a42ddc8fc9d9754789a99143e1f17",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-vCzj0Fth_8A.json",
       "bytes": 1426502,
       "sha256": "b87e6b447abebf635056107f174e94399dea9ec3d2bd3cf11eb025048554d117",
@@ -6791,9 +7284,21 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-vblYYmG0rnI.json",
+      "bytes": 19468,
+      "sha256": "5445c84c84151dfacda59de6c232d552a320285c30eecef6fca109393a46fa6a",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-vd_oYgwQSBM.json",
       "bytes": 1038775,
       "sha256": "0c0bf0fbd94050b8281a50794ff00ce6a470330c0f27d57f39e702ae47680a0e",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-viEY-vj9EUc.json",
+      "bytes": 23913,
+      "sha256": "1b53591be2d09135d9562b9d7323e42e4a79f444f776b11362f59092e3796778",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6845,9 +7350,33 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-xF70tguVetE.json",
+      "bytes": 3888,
+      "sha256": "c1c9e0f0a7f74dbdf63375d992a52c4ebe619d808c9f7dd6598ac6e94222efdd",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-xRbNOgT__5I.json",
       "bytes": 92751,
       "sha256": "91985dcd01299d1fa8a4b071db87c69f2ac633ece253f86b4c851b35da666e5c",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-xY-3n1jslOE.json",
+      "bytes": 6682,
+      "sha256": "a6d342177aac844295545c4f74c5707e33bc41d34ef8d2d28acb29f77fac3da3",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-x_Uvmvf557o.json",
+      "bytes": 16821,
+      "sha256": "7fd17b5e55c2e3fcd128b204a4e3f55bf481e2c4ccbb1f75cbd686c02420fb20",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-xiqf36nv3wo.json",
+      "bytes": 4874,
+      "sha256": "9a19591d671716dedbbdccfdab7a3fa31371be8703f06d9c7325e997298bea27",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -6911,6 +7440,18 @@
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
+      "path": "corpus/dialogues/youtube-zeC2lizaNFY.json",
+      "bytes": 12998,
+      "sha256": "14e202554a467401df275015369d89f31a9d06b312e80cfb413457df3d70bc07",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-zgkndWVOf9U.json",
+      "bytes": 19424,
+      "sha256": "d0f66f9216f3370504e09f1b15a433ad9874c5394adbbf9428c26e5a3230942e",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
       "path": "corpus/dialogues/youtube-zhgEfWs6Eo8.json",
       "bytes": 520797,
       "sha256": "ddd61225d365782b23050b2a3d796ef8e3d4db835a454245c46cffbfa6f399e2",
@@ -6920,6 +7461,12 @@
       "path": "corpus/dialogues/youtube-zlHBC-sAv8g.json",
       "bytes": 189628,
       "sha256": "d19d744fa77b8548093dd3ad90f9aa4231c80d19debcd2edca0997c76d68e8ca",
+      "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/dialogues/youtube-znuPF_Hw9e8.json",
+      "bytes": 7790,
+      "sha256": "98b73251624f9e241351d5b15d845677ea5e60e30340c899d8b595b3de9d0c7a",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
     },
     {
@@ -10266,8 +10813,8 @@
     },
     {
       "path": "docs/dialogue-ingestion.md",
-      "bytes": 9308,
-      "sha256": "45b1fc500a931aa83bfc6bd0f1614e2fd94386d7f95da8f7db8396cf287841bf",
+      "bytes": 11495,
+      "sha256": "755c10d6b777e8d0103ac5a5258dcc22cf4998d5b30bcd56ee2a4313548ca590",
       "license": "MIT"
     },
     {
@@ -10320,8 +10867,8 @@
     },
     {
       "path": "index/dialogues.md",
-      "bytes": 113293,
-      "sha256": "ce57bdd8b7fbd7a1dca4f6427cd302f9bd758fdc7b3e345c00768053b6d766df",
+      "bytes": 138859,
+      "sha256": "d854d66ca756dbb954b38165b2b33cdfcc0b1495fa09d759f0885ee56c51f197",
       "license": "CC0-1.0"
     },
     {
@@ -10340,6 +10887,12 @@
       "path": "index/knowledge-bank.md",
       "bytes": 33860,
       "sha256": "41e0c0ad10a84aa62e73a6f888eb6cd4ff391dff30c5c799789c7ecd32c625f5",
+      "license": "CC0-1.0"
+    },
+    {
+      "path": "index/short-videos.md",
+      "bytes": 26374,
+      "sha256": "a2404977271ab8e0e542aa7b6c06055bc5290a0efb750a200d1b27cd4d25935d",
       "license": "CC0-1.0"
     },
     {
@@ -10362,8 +10915,8 @@
     },
     {
       "path": "index/videos.md",
-      "bytes": 157221,
-      "sha256": "42086ad048e59ca19c0e60c8317551abe879d9d0be50e6ce005eb1a5a7d659d4",
+      "bytes": 179629,
+      "sha256": "f14d1486176f14244bb0252f6129c5480bf06856536f7ad3c7d773539e9510cf",
       "license": "CC0-1.0"
     },
     {
@@ -10380,8 +10933,8 @@
     },
     {
       "path": "scripts/build_index.py",
-      "bytes": 36445,
-      "sha256": "bf7db9380771162563dfc8493956e8c37b77d194a9774ec564fddb5174d29905",
+      "bytes": 39190,
+      "sha256": "16d4d71b9e0d171ced2ace905b93959f599f184cd75bd73b4552af88abee07a7",
       "license": "MIT"
     },
     {
@@ -10392,8 +10945,8 @@
     },
     {
       "path": "scripts/dialogue_policy.py",
-      "bytes": 13895,
-      "sha256": "a83c6b0dca6454e27dccc5127e7ad4c44d483150b780b3ede5ec6751276debb2",
+      "bytes": 20359,
+      "sha256": "3c1dddf364188bd4391e51ee0c9bec36ca9cb08ef616d5dd27fa67afa74b3851",
       "license": "MIT"
     },
     {
@@ -10442,6 +10995,12 @@
       "path": "scripts/import_values_conversations.py",
       "bytes": 13979,
       "sha256": "4e59ee196534bef2f54397943e573bc14967a52fe61ce9c75dfa605dee17accd",
+      "license": "MIT"
+    },
+    {
+      "path": "scripts/ingest_public_shorts.py",
+      "bytes": 14596,
+      "sha256": "92b47ec38b92a3bdc74d4c0e0ab036079225684c6963e266edc1e69ec6919996",
       "license": "MIT"
     },
     {
@@ -10616,6 +11175,12 @@
       "path": "tests/test_public_dialogue_proposal.py",
       "bytes": 20888,
       "sha256": "98797f2cbf15f9d8ac530800a541cabff4f19f60206f1e04cae19098c081c14d",
+      "license": "MIT"
+    },
+    {
+      "path": "tests/test_public_shorts.py",
+      "bytes": 17044,
+      "sha256": "83a2dc71f7a94fbaa5292a387d72fd5ad18a23bf64b73aeb5be519db1462356f",
       "license": "MIT"
     },
     {

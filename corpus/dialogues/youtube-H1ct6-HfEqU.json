@@ -1,0 +1,203 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-H1ct6-HfEqU",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2024-04-06",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "080d32fc4dcbea6574577ae090f328578cf2a4fed70f62a481e26feb71f0e6cf",
+    "caption_units_sha256": "8427e5d2c89cd10da11084d42152e068fc1070065b54944eea7820040e95cd40",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "080d32fc4dcbea6574577ae090f328578cf2a4fed70f62a481e26feb71f0e6cf",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "56b3b5db09a22dc817975158d294377e11a6c4478984e943ef4574cdfb072927",
+    "unresolved_count": 17
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 55,
+  "source_family": "https://www.youtube.com/watch?v=H1ct6-HfEqU",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=H1ct6-HfEqU",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "买房和约会都要注意两面性",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.2,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.08,
+      "text": "我列下来说什么样的人会让我心动什么样的人"
+    },
+    {
+      "end_seconds": 6.96,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.2,
+      "text": "是让我觉得我会更大概率跟他长期相处的好的"
+    },
+    {
+      "end_seconds": 9.76,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.96,
+      "text": "一些特质但是你有没有发现你想要长期在一起"
+    },
+    {
+      "end_seconds": 13.04,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 9.76,
+      "text": "的人不是你一上来会心动的人有可能那不就很"
+    },
+    {
+      "end_seconds": 17.121,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.04,
+      "text": "危险对而且我觉得这两者往往是相反吸引你的"
+    },
+    {
+      "end_seconds": 20.001,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.121,
+      "text": "那个点往往就是你以后吐槽他的那个点比如说"
+    },
+    {
+      "end_seconds": 24.145,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.001,
+      "text": "你可能是因为这个人啊非常不拘一格非常的"
+    },
+    {
+      "end_seconds": 28.977,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.145,
+      "text": "随性浪漫被他吸引但是到了日常的生活里面你"
+    },
+    {
+      "end_seconds": 31.933,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.977,
+      "text": "会发现他非常不 organized 嗯他"
+    },
+    {
+      "end_seconds": 35.193,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.933,
+      "text": "可能没有办法规划好计划好你们的共同的生活"
+    },
+    {
+      "end_seconds": 35.361,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.193,
+      "text": "甚"
+    },
+    {
+      "end_seconds": 38.001,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 35.361,
+      "text": "至你们的家庭生活比如说你喜欢这个人是因为"
+    },
+    {
+      "end_seconds": 41.201,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 38.001,
+      "text": "他特别专注但后面你会发现可能他就忽略了你"
+    },
+    {
+      "end_seconds": 44.984,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 41.201,
+      "text": "和身边的家人的一些感受比如说越好的房子风"
+    },
+    {
+      "end_seconds": 48.736,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.984,
+      "text": "比较大而且常常是在坡上新房子经常地很小"
+    },
+    {
+      "end_seconds": 52.552,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.736,
+      "text": "然后跟邻居隔得很近就是你喜欢它的那个它"
+    },
+    {
+      "end_seconds": 54.424,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.552,
+      "text": "就是硬币的两面嗯"
+    }
+  ],
+  "video_id": "H1ct6-HfEqU",
+  "yuzheng_stance_weight": "not-evidence"
+}

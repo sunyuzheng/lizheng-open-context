@@ -1,0 +1,455 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-8S30uJAVftU",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2024-12-09",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "a3d43401e5e5b28ce241e43cd2c435cc1a4bf1f30b054782acd2146dcd5cb05d",
+    "caption_units_sha256": "5d3554133a38d5cc541dd28404198f75340436ec2023a012a5afb1dc0723d77b",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "a3d43401e5e5b28ce241e43cd2c435cc1a4bf1f30b054782acd2146dcd5cb05d",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "d004423dda86496a63ecdef76fe9691ec311c12a66e669e12c25501f8526f13c",
+    "unresolved_count": 45
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 146,
+  "source_family": "https://www.youtube.com/watch?v=8S30uJAVftU",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=8S30uJAVftU",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "如何让别人对你的内容感兴趣？｜内容感的两个要素 #shorts",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.6,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.16,
+      "text": "越来越多的人开始做自媒体了但是很多同学在"
+    },
+    {
+      "end_seconds": 6.88,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.6,
+      "text": "开始做自媒体的时候会发现你发出来的东西呃"
+    },
+    {
+      "end_seconds": 10.16,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 6.88,
+      "text": "哪怕做的很精美但是却很少有人看这个时候"
+    },
+    {
+      "end_seconds": 13.104,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 10.16,
+      "text": "大家就会觉得啊会不会是平台对我不公平啊"
+    },
+    {
+      "end_seconds": 16.576,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 13.104,
+      "text": "是不是现在已经不是自媒体的时代了但是其实"
+    },
+    {
+      "end_seconds": 20.704,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 16.576,
+      "text": "呃绝大多数人发的东西没人看的原因就是没有"
+    },
+    {
+      "end_seconds": 24.559,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.704,
+      "text": "内容感但是到底什么才是内容感呢我觉得有"
+    },
+    {
+      "end_seconds": 28.502,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 24.559,
+      "text": "两点是非常重要的第一个就是你能不能共情"
+    },
+    {
+      "end_seconds": 31.198,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.502,
+      "text": "观众是不是 care 你所发的东西大多数"
+    },
+    {
+      "end_seconds": 34.022,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.198,
+      "text": "人有一个误区就是我要很厉害或者说我的生"
+    },
+    {
+      "end_seconds": 36.934,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 34.022,
+      "text": "活要很精彩观众才 care 其实并不是"
+    },
+    {
+      "end_seconds": 40.718,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.934,
+      "text": "这样的你可以想象一下假设你在网上看到了"
+    },
+    {
+      "end_seconds": 44.262,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 40.718,
+      "text": "一个视频谷歌的 VP 他发一个视频说啊我"
+    },
+    {
+      "end_seconds": 48.294,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 44.262,
+      "text": "是一个 VP 那你会关心吗你想看吗看了吧"
+    },
+    {
+      "end_seconds": 51.71,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 48.294,
+      "text": "啊谷歌 VP 在那个标题说谷歌 VP 的"
+    },
+    {
+      "end_seconds": 54.957,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 51.71,
+      "text": "一天肯定大家会想看啊谷歌 VP 的一天是"
+    },
+    {
+      "end_seconds": 59.296,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 54.957,
+      "text": "想看了啊好他说我是一个很厉害很厉害的人"
+    },
+    {
+      "end_seconds": 62.256,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 59.296,
+      "text": "所以说你应该来看我视频你真的会点进去看吗"
+    },
+    {
+      "end_seconds": 65.144,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 62.256,
+      "text": "其实不会的你知道你真的会点进去看的东西"
+    },
+    {
+      "end_seconds": 68.392,
+      "id": "cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 65.144,
+      "text": "一般是对你来说有用的或者说它能激起你的"
+    },
+    {
+      "end_seconds": 69.272,
+      "id": "cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 68.392,
+      "text": "好奇心甚至"
+    },
+    {
+      "end_seconds": 72.872,
+      "id": "cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 69.272,
+      "text": "它能唤起你的焦虑等等就是如果你真的去学习"
+    },
+    {
+      "end_seconds": 76.256,
+      "id": "cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 72.872,
+      "text": "观众对什么东西感兴趣的话还是有很多门道"
+    },
+    {
+      "end_seconds": 80.216,
+      "id": "cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 76.256,
+      "text": "可以学但是你有什么成就你的生活很精致等等"
+    },
+    {
+      "end_seconds": 84.0,
+      "id": "cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 80.216,
+      "text": "一般不是观众感兴趣的东西所以找好内容感的"
+    },
+    {
+      "end_seconds": 88.049,
+      "id": "cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 84.0,
+      "text": "第一点就是真的要把自己带入观众的视角去"
+    },
+    {
+      "end_seconds": 92.145,
+      "id": "cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.049,
+      "text": "想想观众想看的是什么东西第二点很多人在"
+    },
+    {
+      "end_seconds": 96.169,
+      "id": "cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 92.145,
+      "text": "自己的视频前面莫名其妙会叠很多假就比如说"
+    },
+    {
+      "end_seconds": 99.161,
+      "id": "cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 96.169,
+      "text": "啊我是要做一个什么挑战所以说我要去做"
+    },
+    {
+      "end_seconds": 102.601,
+      "id": "cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 99.161,
+      "text": "或者说啊我是要去试一下自媒体所以说我来发"
+    },
+    {
+      "end_seconds": 105.865,
+      "id": "cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 102.601,
+      "text": "这个东西了呃一般的观众看到这个东西他就"
+    },
+    {
+      "end_seconds": 106.921,
+      "id": "cue-32",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 105.865,
+      "text": "直接不看了因"
+    },
+    {
+      "end_seconds": 109.425,
+      "id": "cue-33",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 106.921,
+      "text": "为他知道你没有很认真的对待这个视频那他"
+    },
+    {
+      "end_seconds": 112.809,
+      "id": "cue-34",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 109.425,
+      "text": "为什么要去花时间看一个你没有认真对待的"
+    },
+    {
+      "end_seconds": 116.049,
+      "id": "cue-35",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 112.809,
+      "text": "视频呢他同样的时间可以去看其他的人花了"
+    },
+    {
+      "end_seconds": 119.425,
+      "id": "cue-36",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 116.049,
+      "text": "很多心力去制作的东西那为什么作者要这样说"
+    },
+    {
+      "end_seconds": 123.849,
+      "id": "cue-37",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 119.425,
+      "text": "很多时候就是作者还是担心自己发的东西不够"
+    },
+    {
+      "end_seconds": 126.937,
+      "id": "cue-38",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 123.849,
+      "text": "好所以说他要叠一个假让别人觉得他实际比他"
+    },
+    {
+      "end_seconds": 130.033,
+      "id": "cue-39",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 126.937,
+      "text": "发出来的东西更厉害一些但是你应该抛弃这个"
+    },
+    {
+      "end_seconds": 133.745,
+      "id": "cue-40",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 130.033,
+      "text": "想法去认认真真的为这个视频负责把你能呈现"
+    },
+    {
+      "end_seconds": 137.065,
+      "id": "cue-41",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 133.745,
+      "text": "的最好一面认真的呈现出来认认真真的去做好"
+    },
+    {
+      "end_seconds": 142.073,
+      "id": "cue-42",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 137.065,
+      "text": "这件事情所以认真和共情就是你能得到内容感"
+    },
+    {
+      "end_seconds": 142.697,
+      "id": "cue-43",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 142.073,
+      "text": "的很好"
+    },
+    {
+      "end_seconds": 145.809,
+      "id": "cue-44",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 142.697,
+      "text": "的途径了希望这期视频对大家有帮助下期见"
+    },
+    {
+      "end_seconds": 145.977,
+      "id": "cue-45",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 145.809,
+      "text": "拜拜"
+    }
+  ],
+  "video_id": "8S30uJAVftU",
+  "yuzheng_stance_weight": "not-evidence"
+}

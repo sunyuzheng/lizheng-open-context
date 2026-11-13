@@ -2,7 +2,7 @@
 
 # 视频目录
 
-立正 YouTube 频道「课代表立正」的 767 条视频，按发布时间从新到旧排列。其中 756 条有字幕全文或对谈原稿：
+立正 YouTube 频道「课代表立正」的 897 条视频，按发布时间从新到旧排列。其中 854 条有字幕全文或对谈原稿：
 
 | 类型 | 数量 | 字幕的许可 |
 | --- | ---: | --- |
@@ -10,50 +10,138 @@
 | 会员 · 本人主讲 | 45 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md) |
 | 会员 · 对话 | 170 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
 | 公开 · 对话 | 9 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；嘉宾的话归嘉宾本人 |
-| 对谈原稿 | 328 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；逐句保留时间码，说话人待核，嘉宾的话归嘉宾本人 |
-| 只有目录 | 11 | 没有字幕全文；标题、日期和链接按[CC0 1.0](../LICENSES/CC0-1.0.txt)开放 |
+| 对谈原稿 | 426 | [立正参考使用许可](../LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)；逐句保留时间码，说话人待核，嘉宾的话归嘉宾本人 |
+| 只有目录 | 43 | 没有字幕全文；标题、日期和链接按[CC0 1.0](../LICENSES/CC0-1.0.txt)开放 |
 
 会员视频需要频道会员才能观看，字幕文字已获授权开放。「会员 · 本人主讲」经人工核对只有立正一人讲述；「会员 · 对话」和「公开 · 对话」里嘉宾、主持人和提问者的话归他们本人。「公开 · 对话」是立正 2026-10-04 指定收录的、塑造他价值观的几场公开对话，这些对话里他本人的话另见[塑造价值观的对话](../index/values-conversations.md)。「对谈原稿」是结构化的公开对谈逐字稿，见[对谈原文目录](../index/dialogues.md)。「只有目录」是还没有收录文字的视频。
 
 机器可读：[catalog/videos.jsonl](../catalog/videos.jsonl)
 
-## 2026（107 条）
+## 2026（204 条）
 
 | 日期 | 视频 | 字幕 | 类型 |
 | --- | --- | --- | --- |
+| 2026-11-12 | [你担心的未来，有多少真的发生过？](https://www.youtube.com/watch?v=NitVYSZ5-0U) | [原稿](../corpus/dialogues/youtube-NitVYSZ5-0U.json) | 对谈原稿 |
+| 2026-11-12 | [黄仁勋辞职：没有他就没有英伟达，命运却握在董事会手里](https://www.youtube.com/watch?v=sp8U8lYrpvM) | [原稿](../corpus/dialogues/youtube-sp8U8lYrpvM.json) | 对谈原稿 |
+| 2026-11-11 | [那段无能为力的日子，我老婆教我：Ride the wave](https://www.youtube.com/watch?v=84EM7CrDc6M) | [原稿](../corpus/dialogues/youtube-84EM7CrDc6M.json) | 对谈原稿 |
+| 2026-11-10 | [如果人生只能优化一个目标，我会选睡好觉](https://www.youtube.com/watch?v=v6jswDeORWQ) | [原稿](../corpus/dialogues/youtube-v6jswDeORWQ.json) | 对谈原稿 |
+| 2026-11-09 | [原理这么简单，为什么我们偏要搞复杂？](https://www.youtube.com/watch?v=nILVVurK0Kg) | [原稿](../corpus/dialogues/youtube-nILVVurK0Kg.json) | 对谈原稿 |
+| 2026-11-08 | [AIE上海结束了：热闹像春晚，信息密度像短剧](https://www.youtube.com/watch?v=Xg0Gekl5f-g) | [原稿](../corpus/dialogues/youtube-Xg0Gekl5f-g.json) | 对谈原稿 |
+| 2026-11-08 | [想法值不值钱？先回答这两个具体问题](https://www.youtube.com/watch?v=smDwjoN9f1A) | [原稿](../corpus/dialogues/youtube-smDwjoN9f1A.json) | 对谈原稿 |
+| 2026-11-07 | [一个「大词」，就能让你停止思考](https://www.youtube.com/watch?v=eiZ0hpoT3rk) | [原稿](../corpus/dialogues/youtube-eiZ0hpoT3rk.json) | 对谈原稿 |
+| 2026-11-06 | [强还不够，你适合这个环境吗？](https://www.youtube.com/watch?v=UGBO9xlPnnM) | [原稿](../corpus/dialogues/youtube-UGBO9xlPnnM.json) | 对谈原稿 |
+| 2026-11-05 | [喜欢一个人，为什么不需要理由？](https://www.youtube.com/watch?v=3YazG7jOfqc) | [原稿](../corpus/dialogues/youtube-3YazG7jOfqc.json) | 对谈原稿 |
+| 2026-11-04 | [和哈佛一哥聊完，我记下了这三件事](https://www.youtube.com/watch?v=8W5W60OL5hY) | [原稿](../corpus/dialogues/youtube-8W5W60OL5hY.json) | 对谈原稿 |
+| 2026-11-03 | [想做的事做不了，真的会感觉「堵着」？](https://www.youtube.com/watch?v=ollzwfPV5yw) | [原稿](../corpus/dialogues/youtube-ollzwfPV5yw.json) | 对谈原稿 |
+| 2026-11-02 | [人越招越多，工作为什么还是永远做不完？](https://www.youtube.com/watch?v=KpJEOy7-jts) | [原稿](../corpus/dialogues/youtube-KpJEOy7-jts.json) | 对谈原稿 |
+| 2026-11-01 | [AI已经能做你的活，为什么组织还没反应过来？](https://www.youtube.com/watch?v=CNUn_2Mq5bs) | [原稿](../corpus/dialogues/youtube-CNUn_2Mq5bs.json) | 对谈原稿 |
+| 2026-10-31 | [带娃，我觉得最重要的就这两件事](https://www.youtube.com/watch?v=ccQcsQQEwNI) | [原稿](../corpus/dialogues/youtube-ccQcsQQEwNI.json) | 对谈原稿 |
+| 2026-10-30 | [我问短视频高手怎么做，他只给了我一招](https://www.youtube.com/watch?v=PjhPdFCU984) | [原稿](../corpus/dialogues/youtube-PjhPdFCU984.json) | 对谈原稿 |
 | 2026-10-30 | [杨天楠：看似体面的工作，实则都是在表演？](https://www.youtube.com/watch?v=ur-HjD422ig) | [原稿](../corpus/dialogues/youtube-ur-HjD422ig.json) | 对谈原稿 |
+| 2026-10-29 | [发短视频，先想好这3秒怎么说](https://www.youtube.com/watch?v=4-wWMFDib-g) | [原稿](../corpus/dialogues/youtube-4-wWMFDib-g.json) | 对谈原稿 |
+| 2026-10-29 | [大厂在精简，机会在新公司｜Stripe、Manus等9家公司来社区直播](https://www.youtube.com/watch?v=MmRHOhneC78) | [原稿](../corpus/dialogues/youtube-MmRHOhneC78.json) | 对谈原稿 |
+| 2026-10-28 | [你学了成功者的动作，却没学他怎么走到那儿](https://www.youtube.com/watch?v=sgrZkD-QGsA) | [原稿](../corpus/dialogues/youtube-sgrZkD-QGsA.json) | 对谈原稿 |
+| 2026-10-28 | [大会值不值得去？先看议程｜AI Engineer 上海完整议程](https://www.youtube.com/watch?v=Nw4CpxASnkY) | [原稿](../corpus/dialogues/youtube-Nw4CpxASnkY.json) | 对谈原稿 |
+| 2026-10-27 | [AI早就比我聪明了，我为什么还不焦虑？](https://www.youtube.com/watch?v=L2Wtt66fhY0) | [原稿](../corpus/dialogues/youtube-L2Wtt66fhY0.json) | 对谈原稿 |
+| 2026-10-27 | [你给自己贴的标签，可能正在让你更容易被AI取代](https://www.youtube.com/watch?v=aUPcf1qzPHE) | [原稿](../corpus/dialogues/youtube-aUPcf1qzPHE.json) | 对谈原稿 |
+| 2026-10-26 | [真正有知识的专家，为什么很少出来做知识付费？](https://www.youtube.com/watch?v=xF70tguVetE) | [原稿](../corpus/dialogues/youtube-xF70tguVetE.json) | 对谈原稿 |
 | 2026-10-26 | [过度优化的人生，注定一塌糊涂｜对谈硅谷资深投资人](https://www.youtube.com/watch?v=gQzvscl6Y2I) | [原稿](../corpus/dialogues/youtube-gQzvscl6Y2I.json) | 对谈原稿 |
+| 2026-10-25 | [同样5个问题，问问立正、ChatGPT和Claude，谁的回答更有用？](https://www.youtube.com/watch?v=Zu3iUG-WHS0) | [原稿](../corpus/dialogues/youtube-Zu3iUG-WHS0.json) | 对谈原稿 |
+| 2026-10-24 | [男女之间，只有这四种关系](https://www.youtube.com/watch?v=34cvwry8Gr0) | [原稿](../corpus/dialogues/youtube-34cvwry8Gr0.json) | 对谈原稿 |
 | 2026-10-23 | [Meta数据科学家如何影响公司战略？｜Ecosystem DS的工作、绩效与晋升](https://www.youtube.com/watch?v=hckVR-Aa-vs) | [原稿](../corpus/dialogues/youtube-hckVR-Aa-vs.json) | 对谈原稿 |
+| 2026-10-23 | [技能会贬值，真正该积累的是什么？](https://www.youtube.com/watch?v=9CMsCHwzRVE) | [原稿](../corpus/dialogues/youtube-9CMsCHwzRVE.json) | 对谈原稿 |
+| 2026-10-22 | [隔壁农场大十倍，小农场为什么也能过得好？](https://www.youtube.com/watch?v=N5CklQRyQ90) | [原稿](../corpus/dialogues/youtube-N5CklQRyQ90.json) | 对谈原稿 |
+| 2026-10-21 | [400个AI任务，难道每行代码都要自己检查？](https://www.youtube.com/watch?v=99tKW9AXWZA) | [原稿](../corpus/dialogues/youtube-99tKW9AXWZA.json) | 对谈原稿 |
+| 2026-10-20 | [方案很简单，怎么分辨是高手还是不懂？](https://www.youtube.com/watch?v=tCjwUBZE68E) | [原稿](../corpus/dialogues/youtube-tCjwUBZE68E.json) | 对谈原稿 |
+| 2026-10-19 | [做选择前，先想清楚你愿意承受什么痛苦](https://www.youtube.com/watch?v=viEY-vj9EUc) | [原稿](../corpus/dialogues/youtube-viEY-vj9EUc.json) | 对谈原稿 |
+| 2026-10-19 | [这些Agent怎么工作？11月上海，现场看](https://www.youtube.com/watch?v=72qufa9iXeI) | [原稿](../corpus/dialogues/youtube-72qufa9iXeI.json) | 对谈原稿 |
+| 2026-10-18 | [把账号交给Agent，它能删光你的文件吗？](https://www.youtube.com/watch?v=MEIC6so6RI8) | [原稿](../corpus/dialogues/youtube-MEIC6so6RI8.json) | 对谈原稿 |
+| 2026-10-18 | [有效学习（下）：先实践再学原理](https://www.youtube.com/watch?v=CJOTgEA0pnk) | [原稿](../corpus/dialogues/youtube-CJOTgEA0pnk.json) | 对谈原稿 |
+| 2026-10-17 | [Agent交了差，就等于做对了吗？](https://www.youtube.com/watch?v=ENPjw5Hxums) | [原稿](../corpus/dialogues/youtube-ENPjw5Hxums.json) | 对谈原稿 |
+| 2026-10-17 | [有效学习（上）：问题引导答案](https://www.youtube.com/watch?v=aO_vSGwuVBw) | [原稿](../corpus/dialogues/youtube-aO_vSGwuVBw.json) | 对谈原稿 |
+| 2026-10-16 | [宝马做AI，为什么先花半年整理数据？](https://www.youtube.com/watch?v=amuLTR9VUu0) | [原稿](../corpus/dialogues/youtube-amuLTR9VUu0.json) | 对谈原稿 |
+| 2026-10-16 | [我为什么中英夹杂？是我的表达能力有限](https://www.youtube.com/watch?v=SejR8kXZSIw) | [原稿](../corpus/dialogues/youtube-SejR8kXZSIw.json) | 对谈原稿 |
 | 2026-10-15 | [AI在大企业中的应用才刚刚开始，人才供不应求？｜对话微软CoreAI副总裁Marco Casalaina](https://www.youtube.com/watch?v=KpQwWNkyEsQ) | [原稿](../corpus/dialogues/youtube-KpQwWNkyEsQ.json) | 对谈原稿 |
+| 2026-10-15 | [我怎么理解轮回：在当下摆脱过去的惯性](https://www.youtube.com/watch?v=v7WvGMy6EOQ) | [原稿](../corpus/dialogues/youtube-v7WvGMy6EOQ.json) | 对谈原稿 |
+| 2026-10-14 | [400个AI会话，被说成骗局：那些评论漏看了什么？](https://www.youtube.com/watch?v=6oFa1QlH70c) | [原稿](../corpus/dialogues/youtube-6oFa1QlH70c.json) | 对谈原稿 |
+| 2026-10-14 | [想用AI做自媒体，先把自己的基本功练好](https://www.youtube.com/watch?v=d9FPA1dNJa0) | [原稿](../corpus/dialogues/youtube-d9FPA1dNJa0.json) | 对谈原稿 |
+| 2026-10-13 | [打工打得好，为什么出来赚钱反而难？](https://www.youtube.com/watch?v=C1ypoKpqOXw) | [原稿](../corpus/dialogues/youtube-C1ypoKpqOXw.json) | 对谈原稿 |
+| 2026-10-12 | [聊AI，为什么我更看重一手认知？](https://www.youtube.com/watch?v=ZCaaRICH36c) | [原稿](../corpus/dialogues/youtube-ZCaaRICH36c.json) | 对谈原稿 |
+| 2026-10-11 | [从打工到创业，别每件事都等权威反馈](https://www.youtube.com/watch?v=f3n4LwDqqzc) | [原稿](../corpus/dialogues/youtube-f3n4LwDqqzc.json) | 对谈原稿 |
+| 2026-10-10 | [有见解的大厂打工人，早点做自媒体吧](https://www.youtube.com/watch?v=s9eica-2B90) | [原稿](../corpus/dialogues/youtube-s9eica-2B90.json) | 对谈原稿 |
+| 2026-10-10 | [资不抵债的人，也能是A8：别问A几，问E几](https://www.youtube.com/watch?v=x_Uvmvf557o) | [原稿](../corpus/dialogues/youtube-x_Uvmvf557o.json) | 对谈原稿 |
+| 2026-10-09 | [亲近的人，也是独立的两个人](https://www.youtube.com/watch?v=QagrrqKFmOA) | [原稿](../corpus/dialogues/youtube-QagrrqKFmOA.json) | 对谈原稿 |
 | 2026-10-09 | [李飞飞收购郑昌熙：有生之年，我们可能看不到通用机器人出现](https://www.youtube.com/watch?v=y6kRa1vGAwA) | [原稿](../corpus/dialogues/youtube-y6kRa1vGAwA.json) | 对谈原稿 |
+| 2026-10-08 | [为什么用了 AI，还是没多赚到钱？](https://www.youtube.com/watch?v=mpQa03G6gAo) | [原稿](../corpus/dialogues/youtube-mpQa03G6gAo.json) | 对谈原稿 |
+| 2026-10-07 | [教孩子采访，为什么漏掉了「听」？](https://www.youtube.com/watch?v=-SZPobQirYY) | [原稿](../corpus/dialogues/youtube--SZPobQirYY.json) | 对谈原稿 |
 | 2026-10-06 | [AI时代，为什么必须要做“个人网站”？](https://www.youtube.com/watch?v=qvbOuVEcSWs) | [全文](../corpus/videos/20261006-qvbOuVEcSWs.md) | 本人主讲 |
+| 2026-10-06 | [不知道自己热爱什么？先别急着下定义](https://www.youtube.com/watch?v=cEoP8O6nWEc) | [原稿](../corpus/dialogues/youtube-cEoP8O6nWEc.json) | 对谈原稿 |
+| 2026-10-05 | [薄肌不适合奶爸？我练的是「肥肌」](https://www.youtube.com/watch?v=tA_rH4qoHms) | [原稿](../corpus/dialogues/youtube-tA_rH4qoHms.json) | 对谈原稿 |
+| 2026-10-04 | [有野心，还是巨婴？看你觉得谁该负责](https://www.youtube.com/watch?v=znuPF_Hw9e8) | [原稿](../corpus/dialogues/youtube-znuPF_Hw9e8.json) | 对谈原稿 |
+| 2026-10-04 | [选题枯竭了怎么办？我和AI各答了一遍](https://www.youtube.com/watch?v=zeC2lizaNFY) | [原稿](../corpus/dialogues/youtube-zeC2lizaNFY.json) | 对谈原稿 |
+| 2026-10-03 | [想有钱又有闲，你愿意少赚多少？](https://www.youtube.com/watch?v=WB90qhgr8Oo) | [原稿](../corpus/dialogues/youtube-WB90qhgr8Oo.json) | 对谈原稿 |
+| 2026-10-03 | [问问立正：有问题，不用再翻几百期视频了](https://www.youtube.com/watch?v=vblYYmG0rnI) | [原稿](../corpus/dialogues/youtube-vblYYmG0rnI.json) | 对谈原稿 |
 | 2026-10-02 | [两次破产，却从没缺过钱：为什么关键时刻总有人帮宝二爷？](https://www.youtube.com/watch?v=9pjBWDCHYuA) | [原稿](../corpus/dialogues/youtube-9pjBWDCHYuA.json) | 对谈原稿 |
+| 2026-10-02 | [创业最怕的，是在不该做的事上耗太久](https://www.youtube.com/watch?v=n7--DF7BX_Y) | [原稿](../corpus/dialogues/youtube-n7--DF7BX_Y.json) | 对谈原稿 |
+| 2026-10-01 | [只抄别人的结果，为什么容易南辕北辙？](https://www.youtube.com/watch?v=VGIryffeFxA) | — | 只有目录 |
+| 2026-09-30 | [明明是自己想录，为什么非要装成被偷拍？](https://www.youtube.com/watch?v=FIzel0DMHTc) | [原稿](../corpus/dialogues/youtube-FIzel0DMHTc.json) | 对谈原稿 |
 | 2026-09-29 | [别人眼中的死局，他如何反复做成大生意？｜宝二爷](https://www.youtube.com/watch?v=gwPfRhi4lzo) | [原稿](../corpus/dialogues/youtube-gwPfRhi4lzo.json) | 对谈原稿 |
+| 2026-09-29 | [别等想辞职了，才开始面试](https://www.youtube.com/watch?v=zgkndWVOf9U) | [原稿](../corpus/dialogues/youtube-zgkndWVOf9U.json) | 对谈原稿 |
+| 2026-09-28 | [不敢开口收费？试试先捐掉第一笔钱](https://www.youtube.com/watch?v=AaxVQwox_j4) | [原稿](../corpus/dialogues/youtube-AaxVQwox_j4.json) | 对谈原稿 |
+| 2026-09-27 | [想挤出时间，先让高价值工作找到你](https://www.youtube.com/watch?v=lHk7F2PdHJo) | [原稿](../corpus/dialogues/youtube-lHk7F2PdHJo.json) | 对谈原稿 |
+| 2026-09-26 | [跳槽，别只盯着你具体做什么](https://www.youtube.com/watch?v=AzefEtPsC8s) | [原稿](../corpus/dialogues/youtube-AzefEtPsC8s.json) | 对谈原稿 |
+| 2026-09-25 | [从高薪打工到自己赚钱，要过这三关](https://www.youtube.com/watch?v=2EkHHuH8T_4) | [原稿](../corpus/dialogues/youtube-2EkHHuH8T_4.json) | 对谈原稿 |
+| 2026-09-25 | [十月份第十四期直播，老学员一样能看](https://www.youtube.com/watch?v=Afc961AbOiM) | [原稿](../corpus/dialogues/youtube-Afc961AbOiM.json) | 对谈原稿 |
 | 2026-09-25 | [如何炒作一个AI概念？以Jev为例…](https://www.youtube.com/watch?v=kYuolIPDeRQ) | [全文](../corpus/videos/20260925-kYuolIPDeRQ.md) | 本人主讲 |
 | 2026-09-24 | [2026年了，大多数人仍然不理解自媒体的真正价值](https://www.youtube.com/watch?v=_h0ZHgeujpM) | — | 只有目录 |
+| 2026-09-24 | [会赚钱的更高一层：设计自己的生活](https://www.youtube.com/watch?v=l2VonZFDc1Q) | [原稿](../corpus/dialogues/youtube-l2VonZFDc1Q.json) | 对谈原稿 |
 | 2026-09-24 | [宝二爷：币圈往事揭秘、11个孩子、清华旁听、孙宇晨身家来源、财富起落与传承、如何选择朋友](https://www.youtube.com/watch?v=WbTDLpFaCqg) | [全文](../corpus/videos/20260924-WbTDLpFaCqg.md) | 会员 · 对话 |
+| 2026-09-23 | [我想要的生意，是能随时带娃去玩](https://www.youtube.com/watch?v=vCq4U-KT-MA) | [原稿](../corpus/dialogues/youtube-vCq4U-KT-MA.json) | 对谈原稿 |
+| 2026-09-22 | [别只问AI能不能做，更该问怎么用好它](https://www.youtube.com/watch?v=nqy2i51H5iE) | [原稿](../corpus/dialogues/youtube-nqy2i51H5iE.json) | 对谈原稿 |
+| 2026-09-21 | [想学好AI，要扔掉”文科生“标签](https://www.youtube.com/watch?v=KNkreK-GZqs) | [原稿](../corpus/dialogues/youtube-KNkreK-GZqs.json) | 对谈原稿 |
 | 2026-09-21 | [赚钱的机会，为什么总被自己分析没了？](https://www.youtube.com/watch?v=ub6OSZJSOMw) | [全文](../corpus/videos/20260921-ub6OSZJSOMw.md) | 会员 · 本人主讲 |
+| 2026-09-20 | [Jev 爆火之后，为什么连懂技术的人也会误判？](https://www.youtube.com/watch?v=j6KqLbMcFJs) | [原稿](../corpus/dialogues/youtube-j6KqLbMcFJs.json) | 对谈原稿 |
+| 2026-09-19 | [我终于不被短视频里的建议搞焦虑了](https://www.youtube.com/watch?v=xY-3n1jslOE) | [原稿](../corpus/dialogues/youtube-xY-3n1jslOE.json) | 对谈原稿 |
 | 2026-09-18 | [一个人管400个AI任务，已经是标配了？｜对话GitHub七万星的Orca创始人津晶](https://www.youtube.com/watch?v=LZlbXApG60E) | [原稿](../corpus/dialogues/youtube-LZlbXApG60E.json) | 对谈原稿 |
+| 2026-09-18 | [让AI替我办退款，我开了这几个设置](https://www.youtube.com/watch?v=irrHX0eLLdI) | [原稿](../corpus/dialogues/youtube-irrHX0eLLdI.json) | 对谈原稿 |
+| 2026-09-17 | [AI没能劝动我，却帮我把事做成了](https://www.youtube.com/watch?v=AawIGJaBwZ8) | — | 只有目录 |
 | 2026-09-15 | [职场不再奖励表演式工作，晋升要对结果负责](https://www.youtube.com/watch?v=FaeRWZOy4r8) | [全文](../corpus/videos/20260915-FaeRWZOy4r8.md) | 本人主讲 |
+| 2026-09-14 | [听完就“悟了”的AI课，怎么判断有没有用？](https://www.youtube.com/watch?v=0hLlHxVW_yQ) | — | 只有目录 |
+| 2026-09-12 | [做视频比喝水还简单](https://www.youtube.com/watch?v=uStoLuCvLDU) | — | 只有目录 |
 | 2026-09-11 | [老东家被OpenAI以11亿美元收购，我为什么选择全职卖课？](https://www.youtube.com/watch?v=svVlURiehQw) | [全文](../corpus/videos/20260911-svVlURiehQw.md) | 本人主讲 |
+| 2026-09-10 | [金刚经的三点理解 竖屏字幕版](https://www.youtube.com/watch?v=3RDd3nfKZ4Y) | — | 只有目录 |
+| 2026-09-09 | [做自媒体比喝水还简单，stop complicating things](https://www.youtube.com/watch?v=OEnm_6dZBRw) | — | 只有目录 |
 | 2026-09-09 | [对谈Orca联合创始人 Jinjing：同时管理几百Agents的工作流、用户验证与产品增长、AI创业机会](https://www.youtube.com/watch?v=YpaX8qJJwGc) | [全文](../corpus/videos/20260909-YpaX8qJJwGc.md) | 会员 · 对话 |
 | 2026-09-08 | [AI已经用得很好，为什么还是怕被淘汰？](https://www.youtube.com/watch?v=k11SG-gJzzY) | [全文](../corpus/videos/20260908-k11SG-gJzzY.md) | 本人主讲 |
 | 2026-09-05 | [GPT-6不会让你多赚钱，但可能让你更快失业](https://www.youtube.com/watch?v=zBWdFOpMWq4) | [全文](../corpus/videos/20260905-zBWdFOpMWq4.md) | 会员 · 本人主讲 |
 | 2026-09-04 | [GPT-6虽然厉害，但无法取代人，原因是](https://www.youtube.com/watch?v=zXeIAOuACz0) | [原稿](../corpus/dialogues/youtube-zXeIAOuACz0.json) | 对谈原稿 |
 | 2026-09-02 | [周楠访谈完整版：为什么说Alexandr Wang是顶级founder、AI硬件、如何早期坚定看中Cerebras、如何找到正确的非共识、创始人如何coachable、2026硅谷AI还剩什么机会？](https://www.youtube.com/watch?v=BseWUBpOHY4) | [全文](../corpus/videos/20260902-BseWUBpOHY4.md) | 会员 · 对话 |
 | 2026-09-02 | [2026年，硅谷创投，几乎不看AI应用了？｜硅谷一线投资人周楠](https://www.youtube.com/watch?v=my_lMhlKLVk) | [原稿](../corpus/dialogues/youtube-my_lMhlKLVk.json) | 对谈原稿 |
+| 2026-09-01 | [普通程序员，现象级增长，不靠自媒体，靠三个常识](https://www.youtube.com/watch?v=auJqJZAUaXM) | — | 只有目录 |
+| 2026-08-30 | [免费公开我的全部context，并为你的AI设计了工具](https://www.youtube.com/watch?v=iRGngs6rFes) | — | 只有目录 |
 | 2026-08-29 | [Hypothesis Testing Explained｜假设检验详解：Alpha、Beta、Power、MDE与样本量](https://www.youtube.com/watch?v=nCBIotZzPEM) | — | 只有目录 |
 | 2026-08-28 | [让心自由，才能更好地活着｜对话《金刚经50讲》王路](https://www.youtube.com/watch?v=VSX1wxueZPU) | [全文](../corpus/videos/20260828-VSX1wxueZPU.md) | 公开 · 对话 |
+| 2026-08-27 | [给 ai 博主们演示一下如何蹭孙割热度](https://www.youtube.com/watch?v=oqu9vwYXbX0) | — | 只有目录 |
+| 2026-08-27 | [退款还是AI来做 比较优雅](https://www.youtube.com/watch?v=BRgpduyokfQ) | — | 只有目录 |
 | 2026-08-24 | [为什么多数赚钱好生意，不会被你看到？](https://www.youtube.com/watch?v=-zIP-0VbJKI) | [全文](../corpus/videos/20260824--zIP-0VbJKI.md) | 本人主讲 |
+| 2026-08-23 | [成功真正的门槛，大多数人都理解错了](https://www.youtube.com/watch?v=Q6TiiP2zoCQ) | — | 只有目录 |
 | 2026-08-21 | [我们把一个世界级的AI大会带到了上海！](https://www.youtube.com/watch?v=AkN2RV3X49Q) | [原稿](../corpus/dialogues/youtube-AkN2RV3X49Q.json) | 对谈原稿 |
+| 2026-08-21 | [提高自己天花板最快的方法：先试一次你“不敢”的事](https://www.youtube.com/watch?v=o08HjmNSEBE) | — | 只有目录 |
 | 2026-08-20 | [AI能“帮”你成为超级个体，但顺序别搞反了](https://www.youtube.com/watch?v=6hCRP9bW4II) | [全文](../corpus/videos/20260820-6hCRP9bW4II.md) | 会员 · 本人主讲 |
 | 2026-08-17 | [吐槽大厂，做成七位数生意｜The Tech Roast Show访谈](https://www.youtube.com/watch?v=XoyE0eQZYh0) | [原稿](../corpus/dialogues/youtube-XoyE0eQZYh0.json) | 对谈原稿 |
+| 2026-08-14 | [第五次迭代 已经开始花钱和（希望可以）赚钱了](https://www.youtube.com/watch?v=VUv0j3QadnM) | — | 只有目录 |
+| 2026-08-14 | [第四次迭代，更多画面，和剪辑后的建议](https://www.youtube.com/watch?v=DVZFkhCTSX8) | — | 只有目录 |
+| 2026-08-13 | [第三次迭代：AI自动加字幕、剪辑、和配动画](https://www.youtube.com/watch?v=XQM4esQVJ4Q) | — | 只有目录 |
 | 2026-08-12 | [AI时代，找工作的难度，远超你想象｜Jobright创始人分享一线求职数据](https://www.youtube.com/watch?v=BR3hN7InkmY) | [原稿](../corpus/dialogues/youtube-BR3hN7InkmY.json) | 对谈原稿 |
+| 2026-08-12 | [用搜索或许愿的方式使用AI](https://www.youtube.com/watch?v=D2dJV9jv0Z8) | — | 只有目录 |
 | 2026-08-11 | [（限时）吸引女生的关键](https://www.youtube.com/watch?v=-Q2ofV81OuI) | [全文](../corpus/videos/20260811--Q2ofV81OuI.md) | 会员 · 本人主讲 |
+| 2026-08-09 | [见到AI工具tutorial 要想一下是不是商dan](https://www.youtube.com/watch?v=S07HEuA0mjg) | — | 只有目录 |
 | 2026-08-08 | [线下分享：如何把自媒体做成自己的事业？｜话题库、商单、定价、工作时长、个人品牌、网暴、AI学习焦虑](https://www.youtube.com/watch?v=HeEd-n3UfXE) | [全文](../corpus/videos/20260808-HeEd-n3UfXE.md) | 会员 · 对话 |
 | 2026-08-07 | [用豆包还是Codex，正在加速两极分化…](https://www.youtube.com/watch?v=-MuveUTTIJg) | [全文](../corpus/videos/20260807--MuveUTTIJg.md) | 本人主讲 |
 | 2026-08-06 | [旧金山线下火锅meetup全程](https://www.youtube.com/watch?v=QmcqtMGCyjs) | [全文](../corpus/videos/20260806-QmcqtMGCyjs.md) | 会员 · 对话 |
 | 2026-08-04 | [人人都有50个博士为自己打工，为什么多数人的工作没什么变化？｜硅谷徐老师年度对话](https://www.youtube.com/watch?v=Tvmmv93FZgc) | [原稿](../corpus/dialogues/youtube-Tvmmv93FZgc.json) | 对谈原稿 |
+| 2026-08-04 | [AI时代，硅谷都在考察“intensity”](https://www.youtube.com/watch?v=j8UBWzUOGdo) | — | 只有目录 |
+| 2026-08-03 | [正确的学习方法其实很难得](https://www.youtube.com/watch?v=Va02b9fGb2U) | — | 只有目录 |
 | 2026-08-01 | [如何走对下一步，顺天改命？](https://www.youtube.com/watch?v=MBYYFwzskf4) | [全文](../corpus/videos/20260801-MBYYFwzskf4.md) | 本人主讲 |
 | 2026-07-29 | [（限时公开）什么样的人不会被AI取代？](https://www.youtube.com/watch?v=qjGGq7bfvNk) | [全文](../corpus/videos/20260729-qjGGq7bfvNk.md) | 会员 · 本人主讲 |
 | 2026-07-25 | [其实副业比想象中更容易开始，前提是找准需求](https://www.youtube.com/watch?v=ll-X6xP-t8Y) | [原稿](../corpus/dialogues/youtube-ll-X6xP-t8Y.json) | 对谈原稿 |
@@ -63,14 +151,17 @@
 | 2026-07-18 | [超线性增长难在“保持”，如何从一次做对到次次做对？](https://www.youtube.com/watch?v=OVDAZUGr8RI) | [全文](../corpus/videos/20260718-OVDAZUGr8RI.md) | 本人主讲 |
 | 2026-07-17 | [他的FDE团队从30人扩到100人，但为什么很多大厂工程师甚至不知道这个岗位？](https://www.youtube.com/watch?v=gsK1UTt0Qiw) | [原稿](../corpus/dialogues/youtube-gsK1UTt0Qiw.json) | 对谈原稿 |
 | 2026-07-17 | [FDE(Forward Deployed Engineer)是眼下最火的岗位，请一位真正的内行人来全面讲解一下](https://www.youtube.com/watch?v=MF30YbZCRbM) | [全文](../corpus/videos/20260717-MF30YbZCRbM.md) | 会员 · 对话 |
+| 2026-07-13 | [做什么才不会被AI取代？ #ai #事业](https://www.youtube.com/watch?v=TW6LjFc6dDw) | — | 只有目录 |
 | 2026-07-11 | [简历都被 AI 改得越来越像，招聘为什么反而更失灵？｜Jobright联合创始人Ethan](https://www.youtube.com/watch?v=zrypqOaq3nM) | [全文](../corpus/videos/20260711-zrypqOaq3nM.md) | 会员 · 对话 |
 | 2026-07-11 | [自媒体比多数人想象中更赚钱，但也很容易走偏｜我被采访的一期](https://www.youtube.com/watch?v=OD88_4SOiG4) | [原稿](../corpus/dialogues/youtube-OD88_4SOiG4.json) | 对谈原稿 |
+| 2026-07-11 | [AI最重要的赛道是自然语言调度算力 #ai](https://www.youtube.com/watch?v=BpgHZpXqK1Q) | — | 只有目录 |
 | 2026-07-02 | [明知道这里会越来越坏，为什么我们还是不走？](https://www.youtube.com/watch?v=3RgQdcQWOJc) | [全文](../corpus/videos/20260702-3RgQdcQWOJc.md) | 本人主讲 |
 | 2026-06-25 | [一红16年，干啥啥赚钱？｜屠龙博士创业的秘密！](https://www.youtube.com/watch?v=vd_oYgwQSBM) | [原稿](../corpus/dialogues/youtube-vd_oYgwQSBM.json) | 对谈原稿 |
 | 2026-06-23 | [（会员限免）AI时代，应该避免成为“有用的人”？](https://www.youtube.com/watch?v=JYEJlvbsUvA) | [全文](../corpus/videos/20260623-JYEJlvbsUvA.md) | 会员 · 本人主讲 |
 | 2026-06-18 | [连麦讲书：AI时代，你的“真本事”是什么？ ｜我上筝小钱的直播，她对我的书讲解得很不错！](https://www.youtube.com/watch?v=jlN-ak8ysiY) | [全文](../corpus/videos/20260618-jlN-ak8ysiY.md) | 会员 · 对话 |
 | 2026-06-16 | [道理都懂，为什么还是动不了？](https://www.youtube.com/watch?v=ynWeoYWUT_0) | [原稿](../corpus/dialogues/youtube-ynWeoYWUT_0.json) | 对谈原稿 |
 | 2026-06-12 | [道理都懂，为什么就是动不了？｜对谈个体创业教练勤勤](https://www.youtube.com/watch?v=_Lei7b49ySI) | [全文](../corpus/videos/20260612-_Lei7b49ySI.md) | 会员 · 对话 |
+| 2026-06-12 | [喜欢你才批评你](https://www.youtube.com/watch?v=7mr2VcaG8Zs) | — | 只有目录 |
 | 2026-06-11 | [AI时代的真本事：穿透不确定性的六个能力](https://www.youtube.com/watch?v=AHkzE4j-DjY) | [全文](../corpus/videos/20260611-AHkzE4j-DjY.md) | 本人主讲 |
 | 2026-06-09 | [AI时代，“精英阶层”正在如何重构教育？](https://www.youtube.com/watch?v=UU-VfbWbvV0) | [原稿](../corpus/dialogues/youtube-UU-VfbWbvV0.json) | 对谈原稿 |
 | 2026-06-06 | [硅谷徐老师：AI时代职业何去何从？](https://www.youtube.com/watch?v=TU0qNDaSQ4U) | [全文](../corpus/videos/20260606-TU0qNDaSQ4U.md) | 会员 · 对话 |
@@ -84,10 +175,15 @@
 | 2026-05-19 | [不想打工，但副业卡在销售、收费、增长上？这期是为你准备的](https://www.youtube.com/watch?v=khiC1eUUPLI) | [全文](../corpus/videos/20260519-khiC1eUUPLI.md) | 会员 · 本人主讲 |
 | 2026-05-18 | [你跟AI高手，prompt水平差距有多大？](https://www.youtube.com/watch?v=-s9Oj3koBTc) | [原稿](../corpus/dialogues/youtube--s9Oj3koBTc.json) | 对谈原稿 |
 | 2026-05-15 | [Zero: AI时代如何教育孩子，学AI的门槛到底有多低，Web工程师的转型之旅，大厂、创业公司、创业](https://www.youtube.com/watch?v=EypWgo13w4w) | [全文](../corpus/videos/20260515-EypWgo13w4w.md) | 会员 · 对话 |
+| 2026-05-15 | [创业一定要有technical insight](https://www.youtube.com/watch?v=Hzj1jh--oyo) | — | 只有目录 |
 | 2026-05-14 | [AI的正确打开方式：不学概念，学动作](https://www.youtube.com/watch?v=9A98hWZs5yU) | [全文](../corpus/videos/20260514-9A98hWZs5yU.md) | 本人主讲 |
+| 2026-05-13 | [Scala is dead? @EcZachly\_](https://www.youtube.com/watch?v=v7ttBGoJSU4) | — | 只有目录 |
+| 2026-05-12 | [鸭哥的手机AI界面](https://www.youtube.com/watch?v=64yTXYUC11A) | — | 只有目录 |
 | 2026-05-07 | [Dreamer 妍妍：AI、设计、职业转型、副业、销售与意义](https://www.youtube.com/watch?v=i-KGNWpPpZ4) | [全文](../corpus/videos/20260507-i-KGNWpPpZ4.md) | 会员 · 对话 |
+| 2026-05-04 | [《真本事：从会工作到会赚钱》](https://www.youtube.com/watch?v=VysvO_GBcKE) | — | 只有目录 |
 | 2026-05-02 | [AI取代的是所有白领工作](https://www.youtube.com/watch?v=3UhiLwDxGIk) | [全文](../corpus/videos/20260502-3UhiLwDxGIk.md) | 本人主讲 |
 | 2026-04-29 | [躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧](https://www.youtube.com/watch?v=99-5ptPiHJ0) | [原稿](../corpus/dialogues/youtube-99-5ptPiHJ0.json) | 对谈原稿 |
+| 2026-04-28 | [如何有效学习AI？](https://www.youtube.com/watch?v=r6bt4SJbFto) | — | 只有目录 |
 | 2026-04-27 | [30年的"超线性"职业发展，秘诀是坚持住自己的“不可替代性”｜魏慧，SVP@IHG](https://www.youtube.com/watch?v=Y9rmTZOM5Z4) | [全文](../corpus/videos/20260427-Y9rmTZOM5Z4.md) | 会员 · 对话 |
 | 2026-04-25 | [脑科学权威：AI能取代思考，但很难取代生存](https://www.youtube.com/watch?v=ydRltgtq7LY) | [全文](../corpus/videos/20260425-ydRltgtq7LY.md) | 会员 · 对话 |
 | 2026-04-23 | [虽然但是……还是劝大家不要摸鱼（纯自私角度）](https://www.youtube.com/watch?v=z_GKcG09Kmg) | [全文](../corpus/videos/20260423-z_GKcG09Kmg.md) | 会员 · 本人主讲 |
@@ -112,6 +208,7 @@
 | 2026-02-24 | [“人间清醒”的副作用](https://www.youtube.com/watch?v=3sYFDkf4Ytw) | [全文](../corpus/videos/20260224-3sYFDkf4Ytw.md) | 会员 · 本人主讲 |
 | 2026-02-20 | [设计师前途很清晰：少用Figma，多“操作”代码｜Cursor设计负责人Ryo Lu](https://www.youtube.com/watch?v=BnL5qaBzmR0) | [原稿](../corpus/dialogues/youtube-BnL5qaBzmR0.json) | 对谈原稿 |
 | 2026-02-20 | [Cursor设计负责人Ryo：软件的本质都一样｜什么是品味？｜AI时代，设计师一定要抛弃Figma](https://www.youtube.com/watch?v=FKuJBz4kaOo) | [全文](../corpus/videos/20260220-FKuJBz4kaOo.md) | 会员 · 对话 |
+| 2026-02-16 | [OpenClaw被OpenAI收购了，为什么不值得多数人学习？](https://www.youtube.com/watch?v=jczPCIVlsss) | — | 只有目录 |
 | 2026-02-14 | [第一性原理难在哪里？难在孤独](https://www.youtube.com/watch?v=N68oO3AC9wc) | [全文](../corpus/videos/20260214-N68oO3AC9wc.md) | 会员 · 本人主讲 |
 | 2026-02-09 | [“比特币2026会创新高，因为已经被庄家控制了”｜前交易所高管离职前专访](https://www.youtube.com/watch?v=w0QB45tLDM8) | [原稿](../corpus/dialogues/youtube-w0QB45tLDM8.json) | 对谈原稿 |
 | 2026-02-06 | ["比特币2026年会创新高，但以你意想不到的方式"｜区块链的真正价值｜AI与区块链｜前币安上市看门人Chase](https://www.youtube.com/watch?v=TTDcuWw3noU) | [全文](../corpus/videos/20260206-TTDcuWw3noU.md) | 会员 · 对话 |
@@ -129,7 +226,7 @@
 | 2026-01-08 | [AI真的没有门槛了？从美国中小学生如何用AI，看AI时代核心素质，和我们应该做什么](https://www.youtube.com/watch?v=DxRCFOOd0Oo) | [全文](../corpus/videos/20260108-DxRCFOOd0Oo.md) | 会员 · 对话 |
 | 2026-01-01 | [【限时公开】个体创业后，才发现打工最让我难受的，是“沟通税”](https://www.youtube.com/watch?v=8VRW3J2lzrQ) | [全文](../corpus/videos/20260101-8VRW3J2lzrQ.md) | 本人主讲 |
 
-## 2025（142 条）
+## 2025（161 条）
 
 | 日期 | 视频 | 字幕 | 类型 |
 | --- | --- | --- | --- |
@@ -143,16 +240,19 @@
 | 2025-12-11 | [Amazon和Meta都在用通义千问，他们为什么掉队了？](https://www.youtube.com/watch?v=0SIMJEAOgKA) | [全文](../corpus/videos/20251211-0SIMJEAOgKA.md) | 会员 · 本人主讲 |
 | 2025-12-10 | [跟课代表连线](https://www.youtube.com/watch?v=5pma1N7WVdg) | [全文](../corpus/videos/20251210-5pma1N7WVdg.md) | 会员 · 对话 |
 | 2025-12-09 | [Gemini正在杀死Vibe Coding？未来什么样的AI人才最稀缺？](https://www.youtube.com/watch?v=oGDlQ1n1ZcE) | [全文](../corpus/videos/20251209-oGDlQ1n1ZcE.md) | 本人主讲 |
+| 2025-12-08 | [互联网的泡沫，五年后就都用上了](https://www.youtube.com/watch?v=RVeIVWaZ0sI) | [原稿](../corpus/dialogues/youtube-RVeIVWaZ0sI.json) | 对谈原稿 |
 | 2025-12-06 | [硅谷高管：裁员潮下，普通人的自救指南｜硅谷徐老师\_3/3](https://www.youtube.com/watch?v=F5-isewu-ww) | [原稿](../corpus/dialogues/youtube-F5-isewu-ww.json) | 对谈原稿 |
 | 2025-12-04 | [2026年，AI终于可以“无脑”使用了？｜硅谷徐老师\_1/3](https://www.youtube.com/watch?v=BRr5G2zNJGY) | [原稿](../corpus/dialogues/youtube-BRr5G2zNJGY.json) | 对谈原稿 |
 | 2025-12-03 | [AI浏览器，才能让AI真正走入大众？｜把AI写进pitch deck，是十年前就在发生的事情｜只有2%的人真的有第一性原理？｜硅谷徐老师\_上](https://www.youtube.com/watch?v=HJ9dAkgPXIM) | [全文](../corpus/videos/20251203-HJ9dAkgPXIM.md) | 会员 · 对话 |
 | 2025-12-03 | [理解AI泡沫的规律，如何选公司，如何在工作中未雨绸缪｜硅谷徐老师访谈\_下](https://www.youtube.com/watch?v=c93Z3WrmQf0) | [全文](../corpus/videos/20251203-c93Z3WrmQf0.md) | 会员 · 对话 |
+| 2025-12-03 | [2015年AWS爆发，华尔街为何选择无视？](https://www.youtube.com/watch?v=TfKILDZTa2M) | [原稿](../corpus/dialogues/youtube-TfKILDZTa2M.json) | 对谈原稿 |
 | 2025-12-02 | [硅谷高管：AI大泡沫一定会破，但这是一件好事？\| 硅谷徐老师\_2/3](https://www.youtube.com/watch?v=knTP07tE89Y) | [原稿](../corpus/dialogues/youtube-knTP07tE89Y.json) | 对谈原稿 |
 | 2025-11-26 | [2026，打工人如何布局，才能有效反脆弱？](https://www.youtube.com/watch?v=9vlSuEgPPec) | [全文](../corpus/videos/20251126-9vlSuEgPPec.md) | 本人主讲 |
 | 2025-11-25 | [（会员限免）我亲历的Meta电商失败史｜Marketplace 4](https://www.youtube.com/watch?v=S6-7haSvVho) | [全文](../corpus/videos/20251125-S6-7haSvVho.md) | 会员 · 本人主讲 |
 | 2025-11-19 | [微软Meta腾讯字节加起来，不如两年创业成长多？｜石扬\_下](https://www.youtube.com/watch?v=UTDLS_T2Ra4) | [原稿](../corpus/dialogues/youtube-UTDLS_T2Ra4.json) | 对谈原稿 |
 | 2025-11-19 | [拒绝“考试思维”：为什么优秀的大厂工程师，往往做不好产品？｜石扬完整版\_下](https://www.youtube.com/watch?v=oyzp1nyyUbk) | [全文](../corpus/videos/20251119-oyzp1nyyUbk.md) | 会员 · 对话 |
 | 2025-11-17 | [Meta、Notion、腾讯内部的增长专业课，我们写成了一本书](https://www.youtube.com/watch?v=W09mt7WxSas) | [全文](../corpus/videos/20251117-W09mt7WxSas.md) | 本人主讲 |
+| 2025-11-15 | [用一个问题，搞清楚财富是如何开始的](https://www.youtube.com/watch?v=3WGc6AvxZ-c) | [原稿](../corpus/dialogues/youtube-3WGc6AvxZ-c.json) | 对谈原稿 |
 | 2025-11-13 | [跳出「消费-劳动」循环陷阱，停止做金钱的舔狗](https://www.youtube.com/watch?v=8fVg8l9LqlM) | [全文](../corpus/videos/20251113-8fVg8l9LqlM.md) | 本人主讲 |
 | 2025-11-12 | [AI编程的先进实践和底层理解，进化推演，中国团队的优势与劣势，专业开发者和vibe coder的分界，AI编程接下来几年的核心问题，破除套壳论｜石扬访谈完整版\_上](https://www.youtube.com/watch?v=ExLFkG1ny1s) | [全文](../corpus/videos/20251112-ExLFkG1ny1s.md) | 会员 · 对话 |
 | 2025-11-12 | [AI编程下一站，会自动化哪些白领工作？｜Trae产品负责人石扬访谈\_上](https://www.youtube.com/watch?v=d-Mel7dGDGE) | [原稿](../corpus/dialogues/youtube-d-Mel7dGDGE.json) | 对谈原稿 |
@@ -162,11 +262,14 @@
 | 2025-11-05 | [深度对话00后CEO，重新定义AI时代的成长方式｜AI时代的顶级人才画像｜Kay访谈\_上](https://www.youtube.com/watch?v=cyZeAw8DLew) | [原稿](../corpus/dialogues/youtube-cyZeAw8DLew.json) | 对谈原稿 |
 | 2025-10-30 | [深度访谈田渊栋：AI“顿悟”的关键，是对优雅的追求？](https://www.youtube.com/watch?v=dymM40bVIhQ) | [原稿](../corpus/dialogues/youtube-dymM40bVIhQ.json) | 对谈原稿 |
 | 2025-10-30 | [田渊栋：模型的顿悟，AI的优雅，模型表征与人类心智模型的关系，优秀研究员的意义](https://www.youtube.com/watch?v=zAzsDHpR4xs) | [全文](../corpus/videos/20251030-zAzsDHpR4xs.md) | 会员 · 对话 |
+| 2025-10-28 | [被裁员的两个危险的心理冲击，及如何应对](https://www.youtube.com/watch?v=Y-ZK-B1TwYc) | [原稿](../corpus/dialogues/youtube-Y-ZK-B1TwYc.json) | 对谈原稿 |
 | 2025-10-23 | [替公司裁过4个下属，分享背后原因和心里话](https://www.youtube.com/watch?v=M6ZsbRhhZys) | [全文](../corpus/videos/20251023-M6ZsbRhhZys.md) | 本人主讲 |
 | 2025-10-22 | [微博VP，AI投资人：90%的白领技能正在作废，所以我这样培养下一代](https://www.youtube.com/watch?v=FB4KLGPvKv0) | [原稿](../corpus/dialogues/youtube-FB4KLGPvKv0.json) | 对谈原稿 |
+| 2025-10-22 | [如何有效改进工作质量？](https://www.youtube.com/watch?v=KFzY4uIQrqQ) | [原稿](../corpus/dialogues/youtube-KFzY4uIQrqQ.json) | 对谈原稿 |
 | 2025-10-20 | [资源+努力+逻辑正确，为什么搞砸了？｜Marketplace 3｜会员专属限时公开](https://www.youtube.com/watch?v=uLFkQheksgI) | [全文](../corpus/videos/20251020-uLFkQheksgI.md) | 会员 · 本人主讲 |
 | 2025-10-18 | [OpenAI+YC Hackathon双料冠军，脱颖而出的五条干货](https://www.youtube.com/watch?v=tJBv3kHZtzg) | [原稿](../corpus/dialogues/youtube-tJBv3kHZtzg.json) | 对谈原稿 |
 | 2025-10-16 | [从Facebook面试第一，到向上汇报达人，我靠的是这一个心态｜送频道专属福利](https://www.youtube.com/watch?v=aS38m85kUJQ) | [全文](../corpus/videos/20251016-aS38m85kUJQ.md) | 本人主讲 |
+| 2025-10-16 | [追逐流行标签是不可能学好AI的](https://www.youtube.com/watch?v=T2vIapBr1-k) | [原稿](../corpus/dialogues/youtube-T2vIapBr1-k.json) | 对谈原稿 |
 | 2025-10-15 | [AI投资人，前微博VP：十四年内，雇佣制将灭绝，我们需要“资本游戏”的入场券｜Indigo](https://www.youtube.com/watch?v=bZE3LVBfykA) | [全文](../corpus/videos/20251015-bZE3LVBfykA.md) | 会员 · 对话 |
 | 2025-10-10 | [用AI取代老板，PM新人如何摆脱“螺丝钉”工作？](https://www.youtube.com/watch?v=1DsF0MItcp0) | [原稿](../corpus/dialogues/youtube-1DsF0MItcp0.json) | 对谈原稿 |
 | 2025-10-09 | [AI加持下，每天只工作四小时，获Andrej Karpathy认可？｜摆脱无意义工作、用AI拓宽能力边界、兼职创业体感、加分思维｜Riley](https://www.youtube.com/watch?v=VS8sPFZFvbs) | [全文](../corpus/videos/20251009-VS8sPFZFvbs.md) | 会员 · 对话 |
@@ -215,8 +318,15 @@
 | 2025-06-09 | [鸭哥演示用Cursor分析股票（回测平台 + alpha策略）](https://www.youtube.com/watch?v=sFefn6R6jYY) | [原稿](../corpus/dialogues/youtube-sFefn6R6jYY.json) | 对谈原稿 |
 | 2025-06-07 | [GPT如何看穿了我的职业与人生困局？](https://www.youtube.com/watch?v=lh5zOS3M0Lg) | [全文](../corpus/videos/20250607-lh5zOS3M0Lg.md) | 会员 · 本人主讲 |
 | 2025-06-06 | [靠捡垃圾攒服务器，做出亚马逊Rekognition的前身！AI前夜的创业故事｜灶爷访谈\_上](https://www.youtube.com/watch?v=k4ymsRaIUX4) | [原稿](../corpus/dialogues/youtube-k4ymsRaIUX4.json) | 对谈原稿 |
+| 2025-06-05 | [人生的意义不靠找而靠做｜樊登](https://www.youtube.com/watch?v=vbKppX43_cs) | [原稿](../corpus/dialogues/youtube-vbKppX43_cs.json) | 对谈原稿 |
+| 2025-06-04 | [你以为的思考其实只是在内耗｜樊登](https://www.youtube.com/watch?v=pNqU-LiiZsM) | [原稿](../corpus/dialogues/youtube-pNqU-LiiZsM.json) | 对谈原稿 |
+| 2025-06-03 | [带来十亿年收入的三个认知迭代｜樊登](https://www.youtube.com/watch?v=c7gzBeFYlEI) | [原稿](../corpus/dialogues/youtube-c7gzBeFYlEI.json) | 对谈原稿 |
+| 2025-06-02 | [曾经的失败或许是下一站好运的伏笔｜樊登](https://www.youtube.com/watch?v=QIZndjNOltY) | [原稿](../corpus/dialogues/youtube-QIZndjNOltY.json) | 对谈原稿 |
+| 2025-06-01 | [樊登：十倍增长比20%的提升更容易](https://www.youtube.com/watch?v=KLAN6YmP4jM) | [原稿](../corpus/dialogues/youtube-KLAN6YmP4jM.json) | 对谈原稿 |
+| 2025-05-31 | [先赚钱，再优化商业模型｜樊登早期创业故事](https://www.youtube.com/watch?v=hzUKExYRbnM) | [原稿](../corpus/dialogues/youtube-hzUKExYRbnM.json) | 对谈原稿 |
 | 2025-05-30 | [樊登：讲完几百本书，提升最大的是这三次认知迭代](https://www.youtube.com/watch?v=pxgF4mgcxqo) | [原稿](../corpus/dialogues/youtube-pxgF4mgcxqo.json) | 对谈原稿 |
 | 2025-05-23 | [Meta Tech Lead: 怎样提高自己的“身价”？](https://www.youtube.com/watch?v=fPollnUVitg) | [原稿](../corpus/dialogues/youtube-fPollnUVitg.json) | 对谈原稿 |
+| 2025-05-21 | [如何确定自己真的喜欢一个人](https://www.youtube.com/watch?v=lGqXK2Oe5Uw) | [原稿](../corpus/dialogues/youtube-lGqXK2Oe5Uw.json) | 对谈原稿 |
 | 2025-05-19 | [想用副业逃离职场内卷，先要认真起来｜Amber反向访谈](https://www.youtube.com/watch?v=4SjecE_awC0) | [全文](../corpus/videos/20250519-4SjecE_awC0.md) | 会员 · 对话 |
 | 2025-05-18 | [不懂“人”，谈何职业发展？｜陈然访谈](https://www.youtube.com/watch?v=l9RmiySrwXM) | — | 只有目录 |
 | 2025-05-16 | [成功睡训，分享四个误解和三个体会](https://www.youtube.com/watch?v=WzfDxSCurAY) | [全文](../corpus/videos/20250516-WzfDxSCurAY.md) | 本人主讲 |
@@ -251,6 +361,7 @@
 | 2025-03-12 | [26岁财富自由的程序员郭宇：很多人起点虽然高，但生活得一团糟](https://www.youtube.com/watch?v=mf13n8Fl7FM) | [原稿](../corpus/dialogues/youtube-mf13n8Fl7FM.json) | 对谈原稿 |
 | 2025-03-12 | [如何有效内化，把道理变成自己的能力？](https://www.youtube.com/watch?v=4B7_f2P6xzs) | [全文](../corpus/videos/20250312-4B7_f2P6xzs.md) | 会员 · 对话 |
 | 2025-03-12 | [从中国互联网到北美AI：前微博VP的全球视野与AI投资布局 \| Indigo访谈完整版](https://www.youtube.com/watch?v=Lpp5ZdUtWog) | [全文](../corpus/videos/20250312-Lpp5ZdUtWog.md) | 会员 · 对话 |
+| 2025-03-09 | [不要做自作聪明的傻瓜](https://www.youtube.com/watch?v=nPZ0JOtxM8k) | [原稿](../corpus/dialogues/youtube-nPZ0JOtxM8k.json) | 对谈原稿 |
 | 2025-03-08 | [直播用Manus和GPT4.5，研究DeepSeek｜如何有效prompt AI，遇到问题如何debug，AI潜力有多大？｜直播一度觉得做不出来了，最后三分钟双双达成](https://www.youtube.com/watch?v=fZVfVLfVphU) | [原稿](../corpus/dialogues/youtube-fZVfVLfVphU.json) | 对谈原稿 |
 | 2025-03-06 | [Shuchao Bi: 明星创业公司的人才画像与密度｜华人在硅谷如何突破职业天花板？｜Shuchao 3/3](https://www.youtube.com/watch?v=minCtoiRHG8) | [原稿](../corpus/dialogues/youtube-minCtoiRHG8.json) | 对谈原稿 |
 | 2025-03-02 | [小众旅行中，意外被亿万富翁传授了致富心法](https://www.youtube.com/watch?v=r3r6c3f8kvs) | [全文](../corpus/videos/20250302-r3r6c3f8kvs.md) | 本人主讲 |
@@ -262,12 +373,17 @@
 | 2025-02-14 | [Shuchao BI: 创立YouTube Shorts的故事，如何预测科技趋势，在大厂创新的领导力 \| 对话 Shuchao 1/3](https://www.youtube.com/watch?v=7ej2r7XysKc) | [原稿](../corpus/dialogues/youtube-7ej2r7XysKc.json) | 对谈原稿 |
 | 2025-02-12 | [Onlyfans博主访谈](https://www.youtube.com/watch?v=IcMbpTVX5iY) | [全文](../corpus/videos/20250212-IcMbpTVX5iY.md) | 会员 · 对话 |
 | 2025-02-11 | [毕业放弃百万offer的原因｜应对AI职业冲击的三条建议](https://www.youtube.com/watch?v=Y20_JOyMs3k) | [全文](../corpus/videos/20250211-Y20_JOyMs3k.md) | 本人主讲 |
+| 2025-02-11 | [AI带来的变革在“长尾智能”](https://www.youtube.com/watch?v=4gkBomC_4dg) | [原稿](../corpus/dialogues/youtube-4gkBomC_4dg.json) | 对谈原稿 |
+| 2025-02-10 | [科技发展的主线是成本降低](https://www.youtube.com/watch?v=xiqf36nv3wo) | [原稿](../corpus/dialogues/youtube-xiqf36nv3wo.json) | 对谈原稿 |
+| 2025-02-09 | [所有大学都应该建一个万卡集群？](https://www.youtube.com/watch?v=7sBa7OiAs0M) | [原稿](../corpus/dialogues/youtube-7sBa7OiAs0M.json) | 对谈原稿 |
 | 2025-02-08 | [年纪轻轻看课代表视频财富自由了，之后的路该如何走？](https://www.youtube.com/watch?v=mkcGlF3oobc) | [原稿](../corpus/dialogues/youtube-mkcGlF3oobc.json) | 对谈原稿 |
+| 2025-02-08 | [数学发展史](https://www.youtube.com/watch?v=FdBxAuczgiU) | [原稿](../corpus/dialogues/youtube-FdBxAuczgiU.json) | 对谈原稿 |
 | 2025-02-06 | [生娃养娃是为了自己做个好爸爸](https://www.youtube.com/watch?v=Bvofl8_K4WM) | [全文](../corpus/videos/20250206-Bvofl8_K4WM.md) | 会员 · 本人主讲 |
 | 2025-02-01 | [Shuchao BI: 2025，AI路往何方？｜对话OpenAI Shuchao 2/3](https://www.youtube.com/watch?v=eRYBE0dXsmU) | [原稿](../corpus/dialogues/youtube-eRYBE0dXsmU.json) | 对谈原稿 |
 | 2025-01-28 | [北欧生活 + 稳定外企，真实感受分享｜干货在后半段](https://www.youtube.com/watch?v=fp6b_KDyHMU) | [全文](../corpus/videos/20250128-fp6b_KDyHMU.md) | 会员 · 对话 |
 | 2025-01-26 | [2025年，AI最大机会是Agents，如何抓住18个月的窗口期？](https://www.youtube.com/watch?v=FzbkAy0DcQk) | [全文](../corpus/videos/20250126-FzbkAy0DcQk.md) | 本人主讲 |
 | 2025-01-24 | [想从工作走向职业，要摆正你和老板的关系](https://www.youtube.com/watch?v=PCDPin7GySI) | [全文](../corpus/videos/20250124-PCDPin7GySI.md) | 本人主讲 |
+| 2025-01-24 | [亚马逊赞助视频播放现场](https://www.youtube.com/watch?v=ZePa4lzd36Q) | — | 只有目录 |
 | 2025-01-21 | [时间箭头，因果关系，宿命论 by 赵智沉](https://www.youtube.com/watch?v=zbm1bWihx5E) | [全文](../corpus/videos/20250121-zbm1bWihx5E.md) | 会员 · 对话 |
 | 2025-01-17 | [五位Manager/Tech Lead，回答职业发展的管理者视角](https://www.youtube.com/watch?v=ve2OvVbR4d0) | [全文](../corpus/videos/20250117-ve2OvVbR4d0.md) | 会员 · 对话 |
 | 2025-01-17 | [我吃到TikTokRefugee流量了，但是……](https://www.youtube.com/watch?v=4KvVT76xmsI) | [全文](../corpus/videos/20250117-4KvVT76xmsI.md) | 本人主讲 |
@@ -276,7 +392,7 @@
 | 2025-01-08 | [增长和转化的底层逻辑 ｜漏斗｜课代表数据大师课4](https://www.youtube.com/watch?v=VFTf3_sYBms) | [全文](../corpus/videos/20250108-VFTf3_sYBms.md) | 本人主讲 |
 | 2025-01-04 | [帮我卖课，分成100%？｜开源模型和Agentic AI模块更新预告](https://www.youtube.com/watch?v=EccwFyL8OVM) | [全文](../corpus/videos/20250104-EccwFyL8OVM.md) | 本人主讲 |
 
-## 2024（152 条）
+## 2024（164 条）
 
 | 日期 | 视频 | 字幕 | 类型 |
 | --- | --- | --- | --- |
@@ -290,24 +406,30 @@
 | 2024-12-17 | [做这三件事，可以舒服跟上AI发展节奏](https://www.youtube.com/watch?v=OHrVsgsaq9o) | [全文](../corpus/videos/20241217-OHrVsgsaq9o.md) | 本人主讲 |
 | 2024-12-11 | [看遍世界教育体系，领悟的教育的真谛｜LuluLeon聊教育-下](https://www.youtube.com/watch?v=Tec54wr1vCc) | [原稿](../corpus/dialogues/youtube-Tec54wr1vCc.json) | 对谈原稿 |
 | 2024-12-10 | [年纪轻轻看课代表视频财富自由了，之后该怎么办？](https://www.youtube.com/watch?v=nnpoQdAExEg) | [全文](../corpus/videos/20241210-nnpoQdAExEg.md) | 会员 · 对话 |
+| 2024-12-09 | [如何让别人对你的内容感兴趣？｜内容感的两个要素 #shorts](https://www.youtube.com/watch?v=8S30uJAVftU) | [原稿](../corpus/dialogues/youtube-8S30uJAVftU.json) | 对谈原稿 |
 | 2024-12-08 | [直播录视频](https://www.youtube.com/watch?v=E2sF5OqEX9Y) | [全文](../corpus/videos/20241208-E2sF5OqEX9Y.md) | 本人主讲 |
 | 2024-12-04 | [如何渡过历史的垃圾时间？](https://www.youtube.com/watch?v=jgEzuc0Le5k) | [原稿](../corpus/dialogues/youtube-jgEzuc0Le5k.json) | 对谈原稿 |
 | 2024-12-03 | [如何提高自己的写作能力？](https://www.youtube.com/watch?v=Fofr8Ns1IFI) | [全文](../corpus/videos/20241203-Fofr8Ns1IFI.md) | 会员 · 本人主讲 |
 | 2024-11-26 | [凭什么招人比Google还严？｜用AI颠覆自己才能活下去？ ｜Databricks Cofounder Reynold Xin访谈\_下](https://www.youtube.com/watch?v=cM8TlLVEVWU) | [原稿](../corpus/dialogues/youtube-cM8TlLVEVWU.json) | 对谈原稿 |
 | 2024-11-26 | [中美工作体验对比｜我的平行人生（亚麻-脸书-字节，生娃，INTJ）｜大厂的本质问题](https://www.youtube.com/watch?v=mgQwCTXgoME) | [全文](../corpus/videos/20241126-mgQwCTXgoME.md) | 会员 · 对话 |
 | 2024-11-19 | [十年估值三千亿，创始人首次揭秘，如何识别并抓住机会？｜Databricks Cofounder Reynold访谈\_上](https://www.youtube.com/watch?v=GIv0I-34aaI) | [原稿](../corpus/dialogues/youtube-GIv0I-34aaI.json) | 对谈原稿 |
+| 2024-11-14 | [你为什么一直被短择？](https://www.youtube.com/watch?v=KifOUVMCjGQ) | [原稿](../corpus/dialogues/youtube-KifOUVMCjGQ.json) | 对谈原稿 |
 | 2024-11-12 | [如何选老板和团队？｜找工作口碑最重要？｜IPO前加入Databricks需要注意什么？ ｜Databricks招聘经理访谈\_下](https://www.youtube.com/watch?v=W4gA5AdB1_w) | [原稿](../corpus/dialogues/youtube-W4gA5AdB1_w.json) | 对谈原稿 |
 | 2024-11-12 | [第一性原理思考的至高境界｜Databricks Cofounder Reynold Xin访谈完整版](https://www.youtube.com/watch?v=YE24Rpn3oD0) | [全文](../corpus/videos/20241112-YE24Rpn3oD0.md) | 会员 · 对话 |
 | 2024-11-07 | [上海线下会员聚会完整版](https://www.youtube.com/watch?v=zdKFgRfl9R8) | [全文](../corpus/videos/20241107-zdKFgRfl9R8.md) | 会员 · 对话 |
+| 2024-11-07 | [职业发展的第一目标](https://www.youtube.com/watch?v=_hl0PnvUha0) | [原稿](../corpus/dialogues/youtube-_hl0PnvUha0.json) | 对谈原稿 |
 | 2024-11-06 | [刷题+海投已失效，好工作需要这三件事｜Databricks招聘经理访谈 - 上](https://www.youtube.com/watch?v=KhV4cItOqYw) | [原稿](../corpus/dialogues/youtube-KhV4cItOqYw.json) | 对谈原稿 |
 | 2024-10-30 | [听懂这条面试核心理念，搞定一切behavioral interview｜访谈前亚马逊副总裁](https://www.youtube.com/watch?v=mRhsuF4wf3Q) | [原稿](../corpus/dialogues/youtube-mRhsuF4wf3Q.json) | 对谈原稿 |
 | 2024-10-27 | [从Databricks的人才态度，看懂人才与公司的双向选择｜卷是坏事吗？｜熊力访谈\_下](https://www.youtube.com/watch?v=xzRVIbayRBQ) | [全文](../corpus/videos/20241027-xzRVIbayRBQ.md) | 会员 · 对话 |
 | 2024-10-27 | [新时代的招聘现实和应对方法｜找工作最重要的是了解自己与市场｜熊力访谈\_上](https://www.youtube.com/watch?v=YNn2ZyypWPQ) | [全文](../corpus/videos/20241027-YNn2ZyypWPQ.md) | 会员 · 对话 |
 | 2024-10-26 | [物理的本质，AI的对偶，世界的巧合，智能的真相，哲学的冲击｜赵智沉](https://www.youtube.com/watch?v=rZO-Z3b1Skk) | [全文](../corpus/videos/20241026-rZO-Z3b1Skk.md) | 会员 · 对话 |
+| 2024-10-25 | [写论文拖延怎么治疗？](https://www.youtube.com/watch?v=Kraim33_fq8) | [原稿](../corpus/dialogues/youtube-Kraim33_fq8.json) | 对谈原稿 |
 | 2024-10-23 | [不是主业不给力，副业更有性价比｜亚马逊首席(L7)产品经理小露](https://www.youtube.com/watch?v=MWt3Zo1oC70) | [原稿](../corpus/dialogues/youtube-MWt3Zo1oC70.json) | 对谈原稿 |
 | 2024-10-21 | [VP揭秘，如何当好一个总监？｜面试、管理、谈判、influence、培养人、解决问题｜前亚马逊副总裁访谈第二轮](https://www.youtube.com/watch?v=XYgol93Q7ww) | [全文](../corpus/videos/20241021-XYgol93Q7ww.md) | 会员 · 对话 |
+| 2024-10-19 | [Databricks是做什么的？｜联合创始人Reynold访谈判断](https://www.youtube.com/watch?v=ij4br0S5kSE) | [原稿](../corpus/dialogues/youtube-ij4br0S5kSE.json) | 对谈原稿 |
 | 2024-10-17 | [大连数据科学家，领英29万粉，分享如何打造英文个人品牌](https://www.youtube.com/watch?v=g7T6iT49khU) | [全文](../corpus/videos/20241017-g7T6iT49khU.md) | 会员 · 对话 |
 | 2024-10-16 | [世界模型](https://www.youtube.com/watch?v=r0nsW3nIFgk) | [全文](../corpus/videos/20241016-r0nsW3nIFgk.md) | 本人主讲 |
+| 2024-10-14 | [The compounding growth of Acquired](https://www.youtube.com/watch?v=1TiNwJWI1IM) | — | 只有目录 |
 | 2024-10-12 | [哈里斯 vs. 特朗普：谁将重塑华人命运？｜美国政治死结能破解吗？｜王浩嵐 2/2](https://www.youtube.com/watch?v=ORW2GE7i6bU) | [原稿](../corpus/dialogues/youtube-ORW2GE7i6bU.json) | 对谈原稿 |
 | 2024-10-11 | [特朗普赢面如何计算？｜政治的幻象与本质｜ 王浩嵐 1/2](https://www.youtube.com/watch?v=E_PhVN-6sn0) | [原稿](../corpus/dialogues/youtube-E_PhVN-6sn0.json) | 对谈原稿 |
 | 2024-10-09 | [诺贝尔奖当然应该颁给AI](https://www.youtube.com/watch?v=k6f9a05U9uY) | [全文](../corpus/videos/20241009-k6f9a05U9uY.md) | 本人主讲 |
@@ -343,6 +465,7 @@
 | 2024-07-26 | [一款T恤的诞生：设计、定价、生产、物流、销售](https://www.youtube.com/watch?v=ijZ9pRW3UOo) | [全文](../corpus/videos/20240726-ijZ9pRW3UOo.md) | 本人主讲 |
 | 2024-07-24 | [获取Product Market Fit的三个步骤](https://www.youtube.com/watch?v=5QcM1X_YMQk) | [全文](../corpus/videos/20240724-5QcM1X_YMQk.md) | 本人主讲 |
 | 2024-07-24 | [大厂员工的创业误区｜Vivian访谈2/2](https://www.youtube.com/watch?v=mOy2BmSVtyQ) | [全文](../corpus/videos/20240724-mOy2BmSVtyQ.md) | 会员 · 对话 |
+| 2024-07-24 | [YouTube赚钱的两个误区](https://www.youtube.com/watch?v=E7h6-xAirT4) | [原稿](../corpus/dialogues/youtube-E7h6-xAirT4.json) | 对谈原稿 |
 | 2024-07-22 | [AI 时代如何入门？｜YC 两小时深度访谈 preview 特别加更](https://www.youtube.com/watch?v=-S1BZ_-hvlg) | [全文](../corpus/videos/20240722--S1BZ_-hvlg.md) | 会员 · 对话 |
 | 2024-07-20 | [赛车是一项平民运动？\| 专业和业余差距在哪里？](https://www.youtube.com/watch?v=sHsV14fc0iY) | [全文](../corpus/videos/20240720-sHsV14fc0iY.md) | 会员 · 对话 |
 | 2024-07-18 | [升职的本质是给老板提供情绪价值？｜Vivian访谈1/2](https://www.youtube.com/watch?v=9DkGV_lqdGk) | [全文](../corpus/videos/20240718-9DkGV_lqdGk.md) | 会员 · 对话 |
@@ -365,12 +488,14 @@
 | 2024-06-06 | [环境 ｜ 决定你一大半的成败](https://www.youtube.com/watch?v=pZtubarL0KA) | [全文](../corpus/videos/20240606-pZtubarL0KA.md) | 本人主讲 |
 | 2024-05-29 | [卖课两月收入60万，知无不言！](https://www.youtube.com/watch?v=R9LuSOVidKM) | [全文](../corpus/videos/20240529-R9LuSOVidKM.md) | 本人主讲 |
 | 2024-05-28 | [美国特别行业访谈\_上](https://www.youtube.com/watch?v=KW2pbdm34EY) | [全文](../corpus/videos/20240528-KW2pbdm34EY.md) | 会员 · 对话 |
+| 2024-05-27 | [这四条特征识别同事中的大腿](https://www.youtube.com/watch?v=S1bUVDG7Wl0) | [原稿](../corpus/dialogues/youtube-S1bUVDG7Wl0.json) | 对谈原稿 |
 | 2024-05-24 | [程序员开餐馆-投多少，赚多少，忙不忙，能财富自由吗？](https://www.youtube.com/watch?v=VpXcXv9S5ws) | [原稿](../corpus/dialogues/youtube-VpXcXv9S5ws.json) | 对谈原稿 |
 | 2024-05-20 | [AI真的能帮到我们吗？备完700美元课程后，我对抓住AI机会的新体悟](https://www.youtube.com/watch?v=-CtjOzJXWgo) | [全文](../corpus/videos/20240520--CtjOzJXWgo.md) | 本人主讲 |
 | 2024-05-19 | [我们只能控制好这三件事：attention, effort, time](https://www.youtube.com/watch?v=mevvOuylDhw) | [全文](../corpus/videos/20240519-mevvOuylDhw.md) | 会员 · 本人主讲 |
 | 2024-05-16 | [如何坚持自己观点并说服他人？](https://www.youtube.com/watch?v=vYOogCGsIog) | [原稿](../corpus/dialogues/youtube-vYOogCGsIog.json) | 对谈原稿 |
 | 2024-05-16 | [打入美国主流创投的华人--为什么(不)是你？｜大厂打工如何接触投资行业？](https://www.youtube.com/watch?v=0R4hOezhHZo) | [全文](../corpus/videos/20240516-0R4hOezhHZo.md) | 会员 · 对话 |
 | 2024-05-12 | [如何找到10%高价值工作，降维打击内卷？](https://www.youtube.com/watch?v=_Z-hHbGI3pg) | [全文](../corpus/videos/20240512-_Z-hHbGI3pg.md) | 会员 · 本人主讲 |
+| 2024-05-11 | [肉眼可见的极光大爆发 #aurora](https://www.youtube.com/watch?v=BVSflkRaxzg) | — | 只有目录 |
 | 2024-05-08 | [90%的工作都没价值？｜噪音时代，如何获取有价值的信息？｜硅谷徐老师访谈 3/3](https://www.youtube.com/watch?v=P-frv84l3Fk) | [原稿](../corpus/dialogues/youtube-P-frv84l3Fk.json) | 对谈原稿 |
 | 2024-05-02 | [不上班不创业，如何找到爱好并养活自己？｜对教育的启发｜干货无鸡汤](https://www.youtube.com/watch?v=NnsidZ2pENU) | [原稿](../corpus/dialogues/youtube-NnsidZ2pENU.json) | 对谈原稿 |
 | 2024-05-02 | [LuluLeon聊教育\_下](https://www.youtube.com/watch?v=9qqHH975Eds) | [全文](../corpus/videos/20240502-9qqHH975Eds.md) | 会员 · 对话 |
@@ -382,9 +507,11 @@
 | 2024-04-19 | [策划婚礼、制定预算、选择vendor的思路｜备婚心得3/3](https://www.youtube.com/watch?v=GI_OGXKUE3g) | [原稿](../corpus/dialogues/youtube-GI_OGXKUE3g.json) | 对谈原稿 |
 | 2024-04-18 | [如何通过婚礼训练老公（和家长）？｜备婚心得2/3](https://www.youtube.com/watch?v=wkjV6Sa10JY) | [原稿](../corpus/dialogues/youtube-wkjV6Sa10JY.json) | 对谈原稿 |
 | 2024-04-17 | [为自己而办的婚礼长啥样？｜备婚经验1/3](https://www.youtube.com/watch?v=OZObmzuE9Ho) | [原稿](../corpus/dialogues/youtube-OZObmzuE9Ho.json) | 对谈原稿 |
+| 2024-04-14 | [如何理解复利？](https://www.youtube.com/watch?v=h2gbHmUZzJs) | [原稿](../corpus/dialogues/youtube-h2gbHmUZzJs.json) | 对谈原稿 |
 | 2024-04-13 | [三条反直觉公式讲透复利｜Superlinear](https://www.youtube.com/watch?v=4V8aNnJZAJw) | [全文](../corpus/videos/20240413-4V8aNnJZAJw.md) | 本人主讲 |
 | 2024-04-12 | [中国顶级FA，总结互联网白银年代，怎么看AI时代的机会？](https://www.youtube.com/watch?v=4PdNNi_eYKE) | [原稿](../corpus/dialogues/youtube-4PdNNi_eYKE.json) | 对谈原稿 |
 | 2024-04-06 | [买房谈恋爱都是终身大事，这三招为什么没人教？](https://www.youtube.com/watch?v=oVeIjW-ScfU) | [原稿](../corpus/dialogues/youtube-oVeIjW-ScfU.json) | 对谈原稿 |
+| 2024-04-06 | [买房和约会都要注意两面性](https://www.youtube.com/watch?v=H1ct6-HfEqU) | [原稿](../corpus/dialogues/youtube-H1ct6-HfEqU.json) | 对谈原稿 |
 | 2024-04-02 | [在英语市场拿了第一名，却被国人怼脸打压](https://www.youtube.com/watch?v=NMWqW6z__hQ) | [全文](../corpus/videos/20240402-NMWqW6z__hQ.md) | 本人主讲 |
 | 2024-03-29 | [程序员开餐馆，真实经历、心态、历练分享｜生意是道场｜会员专属](https://www.youtube.com/watch?v=GTAx2waEFdk) | [全文](../corpus/videos/20240329-GTAx2waEFdk.md) | 会员 · 对话 |
 | 2024-03-28 | [MIT教授vs.康奈尔博士：科学重要吗？｜Kevin教授\_3/3](https://www.youtube.com/watch?v=UlZJd6XpkAQ) | [原稿](../corpus/dialogues/youtube-UlZJd6XpkAQ.json) | 对谈原稿 |
@@ -407,6 +534,7 @@
 | 2024-02-15 | [看懂OpenAI的“指数级领先”｜原标题：我为什么没有加入一家AI公司？](https://www.youtube.com/watch?v=qa_GEsLqTtQ) | [全文](../corpus/videos/20240215-qa_GEsLqTtQ.md) | 本人主讲 |
 | 2024-02-14 | [如何用”玩“来降维打击工作？｜杨帆4/4](https://www.youtube.com/watch?v=t9opGmGaJAI) | [原稿](../corpus/dialogues/youtube-t9opGmGaJAI.json) | 对谈原稿 |
 | 2024-02-12 | [如何理解00后？自媒体有多赚钱？｜杨帆3/4](https://www.youtube.com/watch?v=tGB9IbZhEO0) | [原稿](../corpus/dialogues/youtube-tGB9IbZhEO0.json) | 对谈原稿 |
+| 2024-02-11 | [MIT教授：我能理解,科学尽头是信仰](https://www.youtube.com/watch?v=8ki8e4pj580) | [原稿](../corpus/dialogues/youtube-8ki8e4pj580.json) | 对谈原稿 |
 | 2024-02-10 | [年轻人为什么忽视制造业巨头？｜杨帆2/4](https://www.youtube.com/watch?v=cQxoilIZfTc) | [原稿](../corpus/dialogues/youtube-cQxoilIZfTc.json) | 对谈原稿 |
 | 2024-02-09 | [理性恋爱为什么是死胡同？｜Know Yourself的三个机会：房子、工作、恋爱](https://www.youtube.com/watch?v=D5w9R0jqWvc) | [全文](../corpus/videos/20240209-D5w9R0jqWvc.md) | 会员 · 本人主讲 |
 | 2024-02-08 | [如何越级搞定大佬？｜杨帆1/4](https://www.youtube.com/watch?v=DCwVgje4JZA) | [原稿](../corpus/dialogues/youtube-DCwVgje4JZA.json) | 对谈原稿 |
@@ -433,7 +561,7 @@
 | 2024-01-04 | [帮你提升AI能力的项链？](https://www.youtube.com/watch?v=Cj5R_l3jI_Q) | [全文](../corpus/videos/20240104-Cj5R_l3jI_Q.md) | 本人主讲 |
 | 2024-01-02 | [如何取得老板的帮助和培养？｜课代表的神仙老板们](https://www.youtube.com/watch?v=Tk49xo6i-04) | [全文](../corpus/videos/20240102-Tk49xo6i-04.md) | 公开 · 对话 |
 
-## 2023（194 条）
+## 2023（196 条）
 
 | 日期 | 视频 | 字幕 | 类型 |
 | --- | --- | --- | --- |
@@ -506,6 +634,7 @@
 | 2023-10-06 | [提升运气秘籍！](https://www.youtube.com/watch?v=Wk0Ne1kx9rQ) | [全文](../corpus/videos/20231006-Wk0Ne1kx9rQ.md) | 本人主讲 |
 | 2023-10-04 | [满分征友启事！](https://www.youtube.com/watch?v=JZCoScCpxL0) | [原稿](../corpus/dialogues/youtube-JZCoScCpxL0.json) | 对谈原稿 |
 | 2023-10-03 | [对ChatGPT的神预言是如何做出的？](https://www.youtube.com/watch?v=DmZqpGm6Wdw) | [原稿](../corpus/dialogues/youtube-DmZqpGm6Wdw.json) | 对谈原稿 |
+| 2023-10-03 | [拍正脸好看秘籍！](https://www.youtube.com/watch?v=plBmN7zxiyc) | [原稿](../corpus/dialogues/youtube-plBmN7zxiyc.json) | 对谈原稿 |
 | 2023-10-02 | [约会给人坏体验，有何不可？\| @charisma-Leo 4/4](https://www.youtube.com/watch?v=UsMKU7qcywY) | [原稿](../corpus/dialogues/youtube-UsMKU7qcywY.json) | 对谈原稿 |
 | 2023-10-02 | [「新鲜」值得追求吗？](https://www.youtube.com/watch?v=qor_Zlu4fRw) | [全文](../corpus/videos/20231002-qor_Zlu4fRw.md) | 会员 · 本人主讲 |
 | 2023-10-01 | [如何区别真假自信？\| @charisma-Leo 3/4](https://www.youtube.com/watch?v=FBodpxppwfc) | [原稿](../corpus/dialogues/youtube-FBodpxppwfc.json) | 对谈原稿 |
@@ -591,6 +720,7 @@
 | 2023-06-19 | [硅谷程序员的消费观，奇葩还是通透？](https://www.youtube.com/watch?v=LBSW6OqGMCM) | [全文](../corpus/videos/20230619-LBSW6OqGMCM.md) | 会员 · 对话 |
 | 2023-06-15 | [原来有意义的人生这么短？｜Mutiple-Fire系列](https://www.youtube.com/watch?v=u4DpfGx-9i0) | [全文](../corpus/videos/20230615-u4DpfGx-9i0.md) | 公开 · 对话 |
 | 2023-06-10 | [想清楚这些，才能成为财富的主人｜Multiple-Fire系列](https://www.youtube.com/watch?v=AqQ6HQXFueE) | [全文](../corpus/videos/20230610-AqQ6HQXFueE.md) | 公开 · 对话 |
+| 2023-06-06 | [Vision Pro太便宜，小扎却太穷](https://www.youtube.com/watch?v=l3B7l9F8zBE) | — | 只有目录 |
 | 2023-06-05 | [Web3其实是二次元？｜如何判断新技术？](https://www.youtube.com/watch?v=uO8LTlmyfGk) | [全文](../corpus/videos/20230605-uO8LTlmyfGk.md) | 本人主讲 |
 | 2023-05-30 | [如何通过沟通，让老板主动帮你？](https://www.youtube.com/watch?v=N4AI18kDvWI) | [全文](../corpus/videos/20230530-N4AI18kDvWI.md) | 本人主讲 |
 | 2023-05-23 | [如何摆脱无意义的工作？｜Multiple-Fire系列](https://www.youtube.com/watch?v=dlv97OHFnGY) | [全文](../corpus/videos/20230523-dlv97OHFnGY.md) | 公开 · 对话 |

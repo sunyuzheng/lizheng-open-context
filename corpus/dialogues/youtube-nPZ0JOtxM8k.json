@@ -1,0 +1,329 @@
+{
+  "author": "说话人待核",
+  "content_origin": "mixed-or-unresolved-speech",
+  "data_layer": "raw",
+  "evidence_role": "speaker-attributed-speech",
+  "generation_method": "local-caption-copy",
+  "id": "youtube-nPZ0JOtxM8k",
+  "inclusion_authorization": "maintainer-request-2026-11-12-public-shorts",
+  "language": "zh",
+  "license": "LicenseRef-Lizheng-Reference-Use-1.0",
+  "original_author": "说话人待核",
+  "public_verified_at": "2026-11-12T23:58:12.222213+00:00",
+  "published_at": "2025-03-09",
+  "publisher": "Yuzheng Sun",
+  "quality": {
+    "ai_text_processing_verified": false,
+    "caption_origin": "local-archive",
+    "caption_sha256": "daa9a2ff69141bc720deb7b933f0d562cf6f153ed5ba1b35ff9ec7e952bdf0c4",
+    "caption_units_sha256": "01aadc62aa9a517477130cafa99923b869bffebb3395465c12db3fccb41d1bed",
+    "complete_speech_coverage_verified": false,
+    "full_precision_certified": false,
+    "human_audio_review": false,
+    "local_source_kind": "archive-local-corrected",
+    "method": "local-caption-copy",
+    "new_text_rewrite": false,
+    "original_source_sha256": "daa9a2ff69141bc720deb7b933f0d562cf6f153ed5ba1b35ff9ec7e952bdf0c4",
+    "shorts_receipt_sha256": "0ede76ca08f12009c50ae9ba53af8c3205e0e38b7ca2dd2bd192b9f5f05b9504",
+    "source_association_reviewed": true,
+    "source_binding_receipt_sha256": "612423d6db7ca99fd23722b44c73751c5b6a9e0985de2e3fbef24df62d39d0c6",
+    "unresolved_count": 31
+  },
+  "rights_scope": "publisher-authorized-transcript",
+  "schema_version": 1,
+  "source_context": "Unmodified local archive caption copy associated with this public Shorts video by an exact review receipt. Not a platform caption or upload claim; no new text rewrite or full audio review. Speakers remain unresolved unless separately attributed.",
+  "source_duration_seconds": 95,
+  "source_family": "https://www.youtube.com/watch?v=nPZ0JOtxM8k",
+  "source_type": "video-transcript",
+  "source_url": "https://www.youtube.com/watch?v=nPZ0JOtxM8k",
+  "source_visibility": "public",
+  "speaker_classification": "mixed-or-unresolved",
+  "text_access": "public",
+  "timestamp_mode": "youtube",
+  "title": "不要做自作聪明的傻瓜",
+  "transcript_quality": "source-unverified",
+  "transcript_source_kind": "local-caption-copy",
+  "units": [
+    {
+      "end_seconds": 3.67,
+      "id": "cue-1",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 0.4,
+      "text": "我在前一篇文章里边最后说觉得 Manos"
+    },
+    {
+      "end_seconds": 7.696,
+      "id": "cue-2",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 3.8449999999999998,
+      "text": "的爆火是因为团队背后在做营销的那些人是"
+    },
+    {
+      "end_seconds": 11.856,
+      "id": "cue-3",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 7.696,
+      "text": "一群自作聪明的傻瓜说了这句话很多人就不服"
+    },
+    {
+      "end_seconds": 14.943999999999999,
+      "id": "cue-4",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 11.856,
+      "text": "啊就是说克莱伯你凭什么说这种话你怎么知道"
+    },
+    {
+      "end_seconds": 17.504,
+      "id": "cue-5",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 14.943999999999999,
+      "text": "他们没有是做营销虽然我跟团队的创始人和"
+    },
+    {
+      "end_seconds": 20.24,
+      "id": "cue-6",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 17.504,
+      "text": "投资人有很多交流但是这不需要任何的"
+    },
+    {
+      "end_seconds": 23.116,
+      "id": "cue-7",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 20.24,
+      "text": "内幕消息就可以直接从公开信息推论出因为"
+    },
+    {
+      "end_seconds": 25.169,
+      "id": "cue-8",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 23.267,
+      "text": "Metales 背后的模型是"
+    },
+    {
+      "end_seconds": 28.618,
+      "id": "cue-9",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 25.31,
+      "text": "Claude 三点七这个模型在国内是不"
+    },
+    {
+      "end_seconds": 31.354,
+      "id": "cue-10",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 28.618,
+      "text": "可以用的所以说 Metales 的团队从"
+    },
+    {
+      "end_seconds": 32.722,
+      "id": "cue-11",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 31.354,
+      "text": "一开始做的就是一款"
+    },
+    {
+      "end_seconds": 36.29,
+      "id": "cue-12",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 32.722,
+      "text": "海外产品他们并没有打算做国内市场所以说"
+    },
+    {
+      "end_seconds": 39.522,
+      "id": "cue-13",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 36.29,
+      "text": "国内市场的爆火把他们的服务器给挤爆然后"
+    },
+    {
+      "end_seconds": 42.73,
+      "id": "cue-14",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 39.522,
+      "text": "这么多人去使用对他们来说其实并不是他们"
+    },
+    {
+      "end_seconds": 46.492,
+      "id": "cue-15",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 42.73,
+      "text": "理想中的结果你们最近去看团队的各种注意力"
+    },
+    {
+      "end_seconds": 49.536,
+      "id": "cue-16",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 46.492,
+      "text": "也都是在海外市场和海海外的 KOL 里边"
+    },
+    {
+      "end_seconds": 52.387,
+      "id": "cue-17",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 49.536,
+      "text": "那我们也看到了这个周末海外这些拿到邀请码"
+    },
+    {
+      "end_seconds": 55.092,
+      "id": "cue-18",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 52.387,
+      "text": "的 KOL 们也完全被 Manos 的"
+    },
+    {
+      "end_seconds": 57.812,
+      "id": "cue-19",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 55.092,
+      "text": "能力所惊艳我现在就在用 Manos 做"
+    },
+    {
+      "end_seconds": 61.804,
+      "id": "cue-20",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 57.812,
+      "text": "一个我的工作就是把我课件里边的呃视频截图"
+    },
+    {
+      "end_seconds": 64.524,
+      "id": "cue-21",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 61.804,
+      "text": "去用图像识别的方式识别出来并且"
+    },
+    {
+      "end_seconds": 67.598,
+      "id": "cue-22",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 64.524,
+      "text": "去跟 B 站搜索匹配然后加上 URL 这"
+    },
+    {
+      "end_seconds": 70.119,
+      "id": "cue-23",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 67.598,
+      "text": "其实是一个不太简单的工作但是 Musk"
+    },
+    {
+      "end_seconds": 73.18,
+      "id": "cue-24",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 70.241,
+      "text": "完成的很好而这个工作我会交给那些开源软件"
+    },
+    {
+      "end_seconds": 75.748,
+      "id": "cue-25",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 73.18,
+      "text": "吗并不会因为那些开源软件除了浪费我的时间"
+    },
+    {
+      "end_seconds": 78.829,
+      "id": "cue-26",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 75.748,
+      "text": "并不能带来真正的效果那些才是真正蹭热度的"
+    },
+    {
+      "end_seconds": 81.693,
+      "id": "cue-27",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 78.829,
+      "text": "东西而 Manos 是一个认认真真"
+    },
+    {
+      "end_seconds": 85.373,
+      "id": "cue-28",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 81.693,
+      "text": "认认真真做产品的东西我在上一篇文章里边也"
+    },
+    {
+      "end_seconds": 88.189,
+      "id": "cue-29",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 85.373,
+      "text": "有讲得很清楚我不觉得 Manos 团队"
+    },
+    {
+      "end_seconds": 90.981,
+      "id": "cue-30",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 88.189,
+      "text": "一定是走到最后的那个团队但是我觉得这条路"
+    },
+    {
+      "end_seconds": 94.733,
+      "id": "cue-31",
+      "speaker_id": "unknown",
+      "speaker_name": "",
+      "speaker_status": "unresolved",
+      "start_seconds": 90.981,
+      "text": "是一条正确的路径走上这条路才是最重要的"
+    }
+  ],
+  "video_id": "nPZ0JOtxM8k",
+  "yuzheng_stance_weight": "not-evidence"
+}

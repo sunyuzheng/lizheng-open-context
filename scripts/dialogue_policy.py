@@ -14,6 +14,7 @@ from validate_guest_catalog import CATALOG_FIELDS, appearance_participants, prog
 
 AUTHORIZATION = "maintainer-request-2026-10-10-dialogue-transcripts"
 INTERVIEW_AUTHORIZATION = "maintainer-request-2026-11-01-interview-evidence"
+SHORTS_AUTHORIZATION = "maintainer-request-2026-11-12-public-shorts"
 EXTERNAL_AUTHORIZATION = "maintainer-request-2026-10-15-guest-podcasts"
 RECENT_EXTERNAL_AUTHORIZATION = "maintainer-request-2026-10-29-recent-guest-podcasts"
 LIURUN_EXTERNAL_AUTHORIZATION = "maintainer-request-2026-11-10-liurun-reading-club"
@@ -108,13 +109,13 @@ def validate_external_dialogue(root, row, participants, protected_ids=frozenset(
 
 def validate_quality(data):
     quality = data.get("quality", {})
-    if quality.get("method") in {"publisher-captions", "platform-auto-captions"}:
+    if quality.get("method") in {"publisher-captions", "platform-auto-captions", "local-caption-copy"}:
         # An exact published caption copy is useful without pretending that AI
         # or a human has listened to every word. Speaker review is separate.
         method = quality["method"]
         if (data.get("generation_method") != method
                 or data.get("transcript_source_kind") != method.replace("captions", "timed-captions")
-                or data.get("transcript_quality") != method + "-unverified"
+                or data.get("transcript_quality") != ("source-unverified" if method == "local-caption-copy" else method + "-unverified")
                 or not isinstance(data.get("source_duration_seconds"), (int, float))
                 or not 0 < data["source_duration_seconds"] < float("inf")
                 or any(u["end_seconds"] > data["source_duration_seconds"] + 3 for u in data["units"])
@@ -122,6 +123,12 @@ def validate_quality(data):
                 or not HASH.fullmatch(str(quality.get("caption_sha256", "")))
                 or quality.get("caption_units_sha256") != digest(unknown_units(data["units"]))):
             raise ValueError("publisher_caption_provenance_invalid")
+        if method == "local-caption-copy" and (
+                quality.get("new_text_rewrite") is not False
+                or quality.get("ai_text_processing_verified") is not False
+                or quality.get("source_association_reviewed") is not True
+                or not HASH.fullmatch(str(quality.get("source_binding_receipt_sha256", "")))):
+            raise ValueError("local_caption_copy_provenance_invalid")
         return
     if (quality.get("ai_text_processing_verified") is not True or quality.get("root_edit_review_verified") is not True
             or quality.get("human_audio_review") is not False or quality.get("full_precision_certified") is not False
@@ -129,6 +136,81 @@ def validate_quality(data):
             or type(quality.get("unresolved_count")) is not int or quality["unresolved_count"] < 0
             or any(not HASH.fullmatch(str(quality.get(key, ""))) for key in ("original_source_sha256", "root_output_sha256", "root_receipt_sha256"))):
         raise ValueError("dialogue_quality_overclaim_or_missing_proof")
+
+
+def validate_public_short(data, row):
+    """Bind a caption snapshot to an owner-channel public Shorts listing, not an interview."""
+    identity = data["video_id"]
+    quality = data.get("quality", {})
+    evidence = row.get("shorts_evidence", {})
+    if (set(evidence) != {"video_id", "channel_id", "source_url", "verified_at", "receipt_sha256", "present"}
+            or evidence.get("video_id") != identity or evidence.get("channel_id") != CHANNEL
+            or evidence.get("source_url") != f"https://www.youtube.com/channel/{CHANNEL}/shorts"
+            or evidence.get("present") is not True
+            or not HASH.fullmatch(str(evidence.get("receipt_sha256", "")))
+            or quality.get("shorts_receipt_sha256") != evidence["receipt_sha256"]
+            or type(data.get("source_duration_seconds")) not in (int, float)
+            or not 0 < data["source_duration_seconds"] < float("inf")):
+        raise ValueError("public_short_listing_or_duration_invalid")
+    verified = datetime.fromisoformat(evidence["verified_at"].replace("Z", "+00:00"))
+    if verified.tzinfo is None:
+        raise ValueError("public_short_listing_or_duration_invalid")
+    caption = row.get("caption_evidence", {})
+    if (set(caption) != {"video_id", "method", "origin", "caption_sha256", "info_sha256"}
+            or caption.get("video_id") != identity
+            or caption.get("method") != quality.get("method")
+            or (caption.get("method"), caption.get("origin")) not in {
+                ("publisher-captions", "platform"), ("publisher-captions", "uploaded-local"),
+                ("platform-auto-captions", "platform"), ("local-caption-copy", "local-archive")}
+            or quality.get("caption_origin") != caption["origin"]
+            or not HASH.fullmatch(str(caption.get("caption_sha256", "")))
+            or caption["caption_sha256"] != quality.get("caption_sha256")
+            or caption["caption_sha256"] != quality.get("original_source_sha256")
+            or not HASH.fullmatch(str(caption.get("info_sha256", "")))
+            or caption["info_sha256"] != row.get("anonymous_evidence", {}).get("receipt_sha256")):
+        raise ValueError("public_short_caption_binding_invalid")
+    upload = row.get("upload_binding")
+    if caption["origin"] == "uploaded-local":
+        if (caption["method"] != "publisher-captions" or not isinstance(upload, dict)
+                or set(upload) != {"video_id", "caption_sha256", "status", "platform", "verified_at", "receipt_sha256"}
+                or upload.get("video_id") != identity or upload.get("caption_sha256") != caption["caption_sha256"]
+                or upload.get("status") != "uploaded" or upload.get("platform") != "youtube"
+                or not HASH.fullmatch(str(upload.get("receipt_sha256", "")))):
+            raise ValueError("public_short_upload_binding_invalid")
+        if datetime.fromisoformat(upload["verified_at"].replace("Z", "+00:00")).tzinfo is None:
+            raise ValueError("public_short_upload_binding_invalid")
+    elif upload is not None:
+        raise ValueError("public_short_upload_binding_invalid")
+    source = row.get("source_binding")
+    if caption["origin"] == "local-archive":
+        if (not isinstance(source, dict)
+                or set(source) != {"video_id", "caption_sha256", "association_basis", "source_kind", "reviewed_at", "public_metadata_sha256", "receipt_sha256"}
+                or source.get("video_id") != identity or source.get("caption_sha256") != caption["caption_sha256"]
+                or source.get("public_metadata_sha256") != caption["info_sha256"]
+                or not isinstance(source.get("association_basis"), str) or not 0 < len(source["association_basis"].strip()) <= 500
+                or re.search(r"/Users/|/Volumes/|file://", source["association_basis"])
+                or not isinstance(source.get("source_kind"), str) or not re.fullmatch(r"[a-z0-9][a-z0-9_-]{0,79}", source["source_kind"])
+                or not HASH.fullmatch(str(source.get("receipt_sha256", "")))
+                or quality.get("source_binding_receipt_sha256") != source["receipt_sha256"]
+                or quality.get("local_source_kind") != source["source_kind"]):
+            raise ValueError("public_short_local_source_binding_invalid")
+        if datetime.fromisoformat(source["reviewed_at"].replace("Z", "+00:00")).tzinfo is None:
+            raise ValueError("public_short_local_source_binding_invalid")
+    elif source is not None:
+        raise ValueError("public_short_local_source_binding_invalid")
+    parent = row.get("parent_binding")
+    family = data["source_url"]
+    if parent is not None:
+        if (not isinstance(parent, dict) or set(parent) != {"video_id", "parent_url", "verified_at", "receipt_sha256"}
+                or parent.get("video_id") != identity
+                or not re.fullmatch(r"https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11}", str(parent.get("parent_url", "")))
+                or not HASH.fullmatch(str(parent.get("receipt_sha256", "")))):
+            raise ValueError("public_short_parent_binding_invalid")
+        if datetime.fromisoformat(parent["verified_at"].replace("Z", "+00:00")).tzinfo is None:
+            raise ValueError("public_short_parent_binding_invalid")
+        family = parent["parent_url"]
+    if data.get("source_family") != family:
+        raise ValueError("public_short_parent_binding_invalid")
 
 
 def validate_dialogues(root: Path, member_ids: set[str], errors: list[str]) -> dict:
@@ -184,7 +266,13 @@ def validate_dialogues(root: Path, member_ids: set[str], errors: list[str]) -> d
                 raise ValueError("dialogue_identity_mismatch")
             expected = dict(PROVENANCE)
             method = data.get("quality", {}).get("method")
-            if method in {"publisher-captions", "platform-auto-captions"}:
+            is_short = row.get("programme_type") == "short"
+            if is_short:
+                validate_public_short(data, row)
+                expected.update(generation_method=method, transcript_source_kind=method.replace("captions", "timed-captions"),
+                                transcript_quality="source-unverified" if method == "local-caption-copy" else method + "-unverified",
+                                inclusion_authorization=SHORTS_AUTHORIZATION)
+            elif method in {"publisher-captions", "platform-auto-captions"}:
                 expected.update(generation_method=method, transcript_source_kind=method.replace("captions", "timed-captions"),
                                 transcript_quality=method + "-unverified", inclusion_authorization=INTERVIEW_AUTHORIZATION)
                 if row.get("programme_type") != "interview":
@@ -192,7 +280,7 @@ def validate_dialogues(root: Path, member_ids: set[str], errors: list[str]) -> d
             if any(data.get(key) != value for key, value in expected.items()):
                 raise ValueError("dialogue_provenance_or_access_mismatch")
             if (data.get("source_url") != f"https://www.youtube.com/watch?v={identity}"
-                    or data.get("source_family") != data["source_url"]
+                    or (not is_short and data.get("source_family") != data["source_url"])
                     or not isinstance(data.get("title"), str) or not data["title"].strip()
                     or data.get("language") not in {"zh", "en", "mixed"}):
                 raise ValueError("dialogue_source_metadata_missing")
