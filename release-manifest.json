@@ -81,7 +81,7 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 946
+      "files": 947
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
@@ -133,8 +133,8 @@
     },
     {
       "path": "INDEX.md",
-      "bytes": 10647,
-      "sha256": "9c9eed47f104803b741983cd61096fc994314bad4317599fa5c37868b7dde504",
+      "bytes": 10800,
+      "sha256": "cbb1a70aa7084752d75cd2a202d73b90dfe4c421e6712c453d587551223363c1",
       "license": "CC0-1.0"
     },
     {
@@ -567,6 +567,12 @@
       "path": "context/recent-reading-map.md",
       "bytes": 4657,
       "sha256": "be9b175a07d7c593f725414d24ec7ea459f12c3193313008a76caa0a6179131c",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "context/superlinear-courses-map.md",
+      "bytes": 38051,
+      "sha256": "a34002c3b12c86344a7df0e32d0ccc8ad6a049242c2f2206164f7fd5ea62d143",
       "license": "CC-BY-4.0"
     },
     {

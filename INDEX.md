@@ -22,7 +22,7 @@
 | 英文文章：源于立正 | 11 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 | 英文文章：其他作者 | 39 篇 | [英文资料](index/english.md) | [corpus/english-community/](corpus/english-community/) | [原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md) |
 | 英文 AI 译稿 | 76 份 | [英文资料](index/english.md) | [corpus/english-translations/](corpus/english-translations/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
-| AI 整理与《真本事》框架 | 34 份 | [见下文](#ai-整理与真本事框架) | [context/](context/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
+| AI 整理与《真本事》框架 | 35 份 | [见下文](#ai-整理与真本事框架) | [context/](context/) | [CC BY 4.0](LICENSES/CC-BY-4.0.txt) |
 
 许可的意思：[CC BY 4.0](LICENSES/CC-BY-4.0.txt)注明作者和出处即可转载、改编、商用；[立正参考使用许可](LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md)可以阅读、搜索、放进不收费的 AI 问答工具和短引用，不能整篇转载、收费使用或训练模型；[原作者保留](LICENSES/LicenseRef-Original-Rights-Retained.md)只供阅读和检索参考。
 
@@ -72,6 +72,7 @@
 - [Yuzheng Sun / 立正公开简介](context/public-profile.md)
 - [近期做客访谈：工作、赚钱、自由与自己的事业](context/recent-guest-appearances-20261029.md)
 - [近期问题与阅读地图：从公开观点到自己的处境](context/recent-reading-map.md)
+- [课代表立正教什么：超线性学院的课程地图（AI Builders 2027三门课、会员与常见问题）](context/superlinear-courses-map.md)
 - [塑造价值观的对话：阅读地图](context/values-conversations-map.md)
 - [《真本事》完整框架参考 V1](context/zhenbenshi-frameworks.md)
 - [《真本事：从会工作到会赚钱》阅读地图](context/zhenbenshi-reading-map.md)
