@@ -23,15 +23,15 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 
 # 课代表立正教什么：超线性学院的课程地图
 
-这份地图回答「课代表（立正）是教什么的」「AI Builders学什么、怎么学、多少钱」这一类问题，内容截至2026-11-18。课程本身以 [ai-builders.com](https://ai-builders.com) 和课程细节页 [ai-builders.com/curriculum](https://ai-builders.com/curriculum) 为准；价格、会员期限这类会变的事实，回答时要提醒以付款页为准。社区里2026年11月以前的课程帖讲的是当时的课程结构，哪些说法已经换了，见文末「已经过时的说法」。
+这份地图回答「课代表（立正）是教什么的」「AI Builders学什么、怎么学、多少钱」这一类问题，内容截至2026-11-18。课程本身以 [ai-builders.com](https://ai-builders.com) 和课程细节页 [ai-builders.com/curriculum](https://ai-builders.com/curriculum) 为准；价格、会员期限这类会变的事实，回答时要提醒以付款页为准。社区里2026年11月以前的课程帖讲的是当时的课程结构，哪些说法已经换了，见文末「已经过时的课程说法」。这份地图跟着课程站更新：课程结构、价格或权益变了，以课程站为准改这份文件。
 
-## 一句话回答
+## 课代表是教什么的：一句话回答
 
 立正和鸭哥一起教AI，课叫 **AI Builders 2027**，是一套三门的自学课：AI Coding（一个晚上上手）、AI Builders（核心课，约40小时）、AI Architect（做一个自己的AI应用）。课里不教会过期的提示词和工具清单，教的是用好AI真正靠的那层判断：技术直觉（知道AI容易在哪出错）和产品直觉（知道什么值得做），而且带人在自己的真事上动手，把它练出来。
 
 立正自己另外讲工作和赚钱：《真本事：从会工作到会赚钱》是他的书，也是会员课程（见[《真本事》阅读地图](zhenbenshi-reading-map.md)）。除此之外，他在YouTube「课代表立正」和播客上与150多位嘉宾公开对话，和鸭哥在 [Knowledge Bank](https://www.superlinear.academy/c/ai-resources) 免费公开写AI文章。
 
-## 想学什么，去哪里
+## 超线性学院有哪些课和产品：想学什么，去哪里
 
 | 想要 | 去哪里 | 谁讲 | 收费 |
 | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 | 要固定节奏、英文现场上课 | Maven英文直播班（[maven.com/superlinear/aibuilders](https://maven.com/superlinear/aibuilders)） | 立正、鸭哥 | 单独报名 |
 | 带团队学 | 企业培训、团队购课、专属班、课程定制 | 立正、鸭哥 | 按方案报价 |
 
-## AI Builders 2027教什么
+## AI Builders 2027教什么：水面下的判断
 
 ### 课从一个问题开始：同样的AI，为什么有人用得更好？
 
@@ -93,7 +93,7 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 - **课会一直改。** 教了三年、改了14期，一次购买包含以后的每次更新。
 - 立正在[《当知识获取的门槛降为零时，为什么我们还需要付费课程？》](https://www.superlinear.academy/c/main/free-vs-buy)（2026-01-05）里讲过他自己的理由：这门课面向的人只有一个本质标签，Builder，要有行动力、判断力和成长型思维；市面上很多内容的问题不是说错，而是夸大框架和工具的作用、用玩具项目制造成就感、追求大而全；课程不是图书馆，而是教练和健身房，要改变的是思维方式和习惯，掌握自学的习惯和信心比喂知识重要。原文见[社区帖](../corpus/community-posts/20260105-free-vs-buy-28297076.md)。
 
-## 三门课分别学什么
+## AI Coding、AI Builders、AI Architect三门课分别学什么
 
 ### 01 · AI Coding · 上手课 · 一个晚上
 
@@ -116,7 +116,7 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 | 模块 | 以前 | 学完 | 这一模块的课目 |
 | --- | --- | --- | --- |
 | 模块1 · 工具一样，结果天差地别 | AI改了好几轮还不对，以为是提示词不够好 | 先说清楚怎样才算做好，再让它动手；返工少了，错也少了 | 先说清楚怎样才算整理好；提示词抄得走，判断抄不走；先做减法；让AI当陪练，不当替身；对整件事的结果负责；长尾：一个人就能做的软件 |
-| 课程项目 · 连接GUI与API | | 五个小项目，借助AI每个十分钟内能做完，附点评与答疑录像 | 抓取会议官网数据；下载账号图片；用Bookmarklet增强网页搜索；用模型分析图像；自动化网页里的图形界面操作 |
+| 课程项目 · 连接GUI与API | 放在模块1和模块2之间的练手 | 五个小项目，借助AI每个十分钟内能做完，附点评与答疑录像 | 抓取会议官网数据；下载账号图片；用Bookmarklet增强网页搜索；用模型分析图像；自动化网页里的图形界面操作 |
 | 模块2 · 上下文工程（让AI熟悉你的工作） | 每开一个新对话，都要从头交代一遍 | 人名、规矩和你的看法，写进它每次都会先读的文件；交代一次，以后都记得 | 从聊天框搬进工作区；哪些写进代码、哪些留给上下文；把背景事实变成可维护的文件；把操作规程写成可复用的Skill；把个人视角沉淀进工作区；回流与记忆治理；名义窗口与有效上下文；渐进式披露与检索；用上下文隔离分工 |
 | 模块3 · AI管理学（让AI按标准交付） | AI十次对八次，剩下两次只能一条条盯着找 | 不用逐字重看，也知道它做对了；一小时的活，写清交上来要满足哪几条，就能整段交给它 | AI不是计算器；先定义成功：数据集、指标、基线；写检分离：评委不能是作者；可观测性；从修bug的人到教练；把教练过程沉淀成SOP；长程委派：把终点写成标准而不是步骤；用证据放权；自我调优闭环；数据飞轮；部署成网页版 |
 | 模块4 · AI给答案，你来选 | 教程和AI给什么方案，就挑一个用 | 分得清像样和靠谱；还会自己挑一件值得做的事，做给真实的人用 | 你的判断从哪里来；用可证伪的预测校准判断；如果AI也在学判断，留给人的是什么；出题：押注什么，为谁而做；做出有人要的东西；收到真实反馈后怎么改、什么不自己做；毕业项目与课程回顾 |
@@ -138,7 +138,7 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 - **案例与工作实况：** 什么时候不该用AI；学员在三星手表上做Aha Catcher；两段立正和鸭哥真实干活、边做边说为什么这么判断的工作实况。
 - **一个毕业项目的样子：** 学员Ye想给听力受损的外婆做一个降调App，AI推荐的复杂语音模型折腾几小时没跑通，鸭哥先用几十行Python验证了方向；她最后部署上线，留下42次代码提交和完整复盘。社区里已有55个公开分享的AI Architect课程项目（[汇总](https://www.superlinear.academy/c/share-your-projects/ai-architect-summary)）。
 
-## 课里的内容长什么样（公开节选）
+## AI Builders课程内容长什么样：公开节选
 
 课程细节页 [ai-builders.com/curriculum](https://ai-builders.com/curriculum) 上放了四段主课里的东西，都能直接看：
 
@@ -147,7 +147,7 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 - **教材3.7节的实验：** 同一个模型整理一场55分钟的会议录音，中英文各做3次。照详细步骤做，6次里0次达标；只写清5条成品必须满足的标准，6次都达标。说明长任务要把终点写成标准，而不是把步骤写得更细。
 - **模块4导读视频32:28起的3分钟，「AI为什么会有智能？」：** 立正的三层推演：知识是点之间的连线；能解释数据的最短规则在新情况上最管用（他引用Ilya Sutskever在MIT的讲座，那场讲座是2018年的，录像里口误说成2016年），所以压缩就是泛化；学习建立在已知的东西上。页面上的概括是「智能来自压缩，而不是推理」。
 
-## 怎么学
+## 课程怎么学：自学、顺序、卡住了在哪问
 
 - **自学：** 买了马上开通，不追统一进度，按自己的时间学，课程永久保留。
 - **顺序：** AI Coding → AI Builders → AI Architect。工作忙的人，第一晚只做AI Coding，接着把AI Builders的方法用进一个正在发生的工作瓶颈，最后再为AI Architect挑一个值得长期投入的项目。
@@ -157,26 +157,26 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 - **人在国内：** 能学。最好能用上Claude Code或Codex；用不了的话，换成DeepSeek这类国内能直接用的模型也可以，学的方法是一样的。
 - **证书：** 完成AI Builders中文版、AI Architect中文版，分别领取中英双语的课程结业证书。
 
-## 适合谁
+## 适合谁：零基础、不会编程、程序员能不能学
 
 - 已经有工作或专业积累，想把AI真正用进自己领域的人；想跟上AI、但不想把时间耗在天天追工具上的人；想做出作品、改善工作、拓展职业或创业机会的人。技术和非技术背景都可以，前提是愿意带着真实问题动手、检查和修改。
 - **没写过代码：** 课程站原话：「不用会写代码，一样能驾驭AI、做出好产品。AI是门新技术。我们技术背景深，能替你判断哪些要学，并把它讲到你懂。简单理解，学完以后，资深程序员做得出的东西，你也做得出（做不出的随时来社区问我们）。」这里承诺的是做得出东西，不是有了资深程序员的水平。
 - **天天写代码：** 课程站原话：「AI能写代码了，决定程序员水平的是架构思维和工程管理。这门课帮你放下什么都自己写的习惯：你当管理者，AI来动手，把生产力解放出来。」
 - **可能用不着这门课的人：** 如果你已经能持续做到三件事：看见以前看不见的机会、判断哪件事最值得投入、把AI组织成一个可靠的作品或系统，那未必需要这门课；如果这些现在仍然部分靠运气，课程补的正是这一层。
 
-## 谁在教
+## 谁在教：立正和鸭哥
 
 - **立正（孙煜征），讲产品直觉：** 什么值得做、谁需要、什么才算好。Cornell经济学博士；曾任Amazon经济学家、Meta数据科学家、腾讯IEG数据与AI副总监（带过30人团队）、Statsig Principal Data Scientist与唯一布道师，Statsig后来被OpenAI收购；创办超线性学院；与150多位嘉宾公开对话。他的个人主页是 [lizheng.ai](https://www.lizheng.ai/)。
 - **鸭哥（王言），讲技术直觉：** 该给AI什么、它容易在哪出错、出了错怎么查。Columbia电气工程博士；论文近40篇，研究发表于CVPR、NeurIPS、KDD等AI顶会，3,000+引用；长期做AI研究、工程、Agent与开源；AI出现之前，他每年手写几十万行代码。会员区的Deep News也是他维护的。
 - 两人用的工具和学员一样，课上把每个决定摊开讲。他们在腾讯、美团、小红书、Pinterest和DoorDash做过AI培训与内部分享，详见 [ai-builders.com/teachers](https://ai-builders.com/teachers)。问问立正本身也是例子：一个人做的AI应用，以前要四个人；它的六个关键决定，各对应AI Architect里的一课。
 
-## 学员和评价
+## 学员和评价：学完做成了什么
 
 - **规模：** 3,000+付费学员，既有一线科技公司，也有各行各业；学员来自OpenAI、Anthropic、Google、Meta、Amazon、腾讯、字节、阿里等公司。这说的是学员个人的任职背景，不是这些公司的背书或采购。
 - **评价：** Maven英文直播班公开评分5.0。课程站 [ai-builders.com/reviews](https://ai-builders.com/reviews) 如实展示Maven上公开的全部59条具名文字评价的中文翻译，没有任何删减（2026-11-17核对）。说评价时都以「Maven上公开的」为准。直播班和自学版的核心课程是同一套。
 - **学员做成了什么（个人经历，各人的结果不一样）：** venus，文科生，第一个付费项目$30,000，给一家中小企业做流程自动化；彭八，高校行政岗、不会写代码，两个月做出全校实训室系统，359间实训室的档案在线可查；Cheng，新手妈妈，等宝宝睡着后用七个晚上做出帮家长找亲子活动的网页应用。更多见 [ai-builders.com/students](https://ai-builders.com/students) 和 [ai-builders.com/projects](https://ai-builders.com/projects)。免费社区里有近900个项目分享。
 
-## 课一直在改
+## 课程更新：教了三年、改了14期
 
 教了三年，改了14期，一次购买包含以后的每次更新。几次大的改动：
 
@@ -186,7 +186,7 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 - 2024年：AI Builders最早的演示用GPT做，后来全部用Claude重做了一遍。
 - 另外两门课计划2026年11—12月更新，现在买了都包含。完整记录在 [ai-builders.com/updates](https://ai-builders.com/updates)。
 
-## 买什么、多少钱（截至2026-11-18，以付款页为准）
+## AI Builders 2027多少钱：价格、退款和权益（截至2026-11-18，以付款页为准）
 
 - **买到的东西：** AI Builders 2027完整学习计划，三门课终身权限，以后每次更新都包含，另送12个月Stay Superlinear会员。AI Builders核心课和AI Architect项目课不单独卖。
 - **价格：** 美元$1,048，或人民币¥6,999（人民币用微信／支付宝付款）。北京时间2027年1月1日起，美元价格调整为$1,299。调价放在这一轮课程更新之后，现在买也包含这轮更新。
@@ -195,7 +195,7 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 - **公司报销：** 可以提供中英文课程说明和申请模板，也可以先开一份付款前的未付款Stripe invoice（来信申请，邮箱写在课程站常见问题里）。能不能报销看公司规定；Stripe的invoice和receipt是商业付款凭证，不是中国大陆增值税发票。
 - **刚买了会员又想买课：** 首次购买会员后14天内，先买AI Builders 2027，再联系鸭哥退回这次会员付款、取消对应订阅，不为同一段会员重复付费。
 
-## 会员、免费社区、直播班、企业培训各是什么
+## Stay Superlinear会员、免费社区、Maven直播班、企业培训各是什么
 
 - **免费社区：** 超线性学院（Superlinear Academy）免费社区有3万+成员，可以读立正和鸭哥的Knowledge Bank文章、看成员的真实项目、把自己的作品带来换反馈。免费社区里的项目和普通评论不算付费权益。
 - **Stay Superlinear会员：** 独立的年费会员，让高质量内容、高手判断和同行环境长期在场。会员期内有：每个会员年度12+场由受邀嘉宾主讲的闭门大师课（有回放）；立正和鸭哥每月一次的直播答疑；会员Q&A和会员空间；鸭哥维护的Deep News（每天两三篇，把AI热点拆到底）；AI Coding和《真本事》两门课；AI Builder Space（API聚合和一键部署）和鸭哥精选的Skills。会员不含AI Builders和AI Architect的终身权限。当前方案见 [stay.superlinear.academy](https://stay.superlinear.academy/)。
@@ -204,7 +204,7 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 - **企业与团队：** 先选能解决问题的最简方案。参考起价（美元、未税，以报价为准）：围绕一个真实组织问题的梳理会或内部交流$2,000起；Maven团队购课2–9人八折、10人起七五折；30人起的企业专属班$44,977.50起；基于AI Builders的课程定制在学费之外$20,000起；从业务诊断开始的完整定制项目$100,000起。
 - **个人付费咨询：** 不提供。个人可以免费加入超线性学院，在社区公开提问，立正在社区里免费回答。
 
-## 常见问法
+## 关于课程的常见问题
 
 - **课代表是教什么的？** 和鸭哥一起教AI（AI Builders 2027三门课），重点是用好AI靠的那层判断，带人动手做出东西；立正自己另讲工作和赚钱（《真本事》）。
 - **课代表立正的AI课，就是AI Builders吗？** 是。AI Builders 2027是立正（孙煜征）和鸭哥（王言）共同主讲的完整学习计划，包含AI Coding、AI Builders、AI Architect三门课。AI Builders既是这套计划的品牌，也是其中核心课的名字。它和微软Power Platform里的Microsoft AI Builder不是一回事。
@@ -217,7 +217,7 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 - **学完能找到工作、能赚钱吗？** 课程不保证录用、升职或收入。学员故事都是个人经历，各人的结果不一样；毕业项目是能演示、能讲清构建过程、能写进作品集的东西。
 - **《真本事》和AI课是一回事吗？** 不是。《真本事》讲工作、职业选择和赚钱，是立正的书，也是会员期内的课程；AI Builders 2027讲用AI做出东西。
 
-## 已经过时的说法
+## 已经过时的课程说法：四门课、Agentic AI、两年半
 
 社区旧帖和旧页面里还能看到下面这些，回答现在的问题时以右边为准：
 
@@ -253,6 +253,6 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 - 立正讲课程理念的署名帖：[名词、动词、和手艺——学AI到底在学什么？](../corpus/community-posts/20260415-verb-craft-31691959.md)（2026-04-15）；[为什么还需要付费课程](../corpus/community-posts/20260105-free-vs-buy-28297076.md)（2026-01-05）；[AI User与AI Builder的5个差距](../corpus/community-posts/20260410-ai-mastery-31560179.md)（2026-04-10，产出能不能直接用、能不能系统判断质量、能不能把完整任务交给AI、经验能不能积累成团队资产、AI是执行工具还是思考伙伴）；[From Users to Builders](../corpus/community-posts/20260405-from-users-to-builders-31370169.md)（2026-04-05）；[AI Builders第13轮更新](../corpus/community-posts/20260811-ai-builders-202608-35395434.md)（2026-08-11）；[AI替你做出来以后，你还会什么？哥大客座课程回放](../corpus/community-posts/20261003-columbia-ai-learning-and-judgment-20261002-37077565.md)（2026-10-03）。
 - 讲工作和赚钱：[《真本事》阅读地图](zhenbenshi-reading-map.md)、[《真本事》框架参考](zhenbenshi-frameworks.md)。
 
-## In English
+## In English: what Yuzheng teaches
 
 Yuzheng Sun (立正, known on YouTube as 课代表立正) teaches AI together with Yan Wang (鸭哥). The program is **AI Builders 2027**, three self-paced courses: AI Coding (one evening to start building), AI Builders (the core course, about 40 hours, with a 455-page textbook rewritten in November 2026), and AI Architect (a project course in which each learner builds their own AI application). The courses do not teach prompts and tool lists that go stale. They train the judgment underneath: technical intuition (what to give the model, where it breaks, how to debug it) and product intuition (what is worth building, for whom, and what good looks like), practiced by building on the learner's own problems. One purchase includes lifetime access to all three courses and their future updates, plus 12 months of Stay Superlinear membership. As of 2026-11-18 the price is $1,048 (or ¥6,999), rising to $1,299 on 2027-01-01 Beijing time, with a 14-day no-questions-asked refund; check [ai-builders.com](https://ai-builders.com) for current terms. An English live cohort runs on [Maven](https://maven.com/superlinear/aibuilders). Yuzheng's other teaching, *真本事* (from doing a job well to earning in the market), is a book and a course in the membership.
