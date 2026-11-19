@@ -421,6 +421,30 @@ def blog_page(root: Path) -> str:
     return "\n".join(out) + "\n"
 
 
+def course_pages_page(root: Path) -> str:
+    page = "index/course-pages.md"
+    rows = read_jsonl(root / "catalog/course-pages.jsonl")
+    cc_by = license_link(page, "CC-BY-4.0")
+    body = [[day(row.get("snapshot_at")), cell(row["title"]), f"[{cell(row['url'])}]({row['url']})",
+             link(page, "全文", row["corpus_path"])] for row in rows]
+    out = [
+        GENERATED,
+        "",
+        "# 课程站与会员站页面",
+        "",
+        f"超线性学院官方页面上的文字，共 {len(rows)} 页：课程站（AI Builders 2027 三门课、怎么学、价格、两位老师、常见问题）、课程细节页（每门课练什么、全部课目）和年费会员页。"
+        "这些文字由立正和鸭哥发布，立正确认算他发表的原文；问「现在有哪几门课、各学什么、多少钱」时以这里为准。",
+        "",
+        "- **是快照**：页面会改，每份写明取自哪一天。课程、价格和权益以原页面为准；课程站每次上线后重新导入（`scripts/import_course_pages.py`）。",
+        "- **不收别人的话**：学员评价、学员故事、会员问答案例、推荐语、别人写的教材节选都不收；联系邮箱改成「见原页面」；页面打开时才算出的「下一场」之类标签不收。",
+        f"- **怎么用**：和立正的其他文字一样按{cc_by}使用，署名立正和鸭哥。",
+        f"- **机器可读**：{link(page, 'catalog/course-pages.jsonl', 'catalog/course-pages.jsonl')}；收录规则在 {link(page, 'config/course-pages-policy.json', 'config/course-pages-policy.json')}",
+        "",
+        *table(["快照日期", "页面", "原页面", "全文"], body),
+    ]
+    return "\n".join(out) + "\n"
+
+
 def conversations_page(root: Path) -> str:
     page = "index/values-conversations.md"
     rows = sorted(read_jsonl(root / "catalog/conversation-excerpts.jsonl"), key=lambda row: str(row.get("published_at")))
@@ -471,6 +495,7 @@ def hub_page(root: Path) -> str:
         ["《真本事》课程文字稿", f"{count('course-lessons')} 份", link(page, "按课程顺序", "index/zhenbenshi-course.md"), link(page, "corpus/course-lessons/", "corpus/course-lessons/"), reference],
         ["《Growth Data Analytics Playbook》中文版", f"{count('book-chapters')} 份", link(page, "按章节", "index/growth-data-analytics-playbook-zh.md"), link(page, "corpus/book-chapters/", "corpus/book-chapters/"), reference],
         ["Statsig博客文章中文版", f"{count('blog-posts')} 篇", link(page, "按日期", "index/statsig-blog.md"), link(page, "corpus/blog-posts/", "corpus/blog-posts/"), reference],
+        ["课程站与会员站页面（快照）", f"{count('course-pages')} 页", link(page, "按页面", "index/course-pages.md"), link(page, "corpus/course-pages/", "corpus/course-pages/"), f"{cc_by}；学员评价等别人的话不收"],
         ["社区帖子", f"{count('community-posts')} 篇", link(page, "按年份", "index/community-posts.md"), link(page, "corpus/community-posts/", "corpus/community-posts/"), cc_by],
         ["社区评论", f"{comments} 条", f"[在帖子目录末尾](index/community-posts.md#{comments_anchor})", link(page, "corpus/community-comments/", "corpus/community-comments/"), cc_by],
         ["视频字幕：本人主讲", f"{groups['open-solo']} 份", link(page, "主讲目录", "index/solo-videos.md"), link(page, "corpus/videos/", "corpus/videos/"), cc_by],
@@ -584,6 +609,7 @@ PAGES = {
     "index/values-conversations.md": conversations_page,
     "index/growth-data-analytics-playbook-zh.md": book_page,
     "index/statsig-blog.md": blog_page,
+    "index/course-pages.md": course_pages_page,
     "index/community-posts.md": community_page,
     "index/videos.md": video_page,
     "index/short-videos.md": shorts_page,

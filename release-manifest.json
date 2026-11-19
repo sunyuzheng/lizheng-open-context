@@ -37,6 +37,7 @@
     "course_lessons": "the exact 23 maintainer-authorized 《真本事》 lesson texts in config/member-course-policy.json, under the Lizheng Reference Use License; course videos, slides, assignments, and comments stay members-only and are not included",
     "english_community": "exact reviewed public post allowlist; original author, publisher, AI translation and repost roles remain separate; third-party rights retained",
     "chinese_editions": "the exact texts in config/chinese-editions-policy.json: the free Chinese edition of Growth Data Analytics Playbook and Yuzheng's Statsig blog posts, AI rewrites in his Chinese voice under the Lizheng Reference Use License; they defer to the English originals, co-authors keep their share, and figures are reduced to captions",
+    "course_pages": "the exact extracts in config/course-pages-policy.json of the official course site and membership page, wording Yuzheng counts as his published text (2026-11-18), co-published with 鸭哥, under CC BY 4.0 like his other published text; learner reviews, learner stories and Q&A cases, endorsements, other authors' textbook excerpts, contact addresses and view-time labels are left out; each file is a dated snapshot of a living page",
     "english_video_translations": "canonical AI translations of currently allowlisted solo-Yuzheng public videos only; generation date is not a public publication date; source-family deduplication",
     "attribution": "AI synthesis is secondary-only; third-party and metadata-only sources cannot establish Yuzheng's stance; search relevance is separate from stance authority",
     "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md"
@@ -61,6 +62,7 @@
     "conversation_excerpt_files": 12,
     "conversation_excerpts": 132,
     "blog_posts_zh": 19,
+    "course_pages": 3,
     "community_comments_reviewed": 2519,
     "knowledge_bank_catalog": 169,
     "knowledge_bank_full_text": 36,
@@ -81,11 +83,11 @@
   "licenses": {
     "CC-BY-4.0": {
       "text": "LICENSES/CC-BY-4.0.txt",
-      "files": 947
+      "files": 950
     },
     "CC0-1.0": {
       "text": "LICENSES/CC0-1.0.txt",
-      "files": 45
+      "files": 48
     },
     "LicenseRef-Lizheng-Reference-Use-1.0": {
       "text": "LICENSES/LicenseRef-Lizheng-Reference-Use-1.0.md",
@@ -97,7 +99,7 @@
     },
     "MIT": {
       "text": "LICENSES/MIT.txt",
-      "files": 65
+      "files": 67
     }
   },
   "files": [
@@ -109,14 +111,14 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 6105,
-      "sha256": "f34be11a0eb4d34f807fa1c281de63d4221f689a4b8b546898446dfb0978612d",
+      "bytes": 6435,
+      "sha256": "4b150d39cacca599be58c95014cded2eb73c8b628a09db29ca746fbc298ded8c",
       "license": "MIT"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 26758,
-      "sha256": "c384d182f71594cac004ac76d30df2fd5c1458a11457e0dfefe655d9b576625f",
+      "bytes": 28355,
+      "sha256": "12b65e432171527214e1eae28f75a46f4b2da60c94c74d1b366df327efc5958f",
       "license": "MIT"
     },
     {
@@ -133,8 +135,8 @@
     },
     {
       "path": "INDEX.md",
-      "bytes": 10800,
-      "sha256": "cbb1a70aa7084752d75cd2a202d73b90dfe4c421e6712c453d587551223363c1",
+      "bytes": 11010,
+      "sha256": "a7125bb1ac740be0952ee7290bc50e4e29d3871a94d19aa6336960b6bd8a7e91",
       "license": "CC0-1.0"
     },
     {
@@ -187,8 +189,8 @@
     },
     {
       "path": "REUSE.toml",
-      "bytes": 46467,
-      "sha256": "73c0c711b623315418f4bcec0c91712f6310bd7ee7edb4746ef63a640e1d50fc",
+      "bytes": 46709,
+      "sha256": "96dc909193f7ead69af87aaeb5fdb3cae292da4ca93a56fd7dfd224d1982423c",
       "license": null
     },
     {
@@ -225,6 +227,12 @@
       "path": "catalog/course-lessons.jsonl",
       "bytes": 40408,
       "sha256": "cf9c7c3c5313c7ba8d481f0989fe9320afcb2e741048ebb94c2cf3da5b6ed3d8",
+      "license": "CC0-1.0"
+    },
+    {
+      "path": "catalog/course-pages.jsonl",
+      "bytes": 5367,
+      "sha256": "cfb1624c3ae123220176c78771729270e3e85909338c08f447713a07237ed15c",
       "license": "CC0-1.0"
     },
     {
@@ -303,6 +311,12 @@
       "path": "config/community-comment-review.json",
       "bytes": 183506,
       "sha256": "3a069ac8efe1410ddbc4b34be9d4f859c55456c1e0680d92111ac16214b230a5",
+      "license": "CC0-1.0"
+    },
+    {
+      "path": "config/course-pages-policy.json",
+      "bytes": 4222,
+      "sha256": "f787403e1f0bf7be10e14ae53a3a253f730fb52ac75615b53df7b26135463267",
       "license": "CC0-1.0"
     },
     {
@@ -571,8 +585,8 @@
     },
     {
       "path": "context/superlinear-courses-map.md",
-      "bytes": 38633,
-      "sha256": "aee812ddc1aadd27479e7739b83ccf89e879d5bab7145300763c236e82d04a6d",
+      "bytes": 38798,
+      "sha256": "d61368408655394de82c3f5f1623749f8feb541b8d96bb80ddec0497199dbdae",
       "license": "CC-BY-4.0"
     },
     {
@@ -4678,6 +4692,24 @@
       "bytes": 16428,
       "sha256": "bff346ecbe9960f91758a3046be3280bd57ea0039e2236909cf6af78fc146576",
       "license": "LicenseRef-Lizheng-Reference-Use-1.0"
+    },
+    {
+      "path": "corpus/course-pages/ai-builders-2027-curriculum.md",
+      "bytes": 14895,
+      "sha256": "2b591b848a30ce3a9609df43e214a918305195e0bb70c2f537ef9010ae824eaa",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/course-pages/ai-builders-2027.md",
+      "bytes": 17805,
+      "sha256": "b710f9c52159e25340406eececbd87f5714db791a223e5979361a7cc37b5a904",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "corpus/course-pages/stay-superlinear-membership.md",
+      "bytes": 20244,
+      "sha256": "3b7b8c850a33eebb6a6d57e3a70eee83e67a11f59b83a76e5a0d42e34f7e22e6",
+      "license": "CC-BY-4.0"
     },
     {
       "path": "corpus/dialogues/dialogue-circle-36677614.json",
@@ -10872,6 +10904,12 @@
       "license": "CC0-1.0"
     },
     {
+      "path": "index/course-pages.md",
+      "bytes": 2054,
+      "sha256": "35a7ff012a330ab66e40b2374244c2b002b0feb46a72957a4040a9ef85709665",
+      "license": "CC0-1.0"
+    },
+    {
       "path": "index/dialogues.md",
       "bytes": 138859,
       "sha256": "d854d66ca756dbb954b38165b2b33cdfcc0b1495fa09d759f0885ee56c51f197",
@@ -10939,8 +10977,8 @@
     },
     {
       "path": "scripts/build_index.py",
-      "bytes": 39190,
-      "sha256": "16d4d71b9e0d171ced2ace905b93959f599f184cd75bd73b4552af88abee07a7",
+      "bytes": 41227,
+      "sha256": "31baf0d0a9e4e6a5cf4ff99dfe4f6f7e50d01aee6d1407db85cca49199660a7e",
       "license": "MIT"
     },
     {
@@ -10977,6 +11015,12 @@
       "path": "scripts/import_chinese_editions.py",
       "bytes": 13051,
       "sha256": "3739b057693617dbc0cecd7af1a6c260c80ba5f00daa6b49c7d5b1dffcaa23a4",
+      "license": "MIT"
+    },
+    {
+      "path": "scripts/import_course_pages.py",
+      "bytes": 14710,
+      "sha256": "2dc1ebe279678c50a71e547c7f600bb76f210c2a609b3d46710214e53aba8e59",
       "license": "MIT"
     },
     {
@@ -11047,14 +11091,14 @@
     },
     {
       "path": "scripts/rights.py",
-      "bytes": 7133,
-      "sha256": "93b2db3e3c5625b1d0adb914510cc3912fadb657939a6d2307dc04824e9efd60",
+      "bytes": 7343,
+      "sha256": "742942102d2cddbef7ede026dbaa0ce7a80bbf491b711eac6cd7460e1c591cfa",
       "license": "MIT"
     },
     {
       "path": "scripts/search.py",
-      "bytes": 47067,
-      "sha256": "b3ed1d6d58b2d7e35a248d129d20773e709e4fbc8906c0e5c84aff9e07cfa68b",
+      "bytes": 47103,
+      "sha256": "ea690b981d3a33da3432197e219125a8f19734288622a04ba5989c55e9691eee",
       "license": "MIT"
     },
     {
@@ -11071,8 +11115,8 @@
     },
     {
       "path": "scripts/validate_release.py",
-      "bytes": 67474,
-      "sha256": "96365a8d5026a131d230447239b9ad99f79bd3a39928967149b9564d74b0225d",
+      "bytes": 71383,
+      "sha256": "12e858ff3359998c7136e3f939971d2dcd228c508c101a10b6dd32f19fb5af76",
       "license": "MIT"
     },
     {
@@ -11085,6 +11129,12 @@
       "path": "tests/test_chinese_editions.py",
       "bytes": 5865,
       "sha256": "5f799bcfef26ef52a5fc219efdebd62560ae6c17b65236f97c0dadb64f253ed3",
+      "license": "MIT"
+    },
+    {
+      "path": "tests/test_course_pages.py",
+      "bytes": 3779,
+      "sha256": "c3312e9b406b7c2d210742a4b793ea72a9259cb0dd83995b94b9111df22c8e7b",
       "license": "MIT"
     },
     {

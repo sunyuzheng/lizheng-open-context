@@ -36,6 +36,7 @@ The committed policies bind the approved public snapshots. New material follows 
 | Course texts | `config/member-course-policy.json` |
 | Chinese book and blog editions | `config/chinese-editions-policy.json`; retain original authors and translation status |
 | English community articles | `config/english-source-policy.json`; retain authors, translator, publisher and rights |
+| Official course and membership pages | `config/course-pages-policy.json` (`scripts/import_course_pages.py`): dated snapshots of the live pages, Yuzheng's published wording; learners' words, endorsements, other authors' excerpts, contact addresses and view-time labels left out; re-import after each release of the course site |
 
 Each source retains its license. Reference-use material supports reading, search, free Q&A and short quotation of at most 500 characters per document; paid reuse requires permission. Third-party works retain their authors' rights. See [LICENSE.md](LICENSE.md).
 

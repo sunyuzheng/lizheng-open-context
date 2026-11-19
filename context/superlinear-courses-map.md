@@ -23,7 +23,7 @@ source_context: "AI-authored map of the courses Yuzheng teaches, compiled from S
 
 # 课代表立正教什么：超线性学院的课程地图
 
-这份地图回答「课代表（立正）是教什么的」「AI Builders学什么、怎么学、多少钱」这一类问题，内容截至2026-11-18。课程本身以 [ai-builders.com](https://ai-builders.com) 和课程细节页 [ai-builders.com/curriculum](https://ai-builders.com/curriculum) 为准；价格、会员期限这类会变的事实，回答时要提醒以付款页为准。社区里2026年11月以前的课程帖讲的是当时的课程结构，哪些说法已经换了，见文末「已经过时的课程说法」。这份地图跟着课程站更新：课程结构、价格或权益变了，以课程站为准改这份文件。
+这份地图回答「课代表（立正）是教什么的」「AI Builders学什么、怎么学、多少钱」这一类问题，内容截至2026-11-18。课程本身以 [ai-builders.com](https://ai-builders.com) 和课程细节页 [ai-builders.com/curriculum](https://ai-builders.com/curriculum) 为准；价格、会员期限这类会变的事实，回答时要提醒以付款页为准。社区里2026年11月以前的课程帖讲的是当时的课程结构，哪些说法已经换了，见文末「已经过时的课程说法」。这份地图跟着课程站更新：课程结构、价格或权益变了，以课程站为准改这份文件。课程站和会员站页面本身的文字（快照）收在 [corpus/course-pages/](../corpus/course-pages/)，回答引用时用它们，这份地图只做导航。
 
 ## 课代表是教什么的：一句话回答
 

@@ -35,6 +35,7 @@ YUZHENG = "Yuzheng Sun (立正)"
 SPEAKERS = "Yuzheng Sun (立正); guests and other speakers keep the rights in their own words"
 AUTHORS = "The original authors named in each file"
 BOOK_EDITION = "Statsig Press (English original by Mengying Li, Joe Kumar and Yuzheng Sun); Chinese edition published by Yuzheng Sun (立正)"
+COURSE_PAGES = "Yuzheng Sun (立正) and 鸭哥, who publish the Superlinear Academy course and membership pages"
 BLOG_EDITIONS = "Yuzheng Sun (立正) and the co-authors named in each file; the English originals appeared on the Statsig blog"
 
 
@@ -68,6 +69,8 @@ def file_rights(relative: str, root: Path = ROOT) -> tuple[str, str] | None:
             return license, AUTHORS
         if fields.get("rights_scope") == "publisher-authorized-transcript" and fields.get("speaker_classification") != "solo-yuzheng":
             return license, SPEAKERS
+        if fields.get("source_type") == "course-page":
+            return license, COURSE_PAGES
         if fields.get("rights_scope") == "publisher-authorized-adaptation":
             return license, BOOK_EDITION if fields.get("source_type") == "book-chapter" else BLOG_EDITIONS
         return license, YUZHENG

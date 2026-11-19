@@ -209,6 +209,55 @@ def validate_chinese_editions(book_rows: list[dict], blog_rows: list[dict], poli
             errors.append(f"{folder}: catalog/files mismatch")
 
 
+COURSE_PAGES_AUTHORIZATION = "maintainer-request-2026-11-18-course-pages"
+COURSE_PAGE_FIELDS = {
+    "source_type": "course-page", "author": "Yuzheng Sun", "publisher": "Yuzheng Sun", "original_author": "Yuzheng Sun",
+    "rights_scope": "first-party", "license": "CC-BY-4.0", "review_status": "maintainer-authorized",
+    "content_origin": "yuzheng-published-text", "evidence_role": "published-source",
+    "yuzheng_stance_weight": "direct-with-quotation-boundaries", "content_status": "current",
+    "source_visibility": "public", "text_access": "public", "third_party_exclusions": True, "contact_data_redacted": True,
+    "inclusion_authorization": COURSE_PAGES_AUTHORIZATION, "full_text_included": True,
+}
+COURSE_PAGE_HEADING = re.compile(r"# [^\n]+\n\n> 原页面：[^\n]+\n\n")
+
+
+def validate_course_pages(rows: list[dict], policy: dict, errors: list[str]) -> None:
+    """The official course and membership pages: exactly the pinned extracts of his published wording, learners' words left out."""
+    if not (rows or policy):
+        return
+    if policy.get("authorization") != COURSE_PAGES_AUTHORIZATION:
+        errors.append("Course page policy lacks explicit maintainer authorization")
+        return
+    pages = {f"course-page-{page['key']}": page for page in policy.get("pages", [])}
+    if sorted(row.get("id") for row in rows) != sorted(pages):
+        errors.append("corpus/course-pages: catalog differs from the course page policy")
+    for row in rows:
+        page = pages.get(row.get("id"))
+        label = str(row.get("id"))
+        if not page:
+            continue
+        expected = {**COURSE_PAGE_FIELDS, "url": page["source_url"], "source_family": page["source_url"], "title": page["title"],
+                    "published_at": page["snapshot_at"], "snapshot_at": page["snapshot_at"],
+                    "corpus_path": f"corpus/course-pages/{page['key']}.md", "text_sha256": page.get("text_sha256")}
+        for key, value in expected.items():
+            if row.get(key) != value:
+                errors.append(f"{label}: invalid course page provenance {key}")
+        path = ROOT / expected["corpus_path"]
+        if not path.is_file():
+            continue
+        _, body = read_markdown(path)
+        heading = COURSE_PAGE_HEADING.match(body)
+        text = body[heading.end():] if heading else ""
+        if not heading or hashlib.sha256(text.encode("utf-8")).hexdigest() != page.get("text_sha256"):
+            errors.append(f"{label}: course page text differs from the pinned extract")
+        for phrase in page.get("must_not_contain", []):
+            if phrase in text:
+                errors.append(f"{label}: course page keeps {phrase!r}, which its policy leaves out")
+    actual = {str(path.relative_to(ROOT)) for path in (ROOT / "corpus/course-pages").glob("*.md")}
+    if actual != {row.get("corpus_path") for row in rows}:
+        errors.append("corpus/course-pages: catalog/files mismatch")
+
+
 VALUES_AUTHORIZATION = "maintainer-request-2026-10-04-values-conversations"
 PUBLIC_CONVERSATION_FIELDS = {
     "rights_scope": "publisher-authorized-transcript", "license": REFERENCE_USE, "speaker_classification": "mixed-or-unresolved",
@@ -743,6 +792,10 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
     editions_policy_path = ROOT / "config" / "chinese-editions-policy.json"
     editions_policy = read_json_object_without_duplicate_keys(editions_policy_path) if editions_policy_path.is_file() else {}
     validate_chinese_editions(book_rows, blog_rows, editions_policy, errors)
+    course_page_rows = read_jsonl(ROOT / "catalog" / "course-pages.jsonl") if (ROOT / "catalog" / "course-pages.jsonl").is_file() else []
+    course_pages_policy_path = ROOT / "config" / "course-pages-policy.json"
+    course_pages_policy = read_json_object_without_duplicate_keys(course_pages_policy_path) if course_pages_policy_path.is_file() else {}
+    validate_course_pages(course_page_rows, course_pages_policy, errors)
 
     member_path = ROOT / "config/member-video-policy.json"
     member_policy = read_json_object_without_duplicate_keys(member_path) if member_path.is_file() else {}
@@ -960,7 +1013,7 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
         ("community-comments", community_comment_rows), ("videos", video_rows),
         ("english-community", english_rows), ("english-translations", translation_rows),
         ("course-lessons", course_rows), ("book-chapters", book_rows), ("blog-posts", blog_rows),
-        ("conversation-excerpts", excerpt_rows),
+        ("course-pages", course_page_rows), ("conversation-excerpts", excerpt_rows),
     ], errors)
 
     return {
@@ -977,6 +1030,7 @@ def validate_rights(errors: list[str], *, verify_existing_manifest: bool = True)
         "conversation_excerpt_files": len(excerpt_rows),
         "conversation_excerpts": sum(int(row.get("excerpt_count") or 0) for row in excerpt_rows),
         "blog_posts_zh": len(blog_rows),
+        "course_pages": len(course_page_rows),
         "community_comments_reviewed": int(
             comment_policy.get("source_comments_reviewed") or 0
         ),
@@ -1034,6 +1088,7 @@ def build_manifest(stats: dict[str, int], license_map: dict[str, tuple[str, str]
             "course_lessons": "the exact 23 maintainer-authorized 《真本事》 lesson texts in config/member-course-policy.json, under the Lizheng Reference Use License; course videos, slides, assignments, and comments stay members-only and are not included",
             "english_community": "exact reviewed public post allowlist; original author, publisher, AI translation and repost roles remain separate; third-party rights retained",
             "chinese_editions": "the exact texts in config/chinese-editions-policy.json: the free Chinese edition of Growth Data Analytics Playbook and Yuzheng's Statsig blog posts, AI rewrites in his Chinese voice under the Lizheng Reference Use License; they defer to the English originals, co-authors keep their share, and figures are reduced to captions",
+            "course_pages": "the exact extracts in config/course-pages-policy.json of the official course site and membership page, wording Yuzheng counts as his published text (2026-11-18), co-published with 鸭哥, under CC BY 4.0 like his other published text; learner reviews, learner stories and Q&A cases, endorsements, other authors' textbook excerpts, contact addresses and view-time labels are left out; each file is a dated snapshot of a living page",
             "english_video_translations": "canonical AI translations of currently allowlisted solo-Yuzheng public videos only; generation date is not a public publication date; source-family deduplication",
             "attribution": "AI synthesis is secondary-only; third-party and metadata-only sources cannot establish Yuzheng's stance; search relevance is separate from stance authority",
             "rights": "one license per file, recorded below and in REUSE.toml; the plain-language overview is LICENSE.md",

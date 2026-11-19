@@ -265,6 +265,14 @@ SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
 path = [
+  "corpus/course-pages/**",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "Yuzheng Sun (立正) and 鸭哥, who publish the Superlinear Academy course and membership pages"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = [
   "corpus/book-chapters/**",
 ]
 precedence = "override"

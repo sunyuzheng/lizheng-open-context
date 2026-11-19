@@ -399,6 +399,7 @@ def load_documents() -> list[Document]:
         "corpus/course-lessons/*.md",
         "corpus/book-chapters/*.md",
         "corpus/blog-posts/*.md",
+        "corpus/course-pages/*.md",
         "corpus/conversation-excerpts/*.md",
     ):
         for path in sorted(ROOT.glob(pattern)):

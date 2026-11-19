@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "authorization": "maintainer-request-2026-11-18-course-pages",
+  "authorized_by": "立正，2026-11-18：课程站上的文字算他发表的原文；学员评价等别人的话不算。",
+  "attribution_note": "超线性学院官方页面上的文字，由立正和鸭哥发布；立正确认这些文字算他发表的原文。文中的“我们”指两位老师。学员评价、学员故事、别人写的教材节选不收。课程、价格和权益会变：这是快照当天的页面，以原页面为准。",
+  "source_context": "Official course or membership page as published on the snapshot date. Yuzheng counts its wording as his published text (2026-11-18); it is co-published with 鸭哥. Learners' words and other authors' excerpts are left out. A living page: the date is when this version was captured; prices and terms follow the live page.",
+  "pages": [
+    {
+      "key": "ai-builders-2027",
+      "title": "AI Builders 2027课程页：三门课学什么、怎么学、价格、两位老师和常见问题",
+      "source_url": "https://ai-builders.com/",
+      "fetch_url": "https://ai-builders-2027.vercel.app/",
+      "sections": [
+        "section.hero-solo",
+        "section.why",
+        "#case",
+        "#path",
+        "#method",
+        "#long-term",
+        "#pricing",
+        "#instructors",
+        "#faq"
+      ],
+      "drop": [
+        ".review-quote",
+        ".review-line",
+        ".member-qa-example",
+        ".faq-reviews",
+        ".witnesses",
+        "blockquote",
+        "cite"
+      ],
+      "chunk_at": [
+        "h2",
+        "summary"
+      ],
+      "must_contain": [
+        "AI Coding",
+        "AI Builders",
+        "AI Architect"
+      ],
+      "must_not_contain": [
+        "课程既讲AI思维",
+        "尊敬的[经理"
+      ],
+      "snapshot_at": "2026-11-18",
+      "html_sha256": "95f5c6ace7eecc8fdcd56cbbcdffe54e6211840feed80c5979cffaa50ab76b93",
+      "text_sha256": "bd04b9e2daf2f7343a42cd5dff6d8004332c61c9e4a94f9685a01ba0118237cf"
+    },
+    {
+      "key": "ai-builders-2027-curriculum",
+      "title": "AI Builders 2027三门课的细节：每门课练什么、学完能做到什么、全部课目",
+      "source_url": "https://ai-builders.com/curriculum",
+      "fetch_url": "https://ai-builders-2027.vercel.app/curriculum",
+      "sections": [
+        "section.cd"
+      ],
+      "drop": [
+        ".cd-index",
+        ".inside",
+        ".sample",
+        ".clip",
+        ".syllabus-example",
+        "summary",
+        "blockquote",
+        "cite"
+      ],
+      "chunk_at": [
+        "h2",
+        "h4",
+        "h5"
+      ],
+      "must_contain": [
+        "AI Coding",
+        "AI Builders",
+        "AI Architect"
+      ],
+      "must_not_contain": [
+        "这一节下面，学员的留言",
+        "教材原文 · 1.1节"
+      ],
+      "snapshot_at": "2026-11-18",
+      "html_sha256": "4f28e6f91167f399e5368cac057f6dd0954d9a68998b3df5fcc52d3d2da1faf5",
+      "text_sha256": "d47af0ee28bca300726b66a2d0826788f51fc8e20d4f3da7dbee7fa4e450ffe5"
+    },
+    {
+      "key": "stay-superlinear-membership",
+      "title": "超线性学院年费会员页：会员这一年有什么、两位联合创始人、价格、适合谁",
+      "source_url": "https://stay.superlinear.academy/",
+      "fetch_url": "https://stay.superlinear.academy/",
+      "sections": [
+        "section.hero-lead",
+        "#membership",
+        "#hosts",
+        "#pricing",
+        "#fit",
+        "#appendix"
+      ],
+      "drop": [
+        ".review-list",
+        ".review",
+        ".answer-review",
+        ".evidence-person",
+        ".host-endorsement",
+        "#qa",
+        "[data-next-masterclass]",
+        "[data-year-next]",
+        ".session-status",
+        "blockquote",
+        "cite"
+      ],
+      "chunk_at": [
+        "h2",
+        "h3",
+        "summary"
+      ],
+      "must_contain": [],
+      "must_not_contain": [
+        "下一场",
+        "已匿名并压缩整理"
+      ],
+      "snapshot_at": "2026-11-18",
+      "html_sha256": "d64629ee8d1e0cb8d96722995e87ff2c5055ff4f8fe6b4073080d375ddd1f481",
+      "text_sha256": "c580cc6443f927a7b5d629e607055fc98da35315539c60031dd94007ae8040c2"
+    }
+  ]
+}
