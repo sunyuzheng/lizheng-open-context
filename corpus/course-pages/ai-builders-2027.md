@@ -4,8 +4,8 @@ title: "AI Builders 2027课程页：三门课学什么、怎么学、价格、�
 author: "Yuzheng Sun"
 publisher: "Yuzheng Sun"
 original_author: "Yuzheng Sun"
-snapshot_at: "2026-11-18"
-published_at: "2026-11-18"
+snapshot_at: "2026-11-19"
+published_at: "2026-11-19"
 content_status: "current"
 rights_scope: "first-party"
 license: "CC-BY-4.0"
@@ -33,7 +33,7 @@ attribution_note: "超线性学院官方页面上的文字，由立正和鸭哥�
 
 # AI Builders 2027课程页：三门课学什么、怎么学、价格、两位老师和常见问题
 
-> 原页面：[https://ai-builders.com/](https://ai-builders.com/) · 本份文字取自 2026-11-18 的页面。
+> 原页面：[https://ai-builders.com/](https://ai-builders.com/) · 本份文字取自 2026-11-19 的页面。
 
 ### 同样的AI， 为什么有人用得更好？
 

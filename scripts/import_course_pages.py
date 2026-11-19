@@ -154,9 +154,37 @@ def render(node: Node, drop: list[str], sections: tuple[str, ...] = ("h2",)) -> 
         lines = [re.sub(r"[ \t\r\f\v]+", " ", line).strip(" ·") for line in text.split("\n")]
         return "\n".join(line for line in lines if line)
 
+    # Column names of the ARIA tables being read (role="table" built from divs, like a before/after table): each cell
+    # after the first is written under its column's name ("以前：…", "学完：…"), since the bare text of a row cannot
+    # say which column a sentence stood in. The header row itself is not written.
+    table_headers: list[list[str]] = []
+
     def walk(n: Node) -> None:
         if skipped(n):
             return
+        role = n.attrs.get("role")
+        if role == "table":
+            table_headers.append([])
+            walk_node(n)
+            table_headers.pop()
+            return
+        if role == "row" and table_headers:
+            cells = [c for c in n.children if isinstance(c, Node) and c.attrs.get("role") in {"cell", "columnheader", "rowheader"} and not skipped(c)]
+            if cells and all(c.attrs.get("role") == "columnheader" for c in cells):
+                table_headers[-1] = [clean(inline(c)).replace("\n", " ") for c in cells]
+                return
+            for index, cell in enumerate(cells):
+                label = table_headers[-1][index] if index < len(table_headers[-1]) else ""
+                if index == 0 or not label or re.fullmatch(r"h[1-6]", cell.tag):
+                    walk(cell)
+                    continue
+                text = clean(inline(cell)).replace("\n", " ")
+                if text:
+                    out.append(f"{label}：{text}")
+            return
+        walk_node(n)
+
+    def walk_node(n: Node) -> None:
         if n.tag == "summary":
             # A question in a list of questions and answers.
             text = clean(inline(n)).replace("\n", " ")

@@ -37,6 +37,18 @@ class CoursePageExtractionTests(unittest.TestCase):
         for absent in ("学员的评价", "某位学员", "下一场", "图标", "申请模板", "@"):
             self.assertNotIn(absent, text)
 
+    def test_a_before_after_table_names_its_columns(self):
+        html = """<html><body><section class="cd"><div class="change" role="table">
+<div class="change-head" role="row"><span role="columnheader">练什么</span><span role="columnheader">以前</span><span role="columnheader">学完</span></div>
+<div class="change-row" role="row"><h4 role="cell"><span>验收结果</span><span class="change-title">练习：报销单</span></h4>
+<p class="change-before" role="cell"><span class="phrases">看到完成就交差。</span></p><p class="change-after" role="cell">核对总数。</p></div>
+<div class="change-row" role="row"><h4 role="cell"><span>进阶</span></h4><p class="change-before" role="cell"></p><p class="change-after" role="cell">分得开数据。</p></div>
+</div></section></body></html>"""
+        text = pages.extract(html, {"key": "table", "sections": ["section.cd"], "chunk_at": ["h4"]})
+        self.assertIn("## 验收结果 · 练习：报销单\n\n以前：看到完成就交差。\n\n学完：核对总数。", text)
+        self.assertIn("## 进阶\n\n学完：分得开数据。", text)
+        self.assertNotIn("练什么", text)
+
     def test_a_changed_page_fails_instead_of_guessing(self):
         with self.assertRaisesRegex(ValueError, "matches 0 parts"):
             pages.extract(HTML, {**PAGE, "sections": ["#pricing"]})

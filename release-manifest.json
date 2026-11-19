@@ -232,7 +232,7 @@
     {
       "path": "catalog/course-pages.jsonl",
       "bytes": 5367,
-      "sha256": "1263386fcb0ee5558aad7cf8548e01c97d75639677d95cc74da7e8e8728f67a5",
+      "sha256": "b4685c68560082cc16bf17f6c15bea72f2b9171106e7c118d9cde3b1fa05e430",
       "license": "CC0-1.0"
     },
     {
@@ -316,7 +316,7 @@
     {
       "path": "config/course-pages-policy.json",
       "bytes": 4222,
-      "sha256": "d4209ab285b4c9921336d77dad290c76a4570c52a911d399b0c7586d27356b08",
+      "sha256": "83b371ee608349c3a7fffabd0af3a595d5e72f854d07e3a9c822c53eb55d625c",
       "license": "CC0-1.0"
     },
     {
@@ -4695,20 +4695,20 @@
     },
     {
       "path": "corpus/course-pages/ai-builders-2027-curriculum.md",
-      "bytes": 15062,
-      "sha256": "017e48599fb80b757b65e1e08a614e882a78c0f58ca19ae6a92d5cd1945c9e79",
+      "bytes": 15876,
+      "sha256": "4691469072b62e441d434674d816f35dc5cc2009696211ae04692cea7dbd1105",
       "license": "CC-BY-4.0"
     },
     {
       "path": "corpus/course-pages/ai-builders-2027.md",
       "bytes": 17814,
-      "sha256": "3d5cc073d0a54e0411e9cfc65bc3b7aa3b3023c0432a0d551d1f3c53bc321644",
+      "sha256": "749f0b8df422cd54dd695511ff944d2fb415e040d6ea97d67354a7966d143c51",
       "license": "CC-BY-4.0"
     },
     {
       "path": "corpus/course-pages/stay-superlinear-membership.md",
-      "bytes": 20244,
-      "sha256": "3b7b8c850a33eebb6a6d57e3a70eee83e67a11f59b83a76e5a0d42e34f7e22e6",
+      "bytes": 20270,
+      "sha256": "ad15a4e201428035cddacc77d708f151689c27b2da4da7b83a826eaf7d98c139",
       "license": "CC-BY-4.0"
     },
     {
@@ -10906,7 +10906,7 @@
     {
       "path": "index/course-pages.md",
       "bytes": 2054,
-      "sha256": "35a7ff012a330ab66e40b2374244c2b002b0feb46a72957a4040a9ef85709665",
+      "sha256": "e63380597238cf08753f5e12ec022ac028543d3ff9cc5c319296e395ae7fc49a",
       "license": "CC0-1.0"
     },
     {
@@ -11019,8 +11019,8 @@
     },
     {
       "path": "scripts/import_course_pages.py",
-      "bytes": 14710,
-      "sha256": "2dc1ebe279678c50a71e547c7f600bb76f210c2a609b3d46710214e53aba8e59",
+      "bytes": 16142,
+      "sha256": "3b573bdc5facc3e15b2af906dbc1f51676344820c27cb2f7500c1dc02229340f",
       "license": "MIT"
     },
     {
@@ -11133,8 +11133,8 @@
     },
     {
       "path": "tests/test_course_pages.py",
-      "bytes": 3779,
-      "sha256": "c3312e9b406b7c2d210742a4b793ea72a9259cb0dd83995b94b9111df22c8e7b",
+      "bytes": 4942,
+      "sha256": "a768d9a321be678ad109b1925eb842501777d83fb1f25774915405f604dcffc5",
       "license": "MIT"
     },
     {

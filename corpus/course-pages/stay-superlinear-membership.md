@@ -4,8 +4,8 @@ title: "超线性学院年费会员页：会员这一年有什么、两位联合
 author: "Yuzheng Sun"
 publisher: "Yuzheng Sun"
 original_author: "Yuzheng Sun"
-snapshot_at: "2026-11-18"
-published_at: "2026-11-18"
+snapshot_at: "2026-11-19"
+published_at: "2026-11-19"
 content_status: "current"
 rights_scope: "first-party"
 license: "CC-BY-4.0"
@@ -33,7 +33,7 @@ attribution_note: "超线性学院官方页面上的文字，由立正和鸭哥�
 
 # 超线性学院年费会员页：会员这一年有什么、两位联合创始人、价格、适合谁
 
-> 原页面：[https://stay.superlinear.academy/](https://stay.superlinear.academy/) · 本份文字取自 2026-11-18 的页面。
+> 原页面：[https://stay.superlinear.academy/](https://stay.superlinear.academy/) · 本份文字取自 2026-11-19 的页面。
 
 超线性学院 · 立正和鸭哥的年费会员
 
@@ -275,7 +275,7 @@ AI Coding课程目录
 
 ## 让AI帮你完成实际任务。
 
-搭好环境、说清要求、看懂报错；含PPT与非技术岗位应用加课。
+学会和AI分工：它动手，你讲清为什么做、验收结果；含PPT与非技术岗位应用加课。
 
 查看课程目录
 

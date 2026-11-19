@@ -11,6 +11,6 @@
 
 | 快照日期 | 页面 | 原页面 | 全文 |
 | --- | --- | --- | --- |
-| 2026-11-18 | AI Builders 2027课程页：三门课学什么、怎么学、价格、两位老师和常见问题 | [https://ai-builders.com/](https://ai-builders.com/) | [全文](../corpus/course-pages/ai-builders-2027.md) |
-| 2026-11-18 | AI Builders 2027三门课的细节：每门课练什么、学完能做到什么、全部课目 | [https://ai-builders.com/curriculum](https://ai-builders.com/curriculum) | [全文](../corpus/course-pages/ai-builders-2027-curriculum.md) |
-| 2026-11-18 | 超线性学院年费会员页：会员这一年有什么、两位联合创始人、价格、适合谁 | [https://stay.superlinear.academy/](https://stay.superlinear.academy/) | [全文](../corpus/course-pages/stay-superlinear-membership.md) |
+| 2026-11-19 | AI Builders 2027课程页：三门课学什么、怎么学、价格、两位老师和常见问题 | [https://ai-builders.com/](https://ai-builders.com/) | [全文](../corpus/course-pages/ai-builders-2027.md) |
+| 2026-11-19 | AI Builders 2027三门课的细节：每门课练什么、学完能做到什么、全部课目 | [https://ai-builders.com/curriculum](https://ai-builders.com/curriculum) | [全文](../corpus/course-pages/ai-builders-2027-curriculum.md) |
+| 2026-11-19 | 超线性学院年费会员页：会员这一年有什么、两位联合创始人、价格、适合谁 | [https://stay.superlinear.academy/](https://stay.superlinear.academy/) | [全文](../corpus/course-pages/stay-superlinear-membership.md) |
