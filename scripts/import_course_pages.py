@@ -41,8 +41,10 @@ EMAIL_NOTE = "（邮箱地址见原页面）"
 INVISIBLE = re.compile("[\u00ad\u200b\u200c\u200d\u2060\ufeff]")
 VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "source", "track", "wbr"}
 SKIP_TAGS = {"script", "style", "svg", "noscript", "template", "video", "audio", "picture", "img", "button", "iframe", "dialog"}
-# Wrappers that keep a phrase together on narrow screens: their pieces are one run of text.
-PHRASE_CLASSES = {"phrases", "phrase-lock", "halt", "arw-tie", "arw-tie-after", "arw-tie-before"}
+# Wrappers that keep a phrase together on narrow screens: their pieces are one run of text. "stop-line" is one line
+# of a sentence the course site sets on a line of its own on a desktop (release 61, 2026-11-19); the lines are still
+# one sentence, so they join without a separator.
+PHRASE_CLASSES = {"phrases", "phrase-lock", "halt", "arw-tie", "arw-tie-after", "arw-tie-before", "stop-line"}
 # Placed between two separate labels the page sets side by side ("01" "AI Coding" "跨过动手的门槛").
 SEPARATOR = "\x00"
 CJK = "\u3000-\u303f\u4e00-\u9fff\uff00-\uffef"

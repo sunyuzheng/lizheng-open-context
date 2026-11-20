@@ -49,6 +49,13 @@ class CoursePageExtractionTests(unittest.TestCase):
         self.assertIn("## 进阶\n\n学完：分得开数据。", text)
         self.assertNotIn("练什么", text)
 
+    def test_lines_of_one_sentence_join_without_a_separator(self):
+        html = """<html><body><section class="road"><p class="stop-can"><span class="stop-line"><span class="phrase-lock">一步一步，</span><span class="phrase-lock">构建系统：</span></span><span class="stop-line"><span class="phrase-lock">有聪明的内核。</span></span></p>
+<p class="fits"><b>天天写代码</b><span><span class="stop-line">决定水平的是架构。</span><span class="stop-line">你当管理者。</span></span></p></section></body></html>"""
+        text = pages.extract(html, {"key": "lines", "sections": ["section.road"]})
+        self.assertIn("一步一步，构建系统：有聪明的内核。", text)
+        self.assertIn("天天写代码 · 决定水平的是架构。你当管理者。", text)
+
     def test_a_changed_page_fails_instead_of_guessing(self):
         with self.assertRaisesRegex(ValueError, "matches 0 parts"):
             pages.extract(HTML, {**PAGE, "sections": ["#pricing"]})

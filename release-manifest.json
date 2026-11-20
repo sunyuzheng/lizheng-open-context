@@ -316,7 +316,7 @@
     {
       "path": "config/course-pages-policy.json",
       "bytes": 4222,
-      "sha256": "83b371ee608349c3a7fffabd0af3a595d5e72f854d07e3a9c822c53eb55d625c",
+      "sha256": "516bc48697a9161ea98ebd6dcbfc4988cbdbffa087a66ee5e56ad8ee6c22421a",
       "license": "CC0-1.0"
     },
     {
@@ -11019,8 +11019,8 @@
     },
     {
       "path": "scripts/import_course_pages.py",
-      "bytes": 16142,
-      "sha256": "3b573bdc5facc3e15b2af906dbc1f51676344820c27cb2f7500c1dc02229340f",
+      "bytes": 16346,
+      "sha256": "15fe15b78970c7336011873a4a617e77c391617241d5e98efb9ce43f2b8f141d",
       "license": "MIT"
     },
     {
@@ -11133,8 +11133,8 @@
     },
     {
       "path": "tests/test_course_pages.py",
-      "bytes": 4942,
-      "sha256": "a768d9a321be678ad109b1925eb842501777d83fb1f25774915405f604dcffc5",
+      "bytes": 5751,
+      "sha256": "ad32b46c1b61830c9192eb6ce83fb5c2c3cd8a367fc691a4f9182255a5f59bc2",
       "license": "MIT"
     },
     {
